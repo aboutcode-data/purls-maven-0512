@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.hive/hive-builtins@0.10.0
+- pkg:maven/org.apache.hive/hive-builtins@0.8.0
+- pkg:maven/org.apache.hive/hive-builtins@0.8.1
+- pkg:maven/org.apache.hive/hive-builtins@0.9.0

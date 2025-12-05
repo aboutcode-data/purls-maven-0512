@@ -1,0 +1,4 @@
+- pkg:maven/de.javakaffee/persistent-queue@1.0
+- pkg:maven/de.javakaffee/persistent-queue@1.0?classifier=sources
+- pkg:maven/de.javakaffee/persistent-queue@1.1
+- pkg:maven/de.javakaffee/persistent-queue@1.1?classifier=sources

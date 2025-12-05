@@ -1,0 +1,5 @@
+- pkg:maven/com.googlecode/kiama@0.8
+- pkg:maven/com.googlecode/kiama@0.8?classifier=sources
+- pkg:maven/com.googlecode/kiama@0.9.0
+- pkg:maven/com.googlecode/kiama@0.9.0-rc1
+- pkg:maven/com.googlecode/kiama@0.9.0?classifier=sources

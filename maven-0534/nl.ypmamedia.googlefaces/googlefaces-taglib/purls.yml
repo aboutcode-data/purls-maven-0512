@@ -1,0 +1,2 @@
+- pkg:maven/nl.ypmamedia.googlefaces/googlefaces-taglib@1.0.0-alpha2
+- pkg:maven/nl.ypmamedia.googlefaces/googlefaces-taglib@1.0.0-alpha2?classifier=sources

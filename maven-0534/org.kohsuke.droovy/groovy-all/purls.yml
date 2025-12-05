@@ -1,0 +1,2 @@
+- pkg:maven/org.kohsuke.droovy/groovy-all@1.6.3-kohsuke-1
+- pkg:maven/org.kohsuke.droovy/groovy-all@1.6.3-kohsuke-1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.databinder.giter8/ls_2.9.1@0.1.2-RC2
+- pkg:maven/net.databinder.giter8/ls_2.9.1@0.1.2-RC2?classifier=sources

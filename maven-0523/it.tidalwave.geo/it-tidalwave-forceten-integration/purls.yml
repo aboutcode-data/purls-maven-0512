@@ -1,0 +1,5 @@
+- pkg:maven/it.tidalwave.geo/it-tidalwave-forceten-integration@1.0.38?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-forceten-integration@1.0.39?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-forceten-integration@1.0.40?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-forceten-integration@1.0.41?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-forceten-integration@1.0.42?classifier=sources

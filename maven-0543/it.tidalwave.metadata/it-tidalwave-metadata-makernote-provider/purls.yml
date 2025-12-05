@@ -1,0 +1,5 @@
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-makernote-provider@1.0.23?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-makernote-provider@1.0.24?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-makernote-provider@1.0.25?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-makernote-provider@1.0.26?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-makernote-provider@1.0.27?classifier=sources

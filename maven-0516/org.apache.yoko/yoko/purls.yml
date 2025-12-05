@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.yoko/yoko@1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.yoko/yoko@1.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.yoko/yoko@1.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.yoko/yoko@1.4?classifier=source-release&type=zip

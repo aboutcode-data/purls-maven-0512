@@ -1,0 +1,16 @@
+- pkg:maven/com.wadpam.openserver/analytics@20
+- pkg:maven/com.wadpam.openserver/analytics@20?classifier=sources
+- pkg:maven/com.wadpam.openserver/analytics@21
+- pkg:maven/com.wadpam.openserver/analytics@21?classifier=sources
+- pkg:maven/com.wadpam.openserver/analytics@22
+- pkg:maven/com.wadpam.openserver/analytics@22?classifier=sources
+- pkg:maven/com.wadpam.openserver/analytics@25
+- pkg:maven/com.wadpam.openserver/analytics@25?classifier=sources
+- pkg:maven/com.wadpam.openserver/analytics@26
+- pkg:maven/com.wadpam.openserver/analytics@26?classifier=sources
+- pkg:maven/com.wadpam.openserver/analytics@27
+- pkg:maven/com.wadpam.openserver/analytics@27?classifier=sources
+- pkg:maven/com.wadpam.openserver/analytics@28
+- pkg:maven/com.wadpam.openserver/analytics@28?classifier=sources
+- pkg:maven/com.wadpam.openserver/analytics@29
+- pkg:maven/com.wadpam.openserver/analytics@29?classifier=sources

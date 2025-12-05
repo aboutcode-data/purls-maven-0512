@@ -1,0 +1,12 @@
+- pkg:maven/org.conventionsframework/conventions-core@0.9.4
+- pkg:maven/org.conventionsframework/conventions-core@0.9.4?classifier=sources
+- pkg:maven/org.conventionsframework/conventions-core@0.9.5
+- pkg:maven/org.conventionsframework/conventions-core@0.9.5?classifier=sources
+- pkg:maven/org.conventionsframework/conventions-core@0.9.6
+- pkg:maven/org.conventionsframework/conventions-core@0.9.6?classifier=sources
+- pkg:maven/org.conventionsframework/conventions-core@0.9.7
+- pkg:maven/org.conventionsframework/conventions-core@0.9.7?classifier=sources
+- pkg:maven/org.conventionsframework/conventions-core@1.0.0-RC1
+- pkg:maven/org.conventionsframework/conventions-core@1.0.0-RC1?classifier=sources
+- pkg:maven/org.conventionsframework/conventions-core@1.0.0-RC2
+- pkg:maven/org.conventionsframework/conventions-core@1.0.0-RC2?classifier=sources

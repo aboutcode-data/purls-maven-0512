@@ -1,0 +1,16 @@
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-alpha-12
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-alpha-12?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-alpha-13
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-alpha-13?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-beta-1
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-beta-1?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-beta-2
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-beta-2?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-beta-3
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-beta-3?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-beta-4
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-beta-4?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-beta-5
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-beta-5?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-beta-6
+- pkg:maven/org.jboss.shrinkwrap.sip/shrinkwrap-extension-sip-api@1.0.0-beta-6?classifier=sources

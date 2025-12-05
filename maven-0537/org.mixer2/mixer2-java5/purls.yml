@@ -1,0 +1,2 @@
+- pkg:maven/org.mixer2/mixer2-java5@0.1.2
+- pkg:maven/org.mixer2/mixer2-java5@0.1.2?classifier=sources

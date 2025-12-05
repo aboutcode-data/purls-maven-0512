@@ -1,0 +1,2 @@
+- pkg:maven/dk.jacobve.maven.archetypes/maven-archetype-flex@1.0
+- pkg:maven/dk.jacobve.maven.archetypes/maven-archetype-flex@1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.tiles/tiles-parent@2.2.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.tiles/tiles-parent@3.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.tiles/tiles-parent@3.0.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.tiles/tiles-parent@3.0.3?classifier=source-release&type=zip

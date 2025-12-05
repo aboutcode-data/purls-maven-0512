@@ -1,0 +1,6 @@
+- pkg:maven/com.wealdtech/wealdtech-configuration@1.0.0
+- pkg:maven/com.wealdtech/wealdtech-configuration@1.0.0?classifier=sources
+- pkg:maven/com.wealdtech/wealdtech-configuration@1.1.0
+- pkg:maven/com.wealdtech/wealdtech-configuration@1.1.0?classifier=sources
+- pkg:maven/com.wealdtech/wealdtech-configuration@1.2.0
+- pkg:maven/com.wealdtech/wealdtech-configuration@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.malliina/logback-rx_2.10@0.0.4
+- pkg:maven/com.github.malliina/logback-rx_2.10@0.0.4?classifier=sources

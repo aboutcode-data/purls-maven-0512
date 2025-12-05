@@ -1,0 +1,5 @@
+- pkg:maven/org.openscm.kundo.kernel/kernel-library@0.7
+- pkg:maven/org.openscm.kundo.kernel/kernel-library@0.7?classifier=sources
+- pkg:maven/org.openscm.kundo.kernel/kernel-library@0.8
+- pkg:maven/org.openscm.kundo.kernel/kernel-library@0.9
+- pkg:maven/org.openscm.kundo.kernel/kernel-library@0.9?classifier=sources

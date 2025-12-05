@@ -1,0 +1,6 @@
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat-ssl@2.3.10?classifier=sources
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat-ssl@2.3.10?type=war
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat-ssl@2.3.11?classifier=sources
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat-ssl@2.3.11?type=war
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat-ssl@2.3.9?classifier=sources
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-websockets-chat-ssl@2.3.9?type=war

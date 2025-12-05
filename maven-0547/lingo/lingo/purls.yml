@@ -1,0 +1,4 @@
+- pkg:maven/lingo/lingo@1.0
+- pkg:maven/lingo/lingo@1.0-M1?classifier=src&type=tar.gz
+- pkg:maven/lingo/lingo@1.0-M1?classifier=src&type=zip
+- pkg:maven/lingo/lingo@1.1

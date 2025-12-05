@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.forge/addons-api@2.0.0.Alpha4
+- pkg:maven/org.jboss.forge/addons-api@2.0.0.Alpha4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.thucydides.kendoui/kendoui-support@0.9.230
+- pkg:maven/net.thucydides.kendoui/kendoui-support@0.9.230?classifier=sources
+- pkg:maven/net.thucydides.kendoui/kendoui-support@0.9.231
+- pkg:maven/net.thucydides.kendoui/kendoui-support@0.9.231?classifier=sources

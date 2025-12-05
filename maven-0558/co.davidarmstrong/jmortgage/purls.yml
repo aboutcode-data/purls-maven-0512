@@ -1,0 +1,2 @@
+- pkg:maven/co.davidarmstrong/jmortgage@1.0.0
+- pkg:maven/co.davidarmstrong/jmortgage@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/nz.co.aetheric.shiva/webapp-angular@1.1.0?classifier=sources
+- pkg:maven/nz.co.aetheric.shiva/webapp-angular@1.1.0?type=war
+- pkg:maven/nz.co.aetheric.shiva/webapp-angular@1.1.1
+- pkg:maven/nz.co.aetheric.shiva/webapp-angular@1.1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.omnaest.i18nbinder/i18nbinder-maven-plugin-test@0.1.16
+- pkg:maven/org.omnaest.i18nbinder/i18nbinder-maven-plugin-test@0.1.16?classifier=sources
+- pkg:maven/org.omnaest.i18nbinder/i18nbinder-maven-plugin-test@0.1.17
+- pkg:maven/org.omnaest.i18nbinder/i18nbinder-maven-plugin-test@0.1.17?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/am.ik.marked4j/marked4j@0.9.0
+- pkg:maven/am.ik.marked4j/marked4j@0.9.0?classifier=sources
+- pkg:maven/am.ik.marked4j/marked4j@0.9.1
+- pkg:maven/am.ik.marked4j/marked4j@0.9.1?classifier=sources

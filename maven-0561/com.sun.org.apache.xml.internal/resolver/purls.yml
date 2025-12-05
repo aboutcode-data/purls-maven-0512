@@ -1,0 +1,2 @@
+- pkg:maven/com.sun.org.apache.xml.internal/resolver@20050927
+- pkg:maven/com.sun.org.apache.xml.internal/resolver@20050927?classifier=sources

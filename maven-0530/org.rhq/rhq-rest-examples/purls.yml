@@ -1,0 +1,5 @@
+- pkg:maven/org.rhq/rhq-rest-examples@4.10.0?type=war
+- pkg:maven/org.rhq/rhq-rest-examples@4.6.0?type=war
+- pkg:maven/org.rhq/rhq-rest-examples@4.7.0?type=war
+- pkg:maven/org.rhq/rhq-rest-examples@4.8.0?type=war
+- pkg:maven/org.rhq/rhq-rest-examples@4.9.0?type=war

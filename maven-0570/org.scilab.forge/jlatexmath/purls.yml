@@ -1,0 +1,4 @@
+- pkg:maven/org.scilab.forge/jlatexmath@0.9.6
+- pkg:maven/org.scilab.forge/jlatexmath@0.9.6?classifier=sources
+- pkg:maven/org.scilab.forge/jlatexmath@1.0.2
+- pkg:maven/org.scilab.forge/jlatexmath@1.0.2?classifier=sources

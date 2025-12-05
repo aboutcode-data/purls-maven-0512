@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mina@1.1.6_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mina@1.1.6_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mina@1.1.7_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mina@1.1.7_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mina@1.1.7_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mina@1.1.7_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mina@1.1.7_6
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mina@1.1.7_6?classifier=sources

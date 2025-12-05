@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.diamond/jradius-abfab-dictionary@1.1.4
+- pkg:maven/uk.ac.diamond/jradius-abfab-dictionary@1.1.4?classifier=sources

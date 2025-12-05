@@ -1,0 +1,4 @@
+- pkg:maven/com.github.kzwang/elasticsearch-river-dynamodb@1.0.0.RC1?classifier=sources
+- pkg:maven/com.github.kzwang/elasticsearch-river-dynamodb@1.0.0.RC1?type=zip
+- pkg:maven/com.github.kzwang/elasticsearch-river-dynamodb@1.0.0?classifier=sources
+- pkg:maven/com.github.kzwang/elasticsearch-river-dynamodb@1.0.0?type=zip

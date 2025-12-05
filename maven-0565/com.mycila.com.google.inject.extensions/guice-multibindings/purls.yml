@@ -1,0 +1,4 @@
+- pkg:maven/com.mycila.com.google.inject.extensions/guice-multibindings@3.0-20100907
+- pkg:maven/com.mycila.com.google.inject.extensions/guice-multibindings@3.0-20100907?classifier=sources
+- pkg:maven/com.mycila.com.google.inject.extensions/guice-multibindings@3.0-20100927
+- pkg:maven/com.mycila.com.google.inject.extensions/guice-multibindings@3.0-20100927?classifier=sources

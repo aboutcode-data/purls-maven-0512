@@ -1,0 +1,2 @@
+- pkg:maven/net.stepniak.api/storage@0.8.8
+- pkg:maven/net.stepniak.api/storage@0.8.8?classifier=sources

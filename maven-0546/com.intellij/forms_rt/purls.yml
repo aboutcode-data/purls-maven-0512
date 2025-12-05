@@ -1,0 +1,6 @@
+- pkg:maven/com.intellij/forms_rt@4.5.4
+- pkg:maven/com.intellij/forms_rt@5.0
+- pkg:maven/com.intellij/forms_rt@5.1
+- pkg:maven/com.intellij/forms_rt@6.0.3
+- pkg:maven/com.intellij/forms_rt@6.0.5
+- pkg:maven/com.intellij/forms_rt@7.0.3

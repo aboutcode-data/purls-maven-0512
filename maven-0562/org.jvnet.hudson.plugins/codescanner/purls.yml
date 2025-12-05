@@ -1,0 +1,7 @@
+- pkg:maven/org.jvnet.hudson.plugins/codescanner@0.10?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/codescanner@0.11?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/codescanner@0.5?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/codescanner@0.6?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/codescanner@0.7?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/codescanner@0.8?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/codescanner@0.9?classifier=sources

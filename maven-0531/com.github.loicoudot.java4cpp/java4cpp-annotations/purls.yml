@@ -1,0 +1,2 @@
+- pkg:maven/com.github.loicoudot.java4cpp/java4cpp-annotations@1.0.1
+- pkg:maven/com.github.loicoudot.java4cpp/java4cpp-annotations@1.0.1?classifier=sources

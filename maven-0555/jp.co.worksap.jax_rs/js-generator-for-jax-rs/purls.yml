@@ -1,0 +1,2 @@
+- pkg:maven/jp.co.worksap.jax_rs/js-generator-for-jax-rs@1.0.0
+- pkg:maven/jp.co.worksap.jax_rs/js-generator-for-jax-rs@1.0.0?classifier=sources

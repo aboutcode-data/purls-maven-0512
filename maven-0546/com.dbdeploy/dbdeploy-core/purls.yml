@@ -1,0 +1,2 @@
+- pkg:maven/com.dbdeploy/dbdeploy-core@3.0M3
+- pkg:maven/com.dbdeploy/dbdeploy-core@3.0M3?classifier=sources

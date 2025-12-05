@@ -1,0 +1,8 @@
+- pkg:maven/org.rhq/rhq-remoting-webservices@3.0.0
+- pkg:maven/org.rhq/rhq-remoting-webservices@3.0.0.EmbJopr2
+- pkg:maven/org.rhq/rhq-remoting-webservices@3.0.0.EmbJopr3
+- pkg:maven/org.rhq/rhq-remoting-webservices@3.0.1.GA
+- pkg:maven/org.rhq/rhq-remoting-webservices@4.0.0.B02
+- pkg:maven/org.rhq/rhq-remoting-webservices@4.0.0.Beta1
+- pkg:maven/org.rhq/rhq-remoting-webservices@4.5.1
+- pkg:maven/org.rhq/rhq-remoting-webservices@4.5.1?classifier=sources

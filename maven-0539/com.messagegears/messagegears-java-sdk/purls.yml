@@ -1,0 +1,4 @@
+- pkg:maven/com.messagegears/messagegears-java-sdk@3.1.12
+- pkg:maven/com.messagegears/messagegears-java-sdk@3.1.12?classifier=sources
+- pkg:maven/com.messagegears/messagegears-java-sdk@3.1.13
+- pkg:maven/com.messagegears/messagegears-java-sdk@3.1.13?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/tr.com.lucidcode/kite-framework@1.0.1
+- pkg:maven/tr.com.lucidcode/kite-framework@1.0.1?classifier=sources

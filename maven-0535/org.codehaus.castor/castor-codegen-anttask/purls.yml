@@ -1,0 +1,6 @@
+- pkg:maven/org.codehaus.castor/castor-codegen-anttask@1.1
+- pkg:maven/org.codehaus.castor/castor-codegen-anttask@1.1-M2
+- pkg:maven/org.codehaus.castor/castor-codegen-anttask@1.1-M2?classifier=sources
+- pkg:maven/org.codehaus.castor/castor-codegen-anttask@1.1-M3
+- pkg:maven/org.codehaus.castor/castor-codegen-anttask@1.1-M3?classifier=sources
+- pkg:maven/org.codehaus.castor/castor-codegen-anttask@1.1?classifier=sources

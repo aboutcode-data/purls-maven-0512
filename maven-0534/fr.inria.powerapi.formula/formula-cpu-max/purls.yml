@@ -1,0 +1,4 @@
+- pkg:maven/fr.inria.powerapi.formula/formula-cpu-max@1.4
+- pkg:maven/fr.inria.powerapi.formula/formula-cpu-max@1.4?classifier=sources
+- pkg:maven/fr.inria.powerapi.formula/formula-cpu-max@1.5
+- pkg:maven/fr.inria.powerapi.formula/formula-cpu-max@1.5?classifier=sources

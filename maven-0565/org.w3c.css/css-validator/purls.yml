@@ -1,0 +1,2 @@
+- pkg:maven/org.w3c.css/css-validator@20100131
+- pkg:maven/org.w3c.css/css-validator@20100131?classifier=sources

@@ -1,0 +1,9 @@
+- pkg:maven/org.vraptor/vraptor-distribution@2.4
+- pkg:maven/org.vraptor/vraptor-distribution@2.4?classifier=src&type=zip
+- pkg:maven/org.vraptor/vraptor-distribution@2.5.0
+- pkg:maven/org.vraptor/vraptor-distribution@2.5.0?classifier=src&type=zip
+- pkg:maven/org.vraptor/vraptor-distribution@2.5.1
+- pkg:maven/org.vraptor/vraptor-distribution@2.5.1?classifier=src&type=zip
+- pkg:maven/org.vraptor/vraptor-distribution@2.6.0
+- pkg:maven/org.vraptor/vraptor-distribution@2.6.0?classifier=sources
+- pkg:maven/org.vraptor/vraptor-distribution@2.6.0?classifier=src&type=zip

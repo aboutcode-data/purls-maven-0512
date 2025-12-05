@@ -1,0 +1,8 @@
+- pkg:maven/fr.exanpe/exanpe-t5-lib@1.0.0
+- pkg:maven/fr.exanpe/exanpe-t5-lib@1.0.0?classifier=sources
+- pkg:maven/fr.exanpe/exanpe-t5-lib@1.1.0
+- pkg:maven/fr.exanpe/exanpe-t5-lib@1.1.0?classifier=sources
+- pkg:maven/fr.exanpe/exanpe-t5-lib@1.2.0
+- pkg:maven/fr.exanpe/exanpe-t5-lib@1.2.0?classifier=sources
+- pkg:maven/fr.exanpe/exanpe-t5-lib@1.2.1
+- pkg:maven/fr.exanpe/exanpe-t5-lib@1.2.1?classifier=sources

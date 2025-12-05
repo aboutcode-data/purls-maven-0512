@@ -1,0 +1,2 @@
+- pkg:maven/eu.kratochvil.perfmon/perfmon-db@0.1
+- pkg:maven/eu.kratochvil.perfmon/perfmon-db@0.1?classifier=sources

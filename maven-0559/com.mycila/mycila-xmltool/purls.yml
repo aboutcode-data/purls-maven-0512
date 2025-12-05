@@ -1,0 +1,10 @@
+- pkg:maven/com.mycila/mycila-xmltool@2.0.rc1
+- pkg:maven/com.mycila/mycila-xmltool@2.0.rc1?classifier=sources
+- pkg:maven/com.mycila/mycila-xmltool@4.0.ga
+- pkg:maven/com.mycila/mycila-xmltool@4.0.ga?classifier=sources
+- pkg:maven/com.mycila/mycila-xmltool@4.0.rc1
+- pkg:maven/com.mycila/mycila-xmltool@4.0.rc1?classifier=sources
+- pkg:maven/com.mycila/mycila-xmltool@4.1.ga
+- pkg:maven/com.mycila/mycila-xmltool@4.1.ga?classifier=sources
+- pkg:maven/com.mycila/mycila-xmltool@4.2.ga
+- pkg:maven/com.mycila/mycila-xmltool@4.2.ga?classifier=sources

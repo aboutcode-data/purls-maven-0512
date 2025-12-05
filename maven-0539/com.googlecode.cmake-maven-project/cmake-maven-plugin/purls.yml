@@ -1,0 +1,10 @@
+- pkg:maven/com.googlecode.cmake-maven-project/cmake-maven-plugin@0.3
+- pkg:maven/com.googlecode.cmake-maven-project/cmake-maven-plugin@0.3?classifier=sources
+- pkg:maven/com.googlecode.cmake-maven-project/cmake-maven-plugin@2.8.10.2-b2
+- pkg:maven/com.googlecode.cmake-maven-project/cmake-maven-plugin@2.8.10.2-b2?classifier=sources
+- pkg:maven/com.googlecode.cmake-maven-project/cmake-maven-plugin@2.8.11-b4
+- pkg:maven/com.googlecode.cmake-maven-project/cmake-maven-plugin@2.8.11-b4?classifier=sources
+- pkg:maven/com.googlecode.cmake-maven-project/cmake-maven-plugin@2.8.7-b4
+- pkg:maven/com.googlecode.cmake-maven-project/cmake-maven-plugin@2.8.7-b4?classifier=sources
+- pkg:maven/com.googlecode.cmake-maven-project/cmake-maven-plugin@2.8.8-b1
+- pkg:maven/com.googlecode.cmake-maven-project/cmake-maven-plugin@2.8.8-b1?classifier=sources

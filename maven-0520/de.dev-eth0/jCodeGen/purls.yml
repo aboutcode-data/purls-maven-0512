@@ -1,0 +1,4 @@
+- pkg:maven/de.dev-eth0/jCodeGen@0.11
+- pkg:maven/de.dev-eth0/jCodeGen@0.11-2
+- pkg:maven/de.dev-eth0/jCodeGen@0.11-2?classifier=sources
+- pkg:maven/de.dev-eth0/jCodeGen@0.11?classifier=sources

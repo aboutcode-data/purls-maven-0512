@@ -1,0 +1,4 @@
+- pkg:maven/org.mobicents.protocols.ss7.management/linkset@1.0.0.FINAL
+- pkg:maven/org.mobicents.protocols.ss7.management/linkset@1.0.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.protocols.ss7.management/linkset@2.0.0.BETA1
+- pkg:maven/org.mobicents.protocols.ss7.management/linkset@2.0.0.BETA1?classifier=sources

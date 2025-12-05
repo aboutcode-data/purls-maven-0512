@@ -1,0 +1,4 @@
+- pkg:maven/org.wicketstuff/jwicket-ui-menu@1.4.9.1
+- pkg:maven/org.wicketstuff/jwicket-ui-menu@1.4.9.1?classifier=sources
+- pkg:maven/org.wicketstuff/jwicket-ui-menu@1.4.9.2
+- pkg:maven/org.wicketstuff/jwicket-ui-menu@1.4.9.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.jvnet.hudson.plugins/serenity@0.1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/serenity@0.2?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/serenity@0.3?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/serenity@0.4?classifier=sources

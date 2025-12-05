@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars/vkbeautify@0.99.00.beta
+- pkg:maven/org.webjars/vkbeautify@0.99.00.beta?classifier=sources

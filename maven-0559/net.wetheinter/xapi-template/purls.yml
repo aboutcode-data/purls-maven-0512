@@ -1,0 +1,2 @@
+- pkg:maven/net.wetheinter/xapi-template@0.2
+- pkg:maven/net.wetheinter/xapi-template@0.2?classifier=sources

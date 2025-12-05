@@ -1,0 +1,2 @@
+- pkg:maven/com.54chen/bmwutils@0.0.2
+- pkg:maven/com.54chen/bmwutils@0.0.2?classifier=sources

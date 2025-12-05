@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.log4jdbc/log4jdbc@1.2
+- pkg:maven/com.googlecode.log4jdbc/log4jdbc@1.2?classifier=sources

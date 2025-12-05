@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.mojo.groovy.runtime/groovy-runtime-default@1.0-beta-3
+- pkg:maven/org.codehaus.mojo.groovy.runtime/groovy-runtime-default@1.0-beta-3?classifier=sources

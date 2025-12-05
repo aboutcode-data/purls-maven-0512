@@ -1,0 +1,2 @@
+- pkg:maven/com.sun.jersey.oauth/oauth-tests@1.1.1-ea
+- pkg:maven/com.sun.jersey.oauth/oauth-tests@1.1.1-ea?classifier=sources

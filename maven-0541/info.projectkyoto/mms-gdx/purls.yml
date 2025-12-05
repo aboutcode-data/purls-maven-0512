@@ -1,0 +1,2 @@
+- pkg:maven/info.projectkyoto/mms-gdx@0.8.0
+- pkg:maven/info.projectkyoto/mms-gdx@0.8.0?classifier=sources

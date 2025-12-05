@@ -1,0 +1,6 @@
+- pkg:maven/org.springmodules/spring-modules-ant@0.7
+- pkg:maven/org.springmodules/spring-modules-ant@0.7?classifier=sources
+- pkg:maven/org.springmodules/spring-modules-ant@0.8
+- pkg:maven/org.springmodules/spring-modules-ant@0.8?classifier=sources
+- pkg:maven/org.springmodules/spring-modules-ant@0.8a
+- pkg:maven/org.springmodules/spring-modules-ant@0.8a?classifier=sources

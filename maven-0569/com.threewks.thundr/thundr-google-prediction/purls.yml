@@ -1,0 +1,2 @@
+- pkg:maven/com.threewks.thundr/thundr-google-prediction@0.0.1-alpha
+- pkg:maven/com.threewks.thundr/thundr-google-prediction@0.0.1-alpha?classifier=sources

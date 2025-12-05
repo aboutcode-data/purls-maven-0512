@@ -1,0 +1,2 @@
+- pkg:maven/sk.seges.corpis/corpis-application-scaffold-datainterface-processor@1.2.0
+- pkg:maven/sk.seges.corpis/corpis-application-scaffold-datainterface-processor@1.2.0?classifier=sources

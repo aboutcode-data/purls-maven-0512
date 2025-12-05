@@ -1,0 +1,2 @@
+- pkg:maven/org.realityforge.sqlshell/sqlshell@0.7
+- pkg:maven/org.realityforge.sqlshell/sqlshell@0.7?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.solr/solr-uima-an-alchemy@3.1.0
+- pkg:maven/org.apache.solr/solr-uima-an-alchemy@3.2.0
+- pkg:maven/org.apache.solr/solr-uima-an-alchemy@3.3.0
+- pkg:maven/org.apache.solr/solr-uima-an-alchemy@3.4.0

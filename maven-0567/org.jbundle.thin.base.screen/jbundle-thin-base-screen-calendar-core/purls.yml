@@ -1,0 +1,2 @@
+- pkg:maven/org.jbundle.thin.base.screen/jbundle-thin-base-screen-calendar-core@0.7.2
+- pkg:maven/org.jbundle.thin.base.screen/jbundle-thin-base-screen-calendar-core@0.7.2?classifier=sources

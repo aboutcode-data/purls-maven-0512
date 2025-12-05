@@ -1,0 +1,4 @@
+- pkg:maven/com.googlecode.appassembler-maven-plugin/appassembler-maven-plugin@0.2
+- pkg:maven/com.googlecode.appassembler-maven-plugin/appassembler-maven-plugin@0.2?classifier=sources
+- pkg:maven/com.googlecode.appassembler-maven-plugin/appassembler-maven-plugin@1.0
+- pkg:maven/com.googlecode.appassembler-maven-plugin/appassembler-maven-plugin@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.awired.js/curl@0.5.4?classifier=sources
+- pkg:maven/net.awired.js/curl@0.5.4?type=war

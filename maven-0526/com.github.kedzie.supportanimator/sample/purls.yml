@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kedzie.supportanimator/sample@13.0.0?classifier=sources
+- pkg:maven/com.github.kedzie.supportanimator/sample@19.0.0?classifier=sources

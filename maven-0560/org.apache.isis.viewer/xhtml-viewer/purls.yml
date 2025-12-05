@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.isis.viewer/xhtml-viewer@0.1.2-incubating
+- pkg:maven/org.apache.isis.viewer/xhtml-viewer@0.1.2-incubating?classifier=sources

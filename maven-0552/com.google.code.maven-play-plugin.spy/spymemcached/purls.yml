@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.maven-play-plugin.spy/spymemcached@2.6
+- pkg:maven/com.google.code.maven-play-plugin.spy/spymemcached@2.6?classifier=sources

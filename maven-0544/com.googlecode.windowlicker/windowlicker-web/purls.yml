@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.windowlicker/windowlicker-web@r268
+- pkg:maven/com.googlecode.windowlicker/windowlicker-web@r268?classifier=sources

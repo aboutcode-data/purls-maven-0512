@@ -1,0 +1,8 @@
+- pkg:maven/net.virtual-void/json-lenses_2.10@0.5.1
+- pkg:maven/net.virtual-void/json-lenses_2.10@0.5.1?classifier=sources
+- pkg:maven/net.virtual-void/json-lenses_2.10@0.5.2
+- pkg:maven/net.virtual-void/json-lenses_2.10@0.5.2?classifier=sources
+- pkg:maven/net.virtual-void/json-lenses_2.10@0.5.3
+- pkg:maven/net.virtual-void/json-lenses_2.10@0.5.3?classifier=sources
+- pkg:maven/net.virtual-void/json-lenses_2.10@0.5.4
+- pkg:maven/net.virtual-void/json-lenses_2.10@0.5.4?classifier=sources

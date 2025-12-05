@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.hudson.plugins/cron_column@1.002?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cron_column@1.003?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.nuiton.thirdparty/webstart-maven-plugin@1.0-alpha-2-cl_20090204
+- pkg:maven/org.nuiton.thirdparty/webstart-maven-plugin@1.0-alpha-2-cl_20090204?classifier=sources
+- pkg:maven/org.nuiton.thirdparty/webstart-maven-plugin@1.0-alpha-2-cl_20091001
+- pkg:maven/org.nuiton.thirdparty/webstart-maven-plugin@1.0-alpha-2-cl_20091001?classifier=sources
+- pkg:maven/org.nuiton.thirdparty/webstart-maven-plugin@1.0-alpha-2-cl_20100511
+- pkg:maven/org.nuiton.thirdparty/webstart-maven-plugin@1.0-alpha-2-cl_20100511?classifier=sources

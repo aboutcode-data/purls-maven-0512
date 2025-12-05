@@ -1,0 +1,2 @@
+- pkg:maven/org.khronos/opengl-api@gl1.1-android-2.1_r1
+- pkg:maven/org.khronos/opengl-api@gl1.1-android-2.1_r1?classifier=sources

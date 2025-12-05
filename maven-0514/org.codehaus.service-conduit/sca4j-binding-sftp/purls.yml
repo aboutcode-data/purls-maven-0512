@@ -1,0 +1,6 @@
+- pkg:maven/org.codehaus.service-conduit/sca4j-binding-sftp@0.9.6
+- pkg:maven/org.codehaus.service-conduit/sca4j-binding-sftp@0.9.6?classifier=sources
+- pkg:maven/org.codehaus.service-conduit/sca4j-binding-sftp@0.9.8
+- pkg:maven/org.codehaus.service-conduit/sca4j-binding-sftp@0.9.8?classifier=sources
+- pkg:maven/org.codehaus.service-conduit/sca4j-binding-sftp@0.9.9
+- pkg:maven/org.codehaus.service-conduit/sca4j-binding-sftp@0.9.9?classifier=sources

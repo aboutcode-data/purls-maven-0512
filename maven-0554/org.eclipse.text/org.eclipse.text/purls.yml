@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.text/org.eclipse.text@3.5.101
+- pkg:maven/org.eclipse.text/org.eclipse.text@3.5.101?classifier=sources

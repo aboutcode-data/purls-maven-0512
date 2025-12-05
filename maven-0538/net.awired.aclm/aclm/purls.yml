@@ -1,0 +1,4 @@
+- pkg:maven/net.awired.aclm/aclm@0.1.2
+- pkg:maven/net.awired.aclm/aclm@0.1.2?classifier=sources
+- pkg:maven/net.awired.aclm/aclm@0.2
+- pkg:maven/net.awired.aclm/aclm@0.2?classifier=sources

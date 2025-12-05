@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tuscany.sca/tuscany-zip-plugin@alpha3
+- pkg:maven/org.apache.tuscany.sca/tuscany-zip-plugin@alpha3?classifier=sources

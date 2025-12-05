@@ -1,0 +1,2 @@
+- pkg:maven/de.crowdcode.kissmda.cartridges/kissmda-extensions-import-packer@1.0.0
+- pkg:maven/de.crowdcode.kissmda.cartridges/kissmda-extensions-import-packer@1.0.0?classifier=sources

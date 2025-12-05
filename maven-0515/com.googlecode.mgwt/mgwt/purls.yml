@@ -1,0 +1,16 @@
+- pkg:maven/com.googlecode.mgwt/mgwt@1.0-beta1
+- pkg:maven/com.googlecode.mgwt/mgwt@1.0-beta1?classifier=sources
+- pkg:maven/com.googlecode.mgwt/mgwt@1.0.0
+- pkg:maven/com.googlecode.mgwt/mgwt@1.0.0?classifier=sources
+- pkg:maven/com.googlecode.mgwt/mgwt@1.0.1
+- pkg:maven/com.googlecode.mgwt/mgwt@1.0.1?classifier=sources
+- pkg:maven/com.googlecode.mgwt/mgwt@1.0.2
+- pkg:maven/com.googlecode.mgwt/mgwt@1.0.2?classifier=sources
+- pkg:maven/com.googlecode.mgwt/mgwt@1.1.0
+- pkg:maven/com.googlecode.mgwt/mgwt@1.1.0?classifier=sources
+- pkg:maven/com.googlecode.mgwt/mgwt@1.1.1
+- pkg:maven/com.googlecode.mgwt/mgwt@1.1.1?classifier=sources
+- pkg:maven/com.googlecode.mgwt/mgwt@1.1.2
+- pkg:maven/com.googlecode.mgwt/mgwt@1.1.2?classifier=sources
+- pkg:maven/com.googlecode.mgwt/mgwt@2.0.0-m1-alpha
+- pkg:maven/com.googlecode.mgwt/mgwt@2.0.0-m1-alpha?classifier=sources

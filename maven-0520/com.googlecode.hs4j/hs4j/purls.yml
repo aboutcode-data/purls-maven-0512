@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.hs4j/hs4j@0.1
+- pkg:maven/com.googlecode.hs4j/hs4j@0.1?classifier=sources

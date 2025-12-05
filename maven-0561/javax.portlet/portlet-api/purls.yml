@@ -1,0 +1,4 @@
+- pkg:maven/javax.portlet/portlet-api@1.0
+- pkg:maven/javax.portlet/portlet-api@2.0
+- pkg:maven/javax.portlet/portlet-api@2.0-r12
+- pkg:maven/javax.portlet/portlet-api@2.0?classifier=sources

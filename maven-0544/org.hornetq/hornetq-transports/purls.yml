@@ -1,0 +1,12 @@
+- pkg:maven/org.hornetq/hornetq-transports@2.0.0.BETA5
+- pkg:maven/org.hornetq/hornetq-transports@2.0.0.CR2
+- pkg:maven/org.hornetq/hornetq-transports@2.0.0.CR3
+- pkg:maven/org.hornetq/hornetq-transports@2.0.0.GA
+- pkg:maven/org.hornetq/hornetq-transports@2.1.0.BETA1
+- pkg:maven/org.hornetq/hornetq-transports@2.1.0.r8931
+- pkg:maven/org.hornetq/hornetq-transports@2.1.0.r8936
+- pkg:maven/org.hornetq/hornetq-transports@2.1.0.r8938
+- pkg:maven/org.hornetq/hornetq-transports@2.1.0.r8945
+- pkg:maven/org.hornetq/hornetq-transports@2.1.0.r8956
+- pkg:maven/org.hornetq/hornetq-transports@2.1.0.r9008
+- pkg:maven/org.hornetq/hornetq-transports@2.1.0.r9031

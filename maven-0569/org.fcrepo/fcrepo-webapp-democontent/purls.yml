@@ -1,0 +1,7 @@
+- pkg:maven/org.fcrepo/fcrepo-webapp-democontent@3.5?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-webapp-democontent@3.5?type=war
+- pkg:maven/org.fcrepo/fcrepo-webapp-democontent@3.6.1?type=war
+- pkg:maven/org.fcrepo/fcrepo-webapp-democontent@3.6.2?type=war
+- pkg:maven/org.fcrepo/fcrepo-webapp-democontent@3.6?type=war
+- pkg:maven/org.fcrepo/fcrepo-webapp-democontent@3.7.0?type=war
+- pkg:maven/org.fcrepo/fcrepo-webapp-democontent@3.7.1?type=war

@@ -1,0 +1,4 @@
+- pkg:maven/com.devbliss/gwtbliss-effect@1.0.0
+- pkg:maven/com.devbliss/gwtbliss-effect@1.0.0?classifier=sources
+- pkg:maven/com.devbliss/gwtbliss-effect@1.1.0
+- pkg:maven/com.devbliss/gwtbliss-effect@1.1.0?classifier=sources

@@ -1,0 +1,9 @@
+- pkg:maven/org.jboss.deployers/jboss-deployers-dist@2.0.10.GA?classifier=src&type=zip
+- pkg:maven/org.jboss.deployers/jboss-deployers-dist@2.0.4.GA?classifier=src&type=zip
+- pkg:maven/org.jboss.deployers/jboss-deployers-dist@2.0.5.GA?classifier=src&type=zip
+- pkg:maven/org.jboss.deployers/jboss-deployers-dist@2.0.5.SP1?classifier=src&type=zip
+- pkg:maven/org.jboss.deployers/jboss-deployers-dist@2.0.6.GA?classifier=src&type=zip
+- pkg:maven/org.jboss.deployers/jboss-deployers-dist@2.0.7.GA?classifier=src&type=zip
+- pkg:maven/org.jboss.deployers/jboss-deployers-dist@2.0.8.GA?classifier=src&type=zip
+- pkg:maven/org.jboss.deployers/jboss-deployers-dist@2.0.8.SP1?classifier=src&type=zip
+- pkg:maven/org.jboss.deployers/jboss-deployers-dist@2.0.9.GA?classifier=src&type=zip

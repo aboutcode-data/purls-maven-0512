@@ -1,0 +1,2 @@
+- pkg:maven/org.hudsonci.plugins.findbugs/library@2.0.1-h-1
+- pkg:maven/org.hudsonci.plugins.findbugs/library@2.0.1-h-1?classifier=sources

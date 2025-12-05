@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.guvnor/guvnor-workitems-editor-backend@6.0.0.Beta2
+- pkg:maven/org.kie.guvnor/guvnor-workitems-editor-backend@6.0.0.Beta2?classifier=sources

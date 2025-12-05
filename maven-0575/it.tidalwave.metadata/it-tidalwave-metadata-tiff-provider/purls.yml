@@ -1,0 +1,5 @@
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-tiff-provider@1.2.25?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-tiff-provider@1.2.26?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-tiff-provider@1.2.27?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-tiff-provider@1.2.28?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-tiff-provider@1.2.29?classifier=sources

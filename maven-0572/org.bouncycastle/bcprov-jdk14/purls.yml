@@ -1,0 +1,12 @@
+- pkg:maven/org.bouncycastle/bcprov-jdk14@1.38?classifier=sources
+- pkg:maven/org.bouncycastle/bcprov-jdk14@1.43?classifier=sources
+- pkg:maven/org.bouncycastle/bcprov-jdk14@1.44?classifier=sources
+- pkg:maven/org.bouncycastle/bcprov-jdk14@1.45?classifier=sources
+- pkg:maven/org.bouncycastle/bcprov-jdk14@1.46?classifier=sources
+- pkg:maven/org.bouncycastle/bcprov-jdk14@1.47?classifier=sources
+- pkg:maven/org.bouncycastle/bcprov-jdk14@1.48
+- pkg:maven/org.bouncycastle/bcprov-jdk14@1.48?classifier=sources
+- pkg:maven/org.bouncycastle/bcprov-jdk14@1.49
+- pkg:maven/org.bouncycastle/bcprov-jdk14@1.49?classifier=sources
+- pkg:maven/org.bouncycastle/bcprov-jdk14@1.50
+- pkg:maven/org.bouncycastle/bcprov-jdk14@1.50?classifier=sources

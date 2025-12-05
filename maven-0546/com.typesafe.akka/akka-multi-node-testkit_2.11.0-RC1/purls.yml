@@ -1,0 +1,2 @@
+- pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.11.0-RC1@2.3.0-RC4
+- pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.11.0-RC1@2.3.0-RC4?classifier=sources

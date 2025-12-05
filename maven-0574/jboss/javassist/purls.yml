@@ -1,0 +1,11 @@
+- pkg:maven/jboss/javassist@2.5.1
+- pkg:maven/jboss/javassist@2.6
+- pkg:maven/jboss/javassist@3.0
+- pkg:maven/jboss/javassist@3.0-rc-1
+- pkg:maven/jboss/javassist@3.1
+- pkg:maven/jboss/javassist@3.3.ga
+- pkg:maven/jboss/javassist@3.4.ga
+- pkg:maven/jboss/javassist@3.6.ga
+- pkg:maven/jboss/javassist@3.6.ga?classifier=sources
+- pkg:maven/jboss/javassist@3.7.ga
+- pkg:maven/jboss/javassist@3.7.ga?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ca.grimoire.jsp/jsp-filters@1.0
+- pkg:maven/ca.grimoire.jsp/jsp-filters@1.0?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/org.codehaus.mojo.webstart/webstart-jnlp-servlet@1.0-6.0-02_ea_b02
+- pkg:maven/org.codehaus.mojo.webstart/webstart-jnlp-servlet@1.0-6.0-02_ea_b02?classifier=sources
+- pkg:maven/org.codehaus.mojo.webstart/webstart-jnlp-servlet@1.0-6.0.02_ea_b02.1
+- pkg:maven/org.codehaus.mojo.webstart/webstart-jnlp-servlet@1.0-6.0.02_ea_b02.2
+- pkg:maven/org.codehaus.mojo.webstart/webstart-jnlp-servlet@1.0-6.0.02_ea_b02.2?classifier=sources

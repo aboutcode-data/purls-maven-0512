@@ -1,0 +1,6 @@
+- pkg:maven/jersey/jersey@0.2.1-ea?classifier=sources
+- pkg:maven/jersey/jersey@0.3-ea?classifier=sources
+- pkg:maven/jersey/jersey@0.4-ea?classifier=sources
+- pkg:maven/jersey/jersey@0.5-ea?classifier=sources
+- pkg:maven/jersey/jersey@0.6-ea?classifier=sources
+- pkg:maven/jersey/jersey@0.7-ea?classifier=sources

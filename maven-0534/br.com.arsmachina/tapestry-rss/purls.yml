@@ -1,0 +1,2 @@
+- pkg:maven/br.com.arsmachina/tapestry-rss@0.0.1
+- pkg:maven/br.com.arsmachina/tapestry-rss@0.0.1?classifier=sources

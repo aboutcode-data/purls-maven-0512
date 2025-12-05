@@ -1,0 +1,4 @@
+- pkg:maven/at.newmedialab.ldpath/ldpath-functions-html@0.9.13
+- pkg:maven/at.newmedialab.ldpath/ldpath-functions-html@0.9.13?classifier=sources
+- pkg:maven/at.newmedialab.ldpath/ldpath-functions-html@2.6.0
+- pkg:maven/at.newmedialab.ldpath/ldpath-functions-html@2.6.0?classifier=sources

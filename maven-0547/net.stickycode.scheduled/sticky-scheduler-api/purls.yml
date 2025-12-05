@@ -1,0 +1,2 @@
+- pkg:maven/net.stickycode.scheduled/sticky-scheduler-api@1.2
+- pkg:maven/net.stickycode.scheduled/sticky-scheduler-api@1.2?classifier=sources

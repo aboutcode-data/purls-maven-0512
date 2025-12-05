@@ -1,0 +1,6 @@
+- pkg:maven/nl.ivonet/beanunit@0.6
+- pkg:maven/nl.ivonet/beanunit@0.6?classifier=sources
+- pkg:maven/nl.ivonet/beanunit@1.0
+- pkg:maven/nl.ivonet/beanunit@1.0?classifier=sources
+- pkg:maven/nl.ivonet/beanunit@2.0
+- pkg:maven/nl.ivonet/beanunit@2.0?classifier=sources

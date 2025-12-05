@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.tacos/beanform-examples@0.8?type=war
+- pkg:maven/net.sf.tacos/beanform-examples@0.9?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/org.jasig.portal/pluto-taglib@2.1.0-M2
+- pkg:maven/org.jasig.portal/pluto-taglib@2.1.0-M2?classifier=sources

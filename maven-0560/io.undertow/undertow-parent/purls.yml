@@ -1,0 +1,2 @@
+- pkg:maven/io.undertow/undertow-parent@1.0.0.Beta16?classifier=source-release&type=zip
+- pkg:maven/io.undertow/undertow-parent@1.0.0.Beta19?classifier=source-release&type=zip

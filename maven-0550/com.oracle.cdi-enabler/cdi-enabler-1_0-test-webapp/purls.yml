@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.cdi-enabler/cdi-enabler-1_0-test-webapp@1?classifier=sources
+- pkg:maven/com.oracle.cdi-enabler/cdi-enabler-1_0-test-webapp@1?type=war

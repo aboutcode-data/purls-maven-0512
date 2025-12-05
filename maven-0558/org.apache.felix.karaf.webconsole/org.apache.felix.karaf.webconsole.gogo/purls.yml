@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.felix.karaf.webconsole/org.apache.felix.karaf.webconsole.gogo@1.0.0
+- pkg:maven/org.apache.felix.karaf.webconsole/org.apache.felix.karaf.webconsole.gogo@1.0.0?classifier=sources
+- pkg:maven/org.apache.felix.karaf.webconsole/org.apache.felix.karaf.webconsole.gogo@1.2.0
+- pkg:maven/org.apache.felix.karaf.webconsole/org.apache.felix.karaf.webconsole.gogo@1.2.0?classifier=sources
+- pkg:maven/org.apache.felix.karaf.webconsole/org.apache.felix.karaf.webconsole.gogo@1.4.0
+- pkg:maven/org.apache.felix.karaf.webconsole/org.apache.felix.karaf.webconsole.gogo@1.4.0?classifier=sources
+- pkg:maven/org.apache.felix.karaf.webconsole/org.apache.felix.karaf.webconsole.gogo@1.6.0
+- pkg:maven/org.apache.felix.karaf.webconsole/org.apache.felix.karaf.webconsole.gogo@1.6.0?classifier=sources

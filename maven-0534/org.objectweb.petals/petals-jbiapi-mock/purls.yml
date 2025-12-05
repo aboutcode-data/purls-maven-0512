@@ -1,0 +1,2 @@
+- pkg:maven/org.objectweb.petals/petals-jbiapi-mock@0.1
+- pkg:maven/org.objectweb.petals/petals-jbiapi-mock@0.1?classifier=sources

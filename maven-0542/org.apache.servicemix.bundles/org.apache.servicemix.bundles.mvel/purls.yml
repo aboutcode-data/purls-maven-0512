@@ -1,0 +1,13 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mvel@1.3.12_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mvel@1.3.12_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mvel@1.3.12_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mvel@1.3.16_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mvel@1.3.16_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mvel@2.0.18_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mvel@2.0.18_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mvel@2.0.18_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mvel@2.0.18_3?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mvel@2.0.8_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mvel@2.0.8_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mvel@2.0.8_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mvel@2.0.8_5

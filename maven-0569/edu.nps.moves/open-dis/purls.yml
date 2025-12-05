@@ -1,0 +1,2 @@
+- pkg:maven/edu.nps.moves/open-dis@4.08
+- pkg:maven/edu.nps.moves/open-dis@4.08?classifier=sources

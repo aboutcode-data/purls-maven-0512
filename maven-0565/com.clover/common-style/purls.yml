@@ -1,0 +1,2 @@
+- pkg:maven/com.clover/common-style@28?classifier=sources
+- pkg:maven/com.clover/common-style@28?type=aar

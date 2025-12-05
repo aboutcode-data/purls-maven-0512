@@ -1,0 +1,2 @@
+- pkg:maven/com.luzi82.hakase/hakase-asyn@0.0.0
+- pkg:maven/com.luzi82.hakase/hakase-asyn@0.0.0?classifier=sources

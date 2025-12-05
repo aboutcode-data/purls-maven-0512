@@ -1,0 +1,2 @@
+- pkg:maven/com.gravity/gravity-hpaste_2.10@0.1.24
+- pkg:maven/com.gravity/gravity-hpaste_2.10@0.1.24?classifier=sources

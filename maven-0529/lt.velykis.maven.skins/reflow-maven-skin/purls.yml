@@ -1,0 +1,4 @@
+- pkg:maven/lt.velykis.maven.skins/reflow-maven-skin@1.0.0
+- pkg:maven/lt.velykis.maven.skins/reflow-maven-skin@1.0.0?classifier=sources
+- pkg:maven/lt.velykis.maven.skins/reflow-maven-skin@1.1.0
+- pkg:maven/lt.velykis.maven.skins/reflow-maven-skin@1.1.0?classifier=sources

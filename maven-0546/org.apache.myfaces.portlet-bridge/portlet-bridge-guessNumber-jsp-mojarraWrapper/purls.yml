@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-guessNumber-jsp-mojarraWrapper@2.0.0-beta?classifier=sources
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-guessNumber-jsp-mojarraWrapper@2.0.0-beta?type=war

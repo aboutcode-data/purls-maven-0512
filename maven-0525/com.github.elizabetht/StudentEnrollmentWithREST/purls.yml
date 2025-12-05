@@ -1,0 +1,4 @@
+- pkg:maven/com.github.elizabetht/StudentEnrollmentWithREST@1.1?type=war
+- pkg:maven/com.github.elizabetht/StudentEnrollmentWithREST@1.2?type=war
+- pkg:maven/com.github.elizabetht/StudentEnrollmentWithREST@1.3?classifier=sources
+- pkg:maven/com.github.elizabetht/StudentEnrollmentWithREST@1.3?type=war

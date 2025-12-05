@@ -1,0 +1,4 @@
+- pkg:maven/cz.advel.jbullet/jbullet@20101010
+- pkg:maven/cz.advel.jbullet/jbullet@20101010-1
+- pkg:maven/cz.advel.jbullet/jbullet@20101010-1?classifier=sources
+- pkg:maven/cz.advel.jbullet/jbullet@20101010?classifier=sources

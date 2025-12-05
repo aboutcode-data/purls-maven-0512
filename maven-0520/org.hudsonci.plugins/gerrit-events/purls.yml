@@ -1,0 +1,2 @@
+- pkg:maven/org.hudsonci.plugins/gerrit-events@1.2.8-h-1
+- pkg:maven/org.hudsonci.plugins/gerrit-events@1.2.8-h-1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.fractal.julia.osgi/julia-osgi-mixins@2.5.2
+- pkg:maven/org.ow2.fractal.julia.osgi/julia-osgi-mixins@2.5.2?classifier=sources

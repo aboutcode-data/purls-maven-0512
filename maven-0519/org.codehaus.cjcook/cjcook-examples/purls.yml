@@ -1,0 +1,6 @@
+- pkg:maven/org.codehaus.cjcook/cjcook-examples@0.17
+- pkg:maven/org.codehaus.cjcook/cjcook-examples@0.17?classifier=src&type=tar.gz
+- pkg:maven/org.codehaus.cjcook/cjcook-examples@0.17?classifier=src&type=zip
+- pkg:maven/org.codehaus.cjcook/cjcook-examples@0.19
+- pkg:maven/org.codehaus.cjcook/cjcook-examples@0.19?classifier=src&type=tar.gz
+- pkg:maven/org.codehaus.cjcook/cjcook-examples@0.19?classifier=src&type=zip

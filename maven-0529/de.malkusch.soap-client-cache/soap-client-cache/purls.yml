@@ -1,0 +1,6 @@
+- pkg:maven/de.malkusch.soap-client-cache/soap-client-cache@1.0.2
+- pkg:maven/de.malkusch.soap-client-cache/soap-client-cache@1.0.2?classifier=sources
+- pkg:maven/de.malkusch.soap-client-cache/soap-client-cache@2.0.0
+- pkg:maven/de.malkusch.soap-client-cache/soap-client-cache@2.0.0?classifier=sources
+- pkg:maven/de.malkusch.soap-client-cache/soap-client-cache@2.0.3
+- pkg:maven/de.malkusch.soap-client-cache/soap-client-cache@2.0.3?classifier=sources

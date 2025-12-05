@@ -1,0 +1,2 @@
+- pkg:maven/nz.net.osnz.jmz/jmz-configuration@1.1
+- pkg:maven/nz.net.osnz.jmz/jmz-configuration@1.1?classifier=sources

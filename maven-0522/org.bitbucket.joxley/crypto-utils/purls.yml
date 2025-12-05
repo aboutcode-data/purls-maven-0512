@@ -1,0 +1,2 @@
+- pkg:maven/org.bitbucket.joxley/crypto-utils@0.0.2
+- pkg:maven/org.bitbucket.joxley/crypto-utils@0.0.2?classifier=sources

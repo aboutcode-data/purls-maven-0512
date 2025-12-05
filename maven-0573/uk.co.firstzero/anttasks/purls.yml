@@ -1,0 +1,4 @@
+- pkg:maven/uk.co.firstzero/anttasks@2.4
+- pkg:maven/uk.co.firstzero/anttasks@2.4?classifier=sources
+- pkg:maven/uk.co.firstzero/anttasks@2.5
+- pkg:maven/uk.co.firstzero/anttasks@2.5?classifier=sources

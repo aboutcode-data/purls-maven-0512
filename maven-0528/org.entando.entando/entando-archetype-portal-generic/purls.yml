@@ -1,0 +1,8 @@
+- pkg:maven/org.entando.entando/entando-archetype-portal-generic@2.4.0.1?classifier=sources
+- pkg:maven/org.entando.entando/entando-archetype-portal-generic@2.4.0?classifier=sources
+- pkg:maven/org.entando.entando/entando-archetype-portal-generic@3.0.0-01?classifier=sources
+- pkg:maven/org.entando.entando/entando-archetype-portal-generic@3.0.0-02?classifier=sources
+- pkg:maven/org.entando.entando/entando-archetype-portal-generic@3.0.0?classifier=sources
+- pkg:maven/org.entando.entando/entando-archetype-portal-generic@3.2.0-01?classifier=sources
+- pkg:maven/org.entando.entando/entando-archetype-portal-generic@3.2.0?classifier=sources
+- pkg:maven/org.entando.entando/entando-archetype-portal-generic@4.0.0?classifier=sources

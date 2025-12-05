@@ -1,0 +1,6 @@
+- pkg:maven/uaihebert.com/EasyCriteria@2.1.0
+- pkg:maven/uaihebert.com/EasyCriteria@2.1.0?classifier=sources
+- pkg:maven/uaihebert.com/EasyCriteria@2.2.2
+- pkg:maven/uaihebert.com/EasyCriteria@2.2.2?classifier=sources
+- pkg:maven/uaihebert.com/EasyCriteria@3.0.0
+- pkg:maven/uaihebert.com/EasyCriteria@3.0.0?classifier=sources

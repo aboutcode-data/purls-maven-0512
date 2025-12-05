@@ -1,0 +1,6 @@
+- pkg:maven/net.tribe7.seeds/seeds-reflect@14.0.1
+- pkg:maven/net.tribe7.seeds/seeds-reflect@14.0.1?classifier=sources
+- pkg:maven/net.tribe7.seeds/seeds-reflect@15.0
+- pkg:maven/net.tribe7.seeds/seeds-reflect@15.0?classifier=sources
+- pkg:maven/net.tribe7.seeds/seeds-reflect@16.0.1
+- pkg:maven/net.tribe7.seeds/seeds-reflect@16.0.1?classifier=sources

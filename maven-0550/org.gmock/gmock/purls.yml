@@ -1,0 +1,8 @@
+- pkg:maven/org.gmock/gmock@0.5.0
+- pkg:maven/org.gmock/gmock@0.6.0
+- pkg:maven/org.gmock/gmock@0.7.0
+- pkg:maven/org.gmock/gmock@0.8.0
+- pkg:maven/org.gmock/gmock@0.8.1
+- pkg:maven/org.gmock/gmock@0.8.2
+- pkg:maven/org.gmock/gmock@0.8.3
+- pkg:maven/org.gmock/gmock@0.8.3?classifier=sources

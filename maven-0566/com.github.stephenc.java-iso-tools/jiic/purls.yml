@@ -1,0 +1,2 @@
+- pkg:maven/com.github.stephenc.java-iso-tools/jiic@1.2.2
+- pkg:maven/com.github.stephenc.java-iso-tools/jiic@1.2.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.lgohlke/versions-maven-plugin@2.1.1
+- pkg:maven/de.lgohlke/versions-maven-plugin@2.1.1?classifier=sources

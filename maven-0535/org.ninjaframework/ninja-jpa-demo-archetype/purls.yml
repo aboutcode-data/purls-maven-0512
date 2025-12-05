@@ -1,0 +1,2 @@
+- pkg:maven/org.ninjaframework/ninja-jpa-demo-archetype@1.6.0-rc1?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-jpa-demo-archetype@1.6.0?classifier=sources

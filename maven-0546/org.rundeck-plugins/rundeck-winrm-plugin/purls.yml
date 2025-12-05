@@ -1,0 +1,2 @@
+- pkg:maven/org.rundeck-plugins/rundeck-winrm-plugin@1.1
+- pkg:maven/org.rundeck-plugins/rundeck-winrm-plugin@1.1?classifier=sources

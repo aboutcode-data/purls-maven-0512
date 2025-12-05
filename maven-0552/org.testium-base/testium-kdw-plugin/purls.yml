@@ -1,0 +1,2 @@
+- pkg:maven/org.testium-base/testium-kdw-plugin@0.0.5
+- pkg:maven/org.testium-base/testium-kdw-plugin@0.0.5?classifier=sources

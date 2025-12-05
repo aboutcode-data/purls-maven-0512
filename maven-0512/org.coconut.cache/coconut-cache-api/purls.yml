@@ -1,0 +1,2 @@
+- pkg:maven/org.coconut.cache/coconut-cache-api@1.0-alpha3
+- pkg:maven/org.coconut.cache/coconut-cache-api@1.0-alpha3?classifier=sources

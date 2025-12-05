@@ -1,0 +1,2 @@
+- pkg:maven/org.nuiton.processor/processor-maven-plugin@1.3
+- pkg:maven/org.nuiton.processor/processor-maven-plugin@1.3?classifier=sources

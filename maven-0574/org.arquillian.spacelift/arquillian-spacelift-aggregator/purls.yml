@@ -1,0 +1,1 @@
+- pkg:maven/org.arquillian.spacelift/arquillian-spacelift-aggregator@1.0.0.Alpha1?classifier=source-release&type=zip

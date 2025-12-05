@@ -1,0 +1,4 @@
+- pkg:maven/org.hyperscala/hyperscala-numberguess_2.9.2@0.1?classifier=sources
+- pkg:maven/org.hyperscala/hyperscala-numberguess_2.9.2@0.1?type=war
+- pkg:maven/org.hyperscala/hyperscala-numberguess_2.9.2@0.2?classifier=sources
+- pkg:maven/org.hyperscala/hyperscala-numberguess_2.9.2@0.2?type=war

@@ -1,0 +1,4 @@
+- pkg:maven/uk.bl.wa.memento/mementoweb-client-java@1.1.3
+- pkg:maven/uk.bl.wa.memento/mementoweb-client-java@1.1.3?classifier=sources
+- pkg:maven/uk.bl.wa.memento/mementoweb-client-java@1.1.4
+- pkg:maven/uk.bl.wa.memento/mementoweb-client-java@1.1.4?classifier=sources

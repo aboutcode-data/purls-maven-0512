@@ -1,0 +1,16 @@
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.0
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.0-alpha-1
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.0-alpha-1?classifier=sources
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.0-alpha-2
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.0-alpha-2?classifier=sources
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.0-alpha-3
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.0-alpha-3?classifier=sources
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.0-alpha-4
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.0-alpha-4?classifier=sources
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.0-alpha-5
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.0-alpha-5?classifier=sources
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.0?classifier=sources
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.1
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.1?classifier=sources
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.2
+- pkg:maven/org.apache.maven.archetype/archetype-common@2.2?classifier=sources

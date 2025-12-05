@@ -1,0 +1,7 @@
+- pkg:maven/org.apache.openjpa/openjpa-jdbc-5@1.0.0
+- pkg:maven/org.apache.openjpa/openjpa-jdbc-5@1.0.1
+- pkg:maven/org.apache.openjpa/openjpa-jdbc-5@1.0.2
+- pkg:maven/org.apache.openjpa/openjpa-jdbc-5@1.0.3
+- pkg:maven/org.apache.openjpa/openjpa-jdbc-5@1.0.3?classifier=sources
+- pkg:maven/org.apache.openjpa/openjpa-jdbc-5@1.0.4
+- pkg:maven/org.apache.openjpa/openjpa-jdbc-5@1.0.4?classifier=sources

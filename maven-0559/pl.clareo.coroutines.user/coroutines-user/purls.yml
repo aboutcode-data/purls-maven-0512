@@ -1,0 +1,2 @@
+- pkg:maven/pl.clareo.coroutines.user/coroutines-user@1.2
+- pkg:maven/pl.clareo.coroutines.user/coroutines-user@1.2?classifier=sources

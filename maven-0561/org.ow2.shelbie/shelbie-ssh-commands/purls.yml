@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.shelbie/shelbie-ssh-commands@2.0.0-M1
+- pkg:maven/org.ow2.shelbie/shelbie-ssh-commands@2.0.0-M1?classifier=sources

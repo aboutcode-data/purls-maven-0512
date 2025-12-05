@@ -1,0 +1,10 @@
+- pkg:maven/com.ontology2/telepath@t20130213
+- pkg:maven/com.ontology2/telepath@t20130213?classifier=sources
+- pkg:maven/com.ontology2/telepath@t20140108
+- pkg:maven/com.ontology2/telepath@t20140108?classifier=sources
+- pkg:maven/com.ontology2/telepath@t20140207
+- pkg:maven/com.ontology2/telepath@t20140207?classifier=sources
+- pkg:maven/com.ontology2/telepath@t20140213
+- pkg:maven/com.ontology2/telepath@t20140213?classifier=sources
+- pkg:maven/com.ontology2/telepath@t20140218
+- pkg:maven/com.ontology2/telepath@t20140218?classifier=sources

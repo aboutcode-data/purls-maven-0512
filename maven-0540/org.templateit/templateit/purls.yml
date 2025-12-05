@@ -1,0 +1,4 @@
+- pkg:maven/org.templateit/templateit@1.0-beta3
+- pkg:maven/org.templateit/templateit@1.0-beta3?classifier=sources
+- pkg:maven/org.templateit/templateit@1.0-beta4
+- pkg:maven/org.templateit/templateit@1.0-beta4?classifier=sources

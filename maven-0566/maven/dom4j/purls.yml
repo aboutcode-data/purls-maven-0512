@@ -1,0 +1,2 @@
+- pkg:maven/maven/dom4j@1.7-20060614
+- pkg:maven/maven/dom4j@1.7-20060614?classifier=sources

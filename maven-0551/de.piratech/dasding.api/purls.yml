@@ -1,0 +1,4 @@
+- pkg:maven/de.piratech/dasding.api@0.2?classifier=sources
+- pkg:maven/de.piratech/dasding.api@0.2?type=war
+- pkg:maven/de.piratech/dasding.api@0.3?classifier=sources
+- pkg:maven/de.piratech/dasding.api@0.3?type=war

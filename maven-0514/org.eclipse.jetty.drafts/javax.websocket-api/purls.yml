@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.jetty.drafts/javax.websocket-api@0.0.006.EDR.draft
+- pkg:maven/org.eclipse.jetty.drafts/javax.websocket-api@0.0.006.EDR.draft?classifier=sources
+- pkg:maven/org.eclipse.jetty.drafts/javax.websocket-api@0.0.006.draft
+- pkg:maven/org.eclipse.jetty.drafts/javax.websocket-api@0.0.006.draft?classifier=sources

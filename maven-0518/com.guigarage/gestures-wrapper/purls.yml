@@ -1,0 +1,2 @@
+- pkg:maven/com.guigarage/gestures-wrapper@0.2
+- pkg:maven/com.guigarage/gestures-wrapper@0.2?classifier=sources

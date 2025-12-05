@@ -1,0 +1,2 @@
+- pkg:maven/se.vgregion.liferay-user-associations/liferay-user-associations-core-bc-composite-webcomp@1.10
+- pkg:maven/se.vgregion.liferay-user-associations/liferay-user-associations-core-bc-composite-webcomp@1.10?classifier=sources

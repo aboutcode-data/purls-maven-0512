@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/scalaosc_2.10.0-M6@0.33
+- pkg:maven/de.sciss/scalaosc_2.10.0-M6@0.33?classifier=sources

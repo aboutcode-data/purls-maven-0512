@@ -1,0 +1,2 @@
+- pkg:maven/org.uberfire/showcase-webapp@0.1.0.Alpha1?classifier=sources
+- pkg:maven/org.uberfire/showcase-webapp@0.1.0.Alpha1?type=war

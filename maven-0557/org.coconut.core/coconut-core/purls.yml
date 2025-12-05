@@ -1,0 +1,2 @@
+- pkg:maven/org.coconut.core/coconut-core@1.0-alpha3
+- pkg:maven/org.coconut.core/coconut-core@1.0-alpha3?classifier=sources

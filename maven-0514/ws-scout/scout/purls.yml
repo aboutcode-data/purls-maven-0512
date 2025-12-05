@@ -1,0 +1,4 @@
+- pkg:maven/ws-scout/scout@0.5
+- pkg:maven/ws-scout/scout@0.7rc1
+- pkg:maven/ws-scout/scout@0.7rc2
+- pkg:maven/ws-scout/scout@0.7rc2?classifier=sources

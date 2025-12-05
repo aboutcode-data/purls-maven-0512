@@ -1,0 +1,16 @@
+- pkg:maven/com.axiomalaska/cf4j@19.0
+- pkg:maven/com.axiomalaska/cf4j@19.0?classifier=sources
+- pkg:maven/com.axiomalaska/cf4j@19.1
+- pkg:maven/com.axiomalaska/cf4j@19.1?classifier=sources
+- pkg:maven/com.axiomalaska/cf4j@20.0
+- pkg:maven/com.axiomalaska/cf4j@20.0?classifier=sources
+- pkg:maven/com.axiomalaska/cf4j@23.0
+- pkg:maven/com.axiomalaska/cf4j@23.0?classifier=sources
+- pkg:maven/com.axiomalaska/cf4j@23.1
+- pkg:maven/com.axiomalaska/cf4j@23.1?classifier=sources
+- pkg:maven/com.axiomalaska/cf4j@24.0
+- pkg:maven/com.axiomalaska/cf4j@24.0?classifier=sources
+- pkg:maven/com.axiomalaska/cf4j@25.0
+- pkg:maven/com.axiomalaska/cf4j@25.0?classifier=sources
+- pkg:maven/com.axiomalaska/cf4j@26.0
+- pkg:maven/com.axiomalaska/cf4j@26.0?classifier=sources

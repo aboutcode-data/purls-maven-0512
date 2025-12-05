@@ -1,0 +1,2 @@
+- pkg:maven/net.awired.js/requirejs@1.0.2?classifier=sources
+- pkg:maven/net.awired.js/requirejs@1.0.2?type=war

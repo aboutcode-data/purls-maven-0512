@@ -1,0 +1,2 @@
+- pkg:maven/pl.chalapuk.muice/muice@0.1
+- pkg:maven/pl.chalapuk.muice/muice@0.1?classifier=sources

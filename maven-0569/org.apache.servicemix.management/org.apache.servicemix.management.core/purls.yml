@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicemix.management/org.apache.servicemix.management.core@4.0-m1
+- pkg:maven/org.apache.servicemix.management/org.apache.servicemix.management.core@4.0-m1?classifier=sources

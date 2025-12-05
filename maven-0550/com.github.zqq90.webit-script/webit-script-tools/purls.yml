@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zqq90.webit-script/webit-script-tools@1.0.0
+- pkg:maven/com.github.zqq90.webit-script/webit-script-tools@1.0.0?classifier=sources

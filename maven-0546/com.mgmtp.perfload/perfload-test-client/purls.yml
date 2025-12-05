@@ -1,0 +1,6 @@
+- pkg:maven/com.mgmtp.perfload/perfload-test-client@4.6.0
+- pkg:maven/com.mgmtp.perfload/perfload-test-client@4.6.0?classifier=sources
+- pkg:maven/com.mgmtp.perfload/perfload-test-client@4.7.0
+- pkg:maven/com.mgmtp.perfload/perfload-test-client@4.7.0?classifier=sources
+- pkg:maven/com.mgmtp.perfload/perfload-test-client@4.7.1
+- pkg:maven/com.mgmtp.perfload/perfload-test-client@4.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nill14.patch1/wagon-ssh@2.4
+- pkg:maven/com.github.nill14.patch1/wagon-ssh@2.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.mastif/mastif-zoner@1.4
+- pkg:maven/net.sf.mastif/mastif-zoner@1.4?classifier=sources
+- pkg:maven/net.sf.mastif/mastif-zoner@1.6
+- pkg:maven/net.sf.mastif/mastif-zoner@1.6?classifier=sources

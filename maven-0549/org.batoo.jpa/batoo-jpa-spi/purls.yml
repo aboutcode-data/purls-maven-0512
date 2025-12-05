@@ -1,0 +1,6 @@
+- pkg:maven/org.batoo.jpa/batoo-jpa-spi@2.0.0.0.RC2
+- pkg:maven/org.batoo.jpa/batoo-jpa-spi@2.0.0.0.RC2?classifier=sources
+- pkg:maven/org.batoo.jpa/batoo-jpa-spi@2.0.1.0-RTM
+- pkg:maven/org.batoo.jpa/batoo-jpa-spi@2.0.1.0-RTM?classifier=sources
+- pkg:maven/org.batoo.jpa/batoo-jpa-spi@2.0.1.1
+- pkg:maven/org.batoo.jpa/batoo-jpa-spi@2.0.1.1?classifier=sources

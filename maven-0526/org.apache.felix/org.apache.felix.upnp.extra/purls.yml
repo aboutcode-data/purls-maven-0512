@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.felix/org.apache.felix.upnp.extra@0.4.0
+- pkg:maven/org.apache.felix/org.apache.felix.upnp.extra@0.4.0?classifier=sources

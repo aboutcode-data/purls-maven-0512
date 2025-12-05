@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.configs/xmlbeans@2.0.1?classifier=sources
+- pkg:maven/org.apache.geronimo.configs/xmlbeans@2.0.2?classifier=sources

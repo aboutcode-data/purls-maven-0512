@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-vfs@1.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-vfs@1.0_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-vfs@1.0_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-vfs@1.0_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-vfs@1.0_6

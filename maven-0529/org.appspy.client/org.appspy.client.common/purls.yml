@@ -1,0 +1,4 @@
+- pkg:maven/org.appspy.client/org.appspy.client.common@1.0
+- pkg:maven/org.appspy.client/org.appspy.client.common@1.0?classifier=sources
+- pkg:maven/org.appspy.client/org.appspy.client.common@1.1
+- pkg:maven/org.appspy.client/org.appspy.client.common@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.douban/scala-api_2.11.0-RC3@2.4.5
+- pkg:maven/com.douban/scala-api_2.11.0-RC3@2.4.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/jp.joao/nirai@0.1.0?classifier=sources
+- pkg:maven/jp.joao/nirai@0.1.0?type=aar
+- pkg:maven/jp.joao/nirai@0.1.1
+- pkg:maven/jp.joao/nirai@0.1.1?classifier=sources

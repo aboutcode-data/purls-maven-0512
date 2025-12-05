@@ -1,0 +1,4 @@
+- pkg:maven/com.rest4j/rest4j-generator@1.0
+- pkg:maven/com.rest4j/rest4j-generator@1.0?classifier=sources
+- pkg:maven/com.rest4j/rest4j-generator@1.2
+- pkg:maven/com.rest4j/rest4j-generator@1.2?classifier=sources

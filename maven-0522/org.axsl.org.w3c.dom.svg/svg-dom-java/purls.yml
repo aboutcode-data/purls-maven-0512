@@ -1,0 +1,2 @@
+- pkg:maven/org.axsl.org.w3c.dom.svg/svg-dom-java@1.1
+- pkg:maven/org.axsl.org.w3c.dom.svg/svg-dom-java@1.1?classifier=sources

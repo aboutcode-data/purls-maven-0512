@@ -1,0 +1,4 @@
+- pkg:maven/org.mybatis/mybatis-migrations@3.1.0
+- pkg:maven/org.mybatis/mybatis-migrations@3.1.0?classifier=sources
+- pkg:maven/org.mybatis/mybatis-migrations@3.1.1?classifier=sources
+- pkg:maven/org.mybatis/mybatis-migrations@3.2.0?classifier=sources

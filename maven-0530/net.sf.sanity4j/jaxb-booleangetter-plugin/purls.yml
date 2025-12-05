@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.sanity4j/jaxb-booleangetter-plugin@1.0
+- pkg:maven/net.sf.sanity4j/jaxb-booleangetter-plugin@1.0?classifier=sources

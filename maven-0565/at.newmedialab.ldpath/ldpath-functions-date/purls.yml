@@ -1,0 +1,4 @@
+- pkg:maven/at.newmedialab.ldpath/ldpath-functions-date@0.9.13
+- pkg:maven/at.newmedialab.ldpath/ldpath-functions-date@0.9.13?classifier=sources
+- pkg:maven/at.newmedialab.ldpath/ldpath-functions-date@2.6.0
+- pkg:maven/at.newmedialab.ldpath/ldpath-functions-date@2.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/controlhaus/controlhaus-ejb@alpha?classifier=src&type=tar.gz
+- pkg:maven/controlhaus/controlhaus-ejb@alpha?classifier=src&type=zip

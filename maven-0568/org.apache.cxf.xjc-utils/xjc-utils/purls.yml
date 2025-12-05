@@ -1,0 +1,7 @@
+- pkg:maven/org.apache.cxf.xjc-utils/xjc-utils@2.3.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.cxf.xjc-utils/xjc-utils@2.3.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.cxf.xjc-utils/xjc-utils@2.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.cxf.xjc-utils/xjc-utils@2.6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.cxf.xjc-utils/xjc-utils@2.6.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.cxf.xjc-utils/xjc-utils@2.6.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.cxf.xjc-utils/xjc-utils@2.7.0?classifier=source-release&type=zip

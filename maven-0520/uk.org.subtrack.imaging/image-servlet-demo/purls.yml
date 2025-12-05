@@ -1,0 +1,2 @@
+- pkg:maven/uk.org.subtrack.imaging/image-servlet-demo@1.1.0-beta2?classifier=sources
+- pkg:maven/uk.org.subtrack.imaging/image-servlet-demo@1.1.0-beta2?type=war

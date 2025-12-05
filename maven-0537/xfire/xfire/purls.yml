@@ -1,0 +1,10 @@
+- pkg:maven/xfire/xfire@1.0-M3?classifier=src&type=tar.gz
+- pkg:maven/xfire/xfire@1.0-M3?classifier=src&type=zip
+- pkg:maven/xfire/xfire@1.0-alpha-1?classifier=src&type=tar.gz
+- pkg:maven/xfire/xfire@1.0-alpha-1?classifier=src&type=zip
+- pkg:maven/xfire/xfire@1.0-alpha-2?classifier=src&type=tar.gz
+- pkg:maven/xfire/xfire@1.0-alpha-2?classifier=src&type=zip
+- pkg:maven/xfire/xfire@20041222
+- pkg:maven/xfire/xfire@20050103.051333
+- pkg:maven/xfire/xfire@20050103.051604
+- pkg:maven/xfire/xfire@20050202

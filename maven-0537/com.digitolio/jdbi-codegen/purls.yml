@@ -1,0 +1,6 @@
+- pkg:maven/com.digitolio/jdbi-codegen@0.2.6.4
+- pkg:maven/com.digitolio/jdbi-codegen@0.2.6.4?classifier=sources
+- pkg:maven/com.digitolio/jdbi-codegen@0.2.6.6
+- pkg:maven/com.digitolio/jdbi-codegen@0.2.6.6?classifier=sources
+- pkg:maven/com.digitolio/jdbi-codegen@0.2.6.7
+- pkg:maven/com.digitolio/jdbi-codegen@0.2.6.7?classifier=sources

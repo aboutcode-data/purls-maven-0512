@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.kalumet/org.apache.kalumet.console@0.6-incubating?classifier=sources
+- pkg:maven/org.apache.kalumet/org.apache.kalumet.console@0.6-incubating?type=war

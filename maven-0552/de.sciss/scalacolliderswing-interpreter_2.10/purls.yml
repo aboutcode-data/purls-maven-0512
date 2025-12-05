@@ -1,0 +1,6 @@
+- pkg:maven/de.sciss/scalacolliderswing-interpreter_2.10@1.14.0
+- pkg:maven/de.sciss/scalacolliderswing-interpreter_2.10@1.14.0?classifier=sources
+- pkg:maven/de.sciss/scalacolliderswing-interpreter_2.10@1.15.0
+- pkg:maven/de.sciss/scalacolliderswing-interpreter_2.10@1.15.0?classifier=sources
+- pkg:maven/de.sciss/scalacolliderswing-interpreter_2.10@1.15.1
+- pkg:maven/de.sciss/scalacolliderswing-interpreter_2.10@1.15.1?classifier=sources

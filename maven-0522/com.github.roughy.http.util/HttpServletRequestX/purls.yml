@@ -1,0 +1,2 @@
+- pkg:maven/com.github.roughy.http.util/HttpServletRequestX@0.1
+- pkg:maven/com.github.roughy.http.util/HttpServletRequestX@0.1?classifier=sources

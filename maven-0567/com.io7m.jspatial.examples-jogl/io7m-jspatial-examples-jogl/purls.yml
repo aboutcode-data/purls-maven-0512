@@ -1,0 +1,8 @@
+- pkg:maven/com.io7m.jspatial.examples-jogl/io7m-jspatial-examples-jogl@1.0.0
+- pkg:maven/com.io7m.jspatial.examples-jogl/io7m-jspatial-examples-jogl@1.0.0?classifier=sources
+- pkg:maven/com.io7m.jspatial.examples-jogl/io7m-jspatial-examples-jogl@1.1.0
+- pkg:maven/com.io7m.jspatial.examples-jogl/io7m-jspatial-examples-jogl@1.1.0?classifier=sources
+- pkg:maven/com.io7m.jspatial.examples-jogl/io7m-jspatial-examples-jogl@1.2.0
+- pkg:maven/com.io7m.jspatial.examples-jogl/io7m-jspatial-examples-jogl@1.2.0?classifier=sources
+- pkg:maven/com.io7m.jspatial.examples-jogl/io7m-jspatial-examples-jogl@2.0.0
+- pkg:maven/com.io7m.jspatial.examples-jogl/io7m-jspatial-examples-jogl@2.0.0?classifier=sources

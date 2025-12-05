@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.nbbuild/tasks@5.0
+- pkg:maven/org.netbeans.nbbuild/tasks@5.5
+- pkg:maven/org.netbeans.nbbuild/tasks@6.0
+- pkg:maven/org.netbeans.nbbuild/tasks@6.7

@@ -1,0 +1,5 @@
+- pkg:maven/geronimo-spec/geronimo-spec-j2ee@1.0-M1
+- pkg:maven/geronimo-spec/geronimo-spec-j2ee@1.4-rc1
+- pkg:maven/geronimo-spec/geronimo-spec-j2ee@1.4-rc2
+- pkg:maven/geronimo-spec/geronimo-spec-j2ee@1.4-rc3
+- pkg:maven/geronimo-spec/geronimo-spec-j2ee@1.4-rc4

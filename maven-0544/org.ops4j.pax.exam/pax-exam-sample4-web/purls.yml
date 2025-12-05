@@ -1,0 +1,4 @@
+- pkg:maven/org.ops4j.pax.exam/pax-exam-sample4-web@3.0.0.M3?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/pax-exam-sample4-web@3.0.0.M3?type=war
+- pkg:maven/org.ops4j.pax.exam/pax-exam-sample4-web@3.0.0.M4?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/pax-exam-sample4-web@3.0.0.M4?type=war

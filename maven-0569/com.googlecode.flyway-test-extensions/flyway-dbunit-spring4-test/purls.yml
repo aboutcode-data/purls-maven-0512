@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.flyway-test-extensions/flyway-dbunit-spring4-test@2.3.0.1
+- pkg:maven/com.googlecode.flyway-test-extensions/flyway-dbunit-spring4-test@2.3.0.1?classifier=sources

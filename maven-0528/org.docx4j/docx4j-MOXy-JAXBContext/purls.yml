@@ -1,0 +1,2 @@
+- pkg:maven/org.docx4j/docx4j-MOXy-JAXBContext@3.0.0
+- pkg:maven/org.docx4j/docx4j-MOXy-JAXBContext@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.testium/shell-testium-plugin@0.3.4
+- pkg:maven/net.sf.testium/shell-testium-plugin@0.3.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/de.twentyeleven.skysail/skysail.server.security.shiro@0.0.1
+- pkg:maven/de.twentyeleven.skysail/skysail.server.security.shiro@0.0.1?classifier=sources
+- pkg:maven/de.twentyeleven.skysail/skysail.server.security.shiro@0.1.0
+- pkg:maven/de.twentyeleven.skysail/skysail.server.security.shiro@0.1.0?classifier=sources
+- pkg:maven/de.twentyeleven.skysail/skysail.server.security.shiro@0.1.1
+- pkg:maven/de.twentyeleven.skysail/skysail.server.security.shiro@0.1.1?classifier=sources

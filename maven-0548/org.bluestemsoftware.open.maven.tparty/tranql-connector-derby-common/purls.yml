@@ -1,0 +1,2 @@
+- pkg:maven/org.bluestemsoftware.open.maven.tparty/tranql-connector-derby-common@1.1
+- pkg:maven/org.bluestemsoftware.open.maven.tparty/tranql-connector-derby-common@1.1?classifier=sources

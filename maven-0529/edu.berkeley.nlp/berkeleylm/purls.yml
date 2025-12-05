@@ -1,0 +1,2 @@
+- pkg:maven/edu.berkeley.nlp/berkeleylm@1.1.2
+- pkg:maven/edu.berkeley.nlp/berkeleylm@1.1.2?classifier=sources

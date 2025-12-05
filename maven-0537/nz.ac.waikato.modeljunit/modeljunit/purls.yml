@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.waikato.modeljunit/modeljunit@2.5
+- pkg:maven/nz.ac.waikato.modeljunit/modeljunit@2.5?classifier=sources

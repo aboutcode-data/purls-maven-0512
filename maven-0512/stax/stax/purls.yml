@@ -1,0 +1,7 @@
+- pkg:maven/stax/stax@1.1.1-dev
+- pkg:maven/stax/stax@1.1.1-dev?classifier=src&type=tar.gz
+- pkg:maven/stax/stax@1.1.1-dev?classifier=src&type=zip
+- pkg:maven/stax/stax@1.1.2-dev
+- pkg:maven/stax/stax@1.2.0
+- pkg:maven/stax/stax@1.2.0?classifier=sources
+- pkg:maven/stax/stax@1.2.0_rc2-dev

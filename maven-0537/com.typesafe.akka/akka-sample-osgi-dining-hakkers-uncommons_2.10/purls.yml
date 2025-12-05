@@ -1,0 +1,2 @@
+- pkg:maven/com.typesafe.akka/akka-sample-osgi-dining-hakkers-uncommons_2.10@1.2.0?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-sample-osgi-dining-hakkers-uncommons_2.10@1.2.2?classifier=sources

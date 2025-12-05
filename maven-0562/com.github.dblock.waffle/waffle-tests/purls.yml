@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dblock.waffle/waffle-tests@1.6
+- pkg:maven/com.github.dblock.waffle/waffle-tests@1.6?classifier=sources

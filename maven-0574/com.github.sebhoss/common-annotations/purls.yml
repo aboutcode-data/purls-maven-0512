@@ -1,0 +1,6 @@
+- pkg:maven/com.github.sebhoss/common-annotations@1.0.0
+- pkg:maven/com.github.sebhoss/common-annotations@1.0.0?classifier=sources
+- pkg:maven/com.github.sebhoss/common-annotations@2.0.0
+- pkg:maven/com.github.sebhoss/common-annotations@2.0.0?classifier=sources
+- pkg:maven/com.github.sebhoss/common-annotations@3.0.0
+- pkg:maven/com.github.sebhoss/common-annotations@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.signed.jvm-protocol-handler/jvm-protocol-handler@0.0.1
+- pkg:maven/com.github.signed.jvm-protocol-handler/jvm-protocol-handler@0.0.1?classifier=sources

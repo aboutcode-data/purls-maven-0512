@@ -1,0 +1,16 @@
+- pkg:maven/com.wadpam.openserver/j2ee@20
+- pkg:maven/com.wadpam.openserver/j2ee@20?classifier=sources
+- pkg:maven/com.wadpam.openserver/j2ee@21
+- pkg:maven/com.wadpam.openserver/j2ee@21?classifier=sources
+- pkg:maven/com.wadpam.openserver/j2ee@22
+- pkg:maven/com.wadpam.openserver/j2ee@22?classifier=sources
+- pkg:maven/com.wadpam.openserver/j2ee@25
+- pkg:maven/com.wadpam.openserver/j2ee@25?classifier=sources
+- pkg:maven/com.wadpam.openserver/j2ee@26
+- pkg:maven/com.wadpam.openserver/j2ee@26?classifier=sources
+- pkg:maven/com.wadpam.openserver/j2ee@27
+- pkg:maven/com.wadpam.openserver/j2ee@27?classifier=sources
+- pkg:maven/com.wadpam.openserver/j2ee@28
+- pkg:maven/com.wadpam.openserver/j2ee@28?classifier=sources
+- pkg:maven/com.wadpam.openserver/j2ee@29
+- pkg:maven/com.wadpam.openserver/j2ee@29?classifier=sources

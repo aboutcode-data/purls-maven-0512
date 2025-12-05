@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.squirrel-sql.thirdparty-non-maven/substance@5.2_01
+- pkg:maven/net.sf.squirrel-sql.thirdparty-non-maven/substance@5.2_01?classifier=sources

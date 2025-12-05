@@ -1,0 +1,2 @@
+- pkg:maven/com.englishtown/vertx-mod-mongo-gridfs@1.0.0-final?classifier=sources
+- pkg:maven/com.englishtown/vertx-mod-mongo-gridfs@1.0.0-final?type=zip

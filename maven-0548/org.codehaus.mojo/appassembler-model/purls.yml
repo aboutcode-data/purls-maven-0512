@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.mojo/appassembler-model@1.0-alpha-2
+- pkg:maven/org.codehaus.mojo/appassembler-model@1.0-alpha-2?classifier=sources

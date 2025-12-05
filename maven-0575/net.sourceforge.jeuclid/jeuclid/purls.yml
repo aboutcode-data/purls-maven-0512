@@ -1,0 +1,6 @@
+- pkg:maven/net.sourceforge.jeuclid/jeuclid@2.9.4
+- pkg:maven/net.sourceforge.jeuclid/jeuclid@2.9.4?classifier=sources
+- pkg:maven/net.sourceforge.jeuclid/jeuclid@2.9.5
+- pkg:maven/net.sourceforge.jeuclid/jeuclid@2.9.5?classifier=sources
+- pkg:maven/net.sourceforge.jeuclid/jeuclid@2.9.6
+- pkg:maven/net.sourceforge.jeuclid/jeuclid@2.9.6?classifier=sources

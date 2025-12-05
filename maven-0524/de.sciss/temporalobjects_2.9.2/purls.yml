@@ -1,0 +1,10 @@
+- pkg:maven/de.sciss/temporalobjects_2.9.2@0.32
+- pkg:maven/de.sciss/temporalobjects_2.9.2@0.32?classifier=sources
+- pkg:maven/de.sciss/temporalobjects_2.9.2@0.33
+- pkg:maven/de.sciss/temporalobjects_2.9.2@0.33?classifier=sources
+- pkg:maven/de.sciss/temporalobjects_2.9.2@0.34
+- pkg:maven/de.sciss/temporalobjects_2.9.2@0.34?classifier=sources
+- pkg:maven/de.sciss/temporalobjects_2.9.2@1.0.0
+- pkg:maven/de.sciss/temporalobjects_2.9.2@1.0.0?classifier=sources
+- pkg:maven/de.sciss/temporalobjects_2.9.2@1.2.0
+- pkg:maven/de.sciss/temporalobjects_2.9.2@1.2.0?classifier=sources

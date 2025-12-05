@@ -1,0 +1,2 @@
+- pkg:maven/net.md-5/specialsource-maven-plugin@1.0
+- pkg:maven/net.md-5/specialsource-maven-plugin@1.0?classifier=sources

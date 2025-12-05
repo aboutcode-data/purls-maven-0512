@@ -1,0 +1,7 @@
+- pkg:maven/org.bouncycastle/bcpkix-jdk14@1.47?classifier=sources
+- pkg:maven/org.bouncycastle/bcpkix-jdk14@1.48
+- pkg:maven/org.bouncycastle/bcpkix-jdk14@1.48?classifier=sources
+- pkg:maven/org.bouncycastle/bcpkix-jdk14@1.49
+- pkg:maven/org.bouncycastle/bcpkix-jdk14@1.49?classifier=sources
+- pkg:maven/org.bouncycastle/bcpkix-jdk14@1.50
+- pkg:maven/org.bouncycastle/bcpkix-jdk14@1.50?classifier=sources

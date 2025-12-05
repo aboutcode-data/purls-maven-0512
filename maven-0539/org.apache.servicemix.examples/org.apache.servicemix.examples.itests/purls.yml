@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicemix.examples/org.apache.servicemix.examples.itests@4.0.0
+- pkg:maven/org.apache.servicemix.examples/org.apache.servicemix.examples.itests@4.0.0?classifier=sources

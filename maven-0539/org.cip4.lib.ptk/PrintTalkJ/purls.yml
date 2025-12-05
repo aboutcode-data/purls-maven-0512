@@ -1,0 +1,4 @@
+- pkg:maven/org.cip4.lib.ptk/PrintTalkJ@2.1.4a.75
+- pkg:maven/org.cip4.lib.ptk/PrintTalkJ@2.1.4a.75?classifier=sources
+- pkg:maven/org.cip4.lib.ptk/PrintTalkJ@2.1.4a.76
+- pkg:maven/org.cip4.lib.ptk/PrintTalkJ@2.1.4a.76?classifier=sources

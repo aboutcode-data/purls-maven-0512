@@ -1,0 +1,2 @@
+- pkg:maven/edu.ucar/bufr@3.0
+- pkg:maven/edu.ucar/bufr@3.0?classifier=sources

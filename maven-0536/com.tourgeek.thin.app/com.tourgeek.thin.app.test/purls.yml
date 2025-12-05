@@ -1,0 +1,2 @@
+- pkg:maven/com.tourgeek.thin.app/com.tourgeek.thin.app.test@0.8.2
+- pkg:maven/com.tourgeek.thin.app/com.tourgeek.thin.app.test@0.8.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.yuvimasory/orange-extensions@1.0.0
+- pkg:maven/com.yuvimasory/orange-extensions@1.0.0?classifier=sources
+- pkg:maven/com.yuvimasory/orange-extensions@1.3.0
+- pkg:maven/com.yuvimasory/orange-extensions@1.3.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/tr.com.lucidcode/kite-archetype@1.0.7
+- pkg:maven/tr.com.lucidcode/kite-archetype@1.0.7?classifier=sources
+- pkg:maven/tr.com.lucidcode/kite-archetype@1.0.8
+- pkg:maven/tr.com.lucidcode/kite-archetype@1.0.8?classifier=sources
+- pkg:maven/tr.com.lucidcode/kite-archetype@1.0.9
+- pkg:maven/tr.com.lucidcode/kite-archetype@1.0.9?classifier=sources

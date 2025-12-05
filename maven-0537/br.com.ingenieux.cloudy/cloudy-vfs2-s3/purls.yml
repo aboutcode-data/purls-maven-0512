@@ -1,0 +1,2 @@
+- pkg:maven/br.com.ingenieux.cloudy/cloudy-vfs2-s3@0.0.4
+- pkg:maven/br.com.ingenieux.cloudy/cloudy-vfs2-s3@0.0.4?classifier=sources

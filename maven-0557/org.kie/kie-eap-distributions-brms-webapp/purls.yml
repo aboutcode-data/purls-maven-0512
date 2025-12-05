@@ -1,0 +1,2 @@
+- pkg:maven/org.kie/kie-eap-distributions-brms-webapp@6.1.0.Beta1?type=war
+- pkg:maven/org.kie/kie-eap-distributions-brms-webapp@6.1.0.Beta2?type=war

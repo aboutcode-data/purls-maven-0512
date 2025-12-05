@@ -1,0 +1,4 @@
+- pkg:maven/javax.transaction/transaction-api@1.1
+- pkg:maven/javax.transaction/transaction-api@1.1-rev-1
+- pkg:maven/javax.transaction/transaction-api@1.1-rev-1?classifier=sources
+- pkg:maven/javax.transaction/transaction-api@1.1?classifier=sources
