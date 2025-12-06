@@ -1,0 +1,6 @@
+- pkg:maven/com.hazelcast/hazelcast-client-protocol@1.0.0
+- pkg:maven/com.hazelcast/hazelcast-client-protocol@1.0.0?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-client-protocol@1.1.0
+- pkg:maven/com.hazelcast/hazelcast-client-protocol@1.1.0?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-client-protocol@1.2.0
+- pkg:maven/com.hazelcast/hazelcast-client-protocol@1.2.0?classifier=sources

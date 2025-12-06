@@ -1,0 +1,2 @@
+- pkg:maven/in.wavelabs/idn-media-api@0.0.1?classifier=sources
+- pkg:maven/in.wavelabs/idn-media-api@0.0.2?classifier=sources

@@ -22,6 +22,8 @@
 - pkg:maven/org.scalatest/scalatest-all_sjs0.6_2.10@3.0.0-SNAP10?classifier=sources
 - pkg:maven/org.scalatest/scalatest-all_sjs0.6_2.10@3.0.0-SNAP11
 - pkg:maven/org.scalatest/scalatest-all_sjs0.6_2.10@3.0.0-SNAP11?classifier=sources
+- pkg:maven/org.scalatest/scalatest-all_sjs0.6_2.10@3.0.0-SNAP12
+- pkg:maven/org.scalatest/scalatest-all_sjs0.6_2.10@3.0.0-SNAP12?classifier=sources
 - pkg:maven/org.scalatest/scalatest-all_sjs0.6_2.10@3.0.0-SNAP6
 - pkg:maven/org.scalatest/scalatest-all_sjs0.6_2.10@3.0.0-SNAP6?classifier=sources
 - pkg:maven/org.scalatest/scalatest-all_sjs0.6_2.10@3.0.0-SNAP7

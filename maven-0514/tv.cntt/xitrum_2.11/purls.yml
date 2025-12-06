@@ -30,3 +30,13 @@
 - pkg:maven/tv.cntt/xitrum_2.11@3.24.0?classifier=sources
 - pkg:maven/tv.cntt/xitrum_2.11@3.25.0
 - pkg:maven/tv.cntt/xitrum_2.11@3.25.0?classifier=sources
+- pkg:maven/tv.cntt/xitrum_2.11@3.26.0
+- pkg:maven/tv.cntt/xitrum_2.11@3.26.0?classifier=sources
+- pkg:maven/tv.cntt/xitrum_2.11@3.26.1
+- pkg:maven/tv.cntt/xitrum_2.11@3.26.1?classifier=sources
+- pkg:maven/tv.cntt/xitrum_2.11@3.26.2
+- pkg:maven/tv.cntt/xitrum_2.11@3.26.2?classifier=sources
+- pkg:maven/tv.cntt/xitrum_2.11@3.27.0
+- pkg:maven/tv.cntt/xitrum_2.11@3.27.0?classifier=sources
+- pkg:maven/tv.cntt/xitrum_2.11@3.28.0
+- pkg:maven/tv.cntt/xitrum_2.11@3.28.0?classifier=sources

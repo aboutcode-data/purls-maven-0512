@@ -8,3 +8,7 @@
 - pkg:maven/com.qubole.qds-sdk-java/qds-sdk-java@0.6.0?classifier=sources
 - pkg:maven/com.qubole.qds-sdk-java/qds-sdk-java@0.6.1
 - pkg:maven/com.qubole.qds-sdk-java/qds-sdk-java@0.6.1?classifier=sources
+- pkg:maven/com.qubole.qds-sdk-java/qds-sdk-java@0.7.0
+- pkg:maven/com.qubole.qds-sdk-java/qds-sdk-java@0.7.0?classifier=sources
+- pkg:maven/com.qubole.qds-sdk-java/qds-sdk-java@0.8.0
+- pkg:maven/com.qubole.qds-sdk-java/qds-sdk-java@0.8.0?classifier=sources

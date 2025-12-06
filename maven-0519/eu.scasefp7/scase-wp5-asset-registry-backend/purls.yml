@@ -12,3 +12,7 @@
 - pkg:maven/eu.scasefp7/scase-wp5-asset-registry-backend@1.0.6?classifier=sources
 - pkg:maven/eu.scasefp7/scase-wp5-asset-registry-backend@1.0.7
 - pkg:maven/eu.scasefp7/scase-wp5-asset-registry-backend@1.0.7?classifier=sources
+- pkg:maven/eu.scasefp7/scase-wp5-asset-registry-backend@1.0.8
+- pkg:maven/eu.scasefp7/scase-wp5-asset-registry-backend@1.0.8?classifier=sources
+- pkg:maven/eu.scasefp7/scase-wp5-asset-registry-backend@1.1.0
+- pkg:maven/eu.scasefp7/scase-wp5-asset-registry-backend@1.1.0?classifier=sources

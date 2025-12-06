@@ -8,3 +8,5 @@
 - pkg:maven/org.betteridiots.ddf/ddf-maven-plugin@0.1.5?classifier=sources
 - pkg:maven/org.betteridiots.ddf/ddf-maven-plugin@0.1.6
 - pkg:maven/org.betteridiots.ddf/ddf-maven-plugin@0.1.6?classifier=sources
+- pkg:maven/org.betteridiots.ddf/ddf-maven-plugin@0.1.8
+- pkg:maven/org.betteridiots.ddf/ddf-maven-plugin@0.1.8?classifier=sources

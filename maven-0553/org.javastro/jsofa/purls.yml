@@ -1,0 +1,2 @@
+- pkg:maven/org.javastro/jsofa@20160729
+- pkg:maven/org.javastro/jsofa@20160729?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.carewebframework/org.carewebframework.help.ohj@3.1.0?classifier=sources
 - pkg:maven/org.carewebframework/org.carewebframework.help.ohj@4.0.0
 - pkg:maven/org.carewebframework/org.carewebframework.help.ohj@4.0.0?classifier=sources
+- pkg:maven/org.carewebframework/org.carewebframework.help.ohj@5.0.0-RC1
+- pkg:maven/org.carewebframework/org.carewebframework.help.ohj@5.0.0-RC1?classifier=sources

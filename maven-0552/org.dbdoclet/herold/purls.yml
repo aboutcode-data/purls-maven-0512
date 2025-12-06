@@ -1,0 +1,2 @@
+- pkg:maven/org.dbdoclet/herold@8.0.4
+- pkg:maven/org.dbdoclet/herold@8.0.4?classifier=sources

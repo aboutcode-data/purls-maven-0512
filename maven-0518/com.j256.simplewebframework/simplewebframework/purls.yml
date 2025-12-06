@@ -1,0 +1,2 @@
+- pkg:maven/com.j256.simplewebframework/simplewebframework@0.1
+- pkg:maven/com.j256.simplewebframework/simplewebframework@0.1?classifier=sources

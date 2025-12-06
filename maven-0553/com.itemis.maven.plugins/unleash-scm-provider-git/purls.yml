@@ -1,0 +1,14 @@
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-git@0.1.0
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-git@0.1.0?classifier=sources
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-git@0.2.0
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-git@0.2.0?classifier=sources
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-git@1.0.0
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-git@1.0.0?classifier=sources
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-git@1.0.1
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-git@1.0.1?classifier=sources
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-git@1.1.0
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-git@1.1.0?classifier=sources
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-git@1.2.0
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-git@1.2.0?classifier=sources
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-git@2.0.0
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-git@2.0.0?classifier=sources

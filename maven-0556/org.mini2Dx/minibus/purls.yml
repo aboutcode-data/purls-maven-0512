@@ -1,0 +1,6 @@
+- pkg:maven/org.mini2Dx/minibus@1.0.0
+- pkg:maven/org.mini2Dx/minibus@1.0.0-beta2
+- pkg:maven/org.mini2Dx/minibus@1.0.0-beta2?classifier=sources
+- pkg:maven/org.mini2Dx/minibus@1.0.0?classifier=sources
+- pkg:maven/org.mini2Dx/minibus@1.1.0
+- pkg:maven/org.mini2Dx/minibus@1.1.0?classifier=sources

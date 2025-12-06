@@ -1,0 +1,2 @@
+- pkg:maven/ru.finnetrolle/business-logic-validation@0.1.0
+- pkg:maven/ru.finnetrolle/business-logic-validation@0.1.0?classifier=sources

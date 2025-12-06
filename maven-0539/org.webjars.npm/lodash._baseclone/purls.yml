@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/lodash._baseclone@4.5.3
+- pkg:maven/org.webjars.npm/lodash._baseclone@4.5.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/eu.seaclouds-project/planner-service@1.0.0
+- pkg:maven/eu.seaclouds-project/planner-service@1.0.0?classifier=sources

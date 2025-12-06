@@ -1,3 +1,7 @@
+- pkg:maven/com.ontology2/centipede-parser@100.0
+- pkg:maven/com.ontology2/centipede-parser@100.0?classifier=sources
+- pkg:maven/com.ontology2/centipede-parser@100.2
+- pkg:maven/com.ontology2/centipede-parser@100.2?classifier=sources
 - pkg:maven/com.ontology2/centipede-parser@99.7
 - pkg:maven/com.ontology2/centipede-parser@99.7?classifier=sources
 - pkg:maven/com.ontology2/centipede-parser@99.8

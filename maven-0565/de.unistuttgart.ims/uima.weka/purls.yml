@@ -1,0 +1,2 @@
+- pkg:maven/de.unistuttgart.ims/uima.weka@0.3.0
+- pkg:maven/de.unistuttgart.ims/uima.weka@0.3.0?classifier=sources

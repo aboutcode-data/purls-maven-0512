@@ -10,3 +10,7 @@
 - pkg:maven/se.ugli.ugli-commons/ugli-commons@1.0.4?classifier=sources
 - pkg:maven/se.ugli.ugli-commons/ugli-commons@1.1.0
 - pkg:maven/se.ugli.ugli-commons/ugli-commons@1.1.0?classifier=sources
+- pkg:maven/se.ugli.ugli-commons/ugli-commons@1.6.0.0
+- pkg:maven/se.ugli.ugli-commons/ugli-commons@1.6.0.0?classifier=sources
+- pkg:maven/se.ugli.ugli-commons/ugli-commons@1.8.0.0
+- pkg:maven/se.ugli.ugli-commons/ugli-commons@1.8.0.0?classifier=sources

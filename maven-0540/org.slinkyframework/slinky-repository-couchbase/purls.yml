@@ -1,0 +1,10 @@
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase@0.2.1
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase@0.2.10
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase@0.2.2
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase@0.2.7
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase@0.2.8
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase@0.2.9
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase@0.3.0
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase@0.3.0?classifier=sources
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase@0.3.1
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase@0.3.1?classifier=sources

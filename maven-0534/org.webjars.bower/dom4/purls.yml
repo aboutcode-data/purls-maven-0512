@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/dom4@1.8.2
+- pkg:maven/org.webjars.bower/dom4@1.8.2?classifier=sources
+- pkg:maven/org.webjars.bower/dom4@1.8.3
+- pkg:maven/org.webjars.bower/dom4@1.8.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/types__react-native@0.29.29
+- pkg:maven/org.webjars.npm/types__react-native@0.29.29?classifier=sources

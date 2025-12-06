@@ -1,0 +1,2 @@
+- pkg:maven/com.codeminders.socketio.sample/socketio-sample-chat@1.0.1
+- pkg:maven/com.codeminders.socketio.sample/socketio-sample-chat@1.0.1?classifier=sources

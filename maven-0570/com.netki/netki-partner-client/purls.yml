@@ -1,0 +1,2 @@
+- pkg:maven/com.netki/netki-partner-client@0.0.1
+- pkg:maven/com.netki/netki-partner-client@0.0.1?classifier=sources

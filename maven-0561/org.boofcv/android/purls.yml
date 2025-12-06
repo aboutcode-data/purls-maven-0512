@@ -4,3 +4,15 @@
 - pkg:maven/org.boofcv/android@0.18?classifier=sources
 - pkg:maven/org.boofcv/android@0.19
 - pkg:maven/org.boofcv/android@0.19?classifier=sources
+- pkg:maven/org.boofcv/android@0.20
+- pkg:maven/org.boofcv/android@0.20?classifier=sources
+- pkg:maven/org.boofcv/android@0.21
+- pkg:maven/org.boofcv/android@0.21?classifier=sources
+- pkg:maven/org.boofcv/android@0.22
+- pkg:maven/org.boofcv/android@0.22?classifier=sources
+- pkg:maven/org.boofcv/android@0.23
+- pkg:maven/org.boofcv/android@0.23?classifier=sources
+- pkg:maven/org.boofcv/android@0.24
+- pkg:maven/org.boofcv/android@0.24.1
+- pkg:maven/org.boofcv/android@0.24.1?classifier=sources
+- pkg:maven/org.boofcv/android@0.24?classifier=sources

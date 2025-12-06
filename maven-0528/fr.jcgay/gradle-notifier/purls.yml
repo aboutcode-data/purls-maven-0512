@@ -6,3 +6,7 @@
 - pkg:maven/fr.jcgay/gradle-notifier@0.3?classifier=sources
 - pkg:maven/fr.jcgay/gradle-notifier@0.4.0
 - pkg:maven/fr.jcgay/gradle-notifier@0.4.0?classifier=sources
+- pkg:maven/fr.jcgay/gradle-notifier@1.0.0
+- pkg:maven/fr.jcgay/gradle-notifier@1.0.0?classifier=sources
+- pkg:maven/fr.jcgay/gradle-notifier@1.0.1
+- pkg:maven/fr.jcgay/gradle-notifier@1.0.1?classifier=sources

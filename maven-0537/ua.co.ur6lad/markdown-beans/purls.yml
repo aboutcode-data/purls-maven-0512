@@ -1,0 +1,4 @@
+- pkg:maven/ua.co.ur6lad/markdown-beans@1.0.0
+- pkg:maven/ua.co.ur6lad/markdown-beans@1.0.0?classifier=sources
+- pkg:maven/ua.co.ur6lad/markdown-beans@1.0.1
+- pkg:maven/ua.co.ur6lad/markdown-beans@1.0.1?classifier=sources

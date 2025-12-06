@@ -1,0 +1,2 @@
+- pkg:maven/kr.pe.kwonnam.spymemcached-extra-transcoders/spymemcached-extra-transcoders-core@0.1
+- pkg:maven/kr.pe.kwonnam.spymemcached-extra-transcoders/spymemcached-extra-transcoders-core@0.1?classifier=sources

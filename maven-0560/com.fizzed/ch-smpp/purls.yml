@@ -1,0 +1,4 @@
+- pkg:maven/com.fizzed/ch-smpp@5.0.9
+- pkg:maven/com.fizzed/ch-smpp@5.0.9?classifier=sources
+- pkg:maven/com.fizzed/ch-smpp@6.0.0-netty4-beta-3
+- pkg:maven/com.fizzed/ch-smpp@6.0.0-netty4-beta-3?classifier=sources

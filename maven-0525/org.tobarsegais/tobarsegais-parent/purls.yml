@@ -10,6 +10,7 @@
 - pkg:maven/org.tobarsegais/tobarsegais-parent@1.12?classifier=source-release&type=zip
 - pkg:maven/org.tobarsegais/tobarsegais-parent@1.14?classifier=source-release&type=zip
 - pkg:maven/org.tobarsegais/tobarsegais-parent@1.15?classifier=source-release&type=zip
+- pkg:maven/org.tobarsegais/tobarsegais-parent@1.16?classifier=source-release&type=zip
 - pkg:maven/org.tobarsegais/tobarsegais-parent@1.2.1?classifier=source-release&type=zip
 - pkg:maven/org.tobarsegais/tobarsegais-parent@1.2?classifier=source-release&type=zip
 - pkg:maven/org.tobarsegais/tobarsegais-parent@1.3?classifier=source-release&type=zip

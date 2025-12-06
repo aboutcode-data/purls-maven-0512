@@ -16,3 +16,5 @@
 - pkg:maven/ru.yandex.qatools.ashot/ashot@1.4.6?classifier=sources
 - pkg:maven/ru.yandex.qatools.ashot/ashot@1.4.8
 - pkg:maven/ru.yandex.qatools.ashot/ashot@1.4.8?classifier=sources
+- pkg:maven/ru.yandex.qatools.ashot/ashot@1.5.2
+- pkg:maven/ru.yandex.qatools.ashot/ashot@1.5.2?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/io.wcm/io.wcm.config.api@0.5.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.config.api@0.5.2
 - pkg:maven/io.wcm/io.wcm.config.api@0.5.2?classifier=sources
+- pkg:maven/io.wcm/io.wcm.config.api@0.5.4
+- pkg:maven/io.wcm/io.wcm.config.api@0.5.4?classifier=sources
+- pkg:maven/io.wcm/io.wcm.config.api@0.5.6
+- pkg:maven/io.wcm/io.wcm.config.api@0.5.6?classifier=sources

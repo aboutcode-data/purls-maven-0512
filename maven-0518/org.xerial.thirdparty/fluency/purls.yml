@@ -1,0 +1,4 @@
+- pkg:maven/org.xerial.thirdparty/fluency@0.0.13-hotfix
+- pkg:maven/org.xerial.thirdparty/fluency@0.0.13-hotfix?classifier=sources
+- pkg:maven/org.xerial.thirdparty/fluency@0.0.13-shaded
+- pkg:maven/org.xerial.thirdparty/fluency@0.0.13-shaded?classifier=sources

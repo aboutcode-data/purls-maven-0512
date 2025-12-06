@@ -1,0 +1,2 @@
+- pkg:maven/com.comcast.money/money-aws-java-sdk_2.10@0.8.14
+- pkg:maven/com.comcast.money/money-aws-java-sdk_2.10@0.8.14?classifier=sources

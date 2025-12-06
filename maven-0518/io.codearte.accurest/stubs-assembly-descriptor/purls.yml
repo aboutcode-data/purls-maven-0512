@@ -1,0 +1,4 @@
+- pkg:maven/io.codearte.accurest/stubs-assembly-descriptor@1.0
+- pkg:maven/io.codearte.accurest/stubs-assembly-descriptor@1.0?classifier=sources
+- pkg:maven/io.codearte.accurest/stubs-assembly-descriptor@1.1
+- pkg:maven/io.codearte.accurest/stubs-assembly-descriptor@1.1?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/org.ligboy.android/selectphoto@0.1.0?classifier=sources
+- pkg:maven/org.ligboy.android/selectphoto@0.1.0?type=aar
+- pkg:maven/org.ligboy.android/selectphoto@0.2.0?classifier=sources
+- pkg:maven/org.ligboy.android/selectphoto@0.2.0?type=aar
+- pkg:maven/org.ligboy.android/selectphoto@0.2.1?classifier=sources
+- pkg:maven/org.ligboy.android/selectphoto@0.2.1?type=aar
+- pkg:maven/org.ligboy.android/selectphoto@1.0.1?classifier=sources
+- pkg:maven/org.ligboy.android/selectphoto@1.0.1?type=aar
+- pkg:maven/org.ligboy.android/selectphoto@1.1.0?classifier=sources
+- pkg:maven/org.ligboy.android/selectphoto@1.1.0?type=aar
+- pkg:maven/org.ligboy.android/selectphoto@1.1.1?classifier=sources
+- pkg:maven/org.ligboy.android/selectphoto@1.1.1?type=aar

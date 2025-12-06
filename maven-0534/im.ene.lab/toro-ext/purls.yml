@@ -1,0 +1,8 @@
+- pkg:maven/im.ene.lab/toro-ext@2.0.0-RC3?classifier=sources
+- pkg:maven/im.ene.lab/toro-ext@2.0.0-RC3?type=aar
+- pkg:maven/im.ene.lab/toro-ext@2.0.0-RC4?classifier=sources
+- pkg:maven/im.ene.lab/toro-ext@2.0.0-RC4?type=aar
+- pkg:maven/im.ene.lab/toro-ext@2.0.0-RC5?classifier=sources
+- pkg:maven/im.ene.lab/toro-ext@2.0.0-RC5?type=aar
+- pkg:maven/im.ene.lab/toro-ext@2.0.0-alpha5?classifier=sources
+- pkg:maven/im.ene.lab/toro-ext@2.0.0-alpha5?type=aar

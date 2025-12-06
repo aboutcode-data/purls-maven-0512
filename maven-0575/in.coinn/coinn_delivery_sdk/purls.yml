@@ -1,0 +1,10 @@
+- pkg:maven/in.coinn/coinn_delivery_sdk@0.1.1?classifier=sources
+- pkg:maven/in.coinn/coinn_delivery_sdk@0.1.1?type=aar
+- pkg:maven/in.coinn/coinn_delivery_sdk@0.1.3?classifier=sources
+- pkg:maven/in.coinn/coinn_delivery_sdk@0.1.3?type=aar
+- pkg:maven/in.coinn/coinn_delivery_sdk@0.1.4?classifier=sources
+- pkg:maven/in.coinn/coinn_delivery_sdk@0.1.4?type=aar
+- pkg:maven/in.coinn/coinn_delivery_sdk@0.1.5?classifier=sources
+- pkg:maven/in.coinn/coinn_delivery_sdk@0.1.5?type=aar
+- pkg:maven/in.coinn/coinn_delivery_sdk@0.1.6?classifier=sources
+- pkg:maven/in.coinn/coinn_delivery_sdk@0.1.6?type=aar

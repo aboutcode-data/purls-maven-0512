@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j/neo4j-deferred-locks@2.3.7
+- pkg:maven/org.neo4j/neo4j-deferred-locks@2.3.7?classifier=sources

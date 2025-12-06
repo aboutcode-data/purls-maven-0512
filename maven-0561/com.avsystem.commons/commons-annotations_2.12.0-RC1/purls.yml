@@ -1,0 +1,4 @@
+- pkg:maven/com.avsystem.commons/commons-annotations_2.12.0-RC1@1.18.3
+- pkg:maven/com.avsystem.commons/commons-annotations_2.12.0-RC1@1.18.3?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-annotations_2.12.0-RC1@1.18.4
+- pkg:maven/com.avsystem.commons/commons-annotations_2.12.0-RC1@1.18.4?classifier=sources

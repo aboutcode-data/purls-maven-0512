@@ -1,0 +1,4 @@
+- pkg:maven/it.ozimov/cirneco-hamcrest-jdk7@0.1
+- pkg:maven/it.ozimov/cirneco-hamcrest-jdk7@0.1?classifier=sources
+- pkg:maven/it.ozimov/cirneco-hamcrest-jdk7@0.2
+- pkg:maven/it.ozimov/cirneco-hamcrest-jdk7@0.2?classifier=sources

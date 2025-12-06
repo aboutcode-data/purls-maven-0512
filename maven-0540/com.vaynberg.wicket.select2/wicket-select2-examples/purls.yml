@@ -16,3 +16,5 @@
 - pkg:maven/com.vaynberg.wicket.select2/wicket-select2-examples@2.2?type=war
 - pkg:maven/com.vaynberg.wicket.select2/wicket-select2-examples@2.3?classifier=sources
 - pkg:maven/com.vaynberg.wicket.select2/wicket-select2-examples@2.3?type=war
+- pkg:maven/com.vaynberg.wicket.select2/wicket-select2-examples@2.4?classifier=sources
+- pkg:maven/com.vaynberg.wicket.select2/wicket-select2-examples@2.4?type=war

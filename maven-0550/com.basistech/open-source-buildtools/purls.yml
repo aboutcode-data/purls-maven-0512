@@ -1,0 +1,2 @@
+- pkg:maven/com.basistech/open-source-buildtools@1.0.0
+- pkg:maven/com.basistech/open-source-buildtools@1.0.0?classifier=sources

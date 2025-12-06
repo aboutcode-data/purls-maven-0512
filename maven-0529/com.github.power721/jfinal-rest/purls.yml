@@ -1,0 +1,2 @@
+- pkg:maven/com.github.power721/jfinal-rest@1.0
+- pkg:maven/com.github.power721/jfinal-rest@1.0?classifier=sources

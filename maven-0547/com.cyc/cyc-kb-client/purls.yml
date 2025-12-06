@@ -1,0 +1,6 @@
+- pkg:maven/com.cyc/cyc-kb-client@1.0.0-rc5
+- pkg:maven/com.cyc/cyc-kb-client@1.0.0-rc5.1
+- pkg:maven/com.cyc/cyc-kb-client@1.0.0-rc5.1?classifier=sources
+- pkg:maven/com.cyc/cyc-kb-client@1.0.0-rc5.2
+- pkg:maven/com.cyc/cyc-kb-client@1.0.0-rc5.2?classifier=sources
+- pkg:maven/com.cyc/cyc-kb-client@1.0.0-rc5?classifier=sources

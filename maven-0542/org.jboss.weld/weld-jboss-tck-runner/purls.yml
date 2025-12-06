@@ -62,6 +62,10 @@
 - pkg:maven/org.jboss.weld/weld-jboss-tck-runner@1.1.30.Final?classifier=sources
 - pkg:maven/org.jboss.weld/weld-jboss-tck-runner@1.1.31.Final
 - pkg:maven/org.jboss.weld/weld-jboss-tck-runner@1.1.31.Final?classifier=sources
+- pkg:maven/org.jboss.weld/weld-jboss-tck-runner@1.1.32.Final
+- pkg:maven/org.jboss.weld/weld-jboss-tck-runner@1.1.32.Final?classifier=sources
+- pkg:maven/org.jboss.weld/weld-jboss-tck-runner@1.1.33.Final
+- pkg:maven/org.jboss.weld/weld-jboss-tck-runner@1.1.33.Final?classifier=sources
 - pkg:maven/org.jboss.weld/weld-jboss-tck-runner@1.1.4.Final
 - pkg:maven/org.jboss.weld/weld-jboss-tck-runner@1.1.4.Final?classifier=sources
 - pkg:maven/org.jboss.weld/weld-jboss-tck-runner@1.1.5.AS71.Final

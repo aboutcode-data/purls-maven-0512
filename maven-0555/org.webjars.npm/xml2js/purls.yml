@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/xml2js@0.4.15
+- pkg:maven/org.webjars.npm/xml2js@0.4.15?classifier=sources

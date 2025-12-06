@@ -1,0 +1,2 @@
+- pkg:maven/org.apereo.cas/cas-server-support-trusted-mfa-rest@5.0.0.RC2
+- pkg:maven/org.apereo.cas/cas-server-support-trusted-mfa-rest@5.0.0.RC2?classifier=sources

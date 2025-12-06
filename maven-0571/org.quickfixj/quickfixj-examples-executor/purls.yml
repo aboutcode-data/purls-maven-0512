@@ -1,0 +1,2 @@
+- pkg:maven/org.quickfixj/quickfixj-examples-executor@1.6.2
+- pkg:maven/org.quickfixj/quickfixj-examples-executor@1.6.2?classifier=sources

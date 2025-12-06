@@ -1,0 +1,4 @@
+- pkg:maven/com.vietkite.adnetwork/inad@1.0.11?classifier=sources
+- pkg:maven/com.vietkite.adnetwork/inad@1.0.11?type=aar
+- pkg:maven/com.vietkite.adnetwork/inad@1.0.12?classifier=sources
+- pkg:maven/com.vietkite.adnetwork/inad@1.0.12?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/com.rudolfschmidt/javase8-essentials-archetype@1.0
 - pkg:maven/com.rudolfschmidt/javase8-essentials-archetype@1.0?classifier=sources
+- pkg:maven/com.rudolfschmidt/javase8-essentials-archetype@2.0
+- pkg:maven/com.rudolfschmidt/javase8-essentials-archetype@2.0?classifier=sources

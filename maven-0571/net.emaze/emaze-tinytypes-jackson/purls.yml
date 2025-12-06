@@ -1,0 +1,2 @@
+- pkg:maven/net.emaze/emaze-tinytypes-jackson@2.4
+- pkg:maven/net.emaze/emaze-tinytypes-jackson@2.4?classifier=sources

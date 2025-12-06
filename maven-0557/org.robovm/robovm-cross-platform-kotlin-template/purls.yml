@@ -1,0 +1,2 @@
+- pkg:maven/org.robovm/robovm-cross-platform-kotlin-template@1.10.0?classifier=sources
+- pkg:maven/org.robovm/robovm-cross-platform-kotlin-template@1.11.0?classifier=sources

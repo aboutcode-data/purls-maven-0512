@@ -1,0 +1,4 @@
+- pkg:maven/org.nutz/nutz-plugins-sfntly@1.r.57.r3
+- pkg:maven/org.nutz/nutz-plugins-sfntly@1.r.57.r3?classifier=sources
+- pkg:maven/org.nutz/nutz-plugins-sfntly@1.r.58
+- pkg:maven/org.nutz/nutz-plugins-sfntly@1.r.58?classifier=sources

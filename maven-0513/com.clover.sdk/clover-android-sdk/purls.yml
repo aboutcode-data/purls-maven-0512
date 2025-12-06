@@ -2,6 +2,14 @@
 - pkg:maven/com.clover.sdk/clover-android-sdk@112?type=aar
 - pkg:maven/com.clover.sdk/clover-android-sdk@117?classifier=sources
 - pkg:maven/com.clover.sdk/clover-android-sdk@117?type=aar
+- pkg:maven/com.clover.sdk/clover-android-sdk@128?classifier=sources
+- pkg:maven/com.clover.sdk/clover-android-sdk@128?type=aar
+- pkg:maven/com.clover.sdk/clover-android-sdk@132?classifier=sources
+- pkg:maven/com.clover.sdk/clover-android-sdk@132?type=aar
+- pkg:maven/com.clover.sdk/clover-android-sdk@133?classifier=sources
+- pkg:maven/com.clover.sdk/clover-android-sdk@133?type=aar
+- pkg:maven/com.clover.sdk/clover-android-sdk@137?classifier=sources
+- pkg:maven/com.clover.sdk/clover-android-sdk@137?type=aar
 - pkg:maven/com.clover.sdk/clover-android-sdk@17?classifier=sources
 - pkg:maven/com.clover.sdk/clover-android-sdk@17?type=aar
 - pkg:maven/com.clover.sdk/clover-android-sdk@1?classifier=sources

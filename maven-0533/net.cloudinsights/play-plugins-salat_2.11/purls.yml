@@ -1,0 +1,4 @@
+- pkg:maven/net.cloudinsights/play-plugins-salat_2.11@1.5.7
+- pkg:maven/net.cloudinsights/play-plugins-salat_2.11@1.5.7?classifier=sources
+- pkg:maven/net.cloudinsights/play-plugins-salat_2.11@1.5.9
+- pkg:maven/net.cloudinsights/play-plugins-salat_2.11@1.5.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.rapidpm.proxybuilder/rapidpm-proxybuilder-modules-static@0.0.4
+- pkg:maven/org.rapidpm.proxybuilder/rapidpm-proxybuilder-modules-static@0.0.4?classifier=sources

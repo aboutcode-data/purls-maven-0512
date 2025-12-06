@@ -1,0 +1,4 @@
+- pkg:maven/me.drmaas/ratpack-kotlin@0.2.0
+- pkg:maven/me.drmaas/ratpack-kotlin@0.2.0?classifier=sources
+- pkg:maven/me.drmaas/ratpack-kotlin@0.3.0
+- pkg:maven/me.drmaas/ratpack-kotlin@0.3.0?classifier=sources

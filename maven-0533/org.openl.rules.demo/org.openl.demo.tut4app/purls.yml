@@ -12,3 +12,5 @@
 - pkg:maven/org.openl.rules.demo/org.openl.demo.tut4app@5.11.5?type=war
 - pkg:maven/org.openl.rules.demo/org.openl.demo.tut4app@5.11.6?classifier=sources
 - pkg:maven/org.openl.rules.demo/org.openl.demo.tut4app@5.11.6?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.demo.tut4app@5.11.7?classifier=sources
+- pkg:maven/org.openl.rules.demo/org.openl.demo.tut4app@5.11.7?type=war

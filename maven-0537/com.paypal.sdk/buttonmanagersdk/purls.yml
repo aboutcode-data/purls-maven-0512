@@ -14,3 +14,5 @@
 - pkg:maven/com.paypal.sdk/buttonmanagersdk@2.5.106?classifier=sources
 - pkg:maven/com.paypal.sdk/buttonmanagersdk@2.6.106
 - pkg:maven/com.paypal.sdk/buttonmanagersdk@2.6.106?classifier=sources
+- pkg:maven/com.paypal.sdk/buttonmanagersdk@2.7.106
+- pkg:maven/com.paypal.sdk/buttonmanagersdk@2.7.106?classifier=sources

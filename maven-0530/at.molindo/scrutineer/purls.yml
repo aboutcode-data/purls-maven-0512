@@ -1,0 +1,4 @@
+- pkg:maven/at.molindo/scrutineer@2.0.0
+- pkg:maven/at.molindo/scrutineer@2.0.0?classifier=sources
+- pkg:maven/at.molindo/scrutineer@3.0.0
+- pkg:maven/at.molindo/scrutineer@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.mhus.osgi/rewrite-servlet@1.0.5
+- pkg:maven/de.mhus.osgi/rewrite-servlet@1.0.5?classifier=sources

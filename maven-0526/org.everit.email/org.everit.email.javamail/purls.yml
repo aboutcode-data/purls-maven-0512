@@ -1,0 +1,4 @@
+- pkg:maven/org.everit.email/org.everit.email.javamail@1.0.0
+- pkg:maven/org.everit.email/org.everit.email.javamail@1.0.0?classifier=sources
+- pkg:maven/org.everit.email/org.everit.email.javamail@2.0.0
+- pkg:maven/org.everit.email/org.everit.email.javamail@2.0.0?classifier=sources

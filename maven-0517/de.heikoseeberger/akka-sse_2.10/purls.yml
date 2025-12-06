@@ -6,3 +6,7 @@
 - pkg:maven/de.heikoseeberger/akka-sse_2.10@1.0.0-RC1
 - pkg:maven/de.heikoseeberger/akka-sse_2.10@1.0.0-RC1?classifier=sources
 - pkg:maven/de.heikoseeberger/akka-sse_2.10@1.0.0?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-sse_2.10@1.4.1
+- pkg:maven/de.heikoseeberger/akka-sse_2.10@1.4.1?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-sse_2.10@1.4.2
+- pkg:maven/de.heikoseeberger/akka-sse_2.10@1.4.2?classifier=sources

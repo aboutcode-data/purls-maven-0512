@@ -4,3 +4,7 @@
 - pkg:maven/org.zalando/money-validation@0.2.0?classifier=sources
 - pkg:maven/org.zalando/money-validation@1.0.0
 - pkg:maven/org.zalando/money-validation@1.0.0?classifier=sources
+- pkg:maven/org.zalando/money-validation@1.1.0
+- pkg:maven/org.zalando/money-validation@1.1.0?classifier=sources
+- pkg:maven/org.zalando/money-validation@1.2.0
+- pkg:maven/org.zalando/money-validation@1.2.0?classifier=sources

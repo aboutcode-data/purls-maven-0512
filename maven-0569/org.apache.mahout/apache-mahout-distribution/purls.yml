@@ -4,3 +4,13 @@
 - pkg:maven/org.apache.mahout/apache-mahout-distribution@0.10.2?classifier=src&type=zip
 - pkg:maven/org.apache.mahout/apache-mahout-distribution@0.11.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.mahout/apache-mahout-distribution@0.11.0?classifier=src&type=zip
+- pkg:maven/org.apache.mahout/apache-mahout-distribution@0.11.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.mahout/apache-mahout-distribution@0.11.1?classifier=src&type=zip
+- pkg:maven/org.apache.mahout/apache-mahout-distribution@0.11.2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.mahout/apache-mahout-distribution@0.11.2?classifier=src&type=zip
+- pkg:maven/org.apache.mahout/apache-mahout-distribution@0.12.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.mahout/apache-mahout-distribution@0.12.0?classifier=src&type=zip
+- pkg:maven/org.apache.mahout/apache-mahout-distribution@0.12.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.mahout/apache-mahout-distribution@0.12.1?classifier=src&type=zip
+- pkg:maven/org.apache.mahout/apache-mahout-distribution@0.12.2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.mahout/apache-mahout-distribution@0.12.2?classifier=src&type=zip

@@ -1,0 +1,14 @@
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pap-api@3.6.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pap-api@3.6.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pap-api@4.0.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pap-api@4.0.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pap-api@5.0.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pap-api@5.0.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pap-api@5.1.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pap-api@5.1.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pap-api@5.2.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pap-api@5.2.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pap-api@5.2.1
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pap-api@5.2.1?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pap-api@5.3.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pap-api@5.3.0?classifier=sources

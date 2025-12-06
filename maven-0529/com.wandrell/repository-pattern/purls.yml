@@ -1,0 +1,2 @@
+- pkg:maven/com.wandrell/repository-pattern@0.2.0
+- pkg:maven/com.wandrell/repository-pattern@0.2.0?classifier=sources

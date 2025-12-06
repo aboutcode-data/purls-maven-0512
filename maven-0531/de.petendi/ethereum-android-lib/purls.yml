@@ -1,0 +1,2 @@
+- pkg:maven/de.petendi/ethereum-android-lib@0.2.1?classifier=sources
+- pkg:maven/de.petendi/ethereum-android-lib@0.2.1?type=aar

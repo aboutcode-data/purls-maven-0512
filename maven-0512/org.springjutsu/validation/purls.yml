@@ -12,3 +12,5 @@
 - pkg:maven/org.springjutsu/validation@0.7.2a?classifier=sources
 - pkg:maven/org.springjutsu/validation@0.7.3
 - pkg:maven/org.springjutsu/validation@0.7.3?classifier=sources
+- pkg:maven/org.springjutsu/validation@0.8.0
+- pkg:maven/org.springjutsu/validation@0.8.0?classifier=sources

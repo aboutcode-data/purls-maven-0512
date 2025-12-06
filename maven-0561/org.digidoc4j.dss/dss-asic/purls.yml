@@ -1,0 +1,4 @@
+- pkg:maven/org.digidoc4j.dss/dss-asic@4.6.RC1.d4j.2
+- pkg:maven/org.digidoc4j.dss/dss-asic@4.6.RC1.d4j.2?classifier=sources
+- pkg:maven/org.digidoc4j.dss/dss-asic@4.6.d4j.2
+- pkg:maven/org.digidoc4j.dss/dss-asic@4.6.d4j.2?classifier=sources

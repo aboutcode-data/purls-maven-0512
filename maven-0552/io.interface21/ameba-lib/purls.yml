@@ -1,0 +1,2 @@
+- pkg:maven/io.interface21/ameba-lib@1.7
+- pkg:maven/io.interface21/ameba-lib@1.7?classifier=sources

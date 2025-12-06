@@ -1,0 +1,2 @@
+- pkg:maven/org.mapdb/thread-weaver@3.0.mapdb
+- pkg:maven/org.mapdb/thread-weaver@3.0.mapdb?classifier=sources

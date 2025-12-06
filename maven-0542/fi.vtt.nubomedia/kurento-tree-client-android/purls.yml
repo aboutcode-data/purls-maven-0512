@@ -1,0 +1,6 @@
+- pkg:maven/fi.vtt.nubomedia/kurento-tree-client-android@1.0.4?classifier=sources
+- pkg:maven/fi.vtt.nubomedia/kurento-tree-client-android@1.0.4?type=aar
+- pkg:maven/fi.vtt.nubomedia/kurento-tree-client-android@1.0.8?classifier=sources
+- pkg:maven/fi.vtt.nubomedia/kurento-tree-client-android@1.0.8?type=aar
+- pkg:maven/fi.vtt.nubomedia/kurento-tree-client-android@1.0.9?classifier=sources
+- pkg:maven/fi.vtt.nubomedia/kurento-tree-client-android@1.0.9?type=aar

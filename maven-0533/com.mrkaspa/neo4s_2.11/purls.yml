@@ -1,0 +1,2 @@
+- pkg:maven/com.mrkaspa/neo4s_2.11@2.2.2
+- pkg:maven/com.mrkaspa/neo4s_2.11@2.2.2?classifier=sources

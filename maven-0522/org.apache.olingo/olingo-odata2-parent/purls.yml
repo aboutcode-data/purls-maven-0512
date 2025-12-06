@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.olingo/olingo-odata2-parent@2.0.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.olingo/olingo-odata2-parent@2.0.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.olingo/olingo-odata2-parent@2.0.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.olingo/olingo-odata2-parent@2.0.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.olingo/olingo-odata2-parent@2.0.7?classifier=source-release&type=zip

@@ -1,0 +1,6 @@
+- pkg:maven/es.arcasi.oss/file-storage@0.01.001
+- pkg:maven/es.arcasi.oss/file-storage@0.01.001?classifier=sources
+- pkg:maven/es.arcasi.oss/file-storage@0.02.001
+- pkg:maven/es.arcasi.oss/file-storage@0.02.001?classifier=sources
+- pkg:maven/es.arcasi.oss/file-storage@0.02.002
+- pkg:maven/es.arcasi.oss/file-storage@0.02.002?classifier=sources

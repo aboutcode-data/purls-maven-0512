@@ -1,0 +1,2 @@
+- pkg:maven/com.teradata.presto.hadoop/hadoop-apache2@0.3t
+- pkg:maven/com.teradata.presto.hadoop/hadoop-apache2@0.3t?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.hynnet/jxl@2.6.12.1
+- pkg:maven/com.hynnet/jxl@2.6.12.1?classifier=sources

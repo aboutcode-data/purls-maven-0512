@@ -23,4 +23,6 @@
 - pkg:maven/org.poreid/poreid@1.47?classifier=sources
 - pkg:maven/org.poreid/poreid@1.48
 - pkg:maven/org.poreid/poreid@1.48?classifier=sources
+- pkg:maven/org.poreid/poreid@1.49
+- pkg:maven/org.poreid/poreid@1.49?classifier=sources
 - pkg:maven/org.poreid/poreid@1.4?classifier=sources

@@ -15,4 +15,14 @@
 - pkg:maven/com.logitags/cibet@1.6.2?classifier=sources
 - pkg:maven/com.logitags/cibet@1.6?classifier=sources
 - pkg:maven/com.logitags/cibet@1.7
+- pkg:maven/com.logitags/cibet@1.7.1
+- pkg:maven/com.logitags/cibet@1.7.1?classifier=sources
+- pkg:maven/com.logitags/cibet@1.7.2
+- pkg:maven/com.logitags/cibet@1.7.2?classifier=sources
+- pkg:maven/com.logitags/cibet@1.7.3
+- pkg:maven/com.logitags/cibet@1.7.3?classifier=sources
 - pkg:maven/com.logitags/cibet@1.7?classifier=sources
+- pkg:maven/com.logitags/cibet@1.8
+- pkg:maven/com.logitags/cibet@1.8.1
+- pkg:maven/com.logitags/cibet@1.8.1?classifier=sources
+- pkg:maven/com.logitags/cibet@1.8?classifier=sources

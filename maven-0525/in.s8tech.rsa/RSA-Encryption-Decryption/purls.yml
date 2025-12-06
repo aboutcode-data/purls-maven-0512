@@ -1,0 +1,4 @@
+- pkg:maven/in.s8tech.rsa/RSA-Encryption-Decryption@1.0
+- pkg:maven/in.s8tech.rsa/RSA-Encryption-Decryption@1.0?classifier=sources
+- pkg:maven/in.s8tech.rsa/RSA-Encryption-Decryption@1.1
+- pkg:maven/in.s8tech.rsa/RSA-Encryption-Decryption@1.1?classifier=sources

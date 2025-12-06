@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/backbone-associations@0.6.2
+- pkg:maven/org.webjars.bower/backbone-associations@0.6.2?classifier=sources

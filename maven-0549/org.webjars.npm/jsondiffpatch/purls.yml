@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jsondiffpatch@0.1.43
+- pkg:maven/org.webjars.npm/jsondiffpatch@0.1.43?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/requirejs-react-jsx@0.14.1?classifier=sources
 - pkg:maven/org.webjars.npm/requirejs-react-jsx@0.14.2
 - pkg:maven/org.webjars.npm/requirejs-react-jsx@0.14.2?classifier=sources
+- pkg:maven/org.webjars.npm/requirejs-react-jsx@1.0.2
+- pkg:maven/org.webjars.npm/requirejs-react-jsx@1.0.2?classifier=sources

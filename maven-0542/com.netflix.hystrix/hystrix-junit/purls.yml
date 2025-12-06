@@ -1,0 +1,10 @@
+- pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.3
+- pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.3-rc.1
+- pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.3-rc.1?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.3-rc.2
+- pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.3-rc.2?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.3?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.4
+- pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.4?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.5
+- pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.5?classifier=sources

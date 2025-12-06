@@ -1,0 +1,2 @@
+- pkg:maven/io.tapack/allure-jbehave-reporter@0.1
+- pkg:maven/io.tapack/allure-jbehave-reporter@0.1?classifier=sources

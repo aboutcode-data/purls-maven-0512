@@ -4,6 +4,8 @@
 - pkg:maven/org.opengis.cite/ets-gml32@1.21?classifier=sources
 - pkg:maven/org.opengis.cite/ets-gml32@1.22
 - pkg:maven/org.opengis.cite/ets-gml32@1.22?classifier=sources
+- pkg:maven/org.opengis.cite/ets-gml32@1.23
+- pkg:maven/org.opengis.cite/ets-gml32@1.23?classifier=sources
 - pkg:maven/org.opengis.cite/ets-gml32@3.2.1-r16
 - pkg:maven/org.opengis.cite/ets-gml32@3.2.1-r16?classifier=sources
 - pkg:maven/org.opengis.cite/ets-gml32@3.2.1-r17

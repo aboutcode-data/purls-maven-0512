@@ -2,3 +2,7 @@
 - pkg:maven/org.flywaydb/flyway-sbt@3.1?classifier=sources
 - pkg:maven/org.flywaydb/flyway-sbt@3.2.1?classifier=sources
 - pkg:maven/org.flywaydb/flyway-sbt@3.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-sbt@4.0.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-sbt@4.0.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-sbt@4.0.3?classifier=sources
+- pkg:maven/org.flywaydb/flyway-sbt@4.0?classifier=sources

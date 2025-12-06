@@ -1,0 +1,2 @@
+- pkg:maven/io.rakam/rakam-client@0.5
+- pkg:maven/io.rakam/rakam-client@0.5?classifier=sources

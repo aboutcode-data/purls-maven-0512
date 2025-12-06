@@ -4,3 +4,11 @@
 - pkg:maven/com.messagegears/messagegears-java-sdk@3.1.13?classifier=sources
 - pkg:maven/com.messagegears/messagegears-java-sdk@3.1.15
 - pkg:maven/com.messagegears/messagegears-java-sdk@3.1.15?classifier=sources
+- pkg:maven/com.messagegears/messagegears-java-sdk@3.1.18
+- pkg:maven/com.messagegears/messagegears-java-sdk@3.1.18?classifier=sources
+- pkg:maven/com.messagegears/messagegears-java-sdk@3.1.19
+- pkg:maven/com.messagegears/messagegears-java-sdk@3.1.19?classifier=sources
+- pkg:maven/com.messagegears/messagegears-java-sdk@3.1.20
+- pkg:maven/com.messagegears/messagegears-java-sdk@3.1.20?classifier=sources
+- pkg:maven/com.messagegears/messagegears-java-sdk@3.1.21
+- pkg:maven/com.messagegears/messagegears-java-sdk@3.1.21?classifier=sources

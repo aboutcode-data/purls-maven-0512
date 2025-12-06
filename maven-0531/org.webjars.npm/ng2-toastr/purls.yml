@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/ng2-toastr@0.1.12
+- pkg:maven/org.webjars.npm/ng2-toastr@0.1.12?classifier=sources
+- pkg:maven/org.webjars.npm/ng2-toastr@0.2.0
+- pkg:maven/org.webjars.npm/ng2-toastr@0.2.0?classifier=sources

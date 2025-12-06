@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bower/lightgallery@1.2.21
+- pkg:maven/org.webjars.bower/lightgallery@1.2.21?classifier=sources
 - pkg:maven/org.webjars.bower/lightgallery@1.2.6
 - pkg:maven/org.webjars.bower/lightgallery@1.2.6?classifier=sources

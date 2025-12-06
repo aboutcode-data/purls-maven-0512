@@ -33,4 +33,6 @@
 - pkg:maven/com.github.vincentk/unit16-z@0.1.3?classifier=sources
 - pkg:maven/com.github.vincentk/unit16-z@0.1.4
 - pkg:maven/com.github.vincentk/unit16-z@0.1.4?classifier=sources
+- pkg:maven/com.github.vincentk/unit16-z@0.1.6
+- pkg:maven/com.github.vincentk/unit16-z@0.1.6?classifier=sources
 - pkg:maven/com.github.vincentk/unit16-z@0.1?classifier=sources

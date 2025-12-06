@@ -1,4 +1,8 @@
+- pkg:maven/org.webjars.bower/URIjs@1.12.0
+- pkg:maven/org.webjars.bower/URIjs@1.12.0?classifier=sources
 - pkg:maven/org.webjars.bower/URIjs@1.15.0
 - pkg:maven/org.webjars.bower/URIjs@1.15.0?classifier=sources
 - pkg:maven/org.webjars.bower/URIjs@1.16.0
 - pkg:maven/org.webjars.bower/URIjs@1.16.0?classifier=sources
+- pkg:maven/org.webjars.bower/URIjs@1.18.1
+- pkg:maven/org.webjars.bower/URIjs@1.18.1?classifier=sources

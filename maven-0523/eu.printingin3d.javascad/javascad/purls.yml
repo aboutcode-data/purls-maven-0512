@@ -1,0 +1,6 @@
+- pkg:maven/eu.printingin3d.javascad/javascad@0.9.0.11
+- pkg:maven/eu.printingin3d.javascad/javascad@0.9.0.11?classifier=sources
+- pkg:maven/eu.printingin3d.javascad/javascad@0.9.0.12
+- pkg:maven/eu.printingin3d.javascad/javascad@0.9.0.12?classifier=sources
+- pkg:maven/eu.printingin3d.javascad/javascad@0.9.0.13
+- pkg:maven/eu.printingin3d.javascad/javascad@0.9.0.13?classifier=sources

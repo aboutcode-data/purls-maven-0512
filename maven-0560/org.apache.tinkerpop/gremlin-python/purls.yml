@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tinkerpop/gremlin-python@3.2.2
+- pkg:maven/org.apache.tinkerpop/gremlin-python@3.2.2?classifier=sources

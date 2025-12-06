@@ -1,2 +1,6 @@
 - pkg:maven/com.bartoszlipinski/parsemodel-compiler@0.0.1-alpha
 - pkg:maven/com.bartoszlipinski/parsemodel-compiler@0.0.1-alpha?classifier=sources
+- pkg:maven/com.bartoszlipinski/parsemodel-compiler@0.0.4
+- pkg:maven/com.bartoszlipinski/parsemodel-compiler@0.0.4?classifier=sources
+- pkg:maven/com.bartoszlipinski/parsemodel-compiler@0.0.5
+- pkg:maven/com.bartoszlipinski/parsemodel-compiler@0.0.5?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.arquillian.extension/arquillian-droidium-multiple-containers@1.0.0.Alpha6?classifier=sources
 - pkg:maven/org.arquillian.extension/arquillian-droidium-multiple-containers@1.0.0.Final
 - pkg:maven/org.arquillian.extension/arquillian-droidium-multiple-containers@1.0.0.Final?classifier=sources
+- pkg:maven/org.arquillian.extension/arquillian-droidium-multiple-containers@1.0.1.Final
+- pkg:maven/org.arquillian.extension/arquillian-droidium-multiple-containers@1.0.1.Final?classifier=sources

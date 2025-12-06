@@ -16,3 +16,7 @@
 - pkg:maven/de.hshannover.f4.trust/ifmapj@2.2.2?classifier=sources
 - pkg:maven/de.hshannover.f4.trust/ifmapj@2.3.0
 - pkg:maven/de.hshannover.f4.trust/ifmapj@2.3.0?classifier=sources
+- pkg:maven/de.hshannover.f4.trust/ifmapj@2.3.1
+- pkg:maven/de.hshannover.f4.trust/ifmapj@2.3.1?classifier=sources
+- pkg:maven/de.hshannover.f4.trust/ifmapj@2.3.2
+- pkg:maven/de.hshannover.f4.trust/ifmapj@2.3.2?classifier=sources

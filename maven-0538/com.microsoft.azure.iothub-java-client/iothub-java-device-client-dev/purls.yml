@@ -1,0 +1,4 @@
+- pkg:maven/com.microsoft.azure.iothub-java-client/iothub-java-device-client-dev@1.0.2
+- pkg:maven/com.microsoft.azure.iothub-java-client/iothub-java-device-client-dev@1.0.2?classifier=sources
+- pkg:maven/com.microsoft.azure.iothub-java-client/iothub-java-device-client-dev@1.0.9
+- pkg:maven/com.microsoft.azure.iothub-java-client/iothub-java-device-client-dev@1.0.9?classifier=sources

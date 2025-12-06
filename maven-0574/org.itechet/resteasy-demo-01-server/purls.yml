@@ -1,0 +1,6 @@
+- pkg:maven/org.itechet/resteasy-demo-01-server@1.0.6
+- pkg:maven/org.itechet/resteasy-demo-01-server@1.0.6?classifier=sources
+- pkg:maven/org.itechet/resteasy-demo-01-server@1.0.8?classifier=sources
+- pkg:maven/org.itechet/resteasy-demo-01-server@1.0.8?type=war
+- pkg:maven/org.itechet/resteasy-demo-01-server@1.0.9?classifier=sources
+- pkg:maven/org.itechet/resteasy-demo-01-server@1.0.9?type=war

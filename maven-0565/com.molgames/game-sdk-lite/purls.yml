@@ -1,0 +1,2 @@
+- pkg:maven/com.molgames/game-sdk-lite@Lite.2.4.2.1?classifier=sources
+- pkg:maven/com.molgames/game-sdk-lite@Lite.2.4.2.1?type=aar

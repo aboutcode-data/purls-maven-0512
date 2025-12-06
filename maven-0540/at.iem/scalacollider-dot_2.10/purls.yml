@@ -1,0 +1,4 @@
+- pkg:maven/at.iem/scalacollider-dot_2.10@0.1.0
+- pkg:maven/at.iem/scalacollider-dot_2.10@0.1.0?classifier=sources
+- pkg:maven/at.iem/scalacollider-dot_2.10@0.2.0
+- pkg:maven/at.iem/scalacollider-dot_2.10@0.2.0?classifier=sources

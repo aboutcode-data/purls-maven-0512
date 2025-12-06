@@ -1,0 +1,4 @@
+- pkg:maven/com.googlecode.wicked-charts/wicked-charts-wicket7@2.0.0
+- pkg:maven/com.googlecode.wicked-charts/wicked-charts-wicket7@2.0.0?classifier=sources
+- pkg:maven/com.googlecode.wicked-charts/wicked-charts-wicket7@2.0.1
+- pkg:maven/com.googlecode.wicked-charts/wicked-charts-wicket7@2.0.1?classifier=sources

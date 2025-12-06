@@ -1,6 +1,10 @@
+- pkg:maven/com.uvasoftware/scanii-java@2.10
+- pkg:maven/com.uvasoftware/scanii-java@2.10?classifier=sources
 - pkg:maven/com.uvasoftware/scanii-java@2.3
 - pkg:maven/com.uvasoftware/scanii-java@2.3?classifier=sources
 - pkg:maven/com.uvasoftware/scanii-java@2.7
 - pkg:maven/com.uvasoftware/scanii-java@2.7?classifier=sources
 - pkg:maven/com.uvasoftware/scanii-java@2.8
 - pkg:maven/com.uvasoftware/scanii-java@2.8?classifier=sources
+- pkg:maven/com.uvasoftware/scanii-java@2.9
+- pkg:maven/com.uvasoftware/scanii-java@2.9?classifier=sources

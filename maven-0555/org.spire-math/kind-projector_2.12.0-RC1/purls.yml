@@ -1,0 +1,4 @@
+- pkg:maven/org.spire-math/kind-projector_2.12.0-RC1@0.8.2
+- pkg:maven/org.spire-math/kind-projector_2.12.0-RC1@0.8.2?classifier=sources
+- pkg:maven/org.spire-math/kind-projector_2.12.0-RC1@0.9.0
+- pkg:maven/org.spire-math/kind-projector_2.12.0-RC1@0.9.0?classifier=sources

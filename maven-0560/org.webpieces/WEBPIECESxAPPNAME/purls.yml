@@ -1,0 +1,6 @@
+- pkg:maven/org.webpieces/WEBPIECESxAPPNAME@1.9.33
+- pkg:maven/org.webpieces/WEBPIECESxAPPNAME@1.9.33?classifier=sources
+- pkg:maven/org.webpieces/WEBPIECESxAPPNAME@1.9.34
+- pkg:maven/org.webpieces/WEBPIECESxAPPNAME@1.9.34?classifier=sources
+- pkg:maven/org.webpieces/WEBPIECESxAPPNAME@1.9.35
+- pkg:maven/org.webpieces/WEBPIECESxAPPNAME@1.9.35?classifier=sources

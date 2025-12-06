@@ -1,1 +1,3 @@
 - pkg:maven/eu.seaclouds-project/deployer@0.7.0-M19
+- pkg:maven/eu.seaclouds-project/deployer@1.0.0
+- pkg:maven/eu.seaclouds-project/deployer@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jdae/io7m-jdae-collada1_4@0.1.1
+- pkg:maven/com.io7m.jdae/io7m-jdae-collada1_4@0.1.1?classifier=sources

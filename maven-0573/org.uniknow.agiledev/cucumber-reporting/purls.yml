@@ -1,3 +1,5 @@
+- pkg:maven/org.uniknow.agiledev/cucumber-reporting@0.1.13
+- pkg:maven/org.uniknow.agiledev/cucumber-reporting@0.1.13?classifier=sources
 - pkg:maven/org.uniknow.agiledev/cucumber-reporting@0.1.7
 - pkg:maven/org.uniknow.agiledev/cucumber-reporting@0.1.7?classifier=sources
 - pkg:maven/org.uniknow.agiledev/cucumber-reporting@0.1.8

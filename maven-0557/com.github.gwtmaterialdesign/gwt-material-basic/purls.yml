@@ -1,0 +1,4 @@
+- pkg:maven/com.github.gwtmaterialdesign/gwt-material-basic@1.0?type=war
+- pkg:maven/com.github.gwtmaterialdesign/gwt-material-basic@1.1?type=war
+- pkg:maven/com.github.gwtmaterialdesign/gwt-material-basic@1.2?type=war
+- pkg:maven/com.github.gwtmaterialdesign/gwt-material-basic@1.3?type=war

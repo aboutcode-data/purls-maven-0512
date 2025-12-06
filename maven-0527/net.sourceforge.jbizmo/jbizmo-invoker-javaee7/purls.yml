@@ -1,2 +1,6 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-invoker-javaee7@2.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-invoker-javaee7@2.0.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-invoker-javaee7@2.1.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-invoker-javaee7@2.1.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-invoker-javaee7@2.2.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-invoker-javaee7@2.2.0?classifier=sources

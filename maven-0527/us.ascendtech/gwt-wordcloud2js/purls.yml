@@ -1,0 +1,2 @@
+- pkg:maven/us.ascendtech/gwt-wordcloud2js@1.0
+- pkg:maven/us.ascendtech/gwt-wordcloud2js@1.0?classifier=sources

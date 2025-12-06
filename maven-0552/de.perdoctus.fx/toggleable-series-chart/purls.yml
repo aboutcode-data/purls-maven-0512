@@ -1,0 +1,4 @@
+- pkg:maven/de.perdoctus.fx/toggleable-series-chart@1.0.0
+- pkg:maven/de.perdoctus.fx/toggleable-series-chart@1.0.0?classifier=sources
+- pkg:maven/de.perdoctus.fx/toggleable-series-chart@1.0.1
+- pkg:maven/de.perdoctus.fx/toggleable-series-chart@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.whirlwin/json-patch@1.0.1
+- pkg:maven/com.github.whirlwin/json-patch@1.0.1?classifier=sources

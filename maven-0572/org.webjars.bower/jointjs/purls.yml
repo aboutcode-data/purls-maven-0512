@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.bower/jointjs@0.9.10
+- pkg:maven/org.webjars.bower/jointjs@0.9.10?classifier=sources
 - pkg:maven/org.webjars.bower/jointjs@0.9.5
 - pkg:maven/org.webjars.bower/jointjs@0.9.5?classifier=sources
+- pkg:maven/org.webjars.bower/jointjs@0.9.7
+- pkg:maven/org.webjars.bower/jointjs@0.9.7?classifier=sources

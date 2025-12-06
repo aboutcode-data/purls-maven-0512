@@ -1,2 +1,4 @@
 - pkg:maven/com.headstartech.scheelite/scheelite-diagram@2.1.0.RELEASE
 - pkg:maven/com.headstartech.scheelite/scheelite-diagram@2.1.0.RELEASE?classifier=sources
+- pkg:maven/com.headstartech.scheelite/scheelite-diagram@2.1.1.RELEASE
+- pkg:maven/com.headstartech.scheelite/scheelite-diagram@2.1.1.RELEASE?classifier=sources

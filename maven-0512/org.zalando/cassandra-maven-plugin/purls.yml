@@ -1,0 +1,12 @@
+- pkg:maven/org.zalando/cassandra-maven-plugin@2.1.7-z1
+- pkg:maven/org.zalando/cassandra-maven-plugin@2.1.7-z1?classifier=source-release&type=zip
+- pkg:maven/org.zalando/cassandra-maven-plugin@2.1.7-z1?classifier=sources
+- pkg:maven/org.zalando/cassandra-maven-plugin@2.1.7-z2
+- pkg:maven/org.zalando/cassandra-maven-plugin@2.1.7-z2?classifier=source-release&type=zip
+- pkg:maven/org.zalando/cassandra-maven-plugin@2.1.7-z2?classifier=sources
+- pkg:maven/org.zalando/cassandra-maven-plugin@2.1.7-z3
+- pkg:maven/org.zalando/cassandra-maven-plugin@2.1.7-z3?classifier=source-release&type=zip
+- pkg:maven/org.zalando/cassandra-maven-plugin@2.1.7-z3?classifier=sources
+- pkg:maven/org.zalando/cassandra-maven-plugin@2.1.7-z4
+- pkg:maven/org.zalando/cassandra-maven-plugin@2.1.7-z4?classifier=source-release&type=zip
+- pkg:maven/org.zalando/cassandra-maven-plugin@2.1.7-z4?classifier=sources

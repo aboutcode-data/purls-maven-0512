@@ -1,0 +1,4 @@
+- pkg:maven/net.tixxit/delimited-iteratee_2.10@0.7.0
+- pkg:maven/net.tixxit/delimited-iteratee_2.10@0.7.0?classifier=sources
+- pkg:maven/net.tixxit/delimited-iteratee_2.10@0.8.0
+- pkg:maven/net.tixxit/delimited-iteratee_2.10@0.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.kevoree.kmf/dsl@1
+- pkg:maven/org.kevoree.kmf/dsl@1?classifier=sources

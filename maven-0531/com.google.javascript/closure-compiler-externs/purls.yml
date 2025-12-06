@@ -27,3 +27,11 @@
 - pkg:maven/com.google.javascript/closure-compiler-externs@v20150901
 - pkg:maven/com.google.javascript/closure-compiler-externs@v20150920
 - pkg:maven/com.google.javascript/closure-compiler-externs@v20151015
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20151216
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20160208
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20160315
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20160517
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20160619
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20160713
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20160822
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20160911

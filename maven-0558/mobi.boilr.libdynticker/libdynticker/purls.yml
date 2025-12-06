@@ -1,2 +1,4 @@
 - pkg:maven/mobi.boilr.libdynticker/libdynticker@0.5.0
 - pkg:maven/mobi.boilr.libdynticker/libdynticker@0.5.0?classifier=sources
+- pkg:maven/mobi.boilr.libdynticker/libdynticker@0.6.0
+- pkg:maven/mobi.boilr.libdynticker/libdynticker@0.6.0?classifier=sources

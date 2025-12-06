@@ -1,0 +1,4 @@
+- pkg:maven/com.aoindustries/ao-web-sitemap-servlet@1.0
+- pkg:maven/com.aoindustries/ao-web-sitemap-servlet@1.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-web-sitemap-servlet@1.1
+- pkg:maven/com.aoindustries/ao-web-sitemap-servlet@1.1?classifier=sources

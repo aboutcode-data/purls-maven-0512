@@ -1,0 +1,4 @@
+- pkg:maven/de.xn--ho-hia.quality/null-analysis@3.0.0-20160626185251
+- pkg:maven/de.xn--ho-hia.quality/null-analysis@3.0.0-20160626185251?classifier=sources
+- pkg:maven/de.xn--ho-hia.quality/null-analysis@3.0.1-20160702153702
+- pkg:maven/de.xn--ho-hia.quality/null-analysis@3.0.1-20160702153702?classifier=sources

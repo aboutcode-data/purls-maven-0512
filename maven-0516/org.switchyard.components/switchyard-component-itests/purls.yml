@@ -8,3 +8,10 @@
 - pkg:maven/org.switchyard.components/switchyard-component-itests@2.0.0.CR1
 - pkg:maven/org.switchyard.components/switchyard-component-itests@2.0.0.Final
 - pkg:maven/org.switchyard.components/switchyard-component-itests@2.0.1.redhat-620133
+- pkg:maven/org.switchyard.components/switchyard-component-itests@2.0.1.redhat-621084
+- pkg:maven/org.switchyard.components/switchyard-component-itests@2.0.1.redhat-621090
+- pkg:maven/org.switchyard.components/switchyard-component-itests@2.0.1.redhat-621107
+- pkg:maven/org.switchyard.components/switchyard-component-itests@2.0.1.redhat-621117
+- pkg:maven/org.switchyard.components/switchyard-component-itests@2.0.1.redhat-621159
+- pkg:maven/org.switchyard.components/switchyard-component-itests@2.1.0.Final
+- pkg:maven/org.switchyard.components/switchyard-component-itests@2.1.0.Final?classifier=sources

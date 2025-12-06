@@ -8,3 +8,7 @@
 - pkg:maven/org.apache.servicemix.specs/apache-servicemix-specs@2.4.0?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.specs/apache-servicemix-specs@2.5.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.specs/apache-servicemix-specs@2.5.0?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.specs/apache-servicemix-specs@2.6.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.specs/apache-servicemix-specs@2.6.0?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.specs/apache-servicemix-specs@2.7.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.specs/apache-servicemix-specs@2.7.0?classifier=src&type=zip

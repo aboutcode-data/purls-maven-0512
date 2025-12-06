@@ -1,3 +1,7 @@
+- pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha10?classifier=sources
+- pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha10?type=war
+- pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha11?classifier=sources
+- pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha11?type=war
 - pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha1?classifier=sources
 - pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha1?type=war
 - pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha2?classifier=sources
@@ -10,3 +14,9 @@
 - pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha5?type=war
 - pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha6?classifier=sources
 - pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha6?type=war
+- pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha7?classifier=sources
+- pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha7?type=war
+- pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha8?classifier=sources
+- pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha8?type=war
+- pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha9?classifier=sources
+- pkg:maven/org.hawkular/hawkular-pinger@1.0.0.Alpha9?type=war

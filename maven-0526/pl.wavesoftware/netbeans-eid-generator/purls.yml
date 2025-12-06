@@ -1,1 +1,2 @@
 - pkg:maven/pl.wavesoftware/netbeans-eid-generator@0.2.0?classifier=sources
+- pkg:maven/pl.wavesoftware/netbeans-eid-generator@0.4.0?classifier=sources

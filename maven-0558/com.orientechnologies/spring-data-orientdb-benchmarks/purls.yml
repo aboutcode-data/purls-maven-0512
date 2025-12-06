@@ -1,0 +1,6 @@
+- pkg:maven/com.orientechnologies/spring-data-orientdb-benchmarks@0.11
+- pkg:maven/com.orientechnologies/spring-data-orientdb-benchmarks@0.11?classifier=sources
+- pkg:maven/com.orientechnologies/spring-data-orientdb-benchmarks@0.12
+- pkg:maven/com.orientechnologies/spring-data-orientdb-benchmarks@0.12?classifier=sources
+- pkg:maven/com.orientechnologies/spring-data-orientdb-benchmarks@0.13
+- pkg:maven/com.orientechnologies/spring-data-orientdb-benchmarks@0.13?classifier=sources

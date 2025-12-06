@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/scribe-plugin-sanitizer@0.1.10
+- pkg:maven/org.webjars.bower/scribe-plugin-sanitizer@0.1.10?classifier=sources

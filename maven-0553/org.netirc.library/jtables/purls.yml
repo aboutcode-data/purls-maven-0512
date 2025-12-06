@@ -1,0 +1,2 @@
+- pkg:maven/org.netirc.library/jtables@1.0
+- pkg:maven/org.netirc.library/jtables@1.0?classifier=sources

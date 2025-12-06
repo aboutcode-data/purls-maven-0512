@@ -1,0 +1,2 @@
+- pkg:maven/br.com.moip/mpos-android-sdk@2.0.0
+- pkg:maven/br.com.moip/mpos-android-sdk@2.0.0?classifier=sources

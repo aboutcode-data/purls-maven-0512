@@ -16,3 +16,5 @@
 - pkg:maven/org.scalastyle/scalastyle-maven-plugin@0.6.0?classifier=sources
 - pkg:maven/org.scalastyle/scalastyle-maven-plugin@0.7.0
 - pkg:maven/org.scalastyle/scalastyle-maven-plugin@0.7.0?classifier=sources
+- pkg:maven/org.scalastyle/scalastyle-maven-plugin@0.8.0
+- pkg:maven/org.scalastyle/scalastyle-maven-plugin@0.8.0?classifier=sources

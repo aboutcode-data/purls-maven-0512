@@ -1,0 +1,2 @@
+- pkg:maven/de.douglas.maven.plugin/rpm-systemd-maven-plugin@1.0
+- pkg:maven/de.douglas.maven.plugin/rpm-systemd-maven-plugin@1.0?classifier=sources

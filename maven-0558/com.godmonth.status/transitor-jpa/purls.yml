@@ -1,0 +1,2 @@
+- pkg:maven/com.godmonth.status/transitor-jpa@0.2
+- pkg:maven/com.godmonth.status/transitor-jpa@0.2?classifier=sources

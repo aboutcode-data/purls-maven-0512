@@ -5,3 +5,6 @@
 - pkg:maven/org.jboss.arquillian.extension/arquillian-extension-byteman@1.0.0.Alpha3
 - pkg:maven/org.jboss.arquillian.extension/arquillian-extension-byteman@1.0.0.Alpha3?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.extension/arquillian-extension-byteman@1.0.0.Alpha3?classifier=sources
+- pkg:maven/org.jboss.arquillian.extension/arquillian-extension-byteman@1.0.0.Alpha4
+- pkg:maven/org.jboss.arquillian.extension/arquillian-extension-byteman@1.0.0.Alpha4?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.extension/arquillian-extension-byteman@1.0.0.Alpha4?classifier=sources

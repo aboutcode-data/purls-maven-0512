@@ -1,0 +1,4 @@
+- pkg:maven/com.viskan/checkstyle-configuration@3
+- pkg:maven/com.viskan/checkstyle-configuration@3?classifier=sources
+- pkg:maven/com.viskan/checkstyle-configuration@4
+- pkg:maven/com.viskan/checkstyle-configuration@4?classifier=sources

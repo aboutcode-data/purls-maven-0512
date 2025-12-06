@@ -1,0 +1,14 @@
+- pkg:maven/com.sandinh/1pay_2.11@1.0.0
+- pkg:maven/com.sandinh/1pay_2.11@1.0.0?classifier=sources
+- pkg:maven/com.sandinh/1pay_2.11@1.0.3
+- pkg:maven/com.sandinh/1pay_2.11@1.0.3?classifier=sources
+- pkg:maven/com.sandinh/1pay_2.11@1.0.4
+- pkg:maven/com.sandinh/1pay_2.11@1.0.4?classifier=sources
+- pkg:maven/com.sandinh/1pay_2.11@2.0.0
+- pkg:maven/com.sandinh/1pay_2.11@2.0.0?classifier=sources
+- pkg:maven/com.sandinh/1pay_2.11@2.0.1
+- pkg:maven/com.sandinh/1pay_2.11@2.0.1?classifier=sources
+- pkg:maven/com.sandinh/1pay_2.11@2.1.0
+- pkg:maven/com.sandinh/1pay_2.11@2.1.0?classifier=sources
+- pkg:maven/com.sandinh/1pay_2.11@2.2.0
+- pkg:maven/com.sandinh/1pay_2.11@2.2.0?classifier=sources

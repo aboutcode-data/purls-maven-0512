@@ -1,0 +1,2 @@
+- pkg:maven/io.parallec/parallec-plugin-http-clientauth@0.9.0
+- pkg:maven/io.parallec/parallec-plugin-http-clientauth@0.9.0?classifier=sources

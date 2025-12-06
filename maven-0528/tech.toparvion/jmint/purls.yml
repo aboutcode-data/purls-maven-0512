@@ -1,0 +1,2 @@
+- pkg:maven/tech.toparvion/jmint@1.4-beta
+- pkg:maven/tech.toparvion/jmint@1.4-beta?classifier=sources

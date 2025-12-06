@@ -1,0 +1,2 @@
+- pkg:maven/com.comcast.video/stb-io-api@2.0.1
+- pkg:maven/com.comcast.video/stb-io-api@2.0.1?classifier=sources

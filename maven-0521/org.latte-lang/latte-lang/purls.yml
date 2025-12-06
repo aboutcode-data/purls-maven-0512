@@ -1,0 +1,2 @@
+- pkg:maven/org.latte-lang/latte-lang@0.0.3-ALPHA-PRE-RELEASE
+- pkg:maven/org.latte-lang/latte-lang@0.0.3-ALPHA-PRE-RELEASE?classifier=sources

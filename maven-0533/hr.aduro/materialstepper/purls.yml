@@ -1,0 +1,2 @@
+- pkg:maven/hr.aduro/materialstepper@1.0?classifier=sources
+- pkg:maven/hr.aduro/materialstepper@1.0?type=aar

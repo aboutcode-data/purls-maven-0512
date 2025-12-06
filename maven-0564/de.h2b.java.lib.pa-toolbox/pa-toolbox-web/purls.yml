@@ -1,0 +1,4 @@
+- pkg:maven/de.h2b.java.lib.pa-toolbox/pa-toolbox-web@1.0.0
+- pkg:maven/de.h2b.java.lib.pa-toolbox/pa-toolbox-web@1.0.0?classifier=sources
+- pkg:maven/de.h2b.java.lib.pa-toolbox/pa-toolbox-web@1.1.0
+- pkg:maven/de.h2b.java.lib.pa-toolbox/pa-toolbox-web@1.1.0?classifier=sources

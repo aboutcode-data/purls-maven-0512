@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/nwjs@0.0.15
+- pkg:maven/org.webjars.npm/nwjs@0.0.15?classifier=sources

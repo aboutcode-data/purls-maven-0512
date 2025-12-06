@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.jetty.alpn/alpn-api@1.1.1.v20150508?classifier=sources
 - pkg:maven/org.eclipse.jetty.alpn/alpn-api@1.1.2.v20150522
 - pkg:maven/org.eclipse.jetty.alpn/alpn-api@1.1.2.v20150522?classifier=sources
+- pkg:maven/org.eclipse.jetty.alpn/alpn-api@1.1.3.v20160715
+- pkg:maven/org.eclipse.jetty.alpn/alpn-api@1.1.3.v20160715?classifier=sources

@@ -1,0 +1,9 @@
+- pkg:maven/org.hawkular.commons/hawkular-command-gateway-itest@0.7.0.Final
+- pkg:maven/org.hawkular.commons/hawkular-command-gateway-itest@0.7.1.Final
+- pkg:maven/org.hawkular.commons/hawkular-command-gateway-itest@0.7.2.Final
+- pkg:maven/org.hawkular.commons/hawkular-command-gateway-itest@0.7.3.Final
+- pkg:maven/org.hawkular.commons/hawkular-command-gateway-itest@0.7.4.Final
+- pkg:maven/org.hawkular.commons/hawkular-command-gateway-itest@0.7.5.Final
+- pkg:maven/org.hawkular.commons/hawkular-command-gateway-itest@0.7.6.Final
+- pkg:maven/org.hawkular.commons/hawkular-command-gateway-itest@0.7.7.Final
+- pkg:maven/org.hawkular.commons/hawkular-command-gateway-itest@0.7.8.Final

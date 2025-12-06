@@ -1,0 +1,2 @@
+- pkg:maven/com.quantego/clp-java@1.16.10
+- pkg:maven/com.quantego/clp-java@1.16.10?classifier=sources

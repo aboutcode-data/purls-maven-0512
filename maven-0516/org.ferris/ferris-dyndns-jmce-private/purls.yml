@@ -1,0 +1,2 @@
+- pkg:maven/org.ferris/ferris-dyndns-jmce-private@0.0.2
+- pkg:maven/org.ferris/ferris-dyndns-jmce-private@0.0.2?classifier=sources

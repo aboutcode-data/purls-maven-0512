@@ -1,1 +1,9 @@
+- pkg:maven/org.sonarsource.javascript/sonar-javascript-plugin@2.10?classifier=sources
+- pkg:maven/org.sonarsource.javascript/sonar-javascript-plugin@2.11?classifier=sources
+- pkg:maven/org.sonarsource.javascript/sonar-javascript-plugin@2.12?classifier=sources
+- pkg:maven/org.sonarsource.javascript/sonar-javascript-plugin@2.13?classifier=sources
+- pkg:maven/org.sonarsource.javascript/sonar-javascript-plugin@2.14?classifier=sources
+- pkg:maven/org.sonarsource.javascript/sonar-javascript-plugin@2.15?classifier=sources
+- pkg:maven/org.sonarsource.javascript/sonar-javascript-plugin@2.16.0.2922?classifier=sources
 - pkg:maven/org.sonarsource.javascript/sonar-javascript-plugin@2.8?classifier=sources
+- pkg:maven/org.sonarsource.javascript/sonar-javascript-plugin@2.9?classifier=sources

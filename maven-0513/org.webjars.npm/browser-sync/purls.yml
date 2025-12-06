@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/browser-sync@2.7.13
+- pkg:maven/org.webjars.npm/browser-sync@2.7.13?classifier=sources
 - pkg:maven/org.webjars.npm/browser-sync@2.7.4
 - pkg:maven/org.webjars.npm/browser-sync@2.7.4?classifier=sources

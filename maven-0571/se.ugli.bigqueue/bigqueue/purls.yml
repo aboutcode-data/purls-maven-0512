@@ -1,0 +1,4 @@
+- pkg:maven/se.ugli.bigqueue/bigqueue@0.8.0
+- pkg:maven/se.ugli.bigqueue/bigqueue@0.8.0?classifier=sources
+- pkg:maven/se.ugli.bigqueue/bigqueue@1.6.0.0
+- pkg:maven/se.ugli.bigqueue/bigqueue@1.6.0.0?classifier=sources

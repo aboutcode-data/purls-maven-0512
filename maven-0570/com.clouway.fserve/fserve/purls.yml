@@ -1,0 +1,2 @@
+- pkg:maven/com.clouway.fserve/fserve@0.1
+- pkg:maven/com.clouway.fserve/fserve@0.1?classifier=sources

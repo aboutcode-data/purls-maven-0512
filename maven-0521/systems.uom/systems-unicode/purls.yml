@@ -1,0 +1,2 @@
+- pkg:maven/systems.uom/systems-unicode@0.3
+- pkg:maven/systems.uom/systems-unicode@0.3?classifier=sources

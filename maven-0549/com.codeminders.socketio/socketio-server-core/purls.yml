@@ -1,0 +1,2 @@
+- pkg:maven/com.codeminders.socketio/socketio-server-core@1.0.1
+- pkg:maven/com.codeminders.socketio/socketio-server-core@1.0.1?classifier=sources

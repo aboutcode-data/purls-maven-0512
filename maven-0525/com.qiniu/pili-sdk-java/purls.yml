@@ -1,2 +1,8 @@
 - pkg:maven/com.qiniu/pili-sdk-java@1.5.1-RELEASE
 - pkg:maven/com.qiniu/pili-sdk-java@1.5.1-RELEASE?classifier=sources
+- pkg:maven/com.qiniu/pili-sdk-java@1.5.2-RELEASE
+- pkg:maven/com.qiniu/pili-sdk-java@1.5.2-RELEASE?classifier=sources
+- pkg:maven/com.qiniu/pili-sdk-java@1.5.3
+- pkg:maven/com.qiniu/pili-sdk-java@1.5.3?classifier=sources
+- pkg:maven/com.qiniu/pili-sdk-java@1.5.4
+- pkg:maven/com.qiniu/pili-sdk-java@1.5.4?classifier=sources

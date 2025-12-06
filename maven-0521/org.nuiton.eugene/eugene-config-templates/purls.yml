@@ -1,0 +1,2 @@
+- pkg:maven/org.nuiton.eugene/eugene-config-templates@3.0-alpha-7
+- pkg:maven/org.nuiton.eugene/eugene-config-templates@3.0-alpha-7?classifier=sources

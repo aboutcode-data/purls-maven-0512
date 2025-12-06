@@ -28,3 +28,5 @@
 - pkg:maven/org.hibernate.jsr303.tck/jsr303-tck@1.0.6.GA?classifier=sources
 - pkg:maven/org.hibernate.jsr303.tck/jsr303-tck@1.0.7.GA
 - pkg:maven/org.hibernate.jsr303.tck/jsr303-tck@1.0.7.GA?classifier=sources
+- pkg:maven/org.hibernate.jsr303.tck/jsr303-tck@1.0.8.GA
+- pkg:maven/org.hibernate.jsr303.tck/jsr303-tck@1.0.8.GA?classifier=sources

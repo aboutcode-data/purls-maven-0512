@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-lang.modules/scala-async_2.12.0-RC1@0.9.6-RC5
+- pkg:maven/org.scala-lang.modules/scala-async_2.12.0-RC1@0.9.6-RC5?classifier=sources

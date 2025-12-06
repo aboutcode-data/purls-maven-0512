@@ -1,0 +1,4 @@
+- pkg:maven/com.tradesy.binder/binder-recyclerview-v7@0.1.0?classifier=sources
+- pkg:maven/com.tradesy.binder/binder-recyclerview-v7@0.1.0?type=aar
+- pkg:maven/com.tradesy.binder/binder-recyclerview-v7@0.1.1?classifier=sources
+- pkg:maven/com.tradesy.binder/binder-recyclerview-v7@0.1.1?type=aar

@@ -1,0 +1,6 @@
+- pkg:maven/com.comcast.money/money-core_2.11@0.8.12
+- pkg:maven/com.comcast.money/money-core_2.11@0.8.12?classifier=sources
+- pkg:maven/com.comcast.money/money-core_2.11@0.8.13
+- pkg:maven/com.comcast.money/money-core_2.11@0.8.13?classifier=sources
+- pkg:maven/com.comcast.money/money-core_2.11@0.8.14
+- pkg:maven/com.comcast.money/money-core_2.11@0.8.14?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/react-select2-wrapper@0.5.1
+- pkg:maven/org.webjars.npm/react-select2-wrapper@0.5.1?classifier=sources

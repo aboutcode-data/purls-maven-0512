@@ -1,2 +1,10 @@
+- pkg:maven/org.monifu/monifu_sjs0.6_2.10@1.0
 - pkg:maven/org.monifu/monifu_sjs0.6_2.10@1.0-RC3
 - pkg:maven/org.monifu/monifu_sjs0.6_2.10@1.0-RC3?classifier=sources
+- pkg:maven/org.monifu/monifu_sjs0.6_2.10@1.0-RC4
+- pkg:maven/org.monifu/monifu_sjs0.6_2.10@1.0-RC4?classifier=sources
+- pkg:maven/org.monifu/monifu_sjs0.6_2.10@1.0?classifier=sources
+- pkg:maven/org.monifu/monifu_sjs0.6_2.10@1.1
+- pkg:maven/org.monifu/monifu_sjs0.6_2.10@1.1?classifier=sources
+- pkg:maven/org.monifu/monifu_sjs0.6_2.10@1.2
+- pkg:maven/org.monifu/monifu_sjs0.6_2.10@1.2?classifier=sources

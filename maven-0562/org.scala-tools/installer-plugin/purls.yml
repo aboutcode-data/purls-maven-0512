@@ -1,0 +1,9 @@
+- pkg:maven/org.scala-tools/installer-plugin@0.1
+- pkg:maven/org.scala-tools/installer-plugin@0.2
+- pkg:maven/org.scala-tools/installer-plugin@0.2.1
+- pkg:maven/org.scala-tools/installer-plugin@0.2.2
+- pkg:maven/org.scala-tools/installer-plugin@0.3.0
+- pkg:maven/org.scala-tools/installer-plugin@0.3.1
+- pkg:maven/org.scala-tools/installer-plugin@0.7.5.RC0_fs
+- pkg:maven/org.scala-tools/installer-plugin@0.7.5.RC0_fsa
+- pkg:maven/org.scala-tools/installer-plugin@0.7.7

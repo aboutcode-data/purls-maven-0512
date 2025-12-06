@@ -1,2 +1,6 @@
 - pkg:maven/ru.stachek66.nlp/mystem-scala@0.1.2
 - pkg:maven/ru.stachek66.nlp/mystem-scala@0.1.2?classifier=sources
+- pkg:maven/ru.stachek66.nlp/mystem-scala@0.1.3
+- pkg:maven/ru.stachek66.nlp/mystem-scala@0.1.3?classifier=sources
+- pkg:maven/ru.stachek66.nlp/mystem-scala@0.1.4
+- pkg:maven/ru.stachek66.nlp/mystem-scala@0.1.4?classifier=sources

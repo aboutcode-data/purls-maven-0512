@@ -5,3 +5,4 @@
 - pkg:maven/org.webjars/angular-datatables@0.4.0
 - pkg:maven/org.webjars/angular-datatables@0.4.2
 - pkg:maven/org.webjars/angular-datatables@0.4.3
+- pkg:maven/org.webjars/angular-datatables@0.5.2

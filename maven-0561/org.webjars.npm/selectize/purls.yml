@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/selectize@0.12.1
+- pkg:maven/org.webjars.npm/selectize@0.12.1?classifier=sources
+- pkg:maven/org.webjars.npm/selectize@0.12.2
+- pkg:maven/org.webjars.npm/selectize@0.12.2?classifier=sources

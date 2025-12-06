@@ -6,3 +6,9 @@
 - pkg:maven/org.apache.kylin/kylin-metadata@1.0-incubating?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-metadata@1.1-incubating
 - pkg:maven/org.apache.kylin/kylin-metadata@1.1-incubating?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-metadata@1.1.1-incubating
+- pkg:maven/org.apache.kylin/kylin-metadata@1.1.1-incubating?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-metadata@1.2
+- pkg:maven/org.apache.kylin/kylin-metadata@1.2?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-metadata@1.3.0
+- pkg:maven/org.apache.kylin/kylin-metadata@1.3.0?classifier=sources

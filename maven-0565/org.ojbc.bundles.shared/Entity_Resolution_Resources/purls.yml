@@ -1,0 +1,2 @@
+- pkg:maven/org.ojbc.bundles.shared/Entity_Resolution_Resources@1.0.2
+- pkg:maven/org.ojbc.bundles.shared/Entity_Resolution_Resources@1.0.2?classifier=sources

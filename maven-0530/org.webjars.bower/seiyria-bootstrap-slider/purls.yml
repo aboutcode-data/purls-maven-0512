@@ -8,3 +8,13 @@
 - pkg:maven/org.webjars.bower/seiyria-bootstrap-slider@4.8.1?classifier=sources
 - pkg:maven/org.webjars.bower/seiyria-bootstrap-slider@5.0.11
 - pkg:maven/org.webjars.bower/seiyria-bootstrap-slider@5.0.11?classifier=sources
+- pkg:maven/org.webjars.bower/seiyria-bootstrap-slider@5.2.6
+- pkg:maven/org.webjars.bower/seiyria-bootstrap-slider@5.2.6?classifier=sources
+- pkg:maven/org.webjars.bower/seiyria-bootstrap-slider@6.0.14
+- pkg:maven/org.webjars.bower/seiyria-bootstrap-slider@6.0.14?classifier=sources
+- pkg:maven/org.webjars.bower/seiyria-bootstrap-slider@7.0.3
+- pkg:maven/org.webjars.bower/seiyria-bootstrap-slider@7.0.3?classifier=sources
+- pkg:maven/org.webjars.bower/seiyria-bootstrap-slider@7.1.1
+- pkg:maven/org.webjars.bower/seiyria-bootstrap-slider@7.1.1?classifier=sources
+- pkg:maven/org.webjars.bower/seiyria-bootstrap-slider@9.2.0
+- pkg:maven/org.webjars.bower/seiyria-bootstrap-slider@9.2.0?classifier=sources

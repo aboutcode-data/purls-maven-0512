@@ -1,0 +1,2 @@
+- pkg:maven/de.paul-woitaschek.slimber/projectname@1.0.1?classifier=sources
+- pkg:maven/de.paul-woitaschek.slimber/projectname@1.0.1?type=aar

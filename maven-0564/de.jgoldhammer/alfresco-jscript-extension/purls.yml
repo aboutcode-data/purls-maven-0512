@@ -1,0 +1,2 @@
+- pkg:maven/de.jgoldhammer/alfresco-jscript-extension@1.0
+- pkg:maven/de.jgoldhammer/alfresco-jscript-extension@1.0?classifier=sources

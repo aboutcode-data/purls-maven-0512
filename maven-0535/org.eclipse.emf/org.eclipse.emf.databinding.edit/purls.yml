@@ -5,4 +5,6 @@
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.databinding.edit@1.3.0-v20150123-0357?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.databinding.edit@1.3.0-v20150123-0452
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.databinding.edit@1.3.0-v20150123-0452?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.databinding.edit@1.3.0-v20150806-0404
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.databinding.edit@1.3.0-v20150806-0404?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.databinding.edit@1.3.0?classifier=sources

@@ -29,6 +29,10 @@
 - pkg:maven/org.apache.wicket/wicket-util@1.5.13?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-util@1.5.14
 - pkg:maven/org.apache.wicket/wicket-util@1.5.14?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-util@1.5.15
+- pkg:maven/org.apache.wicket/wicket-util@1.5.15?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-util@1.5.16
+- pkg:maven/org.apache.wicket/wicket-util@1.5.16?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-util@1.5.1?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-util@1.5.2
 - pkg:maven/org.apache.wicket/wicket-util@1.5.2?classifier=sources
@@ -82,6 +86,14 @@
 - pkg:maven/org.apache.wicket/wicket-util@6.2.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-util@6.20.0
 - pkg:maven/org.apache.wicket/wicket-util@6.20.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-util@6.21.0
+- pkg:maven/org.apache.wicket/wicket-util@6.21.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-util@6.22.0
+- pkg:maven/org.apache.wicket/wicket-util@6.22.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-util@6.23.0
+- pkg:maven/org.apache.wicket/wicket-util@6.23.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-util@6.24.0
+- pkg:maven/org.apache.wicket/wicket-util@6.24.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-util@6.3.0
 - pkg:maven/org.apache.wicket/wicket-util@6.3.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-util@6.4.0
@@ -114,3 +126,11 @@
 - pkg:maven/org.apache.wicket/wicket-util@7.0.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-util@7.1.0
 - pkg:maven/org.apache.wicket/wicket-util@7.1.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-util@7.2.0
+- pkg:maven/org.apache.wicket/wicket-util@7.2.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-util@7.3.0
+- pkg:maven/org.apache.wicket/wicket-util@7.3.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-util@7.4.0
+- pkg:maven/org.apache.wicket/wicket-util@7.4.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-util@8.0.0-M1
+- pkg:maven/org.apache.wicket/wicket-util@8.0.0-M1?classifier=sources

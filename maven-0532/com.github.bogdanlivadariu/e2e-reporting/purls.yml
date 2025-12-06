@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bogdanlivadariu/e2e-reporting@1.0.0
+- pkg:maven/com.github.bogdanlivadariu/e2e-reporting@1.0.0?classifier=sources

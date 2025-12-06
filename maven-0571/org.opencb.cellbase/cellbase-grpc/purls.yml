@@ -1,0 +1,4 @@
+- pkg:maven/org.opencb.cellbase/cellbase-grpc@4.0.0
+- pkg:maven/org.opencb.cellbase/cellbase-grpc@4.0.0-rc
+- pkg:maven/org.opencb.cellbase/cellbase-grpc@4.0.0-rc?classifier=sources
+- pkg:maven/org.opencb.cellbase/cellbase-grpc@4.0.0?classifier=sources

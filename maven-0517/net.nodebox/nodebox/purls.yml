@@ -1,0 +1,2 @@
+- pkg:maven/net.nodebox/nodebox@3.0.44
+- pkg:maven/net.nodebox/nodebox@3.0.44?classifier=sources

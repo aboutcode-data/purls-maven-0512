@@ -1,0 +1,2 @@
+- pkg:maven/com.btmatthews.maven.plugins.ldap/format-api-test@1.3.2
+- pkg:maven/com.btmatthews.maven.plugins.ldap/format-api-test@1.3.2?classifier=sources

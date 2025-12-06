@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vue-mdl@0.8.4
+- pkg:maven/org.webjars.npm/vue-mdl@0.8.4?classifier=sources

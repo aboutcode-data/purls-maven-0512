@@ -1,0 +1,2 @@
+- pkg:maven/com.github.japgolly.fork.specs2/specs2-matcher_2.11@2.4.17-scalaz72
+- pkg:maven/com.github.japgolly.fork.specs2/specs2-matcher_2.11@2.4.17-scalaz72?classifier=sources

@@ -6,6 +6,9 @@
 - pkg:maven/io.sarnowski/swagger1st@0.15.0
 - pkg:maven/io.sarnowski/swagger1st@0.16.0
 - pkg:maven/io.sarnowski/swagger1st@0.17.0
+- pkg:maven/io.sarnowski/swagger1st@0.19.0
+- pkg:maven/io.sarnowski/swagger1st@0.20.0
+- pkg:maven/io.sarnowski/swagger1st@0.21.0
 - pkg:maven/io.sarnowski/swagger1st@0.6.0
 - pkg:maven/io.sarnowski/swagger1st@0.7.0
 - pkg:maven/io.sarnowski/swagger1st@0.8.0

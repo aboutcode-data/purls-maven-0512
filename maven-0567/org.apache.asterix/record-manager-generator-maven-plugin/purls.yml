@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.asterix/record-manager-generator-maven-plugin@0.8.8-incubating
+- pkg:maven/org.apache.asterix/record-manager-generator-maven-plugin@0.8.8-incubating?classifier=sources

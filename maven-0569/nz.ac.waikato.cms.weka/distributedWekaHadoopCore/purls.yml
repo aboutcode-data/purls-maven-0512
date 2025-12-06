@@ -1,0 +1,4 @@
+- pkg:maven/nz.ac.waikato.cms.weka/distributedWekaHadoopCore@1.0.19
+- pkg:maven/nz.ac.waikato.cms.weka/distributedWekaHadoopCore@1.0.19?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.weka/distributedWekaHadoopCore@1.0.21
+- pkg:maven/nz.ac.waikato.cms.weka/distributedWekaHadoopCore@1.0.21?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.kramerlab/autoencoder@0.1
+- pkg:maven/org.kramerlab/autoencoder@0.1?classifier=sources

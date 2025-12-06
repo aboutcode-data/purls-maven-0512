@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.cloud.stream.app/tcp-sink-kafka@1.0.2.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/tcp-sink-kafka@1.0.2.RELEASE?classifier=sources

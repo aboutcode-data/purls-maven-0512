@@ -35,3 +35,5 @@
 - pkg:maven/org.switchyard.components/switchyard-component-rules@2.0.0.Final
 - pkg:maven/org.switchyard.components/switchyard-component-rules@2.0.0.Final?classifier=sources
 - pkg:maven/org.switchyard.components/switchyard-component-rules@2.0.1.redhat-620133
+- pkg:maven/org.switchyard.components/switchyard-component-rules@2.1.0.Final
+- pkg:maven/org.switchyard.components/switchyard-component-rules@2.1.0.Final?classifier=sources

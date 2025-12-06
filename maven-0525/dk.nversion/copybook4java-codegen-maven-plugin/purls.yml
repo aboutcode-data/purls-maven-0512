@@ -1,0 +1,4 @@
+- pkg:maven/dk.nversion/copybook4java-codegen-maven-plugin@1.0.2
+- pkg:maven/dk.nversion/copybook4java-codegen-maven-plugin@1.0.2?classifier=sources
+- pkg:maven/dk.nversion/copybook4java-codegen-maven-plugin@1.0.3
+- pkg:maven/dk.nversion/copybook4java-codegen-maven-plugin@1.0.3?classifier=sources
