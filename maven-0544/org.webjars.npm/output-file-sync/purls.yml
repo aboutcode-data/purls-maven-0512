@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/output-file-sync@1.1.0
+- pkg:maven/org.webjars.npm/output-file-sync@1.1.0?classifier=sources

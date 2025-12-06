@@ -1,0 +1,7 @@
+- pkg:maven/it.unibo.alchemist/alchemist.protelis.tests@0.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist.protelis.tests@1.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist.protelis.tests@2.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist.protelis.tests@2.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist.protelis.tests@3.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist.protelis.tests@3.1.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist.protelis.tests@3.1.1?classifier=sources

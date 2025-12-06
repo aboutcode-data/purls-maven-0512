@@ -1,0 +1,2 @@
+- pkg:maven/org.codefx.maven.plugin/jdeps-maven-plugin@0.1
+- pkg:maven/org.codefx.maven.plugin/jdeps-maven-plugin@0.1?classifier=sources

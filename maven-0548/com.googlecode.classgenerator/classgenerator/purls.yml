@@ -32,3 +32,7 @@
 - pkg:maven/com.googlecode.classgenerator/classgenerator@0.6.8-2.10.3?classifier=sources
 - pkg:maven/com.googlecode.classgenerator/classgenerator@0.6.8-2.9.2
 - pkg:maven/com.googlecode.classgenerator/classgenerator@0.6.8-2.9.2?classifier=sources
+- pkg:maven/com.googlecode.classgenerator/classgenerator@0.7.0-2.10
+- pkg:maven/com.googlecode.classgenerator/classgenerator@0.7.0-2.10?classifier=sources
+- pkg:maven/com.googlecode.classgenerator/classgenerator@0.7.0-2.11
+- pkg:maven/com.googlecode.classgenerator/classgenerator@0.7.0-2.11?classifier=sources

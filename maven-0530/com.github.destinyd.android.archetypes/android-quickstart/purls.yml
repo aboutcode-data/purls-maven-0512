@@ -1,0 +1,2 @@
+- pkg:maven/com.github.destinyd.android.archetypes/android-quickstart@0.3.0
+- pkg:maven/com.github.destinyd.android.archetypes/android-quickstart@0.3.0?classifier=sources

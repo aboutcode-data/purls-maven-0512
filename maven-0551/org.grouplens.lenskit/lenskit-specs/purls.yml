@@ -1,0 +1,2 @@
+- pkg:maven/org.grouplens.lenskit/lenskit-specs@3.0-T1
+- pkg:maven/org.grouplens.lenskit/lenskit-specs@3.0-T1?classifier=sources

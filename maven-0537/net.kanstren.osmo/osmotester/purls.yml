@@ -1,0 +1,2 @@
+- pkg:maven/net.kanstren.osmo/osmotester@3.4.0
+- pkg:maven/net.kanstren.osmo/osmotester@3.4.0?classifier=sources

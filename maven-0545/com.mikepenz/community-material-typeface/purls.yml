@@ -1,0 +1,12 @@
+- pkg:maven/com.mikepenz/community-material-typeface@1.0.0?classifier=sources
+- pkg:maven/com.mikepenz/community-material-typeface@1.0.0?type=aar
+- pkg:maven/com.mikepenz/community-material-typeface@1.1.70.3?classifier=sources
+- pkg:maven/com.mikepenz/community-material-typeface@1.1.70.3?type=aar
+- pkg:maven/com.mikepenz/community-material-typeface@1.1.70?classifier=sources
+- pkg:maven/com.mikepenz/community-material-typeface@1.1.70?type=aar
+- pkg:maven/com.mikepenz/community-material-typeface@1.1.71?classifier=sources
+- pkg:maven/com.mikepenz/community-material-typeface@1.1.71?type=aar
+- pkg:maven/com.mikepenz/community-material-typeface@1.1.72?classifier=sources
+- pkg:maven/com.mikepenz/community-material-typeface@1.1.72?type=aar
+- pkg:maven/com.mikepenz/community-material-typeface@1.2.64.1?classifier=sources
+- pkg:maven/com.mikepenz/community-material-typeface@1.2.64.1?type=aar

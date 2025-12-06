@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.slider/slider-accumulo-provider@0.61.0-incubating
+- pkg:maven/org.apache.slider/slider-accumulo-provider@0.61.0-incubating?classifier=sources

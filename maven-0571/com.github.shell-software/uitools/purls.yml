@@ -1,0 +1,6 @@
+- pkg:maven/com.github.shell-software/uitools@0.9.0?classifier=sources
+- pkg:maven/com.github.shell-software/uitools@0.9.0?type=aar
+- pkg:maven/com.github.shell-software/uitools@1.0.0?classifier=sources
+- pkg:maven/com.github.shell-software/uitools@1.0.0?type=aar
+- pkg:maven/com.github.shell-software/uitools@1.1.0?classifier=sources
+- pkg:maven/com.github.shell-software/uitools@1.1.0?type=aar

@@ -1,0 +1,8 @@
+- pkg:maven/ru.noties/storm@1.0.0?classifier=sources
+- pkg:maven/ru.noties/storm@1.0.0?type=aar
+- pkg:maven/ru.noties/storm@1.0.2?classifier=sources
+- pkg:maven/ru.noties/storm@1.0.2?type=aar
+- pkg:maven/ru.noties/storm@1.0.3?classifier=sources
+- pkg:maven/ru.noties/storm@1.0.3?type=aar
+- pkg:maven/ru.noties/storm@unspecified?classifier=sources
+- pkg:maven/ru.noties/storm@unspecified?type=aar

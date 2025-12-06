@@ -1,0 +1,4 @@
+- pkg:maven/com.effektif/effektif-workflow-impl@3.0.0-alpha1
+- pkg:maven/com.effektif/effektif-workflow-impl@3.0.0-alpha1?classifier=sources
+- pkg:maven/com.effektif/effektif-workflow-impl@3.0.0-alpha2
+- pkg:maven/com.effektif/effektif-workflow-impl@3.0.0-alpha2?classifier=sources

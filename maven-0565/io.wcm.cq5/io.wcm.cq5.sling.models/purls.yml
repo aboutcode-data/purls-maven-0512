@@ -1,0 +1,2 @@
+- pkg:maven/io.wcm.cq5/io.wcm.cq5.sling.models@1.0.0
+- pkg:maven/io.wcm.cq5/io.wcm.cq5.sling.models@1.0.0?classifier=sources

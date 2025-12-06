@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.cxf.dosgi/cxf-dosgi-ri-source-distribution@1.4.0
 - pkg:maven/org.apache.cxf.dosgi/cxf-dosgi-ri-source-distribution@1.5.0
 - pkg:maven/org.apache.cxf.dosgi/cxf-dosgi-ri-source-distribution@1.6.0
+- pkg:maven/org.apache.cxf.dosgi/cxf-dosgi-ri-source-distribution@1.7.0

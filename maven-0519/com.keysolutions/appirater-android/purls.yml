@@ -1,0 +1,4 @@
+- pkg:maven/com.keysolutions/appirater-android@1.4.0.0?classifier=sources
+- pkg:maven/com.keysolutions/appirater-android@1.4.0.0?type=aar
+- pkg:maven/com.keysolutions/appirater-android@1.4.1.0?classifier=sources
+- pkg:maven/com.keysolutions/appirater-android@1.4.1.0?type=aar

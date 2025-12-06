@@ -1,0 +1,4 @@
+- pkg:maven/org.molgenis/molgenis-app-compute-db@1.0.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-app-compute-db@1.0.0?type=war
+- pkg:maven/org.molgenis/molgenis-app-compute-db@1.1.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-app-compute-db@1.1.0?type=war

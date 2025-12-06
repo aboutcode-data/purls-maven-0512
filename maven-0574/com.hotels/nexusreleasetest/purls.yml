@@ -1,0 +1,2 @@
+- pkg:maven/com.hotels/nexusreleasetest@2.1.1
+- pkg:maven/com.hotels/nexusreleasetest@2.1.1?classifier=sources

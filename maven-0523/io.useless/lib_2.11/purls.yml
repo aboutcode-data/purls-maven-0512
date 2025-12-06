@@ -1,0 +1,4 @@
+- pkg:maven/io.useless/lib_2.11@0.0.7
+- pkg:maven/io.useless/lib_2.11@0.0.7?classifier=sources
+- pkg:maven/io.useless/lib_2.11@0.17.2
+- pkg:maven/io.useless/lib_2.11@0.17.2?classifier=sources

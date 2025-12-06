@@ -1,0 +1,2 @@
+- pkg:maven/org.kevoree.modeling/org.kevoree.modeling.microframework.datastores.mongodb@3.5.12
+- pkg:maven/org.kevoree.modeling/org.kevoree.modeling.microframework.datastores.mongodb@3.5.12?classifier=sources

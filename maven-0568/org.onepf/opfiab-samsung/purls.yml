@@ -1,0 +1,4 @@
+- pkg:maven/org.onepf/opfiab-samsung@0.3.0
+- pkg:maven/org.onepf/opfiab-samsung@0.3.0?classifier=sources
+- pkg:maven/org.onepf/opfiab-samsung@0.4.0
+- pkg:maven/org.onepf/opfiab-samsung@0.4.0?classifier=sources

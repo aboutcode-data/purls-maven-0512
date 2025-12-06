@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.cxf.dosgi/cxf-dosgi-ri-osgi-api@1.6.0
+- pkg:maven/org.apache.cxf.dosgi/cxf-dosgi-ri-osgi-api@1.7.0

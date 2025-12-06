@@ -1,0 +1,2 @@
+- pkg:maven/io.tracee.contextlogger/contextlogger-javaee@0.6.0
+- pkg:maven/io.tracee.contextlogger/contextlogger-javaee@0.6.0?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/com.evrythng/evrythng-java-wrapper@1.18.1
+- pkg:maven/com.evrythng/evrythng-java-wrapper@1.18.1-ALPHA
+- pkg:maven/com.evrythng/evrythng-java-wrapper@1.18.1-ALPHA?classifier=sources
+- pkg:maven/com.evrythng/evrythng-java-wrapper@1.18.1-BETA
+- pkg:maven/com.evrythng/evrythng-java-wrapper@1.18.1-BETA-1
+- pkg:maven/com.evrythng/evrythng-java-wrapper@1.18.1-BETA-1?classifier=sources
+- pkg:maven/com.evrythng/evrythng-java-wrapper@1.18.1-BETA?classifier=sources
+- pkg:maven/com.evrythng/evrythng-java-wrapper@1.18.1-TEST
+- pkg:maven/com.evrythng/evrythng-java-wrapper@1.18.1-TEST?classifier=sources
+- pkg:maven/com.evrythng/evrythng-java-wrapper@1.18.1?classifier=sources
+- pkg:maven/com.evrythng/evrythng-java-wrapper@1.18.2
+- pkg:maven/com.evrythng/evrythng-java-wrapper@1.18.2?classifier=sources
+- pkg:maven/com.evrythng/evrythng-java-wrapper@1.19
+- pkg:maven/com.evrythng/evrythng-java-wrapper@1.19?classifier=sources

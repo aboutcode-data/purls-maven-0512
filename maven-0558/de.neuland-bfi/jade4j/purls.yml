@@ -1,2 +1,6 @@
 - pkg:maven/de.neuland-bfi/jade4j@0.4.0
 - pkg:maven/de.neuland-bfi/jade4j@0.4.0?classifier=sources
+- pkg:maven/de.neuland-bfi/jade4j@0.4.2
+- pkg:maven/de.neuland-bfi/jade4j@0.4.2?classifier=sources
+- pkg:maven/de.neuland-bfi/jade4j@0.4.3
+- pkg:maven/de.neuland-bfi/jade4j@0.4.3?classifier=sources

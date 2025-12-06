@@ -1,0 +1,10 @@
+- pkg:maven/de.alpharogroup/user.management@1.0.4
+- pkg:maven/de.alpharogroup/user.management@1.0.4?classifier=sources
+- pkg:maven/de.alpharogroup/user.management@2.0.0
+- pkg:maven/de.alpharogroup/user.management@2.0.0?classifier=sources
+- pkg:maven/de.alpharogroup/user.management@2.1.0
+- pkg:maven/de.alpharogroup/user.management@2.1.0?classifier=sources
+- pkg:maven/de.alpharogroup/user.management@2.2.0
+- pkg:maven/de.alpharogroup/user.management@2.2.0?classifier=sources
+- pkg:maven/de.alpharogroup/user.management@3.0.0
+- pkg:maven/de.alpharogroup/user.management@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/name.ignat/ignat-commons@1.0.0
+- pkg:maven/name.ignat/ignat-commons@1.0.0?classifier=sources

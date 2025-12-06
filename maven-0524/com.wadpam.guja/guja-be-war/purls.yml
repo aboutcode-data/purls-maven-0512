@@ -1,0 +1,2 @@
+- pkg:maven/com.wadpam.guja/guja-be-war@0.0.3?classifier=sources
+- pkg:maven/com.wadpam.guja/guja-be-war@0.0.3?type=war

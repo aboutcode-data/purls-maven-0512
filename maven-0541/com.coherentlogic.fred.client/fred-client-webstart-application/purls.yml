@@ -14,3 +14,5 @@
 - pkg:maven/com.coherentlogic.fred.client/fred-client-webstart-application@0.9.8?type=zip
 - pkg:maven/com.coherentlogic.fred.client/fred-client-webstart-application@0.9.9?classifier=sources
 - pkg:maven/com.coherentlogic.fred.client/fred-client-webstart-application@0.9.9?type=zip
+- pkg:maven/com.coherentlogic.fred.client/fred-client-webstart-application@1.0.6-RELEASE
+- pkg:maven/com.coherentlogic.fred.client/fred-client-webstart-application@1.0.6-RELEASE?classifier=sources

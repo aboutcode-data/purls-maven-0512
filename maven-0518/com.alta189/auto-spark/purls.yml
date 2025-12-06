@@ -1,0 +1,4 @@
+- pkg:maven/com.alta189/auto-spark@1.0
+- pkg:maven/com.alta189/auto-spark@1.0?classifier=sources
+- pkg:maven/com.alta189/auto-spark@1.1
+- pkg:maven/com.alta189/auto-spark@1.1?classifier=sources

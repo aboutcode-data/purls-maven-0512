@@ -1,0 +1,4 @@
+- pkg:maven/org.ehcache.modules/ehcache-management@3.0.0.m2
+- pkg:maven/org.ehcache.modules/ehcache-management@3.0.0.m2?classifier=sources
+- pkg:maven/org.ehcache.modules/ehcache-management@3.0.0.m3
+- pkg:maven/org.ehcache.modules/ehcache-management@3.0.0.m3?classifier=sources

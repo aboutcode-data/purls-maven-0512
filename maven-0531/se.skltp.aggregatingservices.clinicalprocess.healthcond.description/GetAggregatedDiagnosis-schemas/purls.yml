@@ -1,0 +1,4 @@
+- pkg:maven/se.skltp.aggregatingservices.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.0
+- pkg:maven/se.skltp.aggregatingservices.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.0-RC2
+- pkg:maven/se.skltp.aggregatingservices.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.0-RC2?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/react-data-grid@0.13.13
+- pkg:maven/org.webjars.bower/react-data-grid@0.13.13?classifier=sources

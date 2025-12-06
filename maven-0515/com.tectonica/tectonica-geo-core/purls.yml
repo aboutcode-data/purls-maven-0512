@@ -1,0 +1,2 @@
+- pkg:maven/com.tectonica/tectonica-geo-core@0.1
+- pkg:maven/com.tectonica/tectonica-geo-core@0.1?classifier=sources

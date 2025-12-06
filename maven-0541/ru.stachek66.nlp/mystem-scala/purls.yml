@@ -1,0 +1,2 @@
+- pkg:maven/ru.stachek66.nlp/mystem-scala@0.1.2
+- pkg:maven/ru.stachek66.nlp/mystem-scala@0.1.2?classifier=sources

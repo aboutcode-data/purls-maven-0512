@@ -1,1 +1,10 @@
 - pkg:maven/org.apache.olingo/olingo-odata2-parent@1.2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.olingo/olingo-odata2-parent@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.olingo/olingo-odata2-parent@2.0.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.olingo/olingo-odata2-parent@2.0.2-RC01?classifier=source-release&type=zip
+- pkg:maven/org.apache.olingo/olingo-odata2-parent@2.0.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.olingo/olingo-odata2-parent@2.0.3-RC01?classifier=source-release&type=zip
+- pkg:maven/org.apache.olingo/olingo-odata2-parent@2.0.3-RC02?classifier=source-release&type=zip
+- pkg:maven/org.apache.olingo/olingo-odata2-parent@2.0.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.olingo/olingo-odata2-parent@2.0.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.olingo/olingo-odata2-parent@2.0.5?classifier=source-release&type=zip

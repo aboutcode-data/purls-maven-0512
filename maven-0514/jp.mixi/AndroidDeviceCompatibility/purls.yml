@@ -1,2 +1,4 @@
 - pkg:maven/jp.mixi/AndroidDeviceCompatibility@1.0.0
 - pkg:maven/jp.mixi/AndroidDeviceCompatibility@1.0.0?classifier=sources
+- pkg:maven/jp.mixi/AndroidDeviceCompatibility@2.0.0?classifier=sources
+- pkg:maven/jp.mixi/AndroidDeviceCompatibility@2.0.0?type=aar

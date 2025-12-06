@@ -1,0 +1,2 @@
+- pkg:maven/org.jasig.inspektr/inspektr-aspects@1.2.GA
+- pkg:maven/org.jasig.inspektr/inspektr-aspects@1.2.GA?classifier=sources

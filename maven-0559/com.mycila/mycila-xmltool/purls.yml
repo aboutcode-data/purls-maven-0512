@@ -8,3 +8,7 @@
 - pkg:maven/com.mycila/mycila-xmltool@4.1.ga?classifier=sources
 - pkg:maven/com.mycila/mycila-xmltool@4.2.ga
 - pkg:maven/com.mycila/mycila-xmltool@4.2.ga?classifier=sources
+- pkg:maven/com.mycila/mycila-xmltool@4.3.ga
+- pkg:maven/com.mycila/mycila-xmltool@4.3.ga?classifier=sources
+- pkg:maven/com.mycila/mycila-xmltool@4.4.ga
+- pkg:maven/com.mycila/mycila-xmltool@4.4.ga?classifier=sources

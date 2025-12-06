@@ -1,0 +1,2 @@
+- pkg:maven/io.apptik.comm/java-log@0.6.0a
+- pkg:maven/io.apptik.comm/java-log@0.6.0a?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.karaf.decanter.sla/org.apache.karaf.decanter.sla.camel@1.0.0
+- pkg:maven/org.apache.karaf.decanter.sla/org.apache.karaf.decanter.sla.camel@1.0.0?classifier=sources

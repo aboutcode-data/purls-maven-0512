@@ -1,0 +1,6 @@
+- pkg:maven/io.fabric8.devops.find-projects/fabric8-gogs-find-projects@1.2
+- pkg:maven/io.fabric8.devops.find-projects/fabric8-gogs-find-projects@1.2?classifier=sources
+- pkg:maven/io.fabric8.devops.find-projects/fabric8-gogs-find-projects@1.4
+- pkg:maven/io.fabric8.devops.find-projects/fabric8-gogs-find-projects@1.4?classifier=sources
+- pkg:maven/io.fabric8.devops.find-projects/fabric8-gogs-find-projects@1.5
+- pkg:maven/io.fabric8.devops.find-projects/fabric8-gogs-find-projects@1.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.sonar-plugins.javascript/sslr-javascript-toolkit@2.7
+- pkg:maven/org.sonarsource.sonar-plugins.javascript/sslr-javascript-toolkit@2.7?classifier=sources

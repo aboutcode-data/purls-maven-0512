@@ -1,2 +1,3 @@
 - pkg:maven/org.wymiwyg.karaf.tooling/karaf-sling-maven-plugin@3.0.0.RC1
 - pkg:maven/org.wymiwyg.karaf.tooling/karaf-sling-maven-plugin@3.0.0.RC1?classifier=sources
+- pkg:maven/org.wymiwyg.karaf.tooling/karaf-sling-maven-plugin@3.0.1

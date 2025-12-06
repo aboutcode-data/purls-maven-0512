@@ -14,3 +14,9 @@
 - pkg:maven/com.axiomalaska/cf4j@25.0?classifier=sources
 - pkg:maven/com.axiomalaska/cf4j@26.0
 - pkg:maven/com.axiomalaska/cf4j@26.0?classifier=sources
+- pkg:maven/com.axiomalaska/cf4j@27.0
+- pkg:maven/com.axiomalaska/cf4j@27.0?classifier=sources
+- pkg:maven/com.axiomalaska/cf4j@27.1
+- pkg:maven/com.axiomalaska/cf4j@27.1?classifier=sources
+- pkg:maven/com.axiomalaska/cf4j@27.2
+- pkg:maven/com.axiomalaska/cf4j@27.2?classifier=sources

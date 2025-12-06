@@ -5,3 +5,12 @@
 - pkg:maven/org.apache.accumulo/accumulo@1.4.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.accumulo/accumulo@1.5.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.accumulo/accumulo@1.5.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.accumulo/accumulo@1.5.2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.accumulo/accumulo@1.5.3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.accumulo/accumulo@1.5.4?classifier=src&type=tar.gz
+- pkg:maven/org.apache.accumulo/accumulo@1.6.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.accumulo/accumulo@1.6.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.accumulo/accumulo@1.6.2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.accumulo/accumulo@1.6.3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.accumulo/accumulo@1.6.4?classifier=src&type=tar.gz
+- pkg:maven/org.apache.accumulo/accumulo@1.7.0?classifier=src&type=tar.gz

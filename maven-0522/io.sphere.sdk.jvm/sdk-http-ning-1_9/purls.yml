@@ -1,0 +1,2 @@
+- pkg:maven/io.sphere.sdk.jvm/sdk-http-ning-1_9@1.0.0-M15
+- pkg:maven/io.sphere.sdk.jvm/sdk-http-ning-1_9@1.0.0-M15?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.kt3k.straw/straw-android-plugin@0.7.2
+- pkg:maven/org.kt3k.straw/straw-android-plugin@0.7.2?classifier=sources

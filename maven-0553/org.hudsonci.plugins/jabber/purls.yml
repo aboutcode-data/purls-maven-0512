@@ -1,1 +1,2 @@
 - pkg:maven/org.hudsonci.plugins/jabber@1.23-h-1?classifier=sources
+- pkg:maven/org.hudsonci.plugins/jabber@1.23-h-2?classifier=sources

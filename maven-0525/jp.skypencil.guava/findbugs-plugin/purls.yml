@@ -1,0 +1,4 @@
+- pkg:maven/jp.skypencil.guava/findbugs-plugin@1.0.0
+- pkg:maven/jp.skypencil.guava/findbugs-plugin@1.0.0?classifier=sources
+- pkg:maven/jp.skypencil.guava/findbugs-plugin@1.0.1
+- pkg:maven/jp.skypencil.guava/findbugs-plugin@1.0.1?classifier=sources

@@ -2,6 +2,10 @@
 - pkg:maven/org.fusesource.mqtt-client/mqtt-client-website@1.0?type=war
 - pkg:maven/org.fusesource.mqtt-client/mqtt-client-website@1.10?classifier=sources
 - pkg:maven/org.fusesource.mqtt-client/mqtt-client-website@1.10?type=war
+- pkg:maven/org.fusesource.mqtt-client/mqtt-client-website@1.11?classifier=sources
+- pkg:maven/org.fusesource.mqtt-client/mqtt-client-website@1.11?type=war
+- pkg:maven/org.fusesource.mqtt-client/mqtt-client-website@1.12?classifier=sources
+- pkg:maven/org.fusesource.mqtt-client/mqtt-client-website@1.12?type=war
 - pkg:maven/org.fusesource.mqtt-client/mqtt-client-website@1.1?classifier=sources
 - pkg:maven/org.fusesource.mqtt-client/mqtt-client-website@1.1?type=war
 - pkg:maven/org.fusesource.mqtt-client/mqtt-client-website@1.2?classifier=sources

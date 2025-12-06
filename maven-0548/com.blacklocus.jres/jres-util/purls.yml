@@ -1,0 +1,6 @@
+- pkg:maven/com.blacklocus.jres/jres-util@0.1.13
+- pkg:maven/com.blacklocus.jres/jres-util@0.1.13?classifier=sources
+- pkg:maven/com.blacklocus.jres/jres-util@0.1.14
+- pkg:maven/com.blacklocus.jres/jres-util@0.1.14?classifier=sources
+- pkg:maven/com.blacklocus.jres/jres-util@0.2.0
+- pkg:maven/com.blacklocus.jres/jres-util@0.2.0?classifier=sources

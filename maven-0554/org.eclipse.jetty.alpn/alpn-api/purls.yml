@@ -1,2 +1,8 @@
 - pkg:maven/org.eclipse.jetty.alpn/alpn-api@1.0.0
 - pkg:maven/org.eclipse.jetty.alpn/alpn-api@1.0.0?classifier=sources
+- pkg:maven/org.eclipse.jetty.alpn/alpn-api@1.1.0.v20141014
+- pkg:maven/org.eclipse.jetty.alpn/alpn-api@1.1.0.v20141014?classifier=sources
+- pkg:maven/org.eclipse.jetty.alpn/alpn-api@1.1.1.v20150508
+- pkg:maven/org.eclipse.jetty.alpn/alpn-api@1.1.1.v20150508?classifier=sources
+- pkg:maven/org.eclipse.jetty.alpn/alpn-api@1.1.2.v20150522
+- pkg:maven/org.eclipse.jetty.alpn/alpn-api@1.1.2.v20150522?classifier=sources

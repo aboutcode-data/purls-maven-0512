@@ -1,0 +1,2 @@
+- pkg:maven/com.pentahohub.nexus/alipay-sdk-java@20150820220052
+- pkg:maven/com.pentahohub.nexus/alipay-sdk-java@20150820220052?classifier=sources

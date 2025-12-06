@@ -1,0 +1,2 @@
+- pkg:maven/com.sibvisions.jvx/jvxee@1.2
+- pkg:maven/com.sibvisions.jvx/jvxee@1.2?classifier=sources

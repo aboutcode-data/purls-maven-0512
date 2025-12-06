@@ -2,3 +2,5 @@
 - pkg:maven/au.com.flyingkite/mobiledetect@1.0?classifier=sources
 - pkg:maven/au.com.flyingkite/mobiledetect@1.1.0
 - pkg:maven/au.com.flyingkite/mobiledetect@1.1.0?classifier=sources
+- pkg:maven/au.com.flyingkite/mobiledetect@1.1.1
+- pkg:maven/au.com.flyingkite/mobiledetect@1.1.1?classifier=sources

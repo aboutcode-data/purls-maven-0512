@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.river.examples/browser@1.0
+- pkg:maven/org.apache.river.examples/browser@1.0?classifier=sources

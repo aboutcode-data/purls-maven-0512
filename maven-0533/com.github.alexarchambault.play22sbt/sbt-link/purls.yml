@@ -1,0 +1,2 @@
+- pkg:maven/com.github.alexarchambault.play22sbt/sbt-link@2.2.6
+- pkg:maven/com.github.alexarchambault.play22sbt/sbt-link@2.2.6?classifier=sources

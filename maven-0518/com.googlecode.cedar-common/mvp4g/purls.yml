@@ -1,0 +1,4 @@
+- pkg:maven/com.googlecode.cedar-common/mvp4g@1.5.0-20121019.011853-3-repackaged
+- pkg:maven/com.googlecode.cedar-common/mvp4g@1.5.0-20121019.011853-3-repackaged?classifier=sources
+- pkg:maven/com.googlecode.cedar-common/mvp4g@1.5.0-20140506.192324-8-repackaged
+- pkg:maven/com.googlecode.cedar-common/mvp4g@1.5.0-20140506.192324-8-repackaged?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.wildfly.camel/wildfly-camel-config@2.3.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-config@2.3.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-config@3.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-config@3.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-config@3.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-config@3.1.0?classifier=sources

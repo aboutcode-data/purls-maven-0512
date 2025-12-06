@@ -1,0 +1,4 @@
+- pkg:maven/com.globo.dnsapi/dnsapi-client-java@0.0.11
+- pkg:maven/com.globo.dnsapi/dnsapi-client-java@0.0.11?classifier=sources
+- pkg:maven/com.globo.dnsapi/dnsapi-client-java@0.0.9
+- pkg:maven/com.globo.dnsapi/dnsapi-client-java@0.0.9?classifier=sources

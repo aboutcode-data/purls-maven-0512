@@ -1,0 +1,4 @@
+- pkg:maven/eu.trentorise.opendata.josman/josman-maven-plugin@0.6.0
+- pkg:maven/eu.trentorise.opendata.josman/josman-maven-plugin@0.6.0?classifier=sources
+- pkg:maven/eu.trentorise.opendata.josman/josman-maven-plugin@0.6.1
+- pkg:maven/eu.trentorise.opendata.josman/josman-maven-plugin@0.6.1?classifier=sources

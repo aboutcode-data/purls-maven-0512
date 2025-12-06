@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/ui-router@0.2.9
+- pkg:maven/org.webjars.bower/ui-router@0.2.9?classifier=sources

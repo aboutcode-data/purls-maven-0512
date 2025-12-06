@@ -1,0 +1,6 @@
+- pkg:maven/net.donky/donky-module-rich-ui-inbox@2.2.0.0?classifier=sources
+- pkg:maven/net.donky/donky-module-rich-ui-inbox@2.2.0.0?type=aar
+- pkg:maven/net.donky/donky-module-rich-ui-inbox@2.2.0.1?classifier=sources
+- pkg:maven/net.donky/donky-module-rich-ui-inbox@2.2.0.1?type=aar
+- pkg:maven/net.donky/donky-module-rich-ui-inbox@2.2.0.2?classifier=sources
+- pkg:maven/net.donky/donky-module-rich-ui-inbox@2.2.0.2?type=aar

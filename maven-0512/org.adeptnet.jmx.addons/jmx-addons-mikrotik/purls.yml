@@ -1,0 +1,2 @@
+- pkg:maven/org.adeptnet.jmx.addons/jmx-addons-mikrotik@1.2.0
+- pkg:maven/org.adeptnet.jmx.addons/jmx-addons-mikrotik@1.2.0?classifier=sources

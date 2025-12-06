@@ -2,3 +2,13 @@
 - pkg:maven/net.urizone/ddmsence@2.1.0?classifier=sources
 - pkg:maven/net.urizone/ddmsence@2.2.0
 - pkg:maven/net.urizone/ddmsence@2.2.0?classifier=sources
+- pkg:maven/net.urizone/ddmsence@2.2.1
+- pkg:maven/net.urizone/ddmsence@2.2.1?classifier=sources
+- pkg:maven/net.urizone/ddmsence@2.3.0
+- pkg:maven/net.urizone/ddmsence@2.3.0?classifier=sources
+- pkg:maven/net.urizone/ddmsence@2.4.0
+- pkg:maven/net.urizone/ddmsence@2.4.0?classifier=sources
+- pkg:maven/net.urizone/ddmsence@2.5.0
+- pkg:maven/net.urizone/ddmsence@2.5.0?classifier=sources
+- pkg:maven/net.urizone/ddmsence@2.6.0
+- pkg:maven/net.urizone/ddmsence@2.6.0?classifier=sources

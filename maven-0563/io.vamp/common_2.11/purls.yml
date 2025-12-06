@@ -1,0 +1,6 @@
+- pkg:maven/io.vamp/common_2.11@0.7.0-RC1
+- pkg:maven/io.vamp/common_2.11@0.7.0-RC1?classifier=sources
+- pkg:maven/io.vamp/common_2.11@0.7.0-RC2
+- pkg:maven/io.vamp/common_2.11@0.7.0-RC2?classifier=sources
+- pkg:maven/io.vamp/common_2.11@0.7.6.38
+- pkg:maven/io.vamp/common_2.11@0.7.6.38?classifier=sources

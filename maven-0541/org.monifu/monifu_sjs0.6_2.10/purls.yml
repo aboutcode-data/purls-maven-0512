@@ -1,0 +1,2 @@
+- pkg:maven/org.monifu/monifu_sjs0.6_2.10@1.0-RC3
+- pkg:maven/org.monifu/monifu_sjs0.6_2.10@1.0-RC3?classifier=sources

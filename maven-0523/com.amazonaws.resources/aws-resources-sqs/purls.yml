@@ -1,0 +1,2 @@
+- pkg:maven/com.amazonaws.resources/aws-resources-sqs@0.0.3
+- pkg:maven/com.amazonaws.resources/aws-resources-sqs@0.0.3?classifier=sources

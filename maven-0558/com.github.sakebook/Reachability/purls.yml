@@ -1,0 +1,6 @@
+- pkg:maven/com.github.sakebook/Reachability@0.0.1?classifier=sources
+- pkg:maven/com.github.sakebook/Reachability@0.0.1?type=aar
+- pkg:maven/com.github.sakebook/Reachability@0.1.0?classifier=sources
+- pkg:maven/com.github.sakebook/Reachability@0.1.0?type=aar
+- pkg:maven/com.github.sakebook/Reachability@0.2.0?classifier=sources
+- pkg:maven/com.github.sakebook/Reachability@0.2.0?type=aar

@@ -1,0 +1,14 @@
+- pkg:maven/com.erigir/wrench-ape@0.91
+- pkg:maven/com.erigir/wrench-ape@0.91?classifier=sources
+- pkg:maven/com.erigir/wrench-ape@0.92
+- pkg:maven/com.erigir/wrench-ape@0.921
+- pkg:maven/com.erigir/wrench-ape@0.921?classifier=sources
+- pkg:maven/com.erigir/wrench-ape@0.92?classifier=sources
+- pkg:maven/com.erigir/wrench-ape@1.000
+- pkg:maven/com.erigir/wrench-ape@1.000?classifier=sources
+- pkg:maven/com.erigir/wrench-ape@1.001
+- pkg:maven/com.erigir/wrench-ape@1.001?classifier=sources
+- pkg:maven/com.erigir/wrench-ape@1.002
+- pkg:maven/com.erigir/wrench-ape@1.002?classifier=sources
+- pkg:maven/com.erigir/wrench-ape@1.003
+- pkg:maven/com.erigir/wrench-ape@1.003?classifier=sources

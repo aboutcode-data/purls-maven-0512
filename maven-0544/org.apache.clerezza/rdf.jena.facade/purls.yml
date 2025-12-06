@@ -2,3 +2,7 @@
 - pkg:maven/org.apache.clerezza/rdf.jena.facade@0.12-incubating?classifier=sources
 - pkg:maven/org.apache.clerezza/rdf.jena.facade@0.13
 - pkg:maven/org.apache.clerezza/rdf.jena.facade@0.13?classifier=sources
+- pkg:maven/org.apache.clerezza/rdf.jena.facade@0.14
+- pkg:maven/org.apache.clerezza/rdf.jena.facade@0.14?classifier=sources
+- pkg:maven/org.apache.clerezza/rdf.jena.facade@1.0.0
+- pkg:maven/org.apache.clerezza/rdf.jena.facade@1.0.0?classifier=sources

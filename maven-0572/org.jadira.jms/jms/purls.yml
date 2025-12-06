@@ -1,0 +1,4 @@
+- pkg:maven/org.jadira.jms/jms@3.2.0.GA
+- pkg:maven/org.jadira.jms/jms@3.2.0.GA?classifier=sources
+- pkg:maven/org.jadira.jms/jms@4.0.0.GA
+- pkg:maven/org.jadira.jms/jms@4.0.0.GA?classifier=sources

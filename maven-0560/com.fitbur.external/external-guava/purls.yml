@@ -1,0 +1,2 @@
+- pkg:maven/com.fitbur.external/external-guava@0.5.1
+- pkg:maven/com.fitbur.external/external-guava@0.5.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.novus/salat-core_2.11@1.9.8
+- pkg:maven/com.novus/salat-core_2.11@1.9.8?classifier=sources
+- pkg:maven/com.novus/salat-core_2.11@1.9.9
+- pkg:maven/com.novus/salat-core_2.11@1.9.9?classifier=sources

@@ -1,4 +1,8 @@
 - pkg:maven/org.apache.clerezza/rdf.jena.serializer@0.10
 - pkg:maven/org.apache.clerezza/rdf.jena.serializer@0.10?classifier=sources
+- pkg:maven/org.apache.clerezza/rdf.jena.serializer@0.11
+- pkg:maven/org.apache.clerezza/rdf.jena.serializer@0.11?classifier=sources
 - pkg:maven/org.apache.clerezza/rdf.jena.serializer@0.9-incubating
 - pkg:maven/org.apache.clerezza/rdf.jena.serializer@0.9-incubating?classifier=sources
+- pkg:maven/org.apache.clerezza/rdf.jena.serializer@1.0.0
+- pkg:maven/org.apache.clerezza/rdf.jena.serializer@1.0.0?classifier=sources

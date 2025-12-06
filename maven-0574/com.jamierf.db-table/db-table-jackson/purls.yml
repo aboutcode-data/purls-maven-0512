@@ -1,0 +1,2 @@
+- pkg:maven/com.jamierf.db-table/db-table-jackson@0.1
+- pkg:maven/com.jamierf.db-table/db-table-jackson@0.1?classifier=sources

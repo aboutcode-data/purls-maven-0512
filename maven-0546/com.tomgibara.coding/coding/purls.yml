@@ -1,0 +1,4 @@
+- pkg:maven/com.tomgibara.coding/coding@1.0.0
+- pkg:maven/com.tomgibara.coding/coding@1.0.0-j6
+- pkg:maven/com.tomgibara.coding/coding@1.0.0-j6?classifier=sources
+- pkg:maven/com.tomgibara.coding/coding@1.0.0?classifier=sources

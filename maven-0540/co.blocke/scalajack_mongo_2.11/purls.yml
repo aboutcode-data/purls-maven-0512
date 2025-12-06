@@ -1,0 +1,10 @@
+- pkg:maven/co.blocke/scalajack_mongo_2.11@3.0.0
+- pkg:maven/co.blocke/scalajack_mongo_2.11@3.0.0?classifier=sources
+- pkg:maven/co.blocke/scalajack_mongo_2.11@3.1.0
+- pkg:maven/co.blocke/scalajack_mongo_2.11@3.1.0?classifier=sources
+- pkg:maven/co.blocke/scalajack_mongo_2.11@3.1.1
+- pkg:maven/co.blocke/scalajack_mongo_2.11@3.1.1?classifier=sources
+- pkg:maven/co.blocke/scalajack_mongo_2.11@4.0
+- pkg:maven/co.blocke/scalajack_mongo_2.11@4.0?classifier=sources
+- pkg:maven/co.blocke/scalajack_mongo_2.11@4.1
+- pkg:maven/co.blocke/scalajack_mongo_2.11@4.1?classifier=sources

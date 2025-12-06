@@ -1,0 +1,10 @@
+- pkg:maven/com.ibm.mobile.services/ibmfilesync@0.4.0
+- pkg:maven/com.ibm.mobile.services/ibmfilesync@0.4.0?classifier=sources
+- pkg:maven/com.ibm.mobile.services/ibmfilesync@1.0.0.20140630-2208
+- pkg:maven/com.ibm.mobile.services/ibmfilesync@1.0.0.20140630-2208?classifier=sources
+- pkg:maven/com.ibm.mobile.services/ibmfilesync@1.0.0.20140707-1250
+- pkg:maven/com.ibm.mobile.services/ibmfilesync@1.0.0.20140707-1250?classifier=sources
+- pkg:maven/com.ibm.mobile.services/ibmfilesync@1.0.1.20150112-0905
+- pkg:maven/com.ibm.mobile.services/ibmfilesync@1.0.1.20150112-0905?classifier=sources
+- pkg:maven/com.ibm.mobile.services/ibmfilesync@1.0.1.20150311-1224
+- pkg:maven/com.ibm.mobile.services/ibmfilesync@1.0.1.20150311-1224?classifier=sources

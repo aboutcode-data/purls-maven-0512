@@ -1,0 +1,2 @@
+- pkg:maven/gr.iti.mklab/simmo@0.1
+- pkg:maven/gr.iti.mklab/simmo@0.1?classifier=sources

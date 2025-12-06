@@ -1,0 +1,2 @@
+- pkg:maven/it.unipi.di.acube/bing-api-java@0.3
+- pkg:maven/it.unipi.di.acube/bing-api-java@0.3?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.aerospike/aerospike-session-store@0.9
+- pkg:maven/com.aerospike/aerospike-session-store@0.9.1
+- pkg:maven/com.aerospike/aerospike-session-store@0.9.1?classifier=sources
+- pkg:maven/com.aerospike/aerospike-session-store@0.9?classifier=sources
+- pkg:maven/com.aerospike/aerospike-session-store@1.1
+- pkg:maven/com.aerospike/aerospike-session-store@1.1?classifier=sources

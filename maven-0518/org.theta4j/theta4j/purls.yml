@@ -1,0 +1,4 @@
+- pkg:maven/org.theta4j/theta4j@0.4.0
+- pkg:maven/org.theta4j/theta4j@0.4.0?classifier=sources
+- pkg:maven/org.theta4j/theta4j@0.5.0
+- pkg:maven/org.theta4j/theta4j@0.5.0?classifier=sources

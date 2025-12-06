@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter/cassovary-server_2.9.3@3.4.0
+- pkg:maven/com.twitter/cassovary-server_2.9.3@3.4.0?classifier=sources

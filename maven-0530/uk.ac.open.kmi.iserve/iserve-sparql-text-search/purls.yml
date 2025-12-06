@@ -1,0 +1,8 @@
+- pkg:maven/uk.ac.open.kmi.iserve/iserve-sparql-text-search@2.0.0
+- pkg:maven/uk.ac.open.kmi.iserve/iserve-sparql-text-search@2.0.0-RC2
+- pkg:maven/uk.ac.open.kmi.iserve/iserve-sparql-text-search@2.0.0-RC2?classifier=sources
+- pkg:maven/uk.ac.open.kmi.iserve/iserve-sparql-text-search@2.0.0-RC3
+- pkg:maven/uk.ac.open.kmi.iserve/iserve-sparql-text-search@2.0.0-RC3?classifier=sources
+- pkg:maven/uk.ac.open.kmi.iserve/iserve-sparql-text-search@2.0.0?classifier=sources
+- pkg:maven/uk.ac.open.kmi.iserve/iserve-sparql-text-search@2.0.1
+- pkg:maven/uk.ac.open.kmi.iserve/iserve-sparql-text-search@2.0.1?classifier=sources

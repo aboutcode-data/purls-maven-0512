@@ -1,0 +1,16 @@
+- pkg:maven/be.bagofwords/count-db@1.0.0
+- pkg:maven/be.bagofwords/count-db@1.0.0?classifier=sources
+- pkg:maven/be.bagofwords/count-db@1.0.1
+- pkg:maven/be.bagofwords/count-db@1.0.1?classifier=sources
+- pkg:maven/be.bagofwords/count-db@1.0.2
+- pkg:maven/be.bagofwords/count-db@1.0.2?classifier=sources
+- pkg:maven/be.bagofwords/count-db@1.1.0
+- pkg:maven/be.bagofwords/count-db@1.1.0?classifier=sources
+- pkg:maven/be.bagofwords/count-db@1.1.10
+- pkg:maven/be.bagofwords/count-db@1.1.10?classifier=sources
+- pkg:maven/be.bagofwords/count-db@1.1.11
+- pkg:maven/be.bagofwords/count-db@1.1.11?classifier=sources
+- pkg:maven/be.bagofwords/count-db@1.1.12
+- pkg:maven/be.bagofwords/count-db@1.1.12?classifier=sources
+- pkg:maven/be.bagofwords/count-db@1.1.2
+- pkg:maven/be.bagofwords/count-db@1.1.2?classifier=sources

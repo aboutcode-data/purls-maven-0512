@@ -1,0 +1,10 @@
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.12.0-M1@0.7.2
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.12.0-M1@0.7.2?classifier=sources
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.12.0-M1@0.7.2a
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.12.0-M1@0.7.2a?classifier=sources
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.12.0-M1@0.7.3
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.12.0-M1@0.7.3?classifier=sources
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.12.0-M1@0.7.3a
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.12.0-M1@0.7.3a?classifier=sources
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.12.0-M1@snapshot-0.7a
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.12.0-M1@snapshot-0.7a?classifier=sources

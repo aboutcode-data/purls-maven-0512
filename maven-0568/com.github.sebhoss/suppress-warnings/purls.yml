@@ -1,2 +1,4 @@
 - pkg:maven/com.github.sebhoss/suppress-warnings@1.0.0
 - pkg:maven/com.github.sebhoss/suppress-warnings@1.0.0?classifier=sources
+- pkg:maven/com.github.sebhoss/suppress-warnings@2.0.0
+- pkg:maven/com.github.sebhoss/suppress-warnings@2.0.0?classifier=sources

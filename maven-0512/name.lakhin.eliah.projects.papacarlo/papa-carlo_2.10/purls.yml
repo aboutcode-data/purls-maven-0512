@@ -10,3 +10,5 @@
 - pkg:maven/name.lakhin.eliah.projects.papacarlo/papa-carlo_2.10@0.6.0?classifier=sources
 - pkg:maven/name.lakhin.eliah.projects.papacarlo/papa-carlo_2.10@0.6.1
 - pkg:maven/name.lakhin.eliah.projects.papacarlo/papa-carlo_2.10@0.6.1?classifier=sources
+- pkg:maven/name.lakhin.eliah.projects.papacarlo/papa-carlo_2.10@0.7.0
+- pkg:maven/name.lakhin.eliah.projects.papacarlo/papa-carlo_2.10@0.7.0?classifier=sources

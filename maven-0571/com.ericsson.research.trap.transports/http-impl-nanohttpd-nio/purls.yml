@@ -1,0 +1,4 @@
+- pkg:maven/com.ericsson.research.trap.transports/http-impl-nanohttpd-nio@1.4
+- pkg:maven/com.ericsson.research.trap.transports/http-impl-nanohttpd-nio@1.4.1
+- pkg:maven/com.ericsson.research.trap.transports/http-impl-nanohttpd-nio@1.4.1?classifier=sources
+- pkg:maven/com.ericsson.research.trap.transports/http-impl-nanohttpd-nio@1.4?classifier=sources

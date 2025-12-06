@@ -1,0 +1,2 @@
+- pkg:maven/com.yahoo.sql4d/IndexerAgent@4.1.0
+- pkg:maven/com.yahoo.sql4d/IndexerAgent@4.1.0?classifier=sources

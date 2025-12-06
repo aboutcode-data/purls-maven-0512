@@ -1,0 +1,2 @@
+- pkg:maven/de.otto.microservice/metrics@0.0.2
+- pkg:maven/de.otto.microservice/metrics@0.0.2?classifier=sources

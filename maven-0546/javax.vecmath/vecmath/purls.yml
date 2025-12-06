@@ -1,0 +1,2 @@
+- pkg:maven/javax.vecmath/vecmath@1.5.2
+- pkg:maven/javax.vecmath/vecmath@1.5.2?classifier=sources

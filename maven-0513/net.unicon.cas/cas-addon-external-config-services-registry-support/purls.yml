@@ -1,0 +1,14 @@
+- pkg:maven/net.unicon.cas/cas-addon-external-config-services-registry-support@1.0.0-GA
+- pkg:maven/net.unicon.cas/cas-addon-external-config-services-registry-support@1.0.0-GA?classifier=sources
+- pkg:maven/net.unicon.cas/cas-addon-external-config-services-registry-support@1.0.0-RC1
+- pkg:maven/net.unicon.cas/cas-addon-external-config-services-registry-support@1.0.0-RC1?classifier=sources
+- pkg:maven/net.unicon.cas/cas-addon-external-config-services-registry-support@1.0.0-RC2
+- pkg:maven/net.unicon.cas/cas-addon-external-config-services-registry-support@1.0.0-RC2?classifier=sources
+- pkg:maven/net.unicon.cas/cas-addon-external-config-services-registry-support@1.0.0-RC3
+- pkg:maven/net.unicon.cas/cas-addon-external-config-services-registry-support@1.0.0-RC3?classifier=sources
+- pkg:maven/net.unicon.cas/cas-addon-external-config-services-registry-support@1.0.0-RC4
+- pkg:maven/net.unicon.cas/cas-addon-external-config-services-registry-support@1.0.0-RC4?classifier=sources
+- pkg:maven/net.unicon.cas/cas-addon-external-config-services-registry-support@1.0.0-RC5
+- pkg:maven/net.unicon.cas/cas-addon-external-config-services-registry-support@1.0.0-RC5?classifier=sources
+- pkg:maven/net.unicon.cas/cas-addon-external-config-services-registry-support@1.0.0.RC1
+- pkg:maven/net.unicon.cas/cas-addon-external-config-services-registry-support@1.0.0.RC1?classifier=sources

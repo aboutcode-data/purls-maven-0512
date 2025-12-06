@@ -1,0 +1,10 @@
+- pkg:maven/de.heikoseeberger/akka-http-json4s_2.11@0.8.0
+- pkg:maven/de.heikoseeberger/akka-http-json4s_2.11@0.8.0?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-json4s_2.11@0.9.0
+- pkg:maven/de.heikoseeberger/akka-http-json4s_2.11@0.9.0?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-json4s_2.11@0.9.1
+- pkg:maven/de.heikoseeberger/akka-http-json4s_2.11@0.9.1?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-json4s_2.11@1.0.0
+- pkg:maven/de.heikoseeberger/akka-http-json4s_2.11@1.0.0?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-json4s_2.11@1.1.0
+- pkg:maven/de.heikoseeberger/akka-http-json4s_2.11@1.1.0?classifier=sources

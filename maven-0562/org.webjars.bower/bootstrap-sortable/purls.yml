@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/bootstrap-sortable@1.11.1
+- pkg:maven/org.webjars.bower/bootstrap-sortable@1.11.1?classifier=sources

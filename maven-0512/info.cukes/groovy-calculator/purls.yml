@@ -6,3 +6,5 @@
 - pkg:maven/info.cukes/groovy-calculator@1.0.0.RC21?classifier=sources
 - pkg:maven/info.cukes/groovy-calculator@1.0.0.RC23
 - pkg:maven/info.cukes/groovy-calculator@1.0.0.RC23?classifier=sources
+- pkg:maven/info.cukes/groovy-calculator@1.2.3
+- pkg:maven/info.cukes/groovy-calculator@1.2.3?classifier=sources

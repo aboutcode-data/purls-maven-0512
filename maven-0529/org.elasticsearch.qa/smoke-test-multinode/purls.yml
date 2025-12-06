@@ -1,0 +1,4 @@
+- pkg:maven/org.elasticsearch.qa/smoke-test-multinode@2.0.0
+- pkg:maven/org.elasticsearch.qa/smoke-test-multinode@2.0.0-beta1
+- pkg:maven/org.elasticsearch.qa/smoke-test-multinode@2.0.0-beta2
+- pkg:maven/org.elasticsearch.qa/smoke-test-multinode@2.0.0-rc1

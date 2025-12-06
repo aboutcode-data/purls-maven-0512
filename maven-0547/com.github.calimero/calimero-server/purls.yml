@@ -1,0 +1,2 @@
+- pkg:maven/com.github.calimero/calimero-server@2.2
+- pkg:maven/com.github.calimero/calimero-server@2.2?classifier=sources

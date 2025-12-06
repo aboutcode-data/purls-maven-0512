@@ -1,0 +1,2 @@
+- pkg:maven/com.puresoltechnologies.commons/os.bundle@0.3.0
+- pkg:maven/com.puresoltechnologies.commons/os.bundle@0.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.javabits.yar/yar-guava@2.0.0.RELEASE
+- pkg:maven/org.javabits.yar/yar-guava@2.0.0.RELEASE?classifier=sources

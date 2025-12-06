@@ -1,0 +1,4 @@
+- pkg:maven/com.theoryinpractise/halbuilder-jaxrs@1.0.1
+- pkg:maven/com.theoryinpractise/halbuilder-jaxrs@1.0.1?classifier=sources
+- pkg:maven/com.theoryinpractise/halbuilder-jaxrs@1.1.1
+- pkg:maven/com.theoryinpractise/halbuilder-jaxrs@1.1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/nl.pvanassen/guice-junit-runner@1.0.0
+- pkg:maven/nl.pvanassen/guice-junit-runner@1.0.0?classifier=sources
+- pkg:maven/nl.pvanassen/guice-junit-runner@1.1.0
+- pkg:maven/nl.pvanassen/guice-junit-runner@1.1.0?classifier=sources

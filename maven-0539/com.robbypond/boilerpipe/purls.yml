@@ -1,0 +1,2 @@
+- pkg:maven/com.robbypond/boilerpipe@1.2.3
+- pkg:maven/com.robbypond/boilerpipe@1.2.3?classifier=sources

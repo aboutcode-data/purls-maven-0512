@@ -1,0 +1,2 @@
+- pkg:maven/com.identityx.auth/daon-http-digest-auth@1.0.0.21
+- pkg:maven/com.identityx.auth/daon-http-digest-auth@1.0.0.21?classifier=sources

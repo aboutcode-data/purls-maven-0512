@@ -1,0 +1,2 @@
+- pkg:maven/com.jobhive/saki-monkey@1.0.0-BETA
+- pkg:maven/com.jobhive/saki-monkey@1.0.0-BETA?classifier=sources

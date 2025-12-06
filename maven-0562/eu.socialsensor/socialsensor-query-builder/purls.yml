@@ -1,0 +1,2 @@
+- pkg:maven/eu.socialsensor/socialsensor-query-builder@0.2
+- pkg:maven/eu.socialsensor/socialsensor-query-builder@0.2?classifier=sources

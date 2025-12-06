@@ -1,0 +1,2 @@
+- pkg:maven/org.keedio.storm.bolt.tcp/storm-tcp-bolt@1.0.2
+- pkg:maven/org.keedio.storm.bolt.tcp/storm-tcp-bolt@1.0.2?classifier=sources

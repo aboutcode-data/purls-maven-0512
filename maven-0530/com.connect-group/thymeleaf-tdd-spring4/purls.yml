@@ -1,0 +1,2 @@
+- pkg:maven/com.connect-group/thymeleaf-tdd-spring4@1.0.4
+- pkg:maven/com.connect-group/thymeleaf-tdd-spring4@1.0.4?classifier=sources

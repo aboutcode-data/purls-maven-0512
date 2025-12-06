@@ -1,2 +1,6 @@
 - pkg:maven/com.quigley/zabbixj@1.0.1
 - pkg:maven/com.quigley/zabbixj@1.0.1?classifier=sources
+- pkg:maven/com.quigley/zabbixj@2
+- pkg:maven/com.quigley/zabbixj@2?classifier=sources
+- pkg:maven/com.quigley/zabbixj@3
+- pkg:maven/com.quigley/zabbixj@3?classifier=sources

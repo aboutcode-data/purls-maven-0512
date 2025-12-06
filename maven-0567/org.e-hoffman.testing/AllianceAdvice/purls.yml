@@ -1,0 +1,6 @@
+- pkg:maven/org.e-hoffman.testing/AllianceAdvice@1.0.0
+- pkg:maven/org.e-hoffman.testing/AllianceAdvice@1.0.0?classifier=sources
+- pkg:maven/org.e-hoffman.testing/AllianceAdvice@1.4.0
+- pkg:maven/org.e-hoffman.testing/AllianceAdvice@1.4.0?classifier=sources
+- pkg:maven/org.e-hoffman.testing/AllianceAdvice@1.5.0
+- pkg:maven/org.e-hoffman.testing/AllianceAdvice@1.5.0?classifier=sources

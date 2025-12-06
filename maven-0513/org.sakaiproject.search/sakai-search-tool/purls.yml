@@ -22,3 +22,7 @@
 - pkg:maven/org.sakaiproject.search/sakai-search-tool@1.4.2?type=war
 - pkg:maven/org.sakaiproject.search/sakai-search-tool@1.4.3?classifier=sources
 - pkg:maven/org.sakaiproject.search/sakai-search-tool@1.4.3?type=war
+- pkg:maven/org.sakaiproject.search/sakai-search-tool@10.3?classifier=sources
+- pkg:maven/org.sakaiproject.search/sakai-search-tool@10.3?type=war
+- pkg:maven/org.sakaiproject.search/sakai-search-tool@10.4?classifier=sources
+- pkg:maven/org.sakaiproject.search/sakai-search-tool@10.4?type=war

@@ -4,3 +4,6 @@
 - pkg:maven/org.codehaus.mojo/javancss-maven-plugin@2.0-beta-2
 - pkg:maven/org.codehaus.mojo/javancss-maven-plugin@2.0-beta-2?classifier=sources
 - pkg:maven/org.codehaus.mojo/javancss-maven-plugin@2.0?classifier=sources
+- pkg:maven/org.codehaus.mojo/javancss-maven-plugin@2.1
+- pkg:maven/org.codehaus.mojo/javancss-maven-plugin@2.1?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/javancss-maven-plugin@2.1?classifier=sources

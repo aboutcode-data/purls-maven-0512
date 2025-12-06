@@ -1,0 +1,4 @@
+- pkg:maven/org.immutables.tools/maven-shade-plugin@2
+- pkg:maven/org.immutables.tools/maven-shade-plugin@2?classifier=sources
+- pkg:maven/org.immutables.tools/maven-shade-plugin@3
+- pkg:maven/org.immutables.tools/maven-shade-plugin@3?classifier=sources

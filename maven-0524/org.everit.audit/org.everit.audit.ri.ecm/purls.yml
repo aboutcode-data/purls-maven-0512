@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.audit/org.everit.audit.ri.ecm@1.0.0
+- pkg:maven/org.everit.audit/org.everit.audit.ri.ecm@1.0.0?classifier=sources

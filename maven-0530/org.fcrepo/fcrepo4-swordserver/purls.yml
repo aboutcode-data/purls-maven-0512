@@ -1,0 +1,2 @@
+- pkg:maven/org.fcrepo/fcrepo4-swordserver@4.4.0
+- pkg:maven/org.fcrepo/fcrepo4-swordserver@4.4.0?classifier=sources

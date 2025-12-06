@@ -1,1 +1,2 @@
 - pkg:maven/org.mobicents.diameter/mobicents-diameter-mux-sar-jboss-4@1.5.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.diameter/mobicents-diameter-mux-sar-jboss-4@1.6.0.FINAL?classifier=sources

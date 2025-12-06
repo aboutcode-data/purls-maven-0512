@@ -1,0 +1,1 @@
+- pkg:maven/org.sonarsource.javascript/sonar-javascript-plugin@2.8?classifier=sources

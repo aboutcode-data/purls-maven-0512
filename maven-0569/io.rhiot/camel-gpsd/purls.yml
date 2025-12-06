@@ -1,0 +1,2 @@
+- pkg:maven/io.rhiot/camel-gpsd@0.1.2
+- pkg:maven/io.rhiot/camel-gpsd@0.1.2?classifier=sources

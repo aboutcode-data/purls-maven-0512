@@ -53,6 +53,13 @@
 - pkg:maven/org.codehaus.cargo/expanded-war@1.3.2?type=war
 - pkg:maven/org.codehaus.cargo/expanded-war@1.3.3?type=war
 - pkg:maven/org.codehaus.cargo/expanded-war@1.4.0?type=war
+- pkg:maven/org.codehaus.cargo/expanded-war@1.4.10?type=war
+- pkg:maven/org.codehaus.cargo/expanded-war@1.4.11?type=war
+- pkg:maven/org.codehaus.cargo/expanded-war@1.4.12?type=war
+- pkg:maven/org.codehaus.cargo/expanded-war@1.4.13?type=war
+- pkg:maven/org.codehaus.cargo/expanded-war@1.4.14?type=war
+- pkg:maven/org.codehaus.cargo/expanded-war@1.4.15?type=war
+- pkg:maven/org.codehaus.cargo/expanded-war@1.4.16?type=war
 - pkg:maven/org.codehaus.cargo/expanded-war@1.4.1?type=war
 - pkg:maven/org.codehaus.cargo/expanded-war@1.4.2?type=war
 - pkg:maven/org.codehaus.cargo/expanded-war@1.4.3?type=war
@@ -61,3 +68,4 @@
 - pkg:maven/org.codehaus.cargo/expanded-war@1.4.6?type=war
 - pkg:maven/org.codehaus.cargo/expanded-war@1.4.7?type=war
 - pkg:maven/org.codehaus.cargo/expanded-war@1.4.8?type=war
+- pkg:maven/org.codehaus.cargo/expanded-war@1.4.9?type=war

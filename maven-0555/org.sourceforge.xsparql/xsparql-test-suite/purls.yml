@@ -1,0 +1,2 @@
+- pkg:maven/org.sourceforge.xsparql/xsparql-test-suite@20140722
+- pkg:maven/org.sourceforge.xsparql/xsparql-test-suite@20140722?classifier=sources

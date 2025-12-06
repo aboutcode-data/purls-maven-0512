@@ -1,0 +1,2 @@
+- pkg:maven/de.adito.picoservice/picoservice@1.0.0
+- pkg:maven/de.adito.picoservice/picoservice@1.0.0?classifier=sources

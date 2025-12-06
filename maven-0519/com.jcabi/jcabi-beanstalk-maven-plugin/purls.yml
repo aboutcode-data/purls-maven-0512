@@ -1,3 +1,7 @@
+- pkg:maven/com.jcabi/jcabi-beanstalk-maven-plugin@0.10
+- pkg:maven/com.jcabi/jcabi-beanstalk-maven-plugin@0.10?classifier=sources
+- pkg:maven/com.jcabi/jcabi-beanstalk-maven-plugin@0.11
+- pkg:maven/com.jcabi/jcabi-beanstalk-maven-plugin@0.11?classifier=sources
 - pkg:maven/com.jcabi/jcabi-beanstalk-maven-plugin@0.3
 - pkg:maven/com.jcabi/jcabi-beanstalk-maven-plugin@0.3?classifier=sources
 - pkg:maven/com.jcabi/jcabi-beanstalk-maven-plugin@0.4

@@ -1,0 +1,2 @@
+- pkg:maven/org.dbrain/templating@0.2
+- pkg:maven/org.dbrain/templating@0.2?classifier=sources

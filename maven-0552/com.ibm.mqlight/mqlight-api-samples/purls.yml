@@ -1,0 +1,8 @@
+- pkg:maven/com.ibm.mqlight/mqlight-api-samples@1.0.2015051107
+- pkg:maven/com.ibm.mqlight/mqlight-api-samples@1.0.2015051107?classifier=sources
+- pkg:maven/com.ibm.mqlight/mqlight-api-samples@1.0.2015052200
+- pkg:maven/com.ibm.mqlight/mqlight-api-samples@1.0.2015052200?classifier=sources
+- pkg:maven/com.ibm.mqlight/mqlight-api-samples@1.0.2015060300
+- pkg:maven/com.ibm.mqlight/mqlight-api-samples@1.0.2015060300?classifier=sources
+- pkg:maven/com.ibm.mqlight/mqlight-api-samples@1.0.2015081200
+- pkg:maven/com.ibm.mqlight/mqlight-api-samples@1.0.2015081200?classifier=sources

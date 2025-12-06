@@ -12,6 +12,12 @@
 - pkg:maven/net.sourceforge.pldoc/pldoc-cpd@0.1.10?classifier=sources
 - pkg:maven/net.sourceforge.pldoc/pldoc-cpd@0.1.11
 - pkg:maven/net.sourceforge.pldoc/pldoc-cpd@0.1.11?classifier=sources
+- pkg:maven/net.sourceforge.pldoc/pldoc-cpd@0.1.14
+- pkg:maven/net.sourceforge.pldoc/pldoc-cpd@0.1.14?classifier=sources
+- pkg:maven/net.sourceforge.pldoc/pldoc-cpd@0.1.15
+- pkg:maven/net.sourceforge.pldoc/pldoc-cpd@0.1.15?classifier=sources
+- pkg:maven/net.sourceforge.pldoc/pldoc-cpd@0.1.16
+- pkg:maven/net.sourceforge.pldoc/pldoc-cpd@0.1.16?classifier=sources
 - pkg:maven/net.sourceforge.pldoc/pldoc-cpd@0.1.2
 - pkg:maven/net.sourceforge.pldoc/pldoc-cpd@0.1.2?classifier=sources
 - pkg:maven/net.sourceforge.pldoc/pldoc-cpd@0.1.3

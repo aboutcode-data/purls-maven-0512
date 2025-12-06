@@ -1,0 +1,2 @@
+- pkg:maven/com.guigarage/third-dimension@0.7
+- pkg:maven/com.guigarage/third-dimension@0.7?classifier=sources

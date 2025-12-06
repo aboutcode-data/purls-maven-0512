@@ -4,7 +4,15 @@
 - pkg:maven/net.debasishg/redisclient_2.10@2.11?classifier=sources
 - pkg:maven/net.debasishg/redisclient_2.10@2.12
 - pkg:maven/net.debasishg/redisclient_2.10@2.12?classifier=sources
+- pkg:maven/net.debasishg/redisclient_2.10@2.13
+- pkg:maven/net.debasishg/redisclient_2.10@2.13?classifier=sources
+- pkg:maven/net.debasishg/redisclient_2.10@2.14
+- pkg:maven/net.debasishg/redisclient_2.10@2.14?classifier=sources
+- pkg:maven/net.debasishg/redisclient_2.10@2.15
+- pkg:maven/net.debasishg/redisclient_2.10@2.15?classifier=sources
 - pkg:maven/net.debasishg/redisclient_2.10@2.8
 - pkg:maven/net.debasishg/redisclient_2.10@2.8?classifier=sources
 - pkg:maven/net.debasishg/redisclient_2.10@2.9
 - pkg:maven/net.debasishg/redisclient_2.10@2.9?classifier=sources
+- pkg:maven/net.debasishg/redisclient_2.10@3.0
+- pkg:maven/net.debasishg/redisclient_2.10@3.0?classifier=sources

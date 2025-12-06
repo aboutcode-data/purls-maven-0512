@@ -1,0 +1,6 @@
+- pkg:maven/org.t3as/snomed-coder-client@1.2.0
+- pkg:maven/org.t3as/snomed-coder-client@1.2.0?classifier=sources
+- pkg:maven/org.t3as/snomed-coder-client@1.3.3
+- pkg:maven/org.t3as/snomed-coder-client@1.3.3?classifier=sources
+- pkg:maven/org.t3as/snomed-coder-client@1.3.4
+- pkg:maven/org.t3as/snomed-coder-client@1.3.4?classifier=sources

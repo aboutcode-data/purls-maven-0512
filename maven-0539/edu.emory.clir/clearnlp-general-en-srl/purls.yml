@@ -1,0 +1,2 @@
+- pkg:maven/edu.emory.clir/clearnlp-general-en-srl@3.0
+- pkg:maven/edu.emory.clir/clearnlp-general-en-srl@3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.hovans.resource/icon-light@1.0.0?classifier=sources
+- pkg:maven/com.hovans.resource/icon-light@1.0.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/cn.guoyukun/protocol-extends@0.1
+- pkg:maven/cn.guoyukun/protocol-extends@0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.theagilemonkeys.meets/meets-magento-connector@0.2.0
+- pkg:maven/com.theagilemonkeys.meets/meets-magento-connector@0.2.0?classifier=sources

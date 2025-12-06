@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/Leaflet.loading@0.1.16
+- pkg:maven/org.webjars.bower/Leaflet.loading@0.1.16?classifier=sources

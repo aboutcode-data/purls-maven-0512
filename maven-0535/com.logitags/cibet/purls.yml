@@ -6,3 +6,13 @@
 - pkg:maven/com.logitags/cibet@1.3?classifier=sources
 - pkg:maven/com.logitags/cibet@1.4
 - pkg:maven/com.logitags/cibet@1.4?classifier=sources
+- pkg:maven/com.logitags/cibet@1.5
+- pkg:maven/com.logitags/cibet@1.5?classifier=sources
+- pkg:maven/com.logitags/cibet@1.6
+- pkg:maven/com.logitags/cibet@1.6.1
+- pkg:maven/com.logitags/cibet@1.6.1?classifier=sources
+- pkg:maven/com.logitags/cibet@1.6.2
+- pkg:maven/com.logitags/cibet@1.6.2?classifier=sources
+- pkg:maven/com.logitags/cibet@1.6?classifier=sources
+- pkg:maven/com.logitags/cibet@1.7
+- pkg:maven/com.logitags/cibet@1.7?classifier=sources

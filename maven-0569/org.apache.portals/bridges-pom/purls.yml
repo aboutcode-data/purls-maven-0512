@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.portals/bridges-pom@1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals/bridges-pom@1.1?classifier=source-release&type=zip

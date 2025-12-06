@@ -1,0 +1,2 @@
+- pkg:maven/eu.fusepool.p3.stanbol-engines-fise2fam/stanbol-engines-fise2fam@1.0.0
+- pkg:maven/eu.fusepool.p3.stanbol-engines-fise2fam/stanbol-engines-fise2fam@1.0.0?classifier=sources

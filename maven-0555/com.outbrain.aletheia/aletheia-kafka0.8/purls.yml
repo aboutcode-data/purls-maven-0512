@@ -1,0 +1,2 @@
+- pkg:maven/com.outbrain.aletheia/aletheia-kafka0.8@0.17
+- pkg:maven/com.outbrain.aletheia/aletheia-kafka0.8@0.17?classifier=sources

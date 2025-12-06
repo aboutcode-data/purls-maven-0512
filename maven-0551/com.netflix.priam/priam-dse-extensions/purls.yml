@@ -8,3 +8,13 @@
 - pkg:maven/com.netflix.priam/priam-dse-extensions@1.1.54?classifier=sources
 - pkg:maven/com.netflix.priam/priam-dse-extensions@1.1.56
 - pkg:maven/com.netflix.priam/priam-dse-extensions@1.1.56?classifier=sources
+- pkg:maven/com.netflix.priam/priam-dse-extensions@2.0.16
+- pkg:maven/com.netflix.priam/priam-dse-extensions@2.0.16?classifier=sources
+- pkg:maven/com.netflix.priam/priam-dse-extensions@2.1.0
+- pkg:maven/com.netflix.priam/priam-dse-extensions@2.1.0?classifier=sources
+- pkg:maven/com.netflix.priam/priam-dse-extensions@2.2.0
+- pkg:maven/com.netflix.priam/priam-dse-extensions@2.2.0?classifier=sources
+- pkg:maven/com.netflix.priam/priam-dse-extensions@2.3.0
+- pkg:maven/com.netflix.priam/priam-dse-extensions@2.3.0?classifier=sources
+- pkg:maven/com.netflix.priam/priam-dse-extensions@2.4.0
+- pkg:maven/com.netflix.priam/priam-dse-extensions@2.4.0?classifier=sources

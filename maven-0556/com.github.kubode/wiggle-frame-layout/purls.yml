@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kubode/wiggle-frame-layout@1.0.0?classifier=sources
+- pkg:maven/com.github.kubode/wiggle-frame-layout@1.0.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.labs64.mojo/swid-maven-plugin@0.1.0
+- pkg:maven/com.labs64.mojo/swid-maven-plugin@0.1.0?classifier=sources

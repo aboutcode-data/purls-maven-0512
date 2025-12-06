@@ -1,0 +1,12 @@
+- pkg:maven/org.webjars.bower/angular-datepicker@1.0.12
+- pkg:maven/org.webjars.bower/angular-datepicker@1.0.12?classifier=sources
+- pkg:maven/org.webjars.bower/angular-datepicker@1.0.17
+- pkg:maven/org.webjars.bower/angular-datepicker@1.0.17?classifier=sources
+- pkg:maven/org.webjars.bower/angular-datepicker@1.0.20
+- pkg:maven/org.webjars.bower/angular-datepicker@1.0.20?classifier=sources
+- pkg:maven/org.webjars.bower/angular-datepicker@1.0.3
+- pkg:maven/org.webjars.bower/angular-datepicker@1.0.3?classifier=sources
+- pkg:maven/org.webjars.bower/angular-datepicker@1.0.4
+- pkg:maven/org.webjars.bower/angular-datepicker@1.0.4?classifier=sources
+- pkg:maven/org.webjars.bower/angular-datepicker@2.0.0
+- pkg:maven/org.webjars.bower/angular-datepicker@2.0.0?classifier=sources

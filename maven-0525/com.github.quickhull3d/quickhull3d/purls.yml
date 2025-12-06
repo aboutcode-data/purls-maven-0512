@@ -1,0 +1,2 @@
+- pkg:maven/com.github.quickhull3d/quickhull3d@1.0.0
+- pkg:maven/com.github.quickhull3d/quickhull3d@1.0.0?classifier=sources

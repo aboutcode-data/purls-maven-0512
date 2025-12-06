@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.jetty/org.everit.jetty.server.api@1.0.0
+- pkg:maven/org.everit.jetty/org.everit.jetty.server.api@1.0.0?classifier=sources

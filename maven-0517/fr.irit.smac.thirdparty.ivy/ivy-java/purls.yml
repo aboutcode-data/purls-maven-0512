@@ -1,0 +1,2 @@
+- pkg:maven/fr.irit.smac.thirdparty.ivy/ivy-java@1.2.13
+- pkg:maven/fr.irit.smac.thirdparty.ivy/ivy-java@1.2.13?classifier=sources

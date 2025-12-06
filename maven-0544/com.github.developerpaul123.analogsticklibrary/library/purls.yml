@@ -1,0 +1,2 @@
+- pkg:maven/com.github.developerpaul123.analogsticklibrary/library@1.0?classifier=sources
+- pkg:maven/com.github.developerpaul123.analogsticklibrary/library@1.0?type=aar

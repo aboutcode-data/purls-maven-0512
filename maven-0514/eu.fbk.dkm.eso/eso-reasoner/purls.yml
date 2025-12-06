@@ -1,0 +1,4 @@
+- pkg:maven/eu.fbk.dkm.eso/eso-reasoner@2.0
+- pkg:maven/eu.fbk.dkm.eso/eso-reasoner@2.0.1
+- pkg:maven/eu.fbk.dkm.eso/eso-reasoner@2.0.1?classifier=sources
+- pkg:maven/eu.fbk.dkm.eso/eso-reasoner@2.0?classifier=sources

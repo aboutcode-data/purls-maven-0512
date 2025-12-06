@@ -1,0 +1,2 @@
+- pkg:maven/org.hashids/hashids@1.0.1
+- pkg:maven/org.hashids/hashids@1.0.1?classifier=sources

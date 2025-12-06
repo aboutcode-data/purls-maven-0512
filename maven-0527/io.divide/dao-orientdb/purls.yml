@@ -1,0 +1,2 @@
+- pkg:maven/io.divide/dao-orientdb@0.5.2
+- pkg:maven/io.divide/dao-orientdb@0.5.2?classifier=sources

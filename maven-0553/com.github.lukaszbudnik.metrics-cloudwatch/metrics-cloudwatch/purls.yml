@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lukaszbudnik.metrics-cloudwatch/metrics-cloudwatch@0.3.6
+- pkg:maven/com.github.lukaszbudnik.metrics-cloudwatch/metrics-cloudwatch@0.3.6?classifier=sources

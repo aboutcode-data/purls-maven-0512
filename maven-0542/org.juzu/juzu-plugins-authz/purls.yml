@@ -1,0 +1,8 @@
+- pkg:maven/org.juzu/juzu-plugins-authz@1.0.0
+- pkg:maven/org.juzu/juzu-plugins-authz@1.0.0-cr1
+- pkg:maven/org.juzu/juzu-plugins-authz@1.0.0-cr1?classifier=sources
+- pkg:maven/org.juzu/juzu-plugins-authz@1.0.0-cr2
+- pkg:maven/org.juzu/juzu-plugins-authz@1.0.0-cr2?classifier=sources
+- pkg:maven/org.juzu/juzu-plugins-authz@1.0.0?classifier=sources
+- pkg:maven/org.juzu/juzu-plugins-authz@1.1.0-M1
+- pkg:maven/org.juzu/juzu-plugins-authz@1.1.0-M1?classifier=sources

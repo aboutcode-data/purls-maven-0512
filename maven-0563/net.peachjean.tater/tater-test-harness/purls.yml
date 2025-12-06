@@ -4,3 +4,5 @@
 - pkg:maven/net.peachjean.tater/tater-test-harness@0.2?classifier=sources
 - pkg:maven/net.peachjean.tater/tater-test-harness@0.3
 - pkg:maven/net.peachjean.tater/tater-test-harness@0.3?classifier=sources
+- pkg:maven/net.peachjean.tater/tater-test-harness@0.4
+- pkg:maven/net.peachjean.tater/tater-test-harness@0.4?classifier=sources

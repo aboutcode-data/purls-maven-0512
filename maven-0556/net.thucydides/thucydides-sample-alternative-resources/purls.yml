@@ -205,4 +205,8 @@
 - pkg:maven/net.thucydides/thucydides-sample-alternative-resources@0.9.220-RC2?classifier=sources
 - pkg:maven/net.thucydides/thucydides-sample-alternative-resources@0.9.220-RC3
 - pkg:maven/net.thucydides/thucydides-sample-alternative-resources@0.9.220-RC3?classifier=sources
+- pkg:maven/net.thucydides/thucydides-sample-alternative-resources@0.9.264
+- pkg:maven/net.thucydides/thucydides-sample-alternative-resources@0.9.264?classifier=sources
+- pkg:maven/net.thucydides/thucydides-sample-alternative-resources@0.9.275
+- pkg:maven/net.thucydides/thucydides-sample-alternative-resources@0.9.275?classifier=sources
 - pkg:maven/net.thucydides/thucydides-sample-alternative-resources@0.9.2?classifier=sources

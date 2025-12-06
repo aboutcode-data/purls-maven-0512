@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.authzforce/authzforce-xml-ns-model@1.2
+- pkg:maven/org.ow2.authzforce/authzforce-xml-ns-model@1.2?classifier=sources

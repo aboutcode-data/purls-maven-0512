@@ -1,0 +1,2 @@
+- pkg:maven/com.talobin/library@0.1.0?classifier=sources
+- pkg:maven/com.talobin/library@0.1.0?type=aar

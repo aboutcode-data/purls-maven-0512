@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.bower/tinymce-dist@4.1.10
+- pkg:maven/org.webjars.bower/tinymce-dist@4.1.10?classifier=sources
+- pkg:maven/org.webjars.bower/tinymce-dist@4.2.5
+- pkg:maven/org.webjars.bower/tinymce-dist@4.2.5?classifier=sources
+- pkg:maven/org.webjars.bower/tinymce-dist@4.2.6
+- pkg:maven/org.webjars.bower/tinymce-dist@4.2.6?classifier=sources
+- pkg:maven/org.webjars.bower/tinymce-dist@4.2.7
+- pkg:maven/org.webjars.bower/tinymce-dist@4.2.7?classifier=sources

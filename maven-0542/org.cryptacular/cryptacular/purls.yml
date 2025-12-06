@@ -1,0 +1,4 @@
+- pkg:maven/org.cryptacular/cryptacular@1.0
+- pkg:maven/org.cryptacular/cryptacular@1.0?classifier=sources
+- pkg:maven/org.cryptacular/cryptacular@1.1.0
+- pkg:maven/org.cryptacular/cryptacular@1.1.0?classifier=sources

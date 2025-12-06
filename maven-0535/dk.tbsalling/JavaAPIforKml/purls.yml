@@ -1,0 +1,2 @@
+- pkg:maven/dk.tbsalling/JavaAPIforKml@2.2.0.1
+- pkg:maven/dk.tbsalling/JavaAPIforKml@2.2.0.1?classifier=sources

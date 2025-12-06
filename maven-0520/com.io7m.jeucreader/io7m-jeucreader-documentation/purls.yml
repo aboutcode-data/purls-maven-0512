@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jeucreader/io7m-jeucreader-documentation@1.0.0?classifier=sources
+- pkg:maven/com.io7m.jeucreader/io7m-jeucreader-documentation@1.0.0?type=zip

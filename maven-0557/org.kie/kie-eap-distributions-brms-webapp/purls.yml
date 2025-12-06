@@ -1,2 +1,7 @@
 - pkg:maven/org.kie/kie-eap-distributions-brms-webapp@6.1.0.Beta1?type=war
 - pkg:maven/org.kie/kie-eap-distributions-brms-webapp@6.1.0.Beta2?type=war
+- pkg:maven/org.kie/kie-eap-distributions-brms-webapp@6.1.0.Beta3?type=war
+- pkg:maven/org.kie/kie-eap-distributions-brms-webapp@6.1.0.Beta4?type=war
+- pkg:maven/org.kie/kie-eap-distributions-brms-webapp@6.1.0.CR1?type=war
+- pkg:maven/org.kie/kie-eap-distributions-brms-webapp@6.1.0.CR2?type=war
+- pkg:maven/org.kie/kie-eap-distributions-brms-webapp@6.1.0.Final?type=war

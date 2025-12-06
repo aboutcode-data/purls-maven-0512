@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin/zipkin-aggregate@1.2.1-rc24
+- pkg:maven/io.zipkin/zipkin-aggregate@1.2.1-rc24?classifier=sources

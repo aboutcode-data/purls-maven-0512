@@ -1,0 +1,2 @@
+- pkg:maven/com.jaxio.celerio.packs/pack-jsf2-spring-conversation@1.0.0
+- pkg:maven/com.jaxio.celerio.packs/pack-jsf2-spring-conversation@1.0.0?classifier=sources

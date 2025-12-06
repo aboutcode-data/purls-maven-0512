@@ -1,0 +1,2 @@
+- pkg:maven/org.rhq.metrics/wildfly-sender@0.2.3.20141020-M4
+- pkg:maven/org.rhq.metrics/wildfly-sender@0.2.3.20141020-M4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.smartdeveloperhub.harvesters.ci.jenkins/ci-jenkins-crawler@0.1.0
+- pkg:maven/org.smartdeveloperhub.harvesters.ci.jenkins/ci-jenkins-crawler@0.1.0?classifier=sources

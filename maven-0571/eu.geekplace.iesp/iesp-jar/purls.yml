@@ -1,0 +1,2 @@
+- pkg:maven/eu.geekplace.iesp/iesp-jar@0.0.1
+- pkg:maven/eu.geekplace.iesp/iesp-jar@0.0.1?classifier=sources

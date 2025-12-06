@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/bootstrap-sweetalert@0.4.3
+- pkg:maven/org.webjars.bower/bootstrap-sweetalert@0.4.3?classifier=sources
+- pkg:maven/org.webjars.bower/bootstrap-sweetalert@0.4.5
+- pkg:maven/org.webjars.bower/bootstrap-sweetalert@0.4.5?classifier=sources

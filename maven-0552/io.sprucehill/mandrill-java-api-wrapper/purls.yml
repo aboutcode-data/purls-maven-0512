@@ -1,2 +1,6 @@
 - pkg:maven/io.sprucehill/mandrill-java-api-wrapper@0.7.0
 - pkg:maven/io.sprucehill/mandrill-java-api-wrapper@0.7.0?classifier=sources
+- pkg:maven/io.sprucehill/mandrill-java-api-wrapper@0.8.0
+- pkg:maven/io.sprucehill/mandrill-java-api-wrapper@0.8.0?classifier=sources
+- pkg:maven/io.sprucehill/mandrill-java-api-wrapper@0.8.1
+- pkg:maven/io.sprucehill/mandrill-java-api-wrapper@0.8.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/no.digipost/api-commons@0.1
+- pkg:maven/no.digipost/api-commons@0.1?classifier=sources

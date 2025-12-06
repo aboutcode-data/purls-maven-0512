@@ -1,0 +1,4 @@
+- pkg:maven/org.nutz/nutz-integration-zbus@1.b.52
+- pkg:maven/org.nutz/nutz-integration-zbus@1.b.52?classifier=sources
+- pkg:maven/org.nutz/nutz-integration-zbus@1.b.53
+- pkg:maven/org.nutz/nutz-integration-zbus@1.b.53?classifier=sources

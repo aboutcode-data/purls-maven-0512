@@ -1,2 +1,6 @@
 - pkg:maven/com.dottydingo.hyperion.module/hyperion-swagger@1.0.0
 - pkg:maven/com.dottydingo.hyperion.module/hyperion-swagger@1.0.0?classifier=sources
+- pkg:maven/com.dottydingo.hyperion.module/hyperion-swagger@1.1.0
+- pkg:maven/com.dottydingo.hyperion.module/hyperion-swagger@1.1.0?classifier=sources
+- pkg:maven/com.dottydingo.hyperion.module/hyperion-swagger@2.0.0
+- pkg:maven/com.dottydingo.hyperion.module/hyperion-swagger@2.0.0?classifier=sources

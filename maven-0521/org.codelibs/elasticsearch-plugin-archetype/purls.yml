@@ -2,3 +2,13 @@
 - pkg:maven/org.codelibs/elasticsearch-plugin-archetype@1.0.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-plugin-archetype@1.1.0
 - pkg:maven/org.codelibs/elasticsearch-plugin-archetype@1.1.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-plugin-archetype@1.2.0
+- pkg:maven/org.codelibs/elasticsearch-plugin-archetype@1.2.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-plugin-archetype@1.3.0
+- pkg:maven/org.codelibs/elasticsearch-plugin-archetype@1.3.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-plugin-archetype@1.4.0
+- pkg:maven/org.codelibs/elasticsearch-plugin-archetype@1.4.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-plugin-archetype@1.4.1
+- pkg:maven/org.codelibs/elasticsearch-plugin-archetype@1.4.1?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-plugin-archetype@1.5.0
+- pkg:maven/org.codelibs/elasticsearch-plugin-archetype@1.5.0?classifier=sources

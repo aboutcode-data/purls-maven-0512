@@ -1,3 +1,9 @@
+- pkg:maven/org.drools/drools-pipeline@5.1.0
+- pkg:maven/org.drools/drools-pipeline@5.1.0.CR1
+- pkg:maven/org.drools/drools-pipeline@5.1.0.CR1?classifier=sources
+- pkg:maven/org.drools/drools-pipeline@5.1.0?classifier=sources
+- pkg:maven/org.drools/drools-pipeline@5.1.1
+- pkg:maven/org.drools/drools-pipeline@5.1.1?classifier=sources
 - pkg:maven/org.drools/drools-pipeline@5.2.0.CR1
 - pkg:maven/org.drools/drools-pipeline@5.2.0.CR1?classifier=sources
 - pkg:maven/org.drools/drools-pipeline@5.2.0.Final

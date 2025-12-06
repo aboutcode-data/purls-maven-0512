@@ -1,0 +1,4 @@
+- pkg:maven/com.propensive/rapture-i18n_2.11@1.2.0
+- pkg:maven/com.propensive/rapture-i18n_2.11@1.2.0?classifier=sources
+- pkg:maven/com.propensive/rapture-i18n_2.11@2.0.0-M1
+- pkg:maven/com.propensive/rapture-i18n_2.11@2.0.0-M1?classifier=sources

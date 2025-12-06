@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay.faces.patches/liferay-faces-2043-patch@3.2.4-ga5
+- pkg:maven/com.liferay.faces.patches/liferay-faces-2043-patch@3.2.4-ga5?classifier=sources

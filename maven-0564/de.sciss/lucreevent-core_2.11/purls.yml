@@ -1,0 +1,14 @@
+- pkg:maven/de.sciss/lucreevent-core_2.11@2.6.1
+- pkg:maven/de.sciss/lucreevent-core_2.11@2.6.1?classifier=sources
+- pkg:maven/de.sciss/lucreevent-core_2.11@2.7.0
+- pkg:maven/de.sciss/lucreevent-core_2.11@2.7.0?classifier=sources
+- pkg:maven/de.sciss/lucreevent-core_2.11@2.7.1
+- pkg:maven/de.sciss/lucreevent-core_2.11@2.7.1?classifier=sources
+- pkg:maven/de.sciss/lucreevent-core_2.11@2.7.2
+- pkg:maven/de.sciss/lucreevent-core_2.11@2.7.2?classifier=sources
+- pkg:maven/de.sciss/lucreevent-core_2.11@2.7.3
+- pkg:maven/de.sciss/lucreevent-core_2.11@2.7.3?classifier=sources
+- pkg:maven/de.sciss/lucreevent-core_2.11@2.7.4
+- pkg:maven/de.sciss/lucreevent-core_2.11@2.7.4?classifier=sources
+- pkg:maven/de.sciss/lucreevent-core_2.11@2.7.5
+- pkg:maven/de.sciss/lucreevent-core_2.11@2.7.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.blocko/coinstack@3.0.7
+- pkg:maven/io.blocko/coinstack@3.0.7?classifier=sources

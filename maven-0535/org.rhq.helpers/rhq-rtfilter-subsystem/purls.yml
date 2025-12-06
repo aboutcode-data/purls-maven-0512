@@ -1,4 +1,7 @@
 - pkg:maven/org.rhq.helpers/rhq-rtfilter-subsystem@4.10.0?classifier=sources
+- pkg:maven/org.rhq.helpers/rhq-rtfilter-subsystem@4.11.0?classifier=sources
+- pkg:maven/org.rhq.helpers/rhq-rtfilter-subsystem@4.12.0?classifier=sources
+- pkg:maven/org.rhq.helpers/rhq-rtfilter-subsystem@4.13.0?classifier=sources
 - pkg:maven/org.rhq.helpers/rhq-rtfilter-subsystem@4.4.0?classifier=sources
 - pkg:maven/org.rhq.helpers/rhq-rtfilter-subsystem@4.5.1?classifier=sources
 - pkg:maven/org.rhq.helpers/rhq-rtfilter-subsystem@4.6.0?classifier=sources

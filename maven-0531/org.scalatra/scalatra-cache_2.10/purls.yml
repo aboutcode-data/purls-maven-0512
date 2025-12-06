@@ -1,0 +1,12 @@
+- pkg:maven/org.scalatra/scalatra-cache_2.10@2.4.0-RC2-2
+- pkg:maven/org.scalatra/scalatra-cache_2.10@2.4.0-RC2-2?classifier=sources
+- pkg:maven/org.scalatra/scalatra-cache_2.10@2.4.0.M3
+- pkg:maven/org.scalatra/scalatra-cache_2.10@2.4.0.M3?classifier=sources
+- pkg:maven/org.scalatra/scalatra-cache_2.10@2.4.0.RC1
+- pkg:maven/org.scalatra/scalatra-cache_2.10@2.4.0.RC1?classifier=sources
+- pkg:maven/org.scalatra/scalatra-cache_2.10@2.4.0.RC2
+- pkg:maven/org.scalatra/scalatra-cache_2.10@2.4.0.RC2-1
+- pkg:maven/org.scalatra/scalatra-cache_2.10@2.4.0.RC2-1?classifier=sources
+- pkg:maven/org.scalatra/scalatra-cache_2.10@2.4.0.RC2?classifier=sources
+- pkg:maven/org.scalatra/scalatra-cache_2.10@2.4.0.RC3
+- pkg:maven/org.scalatra/scalatra-cache_2.10@2.4.0.RC3?classifier=sources

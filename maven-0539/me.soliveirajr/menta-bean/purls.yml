@@ -24,3 +24,7 @@
 - pkg:maven/me.soliveirajr/menta-bean@2.0.0?classifier=sources
 - pkg:maven/me.soliveirajr/menta-bean@2.1.0
 - pkg:maven/me.soliveirajr/menta-bean@2.1.0?classifier=sources
+- pkg:maven/me.soliveirajr/menta-bean@2.2.0
+- pkg:maven/me.soliveirajr/menta-bean@2.2.0?classifier=sources
+- pkg:maven/me.soliveirajr/menta-bean@2.2.1
+- pkg:maven/me.soliveirajr/menta-bean@2.2.1?classifier=sources

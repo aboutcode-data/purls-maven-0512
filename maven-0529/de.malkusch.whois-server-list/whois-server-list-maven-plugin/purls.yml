@@ -1,0 +1,4 @@
+- pkg:maven/de.malkusch.whois-server-list/whois-server-list-maven-plugin@0.0.1
+- pkg:maven/de.malkusch.whois-server-list/whois-server-list-maven-plugin@0.0.1?classifier=sources
+- pkg:maven/de.malkusch.whois-server-list/whois-server-list-maven-plugin@0.1.0
+- pkg:maven/de.malkusch.whois-server-list/whois-server-list-maven-plugin@0.1.0?classifier=sources

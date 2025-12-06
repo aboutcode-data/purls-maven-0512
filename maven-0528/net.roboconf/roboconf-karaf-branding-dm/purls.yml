@@ -1,0 +1,6 @@
+- pkg:maven/net.roboconf/roboconf-karaf-branding-dm@0.2
+- pkg:maven/net.roboconf/roboconf-karaf-branding-dm@0.2?classifier=sources
+- pkg:maven/net.roboconf/roboconf-karaf-branding-dm@0.3
+- pkg:maven/net.roboconf/roboconf-karaf-branding-dm@0.3?classifier=sources
+- pkg:maven/net.roboconf/roboconf-karaf-branding-dm@0.4
+- pkg:maven/net.roboconf/roboconf-karaf-branding-dm@0.4?classifier=sources

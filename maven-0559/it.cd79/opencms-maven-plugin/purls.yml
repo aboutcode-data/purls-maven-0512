@@ -1,0 +1,2 @@
+- pkg:maven/it.cd79/opencms-maven-plugin@0.1.3.1-RELEASE
+- pkg:maven/it.cd79/opencms-maven-plugin@0.1.3.1-RELEASE?classifier=sources

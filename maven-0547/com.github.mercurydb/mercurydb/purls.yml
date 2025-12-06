@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mercurydb/mercurydb@0.6.2?classifier=sources
+- pkg:maven/com.github.mercurydb/mercurydb@0.6.3?classifier=sources

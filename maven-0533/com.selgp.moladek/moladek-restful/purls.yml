@@ -1,0 +1,14 @@
+- pkg:maven/com.selgp.moladek/moladek-restful@14.10
+- pkg:maven/com.selgp.moladek/moladek-restful@14.10?classifier=sources
+- pkg:maven/com.selgp.moladek/moladek-restful@14.11
+- pkg:maven/com.selgp.moladek/moladek-restful@14.11?classifier=sources
+- pkg:maven/com.selgp.moladek/moladek-restful@14.12.50
+- pkg:maven/com.selgp.moladek/moladek-restful@14.12.50?classifier=sources
+- pkg:maven/com.selgp.moladek/moladek-restful@15.01
+- pkg:maven/com.selgp.moladek/moladek-restful@15.01.03
+- pkg:maven/com.selgp.moladek/moladek-restful@15.01.03?classifier=sources
+- pkg:maven/com.selgp.moladek/moladek-restful@15.01?classifier=sources
+- pkg:maven/com.selgp.moladek/moladek-restful@15.02
+- pkg:maven/com.selgp.moladek/moladek-restful@15.02?classifier=sources
+- pkg:maven/com.selgp.moladek/moladek-restful@15.03.10
+- pkg:maven/com.selgp.moladek/moladek-restful@15.03.10?classifier=sources
