@@ -2,3 +2,5 @@
 - pkg:maven/com.racquettrack/spring-security-oauth2-client@1.4?classifier=sources
 - pkg:maven/com.racquettrack/spring-security-oauth2-client@1.5
 - pkg:maven/com.racquettrack/spring-security-oauth2-client@1.5?classifier=sources
+- pkg:maven/com.racquettrack/spring-security-oauth2-client@2.0
+- pkg:maven/com.racquettrack/spring-security-oauth2-client@2.0?classifier=sources

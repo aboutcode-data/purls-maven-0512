@@ -18,3 +18,17 @@
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.19.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.20.0
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.20.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.21.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.21.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.22.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.22.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.23.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.23.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.24.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.24.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.25.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.25.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.26.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.26.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.27.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.27.0?classifier=sources

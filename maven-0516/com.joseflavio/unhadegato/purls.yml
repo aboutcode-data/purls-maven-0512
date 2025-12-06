@@ -1,4 +1,10 @@
 - pkg:maven/com.joseflavio/unhadegato@1.0-A1
+- pkg:maven/com.joseflavio/unhadegato@1.0-A10
+- pkg:maven/com.joseflavio/unhadegato@1.0-A10?classifier=sources
+- pkg:maven/com.joseflavio/unhadegato@1.0-A11
+- pkg:maven/com.joseflavio/unhadegato@1.0-A11?classifier=sources
+- pkg:maven/com.joseflavio/unhadegato@1.0-A12
+- pkg:maven/com.joseflavio/unhadegato@1.0-A12?classifier=sources
 - pkg:maven/com.joseflavio/unhadegato@1.0-A1?classifier=sources
 - pkg:maven/com.joseflavio/unhadegato@1.0-A2
 - pkg:maven/com.joseflavio/unhadegato@1.0-A2?classifier=sources
@@ -8,3 +14,11 @@
 - pkg:maven/com.joseflavio/unhadegato@1.0-A4?classifier=sources
 - pkg:maven/com.joseflavio/unhadegato@1.0-A5
 - pkg:maven/com.joseflavio/unhadegato@1.0-A5?classifier=sources
+- pkg:maven/com.joseflavio/unhadegato@1.0-A6
+- pkg:maven/com.joseflavio/unhadegato@1.0-A6?classifier=sources
+- pkg:maven/com.joseflavio/unhadegato@1.0-A7
+- pkg:maven/com.joseflavio/unhadegato@1.0-A7?classifier=sources
+- pkg:maven/com.joseflavio/unhadegato@1.0-A8
+- pkg:maven/com.joseflavio/unhadegato@1.0-A8?classifier=sources
+- pkg:maven/com.joseflavio/unhadegato@1.0-A9
+- pkg:maven/com.joseflavio/unhadegato@1.0-A9?classifier=sources

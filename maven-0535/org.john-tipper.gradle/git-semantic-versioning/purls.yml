@@ -1,0 +1,4 @@
+- pkg:maven/org.john-tipper.gradle/git-semantic-versioning@1.0
+- pkg:maven/org.john-tipper.gradle/git-semantic-versioning@1.0?classifier=sources
+- pkg:maven/org.john-tipper.gradle/git-semantic-versioning@1.1
+- pkg:maven/org.john-tipper.gradle/git-semantic-versioning@1.1?classifier=sources

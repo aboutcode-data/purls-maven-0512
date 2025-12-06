@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/github-com-brightcove-videojs-playlist@2.0.0
 - pkg:maven/org.webjars.bower/github-com-brightcove-videojs-playlist@2.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-brightcove-videojs-playlist@v3.0.2
+- pkg:maven/org.webjars.bower/github-com-brightcove-videojs-playlist@v3.0.2?classifier=sources

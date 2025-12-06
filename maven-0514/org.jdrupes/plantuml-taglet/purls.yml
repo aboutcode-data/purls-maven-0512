@@ -1,0 +1,4 @@
+- pkg:maven/org.jdrupes/plantuml-taglet@0.1.0
+- pkg:maven/org.jdrupes/plantuml-taglet@0.1.0?classifier=sources
+- pkg:maven/org.jdrupes/plantuml-taglet@1.0.0
+- pkg:maven/org.jdrupes/plantuml-taglet@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.frograms/cronish_2.11@0.1.4-FROGRAMS
+- pkg:maven/com.frograms/cronish_2.11@0.1.4-FROGRAMS?classifier=sources
+- pkg:maven/com.frograms/cronish_2.11@0.1.5-FROGRAMS
+- pkg:maven/com.frograms/cronish_2.11@0.1.5-FROGRAMS?classifier=sources

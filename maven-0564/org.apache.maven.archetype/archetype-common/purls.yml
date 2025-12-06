@@ -18,3 +18,7 @@
 - pkg:maven/org.apache.maven.archetype/archetype-common@2.3?classifier=sources
 - pkg:maven/org.apache.maven.archetype/archetype-common@2.4
 - pkg:maven/org.apache.maven.archetype/archetype-common@2.4?classifier=sources
+- pkg:maven/org.apache.maven.archetype/archetype-common@3.0.0
+- pkg:maven/org.apache.maven.archetype/archetype-common@3.0.0?classifier=sources
+- pkg:maven/org.apache.maven.archetype/archetype-common@3.0.1
+- pkg:maven/org.apache.maven.archetype/archetype-common@3.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/rc-table@4.4.0
+- pkg:maven/org.webjars.npm/rc-table@4.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/rc-table@5.2.0
+- pkg:maven/org.webjars.npm/rc-table@5.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/rc-table@5.2.13
+- pkg:maven/org.webjars.npm/rc-table@5.2.13?classifier=sources

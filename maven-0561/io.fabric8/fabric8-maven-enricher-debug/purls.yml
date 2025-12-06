@@ -14,3 +14,5 @@
 - pkg:maven/io.fabric8/fabric8-maven-enricher-debug@3.1.61?classifier=sources
 - pkg:maven/io.fabric8/fabric8-maven-enricher-debug@3.1.62
 - pkg:maven/io.fabric8/fabric8-maven-enricher-debug@3.1.62?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-enricher-debug@3.1.63
+- pkg:maven/io.fabric8/fabric8-maven-enricher-debug@3.1.63?classifier=sources

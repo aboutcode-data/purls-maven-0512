@@ -1,0 +1,4 @@
+- pkg:maven/com.github.cage433/maker_2.12@0.41
+- pkg:maven/com.github.cage433/maker_2.12@0.41?classifier=sources
+- pkg:maven/com.github.cage433/maker_2.12@0.42
+- pkg:maven/com.github.cage433/maker_2.12@0.42?classifier=sources

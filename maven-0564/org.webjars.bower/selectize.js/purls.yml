@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/selectize.js@0.12.4
+- pkg:maven/org.webjars.bower/selectize.js@0.12.4?classifier=sources

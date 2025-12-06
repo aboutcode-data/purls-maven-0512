@@ -1,0 +1,2 @@
+- pkg:maven/com.mixnode.utils/warcreader@1.0
+- pkg:maven/com.mixnode.utils/warcreader@1.0?classifier=sources

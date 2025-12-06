@@ -6,6 +6,7 @@
 - pkg:maven/org.apache.crunch/crunch-parent@0.12.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.crunch/crunch-parent@0.13.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.crunch/crunch-parent@0.14.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.crunch/crunch-parent@0.15.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.crunch/crunch-parent@0.3.0-incubating?classifier=src&type=zip
 - pkg:maven/org.apache.crunch/crunch-parent@0.5.0-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.crunch/crunch-parent@0.6.0?classifier=source-release&type=zip

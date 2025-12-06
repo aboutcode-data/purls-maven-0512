@@ -4,3 +4,5 @@
 - pkg:maven/com.algolia/algoliasearch-offline-core-android@0.2?type=aar
 - pkg:maven/com.algolia/algoliasearch-offline-core-android@1.0.1?type=aar
 - pkg:maven/com.algolia/algoliasearch-offline-core-android@1.0?type=aar
+- pkg:maven/com.algolia/algoliasearch-offline-core-android@1.1.0?type=aar
+- pkg:maven/com.algolia/algoliasearch-offline-core-android@1.2.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/pt.tecnico.dsi/akka-ldap_2.12@0.4.2
+- pkg:maven/pt.tecnico.dsi/akka-ldap_2.12@0.4.2?classifier=sources

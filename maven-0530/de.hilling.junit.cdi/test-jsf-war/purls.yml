@@ -10,3 +10,11 @@
 - pkg:maven/de.hilling.junit.cdi/test-jsf-war@0.12.0?type=war
 - pkg:maven/de.hilling.junit.cdi/test-jsf-war@0.12.1?classifier=sources
 - pkg:maven/de.hilling.junit.cdi/test-jsf-war@0.12.1?type=war
+- pkg:maven/de.hilling.junit.cdi/test-jsf-war@0.13.0?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/test-jsf-war@0.13.0?type=war
+- pkg:maven/de.hilling.junit.cdi/test-jsf-war@0.13.1?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/test-jsf-war@0.13.1?type=war
+- pkg:maven/de.hilling.junit.cdi/test-jsf-war@1.0.0?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/test-jsf-war@1.0.0?type=war
+- pkg:maven/de.hilling.junit.cdi/test-jsf-war@1.1.0?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/test-jsf-war@1.1.0?type=war

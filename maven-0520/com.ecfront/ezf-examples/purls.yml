@@ -6,3 +6,5 @@
 - pkg:maven/com.ecfront/ezf-examples@3.0.0?classifier=sources
 - pkg:maven/com.ecfront/ezf-examples@3.1.1
 - pkg:maven/com.ecfront/ezf-examples@3.1.1?classifier=sources
+- pkg:maven/com.ecfront/ezf-examples@3.2.0
+- pkg:maven/com.ecfront/ezf-examples@3.2.0?classifier=sources

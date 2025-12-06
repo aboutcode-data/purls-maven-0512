@@ -4,6 +4,10 @@
 - pkg:maven/de.androbit/raml-converter-maven-plugin-example@0.12?classifier=sources
 - pkg:maven/de.androbit/raml-converter-maven-plugin-example@0.13
 - pkg:maven/de.androbit/raml-converter-maven-plugin-example@0.13?classifier=sources
+- pkg:maven/de.androbit/raml-converter-maven-plugin-example@0.14
+- pkg:maven/de.androbit/raml-converter-maven-plugin-example@0.14?classifier=sources
+- pkg:maven/de.androbit/raml-converter-maven-plugin-example@0.15
+- pkg:maven/de.androbit/raml-converter-maven-plugin-example@0.15?classifier=sources
 - pkg:maven/de.androbit/raml-converter-maven-plugin-example@0.6
 - pkg:maven/de.androbit/raml-converter-maven-plugin-example@0.6?classifier=sources
 - pkg:maven/de.androbit/raml-converter-maven-plugin-example@0.9

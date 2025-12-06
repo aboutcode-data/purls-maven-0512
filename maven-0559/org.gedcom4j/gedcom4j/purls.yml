@@ -54,3 +54,7 @@
 - pkg:maven/org.gedcom4j/gedcom4j@3.2.1?classifier=sources
 - pkg:maven/org.gedcom4j/gedcom4j@3.2.2
 - pkg:maven/org.gedcom4j/gedcom4j@3.2.2?classifier=sources
+- pkg:maven/org.gedcom4j/gedcom4j@4.0.0
+- pkg:maven/org.gedcom4j/gedcom4j@4.0.0?classifier=sources
+- pkg:maven/org.gedcom4j/gedcom4j@4.0.1
+- pkg:maven/org.gedcom4j/gedcom4j@4.0.1?classifier=sources

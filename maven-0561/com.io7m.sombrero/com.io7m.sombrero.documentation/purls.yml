@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.sombrero/com.io7m.sombrero.documentation@0.3.1?classifier=sources
+- pkg:maven/com.io7m.sombrero/com.io7m.sombrero.documentation@0.3.1?type=zip

@@ -1,0 +1,4 @@
+- pkg:maven/com.nike.fastbreak/fastbreak@0.10.0
+- pkg:maven/com.nike.fastbreak/fastbreak@0.10.0?classifier=sources
+- pkg:maven/com.nike.fastbreak/fastbreak@0.9.0
+- pkg:maven/com.nike.fastbreak/fastbreak@0.9.0?classifier=sources

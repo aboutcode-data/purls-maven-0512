@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-d3-d3@4.2.6
 - pkg:maven/org.webjars.npm/github-com-d3-d3@4.2.6?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-d3-d3@4.4.0
+- pkg:maven/org.webjars.npm/github-com-d3-d3@4.4.0?classifier=sources

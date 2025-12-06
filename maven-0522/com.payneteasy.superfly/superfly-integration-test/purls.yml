@@ -13,6 +13,9 @@
 - pkg:maven/com.payneteasy.superfly/superfly-integration-test@1.5-2
 - pkg:maven/com.payneteasy.superfly/superfly-integration-test@1.5-3
 - pkg:maven/com.payneteasy.superfly/superfly-integration-test@1.6-1
+- pkg:maven/com.payneteasy.superfly/superfly-integration-test@1.6-10
+- pkg:maven/com.payneteasy.superfly/superfly-integration-test@1.6-11
+- pkg:maven/com.payneteasy.superfly/superfly-integration-test@1.6-12
 - pkg:maven/com.payneteasy.superfly/superfly-integration-test@1.6-2
 - pkg:maven/com.payneteasy.superfly/superfly-integration-test@1.6-3
 - pkg:maven/com.payneteasy.superfly/superfly-integration-test@1.6-4

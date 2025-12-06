@@ -1,5 +1,17 @@
 - pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.10.0
 - pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.10.0?classifier=sources
+- pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.11.0
+- pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.11.0?classifier=sources
+- pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.12.0
+- pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.12.0?classifier=sources
+- pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.12.1
+- pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.12.1?classifier=sources
+- pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.12.2
+- pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.12.2?classifier=sources
+- pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.12.3
+- pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.12.3?classifier=sources
+- pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.13.0
+- pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.13.0?classifier=sources
 - pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.7.0
 - pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.7.0?classifier=sources
 - pkg:maven/com.pushtorefresh.storio/content-resolver-annotations@1.8.0

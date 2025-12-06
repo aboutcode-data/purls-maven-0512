@@ -1,0 +1,14 @@
+- pkg:maven/org.kaazing/gateway.check.update@5.6.1
+- pkg:maven/org.kaazing/gateway.check.update@5.6.1-RC001
+- pkg:maven/org.kaazing/gateway.check.update@5.6.1-RC001?classifier=sources
+- pkg:maven/org.kaazing/gateway.check.update@5.6.1-RC002
+- pkg:maven/org.kaazing/gateway.check.update@5.6.1-RC002?classifier=sources
+- pkg:maven/org.kaazing/gateway.check.update@5.6.1-RC003
+- pkg:maven/org.kaazing/gateway.check.update@5.6.1-RC003?classifier=sources
+- pkg:maven/org.kaazing/gateway.check.update@5.6.1-RC004
+- pkg:maven/org.kaazing/gateway.check.update@5.6.1-RC004?classifier=sources
+- pkg:maven/org.kaazing/gateway.check.update@5.6.1?classifier=sources
+- pkg:maven/org.kaazing/gateway.check.update@5.6.2
+- pkg:maven/org.kaazing/gateway.check.update@5.6.2-RC001
+- pkg:maven/org.kaazing/gateway.check.update@5.6.2-RC001?classifier=sources
+- pkg:maven/org.kaazing/gateway.check.update@5.6.2?classifier=sources

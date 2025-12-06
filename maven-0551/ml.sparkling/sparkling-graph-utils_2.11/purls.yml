@@ -1,0 +1,2 @@
+- pkg:maven/ml.sparkling/sparkling-graph-utils_2.11@0.0.7
+- pkg:maven/ml.sparkling/sparkling-graph-utils_2.11@0.0.7?classifier=sources

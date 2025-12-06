@@ -4,3 +4,4 @@
 - pkg:maven/com.googlecode.aic-util/aic-util@1.1.0?classifier=sources
 - pkg:maven/com.googlecode.aic-util/aic-util@1.3.0
 - pkg:maven/com.googlecode.aic-util/aic-util@1.3.0?classifier=sources
+- pkg:maven/com.googlecode.aic-util/aic-util@1.3.1

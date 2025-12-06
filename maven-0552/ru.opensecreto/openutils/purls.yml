@@ -1,0 +1,2 @@
+- pkg:maven/ru.opensecreto/openutils@1.0
+- pkg:maven/ru.opensecreto/openutils@1.0?classifier=sources

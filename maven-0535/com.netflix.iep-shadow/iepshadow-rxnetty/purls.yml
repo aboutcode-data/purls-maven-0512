@@ -42,6 +42,8 @@
 - pkg:maven/com.netflix.iep-shadow/iepshadow-rxnetty@0.4.17.27?classifier=sources
 - pkg:maven/com.netflix.iep-shadow/iepshadow-rxnetty@0.4.18.28
 - pkg:maven/com.netflix.iep-shadow/iepshadow-rxnetty@0.4.18.28?classifier=sources
+- pkg:maven/com.netflix.iep-shadow/iepshadow-rxnetty@0.4.20.29
+- pkg:maven/com.netflix.iep-shadow/iepshadow-rxnetty@0.4.20.29?classifier=sources
 - pkg:maven/com.netflix.iep-shadow/iepshadow-rxnetty@0.4.6
 - pkg:maven/com.netflix.iep-shadow/iepshadow-rxnetty@0.4.6?classifier=sources
 - pkg:maven/com.netflix.iep-shadow/iepshadow-rxnetty@0.4.7

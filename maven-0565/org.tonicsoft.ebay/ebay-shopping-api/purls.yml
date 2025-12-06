@@ -1,0 +1,2 @@
+- pkg:maven/org.tonicsoft.ebay/ebay-shopping-api@989.0.0
+- pkg:maven/org.tonicsoft.ebay/ebay-shopping-api@989.0.0?classifier=sources

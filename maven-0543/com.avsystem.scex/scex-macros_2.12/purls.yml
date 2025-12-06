@@ -1,0 +1,4 @@
+- pkg:maven/com.avsystem.scex/scex-macros_2.12@1.18.0
+- pkg:maven/com.avsystem.scex/scex-macros_2.12@1.18.0?classifier=sources
+- pkg:maven/com.avsystem.scex/scex-macros_2.12@1.18.1
+- pkg:maven/com.avsystem.scex/scex-macros_2.12@1.18.1?classifier=sources

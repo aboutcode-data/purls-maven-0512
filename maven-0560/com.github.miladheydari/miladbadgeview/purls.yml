@@ -1,0 +1,2 @@
+- pkg:maven/com.github.miladheydari/miladbadgeview@1.1.1?classifier=sources
+- pkg:maven/com.github.miladheydari/miladbadgeview@1.1.1?type=aar

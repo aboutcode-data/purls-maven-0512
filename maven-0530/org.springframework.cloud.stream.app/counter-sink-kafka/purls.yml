@@ -1,2 +1,6 @@
 - pkg:maven/org.springframework.cloud.stream.app/counter-sink-kafka@1.0.2.RELEASE
 - pkg:maven/org.springframework.cloud.stream.app/counter-sink-kafka@1.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/counter-sink-kafka@1.0.4.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/counter-sink-kafka@1.0.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/counter-sink-kafka@1.1.0.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/counter-sink-kafka@1.1.0.RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.leopard/leopard-chart@0.9.10
+- pkg:maven/io.leopard/leopard-chart@0.9.10?classifier=sources

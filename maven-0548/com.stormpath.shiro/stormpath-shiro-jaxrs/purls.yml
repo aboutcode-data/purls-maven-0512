@@ -1,0 +1,2 @@
+- pkg:maven/com.stormpath.shiro/stormpath-shiro-jaxrs@0.8.0-RC1
+- pkg:maven/com.stormpath.shiro/stormpath-shiro-jaxrs@0.8.0-RC1?classifier=sources

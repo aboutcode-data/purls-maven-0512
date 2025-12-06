@@ -2,6 +2,13 @@
 - pkg:maven/de.taimos/dvalin-archetype-basic@1.11?classifier=sources
 - pkg:maven/de.taimos/dvalin-archetype-basic@1.12?classifier=sources
 - pkg:maven/de.taimos/dvalin-archetype-basic@1.13?classifier=sources
+- pkg:maven/de.taimos/dvalin-archetype-basic@1.14?classifier=sources
+- pkg:maven/de.taimos/dvalin-archetype-basic@1.15?classifier=sources
+- pkg:maven/de.taimos/dvalin-archetype-basic@1.16?classifier=sources
+- pkg:maven/de.taimos/dvalin-archetype-basic@1.17?classifier=sources
+- pkg:maven/de.taimos/dvalin-archetype-basic@1.18?classifier=sources
+- pkg:maven/de.taimos/dvalin-archetype-basic@1.19?classifier=sources
+- pkg:maven/de.taimos/dvalin-archetype-basic@1.20?classifier=sources
 - pkg:maven/de.taimos/dvalin-archetype-basic@1.6?classifier=sources
 - pkg:maven/de.taimos/dvalin-archetype-basic@1.7?classifier=sources
 - pkg:maven/de.taimos/dvalin-archetype-basic@1.8?classifier=sources

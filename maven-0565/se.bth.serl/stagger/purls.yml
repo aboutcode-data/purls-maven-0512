@@ -1,0 +1,2 @@
+- pkg:maven/se.bth.serl/stagger@201610
+- pkg:maven/se.bth.serl/stagger@201610?classifier=sources

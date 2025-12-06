@@ -24,3 +24,7 @@
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-core@0.8.0?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-core@0.9.0
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-core@0.9.0?classifier=sources
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-core@1.0.0
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-core@1.0.0?classifier=sources
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-core@1.1.0
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-core@1.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.ontologyportal/sigma-component@2.11
+- pkg:maven/com.github.ontologyportal/sigma-component@2.11?classifier=sources
+- pkg:maven/com.github.ontologyportal/sigma-component@2.12
+- pkg:maven/com.github.ontologyportal/sigma-component@2.12?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/io.wcm.caravan/io.wcm.caravan.pipeline.cache.couchbase@0.6.0?classifier=sources
 - pkg:maven/io.wcm.caravan/io.wcm.caravan.pipeline.cache.couchbase@0.7.0
 - pkg:maven/io.wcm.caravan/io.wcm.caravan.pipeline.cache.couchbase@0.7.0?classifier=sources
+- pkg:maven/io.wcm.caravan/io.wcm.caravan.pipeline.cache.couchbase@0.7.2
+- pkg:maven/io.wcm.caravan/io.wcm.caravan.pipeline.cache.couchbase@0.7.2?classifier=sources

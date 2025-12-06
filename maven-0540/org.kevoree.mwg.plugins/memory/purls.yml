@@ -1,2 +1,4 @@
+- pkg:maven/org.kevoree.mwg.plugins/memory@10
+- pkg:maven/org.kevoree.mwg.plugins/memory@10?classifier=sources
 - pkg:maven/org.kevoree.mwg.plugins/memory@7
 - pkg:maven/org.kevoree.mwg.plugins/memory@7?classifier=sources

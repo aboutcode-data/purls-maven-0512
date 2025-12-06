@@ -1,2 +1,4 @@
 - pkg:maven/net.roboconf/roboconf-dm-scheduler@0.7
 - pkg:maven/net.roboconf/roboconf-dm-scheduler@0.7?classifier=sources
+- pkg:maven/net.roboconf/roboconf-dm-scheduler@0.8
+- pkg:maven/net.roboconf/roboconf-dm-scheduler@0.8?classifier=sources

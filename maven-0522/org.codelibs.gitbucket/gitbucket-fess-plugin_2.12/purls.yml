@@ -1,0 +1,4 @@
+- pkg:maven/org.codelibs.gitbucket/gitbucket-fess-plugin_2.12@1.0.0
+- pkg:maven/org.codelibs.gitbucket/gitbucket-fess-plugin_2.12@1.0.0?classifier=sources
+- pkg:maven/org.codelibs.gitbucket/gitbucket-fess-plugin_2.12@1.1.0
+- pkg:maven/org.codelibs.gitbucket/gitbucket-fess-plugin_2.12@1.1.0?classifier=sources

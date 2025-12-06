@@ -75,3 +75,6 @@
 - pkg:maven/org.codehaus.cargo/expanded-war@1.5.0?type=war
 - pkg:maven/org.codehaus.cargo/expanded-war@1.5.1?type=war
 - pkg:maven/org.codehaus.cargo/expanded-war@1.6.0?type=war
+- pkg:maven/org.codehaus.cargo/expanded-war@1.6.1?type=war
+- pkg:maven/org.codehaus.cargo/expanded-war@1.6.2?type=war
+- pkg:maven/org.codehaus.cargo/expanded-war@1.6.3?type=war

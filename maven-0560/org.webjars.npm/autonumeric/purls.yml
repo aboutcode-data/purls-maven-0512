@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/autonumeric@1.9.45?classifier=sources
 - pkg:maven/org.webjars.npm/autonumeric@1.9.46
 - pkg:maven/org.webjars.npm/autonumeric@1.9.46?classifier=sources
+- pkg:maven/org.webjars.npm/autonumeric@2.0.12
+- pkg:maven/org.webjars.npm/autonumeric@2.0.12?classifier=sources
+- pkg:maven/org.webjars.npm/autonumeric@4.0.0-beta.16
+- pkg:maven/org.webjars.npm/autonumeric@4.0.0-beta.16?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/io.cloudslang.lang/cloudslang-spi@0.9.60.0
 - pkg:maven/io.cloudslang.lang/cloudslang-spi@0.9.60.0?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-spi@1.0.0
+- pkg:maven/io.cloudslang.lang/cloudslang-spi@1.0.0?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-spi@1.0.3
+- pkg:maven/io.cloudslang.lang/cloudslang-spi@1.0.3?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-spi@1.0.5
+- pkg:maven/io.cloudslang.lang/cloudslang-spi@1.0.5?classifier=sources

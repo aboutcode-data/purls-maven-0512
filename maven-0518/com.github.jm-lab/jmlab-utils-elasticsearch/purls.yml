@@ -6,3 +6,7 @@
 - pkg:maven/com.github.jm-lab/jmlab-utils-elasticsearch@0.1.73
 - pkg:maven/com.github.jm-lab/jmlab-utils-elasticsearch@0.1.73?classifier=sources
 - pkg:maven/com.github.jm-lab/jmlab-utils-elasticsearch@0.1.7?classifier=sources
+- pkg:maven/com.github.jm-lab/jmlab-utils-elasticsearch@0.5.0
+- pkg:maven/com.github.jm-lab/jmlab-utils-elasticsearch@0.5.0?classifier=sources
+- pkg:maven/com.github.jm-lab/jmlab-utils-elasticsearch@0.5.1
+- pkg:maven/com.github.jm-lab/jmlab-utils-elasticsearch@0.5.1?classifier=sources

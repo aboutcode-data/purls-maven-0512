@@ -1,0 +1,14 @@
+- pkg:maven/io.verizon.delorean/core_2.11@1.1.37
+- pkg:maven/io.verizon.delorean/core_2.11@1.1.37?classifier=sources
+- pkg:maven/io.verizon.delorean/core_2.11@1.1.39
+- pkg:maven/io.verizon.delorean/core_2.11@1.1.39?classifier=sources
+- pkg:maven/io.verizon.delorean/core_2.11@1.2.40-scalaz-7.1
+- pkg:maven/io.verizon.delorean/core_2.11@1.2.40-scalaz-7.1?classifier=sources
+- pkg:maven/io.verizon.delorean/core_2.11@1.2.40-scalaz-7.2
+- pkg:maven/io.verizon.delorean/core_2.11@1.2.40-scalaz-7.2?classifier=sources
+- pkg:maven/io.verizon.delorean/core_2.11@1.2.41-scalaz-7.1
+- pkg:maven/io.verizon.delorean/core_2.11@1.2.41-scalaz-7.1?classifier=sources
+- pkg:maven/io.verizon.delorean/core_2.11@1.2.42-scalaz-7.1
+- pkg:maven/io.verizon.delorean/core_2.11@1.2.42-scalaz-7.1?classifier=sources
+- pkg:maven/io.verizon.delorean/core_2.11@1.2.42-scalaz-7.2
+- pkg:maven/io.verizon.delorean/core_2.11@1.2.42-scalaz-7.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/edu.utah.bmi.nlp/fastcontext@1.0
+- pkg:maven/edu.utah.bmi.nlp/fastcontext@1.0?classifier=sources

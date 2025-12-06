@@ -1,0 +1,2 @@
+- pkg:maven/io.sugo.android/sugo-xwalkview_support@2.0.0?classifier=sources
+- pkg:maven/io.sugo.android/sugo-xwalkview_support@2.0.0?type=aar

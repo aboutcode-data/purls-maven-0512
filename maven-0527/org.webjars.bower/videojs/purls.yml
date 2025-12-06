@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/videojs@5.12.2
+- pkg:maven/org.webjars.bower/videojs@5.12.2?classifier=sources

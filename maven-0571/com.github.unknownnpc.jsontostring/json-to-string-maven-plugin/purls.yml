@@ -1,0 +1,2 @@
+- pkg:maven/com.github.unknownnpc.jsontostring/json-to-string-maven-plugin@1.0
+- pkg:maven/com.github.unknownnpc.jsontostring/json-to-string-maven-plugin@1.0?classifier=sources

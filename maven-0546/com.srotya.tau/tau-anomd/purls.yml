@@ -1,0 +1,2 @@
+- pkg:maven/com.srotya.tau/tau-anomd@0.0.10
+- pkg:maven/com.srotya.tau/tau-anomd@0.0.10?classifier=sources

@@ -16,3 +16,11 @@
 - pkg:maven/org.scalamock/scalamock-scalatest-support_2.10@3.2.2
 - pkg:maven/org.scalamock/scalamock-scalatest-support_2.10@3.2.2?classifier=sources
 - pkg:maven/org.scalamock/scalamock-scalatest-support_2.10@3.2?classifier=sources
+- pkg:maven/org.scalamock/scalamock-scalatest-support_2.10@3.3.0
+- pkg:maven/org.scalamock/scalamock-scalatest-support_2.10@3.3.0?classifier=sources
+- pkg:maven/org.scalamock/scalamock-scalatest-support_2.10@3.4.2
+- pkg:maven/org.scalamock/scalamock-scalatest-support_2.10@3.4.2?classifier=sources
+- pkg:maven/org.scalamock/scalamock-scalatest-support_2.10@3.5.0
+- pkg:maven/org.scalamock/scalamock-scalatest-support_2.10@3.5.0?classifier=sources
+- pkg:maven/org.scalamock/scalamock-scalatest-support_2.10@3.6.0
+- pkg:maven/org.scalamock/scalamock-scalatest-support_2.10@3.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.avivcarmis/java-red@1.0.1
+- pkg:maven/io.github.avivcarmis/java-red@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.semanticweb.yars/nxparser@1.2.10
+- pkg:maven/org.semanticweb.yars/nxparser@1.2.10?classifier=sources

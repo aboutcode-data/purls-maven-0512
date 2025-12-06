@@ -18,5 +18,7 @@
 - pkg:maven/com.github.marklister/product-collections_2.10@1.4.2?classifier=sources
 - pkg:maven/com.github.marklister/product-collections_2.10@1.4.3
 - pkg:maven/com.github.marklister/product-collections_2.10@1.4.3?classifier=sources
+- pkg:maven/com.github.marklister/product-collections_2.10@1.4.5
+- pkg:maven/com.github.marklister/product-collections_2.10@1.4.5?classifier=sources
 - pkg:maven/com.github.marklister/product-collections_2.10@v1.3.0
 - pkg:maven/com.github.marklister/product-collections_2.10@v1.3.0?classifier=sources

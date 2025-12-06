@@ -1,0 +1,2 @@
+- pkg:maven/org.kevoree.mwg.plugins/visualizer@10
+- pkg:maven/org.kevoree.mwg.plugins/visualizer@10?classifier=sources

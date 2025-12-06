@@ -1,0 +1,2 @@
+- pkg:maven/com.jakehschwartz/finatra-swagger_2.12@2.9.0
+- pkg:maven/com.jakehschwartz/finatra-swagger_2.12@2.9.0?classifier=sources

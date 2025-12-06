@@ -8,3 +8,6 @@
 - pkg:maven/org.apache.any23/apache-any23@1.0?classifier=src&type=zip
 - pkg:maven/org.apache.any23/apache-any23@1.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.any23/apache-any23@1.1?classifier=src&type=zip
+- pkg:maven/org.apache.any23/apache-any23@2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.any23/apache-any23@2.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.any23/apache-any23@2.0?classifier=src&type=zip

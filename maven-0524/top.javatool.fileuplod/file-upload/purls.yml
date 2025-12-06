@@ -1,0 +1,2 @@
+- pkg:maven/top.javatool.fileuplod/file-upload@1.0
+- pkg:maven/top.javatool.fileuplod/file-upload@1.0?classifier=sources

@@ -44,3 +44,7 @@
 - pkg:maven/de.neuland-bfi/jade4j@1.2.2?classifier=sources
 - pkg:maven/de.neuland-bfi/jade4j@1.2.3
 - pkg:maven/de.neuland-bfi/jade4j@1.2.3?classifier=sources
+- pkg:maven/de.neuland-bfi/jade4j@1.2.4
+- pkg:maven/de.neuland-bfi/jade4j@1.2.4?classifier=sources
+- pkg:maven/de.neuland-bfi/jade4j@1.2.5
+- pkg:maven/de.neuland-bfi/jade4j@1.2.5?classifier=sources

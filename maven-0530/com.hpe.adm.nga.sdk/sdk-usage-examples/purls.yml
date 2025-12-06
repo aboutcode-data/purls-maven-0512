@@ -1,0 +1,2 @@
+- pkg:maven/com.hpe.adm.nga.sdk/sdk-usage-examples@12.53.16
+- pkg:maven/com.hpe.adm.nga.sdk/sdk-usage-examples@12.53.16?classifier=sources

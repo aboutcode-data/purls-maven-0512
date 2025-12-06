@@ -1,2 +1,4 @@
 - pkg:maven/org.polago.maven.shared.filtering/escape-unicode-file-filter@1.0
 - pkg:maven/org.polago.maven.shared.filtering/escape-unicode-file-filter@1.0?classifier=sources
+- pkg:maven/org.polago.maven.shared.filtering/escape-unicode-file-filter@2.0
+- pkg:maven/org.polago.maven.shared.filtering/escape-unicode-file-filter@2.0?classifier=sources

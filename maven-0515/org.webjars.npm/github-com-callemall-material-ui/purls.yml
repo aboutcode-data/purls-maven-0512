@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-callemall-material-ui@0.17.0
+- pkg:maven/org.webjars.npm/github-com-callemall-material-ui@0.17.0?classifier=sources

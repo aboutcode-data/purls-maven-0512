@@ -1,2 +1,4 @@
 - pkg:maven/com.eventsourcing/eventsourcing-graphql@0.4.0?classifier=sources
 - pkg:maven/com.eventsourcing/eventsourcing-graphql@0.4.1?classifier=sources
+- pkg:maven/com.eventsourcing/eventsourcing-graphql@0.4.4?classifier=sources
+- pkg:maven/com.eventsourcing/eventsourcing-graphql@0.4.5?classifier=sources

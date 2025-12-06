@@ -1,0 +1,2 @@
+- pkg:maven/org.xson/xson-redis@1.0.0
+- pkg:maven/org.xson/xson-redis@1.0.0?classifier=sources

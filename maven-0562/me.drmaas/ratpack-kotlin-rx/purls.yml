@@ -1,0 +1,10 @@
+- pkg:maven/me.drmaas/ratpack-kotlin-rx@0.7.0
+- pkg:maven/me.drmaas/ratpack-kotlin-rx@0.7.0-rc.2
+- pkg:maven/me.drmaas/ratpack-kotlin-rx@0.7.0-rc.2?classifier=sources
+- pkg:maven/me.drmaas/ratpack-kotlin-rx@0.7.0?classifier=sources
+- pkg:maven/me.drmaas/ratpack-kotlin-rx@0.8.0
+- pkg:maven/me.drmaas/ratpack-kotlin-rx@0.8.0?classifier=sources
+- pkg:maven/me.drmaas/ratpack-kotlin-rx@0.9.0
+- pkg:maven/me.drmaas/ratpack-kotlin-rx@0.9.0?classifier=sources
+- pkg:maven/me.drmaas/ratpack-kotlin-rx@0.9.1
+- pkg:maven/me.drmaas/ratpack-kotlin-rx@0.9.1?classifier=sources

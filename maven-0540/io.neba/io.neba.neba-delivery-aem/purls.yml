@@ -4,3 +4,5 @@
 - pkg:maven/io.neba/io.neba.neba-delivery-aem@3.8.0?classifier=sources
 - pkg:maven/io.neba/io.neba.neba-delivery-aem@3.9.0?classifier=sources
 - pkg:maven/io.neba/io.neba.neba-delivery-aem@4.0.0?classifier=sources
+- pkg:maven/io.neba/io.neba.neba-delivery-aem@4.1.0?classifier=sources
+- pkg:maven/io.neba/io.neba.neba-delivery-aem@4.2.0?classifier=sources

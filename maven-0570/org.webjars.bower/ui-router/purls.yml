@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.bower/ui-router@0.3.0?classifier=sources
 - pkg:maven/org.webjars.bower/ui-router@1.0.0-alpha.5
 - pkg:maven/org.webjars.bower/ui-router@1.0.0-alpha.5?classifier=sources
+- pkg:maven/org.webjars.bower/ui-router@1.0.0-rc.1
+- pkg:maven/org.webjars.bower/ui-router@1.0.0-rc.1?classifier=sources

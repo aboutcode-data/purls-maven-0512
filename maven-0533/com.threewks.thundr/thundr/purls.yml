@@ -38,6 +38,7 @@
 - pkg:maven/com.threewks.thundr/thundr@2.0.1?classifier=sources
 - pkg:maven/com.threewks.thundr/thundr@2.0.2
 - pkg:maven/com.threewks.thundr/thundr@2.0.2?classifier=sources
+- pkg:maven/com.threewks.thundr/thundr@3.0.0
 - pkg:maven/com.threewks.thundr/thundr@3.0.0-beta-1
 - pkg:maven/com.threewks.thundr/thundr@3.0.0-beta-1?classifier=sources
 - pkg:maven/com.threewks.thundr/thundr@3.0.0-beta-2
@@ -48,3 +49,4 @@
 - pkg:maven/com.threewks.thundr/thundr@3.0.0-rc2?classifier=sources
 - pkg:maven/com.threewks.thundr/thundr@3.0.0-rc3
 - pkg:maven/com.threewks.thundr/thundr@3.0.0-rc3?classifier=sources
+- pkg:maven/com.threewks.thundr/thundr@3.0.0?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.solidfire/solidfire-sdk-java@1.1.0.85
 - pkg:maven/com.solidfire/solidfire-sdk-java@1.1.0.85?classifier=sources
+- pkg:maven/com.solidfire/solidfire-sdk-java@1.2.0.172
+- pkg:maven/com.solidfire/solidfire-sdk-java@1.2.0.172?classifier=sources
+- pkg:maven/com.solidfire/solidfire-sdk-java@1.2.0.29
+- pkg:maven/com.solidfire/solidfire-sdk-java@1.2.0.29?classifier=sources

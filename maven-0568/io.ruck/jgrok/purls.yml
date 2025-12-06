@@ -2,3 +2,5 @@
 - pkg:maven/io.ruck/jgrok@2.1.8?classifier=sources
 - pkg:maven/io.ruck/jgrok@2.2.2
 - pkg:maven/io.ruck/jgrok@2.2.2?classifier=sources
+- pkg:maven/io.ruck/jgrok@2.2.3
+- pkg:maven/io.ruck/jgrok@2.2.3?classifier=sources

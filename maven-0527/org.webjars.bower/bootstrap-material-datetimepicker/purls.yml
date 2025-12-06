@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bower/bootstrap-material-datetimepicker@2.0.0?classifier=sources
 - pkg:maven/org.webjars.bower/bootstrap-material-datetimepicker@2.5.3
 - pkg:maven/org.webjars.bower/bootstrap-material-datetimepicker@2.5.3?classifier=sources
+- pkg:maven/org.webjars.bower/bootstrap-material-datetimepicker@2.7.1
+- pkg:maven/org.webjars.bower/bootstrap-material-datetimepicker@2.7.1?classifier=sources

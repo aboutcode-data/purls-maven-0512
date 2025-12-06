@@ -1,2 +1,6 @@
 - pkg:maven/io.springfox.ui/springfox-swagger-ui-rfc6570@0.9.7
 - pkg:maven/io.springfox.ui/springfox-swagger-ui-rfc6570@0.9.7?classifier=sources
+- pkg:maven/io.springfox.ui/springfox-swagger-ui-rfc6570@0.9.8
+- pkg:maven/io.springfox.ui/springfox-swagger-ui-rfc6570@0.9.8?classifier=sources
+- pkg:maven/io.springfox.ui/springfox-swagger-ui-rfc6570@1.0.0
+- pkg:maven/io.springfox.ui/springfox-swagger-ui-rfc6570@1.0.0?classifier=sources

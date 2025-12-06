@@ -1,0 +1,2 @@
+- pkg:maven/de.sebbraun.helpers/path-matcher_2.12@0.0.2
+- pkg:maven/de.sebbraun.helpers/path-matcher_2.12@0.0.2?classifier=sources

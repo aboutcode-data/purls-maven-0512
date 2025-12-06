@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.cloud.stream.app/jdbc-app-starters-common@1.2.0.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/jdbc-app-starters-common@1.2.0.RELEASE?classifier=sources

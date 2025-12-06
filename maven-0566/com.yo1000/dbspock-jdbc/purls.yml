@@ -1,0 +1,2 @@
+- pkg:maven/com.yo1000/dbspock-jdbc@2.3.0.RELEASE
+- pkg:maven/com.yo1000/dbspock-jdbc@2.3.0.RELEASE?classifier=sources

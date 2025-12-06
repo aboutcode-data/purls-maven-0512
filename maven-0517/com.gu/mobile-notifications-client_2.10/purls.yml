@@ -48,5 +48,13 @@
 - pkg:maven/com.gu/mobile-notifications-client_2.10@0.5.28?classifier=sources
 - pkg:maven/com.gu/mobile-notifications-client_2.10@0.5.29
 - pkg:maven/com.gu/mobile-notifications-client_2.10@0.5.29?classifier=sources
+- pkg:maven/com.gu/mobile-notifications-client_2.10@0.5.30
+- pkg:maven/com.gu/mobile-notifications-client_2.10@0.5.30?classifier=sources
+- pkg:maven/com.gu/mobile-notifications-client_2.10@0.5.31
+- pkg:maven/com.gu/mobile-notifications-client_2.10@0.5.31?classifier=sources
+- pkg:maven/com.gu/mobile-notifications-client_2.10@0.5.32
+- pkg:maven/com.gu/mobile-notifications-client_2.10@0.5.32?classifier=sources
+- pkg:maven/com.gu/mobile-notifications-client_2.10@0.5.34
+- pkg:maven/com.gu/mobile-notifications-client_2.10@0.5.34?classifier=sources
 - pkg:maven/com.gu/mobile-notifications-client_2.10@0.5.9
 - pkg:maven/com.gu/mobile-notifications-client_2.10@0.5.9?classifier=sources

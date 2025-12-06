@@ -1,0 +1,2 @@
+- pkg:maven/cn.bestwu/hibernate-core@5.0.11.specid
+- pkg:maven/cn.bestwu/hibernate-core@5.0.11.specid?classifier=sources

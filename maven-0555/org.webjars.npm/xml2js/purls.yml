@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/xml2js@0.4.15
 - pkg:maven/org.webjars.npm/xml2js@0.4.15?classifier=sources
+- pkg:maven/org.webjars.npm/xml2js@0.4.17
+- pkg:maven/org.webjars.npm/xml2js@0.4.17?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/com.jakewharton.android.repackaged/libcore-dex@2?classifier=sources
 - pkg:maven/com.jakewharton.android.repackaged/libcore-dex@3
 - pkg:maven/com.jakewharton.android.repackaged/libcore-dex@3?classifier=sources
+- pkg:maven/com.jakewharton.android.repackaged/libcore-dex@7.1.0_r7
+- pkg:maven/com.jakewharton.android.repackaged/libcore-dex@7.1.0_r7?classifier=sources

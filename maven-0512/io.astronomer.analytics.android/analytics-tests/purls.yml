@@ -1,0 +1,2 @@
+- pkg:maven/io.astronomer.analytics.android/analytics-tests@4.2.2
+- pkg:maven/io.astronomer.analytics.android/analytics-tests@4.2.2?classifier=sources

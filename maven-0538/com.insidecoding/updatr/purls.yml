@@ -9,4 +9,6 @@
 - pkg:maven/com.insidecoding/updatr@1.14?classifier=sources
 - pkg:maven/com.insidecoding/updatr@1.17
 - pkg:maven/com.insidecoding/updatr@1.17?classifier=sources
+- pkg:maven/com.insidecoding/updatr@1.18
+- pkg:maven/com.insidecoding/updatr@1.18?classifier=sources
 - pkg:maven/com.insidecoding/updatr@1.1?classifier=sources

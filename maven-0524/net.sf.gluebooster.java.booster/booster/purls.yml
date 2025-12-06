@@ -1,2 +1,4 @@
+- pkg:maven/net.sf.gluebooster.java.booster/booster@0.7.1?classifier=src&type=tar.gz
+- pkg:maven/net.sf.gluebooster.java.booster/booster@0.7.1?classifier=src&type=zip
 - pkg:maven/net.sf.gluebooster.java.booster/booster@0.7?classifier=src&type=tar.gz
 - pkg:maven/net.sf.gluebooster.java.booster/booster@0.7?classifier=src&type=zip

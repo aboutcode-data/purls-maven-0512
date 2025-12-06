@@ -2,5 +2,17 @@
 - pkg:maven/org.typelevel/scalaz-scalatest_2.10@0.2.3?classifier=sources
 - pkg:maven/org.typelevel/scalaz-scalatest_2.10@0.4.0
 - pkg:maven/org.typelevel/scalaz-scalatest_2.10@0.4.0?classifier=sources
+- pkg:maven/org.typelevel/scalaz-scalatest_2.10@0.5.0
+- pkg:maven/org.typelevel/scalaz-scalatest_2.10@0.5.0?classifier=sources
+- pkg:maven/org.typelevel/scalaz-scalatest_2.10@0.5.1
+- pkg:maven/org.typelevel/scalaz-scalatest_2.10@0.5.1?classifier=sources
+- pkg:maven/org.typelevel/scalaz-scalatest_2.10@0.5.2
+- pkg:maven/org.typelevel/scalaz-scalatest_2.10@0.5.2?classifier=sources
 - pkg:maven/org.typelevel/scalaz-scalatest_2.10@1.0.0
 - pkg:maven/org.typelevel/scalaz-scalatest_2.10@1.0.0?classifier=sources
+- pkg:maven/org.typelevel/scalaz-scalatest_2.10@1.1.0
+- pkg:maven/org.typelevel/scalaz-scalatest_2.10@1.1.0?classifier=sources
+- pkg:maven/org.typelevel/scalaz-scalatest_2.10@1.1.1
+- pkg:maven/org.typelevel/scalaz-scalatest_2.10@1.1.1?classifier=sources
+- pkg:maven/org.typelevel/scalaz-scalatest_2.10@1.1.2
+- pkg:maven/org.typelevel/scalaz-scalatest_2.10@1.1.2?classifier=sources

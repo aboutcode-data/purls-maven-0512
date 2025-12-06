@@ -1,0 +1,4 @@
+- pkg:maven/com.cogpp/datetime-generator_2.11@0.1
+- pkg:maven/com.cogpp/datetime-generator_2.11@0.1-SNAPASHOT
+- pkg:maven/com.cogpp/datetime-generator_2.11@0.1-SNAPASHOT?classifier=sources
+- pkg:maven/com.cogpp/datetime-generator_2.11@0.1?classifier=sources

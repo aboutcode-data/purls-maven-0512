@@ -9,3 +9,4 @@
 - pkg:maven/jboss/javassist@3.6.ga?classifier=sources
 - pkg:maven/jboss/javassist@3.7.ga
 - pkg:maven/jboss/javassist@3.7.ga?classifier=sources
+- pkg:maven/jboss/javassist@3.8.0.GA

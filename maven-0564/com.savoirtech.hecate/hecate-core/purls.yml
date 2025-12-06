@@ -16,6 +16,8 @@
 - pkg:maven/com.savoirtech.hecate/hecate-core@1.0.26?classifier=sources
 - pkg:maven/com.savoirtech.hecate/hecate-core@1.0.27
 - pkg:maven/com.savoirtech.hecate/hecate-core@1.0.27?classifier=sources
+- pkg:maven/com.savoirtech.hecate/hecate-core@1.0.28
+- pkg:maven/com.savoirtech.hecate/hecate-core@1.0.28?classifier=sources
 - pkg:maven/com.savoirtech.hecate/hecate-core@1.1.0
 - pkg:maven/com.savoirtech.hecate/hecate-core@1.1.0?classifier=sources
 - pkg:maven/com.savoirtech.hecate/hecate-core@2.0.0
@@ -40,7 +42,11 @@
 - pkg:maven/com.savoirtech.hecate/hecate-core@2.0.8?classifier=sources
 - pkg:maven/com.savoirtech.hecate/hecate-core@2.0.9
 - pkg:maven/com.savoirtech.hecate/hecate-core@2.0.9?classifier=sources
+- pkg:maven/com.savoirtech.hecate/hecate-core@3.0.0
 - pkg:maven/com.savoirtech.hecate/hecate-core@3.0.0.Beta1
 - pkg:maven/com.savoirtech.hecate/hecate-core@3.0.0.Beta1?classifier=sources
 - pkg:maven/com.savoirtech.hecate/hecate-core@3.0.0.Beta2
 - pkg:maven/com.savoirtech.hecate/hecate-core@3.0.0.Beta2?classifier=sources
+- pkg:maven/com.savoirtech.hecate/hecate-core@3.0.0.Beta3
+- pkg:maven/com.savoirtech.hecate/hecate-core@3.0.0.Beta3?classifier=sources
+- pkg:maven/com.savoirtech.hecate/hecate-core@3.0.0?classifier=sources

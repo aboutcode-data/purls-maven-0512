@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys/hbci4j-adorsys@3.0.9
+- pkg:maven/de.adorsys/hbci4j-adorsys@3.0.9?classifier=sources

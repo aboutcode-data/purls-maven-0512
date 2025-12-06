@@ -1,0 +1,8 @@
+- pkg:maven/rocks.juergen/jython-maven-plugin@0.1-20161010155937%2B196540c
+- pkg:maven/rocks.juergen/jython-maven-plugin@0.1-20161010155937%2B196540c?classifier=sources
+- pkg:maven/rocks.juergen/jython-maven-plugin@0.1-20161010165350%2B196540c
+- pkg:maven/rocks.juergen/jython-maven-plugin@0.1-20161010165350%2B196540c?classifier=sources
+- pkg:maven/rocks.juergen/jython-maven-plugin@0.2-20161011080554%2B39de0b4
+- pkg:maven/rocks.juergen/jython-maven-plugin@0.2-20161011080554%2B39de0b4?classifier=sources
+- pkg:maven/rocks.juergen/jython-maven-plugin@0.3-20161016132151%2B16f07eb
+- pkg:maven/rocks.juergen/jython-maven-plugin@0.3-20161016132151%2B16f07eb?classifier=sources

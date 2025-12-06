@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/angular-selector@1.4.4
+- pkg:maven/org.webjars.npm/angular-selector@1.4.4?classifier=sources
+- pkg:maven/org.webjars.npm/angular-selector@1.5.0
+- pkg:maven/org.webjars.npm/angular-selector@1.5.0?classifier=sources

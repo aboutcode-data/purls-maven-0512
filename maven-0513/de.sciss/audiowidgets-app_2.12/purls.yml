@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/audiowidgets-app_2.12@1.10.2
+- pkg:maven/de.sciss/audiowidgets-app_2.12@1.10.2?classifier=sources

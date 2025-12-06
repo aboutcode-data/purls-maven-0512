@@ -36,3 +36,9 @@
 - pkg:maven/com.sigopt/sigopt-java@4.1.0?classifier=sources
 - pkg:maven/com.sigopt/sigopt-java@4.2.0
 - pkg:maven/com.sigopt/sigopt-java@4.2.0?classifier=sources
+- pkg:maven/com.sigopt/sigopt-java@4.4.0
+- pkg:maven/com.sigopt/sigopt-java@4.4.0?classifier=sources
+- pkg:maven/com.sigopt/sigopt-java@4.5.0
+- pkg:maven/com.sigopt/sigopt-java@4.5.0?classifier=sources
+- pkg:maven/com.sigopt/sigopt-java@4.6.0
+- pkg:maven/com.sigopt/sigopt-java@4.6.0?classifier=sources

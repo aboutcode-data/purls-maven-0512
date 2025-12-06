@@ -11,6 +11,8 @@
 - pkg:maven/org.fusesource.hawtjni/hawtjni-generator@1.13?classifier=sources
 - pkg:maven/org.fusesource.hawtjni/hawtjni-generator@1.14
 - pkg:maven/org.fusesource.hawtjni/hawtjni-generator@1.14?classifier=sources
+- pkg:maven/org.fusesource.hawtjni/hawtjni-generator@1.15
+- pkg:maven/org.fusesource.hawtjni/hawtjni-generator@1.15?classifier=sources
 - pkg:maven/org.fusesource.hawtjni/hawtjni-generator@1.1?classifier=sources
 - pkg:maven/org.fusesource.hawtjni/hawtjni-generator@1.2
 - pkg:maven/org.fusesource.hawtjni/hawtjni-generator@1.2?classifier=sources

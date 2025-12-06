@@ -18,3 +18,9 @@
 - pkg:maven/com.mikepenz/community-material-typeface@1.5.54.1?type=aar
 - pkg:maven/com.mikepenz/community-material-typeface@1.5.54.2?classifier=sources
 - pkg:maven/com.mikepenz/community-material-typeface@1.5.54.2?type=aar
+- pkg:maven/com.mikepenz/community-material-typeface@1.7.22.1?classifier=sources
+- pkg:maven/com.mikepenz/community-material-typeface@1.7.22.1?type=aar
+- pkg:maven/com.mikepenz/community-material-typeface@1.8.36.1?classifier=sources
+- pkg:maven/com.mikepenz/community-material-typeface@1.8.36.1?type=aar
+- pkg:maven/com.mikepenz/community-material-typeface@1.9.32.1?classifier=sources
+- pkg:maven/com.mikepenz/community-material-typeface@1.9.32.1?type=aar

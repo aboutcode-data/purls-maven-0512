@@ -12,3 +12,5 @@
 - pkg:maven/net.qiujuer.genius/res@2.0.0-beta3?type=aar
 - pkg:maven/net.qiujuer.genius/res@2.0.0-beta6?classifier=sources
 - pkg:maven/net.qiujuer.genius/res@2.0.0-beta6?type=aar
+- pkg:maven/net.qiujuer.genius/res@2.0.0?classifier=sources
+- pkg:maven/net.qiujuer.genius/res@2.0.0?type=aar

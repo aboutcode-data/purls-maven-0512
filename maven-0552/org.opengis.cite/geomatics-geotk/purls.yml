@@ -6,6 +6,8 @@
 - pkg:maven/org.opengis.cite/geomatics-geotk@1.12?classifier=sources
 - pkg:maven/org.opengis.cite/geomatics-geotk@1.13
 - pkg:maven/org.opengis.cite/geomatics-geotk@1.13?classifier=sources
+- pkg:maven/org.opengis.cite/geomatics-geotk@1.14
+- pkg:maven/org.opengis.cite/geomatics-geotk@1.14?classifier=sources
 - pkg:maven/org.opengis.cite/geomatics-geotk@1.7
 - pkg:maven/org.opengis.cite/geomatics-geotk@1.7?classifier=sources
 - pkg:maven/org.opengis.cite/geomatics-geotk@1.8

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cquiroz/scala-java-locales_2.12.0-RC1@0.3.0-cldr30
+- pkg:maven/com.github.cquiroz/scala-java-locales_2.12.0-RC1@0.3.0-cldr30?classifier=sources

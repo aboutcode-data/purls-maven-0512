@@ -1,0 +1,2 @@
+- pkg:maven/work.martins.simon/scala-expect_2.12@6.0.0
+- pkg:maven/work.martins.simon/scala-expect_2.12@6.0.0?classifier=sources

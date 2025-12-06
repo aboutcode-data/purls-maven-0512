@@ -1,0 +1,2 @@
+- pkg:maven/org.simplericity.jettyconsole/jetty-console-websocket-plugin@1.60
+- pkg:maven/org.simplericity.jettyconsole/jetty-console-websocket-plugin@1.60?classifier=sources

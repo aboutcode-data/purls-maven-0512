@@ -1,0 +1,14 @@
+- pkg:maven/org.webpieces/json-jackson-plugin@1.9.65
+- pkg:maven/org.webpieces/json-jackson-plugin@1.9.65?classifier=sources
+- pkg:maven/org.webpieces/json-jackson-plugin@1.9.66
+- pkg:maven/org.webpieces/json-jackson-plugin@1.9.66?classifier=sources
+- pkg:maven/org.webpieces/json-jackson-plugin@1.9.67
+- pkg:maven/org.webpieces/json-jackson-plugin@1.9.67?classifier=sources
+- pkg:maven/org.webpieces/json-jackson-plugin@1.9.68
+- pkg:maven/org.webpieces/json-jackson-plugin@1.9.68?classifier=sources
+- pkg:maven/org.webpieces/json-jackson-plugin@1.9.69
+- pkg:maven/org.webpieces/json-jackson-plugin@1.9.69?classifier=sources
+- pkg:maven/org.webpieces/json-jackson-plugin@1.9.70
+- pkg:maven/org.webpieces/json-jackson-plugin@1.9.70?classifier=sources
+- pkg:maven/org.webpieces/json-jackson-plugin@1.9.71
+- pkg:maven/org.webpieces/json-jackson-plugin@1.9.71?classifier=sources

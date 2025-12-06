@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.neoscada.base/org.eclipse.scada.base.json@0.1.0
+- pkg:maven/org.eclipse.neoscada.base/org.eclipse.scada.base.json@0.1.0?classifier=sources

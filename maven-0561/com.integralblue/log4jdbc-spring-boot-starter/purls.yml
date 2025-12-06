@@ -1,0 +1,4 @@
+- pkg:maven/com.integralblue/log4jdbc-spring-boot-starter@1.0.0
+- pkg:maven/com.integralblue/log4jdbc-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/com.integralblue/log4jdbc-spring-boot-starter@1.0.1
+- pkg:maven/com.integralblue/log4jdbc-spring-boot-starter@1.0.1?classifier=sources

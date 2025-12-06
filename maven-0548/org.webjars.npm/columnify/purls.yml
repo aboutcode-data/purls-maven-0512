@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/columnify@1.5.2
 - pkg:maven/org.webjars.npm/columnify@1.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/columnify@1.5.4
+- pkg:maven/org.webjars.npm/columnify@1.5.4?classifier=sources

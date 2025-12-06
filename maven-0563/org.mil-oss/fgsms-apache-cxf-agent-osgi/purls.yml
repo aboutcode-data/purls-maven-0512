@@ -1,0 +1,2 @@
+- pkg:maven/org.mil-oss/fgsms-apache-cxf-agent-osgi@7.0.0
+- pkg:maven/org.mil-oss/fgsms-apache-cxf-agent-osgi@7.0.0?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/org.eclipse.scout/eclipse-settings-maven-plugin@3.0
 - pkg:maven/org.eclipse.scout/eclipse-settings-maven-plugin@3.0.1
+- pkg:maven/org.eclipse.scout/eclipse-settings-maven-plugin@3.0.2

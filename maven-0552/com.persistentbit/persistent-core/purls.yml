@@ -22,3 +22,5 @@
 - pkg:maven/com.persistentbit/persistent-core@1.1.7?classifier=sources
 - pkg:maven/com.persistentbit/persistent-core@1.2.0
 - pkg:maven/com.persistentbit/persistent-core@1.2.0?classifier=sources
+- pkg:maven/com.persistentbit/persistent-core@2.0.0
+- pkg:maven/com.persistentbit/persistent-core@2.0.0?classifier=sources

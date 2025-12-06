@@ -52,3 +52,5 @@
 - pkg:maven/com.github.davide-maestroni/jroutine-android@5.8.0?type=aar
 - pkg:maven/com.github.davide-maestroni/jroutine-android@5.9.0?classifier=sources
 - pkg:maven/com.github.davide-maestroni/jroutine-android@5.9.0?type=aar
+- pkg:maven/com.github.davide-maestroni/jroutine-android@6.0.0?classifier=sources
+- pkg:maven/com.github.davide-maestroni/jroutine-android@6.0.0?type=aar

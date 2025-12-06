@@ -1,2 +1,8 @@
 - pkg:maven/io.bootique/bootique-test@0.19
 - pkg:maven/io.bootique/bootique-test@0.19?classifier=sources
+- pkg:maven/io.bootique/bootique-test@0.20
+- pkg:maven/io.bootique/bootique-test@0.20?classifier=sources
+- pkg:maven/io.bootique/bootique-test@0.21
+- pkg:maven/io.bootique/bootique-test@0.21?classifier=sources
+- pkg:maven/io.bootique/bootique-test@0.22
+- pkg:maven/io.bootique/bootique-test@0.22?classifier=sources

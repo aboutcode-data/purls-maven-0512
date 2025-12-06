@@ -10,3 +10,15 @@
 - pkg:maven/org.jmxtrans/jmxtrans-output-kafka@256?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans-output-kafka@259
 - pkg:maven/org.jmxtrans/jmxtrans-output-kafka@259?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-kafka@260
+- pkg:maven/org.jmxtrans/jmxtrans-output-kafka@260?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-kafka@261
+- pkg:maven/org.jmxtrans/jmxtrans-output-kafka@261?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-kafka@262
+- pkg:maven/org.jmxtrans/jmxtrans-output-kafka@262?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-kafka@263
+- pkg:maven/org.jmxtrans/jmxtrans-output-kafka@263?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-kafka@264
+- pkg:maven/org.jmxtrans/jmxtrans-output-kafka@264?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-kafka@265
+- pkg:maven/org.jmxtrans/jmxtrans-output-kafka@265?classifier=sources

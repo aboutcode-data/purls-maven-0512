@@ -1,0 +1,2 @@
+- pkg:maven/io.atlasmap/atlas.demo.deps@1.10.0
+- pkg:maven/io.atlasmap/atlas.demo.deps@1.10.0?classifier=sources

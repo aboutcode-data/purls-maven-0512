@@ -1,0 +1,2 @@
+- pkg:maven/br.com.neomode.formvalidation/neomodeValidationForm@1.0?classifier=sources
+- pkg:maven/br.com.neomode.formvalidation/neomodeValidationForm@1.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.bogdwellers/pinchtozoom@0.1?classifier=sources
+- pkg:maven/com.bogdwellers/pinchtozoom@0.1?type=aar

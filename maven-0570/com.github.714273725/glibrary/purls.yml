@@ -1,0 +1,2 @@
+- pkg:maven/com.github.714273725/glibrary@0.0.34?classifier=sources
+- pkg:maven/com.github.714273725/glibrary@0.0.34?type=aar

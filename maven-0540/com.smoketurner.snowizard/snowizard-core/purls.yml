@@ -4,3 +4,5 @@
 - pkg:maven/com.smoketurner.snowizard/snowizard-core@1.9.1?classifier=sources
 - pkg:maven/com.smoketurner.snowizard/snowizard-core@1.9.2
 - pkg:maven/com.smoketurner.snowizard/snowizard-core@1.9.2?classifier=sources
+- pkg:maven/com.smoketurner.snowizard/snowizard-core@2.0.0
+- pkg:maven/com.smoketurner.snowizard/snowizard-core@2.0.0?classifier=sources

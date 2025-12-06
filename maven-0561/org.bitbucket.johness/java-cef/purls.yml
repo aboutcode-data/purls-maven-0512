@@ -1,0 +1,12 @@
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win32
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win32.1
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win32.1?classifier=sources
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win32.2
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win32.2?classifier=sources
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win32?classifier=sources
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win64
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win64.1
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win64.1?classifier=sources
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win64.2
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win64.2?classifier=sources
+- pkg:maven/org.bitbucket.johness/java-cef@49.87.win64?classifier=sources

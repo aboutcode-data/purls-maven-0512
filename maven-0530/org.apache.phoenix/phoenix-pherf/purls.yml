@@ -1,3 +1,9 @@
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.10.0-HBase-0.98
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.10.0-HBase-0.98?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.10.0-HBase-1.1
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.10.0-HBase-1.1?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.10.0-HBase-1.2
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.10.0-HBase-1.2?classifier=sources
 - pkg:maven/org.apache.phoenix/phoenix-pherf@4.4.0-HBase-0.98
 - pkg:maven/org.apache.phoenix/phoenix-pherf@4.4.0-HBase-0.98?classifier=sources
 - pkg:maven/org.apache.phoenix/phoenix-pherf@4.4.0-HBase-1.0
@@ -42,3 +48,17 @@
 - pkg:maven/org.apache.phoenix/phoenix-pherf@4.8.0-HBase-1.1?classifier=sources
 - pkg:maven/org.apache.phoenix/phoenix-pherf@4.8.0-HBase-1.2
 - pkg:maven/org.apache.phoenix/phoenix-pherf@4.8.0-HBase-1.2?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.8.1-HBase-0.98
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.8.1-HBase-0.98?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.8.1-HBase-1.0
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.8.1-HBase-1.0?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.8.1-HBase-1.1
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.8.1-HBase-1.1?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.8.1-HBase-1.2
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.8.1-HBase-1.2?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.9.0-HBase-0.98
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.9.0-HBase-0.98?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.9.0-HBase-1.1
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.9.0-HBase-1.1?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.9.0-HBase-1.2
+- pkg:maven/org.apache.phoenix/phoenix-pherf@4.9.0-HBase-1.2?classifier=sources

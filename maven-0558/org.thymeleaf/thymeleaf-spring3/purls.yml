@@ -112,5 +112,13 @@
 - pkg:maven/org.thymeleaf/thymeleaf-spring3@3.0.1.RELEASE?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf-spring3@3.0.2.RELEASE
 - pkg:maven/org.thymeleaf/thymeleaf-spring3@3.0.2.RELEASE?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf-spring3@3.0.3.RELEASE
+- pkg:maven/org.thymeleaf/thymeleaf-spring3@3.0.3.RELEASE?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf-spring3@3.0.4.RELEASE
+- pkg:maven/org.thymeleaf/thymeleaf-spring3@3.0.4.RELEASE?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf-spring3@3.0.5.RELEASE
+- pkg:maven/org.thymeleaf/thymeleaf-spring3@3.0.5.RELEASE?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf-spring3@3.0.6.RELEASE
+- pkg:maven/org.thymeleaf/thymeleaf-spring3@3.0.6.RELEASE?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf-spring3@m1
 - pkg:maven/org.thymeleaf/thymeleaf-spring3@m1?classifier=sources

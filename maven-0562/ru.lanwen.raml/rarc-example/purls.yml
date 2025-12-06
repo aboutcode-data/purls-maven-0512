@@ -1,0 +1,8 @@
+- pkg:maven/ru.lanwen.raml/rarc-example@1.1
+- pkg:maven/ru.lanwen.raml/rarc-example@1.1?classifier=sources
+- pkg:maven/ru.lanwen.raml/rarc-example@1.2
+- pkg:maven/ru.lanwen.raml/rarc-example@1.2.1
+- pkg:maven/ru.lanwen.raml/rarc-example@1.2.1?classifier=sources
+- pkg:maven/ru.lanwen.raml/rarc-example@1.2.2
+- pkg:maven/ru.lanwen.raml/rarc-example@1.2.2?classifier=sources
+- pkg:maven/ru.lanwen.raml/rarc-example@1.2?classifier=sources

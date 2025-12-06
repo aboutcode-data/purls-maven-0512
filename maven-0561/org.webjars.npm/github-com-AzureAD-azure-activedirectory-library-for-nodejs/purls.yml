@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-AzureAD-azure-activedirectory-library-for-nodejs@0.1.22
+- pkg:maven/org.webjars.npm/github-com-AzureAD-azure-activedirectory-library-for-nodejs@0.1.22?classifier=sources

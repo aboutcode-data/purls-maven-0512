@@ -40,3 +40,15 @@
 - pkg:maven/org.minimalj/minimalj@0.9.0.4?classifier=sources
 - pkg:maven/org.minimalj/minimalj@1.0.0.0
 - pkg:maven/org.minimalj/minimalj@1.0.0.0?classifier=sources
+- pkg:maven/org.minimalj/minimalj@1.2.0.0
+- pkg:maven/org.minimalj/minimalj@1.2.0.0?classifier=sources
+- pkg:maven/org.minimalj/minimalj@1.3.0.0
+- pkg:maven/org.minimalj/minimalj@1.3.0.0?classifier=sources
+- pkg:maven/org.minimalj/minimalj@1.4.0.0
+- pkg:maven/org.minimalj/minimalj@1.4.0.0?classifier=sources
+- pkg:maven/org.minimalj/minimalj@1.4.1.0
+- pkg:maven/org.minimalj/minimalj@1.4.1.0?classifier=sources
+- pkg:maven/org.minimalj/minimalj@1.5.0.0
+- pkg:maven/org.minimalj/minimalj@1.5.0.0?classifier=sources
+- pkg:maven/org.minimalj/minimalj@1.6.0.0
+- pkg:maven/org.minimalj/minimalj@1.6.0.0?classifier=sources

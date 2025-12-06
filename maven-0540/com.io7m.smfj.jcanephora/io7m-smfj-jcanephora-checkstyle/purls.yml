@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.smfj.jcanephora/io7m-smfj-jcanephora-checkstyle@0.1.0
+- pkg:maven/com.io7m.smfj.jcanephora/io7m-smfj-jcanephora-checkstyle@0.1.0?classifier=sources

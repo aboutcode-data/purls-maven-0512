@@ -48,6 +48,12 @@
 - pkg:maven/org.jpedal/OpenViewerFX@7.00b29?classifier=sources
 - pkg:maven/org.jpedal/OpenViewerFX@7.1.27
 - pkg:maven/org.jpedal/OpenViewerFX@7.1.27?classifier=sources
+- pkg:maven/org.jpedal/OpenViewerFX@7.10.24
+- pkg:maven/org.jpedal/OpenViewerFX@7.10.24?classifier=sources
+- pkg:maven/org.jpedal/OpenViewerFX@7.11.31
+- pkg:maven/org.jpedal/OpenViewerFX@7.11.31?classifier=sources
+- pkg:maven/org.jpedal/OpenViewerFX@7.12.28
+- pkg:maven/org.jpedal/OpenViewerFX@7.12.28?classifier=sources
 - pkg:maven/org.jpedal/OpenViewerFX@7.2.30
 - pkg:maven/org.jpedal/OpenViewerFX@7.2.30?classifier=sources
 - pkg:maven/org.jpedal/OpenViewerFX@7.4.01
@@ -56,3 +62,11 @@
 - pkg:maven/org.jpedal/OpenViewerFX@7.4.26?classifier=sources
 - pkg:maven/org.jpedal/OpenViewerFX@7.5.30
 - pkg:maven/org.jpedal/OpenViewerFX@7.5.30?classifier=sources
+- pkg:maven/org.jpedal/OpenViewerFX@7.6.27
+- pkg:maven/org.jpedal/OpenViewerFX@7.6.27?classifier=sources
+- pkg:maven/org.jpedal/OpenViewerFX@7.7.25
+- pkg:maven/org.jpedal/OpenViewerFX@7.7.25?classifier=sources
+- pkg:maven/org.jpedal/OpenViewerFX@7.8.22
+- pkg:maven/org.jpedal/OpenViewerFX@7.8.22?classifier=sources
+- pkg:maven/org.jpedal/OpenViewerFX@7.9.26
+- pkg:maven/org.jpedal/OpenViewerFX@7.9.26?classifier=sources

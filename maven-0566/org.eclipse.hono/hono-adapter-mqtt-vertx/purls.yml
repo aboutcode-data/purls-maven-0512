@@ -1,0 +1,8 @@
+- pkg:maven/org.eclipse.hono/hono-adapter-mqtt-vertx@0.5-M2
+- pkg:maven/org.eclipse.hono/hono-adapter-mqtt-vertx@0.5-M2?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-adapter-mqtt-vertx@0.5-M3
+- pkg:maven/org.eclipse.hono/hono-adapter-mqtt-vertx@0.5-M3?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-adapter-mqtt-vertx@0.5-M4
+- pkg:maven/org.eclipse.hono/hono-adapter-mqtt-vertx@0.5-M4?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-adapter-mqtt-vertx@0.5-M5
+- pkg:maven/org.eclipse.hono/hono-adapter-mqtt-vertx@0.5-M5?classifier=sources
