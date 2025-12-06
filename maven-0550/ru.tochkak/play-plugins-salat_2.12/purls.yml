@@ -1,0 +1,2 @@
+- pkg:maven/ru.tochkak/play-plugins-salat_2.12@1.7.2
+- pkg:maven/ru.tochkak/play-plugins-salat_2.12@1.7.2?classifier=sources

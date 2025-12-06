@@ -1,0 +1,2 @@
+- pkg:maven/net.kaliber/play-s3_2.12@9.0.0
+- pkg:maven/net.kaliber/play-s3_2.12@9.0.0?classifier=sources

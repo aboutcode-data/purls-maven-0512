@@ -1,0 +1,2 @@
+- pkg:maven/org.igniterealtime.openfire.plugins/openfire-plugin-assembly-descriptor@4.2.0
+- pkg:maven/org.igniterealtime.openfire.plugins/openfire-plugin-assembly-descriptor@4.2.0?classifier=sources

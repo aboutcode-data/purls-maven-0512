@@ -1,0 +1,6 @@
+- pkg:maven/net.anwiba.spatial/anwiba-spatial-data-ckan@1.0.64
+- pkg:maven/net.anwiba.spatial/anwiba-spatial-data-ckan@1.0.64?classifier=sources
+- pkg:maven/net.anwiba.spatial/anwiba-spatial-data-ckan@1.0.68
+- pkg:maven/net.anwiba.spatial/anwiba-spatial-data-ckan@1.0.68?classifier=sources
+- pkg:maven/net.anwiba.spatial/anwiba-spatial-data-ckan@1.0.76
+- pkg:maven/net.anwiba.spatial/anwiba-spatial-data-ckan@1.0.76?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-gsag-chatbot@1.2.3
+- pkg:maven/org.webjars.npm/github-com-gsag-chatbot@1.2.3?classifier=sources

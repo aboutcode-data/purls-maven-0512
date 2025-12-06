@@ -12,3 +12,5 @@
 - pkg:maven/com.distelli.graphql/graphql-apigen-deps@2.2.0?classifier=sources
 - pkg:maven/com.distelli.graphql/graphql-apigen-deps@2.3.0
 - pkg:maven/com.distelli.graphql/graphql-apigen-deps@2.3.0?classifier=sources
+- pkg:maven/com.distelli.graphql/graphql-apigen-deps@3.0.0
+- pkg:maven/com.distelli.graphql/graphql-apigen-deps@3.0.0?classifier=sources

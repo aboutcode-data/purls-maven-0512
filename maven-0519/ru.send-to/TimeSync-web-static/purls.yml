@@ -1,0 +1,4 @@
+- pkg:maven/ru.send-to/TimeSync-web-static@0.0.1?type=war
+- pkg:maven/ru.send-to/TimeSync-web-static@0.0.2?type=war
+- pkg:maven/ru.send-to/TimeSync-web-static@0.0.3?type=war
+- pkg:maven/ru.send-to/TimeSync-web-static@0.0.4?type=war

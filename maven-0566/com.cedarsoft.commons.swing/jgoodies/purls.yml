@@ -2,3 +2,13 @@
 - pkg:maven/com.cedarsoft.commons.swing/jgoodies@8.1.0?classifier=sources
 - pkg:maven/com.cedarsoft.commons.swing/jgoodies@8.1.1
 - pkg:maven/com.cedarsoft.commons.swing/jgoodies@8.1.1?classifier=sources
+- pkg:maven/com.cedarsoft.commons.swing/jgoodies@8.2.0
+- pkg:maven/com.cedarsoft.commons.swing/jgoodies@8.2.0?classifier=sources
+- pkg:maven/com.cedarsoft.commons.swing/jgoodies@8.2.1
+- pkg:maven/com.cedarsoft.commons.swing/jgoodies@8.2.1?classifier=sources
+- pkg:maven/com.cedarsoft.commons.swing/jgoodies@8.3.0
+- pkg:maven/com.cedarsoft.commons.swing/jgoodies@8.3.0?classifier=sources
+- pkg:maven/com.cedarsoft.commons.swing/jgoodies@8.3.1
+- pkg:maven/com.cedarsoft.commons.swing/jgoodies@8.3.1?classifier=sources
+- pkg:maven/com.cedarsoft.commons.swing/jgoodies@8.4.0
+- pkg:maven/com.cedarsoft.commons.swing/jgoodies@8.4.0?classifier=sources

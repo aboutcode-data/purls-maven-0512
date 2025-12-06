@@ -28,6 +28,10 @@
 - pkg:maven/io.blocko/coinstack@3.0.24?classifier=sources
 - pkg:maven/io.blocko/coinstack@3.0.25
 - pkg:maven/io.blocko/coinstack@3.0.25?classifier=sources
+- pkg:maven/io.blocko/coinstack@3.0.26
+- pkg:maven/io.blocko/coinstack@3.0.26?classifier=sources
+- pkg:maven/io.blocko/coinstack@3.0.27
+- pkg:maven/io.blocko/coinstack@3.0.27?classifier=sources
 - pkg:maven/io.blocko/coinstack@3.0.7
 - pkg:maven/io.blocko/coinstack@3.0.7?classifier=sources
 - pkg:maven/io.blocko/coinstack@3.0.9

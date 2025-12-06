@@ -1,2 +1,6 @@
 - pkg:maven/com.github.cafdataprocessing/worker-binaryhash-shared@2.0.0-3
 - pkg:maven/com.github.cafdataprocessing/worker-binaryhash-shared@2.0.0-3?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-binaryhash-shared@2.1.0-28
+- pkg:maven/com.github.cafdataprocessing/worker-binaryhash-shared@2.1.0-28?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-binaryhash-shared@2.2.0-61
+- pkg:maven/com.github.cafdataprocessing/worker-binaryhash-shared@2.2.0-61?classifier=sources

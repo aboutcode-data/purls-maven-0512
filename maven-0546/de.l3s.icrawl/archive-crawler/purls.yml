@@ -1,0 +1,2 @@
+- pkg:maven/de.l3s.icrawl/archive-crawler@0.1.0
+- pkg:maven/de.l3s.icrawl/archive-crawler@0.1.0?classifier=sources

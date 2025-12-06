@@ -32,3 +32,13 @@
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.26.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.27.0
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.27.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.28.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.28.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.29.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.29.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.30.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.30.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.31.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.31.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.32.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo@1.32.0?classifier=sources

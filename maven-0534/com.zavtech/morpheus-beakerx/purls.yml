@@ -1,0 +1,6 @@
+- pkg:maven/com.zavtech/morpheus-beakerx@0.7.0
+- pkg:maven/com.zavtech/morpheus-beakerx@0.7.0?classifier=sources
+- pkg:maven/com.zavtech/morpheus-beakerx@0.7.1
+- pkg:maven/com.zavtech/morpheus-beakerx@0.7.1?classifier=sources
+- pkg:maven/com.zavtech/morpheus-beakerx@0.9.17
+- pkg:maven/com.zavtech/morpheus-beakerx@0.9.17?classifier=sources

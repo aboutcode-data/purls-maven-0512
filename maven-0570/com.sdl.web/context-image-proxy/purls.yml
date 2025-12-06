@@ -1,6 +1,10 @@
+- pkg:maven/com.sdl.web/context-image-proxy@10.1.0-1019
+- pkg:maven/com.sdl.web/context-image-proxy@10.1.0-1019?classifier=sources
 - pkg:maven/com.sdl.web/context-image-proxy@8.2.0-1012
 - pkg:maven/com.sdl.web/context-image-proxy@8.2.0-1012?classifier=sources
 - pkg:maven/com.sdl.web/context-image-proxy@8.3.0-1008
 - pkg:maven/com.sdl.web/context-image-proxy@8.3.0-1008?classifier=sources
 - pkg:maven/com.sdl.web/context-image-proxy@8.5.0-1013
 - pkg:maven/com.sdl.web/context-image-proxy@8.5.0-1013?classifier=sources
+- pkg:maven/com.sdl.web/context-image-proxy@8.5.0-1041
+- pkg:maven/com.sdl.web/context-image-proxy@8.5.0-1041?classifier=sources

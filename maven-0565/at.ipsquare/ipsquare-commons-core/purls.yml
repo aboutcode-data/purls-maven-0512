@@ -4,3 +4,7 @@
 - pkg:maven/at.ipsquare/ipsquare-commons-core@2.0.0?classifier=sources
 - pkg:maven/at.ipsquare/ipsquare-commons-core@2.1.0
 - pkg:maven/at.ipsquare/ipsquare-commons-core@2.1.0?classifier=sources
+- pkg:maven/at.ipsquare/ipsquare-commons-core@3.0.0
+- pkg:maven/at.ipsquare/ipsquare-commons-core@3.0.0?classifier=sources
+- pkg:maven/at.ipsquare/ipsquare-commons-core@3.0.1
+- pkg:maven/at.ipsquare/ipsquare-commons-core@3.0.1?classifier=sources

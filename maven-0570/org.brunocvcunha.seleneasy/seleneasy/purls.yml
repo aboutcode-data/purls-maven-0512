@@ -1,0 +1,2 @@
+- pkg:maven/org.brunocvcunha.seleneasy/seleneasy@1.0
+- pkg:maven/org.brunocvcunha.seleneasy/seleneasy@1.0?classifier=sources

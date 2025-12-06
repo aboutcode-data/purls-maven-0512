@@ -44,6 +44,10 @@
 - pkg:maven/me.atam/atam4j-annotations@0.55?classifier=sources
 - pkg:maven/me.atam/atam4j-annotations@0.56
 - pkg:maven/me.atam/atam4j-annotations@0.56?classifier=sources
+- pkg:maven/me.atam/atam4j-annotations@0.57
+- pkg:maven/me.atam/atam4j-annotations@0.57?classifier=sources
+- pkg:maven/me.atam/atam4j-annotations@0.58
+- pkg:maven/me.atam/atam4j-annotations@0.58?classifier=sources
 - pkg:maven/me.atam/atam4j-annotations@0.6.0
 - pkg:maven/me.atam/atam4j-annotations@0.6.0?classifier=sources
 - pkg:maven/me.atam/atam4j-annotations@0.6.1

@@ -1,0 +1,4 @@
+- pkg:maven/no.ssb.vtl/java-vtl-parser@0.1.0
+- pkg:maven/no.ssb.vtl/java-vtl-parser@0.1.0?classifier=sources
+- pkg:maven/no.ssb.vtl/java-vtl-parser@0.1.2
+- pkg:maven/no.ssb.vtl/java-vtl-parser@0.1.2?classifier=sources

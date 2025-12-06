@@ -1,0 +1,4 @@
+- pkg:maven/net.corda/corda-confidential-identities@1.0.0
+- pkg:maven/net.corda/corda-confidential-identities@1.0.0?classifier=sources
+- pkg:maven/net.corda/corda-confidential-identities@2.0.0
+- pkg:maven/net.corda/corda-confidential-identities@2.0.0?classifier=sources

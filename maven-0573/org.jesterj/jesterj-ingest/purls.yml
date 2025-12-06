@@ -1,0 +1,2 @@
+- pkg:maven/org.jesterj/jesterj-ingest@1.0-beta1
+- pkg:maven/org.jesterj/jesterj-ingest@1.0-beta1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.camunda.consulting.util/camunda-util-license-installer-war@0.1.0?classifier=sources
+- pkg:maven/com.camunda.consulting.util/camunda-util-license-installer-war@0.1.0?type=war

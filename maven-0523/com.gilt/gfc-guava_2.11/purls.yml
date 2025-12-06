@@ -36,3 +36,5 @@
 - pkg:maven/com.gilt/gfc-guava_2.11@0.2.4?classifier=sources
 - pkg:maven/com.gilt/gfc-guava_2.11@0.2.5
 - pkg:maven/com.gilt/gfc-guava_2.11@0.2.5?classifier=sources
+- pkg:maven/com.gilt/gfc-guava_2.11@0.3.0
+- pkg:maven/com.gilt/gfc-guava_2.11@0.3.0?classifier=sources

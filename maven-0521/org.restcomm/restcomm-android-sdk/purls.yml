@@ -8,3 +8,13 @@
 - pkg:maven/org.restcomm/restcomm-android-sdk@1.0.1-BETA6-83?type=aar
 - pkg:maven/org.restcomm/restcomm-android-sdk@1.0.1-BETA6-85?classifier=sources
 - pkg:maven/org.restcomm/restcomm-android-sdk@1.0.1-BETA6-85?type=aar
+- pkg:maven/org.restcomm/restcomm-android-sdk@1.0.3-BETA6-134?classifier=sources
+- pkg:maven/org.restcomm/restcomm-android-sdk@1.0.3-BETA6-134?type=aar
+- pkg:maven/org.restcomm/restcomm-android-sdk@1.0.4-BETA6-163?classifier=sources
+- pkg:maven/org.restcomm/restcomm-android-sdk@1.0.4-BETA6-163?type=aar
+- pkg:maven/org.restcomm/restcomm-android-sdk@1.0.4-BETA7-163?classifier=sources
+- pkg:maven/org.restcomm/restcomm-android-sdk@1.0.4-BETA7-163?type=aar
+- pkg:maven/org.restcomm/restcomm-android-sdk@1.0.5-BETA7-171?classifier=sources
+- pkg:maven/org.restcomm/restcomm-android-sdk@1.0.5-BETA7-171?type=aar
+- pkg:maven/org.restcomm/restcomm-android-sdk@1.0.5-BETA7-174?classifier=sources
+- pkg:maven/org.restcomm/restcomm-android-sdk@1.0.5-BETA7-174?type=aar

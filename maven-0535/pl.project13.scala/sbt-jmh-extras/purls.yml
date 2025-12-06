@@ -24,3 +24,11 @@
 - pkg:maven/pl.project13.scala/sbt-jmh-extras@0.2.24?classifier=sources
 - pkg:maven/pl.project13.scala/sbt-jmh-extras@0.2.25
 - pkg:maven/pl.project13.scala/sbt-jmh-extras@0.2.25?classifier=sources
+- pkg:maven/pl.project13.scala/sbt-jmh-extras@0.2.26
+- pkg:maven/pl.project13.scala/sbt-jmh-extras@0.2.26?classifier=sources
+- pkg:maven/pl.project13.scala/sbt-jmh-extras@0.2.27
+- pkg:maven/pl.project13.scala/sbt-jmh-extras@0.2.27?classifier=sources
+- pkg:maven/pl.project13.scala/sbt-jmh-extras@0.3.0
+- pkg:maven/pl.project13.scala/sbt-jmh-extras@0.3.0?classifier=sources
+- pkg:maven/pl.project13.scala/sbt-jmh-extras@0.3.1
+- pkg:maven/pl.project13.scala/sbt-jmh-extras@0.3.1?classifier=sources

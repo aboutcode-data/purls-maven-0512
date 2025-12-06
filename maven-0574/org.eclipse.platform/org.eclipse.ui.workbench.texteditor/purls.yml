@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench.texteditor@3.10.1
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench.texteditor@3.10.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench.texteditor@3.10.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench.texteditor@3.10.1?classifier=sources

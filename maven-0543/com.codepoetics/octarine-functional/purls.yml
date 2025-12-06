@@ -12,5 +12,9 @@
 - pkg:maven/com.codepoetics/octarine-functional@0.15?classifier=sources
 - pkg:maven/com.codepoetics/octarine-functional@0.16
 - pkg:maven/com.codepoetics/octarine-functional@0.16?classifier=sources
+- pkg:maven/com.codepoetics/octarine-functional@0.17
+- pkg:maven/com.codepoetics/octarine-functional@0.17?classifier=sources
+- pkg:maven/com.codepoetics/octarine-functional@0.18
+- pkg:maven/com.codepoetics/octarine-functional@0.18?classifier=sources
 - pkg:maven/com.codepoetics/octarine-functional@0.9
 - pkg:maven/com.codepoetics/octarine-functional@0.9?classifier=sources

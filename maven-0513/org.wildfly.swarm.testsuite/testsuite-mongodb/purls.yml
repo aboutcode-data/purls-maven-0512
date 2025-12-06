@@ -1,0 +1,8 @@
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-mongodb@2012.12.0
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-mongodb@2012.12.0?classifier=sources
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-mongodb@2017.11.0
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-mongodb@2017.11.0?classifier=sources
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-mongodb@2017.12.0
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-mongodb@2017.12.0?classifier=sources
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-mongodb@2017.12.1
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-mongodb@2017.12.1?classifier=sources

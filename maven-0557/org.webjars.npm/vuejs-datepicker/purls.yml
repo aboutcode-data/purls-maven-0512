@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/vuejs-datepicker@0.4.6
 - pkg:maven/org.webjars.npm/vuejs-datepicker@0.4.6?classifier=sources
+- pkg:maven/org.webjars.npm/vuejs-datepicker@0.9.20
+- pkg:maven/org.webjars.npm/vuejs-datepicker@0.9.20?classifier=sources

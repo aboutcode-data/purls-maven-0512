@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.karaf.cellar/apache-karaf-cellar@4.0.4?classifier=src&type=zip
 - pkg:maven/org.apache.karaf.cellar/apache-karaf-cellar@4.1.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.karaf.cellar/apache-karaf-cellar@4.1.0?classifier=src&type=zip
+- pkg:maven/org.apache.karaf.cellar/apache-karaf-cellar@4.1.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.karaf.cellar/apache-karaf-cellar@4.1.1?classifier=src&type=zip

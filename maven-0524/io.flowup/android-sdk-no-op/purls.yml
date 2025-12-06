@@ -19,3 +19,4 @@
 - pkg:maven/io.flowup/android-sdk-no-op@0.2.6?type=aar
 - pkg:maven/io.flowup/android-sdk-no-op@0.2.7?type=aar
 - pkg:maven/io.flowup/android-sdk-no-op@0.3.0?type=aar
+- pkg:maven/io.flowup/android-sdk-no-op@1.0.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.whisk/finagle-postgres_2.12@0.4.3-finagle7
+- pkg:maven/com.whisk/finagle-postgres_2.12@0.4.3-finagle7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.isarnproject/isarn-scalatest_2.10@0.0.2
+- pkg:maven/org.isarnproject/isarn-scalatest_2.10@0.0.2?classifier=sources

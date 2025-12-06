@@ -1,0 +1,8 @@
+- pkg:maven/com.typesafe.play/sbt-routes-compiler_2.12@2.6.6
+- pkg:maven/com.typesafe.play/sbt-routes-compiler_2.12@2.6.6?classifier=sources
+- pkg:maven/com.typesafe.play/sbt-routes-compiler_2.12@2.6.7
+- pkg:maven/com.typesafe.play/sbt-routes-compiler_2.12@2.6.7?classifier=sources
+- pkg:maven/com.typesafe.play/sbt-routes-compiler_2.12@2.6.8
+- pkg:maven/com.typesafe.play/sbt-routes-compiler_2.12@2.6.8?classifier=sources
+- pkg:maven/com.typesafe.play/sbt-routes-compiler_2.12@2.6.9
+- pkg:maven/com.typesafe.play/sbt-routes-compiler_2.12@2.6.9?classifier=sources

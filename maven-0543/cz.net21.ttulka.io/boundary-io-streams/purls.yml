@@ -1,0 +1,6 @@
+- pkg:maven/cz.net21.ttulka.io/boundary-io-streams@1.0.0
+- pkg:maven/cz.net21.ttulka.io/boundary-io-streams@1.0.0?classifier=sources
+- pkg:maven/cz.net21.ttulka.io/boundary-io-streams@1.1.0
+- pkg:maven/cz.net21.ttulka.io/boundary-io-streams@1.1.0?classifier=sources
+- pkg:maven/cz.net21.ttulka.io/boundary-io-streams@1.2.0
+- pkg:maven/cz.net21.ttulka.io/boundary-io-streams@1.2.0?classifier=sources

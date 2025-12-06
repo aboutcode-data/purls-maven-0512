@@ -1,0 +1,4 @@
+- pkg:maven/com.github.cafdataprocessing/data-processing-family-task-submitter@1.2.0-49
+- pkg:maven/com.github.cafdataprocessing/data-processing-family-task-submitter@1.2.0-49?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/data-processing-family-task-submitter@1.3.0-70
+- pkg:maven/com.github.cafdataprocessing/data-processing-family-task-submitter@1.3.0-70?classifier=sources

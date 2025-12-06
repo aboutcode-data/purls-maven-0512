@@ -1,0 +1,2 @@
+- pkg:maven/de.unistuttgart.ims/sequence-alignment@1.0.0
+- pkg:maven/de.unistuttgart.ims/sequence-alignment@1.0.0?classifier=sources

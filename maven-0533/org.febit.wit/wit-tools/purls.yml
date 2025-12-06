@@ -1,0 +1,10 @@
+- pkg:maven/org.febit.wit/wit-tools@2.0.0-beta
+- pkg:maven/org.febit.wit/wit-tools@2.0.0-beta?classifier=sources
+- pkg:maven/org.febit.wit/wit-tools@2.1.0-beta
+- pkg:maven/org.febit.wit/wit-tools@2.1.0-beta?classifier=sources
+- pkg:maven/org.febit.wit/wit-tools@2.2.0-beta
+- pkg:maven/org.febit.wit/wit-tools@2.2.0-beta?classifier=sources
+- pkg:maven/org.febit.wit/wit-tools@2.3.0-beta
+- pkg:maven/org.febit.wit/wit-tools@2.3.0-beta?classifier=sources
+- pkg:maven/org.febit.wit/wit-tools@2.4.0-beta
+- pkg:maven/org.febit.wit/wit-tools@2.4.0-beta?classifier=sources

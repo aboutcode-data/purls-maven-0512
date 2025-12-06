@@ -16,3 +16,7 @@
 - pkg:maven/com.madgag/util-intervals@1.28?classifier=sources
 - pkg:maven/com.madgag/util-intervals@1.33
 - pkg:maven/com.madgag/util-intervals@1.33?classifier=sources
+- pkg:maven/com.madgag/util-intervals@1.34
+- pkg:maven/com.madgag/util-intervals@1.34?classifier=sources
+- pkg:maven/com.madgag/util-intervals@1.35
+- pkg:maven/com.madgag/util-intervals@1.35?classifier=sources

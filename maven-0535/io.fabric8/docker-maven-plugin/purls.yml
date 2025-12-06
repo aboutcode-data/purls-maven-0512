@@ -43,3 +43,9 @@
 - pkg:maven/io.fabric8/docker-maven-plugin@0.20.2?classifier=sources
 - pkg:maven/io.fabric8/docker-maven-plugin@0.21.0
 - pkg:maven/io.fabric8/docker-maven-plugin@0.21.0?classifier=sources
+- pkg:maven/io.fabric8/docker-maven-plugin@0.22.0
+- pkg:maven/io.fabric8/docker-maven-plugin@0.22.0?classifier=sources
+- pkg:maven/io.fabric8/docker-maven-plugin@0.22.1
+- pkg:maven/io.fabric8/docker-maven-plugin@0.22.1?classifier=sources
+- pkg:maven/io.fabric8/docker-maven-plugin@0.23.0
+- pkg:maven/io.fabric8/docker-maven-plugin@0.23.0?classifier=sources

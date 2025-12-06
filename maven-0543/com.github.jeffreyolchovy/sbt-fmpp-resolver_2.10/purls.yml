@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jeffreyolchovy/sbt-fmpp-resolver_2.10@0.1.1
+- pkg:maven/com.github.jeffreyolchovy/sbt-fmpp-resolver_2.10@0.1.1?classifier=sources

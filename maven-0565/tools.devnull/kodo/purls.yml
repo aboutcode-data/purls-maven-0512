@@ -26,3 +26,13 @@
 - pkg:maven/tools.devnull/kodo@3.2.0?classifier=sources
 - pkg:maven/tools.devnull/kodo@3.3.0
 - pkg:maven/tools.devnull/kodo@3.3.0?classifier=sources
+- pkg:maven/tools.devnull/kodo@3.4.0
+- pkg:maven/tools.devnull/kodo@3.4.0?classifier=sources
+- pkg:maven/tools.devnull/kodo@3.4.1
+- pkg:maven/tools.devnull/kodo@3.4.1?classifier=sources
+- pkg:maven/tools.devnull/kodo@3.5.0
+- pkg:maven/tools.devnull/kodo@3.5.0?classifier=sources
+- pkg:maven/tools.devnull/kodo@3.5.1
+- pkg:maven/tools.devnull/kodo@3.5.1?classifier=sources
+- pkg:maven/tools.devnull/kodo@3.5.2
+- pkg:maven/tools.devnull/kodo@3.5.2?classifier=sources

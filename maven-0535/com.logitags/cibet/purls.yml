@@ -25,6 +25,10 @@
 - pkg:maven/com.logitags/cibet@1.8
 - pkg:maven/com.logitags/cibet@1.8.1
 - pkg:maven/com.logitags/cibet@1.8.1?classifier=sources
+- pkg:maven/com.logitags/cibet@1.8.2
+- pkg:maven/com.logitags/cibet@1.8.2?classifier=sources
 - pkg:maven/com.logitags/cibet@1.8?classifier=sources
 - pkg:maven/com.logitags/cibet@1.9
 - pkg:maven/com.logitags/cibet@1.9?classifier=sources
+- pkg:maven/com.logitags/cibet@2.0?classifier=sources
+- pkg:maven/com.logitags/cibet@2.1?classifier=sources

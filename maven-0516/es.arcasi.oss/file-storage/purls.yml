@@ -4,3 +4,5 @@
 - pkg:maven/es.arcasi.oss/file-storage@0.02.001?classifier=sources
 - pkg:maven/es.arcasi.oss/file-storage@0.02.002
 - pkg:maven/es.arcasi.oss/file-storage@0.02.002?classifier=sources
+- pkg:maven/es.arcasi.oss/file-storage@0.02.004
+- pkg:maven/es.arcasi.oss/file-storage@0.02.004?classifier=sources

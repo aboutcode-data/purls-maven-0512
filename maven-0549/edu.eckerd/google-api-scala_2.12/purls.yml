@@ -1,2 +1,4 @@
 - pkg:maven/edu.eckerd/google-api-scala_2.12@0.1.0
 - pkg:maven/edu.eckerd/google-api-scala_2.12@0.1.0?classifier=sources
+- pkg:maven/edu.eckerd/google-api-scala_2.12@0.1.1
+- pkg:maven/edu.eckerd/google-api-scala_2.12@0.1.1?classifier=sources

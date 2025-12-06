@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lujinfeifly/freejava@0.0.2
+- pkg:maven/com.github.lujinfeifly/freejava@0.0.2?classifier=sources

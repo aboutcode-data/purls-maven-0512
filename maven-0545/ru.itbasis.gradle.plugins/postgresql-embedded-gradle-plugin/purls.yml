@@ -1,0 +1,4 @@
+- pkg:maven/ru.itbasis.gradle.plugins/postgresql-embedded-gradle-plugin@2.1
+- pkg:maven/ru.itbasis.gradle.plugins/postgresql-embedded-gradle-plugin@2.1.1
+- pkg:maven/ru.itbasis.gradle.plugins/postgresql-embedded-gradle-plugin@2.1.1?classifier=sources
+- pkg:maven/ru.itbasis.gradle.plugins/postgresql-embedded-gradle-plugin@2.1?classifier=sources

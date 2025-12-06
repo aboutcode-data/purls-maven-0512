@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/babel-plugin-transform-object-rest-spread@6.26.0
+- pkg:maven/org.webjars.npm/babel-plugin-transform-object-rest-spread@6.26.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-plugin-transform-object-rest-spread@6.3.13
 - pkg:maven/org.webjars.npm/babel-plugin-transform-object-rest-spread@6.3.13?classifier=sources

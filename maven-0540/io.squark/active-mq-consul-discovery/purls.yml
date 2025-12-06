@@ -1,0 +1,4 @@
+- pkg:maven/io.squark/active-mq-consul-discovery@0.0.4
+- pkg:maven/io.squark/active-mq-consul-discovery@0.0.4?classifier=sources
+- pkg:maven/io.squark/active-mq-consul-discovery@0.0.5
+- pkg:maven/io.squark/active-mq-consul-discovery@0.0.5?classifier=sources

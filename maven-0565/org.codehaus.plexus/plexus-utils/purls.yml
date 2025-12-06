@@ -126,3 +126,5 @@
 - pkg:maven/org.codehaus.plexus/plexus-utils@3.0.9
 - pkg:maven/org.codehaus.plexus/plexus-utils@3.0.9?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-utils@3.0?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-utils@3.1.0
+- pkg:maven/org.codehaus.plexus/plexus-utils@3.1.0?classifier=sources

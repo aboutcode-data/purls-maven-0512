@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.extension.siddhi.devicegroup@4.0.91
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.extension.siddhi.devicegroup@4.0.91?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.extension.siddhi.devicegroup@4.0.92
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.extension.siddhi.devicegroup@4.0.92?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.extension.siddhi.devicegroup@4.0.93
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.extension.siddhi.devicegroup@4.0.93?classifier=source-release&type=zip

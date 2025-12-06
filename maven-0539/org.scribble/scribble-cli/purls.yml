@@ -1,0 +1,4 @@
+- pkg:maven/org.scribble/scribble-cli@0.4.2
+- pkg:maven/org.scribble/scribble-cli@0.4.2?classifier=sources
+- pkg:maven/org.scribble/scribble-cli@0.4.3
+- pkg:maven/org.scribble/scribble-cli@0.4.3?classifier=sources

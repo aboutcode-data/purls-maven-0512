@@ -1,0 +1,2 @@
+- pkg:maven/org.wicketstuff/wicket-datetime@8.0.0-M8
+- pkg:maven/org.wicketstuff/wicket-datetime@8.0.0-M8?classifier=sources

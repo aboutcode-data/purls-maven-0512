@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.carbon/carbon-kernel@5.2.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon/carbon-kernel@5.2.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon/carbon-kernel@5.2.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon/carbon-kernel@5.2.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon/carbon-kernel@5.2.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon/carbon-kernel@5.2.6?classifier=source-release&type=zip

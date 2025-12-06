@@ -6,3 +6,5 @@
 - pkg:maven/eu.freme-project.bservices.filters/postprocessing@1.1?classifier=sources
 - pkg:maven/eu.freme-project.bservices.filters/postprocessing@1.2
 - pkg:maven/eu.freme-project.bservices.filters/postprocessing@1.2?classifier=sources
+- pkg:maven/eu.freme-project.bservices.filters/postprocessing@1.4
+- pkg:maven/eu.freme-project.bservices.filters/postprocessing@1.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.appng/appng-appngizer@1.14.1?classifier=sources
+- pkg:maven/org.appng/appng-appngizer@1.14.1?type=war
+- pkg:maven/org.appng/appng-appngizer@1.14.4?classifier=sources
+- pkg:maven/org.appng/appng-appngizer@1.14.4?type=war
+- pkg:maven/org.appng/appng-appngizer@1.15.0?classifier=sources
+- pkg:maven/org.appng/appng-appngizer@1.15.0?type=war

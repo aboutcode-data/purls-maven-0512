@@ -1,0 +1,2 @@
+- pkg:maven/net.bingosoft.oss/linksdk@1.0.0?classifier=sources
+- pkg:maven/net.bingosoft.oss/linksdk@1.0.0?type=aar

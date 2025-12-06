@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/source-map-url@0.4.0
+- pkg:maven/org.webjars.npm/source-map-url@0.4.0?classifier=sources

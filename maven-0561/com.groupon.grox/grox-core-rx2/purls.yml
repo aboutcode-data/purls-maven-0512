@@ -1,0 +1,2 @@
+- pkg:maven/com.groupon.grox/grox-core-rx2@1.1.1
+- pkg:maven/com.groupon.grox/grox-core-rx2@1.1.1?classifier=sources

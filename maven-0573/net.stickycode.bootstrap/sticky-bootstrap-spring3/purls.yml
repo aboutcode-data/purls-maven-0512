@@ -8,3 +8,5 @@
 - pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-spring3@3.4?classifier=sources
 - pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-spring3@3.5
 - pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-spring3@3.5?classifier=sources
+- pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-spring3@3.6
+- pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-spring3@3.6?classifier=sources

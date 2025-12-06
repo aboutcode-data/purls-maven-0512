@@ -6,3 +6,4 @@
 - pkg:maven/org.entando.entando/entando-archetype-portal-generic@3.2.0-01?classifier=sources
 - pkg:maven/org.entando.entando/entando-archetype-portal-generic@3.2.0?classifier=sources
 - pkg:maven/org.entando.entando/entando-archetype-portal-generic@4.0.0?classifier=sources
+- pkg:maven/org.entando.entando/entando-archetype-portal-generic@4.3.1?classifier=sources

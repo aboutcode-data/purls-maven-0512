@@ -1,2 +1,12 @@
+- pkg:maven/de.adorsys/hbci4j-adorsys@3.0.12
+- pkg:maven/de.adorsys/hbci4j-adorsys@3.0.12?classifier=sources
+- pkg:maven/de.adorsys/hbci4j-adorsys@3.0.13
+- pkg:maven/de.adorsys/hbci4j-adorsys@3.0.13?classifier=sources
+- pkg:maven/de.adorsys/hbci4j-adorsys@3.0.14
+- pkg:maven/de.adorsys/hbci4j-adorsys@3.0.14?classifier=sources
+- pkg:maven/de.adorsys/hbci4j-adorsys@3.0.15
+- pkg:maven/de.adorsys/hbci4j-adorsys@3.0.15?classifier=sources
+- pkg:maven/de.adorsys/hbci4j-adorsys@3.0.16
+- pkg:maven/de.adorsys/hbci4j-adorsys@3.0.16?classifier=sources
 - pkg:maven/de.adorsys/hbci4j-adorsys@3.0.9
 - pkg:maven/de.adorsys/hbci4j-adorsys@3.0.9?classifier=sources

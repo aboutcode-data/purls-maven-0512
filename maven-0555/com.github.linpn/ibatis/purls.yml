@@ -1,2 +1,4 @@
 - pkg:maven/com.github.linpn/ibatis@2.3.8
 - pkg:maven/com.github.linpn/ibatis@2.3.8?classifier=sources
+- pkg:maven/com.github.linpn/ibatis@2.3.9
+- pkg:maven/com.github.linpn/ibatis@2.3.9?classifier=sources

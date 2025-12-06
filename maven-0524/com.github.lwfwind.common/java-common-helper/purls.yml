@@ -33,3 +33,5 @@
 - pkg:maven/com.github.lwfwind.common/java-common-helper@2.6?classifier=sources
 - pkg:maven/com.github.lwfwind.common/java-common-helper@2.7
 - pkg:maven/com.github.lwfwind.common/java-common-helper@2.7?classifier=sources
+- pkg:maven/com.github.lwfwind.common/java-common-helper@2.8
+- pkg:maven/com.github.lwfwind.common/java-common-helper@2.8?classifier=sources

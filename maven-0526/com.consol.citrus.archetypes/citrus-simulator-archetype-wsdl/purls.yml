@@ -1,0 +1,2 @@
+- pkg:maven/com.consol.citrus.archetypes/citrus-simulator-archetype-wsdl@1.0.0
+- pkg:maven/com.consol.citrus.archetypes/citrus-simulator-archetype-wsdl@1.0.0?classifier=sources

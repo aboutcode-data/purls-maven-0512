@@ -4,3 +4,9 @@
 - pkg:maven/ru.finnetrolle/business-logic-validation@0.2.0?classifier=sources
 - pkg:maven/ru.finnetrolle/business-logic-validation@0.2.1
 - pkg:maven/ru.finnetrolle/business-logic-validation@0.2.1?classifier=sources
+- pkg:maven/ru.finnetrolle/business-logic-validation@0.3.0
+- pkg:maven/ru.finnetrolle/business-logic-validation@0.3.0?classifier=sources
+- pkg:maven/ru.finnetrolle/business-logic-validation@0.3.1
+- pkg:maven/ru.finnetrolle/business-logic-validation@0.3.1?classifier=sources
+- pkg:maven/ru.finnetrolle/business-logic-validation@0.4.0
+- pkg:maven/ru.finnetrolle/business-logic-validation@0.4.0?classifier=sources

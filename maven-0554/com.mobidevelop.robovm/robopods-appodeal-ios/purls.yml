@@ -1,0 +1,2 @@
+- pkg:maven/com.mobidevelop.robovm/robopods-appodeal-ios@2.2.2
+- pkg:maven/com.mobidevelop.robovm/robopods-appodeal-ios@2.2.2?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/org.gearvrf/sceneserializer@3.1.1?type=aar
 - pkg:maven/org.gearvrf/sceneserializer@3.2?classifier=sources
 - pkg:maven/org.gearvrf/sceneserializer@3.2?type=aar
+- pkg:maven/org.gearvrf/sceneserializer@3.3.0?classifier=sources
+- pkg:maven/org.gearvrf/sceneserializer@3.3.0?type=aar
+- pkg:maven/org.gearvrf/sceneserializer@4.0.0?classifier=sources
+- pkg:maven/org.gearvrf/sceneserializer@4.0.0?type=aar

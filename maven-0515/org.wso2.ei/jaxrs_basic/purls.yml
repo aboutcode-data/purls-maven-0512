@@ -1,0 +1,14 @@
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update10?classifier=sources
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update10?type=war
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update11?classifier=sources
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update11?type=war
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update12?classifier=sources
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update12?type=war
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update13?classifier=sources
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update13?type=war
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update6?classifier=sources
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update6?type=war
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update8?classifier=sources
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update8?type=war
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update9?classifier=sources
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.1.1-update9?type=war

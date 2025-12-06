@@ -1,0 +1,6 @@
+- pkg:maven/com.yopeso/jacoco-coverage@0.1.0
+- pkg:maven/com.yopeso/jacoco-coverage@0.1.0-SNAPHOT
+- pkg:maven/com.yopeso/jacoco-coverage@0.1.0-SNAPHOT?classifier=sources
+- pkg:maven/com.yopeso/jacoco-coverage@0.1.0?classifier=sources
+- pkg:maven/com.yopeso/jacoco-coverage@0.2.0
+- pkg:maven/com.yopeso/jacoco-coverage@0.2.0?classifier=sources

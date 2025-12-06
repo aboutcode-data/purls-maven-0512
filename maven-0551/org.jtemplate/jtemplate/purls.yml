@@ -1,0 +1,4 @@
+- pkg:maven/org.jtemplate/jtemplate@1.7.6
+- pkg:maven/org.jtemplate/jtemplate@1.7.6?classifier=sources
+- pkg:maven/org.jtemplate/jtemplate@1.8
+- pkg:maven/org.jtemplate/jtemplate@1.8?classifier=sources

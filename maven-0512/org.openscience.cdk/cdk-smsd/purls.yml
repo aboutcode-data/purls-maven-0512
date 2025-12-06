@@ -9,3 +9,5 @@
 - pkg:maven/org.openscience.cdk/cdk-smsd@1.5.14
 - pkg:maven/org.openscience.cdk/cdk-smsd@1.5.14?classifier=sources
 - pkg:maven/org.openscience.cdk/cdk-smsd@1.5.15
+- pkg:maven/org.openscience.cdk/cdk-smsd@2.0
+- pkg:maven/org.openscience.cdk/cdk-smsd@2.1

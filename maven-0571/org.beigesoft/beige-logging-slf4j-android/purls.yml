@@ -1,0 +1,2 @@
+- pkg:maven/org.beigesoft/beige-logging-slf4j-android@1.0.0
+- pkg:maven/org.beigesoft/beige-logging-slf4j-android@1.0.0?classifier=sources

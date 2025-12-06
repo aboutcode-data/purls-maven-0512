@@ -2,4 +2,5 @@
 - pkg:maven/org.webjars/bootstrap-material-design@0.2.2
 - pkg:maven/org.webjars/bootstrap-material-design@0.3.0
 - pkg:maven/org.webjars/bootstrap-material-design@0.5.9
+- pkg:maven/org.webjars/bootstrap-material-design@4.0.0-beta.3
 - pkg:maven/org.webjars/bootstrap-material-design@4.0.2

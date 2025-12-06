@@ -1,0 +1,4 @@
+- pkg:maven/com.okta.spring.examples/okta-spring-boot-siw-jquery-example@0.1.0
+- pkg:maven/com.okta.spring.examples/okta-spring-boot-siw-jquery-example@0.1.0?classifier=sources
+- pkg:maven/com.okta.spring.examples/okta-spring-boot-siw-jquery-example@0.2.0
+- pkg:maven/com.okta.spring.examples/okta-spring-boot-siw-jquery-example@0.2.0?classifier=sources

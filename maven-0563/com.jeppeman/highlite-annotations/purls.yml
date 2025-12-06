@@ -1,0 +1,2 @@
+- pkg:maven/com.jeppeman/highlite-annotations@1.0-beta1
+- pkg:maven/com.jeppeman/highlite-annotations@1.0-beta1?classifier=sources

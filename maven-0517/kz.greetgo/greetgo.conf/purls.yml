@@ -1,0 +1,4 @@
+- pkg:maven/kz.greetgo/greetgo.conf@0.1.4.0
+- pkg:maven/kz.greetgo/greetgo.conf@0.1.4.0?classifier=sources
+- pkg:maven/kz.greetgo/greetgo.conf@0.1.5
+- pkg:maven/kz.greetgo/greetgo.conf@0.1.5?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/nl.knaw.meertens.mtas/mtas@7.0.1.0
+- pkg:maven/nl.knaw.meertens.mtas/mtas@7.0.1.0?classifier=sources
+- pkg:maven/nl.knaw.meertens.mtas/mtas@7.0.1.1
+- pkg:maven/nl.knaw.meertens.mtas/mtas@7.0.1.1?classifier=sources
+- pkg:maven/nl.knaw.meertens.mtas/mtas@7.0.1.2
+- pkg:maven/nl.knaw.meertens.mtas/mtas@7.0.1.2?classifier=sources
+- pkg:maven/nl.knaw.meertens.mtas/mtas@7.1.0.0
+- pkg:maven/nl.knaw.meertens.mtas/mtas@7.1.0.0?classifier=sources
+- pkg:maven/nl.knaw.meertens.mtas/mtas@7.1.0.1
+- pkg:maven/nl.knaw.meertens.mtas/mtas@7.1.0.1?classifier=sources
+- pkg:maven/nl.knaw.meertens.mtas/mtas@7.1.0.2
+- pkg:maven/nl.knaw.meertens.mtas/mtas@7.1.0.2?classifier=sources

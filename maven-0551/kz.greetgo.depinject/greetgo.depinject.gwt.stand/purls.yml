@@ -1,0 +1,2 @@
+- pkg:maven/kz.greetgo.depinject/greetgo.depinject.gwt.stand@1.1.4
+- pkg:maven/kz.greetgo.depinject/greetgo.depinject.gwt.stand@1.1.4?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.servicemix.specs/apache-servicemix-specs@2.7.0?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.specs/apache-servicemix-specs@2.8.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.specs/apache-servicemix-specs@2.8.0?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.specs/apache-servicemix-specs@2.9.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.specs/apache-servicemix-specs@2.9.0?classifier=src&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/com.andreidemus.http-kit/http-kit@0.0.1
+- pkg:maven/com.andreidemus.http-kit/http-kit@0.0.1?classifier=sources

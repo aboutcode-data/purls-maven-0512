@@ -4,3 +4,5 @@
 - pkg:maven/com.azurenight.maven/troposphere-maven-plugin@0.8.8?classifier=sources
 - pkg:maven/com.azurenight.maven/troposphere-maven-plugin@0.8.9
 - pkg:maven/com.azurenight.maven/troposphere-maven-plugin@0.8.9?classifier=sources
+- pkg:maven/com.azurenight.maven/troposphere-maven-plugin@1.0.0
+- pkg:maven/com.azurenight.maven/troposphere-maven-plugin@1.0.0?classifier=sources

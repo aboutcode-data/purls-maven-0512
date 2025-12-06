@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/ortc-adapter@0.1.6
+- pkg:maven/org.webjars.bower/ortc-adapter@0.1.6?classifier=sources

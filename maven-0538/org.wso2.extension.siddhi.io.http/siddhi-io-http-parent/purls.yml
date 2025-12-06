@@ -1,0 +1,12 @@
+- pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.0.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.0.11?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.0.12?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.0.13?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.0.14?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.0.15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.0.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.0.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.0.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.0.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.0.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.0.8?classifier=source-release&type=zip

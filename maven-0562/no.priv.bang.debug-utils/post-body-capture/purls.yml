@@ -1,0 +1,2 @@
+- pkg:maven/no.priv.bang.debug-utils/post-body-capture@1.0.3
+- pkg:maven/no.priv.bang.debug-utils/post-body-capture@1.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.bluelinelabs/conductor-archlifecycle@0.1.1?classifier=sources
+- pkg:maven/com.bluelinelabs/conductor-archlifecycle@0.1.1?type=aar

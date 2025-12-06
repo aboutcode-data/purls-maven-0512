@@ -18,3 +18,5 @@
 - pkg:maven/com.github.ryanholdren.typesafesql/tests@2017-04-13?classifier=sources
 - pkg:maven/com.github.ryanholdren.typesafesql/tests@2017-05-11
 - pkg:maven/com.github.ryanholdren.typesafesql/tests@2017-05-11?classifier=sources
+- pkg:maven/com.github.ryanholdren.typesafesql/tests@2017-05-20
+- pkg:maven/com.github.ryanholdren.typesafesql/tests@2017-05-20?classifier=sources

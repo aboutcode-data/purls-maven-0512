@@ -110,3 +110,17 @@
 - pkg:maven/com.ahome-it/lienzo-core@2.0.286-RELEASE?classifier=sources
 - pkg:maven/com.ahome-it/lienzo-core@2.0.287-RELEASE
 - pkg:maven/com.ahome-it/lienzo-core@2.0.287-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/lienzo-core@2.0.288-RELEASE
+- pkg:maven/com.ahome-it/lienzo-core@2.0.288-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/lienzo-core@2.0.289-RELEASE
+- pkg:maven/com.ahome-it/lienzo-core@2.0.289-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/lienzo-core@2.0.290-RELEASE
+- pkg:maven/com.ahome-it/lienzo-core@2.0.290-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/lienzo-core@2.0.291-RELEASE
+- pkg:maven/com.ahome-it/lienzo-core@2.0.291-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/lienzo-core@2.0.292-RELEASE
+- pkg:maven/com.ahome-it/lienzo-core@2.0.292-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/lienzo-core@2.0.293-RELEASE
+- pkg:maven/com.ahome-it/lienzo-core@2.0.293-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/lienzo-core@2.0.294-RELEASE
+- pkg:maven/com.ahome-it/lienzo-core@2.0.294-RELEASE?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.facebook.keyframes/keyframes@1.0?classifier=sources
 - pkg:maven/com.facebook.keyframes/keyframes@1.0?type=aar
+- pkg:maven/com.facebook.keyframes/keyframes@1.1.0?classifier=sources
+- pkg:maven/com.facebook.keyframes/keyframes@1.1.0?type=aar

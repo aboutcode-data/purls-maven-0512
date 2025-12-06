@@ -1,0 +1,2 @@
+- pkg:maven/com.circuitwall.ml/platform-spark@1.2.0
+- pkg:maven/com.circuitwall.ml/platform-spark@1.2.0?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/ml.combust.mleap/mleap-spark-testkit_2.10@0.6.0?classifier=sources
 - pkg:maven/ml.combust.mleap/mleap-spark-testkit_2.10@0.7.0
 - pkg:maven/ml.combust.mleap/mleap-spark-testkit_2.10@0.7.0?classifier=sources
+- pkg:maven/ml.combust.mleap/mleap-spark-testkit_2.10@0.8.0
+- pkg:maven/ml.combust.mleap/mleap-spark-testkit_2.10@0.8.0?classifier=sources
+- pkg:maven/ml.combust.mleap/mleap-spark-testkit_2.10@0.8.1
+- pkg:maven/ml.combust.mleap/mleap-spark-testkit_2.10@0.8.1?classifier=sources

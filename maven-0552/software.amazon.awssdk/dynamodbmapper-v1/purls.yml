@@ -1,0 +1,5 @@
+- pkg:maven/software.amazon.awssdk/dynamodbmapper-v1@2.0.0-preview-3
+- pkg:maven/software.amazon.awssdk/dynamodbmapper-v1@2.0.0-preview-4
+- pkg:maven/software.amazon.awssdk/dynamodbmapper-v1@2.0.0-preview-5
+- pkg:maven/software.amazon.awssdk/dynamodbmapper-v1@2.0.0-preview-6
+- pkg:maven/software.amazon.awssdk/dynamodbmapper-v1@2.0.0-preview-7

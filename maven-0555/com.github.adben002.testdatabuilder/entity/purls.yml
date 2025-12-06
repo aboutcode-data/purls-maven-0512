@@ -1,2 +1,3 @@
 - pkg:maven/com.github.adben002.testdatabuilder/entity@1.0
 - pkg:maven/com.github.adben002.testdatabuilder/entity@1.0?classifier=sources
+- pkg:maven/com.github.adben002.testdatabuilder/entity@2.0?classifier=sources

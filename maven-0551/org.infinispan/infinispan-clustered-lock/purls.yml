@@ -1,0 +1,2 @@
+- pkg:maven/org.infinispan/infinispan-clustered-lock@9.2.0.Beta1
+- pkg:maven/org.infinispan/infinispan-clustered-lock@9.2.0.Beta1?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.bower/angular-latest@1.5.0?classifier=sources
 - pkg:maven/org.webjars.bower/angular-latest@1.5.5
 - pkg:maven/org.webjars.bower/angular-latest@1.5.5?classifier=sources
+- pkg:maven/org.webjars.bower/angular-latest@1.6.4
+- pkg:maven/org.webjars.bower/angular-latest@1.6.4?classifier=sources

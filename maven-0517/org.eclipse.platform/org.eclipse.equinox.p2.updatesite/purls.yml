@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.updatesite@1.0.600
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.updatesite@1.0.600?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.updatesite@1.0.601
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.updatesite@1.0.601?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/uk.ac.ox.micron/SIMcheck@0.9.9?classifier=sources
 - pkg:maven/uk.ac.ox.micron/SIMcheck@1.0.0
 - pkg:maven/uk.ac.ox.micron/SIMcheck@1.0.0?classifier=sources
+- pkg:maven/uk.ac.ox.micron/SIMcheck@1.1
+- pkg:maven/uk.ac.ox.micron/SIMcheck@1.1?classifier=sources

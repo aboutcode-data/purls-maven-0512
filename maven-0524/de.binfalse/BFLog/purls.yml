@@ -1,0 +1,4 @@
+- pkg:maven/de.binfalse/BFLog@1.3.4
+- pkg:maven/de.binfalse/BFLog@1.3.4?classifier=sources
+- pkg:maven/de.binfalse/BFLog@1.3.5
+- pkg:maven/de.binfalse/BFLog@1.3.5?classifier=sources

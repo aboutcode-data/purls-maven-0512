@@ -6,3 +6,9 @@
 - pkg:maven/org.trimou/trimou-extension-el@2.1.0.Final?classifier=sources
 - pkg:maven/org.trimou/trimou-extension-el@2.2.0.Final
 - pkg:maven/org.trimou/trimou-extension-el@2.2.0.Final?classifier=sources
+- pkg:maven/org.trimou/trimou-extension-el@2.2.1.Final
+- pkg:maven/org.trimou/trimou-extension-el@2.2.1.Final?classifier=sources
+- pkg:maven/org.trimou/trimou-extension-el@2.3.0.Final
+- pkg:maven/org.trimou/trimou-extension-el@2.3.0.Final?classifier=sources
+- pkg:maven/org.trimou/trimou-extension-el@2.4.0.Final
+- pkg:maven/org.trimou/trimou-extension-el@2.4.0.Final?classifier=sources

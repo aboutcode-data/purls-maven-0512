@@ -14,3 +14,5 @@
 - pkg:maven/org.sakaiproject.message/sakai-message-util@11.2?classifier=sources
 - pkg:maven/org.sakaiproject.message/sakai-message-util@11.3
 - pkg:maven/org.sakaiproject.message/sakai-message-util@11.3?classifier=sources
+- pkg:maven/org.sakaiproject.message/sakai-message-util@11.4
+- pkg:maven/org.sakaiproject.message/sakai-message-util@11.4?classifier=sources

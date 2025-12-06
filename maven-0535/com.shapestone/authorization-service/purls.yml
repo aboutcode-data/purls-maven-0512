@@ -1,0 +1,4 @@
+- pkg:maven/com.shapestone/authorization-service@1.0.89
+- pkg:maven/com.shapestone/authorization-service@1.0.89?classifier=sources
+- pkg:maven/com.shapestone/authorization-service@1.0.90
+- pkg:maven/com.shapestone/authorization-service@1.0.90?classifier=sources

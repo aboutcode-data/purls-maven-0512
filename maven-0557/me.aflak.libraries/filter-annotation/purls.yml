@@ -1,0 +1,2 @@
+- pkg:maven/me.aflak.libraries/filter-annotation@1.2
+- pkg:maven/me.aflak.libraries/filter-annotation@1.2?classifier=sources

@@ -22,3 +22,10 @@
 - pkg:maven/com.klinkerapps/android-smsmms@3.5.0?type=aar
 - pkg:maven/com.klinkerapps/android-smsmms@4.0.0?type=aar
 - pkg:maven/com.klinkerapps/android-smsmms@4.0.1?type=aar
+- pkg:maven/com.klinkerapps/android-smsmms@4.0.2?type=aar
+- pkg:maven/com.klinkerapps/android-smsmms@4.1.0?type=aar
+- pkg:maven/com.klinkerapps/android-smsmms@4.1.1?type=aar
+- pkg:maven/com.klinkerapps/android-smsmms@4.2.0?type=aar
+- pkg:maven/com.klinkerapps/android-smsmms@4.2.1?type=aar
+- pkg:maven/com.klinkerapps/android-smsmms@4.2.2?type=aar
+- pkg:maven/com.klinkerapps/android-smsmms@4.2.3?type=aar

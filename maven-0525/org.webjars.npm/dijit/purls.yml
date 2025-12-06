@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/dijit@1.12.2
+- pkg:maven/org.webjars.npm/dijit@1.12.2?classifier=sources
+- pkg:maven/org.webjars.npm/dijit@1.13.0
+- pkg:maven/org.webjars.npm/dijit@1.13.0?classifier=sources

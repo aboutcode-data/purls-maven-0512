@@ -20,3 +20,5 @@
 - pkg:maven/org.jacorb/jacorb-idl-compiler@3.7?classifier=sources
 - pkg:maven/org.jacorb/jacorb-idl-compiler@3.8
 - pkg:maven/org.jacorb/jacorb-idl-compiler@3.8?classifier=sources
+- pkg:maven/org.jacorb/jacorb-idl-compiler@3.9
+- pkg:maven/org.jacorb/jacorb-idl-compiler@3.9?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/com.liferay.arquillian/com.liferay.arquillian.arquillian-liferay-extension-example@1.0.4
 - pkg:maven/com.liferay.arquillian/com.liferay.arquillian.arquillian-liferay-extension-example@1.0.5
 - pkg:maven/com.liferay.arquillian/com.liferay.arquillian.arquillian-liferay-extension-example@1.0.6
+- pkg:maven/com.liferay.arquillian/com.liferay.arquillian.arquillian-liferay-extension-example@1.0.8

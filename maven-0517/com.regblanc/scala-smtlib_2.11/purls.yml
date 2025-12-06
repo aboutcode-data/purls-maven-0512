@@ -1,4 +1,6 @@
 - pkg:maven/com.regblanc/scala-smtlib_2.11@0.2
 - pkg:maven/com.regblanc/scala-smtlib_2.11@0.2.1
 - pkg:maven/com.regblanc/scala-smtlib_2.11@0.2.1?classifier=sources
+- pkg:maven/com.regblanc/scala-smtlib_2.11@0.2.2
+- pkg:maven/com.regblanc/scala-smtlib_2.11@0.2.2?classifier=sources
 - pkg:maven/com.regblanc/scala-smtlib_2.11@0.2?classifier=sources

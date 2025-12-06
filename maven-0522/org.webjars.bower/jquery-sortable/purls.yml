@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bower/jquery-sortable@0.9.12
+- pkg:maven/org.webjars.bower/jquery-sortable@0.9.12?classifier=sources
 - pkg:maven/org.webjars.bower/jquery-sortable@0.9.13
 - pkg:maven/org.webjars.bower/jquery-sortable@0.9.13?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.labun/spring-data-events@1.0.0
+- pkg:maven/org.labun/spring-data-events@1.0.0?classifier=sources
+- pkg:maven/org.labun/spring-data-events@1.0.1
+- pkg:maven/org.labun/spring-data-events@1.0.1?classifier=sources
