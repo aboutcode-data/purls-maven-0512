@@ -2,3 +2,4 @@
 - pkg:maven/org.wildfly.arquillian/elytron-standalone@2.1.0.Alpha3
 - pkg:maven/org.wildfly.arquillian/elytron-standalone@2.1.0.Beta1
 - pkg:maven/org.wildfly.arquillian/elytron-standalone@2.1.0.Final
+- pkg:maven/org.wildfly.arquillian/elytron-standalone@2.1.1.Final

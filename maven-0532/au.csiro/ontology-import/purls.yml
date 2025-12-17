@@ -14,3 +14,9 @@
 - pkg:maven/au.csiro/ontology-import@2.8.3?classifier=sources
 - pkg:maven/au.csiro/ontology-import@2.9.0
 - pkg:maven/au.csiro/ontology-import@2.9.0?classifier=sources
+- pkg:maven/au.csiro/ontology-import@3.0.0
+- pkg:maven/au.csiro/ontology-import@3.0.0?classifier=sources
+- pkg:maven/au.csiro/ontology-import@3.1.0
+- pkg:maven/au.csiro/ontology-import@3.1.0?classifier=sources
+- pkg:maven/au.csiro/ontology-import@3.1.1
+- pkg:maven/au.csiro/ontology-import@3.1.1?classifier=sources

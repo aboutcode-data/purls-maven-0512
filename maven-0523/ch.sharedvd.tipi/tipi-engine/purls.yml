@@ -5,6 +5,10 @@
 - pkg:maven/ch.sharedvd.tipi/tipi-engine@1.0.8
 - pkg:maven/ch.sharedvd.tipi/tipi-engine@1.0.8?classifier=sources
 - pkg:maven/ch.sharedvd.tipi/tipi-engine@1.1.1
+- pkg:maven/ch.sharedvd.tipi/tipi-engine@1.1.10
+- pkg:maven/ch.sharedvd.tipi/tipi-engine@1.1.10?classifier=sources
+- pkg:maven/ch.sharedvd.tipi/tipi-engine@1.1.11
+- pkg:maven/ch.sharedvd.tipi/tipi-engine@1.1.11?classifier=sources
 - pkg:maven/ch.sharedvd.tipi/tipi-engine@1.1.1?classifier=sources
 - pkg:maven/ch.sharedvd.tipi/tipi-engine@1.1.3
 - pkg:maven/ch.sharedvd.tipi/tipi-engine@1.1.3?classifier=sources
@@ -20,3 +24,5 @@
 - pkg:maven/ch.sharedvd.tipi/tipi-engine@1.1.8?classifier=sources
 - pkg:maven/ch.sharedvd.tipi/tipi-engine@1.1.9
 - pkg:maven/ch.sharedvd.tipi/tipi-engine@1.1.9?classifier=sources
+- pkg:maven/ch.sharedvd.tipi/tipi-engine@2.0.0
+- pkg:maven/ch.sharedvd.tipi/tipi-engine@2.0.0?classifier=sources

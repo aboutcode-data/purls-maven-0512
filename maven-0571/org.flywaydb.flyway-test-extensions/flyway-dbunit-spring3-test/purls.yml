@@ -24,3 +24,5 @@
 - pkg:maven/org.flywaydb.flyway-test-extensions/flyway-dbunit-spring3-test@4.2.0?classifier=sources
 - pkg:maven/org.flywaydb.flyway-test-extensions/flyway-dbunit-spring3-test@5.0.0
 - pkg:maven/org.flywaydb.flyway-test-extensions/flyway-dbunit-spring3-test@5.0.0?classifier=sources
+- pkg:maven/org.flywaydb.flyway-test-extensions/flyway-dbunit-spring3-test@5.1.0
+- pkg:maven/org.flywaydb.flyway-test-extensions/flyway-dbunit-spring3-test@5.1.0?classifier=sources

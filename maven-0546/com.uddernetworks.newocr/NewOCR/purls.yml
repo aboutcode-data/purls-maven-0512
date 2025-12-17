@@ -1,0 +1,4 @@
+- pkg:maven/com.uddernetworks.newocr/NewOCR@1.0.0
+- pkg:maven/com.uddernetworks.newocr/NewOCR@1.0.0?classifier=sources
+- pkg:maven/com.uddernetworks.newocr/NewOCR@1.0.1
+- pkg:maven/com.uddernetworks.newocr/NewOCR@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wikimedia.search/extra-analysis-esperanto@5.5.2.2?classifier=sources
+- pkg:maven/org.wikimedia.search/extra-analysis-esperanto@6.3.1.2?classifier=sources

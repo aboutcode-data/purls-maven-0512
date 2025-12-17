@@ -1,0 +1,6 @@
+- pkg:maven/org.eclipse.che.lib/org-eclipse-jdt-core-repack@6.10.0
+- pkg:maven/org.eclipse.che.lib/org-eclipse-jdt-core-repack@6.10.0?classifier=sources
+- pkg:maven/org.eclipse.che.lib/org-eclipse-jdt-core-repack@6.11.0
+- pkg:maven/org.eclipse.che.lib/org-eclipse-jdt-core-repack@6.11.0?classifier=sources
+- pkg:maven/org.eclipse.che.lib/org-eclipse-jdt-core-repack@6.12.0
+- pkg:maven/org.eclipse.che.lib/org-eclipse-jdt-core-repack@6.12.0?classifier=sources

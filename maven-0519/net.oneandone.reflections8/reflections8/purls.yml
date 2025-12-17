@@ -1,0 +1,6 @@
+- pkg:maven/net.oneandone.reflections8/reflections8@0.10.4
+- pkg:maven/net.oneandone.reflections8/reflections8@0.10.4?classifier=sources
+- pkg:maven/net.oneandone.reflections8/reflections8@0.10.5
+- pkg:maven/net.oneandone.reflections8/reflections8@0.10.5?classifier=sources
+- pkg:maven/net.oneandone.reflections8/reflections8@0.11.1
+- pkg:maven/net.oneandone.reflections8/reflections8@0.11.1?classifier=sources

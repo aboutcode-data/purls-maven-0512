@@ -34,3 +34,5 @@
 - pkg:maven/com.hannesdorfmann.fragmentargs/processor@3.0.1?classifier=sources
 - pkg:maven/com.hannesdorfmann.fragmentargs/processor@3.0.2
 - pkg:maven/com.hannesdorfmann.fragmentargs/processor@3.0.2?classifier=sources
+- pkg:maven/com.hannesdorfmann.fragmentargs/processor@4.0.0-RC1
+- pkg:maven/com.hannesdorfmann.fragmentargs/processor@4.0.0-RC1?classifier=sources

@@ -7,3 +7,5 @@
 - pkg:maven/com.cerner.beadledom/simple-service@2.7.2?classifier=sources
 - pkg:maven/com.cerner.beadledom/simple-service@2.7?classifier=sources
 - pkg:maven/com.cerner.beadledom/simple-service@2.8?classifier=sources
+- pkg:maven/com.cerner.beadledom/simple-service@3.0?classifier=sources
+- pkg:maven/com.cerner.beadledom/simple-service@3.1?classifier=sources

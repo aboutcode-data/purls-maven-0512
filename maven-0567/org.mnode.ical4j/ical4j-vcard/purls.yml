@@ -11,3 +11,5 @@
 - pkg:maven/org.mnode.ical4j/ical4j-vcard@1.0.0?classifier=sources
 - pkg:maven/org.mnode.ical4j/ical4j-vcard@1.0.1
 - pkg:maven/org.mnode.ical4j/ical4j-vcard@1.0.1?classifier=sources
+- pkg:maven/org.mnode.ical4j/ical4j-vcard@1.0.2
+- pkg:maven/org.mnode.ical4j/ical4j-vcard@1.0.2?classifier=sources

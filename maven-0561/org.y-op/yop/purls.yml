@@ -1,2 +1,8 @@
 - pkg:maven/org.y-op/yop@0.3.0
 - pkg:maven/org.y-op/yop@0.3.0?classifier=sources
+- pkg:maven/org.y-op/yop@0.4
+- pkg:maven/org.y-op/yop@0.4?classifier=sources
+- pkg:maven/org.y-op/yop@0.5.0
+- pkg:maven/org.y-op/yop@0.5.0?classifier=sources
+- pkg:maven/org.y-op/yop@0.6.0
+- pkg:maven/org.y-op/yop@0.6.0?classifier=sources

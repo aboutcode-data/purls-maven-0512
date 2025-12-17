@@ -20,3 +20,7 @@
 - pkg:maven/org.apache.jena/jena-fuseki-war@3.6.0?type=war
 - pkg:maven/org.apache.jena/jena-fuseki-war@3.7.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-fuseki-war@3.7.0?type=war
+- pkg:maven/org.apache.jena/jena-fuseki-war@3.8.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-fuseki-war@3.8.0?type=war
+- pkg:maven/org.apache.jena/jena-fuseki-war@3.9.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-fuseki-war@3.9.0?type=war

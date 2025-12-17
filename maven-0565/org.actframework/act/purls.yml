@@ -129,6 +129,8 @@
 - pkg:maven/org.actframework/act@1.8.0
 - pkg:maven/org.actframework/act@1.8.0?classifier=sources
 - pkg:maven/org.actframework/act@1.8.1
+- pkg:maven/org.actframework/act@1.8.11
+- pkg:maven/org.actframework/act@1.8.11?classifier=sources
 - pkg:maven/org.actframework/act@1.8.1?classifier=sources
 - pkg:maven/org.actframework/act@1.8.2
 - pkg:maven/org.actframework/act@1.8.2?classifier=sources
@@ -142,7 +144,12 @@
 - pkg:maven/org.actframework/act@1.8.6?classifier=sources
 - pkg:maven/org.actframework/act@1.8.7
 - pkg:maven/org.actframework/act@1.8.7?classifier=sources
+- pkg:maven/org.actframework/act@1.8.8
 - pkg:maven/org.actframework/act@1.8.8-RC1
+- pkg:maven/org.actframework/act@1.8.8-RC10
+- pkg:maven/org.actframework/act@1.8.8-RC10?classifier=sources
+- pkg:maven/org.actframework/act@1.8.8-RC11
+- pkg:maven/org.actframework/act@1.8.8-RC11?classifier=sources
 - pkg:maven/org.actframework/act@1.8.8-RC1?classifier=sources
 - pkg:maven/org.actframework/act@1.8.8-RC2
 - pkg:maven/org.actframework/act@1.8.8-RC2?classifier=sources
@@ -158,3 +165,8 @@
 - pkg:maven/org.actframework/act@1.8.8-RC7?classifier=sources
 - pkg:maven/org.actframework/act@1.8.8-RC8
 - pkg:maven/org.actframework/act@1.8.8-RC8?classifier=sources
+- pkg:maven/org.actframework/act@1.8.8-RC9
+- pkg:maven/org.actframework/act@1.8.8-RC9?classifier=sources
+- pkg:maven/org.actframework/act@1.8.8?classifier=sources
+- pkg:maven/org.actframework/act@1.8.9
+- pkg:maven/org.actframework/act@1.8.9?classifier=sources

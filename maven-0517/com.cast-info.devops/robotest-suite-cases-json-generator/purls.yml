@@ -1,0 +1,2 @@
+- pkg:maven/com.cast-info.devops/robotest-suite-cases-json-generator@2.0.0
+- pkg:maven/com.cast-info.devops/robotest-suite-cases-json-generator@2.0.0?classifier=sources

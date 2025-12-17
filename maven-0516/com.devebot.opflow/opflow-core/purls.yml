@@ -24,6 +24,8 @@
 - pkg:maven/com.devebot.opflow/opflow-core@0.1.21?classifier=sources
 - pkg:maven/com.devebot.opflow/opflow-core@0.1.22
 - pkg:maven/com.devebot.opflow/opflow-core@0.1.22?classifier=sources
+- pkg:maven/com.devebot.opflow/opflow-core@0.1.23
+- pkg:maven/com.devebot.opflow/opflow-core@0.1.23?classifier=sources
 - pkg:maven/com.devebot.opflow/opflow-core@0.1.4
 - pkg:maven/com.devebot.opflow/opflow-core@0.1.4?classifier=sources
 - pkg:maven/com.devebot.opflow/opflow-core@0.1.5

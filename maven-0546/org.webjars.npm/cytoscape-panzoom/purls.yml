@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/cytoscape-panzoom@2.2.3?classifier=sources
 - pkg:maven/org.webjars.npm/cytoscape-panzoom@2.4.0
 - pkg:maven/org.webjars.npm/cytoscape-panzoom@2.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/cytoscape-panzoom@2.5.3
+- pkg:maven/org.webjars.npm/cytoscape-panzoom@2.5.3?classifier=sources

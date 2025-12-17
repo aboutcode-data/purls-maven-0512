@@ -1,2 +1,8 @@
 - pkg:maven/com.github.hqstevenson.aries/aries.blueprint.util@0.1.0
 - pkg:maven/com.github.hqstevenson.aries/aries.blueprint.util@0.1.1
+- pkg:maven/com.github.hqstevenson.aries/aries.blueprint.util@0.2.0
+- pkg:maven/com.github.hqstevenson.aries/aries.blueprint.util@0.2.0?classifier=sources
+- pkg:maven/com.github.hqstevenson.aries/aries.blueprint.util@2.0.0
+- pkg:maven/com.github.hqstevenson.aries/aries.blueprint.util@2.0.0?classifier=sources
+- pkg:maven/com.github.hqstevenson.aries/aries.blueprint.util@2.0.1
+- pkg:maven/com.github.hqstevenson.aries/aries.blueprint.util@2.0.1?classifier=sources

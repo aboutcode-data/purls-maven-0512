@@ -1,0 +1,2 @@
+- pkg:maven/com.vaadin.webjar/incubator-paginator@1.0.1
+- pkg:maven/com.vaadin.webjar/incubator-paginator@1.0.1?classifier=sources

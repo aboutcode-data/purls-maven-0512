@@ -1,0 +1,6 @@
+- pkg:maven/com.ardikars.jxpacket/jxpacket-core@1.1.0.RC1
+- pkg:maven/com.ardikars.jxpacket/jxpacket-core@1.1.0.RC1?classifier=sources
+- pkg:maven/com.ardikars.jxpacket/jxpacket-core@1.1.0.RC2
+- pkg:maven/com.ardikars.jxpacket/jxpacket-core@1.1.0.RC2?classifier=sources
+- pkg:maven/com.ardikars.jxpacket/jxpacket-core@1.1.0.RC5
+- pkg:maven/com.ardikars.jxpacket/jxpacket-core@1.1.0.RC5?classifier=sources

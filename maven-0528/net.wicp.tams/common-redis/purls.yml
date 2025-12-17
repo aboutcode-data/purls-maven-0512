@@ -1,0 +1,2 @@
+- pkg:maven/net.wicp.tams/common-redis@3.5.8
+- pkg:maven/net.wicp.tams/common-redis@3.5.8?classifier=sources

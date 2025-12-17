@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.rat/apache-rat-api@0.12
 - pkg:maven/org.apache.rat/apache-rat-api@0.12?classifier=sources
+- pkg:maven/org.apache.rat/apache-rat-api@0.13
+- pkg:maven/org.apache.rat/apache-rat-api@0.13?classifier=sources

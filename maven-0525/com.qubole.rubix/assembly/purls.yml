@@ -7,6 +7,10 @@
 - pkg:maven/com.qubole.rubix/assembly@0.2.11
 - pkg:maven/com.qubole.rubix/assembly@0.2.11?classifier=sources
 - pkg:maven/com.qubole.rubix/assembly@0.2.12
+- pkg:maven/com.qubole.rubix/assembly@0.2.12.1
+- pkg:maven/com.qubole.rubix/assembly@0.2.12.1?classifier=sources
+- pkg:maven/com.qubole.rubix/assembly@0.2.12.2
+- pkg:maven/com.qubole.rubix/assembly@0.2.12.2?classifier=sources
 - pkg:maven/com.qubole.rubix/assembly@0.2.12?classifier=sources
 - pkg:maven/com.qubole.rubix/assembly@0.2.14
 - pkg:maven/com.qubole.rubix/assembly@0.2.14?classifier=sources
@@ -31,3 +35,7 @@
 - pkg:maven/com.qubole.rubix/assembly@0.3.0?classifier=sources
 - pkg:maven/com.qubole.rubix/assembly@0.3.1
 - pkg:maven/com.qubole.rubix/assembly@0.3.1?classifier=sources
+- pkg:maven/com.qubole.rubix/assembly@0.3.2
+- pkg:maven/com.qubole.rubix/assembly@0.3.2?classifier=sources
+- pkg:maven/com.qubole.rubix/assembly@0.3.3
+- pkg:maven/com.qubole.rubix/assembly@0.3.3?classifier=sources

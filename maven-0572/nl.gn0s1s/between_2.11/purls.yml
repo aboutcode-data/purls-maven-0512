@@ -4,3 +4,5 @@
 - pkg:maven/nl.gn0s1s/between_2.11@0.2.0?classifier=sources
 - pkg:maven/nl.gn0s1s/between_2.11@0.3.0
 - pkg:maven/nl.gn0s1s/between_2.11@0.3.0?classifier=sources
+- pkg:maven/nl.gn0s1s/between_2.11@0.4.0
+- pkg:maven/nl.gn0s1s/between_2.11@0.4.0?classifier=sources

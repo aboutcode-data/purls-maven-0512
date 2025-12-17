@@ -16,3 +16,5 @@
 - pkg:maven/com.sinsz.c/bxfs-core@1.r.2?classifier=sources
 - pkg:maven/com.sinsz.c/bxfs-core@1.r.3
 - pkg:maven/com.sinsz.c/bxfs-core@1.r.3?classifier=sources
+- pkg:maven/com.sinsz.c/bxfs-core@1.r.4
+- pkg:maven/com.sinsz.c/bxfs-core@1.r.4?classifier=sources

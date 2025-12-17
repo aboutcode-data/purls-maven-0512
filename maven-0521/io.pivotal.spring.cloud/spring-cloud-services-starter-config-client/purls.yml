@@ -14,3 +14,8 @@
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-config-client@1.6.1.RELEASE
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-config-client@1.6.2.RELEASE
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-config-client@1.6.3.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-config-client@1.6.4.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-config-client@1.6.6.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-config-client@2.0.0.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-config-client@2.0.1.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-config-client@2.0.2.RELEASE

@@ -1,0 +1,8 @@
+- pkg:maven/com.twosigma.webtau/webtau-dist@0.23
+- pkg:maven/com.twosigma.webtau/webtau-dist@0.25
+- pkg:maven/com.twosigma.webtau/webtau-dist@0.27
+- pkg:maven/com.twosigma.webtau/webtau-dist@0.28
+- pkg:maven/com.twosigma.webtau/webtau-dist@0.29
+- pkg:maven/com.twosigma.webtau/webtau-dist@0.30
+- pkg:maven/com.twosigma.webtau/webtau-dist@0.31
+- pkg:maven/com.twosigma.webtau/webtau-dist@1.0

@@ -1,0 +1,6 @@
+- pkg:maven/de.adorsys.psd2/cms-client@1.10
+- pkg:maven/de.adorsys.psd2/cms-client@1.10-RC1
+- pkg:maven/de.adorsys.psd2/cms-client@1.10-RC1?classifier=sources
+- pkg:maven/de.adorsys.psd2/cms-client@1.10?classifier=sources
+- pkg:maven/de.adorsys.psd2/cms-client@1.9
+- pkg:maven/de.adorsys.psd2/cms-client@1.9?classifier=sources

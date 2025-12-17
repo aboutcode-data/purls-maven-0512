@@ -2,3 +2,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui@3.108.1?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui@3.109.0
 - pkg:maven/org.eclipse.platform/org.eclipse.ui@3.109.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui@3.109.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ui@3.109.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui@3.110.0
+- pkg:maven/org.eclipse.platform/org.eclipse.ui@3.110.0?classifier=sources

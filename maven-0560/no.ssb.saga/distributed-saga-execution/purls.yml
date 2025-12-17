@@ -1,0 +1,2 @@
+- pkg:maven/no.ssb.saga/distributed-saga-execution@0.1
+- pkg:maven/no.ssb.saga/distributed-saga-execution@0.1?classifier=sources

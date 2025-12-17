@@ -1,0 +1,8 @@
+- pkg:maven/com.github.shafiquejamal/simple-websocket-authenticator_2.12@0.0.15
+- pkg:maven/com.github.shafiquejamal/simple-websocket-authenticator_2.12@0.0.15?classifier=sources
+- pkg:maven/com.github.shafiquejamal/simple-websocket-authenticator_2.12@0.0.16
+- pkg:maven/com.github.shafiquejamal/simple-websocket-authenticator_2.12@0.0.16?classifier=sources
+- pkg:maven/com.github.shafiquejamal/simple-websocket-authenticator_2.12@0.0.17
+- pkg:maven/com.github.shafiquejamal/simple-websocket-authenticator_2.12@0.0.17?classifier=sources
+- pkg:maven/com.github.shafiquejamal/simple-websocket-authenticator_2.12@0.0.19
+- pkg:maven/com.github.shafiquejamal/simple-websocket-authenticator_2.12@0.0.19?classifier=sources

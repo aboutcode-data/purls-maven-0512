@@ -1,0 +1,2 @@
+- pkg:maven/com.github.salamansar.envbuild/environment-builder-spring@0.8
+- pkg:maven/com.github.salamansar.envbuild/environment-builder-spring@0.8?classifier=sources

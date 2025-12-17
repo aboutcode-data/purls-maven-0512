@@ -2,3 +2,5 @@
 - pkg:maven/be.unamur.info/vibes-dsl@1.0.0?classifier=sources
 - pkg:maven/be.unamur.info/vibes-dsl@2.0.2
 - pkg:maven/be.unamur.info/vibes-dsl@2.0.2?classifier=sources
+- pkg:maven/be.unamur.info/vibes-dsl@2.0.5
+- pkg:maven/be.unamur.info/vibes-dsl@2.0.5?classifier=sources

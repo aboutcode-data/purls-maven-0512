@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/react-compound-slider@0.16.2
+- pkg:maven/org.webjars.npm/react-compound-slider@0.16.2?classifier=sources

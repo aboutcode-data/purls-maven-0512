@@ -1,3 +1,5 @@
+- pkg:maven/org.eclipse.collections/eclipse-collections-testutils@10.0.0.M2
+- pkg:maven/org.eclipse.collections/eclipse-collections-testutils@10.0.0.M2?classifier=sources
 - pkg:maven/org.eclipse.collections/eclipse-collections-testutils@7.0.0
 - pkg:maven/org.eclipse.collections/eclipse-collections-testutils@7.0.0?classifier=sources
 - pkg:maven/org.eclipse.collections/eclipse-collections-testutils@7.0.1

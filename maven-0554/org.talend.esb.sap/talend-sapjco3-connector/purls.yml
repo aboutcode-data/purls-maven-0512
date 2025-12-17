@@ -1,0 +1,2 @@
+- pkg:maven/org.talend.esb.sap/talend-sapjco3-connector@5.5.0
+- pkg:maven/org.talend.esb.sap/talend-sapjco3-connector@5.5.0?classifier=sources

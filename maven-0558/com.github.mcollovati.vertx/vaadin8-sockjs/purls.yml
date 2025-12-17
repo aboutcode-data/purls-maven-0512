@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mcollovati.vertx/vaadin8-sockjs@1.0.0
+- pkg:maven/com.github.mcollovati.vertx/vaadin8-sockjs@1.0.0?classifier=sources

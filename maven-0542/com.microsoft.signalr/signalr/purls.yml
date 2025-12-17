@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.signalr/signalr@1.0.0-preview3-35501
+- pkg:maven/com.microsoft.signalr/signalr@1.0.0-preview3-35501?classifier=sources

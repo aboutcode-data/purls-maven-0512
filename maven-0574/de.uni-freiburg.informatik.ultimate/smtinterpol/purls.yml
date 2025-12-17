@@ -11,4 +11,6 @@
 - pkg:maven/de.uni-freiburg.informatik.ultimate/smtinterpol@2.5
 - pkg:maven/de.uni-freiburg.informatik.ultimate/smtinterpol@2.5-12-g3d15a15c
 - pkg:maven/de.uni-freiburg.informatik.ultimate/smtinterpol@2.5-12-g3d15a15c?classifier=sources
+- pkg:maven/de.uni-freiburg.informatik.ultimate/smtinterpol@2.5-47-gc0546aa
+- pkg:maven/de.uni-freiburg.informatik.ultimate/smtinterpol@2.5-47-gc0546aa?classifier=sources
 - pkg:maven/de.uni-freiburg.informatik.ultimate/smtinterpol@2.5?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.alibaba.spring/spring-webmvc-velocity@0.1.0
+- pkg:maven/com.alibaba.spring/spring-webmvc-velocity@0.1.0?classifier=sources
+- pkg:maven/com.alibaba.spring/spring-webmvc-velocity@1.0.0.RELEASE
+- pkg:maven/com.alibaba.spring/spring-webmvc-velocity@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.alibaba.spring/spring-webmvc-velocity@1.4.3.18.RELEASE
+- pkg:maven/com.alibaba.spring/spring-webmvc-velocity@1.4.3.18.RELEASE?classifier=sources
+- pkg:maven/com.alibaba.spring/spring-webmvc-velocity@4.3.17.RELEASE
+- pkg:maven/com.alibaba.spring/spring-webmvc-velocity@4.3.17.RELEASE?classifier=sources
+- pkg:maven/com.alibaba.spring/spring-webmvc-velocity@4.3.18.RELEASE
+- pkg:maven/com.alibaba.spring/spring-webmvc-velocity@4.3.18.RELEASE?classifier=sources

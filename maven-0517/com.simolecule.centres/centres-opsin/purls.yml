@@ -1,0 +1,2 @@
+- pkg:maven/com.simolecule.centres/centres-opsin@1.0
+- pkg:maven/com.simolecule.centres/centres-opsin@1.0?classifier=sources

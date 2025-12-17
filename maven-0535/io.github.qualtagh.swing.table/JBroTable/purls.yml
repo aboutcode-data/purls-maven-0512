@@ -1,0 +1,2 @@
+- pkg:maven/io.github.qualtagh.swing.table/JBroTable@2.0
+- pkg:maven/io.github.qualtagh.swing.table/JBroTable@2.0?classifier=sources

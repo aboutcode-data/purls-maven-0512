@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.servicecomb.saga/apache-servicecomb-incubating-saga-distribution@0.1.0?classifier=src&type=zip
+- pkg:maven/org.apache.servicecomb.saga/apache-servicecomb-incubating-saga-distribution@0.2.0?classifier=src&type=zip

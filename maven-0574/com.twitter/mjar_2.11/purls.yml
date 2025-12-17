@@ -1,0 +1,6 @@
+- pkg:maven/com.twitter/mjar_2.11@0.0.0-294-d7114447
+- pkg:maven/com.twitter/mjar_2.11@0.0.0-294-d7114447?classifier=sources
+- pkg:maven/com.twitter/mjar_2.11@0.0.0-386-d79bf764
+- pkg:maven/com.twitter/mjar_2.11@0.0.0-386-d79bf764?classifier=sources
+- pkg:maven/com.twitter/mjar_2.11@0.0.0-406-6829ec44
+- pkg:maven/com.twitter/mjar_2.11@0.0.0-406-6829ec44?classifier=sources

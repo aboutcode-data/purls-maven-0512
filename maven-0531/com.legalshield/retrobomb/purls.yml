@@ -1,0 +1,8 @@
+- pkg:maven/com.legalshield/retrobomb@0.0.4
+- pkg:maven/com.legalshield/retrobomb@0.0.4?classifier=sources
+- pkg:maven/com.legalshield/retrobomb@0.0.5
+- pkg:maven/com.legalshield/retrobomb@0.0.5?classifier=sources
+- pkg:maven/com.legalshield/retrobomb@0.1.0
+- pkg:maven/com.legalshield/retrobomb@0.1.0?classifier=sources
+- pkg:maven/com.legalshield/retrobomb@0.2.0
+- pkg:maven/com.legalshield/retrobomb@0.2.0?classifier=sources

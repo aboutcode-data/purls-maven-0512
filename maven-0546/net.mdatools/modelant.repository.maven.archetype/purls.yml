@@ -1,0 +1,2 @@
+- pkg:maven/net.mdatools/modelant.repository.maven.archetype@3.3.0
+- pkg:maven/net.mdatools/modelant.repository.maven.archetype@3.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.cosium.logging/annotation-processor-logger@1.0
+- pkg:maven/com.cosium.logging/annotation-processor-logger@1.0?classifier=sources

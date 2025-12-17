@@ -1,2 +1,4 @@
 - pkg:maven/com.enioka.jqm/jqm-api-client-jdbc@2.0.0
 - pkg:maven/com.enioka.jqm/jqm-api-client-jdbc@2.0.0?classifier=sources
+- pkg:maven/com.enioka.jqm/jqm-api-client-jdbc@2.1.0
+- pkg:maven/com.enioka.jqm/jqm-api-client-jdbc@2.1.0?classifier=sources

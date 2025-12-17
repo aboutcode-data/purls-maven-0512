@@ -216,6 +216,8 @@
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@2.2.11?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@2.2.12
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@2.2.12?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-clientutil@2.2.13
+- pkg:maven/org.apache.cassandra/cassandra-clientutil@2.2.13?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@2.2.1?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@2.2.2
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@2.2.2?classifier=sources
@@ -260,6 +262,8 @@
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@3.0.15?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@3.0.16
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@3.0.16?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-clientutil@3.0.17
+- pkg:maven/org.apache.cassandra/cassandra-clientutil@3.0.17?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@3.0.1?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@3.0.2
 - pkg:maven/org.apache.cassandra/cassandra-clientutil@3.0.2?classifier=sources

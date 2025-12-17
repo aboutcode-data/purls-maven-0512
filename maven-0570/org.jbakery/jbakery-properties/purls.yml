@@ -1,0 +1,2 @@
+- pkg:maven/org.jbakery/jbakery-properties@1.0.0
+- pkg:maven/org.jbakery/jbakery-properties@1.0.0?classifier=sources

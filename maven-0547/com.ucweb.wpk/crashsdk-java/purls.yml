@@ -1,1 +1,4 @@
 - pkg:maven/com.ucweb.wpk/crashsdk-java@2.1.1.4?type=aar
+- pkg:maven/com.ucweb.wpk/crashsdk-java@2.1.1.5?type=aar
+- pkg:maven/com.ucweb.wpk/crashsdk-java@2.1.2.0?type=aar
+- pkg:maven/com.ucweb.wpk/crashsdk-java@2.1.2.1?type=aar

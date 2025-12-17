@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/fs-copy-file-sync@1.1.1
+- pkg:maven/org.webjars.npm/fs-copy-file-sync@1.1.1?classifier=sources

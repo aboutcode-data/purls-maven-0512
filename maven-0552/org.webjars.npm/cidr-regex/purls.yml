@@ -1,4 +1,8 @@
 - pkg:maven/org.webjars.npm/cidr-regex@1.0.6
 - pkg:maven/org.webjars.npm/cidr-regex@1.0.6?classifier=sources
+- pkg:maven/org.webjars.npm/cidr-regex@2.0.10
+- pkg:maven/org.webjars.npm/cidr-regex@2.0.10?classifier=sources
 - pkg:maven/org.webjars.npm/cidr-regex@2.0.8
 - pkg:maven/org.webjars.npm/cidr-regex@2.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/cidr-regex@2.0.9
+- pkg:maven/org.webjars.npm/cidr-regex@2.0.9?classifier=sources

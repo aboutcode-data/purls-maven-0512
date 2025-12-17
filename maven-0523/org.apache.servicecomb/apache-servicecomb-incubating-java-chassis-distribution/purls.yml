@@ -1,1 +1,3 @@
 - pkg:maven/org.apache.servicecomb/apache-servicecomb-incubating-java-chassis-distribution@1.0.0-m1?classifier=src&type=zip
+- pkg:maven/org.apache.servicecomb/apache-servicecomb-incubating-java-chassis-distribution@1.0.0-m2?classifier=src&type=zip
+- pkg:maven/org.apache.servicecomb/apache-servicecomb-incubating-java-chassis-distribution@1.0.0?classifier=src&type=zip

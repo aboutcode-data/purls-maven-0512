@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.che/ls-java-agent@6.13.0
+- pkg:maven/org.eclipse.che/ls-java-agent@6.13.0?classifier=sources
+- pkg:maven/org.eclipse.che/ls-java-agent@6.13.1
+- pkg:maven/org.eclipse.che/ls-java-agent@6.13.1?classifier=sources

@@ -18,3 +18,7 @@
 - pkg:maven/org.webjars.npm/buffer@5.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/buffer@5.1.0
 - pkg:maven/org.webjars.npm/buffer@5.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/buffer@5.2.0
+- pkg:maven/org.webjars.npm/buffer@5.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/buffer@5.2.1
+- pkg:maven/org.webjars.npm/buffer@5.2.1?classifier=sources

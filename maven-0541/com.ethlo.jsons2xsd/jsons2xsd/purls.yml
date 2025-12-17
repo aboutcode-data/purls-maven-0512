@@ -1,2 +1,4 @@
 - pkg:maven/com.ethlo.jsons2xsd/jsons2xsd@2.0
 - pkg:maven/com.ethlo.jsons2xsd/jsons2xsd@2.0?classifier=sources
+- pkg:maven/com.ethlo.jsons2xsd/jsons2xsd@2.1.1
+- pkg:maven/com.ethlo.jsons2xsd/jsons2xsd@2.1.1?classifier=sources

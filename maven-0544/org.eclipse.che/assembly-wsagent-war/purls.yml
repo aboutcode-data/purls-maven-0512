@@ -1,0 +1,16 @@
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.10.0?classifier=sources
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.10.0?type=war
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.11.0?classifier=sources
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.11.0?type=war
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.11.1?classifier=sources
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.11.1?type=war
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.12.0?classifier=sources
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.12.0?type=war
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.12.1?classifier=sources
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.12.1?type=war
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.12.2?classifier=sources
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.12.2?type=war
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.13.0?classifier=sources
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.13.0?type=war
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.13.1?classifier=sources
+- pkg:maven/org.eclipse.che/assembly-wsagent-war@6.13.1?type=war

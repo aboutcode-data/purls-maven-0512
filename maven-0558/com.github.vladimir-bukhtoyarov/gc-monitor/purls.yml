@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vladimir-bukhtoyarov/gc-monitor@1.0.0-RC2
+- pkg:maven/com.github.vladimir-bukhtoyarov/gc-monitor@1.0.0-RC2?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/net.sourceforge.owlapi/oppl2-oppl2patterns@3.0.0?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/oppl2-oppl2patterns@3.5.0
 - pkg:maven/net.sourceforge.owlapi/oppl2-oppl2patterns@3.5.0?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/oppl2-oppl2patterns@5.0.0
+- pkg:maven/net.sourceforge.owlapi/oppl2-oppl2patterns@5.0.0?classifier=sources

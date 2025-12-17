@@ -1,0 +1,11 @@
+- pkg:maven/me.jlurena/revolvingweekview@1.0.0?classifier=sources
+- pkg:maven/me.jlurena/revolvingweekview@1.0.0?type=aar
+- pkg:maven/me.jlurena/revolvingweekview@1.0.1?classifier=sources
+- pkg:maven/me.jlurena/revolvingweekview@1.0.1?type=aar
+- pkg:maven/me.jlurena/revolvingweekview@1.0.2?classifier=sources
+- pkg:maven/me.jlurena/revolvingweekview@1.0.2?type=aar
+- pkg:maven/me.jlurena/revolvingweekview@1.1.0?classifier=sources
+- pkg:maven/me.jlurena/revolvingweekview@1.1.0?type=aar
+- pkg:maven/me.jlurena/revolvingweekview@1.2.0?classifier=sources
+- pkg:maven/me.jlurena/revolvingweekview@2.0.0?classifier=sources
+- pkg:maven/me.jlurena/revolvingweekview@2.0.0?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/org.neo4j/neo4j-enterprise-cypher-compatibility-spec-suite@3.5.0-beta02
+- pkg:maven/org.neo4j/neo4j-enterprise-cypher-compatibility-spec-suite@3.5.0-beta02?classifier=sources
+- pkg:maven/org.neo4j/neo4j-enterprise-cypher-compatibility-spec-suite@3.5.0-beta03
+- pkg:maven/org.neo4j/neo4j-enterprise-cypher-compatibility-spec-suite@3.5.0-beta03?classifier=sources

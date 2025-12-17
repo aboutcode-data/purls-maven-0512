@@ -1,0 +1,16 @@
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.297.80
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.297.80?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.300.15
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.300.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.301.8
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.301.8?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.303.29
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.303.29?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.304.14
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.304.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.305.35
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.305.35?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.307.67
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.307.67?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.308.12
+- pkg:maven/com.yahoo.vespa/tenant-cd@6.308.12?classifier=sources

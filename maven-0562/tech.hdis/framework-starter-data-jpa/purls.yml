@@ -1,0 +1,4 @@
+- pkg:maven/tech.hdis/framework-starter-data-jpa@1.0
+- pkg:maven/tech.hdis/framework-starter-data-jpa@1.1
+- pkg:maven/tech.hdis/framework-starter-data-jpa@1.2
+- pkg:maven/tech.hdis/framework-starter-data-jpa@1.3

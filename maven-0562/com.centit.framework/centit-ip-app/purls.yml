@@ -2,3 +2,7 @@
 - pkg:maven/com.centit.framework/centit-ip-app@1.0?classifier=sources
 - pkg:maven/com.centit.framework/centit-ip-app@1.1.1805
 - pkg:maven/com.centit.framework/centit-ip-app@1.1.1805?classifier=sources
+- pkg:maven/com.centit.framework/centit-ip-app@1.1.1808
+- pkg:maven/com.centit.framework/centit-ip-app@1.1.1808?classifier=sources
+- pkg:maven/com.centit.framework/centit-ip-app@1.1.1809
+- pkg:maven/com.centit.framework/centit-ip-app@1.1.1809?classifier=sources

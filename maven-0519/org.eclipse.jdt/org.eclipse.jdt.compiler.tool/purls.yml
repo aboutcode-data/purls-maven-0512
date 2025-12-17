@@ -4,6 +4,10 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.tool@1.2.0?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.tool@1.2.101
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.tool@1.2.101?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.tool@1.2.200
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.tool@1.2.200?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.tool@1.2.300
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.tool@1.2.300?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.tool@1.2.50
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.tool@1.2.50?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.tool@1.2.51

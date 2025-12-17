@@ -1,1 +1,2 @@
 - pkg:maven/org.flywaydb.flyway-test-extensions.samples.spring/flyway-test-testng@5.0.0
+- pkg:maven/org.flywaydb.flyway-test-extensions.samples.spring/flyway-test-testng@5.1.0

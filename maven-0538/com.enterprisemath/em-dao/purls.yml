@@ -18,3 +18,5 @@
 - pkg:maven/com.enterprisemath/em-dao@2.2.0?classifier=sources
 - pkg:maven/com.enterprisemath/em-dao@3.0.0
 - pkg:maven/com.enterprisemath/em-dao@3.0.0?classifier=sources
+- pkg:maven/com.enterprisemath/em-dao@3.1.0
+- pkg:maven/com.enterprisemath/em-dao@3.1.0?classifier=sources

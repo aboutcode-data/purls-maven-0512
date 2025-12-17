@@ -1,0 +1,2 @@
+- pkg:maven/org.omnifaces/renderkitdoc-maven-plugin@1.0
+- pkg:maven/org.omnifaces/renderkitdoc-maven-plugin@1.0?classifier=sources

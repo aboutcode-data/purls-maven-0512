@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/file-sync-cmp@0.1.1
+- pkg:maven/org.webjars.npm/file-sync-cmp@0.1.1?classifier=sources

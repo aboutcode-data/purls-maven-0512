@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pyknic/speedment-slf4j-adapter@1.0.0
+- pkg:maven/com.github.pyknic/speedment-slf4j-adapter@1.0.0?classifier=sources

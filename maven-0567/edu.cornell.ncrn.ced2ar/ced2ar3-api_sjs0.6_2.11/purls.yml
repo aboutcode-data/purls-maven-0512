@@ -1,0 +1,4 @@
+- pkg:maven/edu.cornell.ncrn.ced2ar/ced2ar3-api_sjs0.6_2.11@0.0.2
+- pkg:maven/edu.cornell.ncrn.ced2ar/ced2ar3-api_sjs0.6_2.11@0.0.2?classifier=sources
+- pkg:maven/edu.cornell.ncrn.ced2ar/ced2ar3-api_sjs0.6_2.11@0.0.3
+- pkg:maven/edu.cornell.ncrn.ced2ar/ced2ar3-api_sjs0.6_2.11@0.0.3?classifier=sources

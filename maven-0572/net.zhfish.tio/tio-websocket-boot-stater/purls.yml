@@ -1,0 +1,2 @@
+- pkg:maven/net.zhfish.tio/tio-websocket-boot-stater@0.0.1
+- pkg:maven/net.zhfish.tio/tio-websocket-boot-stater@0.0.1?classifier=sources

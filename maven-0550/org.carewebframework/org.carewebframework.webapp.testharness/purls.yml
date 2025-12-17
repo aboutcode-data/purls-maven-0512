@@ -48,3 +48,5 @@
 - pkg:maven/org.carewebframework/org.carewebframework.webapp.testharness@6.1.0-RC2?type=war
 - pkg:maven/org.carewebframework/org.carewebframework.webapp.testharness@6.1.0-RC3?classifier=sources
 - pkg:maven/org.carewebframework/org.carewebframework.webapp.testharness@6.1.0-RC3?type=war
+- pkg:maven/org.carewebframework/org.carewebframework.webapp.testharness@6.1.0-RC4?classifier=sources
+- pkg:maven/org.carewebframework/org.carewebframework.webapp.testharness@6.1.0-RC4?type=war

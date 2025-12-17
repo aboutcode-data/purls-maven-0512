@@ -46,3 +46,5 @@
 - pkg:maven/com.karumi/dexter@4.1.1?type=aar
 - pkg:maven/com.karumi/dexter@4.2.0?classifier=sources
 - pkg:maven/com.karumi/dexter@4.2.0?type=aar
+- pkg:maven/com.karumi/dexter@5.0.0?classifier=sources
+- pkg:maven/com.karumi/dexter@5.0.0?type=aar

@@ -2,3 +2,5 @@
 - pkg:maven/com.nhl.link.rest/link-rest-legacy-date-encoders@2.11?classifier=sources
 - pkg:maven/com.nhl.link.rest/link-rest-legacy-date-encoders@2.12
 - pkg:maven/com.nhl.link.rest/link-rest-legacy-date-encoders@2.12?classifier=sources
+- pkg:maven/com.nhl.link.rest/link-rest-legacy-date-encoders@2.13
+- pkg:maven/com.nhl.link.rest/link-rest-legacy-date-encoders@2.13?classifier=sources

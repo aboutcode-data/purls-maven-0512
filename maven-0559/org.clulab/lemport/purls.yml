@@ -1,0 +1,2 @@
+- pkg:maven/org.clulab/lemport@0.9.10
+- pkg:maven/org.clulab/lemport@0.9.10?classifier=sources

@@ -31,3 +31,8 @@
 - pkg:maven/org.fujion/fujion-archetype-fsp@2.0.0-RC7?classifier=sources
 - pkg:maven/org.fujion/fujion-archetype-fsp@2.0.0-RC8?classifier=sources
 - pkg:maven/org.fujion/fujion-archetype-fsp@2.0.0-RC9?classifier=sources
+- pkg:maven/org.fujion/fujion-archetype-fsp@2.0.0?classifier=sources
+- pkg:maven/org.fujion/fujion-archetype-fsp@2.1.0?classifier=sources
+- pkg:maven/org.fujion/fujion-archetype-fsp@2.1.1?classifier=sources
+- pkg:maven/org.fujion/fujion-archetype-fsp@2.2.0?classifier=sources
+- pkg:maven/org.fujion/fujion-archetype-fsp@2.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.miracelwhipp.resource.bunch.client/resource-bunch-client@2.0
+- pkg:maven/io.github.miracelwhipp.resource.bunch.client/resource-bunch-client@2.0?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.wildfly.legacy.test/wildfly-legacy-spi@2.0.3.Final?classifier=sources
 - pkg:maven/org.wildfly.legacy.test/wildfly-legacy-spi@3.0.0.Final
 - pkg:maven/org.wildfly.legacy.test/wildfly-legacy-spi@3.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.legacy.test/wildfly-legacy-spi@4.0.0.Final
+- pkg:maven/org.wildfly.legacy.test/wildfly-legacy-spi@4.0.0.Final?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.dukeware/jbatis@2.4.8
+- pkg:maven/com.dukeware/jbatis@2.4.8?classifier=sources
