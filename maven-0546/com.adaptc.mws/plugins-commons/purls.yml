@@ -100,3 +100,7 @@
 - pkg:maven/com.adaptc.mws/plugins-commons@1.3-1488484107?classifier=sources
 - pkg:maven/com.adaptc.mws/plugins-commons@1.3-1493400434
 - pkg:maven/com.adaptc.mws/plugins-commons@1.3-1493400434?classifier=sources
+- pkg:maven/com.adaptc.mws/plugins-commons@1.3-1543963868
+- pkg:maven/com.adaptc.mws/plugins-commons@1.3-1543963868?classifier=sources
+- pkg:maven/com.adaptc.mws/plugins-commons@1.3-1548376171
+- pkg:maven/com.adaptc.mws/plugins-commons@1.3-1548376171?classifier=sources

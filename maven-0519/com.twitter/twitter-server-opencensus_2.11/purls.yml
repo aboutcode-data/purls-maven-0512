@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter/twitter-server-opencensus_2.11@19.3.0
+- pkg:maven/com.twitter/twitter-server-opencensus_2.11@19.3.0?classifier=sources

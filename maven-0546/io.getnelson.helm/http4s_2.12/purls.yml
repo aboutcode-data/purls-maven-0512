@@ -1,0 +1,6 @@
+- pkg:maven/io.getnelson.helm/http4s_2.12@5.0.10
+- pkg:maven/io.getnelson.helm/http4s_2.12@5.0.10?classifier=sources
+- pkg:maven/io.getnelson.helm/http4s_2.12@5.0.11
+- pkg:maven/io.getnelson.helm/http4s_2.12@5.0.11?classifier=sources
+- pkg:maven/io.getnelson.helm/http4s_2.12@5.0.9
+- pkg:maven/io.getnelson.helm/http4s_2.12@5.0.9?classifier=sources

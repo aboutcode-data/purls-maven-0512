@@ -38,3 +38,7 @@
 - pkg:maven/tech.sirwellington.alchemy/alchemy-generator@2.3.7
 - pkg:maven/tech.sirwellington.alchemy/alchemy-generator@2.3.7?classifier=sources
 - pkg:maven/tech.sirwellington.alchemy/alchemy-generator@2.3?classifier=sources
+- pkg:maven/tech.sirwellington.alchemy/alchemy-generator@2.4
+- pkg:maven/tech.sirwellington.alchemy/alchemy-generator@2.4.1
+- pkg:maven/tech.sirwellington.alchemy/alchemy-generator@2.4.1?classifier=sources
+- pkg:maven/tech.sirwellington.alchemy/alchemy-generator@2.4?classifier=sources

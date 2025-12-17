@@ -1,4 +1,6 @@
 - pkg:maven/com.naver.spring.batch/naver-spring-batch-extension@0.1.0
 - pkg:maven/com.naver.spring.batch/naver-spring-batch-extension@0.1.0?classifier=sources
 - pkg:maven/com.naver.spring.batch/naver-spring-batch-extension@1.0
+- pkg:maven/com.naver.spring.batch/naver-spring-batch-extension@1.0.1
+- pkg:maven/com.naver.spring.batch/naver-spring-batch-extension@1.0.1?classifier=sources
 - pkg:maven/com.naver.spring.batch/naver-spring-batch-extension@1.0?classifier=sources

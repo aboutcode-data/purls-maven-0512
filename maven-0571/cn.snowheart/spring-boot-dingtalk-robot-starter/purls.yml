@@ -1,0 +1,2 @@
+- pkg:maven/cn.snowheart/spring-boot-dingtalk-robot-starter@1.0.1.RELEASE
+- pkg:maven/cn.snowheart/spring-boot-dingtalk-robot-starter@1.0.1.RELEASE?classifier=sources

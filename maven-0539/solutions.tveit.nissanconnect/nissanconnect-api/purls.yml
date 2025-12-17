@@ -1,0 +1,2 @@
+- pkg:maven/solutions.tveit.nissanconnect/nissanconnect-api@0.0.2
+- pkg:maven/solutions.tveit.nissanconnect/nissanconnect-api@0.0.2?classifier=sources

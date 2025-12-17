@@ -12,3 +12,5 @@
 - pkg:maven/nl.inl.blacklab/blacklab-server@1.7.1?type=war
 - pkg:maven/nl.inl.blacklab/blacklab-server@1.7.2?classifier=sources
 - pkg:maven/nl.inl.blacklab/blacklab-server@1.7.2?type=war
+- pkg:maven/nl.inl.blacklab/blacklab-server@1.7.3?classifier=sources
+- pkg:maven/nl.inl.blacklab/blacklab-server@1.7.3?type=war

@@ -32,3 +32,5 @@
 - pkg:maven/com.mikepenz/community-material-typeface@2.7.94.1?type=aar
 - pkg:maven/com.mikepenz/community-material-typeface@3.1.0-rc02?classifier=sources
 - pkg:maven/com.mikepenz/community-material-typeface@3.1.0-rc02?type=aar
+- pkg:maven/com.mikepenz/community-material-typeface@3.5.95.1?classifier=sources
+- pkg:maven/com.mikepenz/community-material-typeface@3.5.95.1?type=aar

@@ -6,3 +6,5 @@
 - pkg:maven/net.minidev/ovh-java-sdk-veeamveeamEnterprise@0.9.14?classifier=sources
 - pkg:maven/net.minidev/ovh-java-sdk-veeamveeamEnterprise@0.9.15
 - pkg:maven/net.minidev/ovh-java-sdk-veeamveeamEnterprise@0.9.15?classifier=sources
+- pkg:maven/net.minidev/ovh-java-sdk-veeamveeamEnterprise@1.0.17
+- pkg:maven/net.minidev/ovh-java-sdk-veeamveeamEnterprise@1.0.17?classifier=sources

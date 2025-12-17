@@ -1,0 +1,2 @@
+- pkg:maven/com.github.trask.io.netty/netty-tcnative-boringssl-static-linux-alpine-x86_64@2.0.12.Final
+- pkg:maven/com.github.trask.io.netty/netty-tcnative-boringssl-static-linux-alpine-x86_64@2.0.12.Final?classifier=sources

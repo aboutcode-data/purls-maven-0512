@@ -10,3 +10,5 @@
 - pkg:maven/ru.sbtqa.tag.datajack.providers/excel-provider@4.0.3?classifier=sources
 - pkg:maven/ru.sbtqa.tag.datajack.providers/excel-provider@4.0.4
 - pkg:maven/ru.sbtqa.tag.datajack.providers/excel-provider@4.0.4?classifier=sources
+- pkg:maven/ru.sbtqa.tag.datajack.providers/excel-provider@4.1.0
+- pkg:maven/ru.sbtqa.tag.datajack.providers/excel-provider@4.1.0?classifier=sources

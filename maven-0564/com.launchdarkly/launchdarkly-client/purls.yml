@@ -148,3 +148,17 @@
 - pkg:maven/com.launchdarkly/launchdarkly-client@4.4.1?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-client@4.5.0
 - pkg:maven/com.launchdarkly/launchdarkly-client@4.5.0?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.5.1
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.5.1?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.6.0
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.6.0?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.6.1
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.6.1-beta1
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.6.1-beta1?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.6.1?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.6.2
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.6.2?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.6.3
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.6.3?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.61
+- pkg:maven/com.launchdarkly/launchdarkly-client@4.61?classifier=sources

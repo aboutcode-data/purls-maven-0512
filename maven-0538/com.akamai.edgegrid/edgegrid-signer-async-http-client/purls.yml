@@ -2,3 +2,5 @@
 - pkg:maven/com.akamai.edgegrid/edgegrid-signer-async-http-client@3.0.0?classifier=sources
 - pkg:maven/com.akamai.edgegrid/edgegrid-signer-async-http-client@3.0.1
 - pkg:maven/com.akamai.edgegrid/edgegrid-signer-async-http-client@3.0.1?classifier=sources
+- pkg:maven/com.akamai.edgegrid/edgegrid-signer-async-http-client@4.0.0
+- pkg:maven/com.akamai.edgegrid/edgegrid-signer-async-http-client@4.0.0?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.poreid/poreid@1.51?classifier=sources
 - pkg:maven/org.poreid/poreid@1.52
 - pkg:maven/org.poreid/poreid@1.52?classifier=sources
+- pkg:maven/org.poreid/poreid@1.53
+- pkg:maven/org.poreid/poreid@1.53?classifier=sources

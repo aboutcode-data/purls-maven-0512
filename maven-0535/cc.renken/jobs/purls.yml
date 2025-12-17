@@ -1,0 +1,4 @@
+- pkg:maven/cc.renken/jobs@1.0.0
+- pkg:maven/cc.renken/jobs@1.0.0?classifier=sources
+- pkg:maven/cc.renken/jobs@1.1.0
+- pkg:maven/cc.renken/jobs@1.1.0?classifier=sources

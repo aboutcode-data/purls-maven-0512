@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.bookkeeper/bookkeeper-dist@4.9.0?classifier=src&type=tar.gz

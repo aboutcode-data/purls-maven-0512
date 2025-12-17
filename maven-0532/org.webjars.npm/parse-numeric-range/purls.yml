@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/parse-numeric-range@0.0.2
+- pkg:maven/org.webjars.npm/parse-numeric-range@0.0.2?classifier=sources

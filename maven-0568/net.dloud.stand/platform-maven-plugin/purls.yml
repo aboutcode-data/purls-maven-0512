@@ -1,0 +1,2 @@
+- pkg:maven/net.dloud.stand/platform-maven-plugin@0.7.0.0
+- pkg:maven/net.dloud.stand/platform-maven-plugin@0.7.0.0?classifier=sources

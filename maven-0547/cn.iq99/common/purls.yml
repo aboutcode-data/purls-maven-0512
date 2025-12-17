@@ -1,0 +1,8 @@
+- pkg:maven/cn.iq99/common@0.0.1
+- pkg:maven/cn.iq99/common@0.0.1-RELEASE
+- pkg:maven/cn.iq99/common@0.0.1-RELEASE?classifier=sources
+- pkg:maven/cn.iq99/common@0.0.1?classifier=sources
+- pkg:maven/cn.iq99/common@0.0.2
+- pkg:maven/cn.iq99/common@0.0.2?classifier=sources
+- pkg:maven/cn.iq99/common@0.0.3
+- pkg:maven/cn.iq99/common@0.0.3?classifier=sources

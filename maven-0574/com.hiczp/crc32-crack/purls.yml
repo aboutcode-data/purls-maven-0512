@@ -1,0 +1,2 @@
+- pkg:maven/com.hiczp/crc32-crack@1.0
+- pkg:maven/com.hiczp/crc32-crack@1.0?classifier=sources

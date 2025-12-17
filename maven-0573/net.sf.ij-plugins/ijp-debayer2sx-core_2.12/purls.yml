@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.ij-plugins/ijp-debayer2sx-core_2.12@1.0.0
+- pkg:maven/net.sf.ij-plugins/ijp-debayer2sx-core_2.12@1.0.0?classifier=sources

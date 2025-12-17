@@ -1,0 +1,2 @@
+- pkg:maven/org.neo/neo-devpack-java@2.3.0
+- pkg:maven/org.neo/neo-devpack-java@2.3.0?classifier=sources

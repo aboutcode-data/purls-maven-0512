@@ -3,3 +3,4 @@
 - pkg:maven/com.blazegraph/blazegraph-war@2.1.0?type=war
 - pkg:maven/com.blazegraph/blazegraph-war@2.1.1?type=war
 - pkg:maven/com.blazegraph/blazegraph-war@2.1.2?type=war
+- pkg:maven/com.blazegraph/blazegraph-war@2.1.5?type=war

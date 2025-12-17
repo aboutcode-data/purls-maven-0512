@@ -1,0 +1,2 @@
+- pkg:maven/dev.alangomes/spring-boot-starter-spigot@0.2.1
+- pkg:maven/dev.alangomes/spring-boot-starter-spigot@0.2.1?classifier=sources

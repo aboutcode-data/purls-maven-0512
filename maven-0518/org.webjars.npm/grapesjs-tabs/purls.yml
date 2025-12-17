@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/grapesjs-tabs@0.1.2
+- pkg:maven/org.webjars.npm/grapesjs-tabs@0.1.2?classifier=sources

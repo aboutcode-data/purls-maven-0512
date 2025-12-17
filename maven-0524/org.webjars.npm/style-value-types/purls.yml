@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/style-value-types@3.0.7
+- pkg:maven/org.webjars.npm/style-value-types@3.0.7?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/rocks.voss/toniebox-api@1.2
+- pkg:maven/rocks.voss/toniebox-api@1.2?classifier=sources
+- pkg:maven/rocks.voss/toniebox-api@2.0
+- pkg:maven/rocks.voss/toniebox-api@2.0?classifier=sources
+- pkg:maven/rocks.voss/toniebox-api@2.1
+- pkg:maven/rocks.voss/toniebox-api@2.1?classifier=sources
+- pkg:maven/rocks.voss/toniebox-api@2.2
+- pkg:maven/rocks.voss/toniebox-api@2.2?classifier=sources
+- pkg:maven/rocks.voss/toniebox-api@2.3
+- pkg:maven/rocks.voss/toniebox-api@2.3?classifier=sources
+- pkg:maven/rocks.voss/toniebox-api@2.4
+- pkg:maven/rocks.voss/toniebox-api@2.4?classifier=sources

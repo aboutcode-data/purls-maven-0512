@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jodit@3.2.27
+- pkg:maven/org.webjars.npm/jodit@3.2.27?classifier=sources

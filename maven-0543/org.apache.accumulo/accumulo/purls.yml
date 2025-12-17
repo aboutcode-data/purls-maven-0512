@@ -26,3 +26,4 @@
 - pkg:maven/org.apache.accumulo/accumulo@1.9.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.accumulo/accumulo@1.9.2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.accumulo/accumulo@2.0.0-alpha-1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.accumulo/accumulo@2.0.0-alpha-2?classifier=src&type=tar.gz

@@ -6,3 +6,5 @@
 - pkg:maven/org.arakhne.afc.core/math@13.0?classifier=sources
 - pkg:maven/org.arakhne.afc.core/math@14.0
 - pkg:maven/org.arakhne.afc.core/math@15.0
+- pkg:maven/org.arakhne.afc.core/math@15.1
+- pkg:maven/org.arakhne.afc.core/math@15.2

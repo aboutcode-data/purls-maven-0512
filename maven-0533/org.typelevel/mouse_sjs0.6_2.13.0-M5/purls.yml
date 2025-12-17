@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/mouse_sjs0.6_2.13.0-M5@0.20
+- pkg:maven/org.typelevel/mouse_sjs0.6_2.13.0-M5@0.20?classifier=sources

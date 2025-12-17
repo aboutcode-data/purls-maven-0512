@@ -1,0 +1,2 @@
+- pkg:maven/com.github.MissThee/data-structure@1.0
+- pkg:maven/com.github.MissThee/data-structure@1.0?classifier=sources

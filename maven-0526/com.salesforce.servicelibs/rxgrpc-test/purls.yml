@@ -1,1 +1,2 @@
+- pkg:maven/com.salesforce.servicelibs/rxgrpc-test@0.10.0-RC1
 - pkg:maven/com.salesforce.servicelibs/rxgrpc-test@0.9.0

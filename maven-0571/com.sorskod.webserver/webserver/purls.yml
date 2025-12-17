@@ -1,0 +1,6 @@
+- pkg:maven/com.sorskod.webserver/webserver@1.0.0
+- pkg:maven/com.sorskod.webserver/webserver@1.0.0?classifier=sources
+- pkg:maven/com.sorskod.webserver/webserver@v1.0.0
+- pkg:maven/com.sorskod.webserver/webserver@v1.0.0?classifier=sources
+- pkg:maven/com.sorskod.webserver/webserver@v1.0.1
+- pkg:maven/com.sorskod.webserver/webserver@v1.0.1?classifier=sources

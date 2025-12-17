@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/math-log2@1.0.1
+- pkg:maven/org.webjars.npm/math-log2@1.0.1?classifier=sources

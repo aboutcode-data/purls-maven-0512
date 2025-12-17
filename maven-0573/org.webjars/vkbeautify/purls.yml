@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars/vkbeautify@0.99.00.beta
+- pkg:maven/org.webjars/vkbeautify@0.99.00.beta-1
+- pkg:maven/org.webjars/vkbeautify@0.99.00.beta-1?classifier=sources
 - pkg:maven/org.webjars/vkbeautify@0.99.00.beta?classifier=sources

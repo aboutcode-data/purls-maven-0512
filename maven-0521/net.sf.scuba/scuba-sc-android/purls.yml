@@ -7,4 +7,6 @@
 - pkg:maven/net.sf.scuba/scuba-sc-android@0.0.16?type=aar
 - pkg:maven/net.sf.scuba/scuba-sc-android@0.0.17?type=aar
 - pkg:maven/net.sf.scuba/scuba-sc-android@0.0.18?type=aar
+- pkg:maven/net.sf.scuba/scuba-sc-android@0.0.19?type=aar
+- pkg:maven/net.sf.scuba/scuba-sc-android@0.0.20?type=aar
 - pkg:maven/net.sf.scuba/scuba-sc-android@0.0.9?type=aar

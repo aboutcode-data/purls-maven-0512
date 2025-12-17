@@ -14,3 +14,7 @@
 - pkg:maven/com.github.xphsc/easyjdbc-spring-boot-starter@1.0.5
 - pkg:maven/com.github.xphsc/easyjdbc-spring-boot-starter@1.0.5-RELEASE
 - pkg:maven/com.github.xphsc/easyjdbc-spring-boot-starter@1.0.5.0
+- pkg:maven/com.github.xphsc/easyjdbc-spring-boot-starter@1.0.6
+- pkg:maven/com.github.xphsc/easyjdbc-spring-boot-starter@1.0.7
+- pkg:maven/com.github.xphsc/easyjdbc-spring-boot-starter@1.0.8
+- pkg:maven/com.github.xphsc/easyjdbc-spring-boot-starter@1.0.8?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/org.ligoj.app/app-api@1.7.9?type=war
 - pkg:maven/org.ligoj.app/app-api@1.8.0?classifier=sources
 - pkg:maven/org.ligoj.app/app-api@1.8.0?type=war
+- pkg:maven/org.ligoj.app/app-api@2.0.0?classifier=sources
+- pkg:maven/org.ligoj.app/app-api@2.0.0?type=war

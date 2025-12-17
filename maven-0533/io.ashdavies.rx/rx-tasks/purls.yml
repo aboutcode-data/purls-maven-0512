@@ -1,0 +1,2 @@
+- pkg:maven/io.ashdavies.rx/rx-tasks@2.2.0?classifier=sources
+- pkg:maven/io.ashdavies.rx/rx-tasks@2.2.0?type=aar

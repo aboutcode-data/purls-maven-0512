@@ -10,3 +10,5 @@
 - pkg:maven/org.dizitart/potassium-nitrite@3.0.2?classifier=sources
 - pkg:maven/org.dizitart/potassium-nitrite@3.1.0
 - pkg:maven/org.dizitart/potassium-nitrite@3.1.0?classifier=sources
+- pkg:maven/org.dizitart/potassium-nitrite@3.2.0
+- pkg:maven/org.dizitart/potassium-nitrite@3.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.naver.android.svc/svc@1.0.0-beta31?classifier=sources
+- pkg:maven/com.naver.android.svc/svc@1.0.0-beta31?type=aar
+- pkg:maven/com.naver.android.svc/svc@1.0.0-beta32?classifier=sources
+- pkg:maven/com.naver.android.svc/svc@1.0.0-beta32?type=aar

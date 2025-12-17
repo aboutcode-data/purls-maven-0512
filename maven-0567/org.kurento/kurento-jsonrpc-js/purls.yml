@@ -12,3 +12,5 @@
 - pkg:maven/org.kurento/kurento-jsonrpc-js@5.1.2?classifier=sources
 - pkg:maven/org.kurento/kurento-jsonrpc-js@5.1.3
 - pkg:maven/org.kurento/kurento-jsonrpc-js@5.1.3?classifier=sources
+- pkg:maven/org.kurento/kurento-jsonrpc-js@6.10.0
+- pkg:maven/org.kurento/kurento-jsonrpc-js@6.10.0?classifier=sources

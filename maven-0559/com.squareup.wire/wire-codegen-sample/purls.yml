@@ -8,3 +8,5 @@
 - pkg:maven/com.squareup.wire/wire-codegen-sample@2.2.0?classifier=sources
 - pkg:maven/com.squareup.wire/wire-codegen-sample@2.3.0-RC1
 - pkg:maven/com.squareup.wire/wire-codegen-sample@2.3.0-RC1?classifier=sources
+- pkg:maven/com.squareup.wire/wire-codegen-sample@3.0.0-alpha01
+- pkg:maven/com.squareup.wire/wire-codegen-sample@3.0.0-alpha01?classifier=sources

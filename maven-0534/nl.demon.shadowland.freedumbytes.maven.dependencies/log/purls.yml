@@ -1,3 +1,9 @@
 - pkg:maven/nl.demon.shadowland.freedumbytes.maven.dependencies/log@3.0
 - pkg:maven/nl.demon.shadowland.freedumbytes.maven.dependencies/log@3.1.0
 - pkg:maven/nl.demon.shadowland.freedumbytes.maven.dependencies/log@3.1.1
+- pkg:maven/nl.demon.shadowland.freedumbytes.maven.dependencies/log@3.1.2
+- pkg:maven/nl.demon.shadowland.freedumbytes.maven.dependencies/log@3.1.2?classifier=sources
+- pkg:maven/nl.demon.shadowland.freedumbytes.maven.dependencies/log@5.0.0
+- pkg:maven/nl.demon.shadowland.freedumbytes.maven.dependencies/log@5.0.0?classifier=sources
+- pkg:maven/nl.demon.shadowland.freedumbytes.maven.dependencies/log@5.0.1
+- pkg:maven/nl.demon.shadowland.freedumbytes.maven.dependencies/log@5.0.1?classifier=sources

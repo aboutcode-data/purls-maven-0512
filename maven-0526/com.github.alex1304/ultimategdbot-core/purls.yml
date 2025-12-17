@@ -1,0 +1,6 @@
+- pkg:maven/com.github.alex1304/ultimategdbot-core@4.0.0-alpha2
+- pkg:maven/com.github.alex1304/ultimategdbot-core@4.0.0-alpha2?classifier=sources
+- pkg:maven/com.github.alex1304/ultimategdbot-core@4.0.0-alpha3
+- pkg:maven/com.github.alex1304/ultimategdbot-core@4.0.0-alpha3?classifier=sources
+- pkg:maven/com.github.alex1304/ultimategdbot-core@4.0.0-alpha4
+- pkg:maven/com.github.alex1304/ultimategdbot-core@4.0.0-alpha4?classifier=sources

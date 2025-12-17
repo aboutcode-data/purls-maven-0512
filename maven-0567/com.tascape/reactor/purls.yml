@@ -61,8 +61,12 @@
 - pkg:maven/com.tascape/reactor@1.2.37?classifier=sources
 - pkg:maven/com.tascape/reactor@1.2.38
 - pkg:maven/com.tascape/reactor@1.2.38?classifier=sources
+- pkg:maven/com.tascape/reactor@1.2.39
+- pkg:maven/com.tascape/reactor@1.2.39?classifier=sources
 - pkg:maven/com.tascape/reactor@1.2.3?classifier=sources
 - pkg:maven/com.tascape/reactor@1.2.4
+- pkg:maven/com.tascape/reactor@1.2.40
+- pkg:maven/com.tascape/reactor@1.2.40?classifier=sources
 - pkg:maven/com.tascape/reactor@1.2.4?classifier=sources
 - pkg:maven/com.tascape/reactor@1.2.5
 - pkg:maven/com.tascape/reactor@1.2.5?classifier=sources

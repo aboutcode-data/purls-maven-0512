@@ -1,0 +1,2 @@
+- pkg:maven/co.abit.prime/prime-client@1.1.16
+- pkg:maven/co.abit.prime/prime-client@1.1.16?classifier=sources

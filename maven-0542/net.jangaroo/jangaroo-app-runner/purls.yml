@@ -1,0 +1,2 @@
+- pkg:maven/net.jangaroo/jangaroo-app-runner@4.0.66
+- pkg:maven/net.jangaroo/jangaroo-app-runner@4.0.66?classifier=sources

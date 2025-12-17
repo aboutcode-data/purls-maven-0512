@@ -1,0 +1,6 @@
+- pkg:maven/io.radanalytics/spark-operator@0.3.3
+- pkg:maven/io.radanalytics/spark-operator@0.3.3?classifier=sources
+- pkg:maven/io.radanalytics/spark-operator@0.3.4
+- pkg:maven/io.radanalytics/spark-operator@0.3.4?classifier=sources
+- pkg:maven/io.radanalytics/spark-operator@0.3.6
+- pkg:maven/io.radanalytics/spark-operator@0.3.6?classifier=sources

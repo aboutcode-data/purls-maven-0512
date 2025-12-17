@@ -12,3 +12,4 @@
 - pkg:maven/org.apache.knox/gateway@0.9.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.knox/gateway@1.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.knox/gateway@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.knox/gateway@1.2.0?classifier=source-release&type=zip

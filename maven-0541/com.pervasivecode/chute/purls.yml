@@ -1,0 +1,6 @@
+- pkg:maven/com.pervasivecode/chute@0.10
+- pkg:maven/com.pervasivecode/chute@0.10?classifier=sources
+- pkg:maven/com.pervasivecode/chute@0.9
+- pkg:maven/com.pervasivecode/chute@0.9?classifier=sources
+- pkg:maven/com.pervasivecode/chute@1.0
+- pkg:maven/com.pervasivecode/chute@1.0?classifier=sources

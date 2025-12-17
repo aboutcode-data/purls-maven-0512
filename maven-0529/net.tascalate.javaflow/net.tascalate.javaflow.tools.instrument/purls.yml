@@ -1,0 +1,2 @@
+- pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.tools.instrument@2.6.0
+- pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.tools.instrument@2.6.0?classifier=sources

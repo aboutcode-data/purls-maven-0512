@@ -8,3 +8,4 @@
 - pkg:maven/it.sephiroth.android.library.bottomnavigation/bottom-navigation@2.0.0?type=aar
 - pkg:maven/it.sephiroth.android.library.bottomnavigation/bottom-navigation@2.0.1-rc1?type=aar
 - pkg:maven/it.sephiroth.android.library.bottomnavigation/bottom-navigation@2.0.2?type=aar
+- pkg:maven/it.sephiroth.android.library.bottomnavigation/bottom-navigation@3.0.0?type=aar

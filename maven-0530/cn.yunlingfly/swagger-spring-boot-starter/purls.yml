@@ -1,0 +1,2 @@
+- pkg:maven/cn.yunlingfly/swagger-spring-boot-starter@0.1-RELEASE
+- pkg:maven/cn.yunlingfly/swagger-spring-boot-starter@0.1-RELEASE?classifier=sources

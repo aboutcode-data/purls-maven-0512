@@ -44,3 +44,5 @@
 - pkg:maven/com.launchdarkly/launchdarkly-android-client@2.5.3?type=aar
 - pkg:maven/com.launchdarkly/launchdarkly-android-client@2.5.4?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-android-client@2.5.4?type=aar
+- pkg:maven/com.launchdarkly/launchdarkly-android-client@2.6.0?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-android-client@2.6.0?type=aar

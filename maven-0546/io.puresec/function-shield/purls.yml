@@ -4,3 +4,7 @@
 - pkg:maven/io.puresec/function-shield@1.0.7?classifier=sources
 - pkg:maven/io.puresec/function-shield@1.1.0
 - pkg:maven/io.puresec/function-shield@1.1.0?classifier=sources
+- pkg:maven/io.puresec/function-shield@1.2.0
+- pkg:maven/io.puresec/function-shield@1.2.0?classifier=sources
+- pkg:maven/io.puresec/function-shield@1.2.4
+- pkg:maven/io.puresec/function-shield@1.2.4?classifier=sources

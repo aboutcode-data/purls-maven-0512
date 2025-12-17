@@ -122,3 +122,5 @@
 - pkg:maven/org.webjars.bower/angular-animate@1.7.4?classifier=sources
 - pkg:maven/org.webjars.bower/angular-animate@1.7.5
 - pkg:maven/org.webjars.bower/angular-animate@1.7.5?classifier=sources
+- pkg:maven/org.webjars.bower/angular-animate@1.7.7
+- pkg:maven/org.webjars.bower/angular-animate@1.7.7?classifier=sources

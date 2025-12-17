@@ -1,0 +1,2 @@
+- pkg:maven/ru.noties.markwon/image-svg@3.0.0?classifier=sources
+- pkg:maven/ru.noties.markwon/image-svg@3.0.0?type=aar

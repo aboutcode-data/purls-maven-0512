@@ -66,6 +66,14 @@
 - pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.19.Final?classifier=sources
 - pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.2.Final
 - pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.2.Final?classifier=sources
+- pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.20.Final
+- pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.20.Final?classifier=sources
+- pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.21.Final
+- pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.21.Final?classifier=sources
+- pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.22.Final
+- pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.22.Final?classifier=sources
+- pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.23.Final
+- pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.23.Final?classifier=sources
 - pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.3.Final
 - pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.3.Final?classifier=sources
 - pkg:maven/io.netty/netty-tcnative-boringssl-static@2.0.4.Final

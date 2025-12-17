@@ -1,0 +1,2 @@
+- pkg:maven/tech.raaf/logelastic@2.8.2
+- pkg:maven/tech.raaf/logelastic@2.8.2?classifier=sources

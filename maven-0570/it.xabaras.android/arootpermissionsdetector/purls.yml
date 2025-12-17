@@ -1,2 +1,4 @@
 - pkg:maven/it.xabaras.android/arootpermissionsdetector@0.1?classifier=sources
 - pkg:maven/it.xabaras.android/arootpermissionsdetector@0.1?type=aar
+- pkg:maven/it.xabaras.android/arootpermissionsdetector@1.0?classifier=sources
+- pkg:maven/it.xabaras.android/arootpermissionsdetector@1.0?type=aar

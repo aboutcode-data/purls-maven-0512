@@ -1,0 +1,10 @@
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-api@0.0.11
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-api@0.0.11.2
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-api@0.0.11.2?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-api@0.0.11.3
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-api@0.0.11.3?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-api@0.0.11.4
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-api@0.0.11.4?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-api@0.0.11?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-api@0.0.12
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-api@0.0.12?classifier=sources

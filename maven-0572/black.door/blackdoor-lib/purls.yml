@@ -28,3 +28,5 @@
 - pkg:maven/black.door/blackdoor-lib@v4r2t8i1?classifier=sources
 - pkg:maven/black.door/blackdoor-lib@v4r3t0
 - pkg:maven/black.door/blackdoor-lib@v4r3t0?classifier=sources
+- pkg:maven/black.door/blackdoor-lib@v4r3t1
+- pkg:maven/black.door/blackdoor-lib@v4r3t1?classifier=sources

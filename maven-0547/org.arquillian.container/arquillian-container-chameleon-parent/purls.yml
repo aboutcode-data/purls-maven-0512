@@ -1,1 +1,2 @@
 - pkg:maven/org.arquillian.container/arquillian-container-chameleon-parent@1.0.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.container/arquillian-container-chameleon-parent@1.0.0.CR5?classifier=source-release&type=zip

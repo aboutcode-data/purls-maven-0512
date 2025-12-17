@@ -1,0 +1,2 @@
+- pkg:maven/com.avides.xml/sax-xom-parser@1.0.0-RELEASE
+- pkg:maven/com.avides.xml/sax-xom-parser@1.0.0-RELEASE?classifier=sources

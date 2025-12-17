@@ -1,0 +1,2 @@
+- pkg:maven/io.github.matzoliv/async-channels-java@0.0.1-alpha
+- pkg:maven/io.github.matzoliv/async-channels-java@0.0.1-alpha?classifier=sources

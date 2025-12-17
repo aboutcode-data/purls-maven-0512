@@ -1,0 +1,2 @@
+- pkg:maven/com.feedad.android/com.feedad.android@1.1.12?classifier=sources
+- pkg:maven/com.feedad.android/com.feedad.android@1.1.12?type=aar

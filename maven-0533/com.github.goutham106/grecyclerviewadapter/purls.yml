@@ -1,0 +1,2 @@
+- pkg:maven/com.github.goutham106/grecyclerviewadapter@0.0.3?classifier=sources
+- pkg:maven/com.github.goutham106/grecyclerviewadapter@0.0.3?type=aar

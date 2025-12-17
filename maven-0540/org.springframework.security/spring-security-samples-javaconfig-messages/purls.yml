@@ -14,6 +14,12 @@
 - pkg:maven/org.springframework.security/spring-security-samples-javaconfig-messages@4.2.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-samples-javaconfig-messages@4.2.1.RELEASE
 - pkg:maven/org.springframework.security/spring-security-samples-javaconfig-messages@4.2.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-samples-javaconfig-messages@4.2.10.RELEASE
+- pkg:maven/org.springframework.security/spring-security-samples-javaconfig-messages@4.2.10.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-samples-javaconfig-messages@4.2.11.RELEASE
+- pkg:maven/org.springframework.security/spring-security-samples-javaconfig-messages@4.2.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-samples-javaconfig-messages@4.2.12.RELEASE
+- pkg:maven/org.springframework.security/spring-security-samples-javaconfig-messages@4.2.12.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-samples-javaconfig-messages@4.2.2.RELEASE
 - pkg:maven/org.springframework.security/spring-security-samples-javaconfig-messages@4.2.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-samples-javaconfig-messages@4.2.3.RELEASE

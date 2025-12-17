@@ -1,0 +1,2 @@
+- pkg:maven/io.humble/humble-video-arch-x86_64-apple-darwin18@0.3.0
+- pkg:maven/io.humble/humble-video-arch-x86_64-apple-darwin18@0.3.0?classifier=sources

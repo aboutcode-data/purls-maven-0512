@@ -1,0 +1,2 @@
+- pkg:maven/org.jvoicexml/org.jvoicexml.jndi@0.7.8
+- pkg:maven/org.jvoicexml/org.jvoicexml.jndi@0.7.8?classifier=sources

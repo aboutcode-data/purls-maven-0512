@@ -2,3 +2,5 @@
 - pkg:maven/com.solace.camel.component/camel-solace-jms@0.1.23?classifier=sources
 - pkg:maven/com.solace.camel.component/camel-solace-jms@1.0.0
 - pkg:maven/com.solace.camel.component/camel-solace-jms@1.0.0?classifier=sources
+- pkg:maven/com.solace.camel.component/camel-solace-jms@1.2.0
+- pkg:maven/com.solace.camel.component/camel-solace-jms@1.2.0?classifier=sources

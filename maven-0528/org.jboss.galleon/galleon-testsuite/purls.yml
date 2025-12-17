@@ -11,3 +11,11 @@
 - pkg:maven/org.jboss.galleon/galleon-testsuite@3.0.0.Alpha3
 - pkg:maven/org.jboss.galleon/galleon-testsuite@3.0.0.Alpha4
 - pkg:maven/org.jboss.galleon/galleon-testsuite@3.0.0.Beta1
+- pkg:maven/org.jboss.galleon/galleon-testsuite@3.0.0.CR1
+- pkg:maven/org.jboss.galleon/galleon-testsuite@3.0.0.Final
+- pkg:maven/org.jboss.galleon/galleon-testsuite@3.0.1.Alpha1
+- pkg:maven/org.jboss.galleon/galleon-testsuite@3.0.1.CR1
+- pkg:maven/org.jboss.galleon/galleon-testsuite@3.0.1.CR2
+- pkg:maven/org.jboss.galleon/galleon-testsuite@3.0.1.CR3
+- pkg:maven/org.jboss.galleon/galleon-testsuite@3.0.1.Final
+- pkg:maven/org.jboss.galleon/galleon-testsuite@3.0.2.Final

@@ -8,3 +8,7 @@
 - pkg:maven/com.shopizer/sm-core-model@2.2.0?classifier=sources
 - pkg:maven/com.shopizer/sm-core-model@2.2.1
 - pkg:maven/com.shopizer/sm-core-model@2.2.1?classifier=sources
+- pkg:maven/com.shopizer/sm-core-model@2.3.0.0
+- pkg:maven/com.shopizer/sm-core-model@2.3.0.0?classifier=sources
+- pkg:maven/com.shopizer/sm-core-model@2.4.0
+- pkg:maven/com.shopizer/sm-core-model@2.4.0?classifier=sources

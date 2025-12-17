@@ -27,6 +27,12 @@
 - pkg:maven/io.netty/netty-build@21?classifier=sources
 - pkg:maven/io.netty/netty-build@22
 - pkg:maven/io.netty/netty-build@22?classifier=sources
+- pkg:maven/io.netty/netty-build@23
+- pkg:maven/io.netty/netty-build@23?classifier=sources
+- pkg:maven/io.netty/netty-build@24
+- pkg:maven/io.netty/netty-build@24?classifier=sources
+- pkg:maven/io.netty/netty-build@25
+- pkg:maven/io.netty/netty-build@25?classifier=sources
 - pkg:maven/io.netty/netty-build@2?classifier=sources
 - pkg:maven/io.netty/netty-build@3
 - pkg:maven/io.netty/netty-build@3?classifier=sources

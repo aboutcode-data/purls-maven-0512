@@ -1,2 +1,4 @@
 - pkg:maven/org.jmock/jmock-imposters-tests@2.10.0-RC1
 - pkg:maven/org.jmock/jmock-imposters-tests@2.10.0-RC2
+- pkg:maven/org.jmock/jmock-imposters-tests@2.10.0-RC3
+- pkg:maven/org.jmock/jmock-imposters-tests@2.11.0

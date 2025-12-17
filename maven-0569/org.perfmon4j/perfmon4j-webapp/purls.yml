@@ -10,5 +10,9 @@
 - pkg:maven/org.perfmon4j/perfmon4j-webapp@1.3.2?type=war
 - pkg:maven/org.perfmon4j/perfmon4j-webapp@1.3.3?classifier=sources
 - pkg:maven/org.perfmon4j/perfmon4j-webapp@1.3.3?type=war
+- pkg:maven/org.perfmon4j/perfmon4j-webapp@1.3.4-HotfixA?classifier=sources
+- pkg:maven/org.perfmon4j/perfmon4j-webapp@1.3.4-HotfixA?type=war
+- pkg:maven/org.perfmon4j/perfmon4j-webapp@1.3.4-HotfixB?classifier=sources
+- pkg:maven/org.perfmon4j/perfmon4j-webapp@1.3.4-HotfixB?type=war
 - pkg:maven/org.perfmon4j/perfmon4j-webapp@1.3.4?classifier=sources
 - pkg:maven/org.perfmon4j/perfmon4j-webapp@1.3.4?type=war

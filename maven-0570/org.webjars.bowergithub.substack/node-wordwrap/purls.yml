@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.substack/node-wordwrap@0.0.3
+- pkg:maven/org.webjars.bowergithub.substack/node-wordwrap@0.0.3?classifier=sources
 - pkg:maven/org.webjars.bowergithub.substack/node-wordwrap@1.0.0
 - pkg:maven/org.webjars.bowergithub.substack/node-wordwrap@1.0.0?classifier=sources

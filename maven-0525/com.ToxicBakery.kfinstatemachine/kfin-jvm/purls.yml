@@ -1,0 +1,2 @@
+- pkg:maven/com.ToxicBakery.kfinstatemachine/kfin-jvm@3.0.14?classifier=sources
+- pkg:maven/com.ToxicBakery.kfinstatemachine/kfin-jvm@3.0.17?classifier=sources

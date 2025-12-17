@@ -1,0 +1,2 @@
+- pkg:maven/com.kostasdrakonakis/randomizer@1.0.0?classifier=sources
+- pkg:maven/com.kostasdrakonakis/randomizer@1.0.0?type=aar

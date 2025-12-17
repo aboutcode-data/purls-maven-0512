@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.bower/camunda-bpm-sdk-js@7.10.1
+- pkg:maven/org.webjars.bower/camunda-bpm-sdk-js@7.10.1?classifier=sources
 - pkg:maven/org.webjars.bower/camunda-bpm-sdk-js@7.4.0
 - pkg:maven/org.webjars.bower/camunda-bpm-sdk-js@7.4.0?classifier=sources
 - pkg:maven/org.webjars.bower/camunda-bpm-sdk-js@7.4.1

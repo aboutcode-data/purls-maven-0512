@@ -42,3 +42,7 @@
 - pkg:maven/com.appnexus.opensdk/appnexus-sdk@4.8.1?type=aar
 - pkg:maven/com.appnexus.opensdk/appnexus-sdk@4.8?type=aar
 - pkg:maven/com.appnexus.opensdk/appnexus-sdk@4.9?type=aar
+- pkg:maven/com.appnexus.opensdk/appnexus-sdk@5.0?type=aar
+- pkg:maven/com.appnexus.opensdk/appnexus-sdk@5.1.1?type=aar
+- pkg:maven/com.appnexus.opensdk/appnexus-sdk@5.1.2?type=aar
+- pkg:maven/com.appnexus.opensdk/appnexus-sdk@5.1?type=aar

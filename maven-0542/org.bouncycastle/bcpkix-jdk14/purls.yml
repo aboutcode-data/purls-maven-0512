@@ -23,3 +23,5 @@
 - pkg:maven/org.bouncycastle/bcpkix-jdk14@1.59?classifier=sources
 - pkg:maven/org.bouncycastle/bcpkix-jdk14@1.60
 - pkg:maven/org.bouncycastle/bcpkix-jdk14@1.60?classifier=sources
+- pkg:maven/org.bouncycastle/bcpkix-jdk14@1.61
+- pkg:maven/org.bouncycastle/bcpkix-jdk14@1.61?classifier=sources

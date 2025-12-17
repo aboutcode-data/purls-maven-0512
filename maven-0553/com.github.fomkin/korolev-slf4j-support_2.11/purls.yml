@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fomkin/korolev-slf4j-support_2.11@0.10.0
+- pkg:maven/com.github.fomkin/korolev-slf4j-support_2.11@0.10.0?classifier=sources

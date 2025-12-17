@@ -34,3 +34,5 @@
 - pkg:maven/org.wso2.carbon/Axis2SampleService@4.4.35?type=aar
 - pkg:maven/org.wso2.carbon/Axis2SampleService@4.4.36?classifier=sources
 - pkg:maven/org.wso2.carbon/Axis2SampleService@4.4.36?type=aar
+- pkg:maven/org.wso2.carbon/Axis2SampleService@4.4.37?classifier=sources
+- pkg:maven/org.wso2.carbon/Axis2SampleService@4.4.37?type=aar

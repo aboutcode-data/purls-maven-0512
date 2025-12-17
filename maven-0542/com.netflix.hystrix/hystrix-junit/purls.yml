@@ -4,6 +4,8 @@
 - pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.11?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.12
 - pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.12?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.18
+- pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.18?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.3
 - pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.3-rc.1
 - pkg:maven/com.netflix.hystrix/hystrix-junit@1.5.3-rc.1?classifier=sources

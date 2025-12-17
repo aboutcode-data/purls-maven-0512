@@ -1,0 +1,2 @@
+- pkg:maven/se.jguru.shared.test.entity/jguru-shared-entity-test@0.9.1
+- pkg:maven/se.jguru.shared.test.entity/jguru-shared-entity-test@0.9.1?classifier=sources

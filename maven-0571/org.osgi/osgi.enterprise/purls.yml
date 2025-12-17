@@ -2,3 +2,5 @@
 - pkg:maven/org.osgi/osgi.enterprise@5.0.0?classifier=sources
 - pkg:maven/org.osgi/osgi.enterprise@6.0.0
 - pkg:maven/org.osgi/osgi.enterprise@6.0.0?classifier=sources
+- pkg:maven/org.osgi/osgi.enterprise@7.0.0
+- pkg:maven/org.osgi/osgi.enterprise@7.0.0?classifier=sources

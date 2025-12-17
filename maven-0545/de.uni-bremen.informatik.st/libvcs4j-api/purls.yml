@@ -22,3 +22,5 @@
 - pkg:maven/de.uni-bremen.informatik.st/libvcs4j-api@1.4.0?classifier=sources
 - pkg:maven/de.uni-bremen.informatik.st/libvcs4j-api@1.5.0
 - pkg:maven/de.uni-bremen.informatik.st/libvcs4j-api@1.5.0?classifier=sources
+- pkg:maven/de.uni-bremen.informatik.st/libvcs4j-api@1.6.0
+- pkg:maven/de.uni-bremen.informatik.st/libvcs4j-api@1.6.0?classifier=sources

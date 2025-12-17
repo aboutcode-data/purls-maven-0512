@@ -1,0 +1,4 @@
+- pkg:maven/nl.praegus/toolchain-sikulix-fixture@0.1-PRAEGUS
+- pkg:maven/nl.praegus/toolchain-sikulix-fixture@0.1-PRAEGUS?classifier=sources
+- pkg:maven/nl.praegus/toolchain-sikulix-fixture@0.2
+- pkg:maven/nl.praegus/toolchain-sikulix-fixture@0.2?classifier=sources

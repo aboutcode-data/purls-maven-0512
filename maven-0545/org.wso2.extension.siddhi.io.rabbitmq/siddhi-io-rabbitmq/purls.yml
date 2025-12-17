@@ -32,3 +32,5 @@
 - pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq@1.0.8?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq@1.0.9
 - pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq@1.0.9?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq@1.1.0
+- pkg:maven/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq@1.1.0?classifier=sources

@@ -84,3 +84,5 @@
 - pkg:maven/com.netflix.msl/burp-extender@1.2224.0?classifier=sources
 - pkg:maven/com.netflix.msl/burp-extender@1.2225.0
 - pkg:maven/com.netflix.msl/burp-extender@1.2225.0?classifier=sources
+- pkg:maven/com.netflix.msl/burp-extender@1.2226.0
+- pkg:maven/com.netflix.msl/burp-extender@1.2226.0?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/com.cognitect.aws/ssm@669.2.364.0
+- pkg:maven/com.cognitect.aws/ssm@669.2.364.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ssm@697.2.391.0
+- pkg:maven/com.cognitect.aws/ssm@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ssm@701.2.392.0
+- pkg:maven/com.cognitect.aws/ssm@701.2.392.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ssm@707.2.406.0
+- pkg:maven/com.cognitect.aws/ssm@707.2.406.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ssm@711.2.412.0
+- pkg:maven/com.cognitect.aws/ssm@711.2.412.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ssm@712.2.414.0
+- pkg:maven/com.cognitect.aws/ssm@712.2.414.0?classifier=sources

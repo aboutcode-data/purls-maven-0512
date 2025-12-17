@@ -4,3 +4,13 @@
 - pkg:maven/com.caucho/quercus@4.0.44?classifier=sources
 - pkg:maven/com.caucho/quercus@4.0.45
 - pkg:maven/com.caucho/quercus@4.0.45?classifier=sources
+- pkg:maven/com.caucho/quercus@4.0.50
+- pkg:maven/com.caucho/quercus@4.0.50?classifier=sources
+- pkg:maven/com.caucho/quercus@4.0.52
+- pkg:maven/com.caucho/quercus@4.0.52?classifier=sources
+- pkg:maven/com.caucho/quercus@4.0.53
+- pkg:maven/com.caucho/quercus@4.0.53?classifier=sources
+- pkg:maven/com.caucho/quercus@4.0.59
+- pkg:maven/com.caucho/quercus@4.0.59?classifier=sources
+- pkg:maven/com.caucho/quercus@4.0.60
+- pkg:maven/com.caucho/quercus@4.0.60?classifier=sources

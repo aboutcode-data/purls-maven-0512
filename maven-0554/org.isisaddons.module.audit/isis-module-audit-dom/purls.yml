@@ -22,6 +22,8 @@
 - pkg:maven/org.isisaddons.module.audit/isis-module-audit-dom@1.16.0?classifier=sources
 - pkg:maven/org.isisaddons.module.audit/isis-module-audit-dom@1.16.2
 - pkg:maven/org.isisaddons.module.audit/isis-module-audit-dom@1.16.2?classifier=sources
+- pkg:maven/org.isisaddons.module.audit/isis-module-audit-dom@1.17.0
+- pkg:maven/org.isisaddons.module.audit/isis-module-audit-dom@1.17.0?classifier=sources
 - pkg:maven/org.isisaddons.module.audit/isis-module-audit-dom@1.6.0
 - pkg:maven/org.isisaddons.module.audit/isis-module-audit-dom@1.6.0?classifier=sources
 - pkg:maven/org.isisaddons.module.audit/isis-module-audit-dom@1.7.0

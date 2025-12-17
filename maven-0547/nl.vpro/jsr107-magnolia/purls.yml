@@ -13,6 +13,14 @@
 - pkg:maven/nl.vpro/jsr107-magnolia@1.14?classifier=sources
 - pkg:maven/nl.vpro/jsr107-magnolia@1.15
 - pkg:maven/nl.vpro/jsr107-magnolia@1.15?classifier=sources
+- pkg:maven/nl.vpro/jsr107-magnolia@1.16
+- pkg:maven/nl.vpro/jsr107-magnolia@1.16?classifier=sources
+- pkg:maven/nl.vpro/jsr107-magnolia@1.17
+- pkg:maven/nl.vpro/jsr107-magnolia@1.17?classifier=sources
+- pkg:maven/nl.vpro/jsr107-magnolia@1.18
+- pkg:maven/nl.vpro/jsr107-magnolia@1.18?classifier=sources
+- pkg:maven/nl.vpro/jsr107-magnolia@1.19
+- pkg:maven/nl.vpro/jsr107-magnolia@1.19?classifier=sources
 - pkg:maven/nl.vpro/jsr107-magnolia@1.1?classifier=sources
 - pkg:maven/nl.vpro/jsr107-magnolia@1.2
 - pkg:maven/nl.vpro/jsr107-magnolia@1.2?classifier=sources

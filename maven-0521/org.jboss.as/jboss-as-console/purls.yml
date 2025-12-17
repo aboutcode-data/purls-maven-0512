@@ -194,6 +194,10 @@
 - pkg:maven/org.jboss.as/jboss-as-console@2.5.14.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console@2.5.17.Final?classifier=sources
 - pkg:maven/org.jboss.as/jboss-as-console@2.5.17.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console@2.5.18.Final?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-console@2.5.18.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console@2.5.19.Final?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-console@2.5.19.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console@2.5.1?classifier=sources
 - pkg:maven/org.jboss.as/jboss-as-console@2.5.1?type=war
 - pkg:maven/org.jboss.as/jboss-as-console@2.5.2.Final?classifier=sources
@@ -344,6 +348,8 @@
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.16.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.18.Final?classifier=sources
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.18.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console@2.9.19.Final?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-console@2.9.19.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.2.Final?classifier=sources
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.2.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.3.Final?classifier=sources

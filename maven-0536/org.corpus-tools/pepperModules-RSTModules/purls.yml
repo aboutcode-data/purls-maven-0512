@@ -2,3 +2,4 @@
 - pkg:maven/org.corpus-tools/pepperModules-RSTModules@0.0.12?classifier=sources
 - pkg:maven/org.corpus-tools/pepperModules-RSTModules@0.0.8?classifier=sources
 - pkg:maven/org.corpus-tools/pepperModules-RSTModules@0.0.9?classifier=sources
+- pkg:maven/org.corpus-tools/pepperModules-RSTModules@0.1.0?classifier=sources

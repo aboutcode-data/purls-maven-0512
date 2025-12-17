@@ -1,0 +1,2 @@
+- pkg:maven/com.kloudtek.mule-elogging/mule-elogging-log4j2@0.10.3
+- pkg:maven/com.kloudtek.mule-elogging/mule-elogging-log4j2@0.10.3?classifier=sources

@@ -1,0 +1,7 @@
+- pkg:maven/io.prestosql/presto-teradata-functions@300?classifier=sources
+- pkg:maven/io.prestosql/presto-teradata-functions@301?classifier=sources
+- pkg:maven/io.prestosql/presto-teradata-functions@302?classifier=sources
+- pkg:maven/io.prestosql/presto-teradata-functions@303?classifier=sources
+- pkg:maven/io.prestosql/presto-teradata-functions@304?classifier=sources
+- pkg:maven/io.prestosql/presto-teradata-functions@305?classifier=sources
+- pkg:maven/io.prestosql/presto-teradata-functions@306?classifier=sources

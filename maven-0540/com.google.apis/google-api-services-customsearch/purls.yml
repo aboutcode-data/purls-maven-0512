@@ -36,6 +36,10 @@
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20-1.15.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20181001-1.26.0
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20181001-1.26.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20181001-1.27.0
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20181001-1.27.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20181001-1.28.0
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20181001-1.28.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev21-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev21-1.13.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev21-1.14.2-beta
@@ -418,3 +422,13 @@
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev73-1.24.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev73-1.25.0
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev73-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev74-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev74-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev74-1.22.0
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev74-1.22.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev74-1.23.0
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev74-1.23.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev74-1.24.1
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev74-1.24.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev74-1.25.0
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev74-1.25.0?classifier=sources

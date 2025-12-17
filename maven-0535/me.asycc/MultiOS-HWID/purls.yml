@@ -1,0 +1,3 @@
+- pkg:maven/me.asycc/MultiOS-HWID@1.1.0
+- pkg:maven/me.asycc/MultiOS-HWID@1.1.1
+- pkg:maven/me.asycc/MultiOS-HWID@1.1.1?classifier=sources

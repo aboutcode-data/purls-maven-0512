@@ -1,4 +1,6 @@
 - pkg:maven/me.shadaj/scalapy-tensorflow_2.12@0.1.0
+- pkg:maven/me.shadaj/scalapy-tensorflow_2.12@0.1.0%2B1-73f325f3
+- pkg:maven/me.shadaj/scalapy-tensorflow_2.12@0.1.0%2B1-73f325f3?classifier=sources
 - pkg:maven/me.shadaj/scalapy-tensorflow_2.12@0.1.0?classifier=sources
 - pkg:maven/me.shadaj/scalapy-tensorflow_2.12@a453c25c
 - pkg:maven/me.shadaj/scalapy-tensorflow_2.12@a453c25c?classifier=sources

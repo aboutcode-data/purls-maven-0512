@@ -1,0 +1,2 @@
+- pkg:maven/com.cedarsoft.commons/javafx-test-utils@8.8.1
+- pkg:maven/com.cedarsoft.commons/javafx-test-utils@8.8.1?classifier=sources

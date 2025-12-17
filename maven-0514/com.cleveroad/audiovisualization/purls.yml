@@ -4,3 +4,4 @@
 - pkg:maven/com.cleveroad/audiovisualization@0.9.3?classifier=sources
 - pkg:maven/com.cleveroad/audiovisualization@0.9.4?classifier=sources
 - pkg:maven/com.cleveroad/audiovisualization@1.0.0?classifier=sources
+- pkg:maven/com.cleveroad/audiovisualization@1.0.1?classifier=sources
