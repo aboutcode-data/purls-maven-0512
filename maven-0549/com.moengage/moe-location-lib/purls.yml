@@ -36,3 +36,9 @@
 - pkg:maven/com.moengage/moe-location-lib@4.0.00?type=aar
 - pkg:maven/com.moengage/moe-location-lib@4.1.00?classifier=sources
 - pkg:maven/com.moengage/moe-location-lib@4.1.00?type=aar
+- pkg:maven/com.moengage/moe-location-lib@4.1.01?classifier=sources
+- pkg:maven/com.moengage/moe-location-lib@4.1.01?type=aar
+- pkg:maven/com.moengage/moe-location-lib@4.1.02?classifier=sources
+- pkg:maven/com.moengage/moe-location-lib@4.1.02?type=aar
+- pkg:maven/com.moengage/moe-location-lib@4.1.03?classifier=sources
+- pkg:maven/com.moengage/moe-location-lib@4.1.03?type=aar

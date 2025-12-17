@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardb@1.0.0-dms
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardb@1.0.0-dms?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.raml.jaxrs/jaxrs-to-raml-gradle-examples@2.1.0
 - pkg:maven/org.raml.jaxrs/jaxrs-to-raml-gradle-examples@2.1.1
+- pkg:maven/org.raml.jaxrs/jaxrs-to-raml-gradle-examples@3.0.0
+- pkg:maven/org.raml.jaxrs/jaxrs-to-raml-gradle-examples@3.0.1

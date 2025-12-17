@@ -1,0 +1,2 @@
+- pkg:maven/org.hjug.dtangler.testdata.gooddeps/dtangler-testdata-good-deps@2.1.0
+- pkg:maven/org.hjug.dtangler.testdata.gooddeps/dtangler-testdata-good-deps@2.1.0?classifier=sources

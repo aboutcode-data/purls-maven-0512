@@ -146,3 +146,5 @@
 - pkg:maven/us.fatehi/schemacrawler-sybaseiq@14.16.02-java7?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-sybaseiq@14.16.03-java7
 - pkg:maven/us.fatehi/schemacrawler-sybaseiq@14.16.03-java7?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-sybaseiq@14.16.04.01-java7
+- pkg:maven/us.fatehi/schemacrawler-sybaseiq@14.16.04.01-java7?classifier=sources

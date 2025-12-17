@@ -1,3 +1,5 @@
+- pkg:maven/uk.co.firstzero/AddOnJavaAntTasks@2.11
+- pkg:maven/uk.co.firstzero/AddOnJavaAntTasks@2.11?classifier=sources
 - pkg:maven/uk.co.firstzero/AddOnJavaAntTasks@2.6
 - pkg:maven/uk.co.firstzero/AddOnJavaAntTasks@2.6?classifier=sources
 - pkg:maven/uk.co.firstzero/AddOnJavaAntTasks@2.7

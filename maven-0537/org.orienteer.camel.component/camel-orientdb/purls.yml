@@ -1,0 +1,2 @@
+- pkg:maven/org.orienteer.camel.component/camel-orientdb@1.0
+- pkg:maven/org.orienteer.camel.component/camel-orientdb@1.0?classifier=sources

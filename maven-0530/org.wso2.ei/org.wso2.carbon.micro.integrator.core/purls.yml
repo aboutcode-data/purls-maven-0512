@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.core@6.3.0-m11
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.core@6.3.0-m11?classifier=sources

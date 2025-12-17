@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/lodash.flatten@3.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/lodash.flatten@4.2.0
 - pkg:maven/org.webjars.npm/lodash.flatten@4.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/lodash.flatten@4.4.0
+- pkg:maven/org.webjars.npm/lodash.flatten@4.4.0?classifier=sources

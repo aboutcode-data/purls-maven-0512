@@ -1,0 +1,2 @@
+- pkg:maven/edu.isi.vista/hppc-util@7.6.3
+- pkg:maven/edu.isi.vista/hppc-util@7.6.3?classifier=sources

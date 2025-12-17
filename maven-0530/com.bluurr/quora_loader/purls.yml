@@ -1,0 +1,4 @@
+- pkg:maven/com.bluurr/quora_loader@1.0.0
+- pkg:maven/com.bluurr/quora_loader@1.0.0?classifier=sources
+- pkg:maven/com.bluurr/quora_loader@1.1.0
+- pkg:maven/com.bluurr/quora_loader@1.1.0?classifier=sources

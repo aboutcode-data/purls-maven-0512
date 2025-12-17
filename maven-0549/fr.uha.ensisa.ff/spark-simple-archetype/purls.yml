@@ -1,0 +1,2 @@
+- pkg:maven/fr.uha.ensisa.ff/spark-simple-archetype@0.0.1?classifier=sources
+- pkg:maven/fr.uha.ensisa.ff/spark-simple-archetype@0.0.2?classifier=sources

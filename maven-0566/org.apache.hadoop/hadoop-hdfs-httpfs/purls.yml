@@ -72,11 +72,14 @@
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.7.4?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.7.4?type=war
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.7.5?type=war
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.7.6?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.7.6?type=war
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.8.0?type=war
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.8.1?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.8.1?type=war
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.8.2?type=war
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.8.3?type=war
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.8.4?type=war
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@2.9.0?type=war
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@3.0.0
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@3.0.0-alpha1?type=war
@@ -84,3 +87,7 @@
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@3.0.0-alpha3?type=war
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@3.0.0-alpha4
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@3.0.0-beta1
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@3.0.1
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@3.0.2
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@3.0.2?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-httpfs@3.1.0

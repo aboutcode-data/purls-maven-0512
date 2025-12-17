@@ -47,7 +47,13 @@
 - pkg:maven/org.webjars.npm/zone.js@0.8.13?classifier=sources
 - pkg:maven/org.webjars.npm/zone.js@0.8.16
 - pkg:maven/org.webjars.npm/zone.js@0.8.16?classifier=sources
+- pkg:maven/org.webjars.npm/zone.js@0.8.19
+- pkg:maven/org.webjars.npm/zone.js@0.8.19?classifier=sources
 - pkg:maven/org.webjars.npm/zone.js@0.8.1?classifier=sources
+- pkg:maven/org.webjars.npm/zone.js@0.8.20
+- pkg:maven/org.webjars.npm/zone.js@0.8.20?classifier=sources
+- pkg:maven/org.webjars.npm/zone.js@0.8.26
+- pkg:maven/org.webjars.npm/zone.js@0.8.26?classifier=sources
 - pkg:maven/org.webjars.npm/zone.js@0.8.4
 - pkg:maven/org.webjars.npm/zone.js@0.8.4?classifier=sources
 - pkg:maven/org.webjars.npm/zone.js@0.8.5

@@ -1,0 +1,2 @@
+- pkg:maven/com.sabre.oss.yare/yare-invoker-js@0.1
+- pkg:maven/com.sabre.oss.yare/yare-invoker-js@0.1?classifier=sources

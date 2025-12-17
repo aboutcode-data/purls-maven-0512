@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.fractal.juliac.fraclet/juliac-fraclet-opt-comp-service@2.7
+- pkg:maven/org.ow2.fractal.juliac.fraclet/juliac-fraclet-opt-comp-service@2.7?classifier=sources

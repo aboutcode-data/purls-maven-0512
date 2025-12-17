@@ -26,3 +26,5 @@
 - pkg:maven/org.eclipse.tycho/tycho-artifactcomparator@0.26.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/tycho-artifactcomparator@1.0.0
 - pkg:maven/org.eclipse.tycho/tycho-artifactcomparator@1.0.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-artifactcomparator@1.1.0
+- pkg:maven/org.eclipse.tycho/tycho-artifactcomparator@1.1.0?classifier=sources

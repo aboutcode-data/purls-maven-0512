@@ -7,3 +7,4 @@
 - pkg:maven/org.activecomponents.jadex/jadex-applications-android-chat@3.0.43?classifier=sources
 - pkg:maven/org.activecomponents.jadex/jadex-applications-android-chat@3.0.69?classifier=sources
 - pkg:maven/org.activecomponents.jadex/jadex-applications-android-chat@3.0.7?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-applications-android-chat@3.0.91?classifier=sources

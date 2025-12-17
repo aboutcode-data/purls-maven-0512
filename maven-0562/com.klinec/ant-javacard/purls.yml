@@ -1,0 +1,4 @@
+- pkg:maven/com.klinec/ant-javacard@1.8.0
+- pkg:maven/com.klinec/ant-javacard@1.8.0?classifier=sources
+- pkg:maven/com.klinec/ant-javacard@18.3.20
+- pkg:maven/com.klinec/ant-javacard@18.3.20?classifier=sources

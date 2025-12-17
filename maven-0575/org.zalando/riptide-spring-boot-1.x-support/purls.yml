@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando/riptide-spring-boot-1.x-support@2.8.0
+- pkg:maven/org.zalando/riptide-spring-boot-1.x-support@2.8.0?classifier=sources

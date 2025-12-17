@@ -1,0 +1,2 @@
+- pkg:maven/au.gov.digitalhealth/ncts-syndication-client-library@1.0.0
+- pkg:maven/au.gov.digitalhealth/ncts-syndication-client-library@1.0.0?classifier=sources

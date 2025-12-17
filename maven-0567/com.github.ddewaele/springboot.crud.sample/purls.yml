@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ddewaele/springboot.crud.sample@0.0.10
+- pkg:maven/com.github.ddewaele/springboot.crud.sample@0.0.10?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.devicemgt-proprietary/org.wso2.carbon.device.mgt.ios.dep@3.2.0
+- pkg:maven/org.wso2.carbon.devicemgt-proprietary/org.wso2.carbon.device.mgt.ios.dep@3.2.1
+- pkg:maven/org.wso2.carbon.devicemgt-proprietary/org.wso2.carbon.device.mgt.ios.dep@3.3.0
+- pkg:maven/org.wso2.carbon.devicemgt-proprietary/org.wso2.carbon.device.mgt.ios.dep@3.3.1

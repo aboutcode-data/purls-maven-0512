@@ -24,3 +24,5 @@
 - pkg:maven/ws.ament.hammock/web-undertow@1.5?classifier=sources
 - pkg:maven/ws.ament.hammock/web-undertow@2.0
 - pkg:maven/ws.ament.hammock/web-undertow@2.0?classifier=sources
+- pkg:maven/ws.ament.hammock/web-undertow@2.1
+- pkg:maven/ws.ament.hammock/web-undertow@2.1?classifier=sources

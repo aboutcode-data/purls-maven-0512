@@ -1,0 +1,2 @@
+- pkg:maven/org.rundeck/rundeck@3.0.0-alpha1?classifier=sources
+- pkg:maven/org.rundeck/rundeck@3.0.0-alpha1?type=war

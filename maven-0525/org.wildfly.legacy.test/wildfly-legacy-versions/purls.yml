@@ -1,2 +1,4 @@
 - pkg:maven/org.wildfly.legacy.test/wildfly-legacy-versions@2.0.3.Final
 - pkg:maven/org.wildfly.legacy.test/wildfly-legacy-versions@2.0.3.Final?classifier=sources
+- pkg:maven/org.wildfly.legacy.test/wildfly-legacy-versions@3.0.0.Final
+- pkg:maven/org.wildfly.legacy.test/wildfly-legacy-versions@3.0.0.Final?classifier=sources

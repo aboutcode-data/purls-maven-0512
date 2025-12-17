@@ -6,6 +6,16 @@
 - pkg:maven/org.mockito/mockito-inline@2.12.0?classifier=sources
 - pkg:maven/org.mockito/mockito-inline@2.13.0
 - pkg:maven/org.mockito/mockito-inline@2.13.0?classifier=sources
+- pkg:maven/org.mockito/mockito-inline@2.15.0
+- pkg:maven/org.mockito/mockito-inline@2.15.0?classifier=sources
+- pkg:maven/org.mockito/mockito-inline@2.16.0
+- pkg:maven/org.mockito/mockito-inline@2.16.0?classifier=sources
+- pkg:maven/org.mockito/mockito-inline@2.17.0
+- pkg:maven/org.mockito/mockito-inline@2.17.0?classifier=sources
+- pkg:maven/org.mockito/mockito-inline@2.18.0
+- pkg:maven/org.mockito/mockito-inline@2.18.0?classifier=sources
+- pkg:maven/org.mockito/mockito-inline@2.18.3
+- pkg:maven/org.mockito/mockito-inline@2.18.3?classifier=sources
 - pkg:maven/org.mockito/mockito-inline@2.7.10
 - pkg:maven/org.mockito/mockito-inline@2.7.10?classifier=sources
 - pkg:maven/org.mockito/mockito-inline@2.7.11

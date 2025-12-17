@@ -1,2 +1,4 @@
 - pkg:maven/com.github.patwakeem/asm@2017.10.14
 - pkg:maven/com.github.patwakeem/asm@2017.10.14?classifier=sources
+- pkg:maven/com.github.patwakeem/asm@2018.4.8
+- pkg:maven/com.github.patwakeem/asm@2018.4.8?classifier=sources

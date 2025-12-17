@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.mxnet/mxnet-full_2.11-linux-x86_64-cpu@1.2.0
+- pkg:maven/org.apache.mxnet/mxnet-full_2.11-linux-x86_64-cpu@1.2.0?classifier=sources

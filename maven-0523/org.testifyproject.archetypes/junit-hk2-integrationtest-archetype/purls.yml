@@ -2,3 +2,4 @@
 - pkg:maven/org.testifyproject.archetypes/junit-hk2-integrationtest-archetype@0.9.1?classifier=sources
 - pkg:maven/org.testifyproject.archetypes/junit-hk2-integrationtest-archetype@0.9.2?classifier=sources
 - pkg:maven/org.testifyproject.archetypes/junit-hk2-integrationtest-archetype@0.9.3?classifier=sources
+- pkg:maven/org.testifyproject.archetypes/junit-hk2-integrationtest-archetype@1.0.0?classifier=sources

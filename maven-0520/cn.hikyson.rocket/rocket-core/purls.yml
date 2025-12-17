@@ -1,0 +1,12 @@
+- pkg:maven/cn.hikyson.rocket/rocket-core@1.9.3?classifier=sources
+- pkg:maven/cn.hikyson.rocket/rocket-core@1.9.3?type=aar
+- pkg:maven/cn.hikyson.rocket/rocket-core@2.1?classifier=sources
+- pkg:maven/cn.hikyson.rocket/rocket-core@2.1?type=aar
+- pkg:maven/cn.hikyson.rocket/rocket-core@2.2?classifier=sources
+- pkg:maven/cn.hikyson.rocket/rocket-core@2.2?type=aar
+- pkg:maven/cn.hikyson.rocket/rocket-core@2.3.1?classifier=sources
+- pkg:maven/cn.hikyson.rocket/rocket-core@2.3.1?type=aar
+- pkg:maven/cn.hikyson.rocket/rocket-core@2.3?classifier=sources
+- pkg:maven/cn.hikyson.rocket/rocket-core@2.3?type=aar
+- pkg:maven/cn.hikyson.rocket/rocket-core@2.4.0?classifier=sources
+- pkg:maven/cn.hikyson.rocket/rocket-core@2.4.0?type=aar

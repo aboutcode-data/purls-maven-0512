@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ahodanenok.maven.plugins/gwt-sdm-url-maven-plugin@1.0.0
+- pkg:maven/com.github.ahodanenok.maven.plugins/gwt-sdm-url-maven-plugin@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-cuba-platform-swfupload@2.2
+- pkg:maven/org.webjars.bower/github-com-cuba-platform-swfupload@2.2?classifier=sources

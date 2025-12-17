@@ -1,0 +1,2 @@
+- pkg:maven/io.mockk/mockk-agent-jvm@1.8
+- pkg:maven/io.mockk/mockk-agent-jvm@1.8?classifier=sources

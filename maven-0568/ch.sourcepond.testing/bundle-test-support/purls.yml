@@ -6,6 +6,8 @@
 - pkg:maven/ch.sourcepond.testing/bundle-test-support@0.1.10?classifier=sources
 - pkg:maven/ch.sourcepond.testing/bundle-test-support@0.1.11
 - pkg:maven/ch.sourcepond.testing/bundle-test-support@0.1.11?classifier=sources
+- pkg:maven/ch.sourcepond.testing/bundle-test-support@0.1.12
+- pkg:maven/ch.sourcepond.testing/bundle-test-support@0.1.12?classifier=sources
 - pkg:maven/ch.sourcepond.testing/bundle-test-support@0.1.4
 - pkg:maven/ch.sourcepond.testing/bundle-test-support@0.1.4?classifier=sources
 - pkg:maven/ch.sourcepond.testing/bundle-test-support@0.1.5
@@ -18,3 +20,7 @@
 - pkg:maven/ch.sourcepond.testing/bundle-test-support@0.1.8?classifier=sources
 - pkg:maven/ch.sourcepond.testing/bundle-test-support@0.1.9
 - pkg:maven/ch.sourcepond.testing/bundle-test-support@0.1.9?classifier=sources
+- pkg:maven/ch.sourcepond.testing/bundle-test-support@0.2.0
+- pkg:maven/ch.sourcepond.testing/bundle-test-support@0.2.0?classifier=sources
+- pkg:maven/ch.sourcepond.testing/bundle-test-support@0.2.1
+- pkg:maven/ch.sourcepond.testing/bundle-test-support@0.2.1?classifier=sources

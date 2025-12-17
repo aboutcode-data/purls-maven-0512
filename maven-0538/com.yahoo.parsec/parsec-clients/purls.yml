@@ -38,5 +38,9 @@
 - pkg:maven/com.yahoo.parsec/parsec-clients@0.0.41?classifier=sources
 - pkg:maven/com.yahoo.parsec/parsec-clients@0.0.42
 - pkg:maven/com.yahoo.parsec/parsec-clients@0.0.42?classifier=sources
+- pkg:maven/com.yahoo.parsec/parsec-clients@0.0.43
+- pkg:maven/com.yahoo.parsec/parsec-clients@0.0.43?classifier=sources
+- pkg:maven/com.yahoo.parsec/parsec-clients@0.0.44
+- pkg:maven/com.yahoo.parsec/parsec-clients@0.0.44?classifier=sources
 - pkg:maven/com.yahoo.parsec/parsec-clients@0.0.7
 - pkg:maven/com.yahoo.parsec/parsec-clients@0.0.7?classifier=sources

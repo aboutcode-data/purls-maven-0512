@@ -1,3 +1,4 @@
 - pkg:maven/org.apache.streams/streams-persist-cassandra@0.1-incubating
 - pkg:maven/org.apache.streams/streams-persist-cassandra@0.2-incubating
 - pkg:maven/org.apache.streams/streams-persist-cassandra@0.5-incubating
+- pkg:maven/org.apache.streams/streams-persist-cassandra@0.5.1

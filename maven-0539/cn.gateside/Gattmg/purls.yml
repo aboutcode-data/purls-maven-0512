@@ -16,3 +16,5 @@
 - pkg:maven/cn.gateside/Gattmg@2.0.8?classifier=sources
 - pkg:maven/cn.gateside/Gattmg@2.0.9
 - pkg:maven/cn.gateside/Gattmg@2.0.9?classifier=sources
+- pkg:maven/cn.gateside/Gattmg@2.1.10
+- pkg:maven/cn.gateside/Gattmg@2.1.10?classifier=sources

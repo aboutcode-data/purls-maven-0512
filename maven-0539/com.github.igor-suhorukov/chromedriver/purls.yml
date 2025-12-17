@@ -4,3 +4,4 @@
 - pkg:maven/com.github.igor-suhorukov/chromedriver@2.27
 - pkg:maven/com.github.igor-suhorukov/chromedriver@2.31
 - pkg:maven/com.github.igor-suhorukov/chromedriver@2.33
+- pkg:maven/com.github.igor-suhorukov/chromedriver@2.34

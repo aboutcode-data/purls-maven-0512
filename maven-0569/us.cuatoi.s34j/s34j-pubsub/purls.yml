@@ -1,0 +1,2 @@
+- pkg:maven/us.cuatoi.s34j/s34j-pubsub@0.3.0
+- pkg:maven/us.cuatoi.s34j/s34j-pubsub@0.3.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/graphics.scenery/spirvcrossj@0.3.0?classifier=sources
 - pkg:maven/graphics.scenery/spirvcrossj@0.3.1
 - pkg:maven/graphics.scenery/spirvcrossj@0.3.1?classifier=sources
+- pkg:maven/graphics.scenery/spirvcrossj@0.4.0
+- pkg:maven/graphics.scenery/spirvcrossj@0.4.0?classifier=sources

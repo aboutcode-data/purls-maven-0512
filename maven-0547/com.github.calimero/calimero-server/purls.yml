@@ -4,3 +4,5 @@
 - pkg:maven/com.github.calimero/calimero-server@2.3-beta
 - pkg:maven/com.github.calimero/calimero-server@2.3-beta?classifier=sources
 - pkg:maven/com.github.calimero/calimero-server@2.3?classifier=sources
+- pkg:maven/com.github.calimero/calimero-server@2.4-rc1
+- pkg:maven/com.github.calimero/calimero-server@2.4-rc1?classifier=sources

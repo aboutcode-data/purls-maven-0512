@@ -3,6 +3,14 @@
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json-parent@4.0.12?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json-parent@4.0.13?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json-parent@4.0.14?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json-parent@4.0.15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json-parent@4.0.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json-parent@4.0.17?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json-parent@4.0.18?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json-parent@4.0.19?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json-parent@4.0.20?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json-parent@4.0.21?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json-parent@4.0.22?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json-parent@4.0.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json-parent@4.0.6?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json-parent@4.0.7?classifier=source-release&type=zip

@@ -340,6 +340,8 @@
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.14.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.15.Final?classifier=sources
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.15.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console@2.9.16.Final?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-console@2.9.16.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.2.Final?classifier=sources
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.2.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console@2.9.3.Final?classifier=sources

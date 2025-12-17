@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/echarts-gl@1.1.0
+- pkg:maven/org.webjars.npm/echarts-gl@1.1.0?classifier=sources

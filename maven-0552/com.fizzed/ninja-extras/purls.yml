@@ -1,0 +1,2 @@
+- pkg:maven/com.fizzed/ninja-extras@6.2.2-2
+- pkg:maven/com.fizzed/ninja-extras@6.2.2-2?classifier=sources

@@ -19,4 +19,10 @@
 - pkg:maven/io.github.microutils/kotlin-logging@1.4.7?classifier=sources
 - pkg:maven/io.github.microutils/kotlin-logging@1.4.8
 - pkg:maven/io.github.microutils/kotlin-logging@1.4.8?classifier=sources
+- pkg:maven/io.github.microutils/kotlin-logging@1.4.9
+- pkg:maven/io.github.microutils/kotlin-logging@1.4.9?classifier=sources
 - pkg:maven/io.github.microutils/kotlin-logging@1.4?classifier=sources
+- pkg:maven/io.github.microutils/kotlin-logging@1.5.3
+- pkg:maven/io.github.microutils/kotlin-logging@1.5.3?classifier=sources
+- pkg:maven/io.github.microutils/kotlin-logging@1.5.4
+- pkg:maven/io.github.microutils/kotlin-logging@1.5.4?classifier=sources

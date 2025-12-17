@@ -10,3 +10,5 @@
 - pkg:maven/com.applitools/eyes-common-java3-jboss@3.22?classifier=sources
 - pkg:maven/com.applitools/eyes-common-java3-jboss@3.28
 - pkg:maven/com.applitools/eyes-common-java3-jboss@3.28?classifier=sources
+- pkg:maven/com.applitools/eyes-common-java3-jboss@3.29
+- pkg:maven/com.applitools/eyes-common-java3-jboss@3.29?classifier=sources

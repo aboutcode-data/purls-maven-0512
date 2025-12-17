@@ -1,0 +1,2 @@
+- pkg:maven/io.appgrades/appgrades@1.1.0?classifier=sources
+- pkg:maven/io.appgrades/appgrades@1.1.0?type=aar

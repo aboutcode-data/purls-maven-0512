@@ -37,6 +37,10 @@
 - pkg:maven/com.corundumstudio.socketio/netty-socketio@1.7.12?classifier=sources
 - pkg:maven/com.corundumstudio.socketio/netty-socketio@1.7.13
 - pkg:maven/com.corundumstudio.socketio/netty-socketio@1.7.13?classifier=sources
+- pkg:maven/com.corundumstudio.socketio/netty-socketio@1.7.14
+- pkg:maven/com.corundumstudio.socketio/netty-socketio@1.7.14?classifier=sources
+- pkg:maven/com.corundumstudio.socketio/netty-socketio@1.7.15
+- pkg:maven/com.corundumstudio.socketio/netty-socketio@1.7.15?classifier=sources
 - pkg:maven/com.corundumstudio.socketio/netty-socketio@1.7.1?classifier=sources
 - pkg:maven/com.corundumstudio.socketio/netty-socketio@1.7.2
 - pkg:maven/com.corundumstudio.socketio/netty-socketio@1.7.2?classifier=sources

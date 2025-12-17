@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vue2-datatable-component@2.2.2
+- pkg:maven/org.webjars.npm/vue2-datatable-component@2.2.2?classifier=sources

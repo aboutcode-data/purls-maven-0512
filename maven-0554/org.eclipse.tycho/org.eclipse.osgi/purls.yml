@@ -14,6 +14,10 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.12.0.v20170512-1932?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.12.1.v20170821-1548
 - pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.12.1.v20170821-1548?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.13.0.v20171204-1916
+- pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.13.0.v20171204-1916?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.13.0.v20180226-1711
+- pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.13.0.v20180226-1711?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.6.2.R36x_v20110210
 - pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.6.2.R36x_v20110210?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.osgi@3.7.0.v20110613

@@ -8,3 +8,5 @@
 - pkg:maven/org.awaitility/awaitility-scala@3.0.0-rc3
 - pkg:maven/org.awaitility/awaitility-scala@3.0.0-rc3?classifier=sources
 - pkg:maven/org.awaitility/awaitility-scala@3.0.0?classifier=sources
+- pkg:maven/org.awaitility/awaitility-scala@3.1.0
+- pkg:maven/org.awaitility/awaitility-scala@3.1.0?classifier=sources

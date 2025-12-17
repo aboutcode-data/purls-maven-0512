@@ -1,2 +1,4 @@
+- pkg:maven/hk.jerry.spg/processor@1.0.4-rc1
+- pkg:maven/hk.jerry.spg/processor@1.0.4-rc1?classifier=sources
 - pkg:maven/hk.jerry.spg/processor@1.0.4-snapshot
 - pkg:maven/hk.jerry.spg/processor@1.0.4-snapshot?classifier=sources

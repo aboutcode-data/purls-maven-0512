@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.carbondata/carbondata-lucene@1.4.0
+- pkg:maven/org.apache.carbondata/carbondata-lucene@1.4.0?classifier=sources

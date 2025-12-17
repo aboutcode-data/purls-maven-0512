@@ -1,0 +1,2 @@
+- pkg:maven/com.kumuluz.ee.health/kumuluzee-health@1.0.0
+- pkg:maven/com.kumuluz.ee.health/kumuluzee-health@1.0.0?classifier=sources

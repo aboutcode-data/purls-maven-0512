@@ -4,6 +4,10 @@
 - pkg:maven/com.impetus.kundera.client/kundera-kudu@3.10?classifier=sources
 - pkg:maven/com.impetus.kundera.client/kundera-kudu@3.11
 - pkg:maven/com.impetus.kundera.client/kundera-kudu@3.11?classifier=sources
+- pkg:maven/com.impetus.kundera.client/kundera-kudu@3.12
+- pkg:maven/com.impetus.kundera.client/kundera-kudu@3.12?classifier=sources
+- pkg:maven/com.impetus.kundera.client/kundera-kudu@3.13
+- pkg:maven/com.impetus.kundera.client/kundera-kudu@3.13?classifier=sources
 - pkg:maven/com.impetus.kundera.client/kundera-kudu@3.4
 - pkg:maven/com.impetus.kundera.client/kundera-kudu@3.4?classifier=sources
 - pkg:maven/com.impetus.kundera.client/kundera-kudu@3.5

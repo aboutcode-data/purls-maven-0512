@@ -56,3 +56,7 @@
 - pkg:maven/org.uberfire/uberfire-security-management-tomcat@1.4.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-security-management-tomcat@2.2.0.Final
 - pkg:maven/org.uberfire/uberfire-security-management-tomcat@2.2.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-management-tomcat@2.3.0.Final
+- pkg:maven/org.uberfire/uberfire-security-management-tomcat@2.3.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-management-tomcat@2.4.0.Final
+- pkg:maven/org.uberfire/uberfire-security-management-tomcat@2.4.0.Final?classifier=sources

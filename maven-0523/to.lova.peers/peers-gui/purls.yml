@@ -1,0 +1,2 @@
+- pkg:maven/to.lova.peers/peers-gui@0.6.0
+- pkg:maven/to.lova.peers/peers-gui@0.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/ember-cli-is-package-missing@1.0.0
+- pkg:maven/org.webjars.npm/ember-cli-is-package-missing@1.0.0?classifier=sources

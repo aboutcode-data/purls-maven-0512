@@ -1,0 +1,2 @@
+- pkg:maven/io.github.symonk/Automation-Assistant@1.2
+- pkg:maven/io.github.symonk/Automation-Assistant@1.2?classifier=sources

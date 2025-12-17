@@ -2,3 +2,5 @@
 - pkg:maven/org.ow2.fractal.juliac.osgi/juliac-osgi-runtime-jboss@2.5.1
 - pkg:maven/org.ow2.fractal.juliac.osgi/juliac-osgi-runtime-jboss@2.5.1?classifier=sources
 - pkg:maven/org.ow2.fractal.juliac.osgi/juliac-osgi-runtime-jboss@2.5?classifier=sources
+- pkg:maven/org.ow2.fractal.juliac.osgi/juliac-osgi-runtime-jboss@2.7
+- pkg:maven/org.ow2.fractal.juliac.osgi/juliac-osgi-runtime-jboss@2.7?classifier=sources

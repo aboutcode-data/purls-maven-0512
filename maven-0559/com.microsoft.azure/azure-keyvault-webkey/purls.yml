@@ -2,3 +2,5 @@
 - pkg:maven/com.microsoft.azure/azure-keyvault-webkey@1.0.0-beta3
 - pkg:maven/com.microsoft.azure/azure-keyvault-webkey@1.0.0-beta3?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-keyvault-webkey@1.0.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-keyvault-webkey@1.1-beta-1
+- pkg:maven/com.microsoft.azure/azure-keyvault-webkey@1.1-beta-1?classifier=sources

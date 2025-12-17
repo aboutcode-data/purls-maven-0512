@@ -1,0 +1,2 @@
+- pkg:maven/me.jeffshaw.kafka/scalatest-embedded-kafka-streams_0-10-0-1_2.11@0.10.0
+- pkg:maven/me.jeffshaw.kafka/scalatest-embedded-kafka-streams_0-10-0-1_2.11@0.10.0?classifier=sources

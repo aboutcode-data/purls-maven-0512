@@ -1,0 +1,4 @@
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-test@2.0.0.CR6
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-test@2.0.0.CR6?classifier=sources
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-test@2.0.0.CR7
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-test@2.0.0.CR7?classifier=sources

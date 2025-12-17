@@ -1,0 +1,2 @@
+- pkg:maven/nl.psek.fitnesse/psek-fitnesse-fixtures-selenium@1.2.0
+- pkg:maven/nl.psek.fitnesse/psek-fitnesse-fixtures-selenium@1.2.0?classifier=sources

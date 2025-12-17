@@ -41,6 +41,8 @@
 - pkg:maven/org.webjars.bower/vega@3.0.0-rc3?classifier=sources
 - pkg:maven/org.webjars.bower/vega@3.0.0-rc4
 - pkg:maven/org.webjars.bower/vega@3.0.0-rc4?classifier=sources
+- pkg:maven/org.webjars.bower/vega@3.0.10
+- pkg:maven/org.webjars.bower/vega@3.0.10?classifier=sources
 - pkg:maven/org.webjars.bower/vega@3.0.2
 - pkg:maven/org.webjars.bower/vega@3.0.2?classifier=sources
 - pkg:maven/org.webjars.bower/vega@3.0.5
@@ -49,3 +51,11 @@
 - pkg:maven/org.webjars.bower/vega@3.0.7?classifier=sources
 - pkg:maven/org.webjars.bower/vega@3.0.8
 - pkg:maven/org.webjars.bower/vega@3.0.8?classifier=sources
+- pkg:maven/org.webjars.bower/vega@3.0.9
+- pkg:maven/org.webjars.bower/vega@3.0.9?classifier=sources
+- pkg:maven/org.webjars.bower/vega@3.1.0
+- pkg:maven/org.webjars.bower/vega@3.1.0?classifier=sources
+- pkg:maven/org.webjars.bower/vega@3.2.1
+- pkg:maven/org.webjars.bower/vega@3.2.1?classifier=sources
+- pkg:maven/org.webjars.bower/vega@3.3.1
+- pkg:maven/org.webjars.bower/vega@3.3.1?classifier=sources

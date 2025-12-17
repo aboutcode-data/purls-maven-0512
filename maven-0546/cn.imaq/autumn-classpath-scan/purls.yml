@@ -1,0 +1,2 @@
+- pkg:maven/cn.imaq/autumn-classpath-scan@0.1
+- pkg:maven/cn.imaq/autumn-classpath-scan@0.1?classifier=sources

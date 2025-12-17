@@ -1,0 +1,8 @@
+- pkg:maven/com.ibanity.apis/ibanity-java@1.0.1.0.20180504134220
+- pkg:maven/com.ibanity.apis/ibanity-java@1.0.1.0.20180504134220?classifier=sources
+- pkg:maven/com.ibanity.apis/ibanity-java@1.0.20180504141249
+- pkg:maven/com.ibanity.apis/ibanity-java@1.0.20180504141249?classifier=sources
+- pkg:maven/com.ibanity.apis/ibanity-java@1.0.20180524113122
+- pkg:maven/com.ibanity.apis/ibanity-java@1.0.20180524113122?classifier=sources
+- pkg:maven/com.ibanity.apis/ibanity-java@1.1.20180529115658
+- pkg:maven/com.ibanity.apis/ibanity-java@1.1.20180529115658?classifier=sources

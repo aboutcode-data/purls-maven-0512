@@ -8,3 +8,5 @@
 - pkg:maven/org.jadira.jms/jms@6.0.0.GA?classifier=sources
 - pkg:maven/org.jadira.jms/jms@6.0.1.GA
 - pkg:maven/org.jadira.jms/jms@6.0.1.GA?classifier=sources
+- pkg:maven/org.jadira.jms/jms@7.0.0.CR1
+- pkg:maven/org.jadira.jms/jms@7.0.0.CR1?classifier=sources

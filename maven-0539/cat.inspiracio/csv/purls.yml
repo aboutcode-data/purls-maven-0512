@@ -1,0 +1,2 @@
+- pkg:maven/cat.inspiracio/csv@0.0.0
+- pkg:maven/cat.inspiracio/csv@0.0.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.ibm.mfp/mfp-security-checks-base@8.0.2016082422?classifier=sources
 - pkg:maven/com.ibm.mfp/mfp-security-checks-base@8.0.2017020112
 - pkg:maven/com.ibm.mfp/mfp-security-checks-base@8.0.2017020112?classifier=sources
+- pkg:maven/com.ibm.mfp/mfp-security-checks-base@8.0.2018030404
+- pkg:maven/com.ibm.mfp/mfp-security-checks-base@8.0.2018030404?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/asia.redact.bracket.properties/bracket-properties@2.0.0?classifier=sources
 - pkg:maven/asia.redact.bracket.properties/bracket-properties@2.1.0
 - pkg:maven/asia.redact.bracket.properties/bracket-properties@2.1.0?classifier=sources
+- pkg:maven/asia.redact.bracket.properties/bracket-properties@2.3.0
+- pkg:maven/asia.redact.bracket.properties/bracket-properties@2.3.0?classifier=sources

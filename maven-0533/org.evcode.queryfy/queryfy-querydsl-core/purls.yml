@@ -1,0 +1,4 @@
+- pkg:maven/org.evcode.queryfy/queryfy-querydsl-core@1.0.0
+- pkg:maven/org.evcode.queryfy/queryfy-querydsl-core@1.0.0?classifier=sources
+- pkg:maven/org.evcode.queryfy/queryfy-querydsl-core@v1.0.0
+- pkg:maven/org.evcode.queryfy/queryfy-querydsl-core@v1.0.0?classifier=sources

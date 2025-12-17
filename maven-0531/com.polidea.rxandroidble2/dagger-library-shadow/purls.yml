@@ -1,0 +1,4 @@
+- pkg:maven/com.polidea.rxandroidble2/dagger-library-shadow@1.5.0
+- pkg:maven/com.polidea.rxandroidble2/dagger-library-shadow@1.5.0?classifier=sources
+- pkg:maven/com.polidea.rxandroidble2/dagger-library-shadow@1.6.0
+- pkg:maven/com.polidea.rxandroidble2/dagger-library-shadow@1.6.0?classifier=sources

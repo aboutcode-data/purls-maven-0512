@@ -1,0 +1,2 @@
+- pkg:maven/com.brvith.orchestrator/orchestrator-executor@1.0.2
+- pkg:maven/com.brvith.orchestrator/orchestrator-executor@1.0.2?classifier=sources

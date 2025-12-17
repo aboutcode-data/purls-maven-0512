@@ -36,3 +36,5 @@
 - pkg:maven/javax.servlet/javax.servlet-api@4.0.0-b07
 - pkg:maven/javax.servlet/javax.servlet-api@4.0.0-b07?classifier=sources
 - pkg:maven/javax.servlet/javax.servlet-api@4.0.0?classifier=sources
+- pkg:maven/javax.servlet/javax.servlet-api@4.0.1
+- pkg:maven/javax.servlet/javax.servlet-api@4.0.1?classifier=sources

@@ -24,6 +24,8 @@
 - pkg:maven/de.sciss/lucreswing_2.11@0.9.1?classifier=sources
 - pkg:maven/de.sciss/lucreswing_2.11@1.1.0
 - pkg:maven/de.sciss/lucreswing_2.11@1.1.0?classifier=sources
+- pkg:maven/de.sciss/lucreswing_2.11@1.10.0
+- pkg:maven/de.sciss/lucreswing_2.11@1.10.0?classifier=sources
 - pkg:maven/de.sciss/lucreswing_2.11@1.2.0
 - pkg:maven/de.sciss/lucreswing_2.11@1.2.0?classifier=sources
 - pkg:maven/de.sciss/lucreswing_2.11@1.2.1
@@ -48,3 +50,7 @@
 - pkg:maven/de.sciss/lucreswing_2.11@1.6.0?classifier=sources
 - pkg:maven/de.sciss/lucreswing_2.11@1.7.0
 - pkg:maven/de.sciss/lucreswing_2.11@1.7.0?classifier=sources
+- pkg:maven/de.sciss/lucreswing_2.11@1.8.0
+- pkg:maven/de.sciss/lucreswing_2.11@1.8.0?classifier=sources
+- pkg:maven/de.sciss/lucreswing_2.11@1.9.0
+- pkg:maven/de.sciss/lucreswing_2.11@1.9.0?classifier=sources

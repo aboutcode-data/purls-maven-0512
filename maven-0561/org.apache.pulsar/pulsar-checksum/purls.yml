@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.pulsar/pulsar-checksum@1.19.0-incubating?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-checksum@1.20.0-incubating?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-checksum@1.21.0-incubating?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-checksum@1.22.0-incubating?classifier=sources

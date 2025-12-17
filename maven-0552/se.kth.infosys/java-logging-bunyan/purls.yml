@@ -1,2 +1,10 @@
 - pkg:maven/se.kth.infosys/java-logging-bunyan@1.0.0
 - pkg:maven/se.kth.infosys/java-logging-bunyan@1.0.0?classifier=sources
+- pkg:maven/se.kth.infosys/java-logging-bunyan@2.1.0
+- pkg:maven/se.kth.infosys/java-logging-bunyan@2.1.0?classifier=sources
+- pkg:maven/se.kth.infosys/java-logging-bunyan@2.2.0
+- pkg:maven/se.kth.infosys/java-logging-bunyan@2.2.0?classifier=sources
+- pkg:maven/se.kth.infosys/java-logging-bunyan@2.2.1
+- pkg:maven/se.kth.infosys/java-logging-bunyan@2.2.1?classifier=sources
+- pkg:maven/se.kth.infosys/java-logging-bunyan@2.3.0
+- pkg:maven/se.kth.infosys/java-logging-bunyan@2.3.0?classifier=sources

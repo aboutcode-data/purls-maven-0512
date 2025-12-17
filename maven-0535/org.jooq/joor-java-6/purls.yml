@@ -1,2 +1,4 @@
 - pkg:maven/org.jooq/joor-java-6@0.9.7
 - pkg:maven/org.jooq/joor-java-6@0.9.7?classifier=sources
+- pkg:maven/org.jooq/joor-java-6@0.9.8
+- pkg:maven/org.jooq/joor-java-6@0.9.8?classifier=sources

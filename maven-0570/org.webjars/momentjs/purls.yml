@@ -35,6 +35,12 @@
 - pkg:maven/org.webjars/momentjs@2.19.3
 - pkg:maven/org.webjars/momentjs@2.19.3?classifier=sources
 - pkg:maven/org.webjars/momentjs@2.2.1
+- pkg:maven/org.webjars/momentjs@2.20.1
+- pkg:maven/org.webjars/momentjs@2.20.1?classifier=sources
+- pkg:maven/org.webjars/momentjs@2.21.0
+- pkg:maven/org.webjars/momentjs@2.21.0?classifier=sources
+- pkg:maven/org.webjars/momentjs@2.22.1
+- pkg:maven/org.webjars/momentjs@2.22.1?classifier=sources
 - pkg:maven/org.webjars/momentjs@2.3.0
 - pkg:maven/org.webjars/momentjs@2.3.1
 - pkg:maven/org.webjars/momentjs@2.4.0

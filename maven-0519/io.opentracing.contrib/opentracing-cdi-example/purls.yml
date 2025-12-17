@@ -1,2 +1,4 @@
 - pkg:maven/io.opentracing.contrib/opentracing-cdi-example@0.0.2?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-cdi-example@0.0.2?type=war
+- pkg:maven/io.opentracing.contrib/opentracing-cdi-example@0.1.0?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-cdi-example@0.1.0?type=war

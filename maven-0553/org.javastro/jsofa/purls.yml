@@ -4,3 +4,5 @@
 - pkg:maven/org.javastro/jsofa@20160729?classifier=sources
 - pkg:maven/org.javastro/jsofa@20170420
 - pkg:maven/org.javastro/jsofa@20170420?classifier=sources
+- pkg:maven/org.javastro/jsofa@20180130
+- pkg:maven/org.javastro/jsofa@20180130?classifier=sources

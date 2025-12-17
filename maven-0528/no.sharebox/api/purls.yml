@@ -1,0 +1,2 @@
+- pkg:maven/no.sharebox/api@1.0.0?classifier=sources
+- pkg:maven/no.sharebox/api@1.0.0?type=aar

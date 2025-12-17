@@ -4,3 +4,7 @@
 - pkg:maven/com.parse/parsefacebookutils-v4-android@1.10.4?classifier=sources
 - pkg:maven/com.parse/parsefacebookutils-v4-android@1.10.5?classifier=sources
 - pkg:maven/com.parse/parsefacebookutils-v4-android@1.10.5?type=aar
+- pkg:maven/com.parse/parsefacebookutils-v4-android@1.10.6?classifier=sources
+- pkg:maven/com.parse/parsefacebookutils-v4-android@1.10.6?type=aar
+- pkg:maven/com.parse/parsefacebookutils-v4-android@1.10.7?classifier=sources
+- pkg:maven/com.parse/parsefacebookutils-v4-android@1.10.7?type=aar

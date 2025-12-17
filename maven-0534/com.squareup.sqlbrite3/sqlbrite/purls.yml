@@ -1,2 +1,8 @@
 - pkg:maven/com.squareup.sqlbrite3/sqlbrite@3.0.0?classifier=sources
 - pkg:maven/com.squareup.sqlbrite3/sqlbrite@3.0.0?type=aar
+- pkg:maven/com.squareup.sqlbrite3/sqlbrite@3.1.0?classifier=sources
+- pkg:maven/com.squareup.sqlbrite3/sqlbrite@3.1.0?type=aar
+- pkg:maven/com.squareup.sqlbrite3/sqlbrite@3.1.1?classifier=sources
+- pkg:maven/com.squareup.sqlbrite3/sqlbrite@3.1.1?type=aar
+- pkg:maven/com.squareup.sqlbrite3/sqlbrite@3.2.0?classifier=sources
+- pkg:maven/com.squareup.sqlbrite3/sqlbrite@3.2.0?type=aar

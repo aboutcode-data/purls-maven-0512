@@ -1,2 +1,4 @@
 - pkg:maven/io.gravitee.repository/gravitee-repository-jdbc@0.3.0
 - pkg:maven/io.gravitee.repository/gravitee-repository-jdbc@0.3.0?classifier=sources
+- pkg:maven/io.gravitee.repository/gravitee-repository-jdbc@1.15.0?classifier=sources
+- pkg:maven/io.gravitee.repository/gravitee-repository-jdbc@1.16.0?classifier=sources

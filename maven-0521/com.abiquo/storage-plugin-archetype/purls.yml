@@ -12,3 +12,6 @@
 - pkg:maven/com.abiquo/storage-plugin-archetype@3.8.0?classifier=sources
 - pkg:maven/com.abiquo/storage-plugin-archetype@3.8.2?classifier=sources
 - pkg:maven/com.abiquo/storage-plugin-archetype@4.0.0?classifier=sources
+- pkg:maven/com.abiquo/storage-plugin-archetype@4.2.0?classifier=sources
+- pkg:maven/com.abiquo/storage-plugin-archetype@4.2.1?classifier=sources
+- pkg:maven/com.abiquo/storage-plugin-archetype@4.2.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.sfb876/streams-moa@0.1.2
+- pkg:maven/de.sfb876/streams-moa@0.1.2?classifier=sources

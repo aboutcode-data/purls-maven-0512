@@ -11,5 +11,6 @@
 - pkg:maven/org.apache.jackrabbit.vault/jackrabbit-filevault@3.1.38?classifier=src&type=zip
 - pkg:maven/org.apache.jackrabbit.vault/jackrabbit-filevault@3.1.40?classifier=src&type=zip
 - pkg:maven/org.apache.jackrabbit.vault/jackrabbit-filevault@3.1.42?classifier=src&type=zip
+- pkg:maven/org.apache.jackrabbit.vault/jackrabbit-filevault@3.1.44?classifier=src&type=zip
 - pkg:maven/org.apache.jackrabbit.vault/jackrabbit-filevault@3.1.6?classifier=src&type=zip
 - pkg:maven/org.apache.jackrabbit.vault/jackrabbit-filevault@3.1.8?classifier=src&type=zip

@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.bower/redux@3.0.4
+- pkg:maven/org.webjars.bower/redux@3.0.4?classifier=sources
 - pkg:maven/org.webjars.bower/redux@3.6.0
 - pkg:maven/org.webjars.bower/redux@3.6.0?classifier=sources
+- pkg:maven/org.webjars.bower/redux@4.0.0-beta.2
+- pkg:maven/org.webjars.bower/redux@4.0.0-beta.2?classifier=sources

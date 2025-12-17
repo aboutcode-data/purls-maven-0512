@@ -18,3 +18,5 @@
 - pkg:maven/org.restcomm/restcomm-android-sdk@1.0.5-BETA7-171?type=aar
 - pkg:maven/org.restcomm/restcomm-android-sdk@1.0.5-BETA7-174?classifier=sources
 - pkg:maven/org.restcomm/restcomm-android-sdk@1.0.5-BETA7-174?type=aar
+- pkg:maven/org.restcomm/restcomm-android-sdk@1.0.6-BETA8-303?classifier=sources
+- pkg:maven/org.restcomm/restcomm-android-sdk@1.0.6-BETA8-303?type=aar
