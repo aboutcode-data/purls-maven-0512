@@ -1,2 +1,4 @@
 - pkg:maven/io.gravitee.rest.api.portal/gravitee-rest-api-portal-security@3.0.0-alpha
 - pkg:maven/io.gravitee.rest.api.portal/gravitee-rest-api-portal-security@3.0.0-alpha?classifier=sources
+- pkg:maven/io.gravitee.rest.api.portal/gravitee-rest-api-portal-security@3.0.0-beta
+- pkg:maven/io.gravitee.rest.api.portal/gravitee-rest-api-portal-security@3.0.0-beta?classifier=sources

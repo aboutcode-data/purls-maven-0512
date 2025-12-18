@@ -1,0 +1,2 @@
+- pkg:maven/com.gengoai/hermes-examples@1.0
+- pkg:maven/com.gengoai/hermes-examples@1.0?classifier=sources

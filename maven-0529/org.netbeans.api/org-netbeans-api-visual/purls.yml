@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-visual@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-visual@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-visual@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-visual@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-visual@RELEASE90?classifier=sources

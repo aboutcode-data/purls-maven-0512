@@ -30,3 +30,7 @@
 - pkg:maven/com.lihaoyi/upack_sjs0.6_2.12@0.9.8?classifier=sources
 - pkg:maven/com.lihaoyi/upack_sjs0.6_2.12@0.9.9
 - pkg:maven/com.lihaoyi/upack_sjs0.6_2.12@0.9.9?classifier=sources
+- pkg:maven/com.lihaoyi/upack_sjs0.6_2.12@1.0.0
+- pkg:maven/com.lihaoyi/upack_sjs0.6_2.12@1.0.0?classifier=sources
+- pkg:maven/com.lihaoyi/upack_sjs0.6_2.12@1.1.0
+- pkg:maven/com.lihaoyi/upack_sjs0.6_2.12@1.1.0?classifier=sources

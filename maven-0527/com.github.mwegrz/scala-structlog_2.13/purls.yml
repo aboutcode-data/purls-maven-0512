@@ -8,3 +8,5 @@
 - pkg:maven/com.github.mwegrz/scala-structlog_2.13@0.1.14?classifier=sources
 - pkg:maven/com.github.mwegrz/scala-structlog_2.13@0.1.15
 - pkg:maven/com.github.mwegrz/scala-structlog_2.13@0.1.15?classifier=sources
+- pkg:maven/com.github.mwegrz/scala-structlog_2.13@0.1.16
+- pkg:maven/com.github.mwegrz/scala-structlog_2.13@0.1.16?classifier=sources

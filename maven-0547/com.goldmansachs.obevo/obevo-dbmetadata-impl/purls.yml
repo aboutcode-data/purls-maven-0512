@@ -36,3 +36,7 @@
 - pkg:maven/com.goldmansachs.obevo/obevo-dbmetadata-impl@7.2.0?classifier=sources
 - pkg:maven/com.goldmansachs.obevo/obevo-dbmetadata-impl@8.0.0
 - pkg:maven/com.goldmansachs.obevo/obevo-dbmetadata-impl@8.0.0?classifier=sources
+- pkg:maven/com.goldmansachs.obevo/obevo-dbmetadata-impl@8.1.0
+- pkg:maven/com.goldmansachs.obevo/obevo-dbmetadata-impl@8.1.0?classifier=sources
+- pkg:maven/com.goldmansachs.obevo/obevo-dbmetadata-impl@8.1.1
+- pkg:maven/com.goldmansachs.obevo/obevo-dbmetadata-impl@8.1.1?classifier=sources

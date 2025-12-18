@@ -1,0 +1,2 @@
+- pkg:maven/org.infinispan/infinispan-anchored-keys@11.0.0.Dev05
+- pkg:maven/org.infinispan/infinispan-anchored-keys@11.0.0.Dev05?classifier=sources

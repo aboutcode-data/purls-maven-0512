@@ -1,0 +1,7 @@
+- pkg:maven/io.github.luyiisme/groovy-script-executor@0.1
+- pkg:maven/io.github.luyiisme/groovy-script-executor@0.1?classifier=sources
+- pkg:maven/io.github.luyiisme/groovy-script-executor@0.2.1
+- pkg:maven/io.github.luyiisme/groovy-script-executor@0.2.1?classifier=sources
+- pkg:maven/io.github.luyiisme/groovy-script-executor@0.2?classifier=sources
+- pkg:maven/io.github.luyiisme/groovy-script-executor@0.3.0
+- pkg:maven/io.github.luyiisme/groovy-script-executor@0.3.0?classifier=sources

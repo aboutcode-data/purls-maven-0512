@@ -1,0 +1,2 @@
+- pkg:maven/io.micronaut.rxjava3/micronaut-rxjava3@1.0.0.RC1
+- pkg:maven/io.micronaut.rxjava3/micronaut-rxjava3@1.0.0.RC1?classifier=sources

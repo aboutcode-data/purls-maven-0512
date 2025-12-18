@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/thymeleaf@0.16.1
+- pkg:maven/org.webjars.npm/thymeleaf@0.16.1?classifier=sources
+- pkg:maven/org.webjars.npm/thymeleaf@0.17.2
+- pkg:maven/org.webjars.npm/thymeleaf@0.17.2?classifier=sources
+- pkg:maven/org.webjars.npm/thymeleaf@0.18.1
+- pkg:maven/org.webjars.npm/thymeleaf@0.18.1?classifier=sources

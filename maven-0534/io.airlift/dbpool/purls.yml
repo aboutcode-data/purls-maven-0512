@@ -184,6 +184,14 @@
 - pkg:maven/io.airlift/dbpool@0.191?classifier=sources
 - pkg:maven/io.airlift/dbpool@0.192
 - pkg:maven/io.airlift/dbpool@0.192?classifier=sources
+- pkg:maven/io.airlift/dbpool@0.193
+- pkg:maven/io.airlift/dbpool@0.193?classifier=sources
+- pkg:maven/io.airlift/dbpool@0.194
+- pkg:maven/io.airlift/dbpool@0.194?classifier=sources
+- pkg:maven/io.airlift/dbpool@0.195
+- pkg:maven/io.airlift/dbpool@0.195?classifier=sources
+- pkg:maven/io.airlift/dbpool@0.196
+- pkg:maven/io.airlift/dbpool@0.196?classifier=sources
 - pkg:maven/io.airlift/dbpool@0.65
 - pkg:maven/io.airlift/dbpool@0.65?classifier=sources
 - pkg:maven/io.airlift/dbpool@0.66

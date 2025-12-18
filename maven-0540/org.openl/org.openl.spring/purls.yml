@@ -90,3 +90,5 @@
 - pkg:maven/org.openl/org.openl.spring@5.22.7?classifier=sources
 - pkg:maven/org.openl/org.openl.spring@5.23.0
 - pkg:maven/org.openl/org.openl.spring@5.23.0?classifier=sources
+- pkg:maven/org.openl/org.openl.spring@5.23.1
+- pkg:maven/org.openl/org.openl.spring@5.23.1?classifier=sources

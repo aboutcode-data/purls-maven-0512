@@ -1,2 +1,8 @@
 - pkg:maven/org.hibernate/hibernate-graalvm@5.4.12.Final
 - pkg:maven/org.hibernate/hibernate-graalvm@5.4.12.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.13.Final
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.13.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.14.Final
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.14.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.15.Final
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.15.Final?classifier=sources

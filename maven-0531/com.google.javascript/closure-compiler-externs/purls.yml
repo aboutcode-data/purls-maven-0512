@@ -80,3 +80,8 @@
 - pkg:maven/com.google.javascript/closure-compiler-externs@v20200101
 - pkg:maven/com.google.javascript/closure-compiler-externs@v20200112
 - pkg:maven/com.google.javascript/closure-compiler-externs@v20200204
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20200224
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20200315
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20200406
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20200426
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20200504

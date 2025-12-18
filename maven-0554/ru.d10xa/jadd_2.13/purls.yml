@@ -1,0 +1,4 @@
+- pkg:maven/ru.d10xa/jadd_2.13@0.1.19
+- pkg:maven/ru.d10xa/jadd_2.13@0.1.19-RC4
+- pkg:maven/ru.d10xa/jadd_2.13@0.1.19-RC4?classifier=sources
+- pkg:maven/ru.d10xa/jadd_2.13@0.1.19?classifier=sources

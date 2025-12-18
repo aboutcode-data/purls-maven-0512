@@ -58,3 +58,11 @@
 - pkg:maven/io.prestosql/presto-hive@328?classifier=sources
 - pkg:maven/io.prestosql/presto-hive@329
 - pkg:maven/io.prestosql/presto-hive@329?classifier=sources
+- pkg:maven/io.prestosql/presto-hive@330
+- pkg:maven/io.prestosql/presto-hive@330?classifier=sources
+- pkg:maven/io.prestosql/presto-hive@331
+- pkg:maven/io.prestosql/presto-hive@331?classifier=sources
+- pkg:maven/io.prestosql/presto-hive@332
+- pkg:maven/io.prestosql/presto-hive@332?classifier=sources
+- pkg:maven/io.prestosql/presto-hive@333
+- pkg:maven/io.prestosql/presto-hive@333?classifier=sources

@@ -38,6 +38,10 @@
 - pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.5.28?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.5.29
 - pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.5.29?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.5.30
+- pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.5.30?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.5.31
+- pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.5.31?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.5.9
 - pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.5.9?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.6.0
@@ -68,3 +72,7 @@
 - pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.6.2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.6.3
 - pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.6.3?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.6.4
+- pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.6.4?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.6.5
+- pkg:maven/com.typesafe.akka/akka-actor-typed_2.12@2.6.5?classifier=sources

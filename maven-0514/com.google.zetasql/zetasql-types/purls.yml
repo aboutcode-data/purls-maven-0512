@@ -8,3 +8,11 @@
 - pkg:maven/com.google.zetasql/zetasql-types@2019.12.1?classifier=sources
 - pkg:maven/com.google.zetasql/zetasql-types@2020.01.1
 - pkg:maven/com.google.zetasql/zetasql-types@2020.01.1?classifier=sources
+- pkg:maven/com.google.zetasql/zetasql-types@2020.02.1
+- pkg:maven/com.google.zetasql/zetasql-types@2020.02.1?classifier=sources
+- pkg:maven/com.google.zetasql/zetasql-types@2020.03.1
+- pkg:maven/com.google.zetasql/zetasql-types@2020.03.1?classifier=sources
+- pkg:maven/com.google.zetasql/zetasql-types@2020.03.2
+- pkg:maven/com.google.zetasql/zetasql-types@2020.03.2?classifier=sources
+- pkg:maven/com.google.zetasql/zetasql-types@2020.04.1
+- pkg:maven/com.google.zetasql/zetasql-types@2020.04.1?classifier=sources

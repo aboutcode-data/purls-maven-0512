@@ -6,3 +6,5 @@
 - pkg:maven/net.jangaroo/jangaroo-app-runner@4.0.68?classifier=sources
 - pkg:maven/net.jangaroo/jangaroo-app-runner@4.0.69
 - pkg:maven/net.jangaroo/jangaroo-app-runner@4.0.69?classifier=sources
+- pkg:maven/net.jangaroo/jangaroo-app-runner@4.0.70
+- pkg:maven/net.jangaroo/jangaroo-app-runner@4.0.70?classifier=sources

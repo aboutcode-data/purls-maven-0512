@@ -1,0 +1,4 @@
+- pkg:maven/com.sandinh/scalactic_0.23@3.1.1
+- pkg:maven/com.sandinh/scalactic_0.23@3.1.1-dottybug8581
+- pkg:maven/com.sandinh/scalactic_0.23@3.1.1-dottybug8581?classifier=sources
+- pkg:maven/com.sandinh/scalactic_0.23@3.1.1?classifier=sources

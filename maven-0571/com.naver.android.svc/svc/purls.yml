@@ -4,3 +4,5 @@
 - pkg:maven/com.naver.android.svc/svc@1.0.0-beta32?type=aar
 - pkg:maven/com.naver.android.svc/svc@1.0.0?classifier=sources
 - pkg:maven/com.naver.android.svc/svc@1.0.0?type=aar
+- pkg:maven/com.naver.android.svc/svc@1.0.1?classifier=sources
+- pkg:maven/com.naver.android.svc/svc@1.0.1?type=aar

@@ -4,3 +4,4 @@
 - pkg:maven/com.walmartlabs.x12/gozer@0.1.4?classifier=sources
 - pkg:maven/com.walmartlabs.x12/gozer@0.1.5?classifier=sources
 - pkg:maven/com.walmartlabs.x12/gozer@0.2.0?classifier=sources
+- pkg:maven/com.walmartlabs.x12/gozer@0.2.1?classifier=sources

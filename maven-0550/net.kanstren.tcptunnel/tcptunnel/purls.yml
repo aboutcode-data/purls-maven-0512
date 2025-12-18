@@ -2,3 +2,5 @@
 - pkg:maven/net.kanstren.tcptunnel/tcptunnel@1.0.0?classifier=sources
 - pkg:maven/net.kanstren.tcptunnel/tcptunnel@1.1.2
 - pkg:maven/net.kanstren.tcptunnel/tcptunnel@1.1.2?classifier=sources
+- pkg:maven/net.kanstren.tcptunnel/tcptunnel@1.2.0
+- pkg:maven/net.kanstren.tcptunnel/tcptunnel@1.2.0?classifier=sources

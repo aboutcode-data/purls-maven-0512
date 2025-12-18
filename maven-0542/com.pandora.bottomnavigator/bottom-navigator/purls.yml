@@ -12,3 +12,5 @@
 - pkg:maven/com.pandora.bottomnavigator/bottom-navigator@1.5?type=aar
 - pkg:maven/com.pandora.bottomnavigator/bottom-navigator@1.6?classifier=sources
 - pkg:maven/com.pandora.bottomnavigator/bottom-navigator@1.6?type=aar
+- pkg:maven/com.pandora.bottomnavigator/bottom-navigator@1.7?classifier=sources
+- pkg:maven/com.pandora.bottomnavigator/bottom-navigator@1.7?type=aar

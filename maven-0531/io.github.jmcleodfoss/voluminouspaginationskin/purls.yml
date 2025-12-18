@@ -1,0 +1,6 @@
+- pkg:maven/io.github.jmcleodfoss/voluminouspaginationskin@1.0.0T
+- pkg:maven/io.github.jmcleodfoss/voluminouspaginationskin@1.0.0T?classifier=sources
+- pkg:maven/io.github.jmcleodfoss/voluminouspaginationskin@1.0.1
+- pkg:maven/io.github.jmcleodfoss/voluminouspaginationskin@1.0.1?classifier=sources
+- pkg:maven/io.github.jmcleodfoss/voluminouspaginationskin@2.0.0
+- pkg:maven/io.github.jmcleodfoss/voluminouspaginationskin@2.0.0?classifier=sources

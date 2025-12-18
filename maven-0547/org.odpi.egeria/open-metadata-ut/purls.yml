@@ -1,0 +1,2 @@
+- pkg:maven/org.odpi.egeria/open-metadata-ut@1.7
+- pkg:maven/org.odpi.egeria/open-metadata-ut@1.7?classifier=sources

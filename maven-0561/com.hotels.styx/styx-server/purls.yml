@@ -18,6 +18,10 @@
 - pkg:maven/com.hotels.styx/styx-server@0.7.9?classifier=sources
 - pkg:maven/com.hotels.styx/styx-server@1.0.0-rc1
 - pkg:maven/com.hotels.styx/styx-server@1.0.0-rc1?classifier=sources
+- pkg:maven/com.hotels.styx/styx-server@1.0.0-rc2
+- pkg:maven/com.hotels.styx/styx-server@1.0.0-rc2?classifier=sources
+- pkg:maven/com.hotels.styx/styx-server@1.0.0-rc3
+- pkg:maven/com.hotels.styx/styx-server@1.0.0-rc3?classifier=sources
 - pkg:maven/com.hotels.styx/styx-server@1.0.0.beta3
 - pkg:maven/com.hotels.styx/styx-server@1.0.0.beta3?classifier=sources
 - pkg:maven/com.hotels.styx/styx-server@1.0.0.beta4

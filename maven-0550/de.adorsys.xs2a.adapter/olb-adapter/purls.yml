@@ -1,0 +1,4 @@
+- pkg:maven/de.adorsys.xs2a.adapter/olb-adapter@0.0.10
+- pkg:maven/de.adorsys.xs2a.adapter/olb-adapter@0.0.10?classifier=sources
+- pkg:maven/de.adorsys.xs2a.adapter/olb-adapter@0.0.9
+- pkg:maven/de.adorsys.xs2a.adapter/olb-adapter@0.0.9?classifier=sources

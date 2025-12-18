@@ -1,0 +1,2 @@
+- pkg:maven/com.weicoder.fork/guava-jdk11@28.2-jre
+- pkg:maven/com.weicoder.fork/guava-jdk11@28.2-jre?classifier=sources

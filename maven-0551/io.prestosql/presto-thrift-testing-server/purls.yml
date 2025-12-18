@@ -28,3 +28,7 @@
 - pkg:maven/io.prestosql/presto-thrift-testing-server@327?classifier=sources
 - pkg:maven/io.prestosql/presto-thrift-testing-server@328?classifier=sources
 - pkg:maven/io.prestosql/presto-thrift-testing-server@329?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift-testing-server@330?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift-testing-server@331?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift-testing-server@332?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift-testing-server@333?classifier=sources

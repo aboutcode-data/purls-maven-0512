@@ -38,3 +38,5 @@
 - pkg:maven/org.ujorm/ujo-tools@1.93?classifier=sources
 - pkg:maven/org.ujorm/ujo-tools@1.94
 - pkg:maven/org.ujorm/ujo-tools@1.94?classifier=sources
+- pkg:maven/org.ujorm/ujo-tools@2.00
+- pkg:maven/org.ujorm/ujo-tools@2.00?classifier=sources

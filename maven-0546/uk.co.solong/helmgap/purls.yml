@@ -1,0 +1,4 @@
+- pkg:maven/uk.co.solong/helmgap@1.4
+- pkg:maven/uk.co.solong/helmgap@1.4?classifier=sources
+- pkg:maven/uk.co.solong/helmgap@1.6
+- pkg:maven/uk.co.solong/helmgap@1.6?classifier=sources

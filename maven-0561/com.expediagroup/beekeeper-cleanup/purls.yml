@@ -8,3 +8,7 @@
 - pkg:maven/com.expediagroup/beekeeper-cleanup@1.1.6?classifier=sources
 - pkg:maven/com.expediagroup/beekeeper-cleanup@1.2.0
 - pkg:maven/com.expediagroup/beekeeper-cleanup@1.2.0?classifier=sources
+- pkg:maven/com.expediagroup/beekeeper-cleanup@2.0.0
+- pkg:maven/com.expediagroup/beekeeper-cleanup@2.0.0?classifier=sources
+- pkg:maven/com.expediagroup/beekeeper-cleanup@2.1.0
+- pkg:maven/com.expediagroup/beekeeper-cleanup@2.1.0?classifier=sources

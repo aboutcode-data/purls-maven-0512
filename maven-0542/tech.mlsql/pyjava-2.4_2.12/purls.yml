@@ -1,0 +1,2 @@
+- pkg:maven/tech.mlsql/pyjava-2.4_2.12@0.2.8.0
+- pkg:maven/tech.mlsql/pyjava-2.4_2.12@0.2.8.0?classifier=sources

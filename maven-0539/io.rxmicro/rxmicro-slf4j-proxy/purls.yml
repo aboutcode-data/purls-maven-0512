@@ -1,0 +1,2 @@
+- pkg:maven/io.rxmicro/rxmicro-slf4j-proxy@0.3
+- pkg:maven/io.rxmicro/rxmicro-slf4j-proxy@0.3?classifier=sources

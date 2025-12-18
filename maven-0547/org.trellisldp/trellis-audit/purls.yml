@@ -2,6 +2,13 @@
 - pkg:maven/org.trellisldp/trellis-audit@0.1.0?classifier=sources
 - pkg:maven/org.trellisldp/trellis-audit@0.1.1
 - pkg:maven/org.trellisldp/trellis-audit@0.1.1?classifier=sources
+- pkg:maven/org.trellisldp/trellis-audit@0.10.0?classifier=sources
+- pkg:maven/org.trellisldp/trellis-audit@0.10.1?classifier=sources
+- pkg:maven/org.trellisldp/trellis-audit@0.10.2?classifier=sources
+- pkg:maven/org.trellisldp/trellis-audit@0.10.3?classifier=sources
+- pkg:maven/org.trellisldp/trellis-audit@0.11.0?classifier=sources
+- pkg:maven/org.trellisldp/trellis-audit@0.11.1?classifier=sources
+- pkg:maven/org.trellisldp/trellis-audit@0.11.2?classifier=sources
 - pkg:maven/org.trellisldp/trellis-audit@0.5.0
 - pkg:maven/org.trellisldp/trellis-audit@0.5.0?classifier=sources
 - pkg:maven/org.trellisldp/trellis-audit@0.5.1

@@ -64,3 +64,7 @@
 - pkg:maven/org.sakaiproject.edu-services.course-management/coursemanagement-hibernate-model@19.2?classifier=sources
 - pkg:maven/org.sakaiproject.edu-services.course-management/coursemanagement-hibernate-model@19.3
 - pkg:maven/org.sakaiproject.edu-services.course-management/coursemanagement-hibernate-model@19.3?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.course-management/coursemanagement-hibernate-model@19.4
+- pkg:maven/org.sakaiproject.edu-services.course-management/coursemanagement-hibernate-model@19.4?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.course-management/coursemanagement-hibernate-model@20.0
+- pkg:maven/org.sakaiproject.edu-services.course-management/coursemanagement-hibernate-model@20.0?classifier=sources

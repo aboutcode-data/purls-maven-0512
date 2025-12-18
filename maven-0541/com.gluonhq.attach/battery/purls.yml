@@ -1,0 +1,2 @@
+- pkg:maven/com.gluonhq.attach/battery@4.0.7
+- pkg:maven/com.gluonhq.attach/battery@4.0.7?classifier=sources

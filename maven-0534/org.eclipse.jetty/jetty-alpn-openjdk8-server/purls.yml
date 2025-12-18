@@ -42,6 +42,10 @@
 - pkg:maven/org.eclipse.jetty/jetty-alpn-openjdk8-server@9.4.25.v20191220?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-openjdk8-server@9.4.26.v20200117
 - pkg:maven/org.eclipse.jetty/jetty-alpn-openjdk8-server@9.4.26.v20200117?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-openjdk8-server@9.4.27.v20200227
+- pkg:maven/org.eclipse.jetty/jetty-alpn-openjdk8-server@9.4.27.v20200227?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-openjdk8-server@9.4.28.v20200408
+- pkg:maven/org.eclipse.jetty/jetty-alpn-openjdk8-server@9.4.28.v20200408?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-openjdk8-server@9.4.8.v20171121
 - pkg:maven/org.eclipse.jetty/jetty-alpn-openjdk8-server@9.4.8.v20171121?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-openjdk8-server@9.4.8.v20180619

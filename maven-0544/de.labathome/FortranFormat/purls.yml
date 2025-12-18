@@ -1,0 +1,2 @@
+- pkg:maven/de.labathome/FortranFormat@1.0.0
+- pkg:maven/de.labathome/FortranFormat@1.0.0?classifier=sources

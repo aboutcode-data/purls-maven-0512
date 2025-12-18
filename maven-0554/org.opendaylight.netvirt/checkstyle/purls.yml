@@ -1,3 +1,5 @@
+- pkg:maven/org.opendaylight.netvirt/checkstyle@0.10.0
+- pkg:maven/org.opendaylight.netvirt/checkstyle@0.10.0?classifier=sources
 - pkg:maven/org.opendaylight.netvirt/checkstyle@0.7.0
 - pkg:maven/org.opendaylight.netvirt/checkstyle@0.7.0?classifier=sources
 - pkg:maven/org.opendaylight.netvirt/checkstyle@0.7.1

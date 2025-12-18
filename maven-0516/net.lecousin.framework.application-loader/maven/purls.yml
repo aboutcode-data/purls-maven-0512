@@ -1,0 +1,2 @@
+- pkg:maven/net.lecousin.framework.application-loader/maven@0.1.0
+- pkg:maven/net.lecousin.framework.application-loader/maven@0.1.0?classifier=sources

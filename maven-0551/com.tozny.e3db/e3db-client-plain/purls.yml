@@ -4,3 +4,5 @@
 - pkg:maven/com.tozny.e3db/e3db-client-plain@5.0.1?classifier=sources
 - pkg:maven/com.tozny.e3db/e3db-client-plain@5.0.2
 - pkg:maven/com.tozny.e3db/e3db-client-plain@5.0.2?classifier=sources
+- pkg:maven/com.tozny.e3db/e3db-client-plain@6.0.0
+- pkg:maven/com.tozny.e3db/e3db-client-plain@6.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.batch.android/google-analytics-dispatcher@1.0.0?classifier=sources
+- pkg:maven/com.batch.android/google-analytics-dispatcher@1.0.0?type=aar

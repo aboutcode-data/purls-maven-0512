@@ -52,6 +52,14 @@
 - pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.27.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.27.1
 - pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.27.1?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.27.2
+- pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.27.2?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.28.0
+- pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.28.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.29.0
+- pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.29.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.30.0
+- pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.30.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.7.1
 - pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.7.1?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-runtime@2.7.2

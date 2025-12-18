@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/segment__top-domain@3.0.0
+- pkg:maven/org.webjars.npm/segment__top-domain@3.0.0?classifier=sources

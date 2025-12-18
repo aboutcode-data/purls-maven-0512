@@ -34,3 +34,5 @@
 - pkg:maven/at.molindo/molindo-utils@2.0.6?classifier=sources
 - pkg:maven/at.molindo/molindo-utils@2.1.0
 - pkg:maven/at.molindo/molindo-utils@2.1.0?classifier=sources
+- pkg:maven/at.molindo/molindo-utils@3.0.0
+- pkg:maven/at.molindo/molindo-utils@3.0.0?classifier=sources

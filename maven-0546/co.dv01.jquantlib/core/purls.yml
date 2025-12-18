@@ -1,0 +1,2 @@
+- pkg:maven/co.dv01.jquantlib/core@0.3.0
+- pkg:maven/co.dv01.jquantlib/core@0.3.0?classifier=sources

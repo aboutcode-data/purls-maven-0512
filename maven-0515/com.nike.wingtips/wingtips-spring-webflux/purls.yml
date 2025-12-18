@@ -1,2 +1,4 @@
 - pkg:maven/com.nike.wingtips/wingtips-spring-webflux@0.21.0
 - pkg:maven/com.nike.wingtips/wingtips-spring-webflux@0.21.0?classifier=sources
+- pkg:maven/com.nike.wingtips/wingtips-spring-webflux@0.22.0
+- pkg:maven/com.nike.wingtips/wingtips-spring-webflux@0.22.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/imask@5.1.7?classifier=sources
 - pkg:maven/org.webjars.npm/imask@5.2.1
 - pkg:maven/org.webjars.npm/imask@5.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/imask@6.0.3
+- pkg:maven/org.webjars.npm/imask@6.0.3?classifier=sources

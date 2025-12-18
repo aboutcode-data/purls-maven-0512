@@ -6,3 +6,17 @@
 - pkg:maven/io.xpring/xpring4j@1.1.0?classifier=sources
 - pkg:maven/io.xpring/xpring4j@1.2.0
 - pkg:maven/io.xpring/xpring4j@1.2.0?classifier=sources
+- pkg:maven/io.xpring/xpring4j@2.0.0
+- pkg:maven/io.xpring/xpring4j@2.0.0?classifier=sources
+- pkg:maven/io.xpring/xpring4j@2.1.0
+- pkg:maven/io.xpring/xpring4j@2.1.0?classifier=sources
+- pkg:maven/io.xpring/xpring4j@2.2.0
+- pkg:maven/io.xpring/xpring4j@2.2.0?classifier=sources
+- pkg:maven/io.xpring/xpring4j@3.0.0
+- pkg:maven/io.xpring/xpring4j@3.0.0?classifier=sources
+- pkg:maven/io.xpring/xpring4j@4.0.0
+- pkg:maven/io.xpring/xpring4j@4.0.0?classifier=sources
+- pkg:maven/io.xpring/xpring4j@5.0.0
+- pkg:maven/io.xpring/xpring4j@5.0.0?classifier=sources
+- pkg:maven/io.xpring/xpring4j@5.1.0
+- pkg:maven/io.xpring/xpring4j@5.1.0?classifier=sources

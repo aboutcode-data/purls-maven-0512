@@ -40,3 +40,7 @@
 - pkg:maven/org.elasticsearch/elasticsearch-nio@7.5.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-nio@7.6.0
 - pkg:maven/org.elasticsearch/elasticsearch-nio@7.6.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-nio@7.6.1
+- pkg:maven/org.elasticsearch/elasticsearch-nio@7.6.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-nio@7.6.2
+- pkg:maven/org.elasticsearch/elasticsearch-nio@7.6.2?classifier=sources

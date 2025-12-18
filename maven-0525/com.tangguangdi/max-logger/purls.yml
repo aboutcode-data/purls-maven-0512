@@ -17,3 +17,5 @@
 - pkg:maven/com.tangguangdi/max-logger@1.0.9
 - pkg:maven/com.tangguangdi/max-logger@1.0.9?classifier=sources
 - pkg:maven/com.tangguangdi/max-logger@1.1.0?classifier=sources
+- pkg:maven/com.tangguangdi/max-logger@1.1.1
+- pkg:maven/com.tangguangdi/max-logger@1.1.1?classifier=sources

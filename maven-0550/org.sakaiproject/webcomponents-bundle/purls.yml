@@ -1,0 +1,2 @@
+- pkg:maven/org.sakaiproject/webcomponents-bundle@20.0
+- pkg:maven/org.sakaiproject/webcomponents-bundle@20.0?classifier=sources

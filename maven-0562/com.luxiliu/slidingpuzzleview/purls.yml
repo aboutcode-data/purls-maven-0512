@@ -2,3 +2,5 @@
 - pkg:maven/com.luxiliu/slidingpuzzleview@0.1.0?type=aar
 - pkg:maven/com.luxiliu/slidingpuzzleview@0.2.0?classifier=sources
 - pkg:maven/com.luxiliu/slidingpuzzleview@0.2.0?type=aar
+- pkg:maven/com.luxiliu/slidingpuzzleview@1.0.0?classifier=sources
+- pkg:maven/com.luxiliu/slidingpuzzleview@1.0.0?type=aar

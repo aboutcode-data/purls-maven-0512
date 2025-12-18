@@ -1,0 +1,6 @@
+- pkg:maven/net.intelie.live/liverig-plugin-api@2.22.1
+- pkg:maven/net.intelie.live/liverig-plugin-api@2.22.1?classifier=sources
+- pkg:maven/net.intelie.live/liverig-plugin-api@2.23.0
+- pkg:maven/net.intelie.live/liverig-plugin-api@2.23.0?classifier=sources
+- pkg:maven/net.intelie.live/liverig-plugin-api@2.24.0
+- pkg:maven/net.intelie.live/liverig-plugin-api@2.24.0?classifier=sources

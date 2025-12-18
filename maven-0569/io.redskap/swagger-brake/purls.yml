@@ -6,3 +6,7 @@
 - pkg:maven/io.redskap/swagger-brake@0.2.1?classifier=sources
 - pkg:maven/io.redskap/swagger-brake@0.3.0
 - pkg:maven/io.redskap/swagger-brake@0.3.0?classifier=sources
+- pkg:maven/io.redskap/swagger-brake@1.0.0
+- pkg:maven/io.redskap/swagger-brake@1.0.0?classifier=sources
+- pkg:maven/io.redskap/swagger-brake@1.1.0
+- pkg:maven/io.redskap/swagger-brake@1.1.0?classifier=sources

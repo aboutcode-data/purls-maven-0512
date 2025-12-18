@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.cloud/spring-cloud-gcp-security-firebase@1.2.2.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-gcp-security-firebase@1.2.2.RELEASE?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/com.cognitect.aws/appconfig@773.2.579.0
 - pkg:maven/com.cognitect.aws/appconfig@773.2.579.0?classifier=sources
+- pkg:maven/com.cognitect.aws/appconfig@792.2.623.0
+- pkg:maven/com.cognitect.aws/appconfig@792.2.623.0?classifier=sources
+- pkg:maven/com.cognitect.aws/appconfig@794.2.640.0
+- pkg:maven/com.cognitect.aws/appconfig@794.2.640.0?classifier=sources
+- pkg:maven/com.cognitect.aws/appconfig@796.2.650.0
+- pkg:maven/com.cognitect.aws/appconfig@796.2.650.0?classifier=sources

@@ -65,3 +65,11 @@
 - pkg:maven/org.rundeck/rundeck@3.2.1-20200113?type=war
 - pkg:maven/org.rundeck/rundeck@3.2.2-20200204?classifier=sources
 - pkg:maven/org.rundeck/rundeck@3.2.2-20200204?type=war
+- pkg:maven/org.rundeck/rundeck@3.2.3-20200221?classifier=sources
+- pkg:maven/org.rundeck/rundeck@3.2.3-20200221?type=war
+- pkg:maven/org.rundeck/rundeck@3.2.4-20200318?classifier=sources
+- pkg:maven/org.rundeck/rundeck@3.2.4-20200318?type=war
+- pkg:maven/org.rundeck/rundeck@3.2.5-20200403?classifier=sources
+- pkg:maven/org.rundeck/rundeck@3.2.5-20200403?type=war
+- pkg:maven/org.rundeck/rundeck@3.2.6-20200427?classifier=sources
+- pkg:maven/org.rundeck/rundeck@3.2.6-20200427?type=war

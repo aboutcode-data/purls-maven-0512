@@ -16,3 +16,5 @@
 - pkg:maven/org.primefaces/primefaces@6.2?classifier=sources
 - pkg:maven/org.primefaces/primefaces@7.0
 - pkg:maven/org.primefaces/primefaces@7.0?classifier=sources
+- pkg:maven/org.primefaces/primefaces@8.0
+- pkg:maven/org.primefaces/primefaces@8.0?classifier=sources

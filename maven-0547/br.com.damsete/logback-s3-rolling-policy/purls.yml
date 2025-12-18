@@ -1,0 +1,2 @@
+- pkg:maven/br.com.damsete/logback-s3-rolling-policy@0.0.1
+- pkg:maven/br.com.damsete/logback-s3-rolling-policy@0.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.ga2230/shleam@2020.0.0
+- pkg:maven/com.ga2230/shleam@2020.0.0?classifier=sources
+- pkg:maven/com.ga2230/shleam@2020.0.1
+- pkg:maven/com.ga2230/shleam@2020.0.1?classifier=sources
+- pkg:maven/com.ga2230/shleam@2020.0.2
+- pkg:maven/com.ga2230/shleam@2020.0.2?classifier=sources

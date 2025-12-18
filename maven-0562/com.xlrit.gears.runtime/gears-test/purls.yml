@@ -1,1 +1,3 @@
 - pkg:maven/com.xlrit.gears.runtime/gears-test@0.1
+- pkg:maven/com.xlrit.gears.runtime/gears-test@0.2
+- pkg:maven/com.xlrit.gears.runtime/gears-test@0.2?classifier=sources

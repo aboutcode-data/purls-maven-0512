@@ -1,6 +1,8 @@
 - pkg:maven/org.mini2Dx/mini2Dx-libgdx-ios@2.0.0-alpha.10
 - pkg:maven/org.mini2Dx/mini2Dx-libgdx-ios@2.0.0-alpha.10?classifier=sources
 - pkg:maven/org.mini2Dx/mini2Dx-libgdx-ios@2.0.0-alpha.2
+- pkg:maven/org.mini2Dx/mini2Dx-libgdx-ios@2.0.0-alpha.26
+- pkg:maven/org.mini2Dx/mini2Dx-libgdx-ios@2.0.0-alpha.26?classifier=sources
 - pkg:maven/org.mini2Dx/mini2Dx-libgdx-ios@2.0.0-alpha.2?classifier=sources
 - pkg:maven/org.mini2Dx/mini2Dx-libgdx-ios@2.0.0-alpha.3
 - pkg:maven/org.mini2Dx/mini2Dx-libgdx-ios@2.0.0-alpha.3?classifier=sources

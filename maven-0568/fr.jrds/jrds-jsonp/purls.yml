@@ -1,2 +1,4 @@
 - pkg:maven/fr.jrds/jrds-jsonp@1.0-RC1
 - pkg:maven/fr.jrds/jrds-jsonp@1.0-RC1?classifier=sources
+- pkg:maven/fr.jrds/jrds-jsonp@2020.1
+- pkg:maven/fr.jrds/jrds-jsonp@2020.1?classifier=sources

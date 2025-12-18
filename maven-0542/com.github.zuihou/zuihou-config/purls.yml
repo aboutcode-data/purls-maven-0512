@@ -1,0 +1,3 @@
+- pkg:maven/com.github.zuihou/zuihou-config@2.0
+- pkg:maven/com.github.zuihou/zuihou-config@2.1
+- pkg:maven/com.github.zuihou/zuihou-config@2.1?classifier=sources

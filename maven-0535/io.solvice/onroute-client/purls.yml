@@ -1,0 +1,2 @@
+- pkg:maven/io.solvice/onroute-client@0.1.4
+- pkg:maven/io.solvice/onroute-client@0.1.4?classifier=sources

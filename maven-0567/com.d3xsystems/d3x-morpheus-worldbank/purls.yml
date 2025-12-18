@@ -1,2 +1,4 @@
 - pkg:maven/com.d3xsystems/d3x-morpheus-worldbank@1.0.22
 - pkg:maven/com.d3xsystems/d3x-morpheus-worldbank@1.0.22?classifier=sources
+- pkg:maven/com.d3xsystems/d3x-morpheus-worldbank@1.0.31
+- pkg:maven/com.d3xsystems/d3x-morpheus-worldbank@1.0.31?classifier=sources

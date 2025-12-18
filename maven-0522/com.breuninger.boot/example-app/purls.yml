@@ -10,3 +10,5 @@
 - pkg:maven/com.breuninger.boot/example-app@3.1.1.RELEASE?classifier=sources
 - pkg:maven/com.breuninger.boot/example-app@3.2.0.RELEASE
 - pkg:maven/com.breuninger.boot/example-app@3.2.0.RELEASE?classifier=sources
+- pkg:maven/com.breuninger.boot/example-app@3.2.1.RELEASE
+- pkg:maven/com.breuninger.boot/example-app@3.2.1.RELEASE?classifier=sources

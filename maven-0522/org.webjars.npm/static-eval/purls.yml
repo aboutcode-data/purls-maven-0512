@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/static-eval@0.2.0
 - pkg:maven/org.webjars.npm/static-eval@0.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/static-eval@0.2.4
+- pkg:maven/org.webjars.npm/static-eval@0.2.4?classifier=sources
 - pkg:maven/org.webjars.npm/static-eval@2.0.0
 - pkg:maven/org.webjars.npm/static-eval@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/static-eval@2.0.2

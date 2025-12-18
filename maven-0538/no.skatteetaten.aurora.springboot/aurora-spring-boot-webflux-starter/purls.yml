@@ -1,0 +1,2 @@
+- pkg:maven/no.skatteetaten.aurora.springboot/aurora-spring-boot-webflux-starter@1.0.1
+- pkg:maven/no.skatteetaten.aurora.springboot/aurora-spring-boot-webflux-starter@1.0.1?classifier=sources

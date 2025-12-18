@@ -1,0 +1,4 @@
+- pkg:maven/com.viiyue.plugins/validator-lite-spring-boot-autoconfigure@1.0.0
+- pkg:maven/com.viiyue.plugins/validator-lite-spring-boot-autoconfigure@1.0.0?classifier=sources
+- pkg:maven/com.viiyue.plugins/validator-lite-spring-boot-autoconfigure@1.1.0
+- pkg:maven/com.viiyue.plugins/validator-lite-spring-boot-autoconfigure@1.1.0?classifier=sources

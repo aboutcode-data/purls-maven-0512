@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-options-editor@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-options-editor@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-options-editor@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-options-editor@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-options-editor@RELEASE90?classifier=sources

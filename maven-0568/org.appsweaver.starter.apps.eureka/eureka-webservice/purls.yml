@@ -1,0 +1,4 @@
+- pkg:maven/org.appsweaver.starter.apps.eureka/eureka-webservice@1.2.0
+- pkg:maven/org.appsweaver.starter.apps.eureka/eureka-webservice@1.2.0?classifier=sources
+- pkg:maven/org.appsweaver.starter.apps.eureka/eureka-webservice@1.2.1
+- pkg:maven/org.appsweaver.starter.apps.eureka/eureka-webservice@1.2.1?classifier=sources

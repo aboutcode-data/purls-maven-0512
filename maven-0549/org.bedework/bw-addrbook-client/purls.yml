@@ -1,3 +1,5 @@
+- pkg:maven/org.bedework/bw-addrbook-client@4.0.10.1?type=war
+- pkg:maven/org.bedework/bw-addrbook-client@4.0.10?type=war
 - pkg:maven/org.bedework/bw-addrbook-client@4.0.2?type=war
 - pkg:maven/org.bedework/bw-addrbook-client@4.0.3?type=war
 - pkg:maven/org.bedework/bw-addrbook-client@4.0.5?type=war

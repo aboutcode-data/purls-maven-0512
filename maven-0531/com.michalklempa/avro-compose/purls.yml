@@ -1,0 +1,2 @@
+- pkg:maven/com.michalklempa/avro-compose@0.0.1
+- pkg:maven/com.michalklempa/avro-compose@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mhoffrog.io.onedev/k8s-helper@1.0.10
+- pkg:maven/com.github.mhoffrog.io.onedev/k8s-helper@1.0.10?classifier=sources

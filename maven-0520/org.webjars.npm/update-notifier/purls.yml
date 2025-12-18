@@ -18,3 +18,7 @@
 - pkg:maven/org.webjars.npm/update-notifier@2.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/update-notifier@2.5.0
 - pkg:maven/org.webjars.npm/update-notifier@2.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/update-notifier@3.0.1
+- pkg:maven/org.webjars.npm/update-notifier@3.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/update-notifier@4.1.0
+- pkg:maven/org.webjars.npm/update-notifier@4.1.0?classifier=sources

@@ -1,2 +1,10 @@
 - pkg:maven/com.github.paganini2008/devtools-scheduler@1.0
+- pkg:maven/com.github.paganini2008/devtools-scheduler@1.0-RC2
+- pkg:maven/com.github.paganini2008/devtools-scheduler@1.0-RC2?classifier=sources
 - pkg:maven/com.github.paganini2008/devtools-scheduler@1.0?classifier=sources
+- pkg:maven/com.github.paganini2008/devtools-scheduler@2.0-RC1
+- pkg:maven/com.github.paganini2008/devtools-scheduler@2.0-RC1?classifier=sources
+- pkg:maven/com.github.paganini2008/devtools-scheduler@2.0-RC2
+- pkg:maven/com.github.paganini2008/devtools-scheduler@2.0-RC2?classifier=sources
+- pkg:maven/com.github.paganini2008/devtools-scheduler@2.0-RC3
+- pkg:maven/com.github.paganini2008/devtools-scheduler@2.0-RC3?classifier=sources

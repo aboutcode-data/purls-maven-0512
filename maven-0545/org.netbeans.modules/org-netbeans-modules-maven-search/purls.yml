@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-search@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-search@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-search@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-search@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-search@RELEASE90?classifier=sources

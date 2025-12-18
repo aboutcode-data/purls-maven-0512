@@ -14,3 +14,7 @@
 - pkg:maven/org.opensingular/singular-ui-showcase@1.8.2?type=war
 - pkg:maven/org.opensingular/singular-ui-showcase@1.9.1-RC14?classifier=sources
 - pkg:maven/org.opensingular/singular-ui-showcase@1.9.1-RC14?type=war
+- pkg:maven/org.opensingular/singular-ui-showcase@1.9.1-RC15?classifier=sources
+- pkg:maven/org.opensingular/singular-ui-showcase@1.9.1-RC15?type=war
+- pkg:maven/org.opensingular/singular-ui-showcase@1.9.1-RC16?classifier=sources
+- pkg:maven/org.opensingular/singular-ui-showcase@1.9.1-RC16?type=war

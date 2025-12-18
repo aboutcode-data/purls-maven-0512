@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnsearch/zipkin-sender-rsocket@2.12.1
+- pkg:maven/org.mvnsearch/zipkin-sender-rsocket@2.12.1?classifier=sources

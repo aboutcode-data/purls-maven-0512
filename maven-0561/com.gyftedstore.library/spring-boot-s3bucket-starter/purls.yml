@@ -1,0 +1,2 @@
+- pkg:maven/com.gyftedstore.library/spring-boot-s3bucket-starter@1.0.0
+- pkg:maven/com.gyftedstore.library/spring-boot-s3bucket-starter@1.0.0?classifier=sources

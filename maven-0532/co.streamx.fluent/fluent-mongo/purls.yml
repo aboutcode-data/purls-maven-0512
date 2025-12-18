@@ -2,3 +2,5 @@
 - pkg:maven/co.streamx.fluent/fluent-mongo@1.0.2?classifier=sources
 - pkg:maven/co.streamx.fluent/fluent-mongo@1.0.3
 - pkg:maven/co.streamx.fluent/fluent-mongo@1.0.3?classifier=sources
+- pkg:maven/co.streamx.fluent/fluent-mongo@1.1.0
+- pkg:maven/co.streamx.fluent/fluent-mongo@1.1.0?classifier=sources

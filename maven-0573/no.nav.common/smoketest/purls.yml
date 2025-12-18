@@ -172,3 +172,11 @@
 - pkg:maven/no.nav.common/smoketest@1.2020.02.11-12.17-1a30837bb4f2?classifier=sources
 - pkg:maven/no.nav.common/smoketest@1.2020.02.14-09.24-d69ebf28efd0
 - pkg:maven/no.nav.common/smoketest@1.2020.02.14-09.24-d69ebf28efd0?classifier=sources
+- pkg:maven/no.nav.common/smoketest@1.2020.02.18-16.01-aba1e77ea3f9
+- pkg:maven/no.nav.common/smoketest@1.2020.02.18-16.01-aba1e77ea3f9?classifier=sources
+- pkg:maven/no.nav.common/smoketest@1.2020.02.19-12.09-8a23b23bd981
+- pkg:maven/no.nav.common/smoketest@1.2020.02.19-12.09-8a23b23bd981?classifier=sources
+- pkg:maven/no.nav.common/smoketest@1.2020.02.21_09.07-69c044da9255
+- pkg:maven/no.nav.common/smoketest@1.2020.02.21_09.07-69c044da9255?classifier=sources
+- pkg:maven/no.nav.common/smoketest@1.2020.02.21_14.01-cdaccec525a6
+- pkg:maven/no.nav.common/smoketest@1.2020.02.21_14.01-cdaccec525a6?classifier=sources

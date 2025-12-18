@@ -12,3 +12,5 @@
 - pkg:maven/se.sunet.ati.ladok/ati-ladok3-atom-client@1.1.0?classifier=sources
 - pkg:maven/se.sunet.ati.ladok/ati-ladok3-atom-client@1.2.0
 - pkg:maven/se.sunet.ati.ladok/ati-ladok3-atom-client@1.2.0?classifier=sources
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-atom-client@1.3.0
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-atom-client@1.3.0?classifier=sources

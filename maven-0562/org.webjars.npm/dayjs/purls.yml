@@ -4,6 +4,8 @@
 - pkg:maven/org.webjars.npm/dayjs@1.8.16?classifier=sources
 - pkg:maven/org.webjars.npm/dayjs@1.8.20
 - pkg:maven/org.webjars.npm/dayjs@1.8.20?classifier=sources
+- pkg:maven/org.webjars.npm/dayjs@1.8.26
+- pkg:maven/org.webjars.npm/dayjs@1.8.26?classifier=sources
 - pkg:maven/org.webjars.npm/dayjs@1.8.6
 - pkg:maven/org.webjars.npm/dayjs@1.8.6?classifier=sources
 - pkg:maven/org.webjars.npm/dayjs@1.8.9

@@ -1,0 +1,4 @@
+- pkg:maven/org.librarysimplified/org.librarysimplified.viewer.pdf@5.0.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.viewer.pdf@5.1.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.viewer.pdf@5.1.1?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.viewer.pdf@5.2.0?classifier=sources

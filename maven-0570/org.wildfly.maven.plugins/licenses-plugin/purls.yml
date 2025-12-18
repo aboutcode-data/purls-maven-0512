@@ -8,3 +8,5 @@
 - pkg:maven/org.wildfly.maven.plugins/licenses-plugin@2.0.0.Beta2?classifier=sources
 - pkg:maven/org.wildfly.maven.plugins/licenses-plugin@2.0.0.Final
 - pkg:maven/org.wildfly.maven.plugins/licenses-plugin@2.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.maven.plugins/licenses-plugin@2.1.0.Final
+- pkg:maven/org.wildfly.maven.plugins/licenses-plugin@2.1.0.Final?classifier=sources

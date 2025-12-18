@@ -63,3 +63,5 @@
 - pkg:maven/org.opendaylight.netconf/netconf-topology-config@1.7.1?classifier=sources
 - pkg:maven/org.opendaylight.netconf/netconf-topology-config@1.7.2
 - pkg:maven/org.opendaylight.netconf/netconf-topology-config@1.7.2?classifier=sources
+- pkg:maven/org.opendaylight.netconf/netconf-topology-config@1.8.0
+- pkg:maven/org.opendaylight.netconf/netconf-topology-config@1.8.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.redhat.rcm/redhat-releng-license-templates@1
 - pkg:maven/com.redhat.rcm/redhat-releng-license-templates@1?classifier=sources
+- pkg:maven/com.redhat.rcm/redhat-releng-license-templates@2
+- pkg:maven/com.redhat.rcm/redhat-releng-license-templates@2?classifier=sources

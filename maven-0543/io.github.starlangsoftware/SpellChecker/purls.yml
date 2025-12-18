@@ -1,0 +1,4 @@
+- pkg:maven/io.github.starlangsoftware/SpellChecker@1.0.14
+- pkg:maven/io.github.starlangsoftware/SpellChecker@1.0.14?classifier=sources
+- pkg:maven/io.github.starlangsoftware/SpellChecker@1.0.15
+- pkg:maven/io.github.starlangsoftware/SpellChecker@1.0.15?classifier=sources

@@ -1,5 +1,9 @@
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@1.1.0
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@1.1.0?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M10
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M10?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M11
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M11?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M2
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M2?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M3
@@ -12,3 +16,13 @@
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M4%2B2-faf8c029
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M4%2B2-faf8c029?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M4?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M5
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M5?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M6
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M6?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M7
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M7?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M8
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M8?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M9
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M9?classifier=sources

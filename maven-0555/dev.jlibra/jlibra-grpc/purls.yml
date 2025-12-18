@@ -16,3 +16,5 @@
 - pkg:maven/dev.jlibra/jlibra-grpc@0.6.0?classifier=sources
 - pkg:maven/dev.jlibra/jlibra-grpc@0.7.0
 - pkg:maven/dev.jlibra/jlibra-grpc@0.7.0?classifier=sources
+- pkg:maven/dev.jlibra/jlibra-grpc@0.8.0
+- pkg:maven/dev.jlibra/jlibra-grpc@0.8.0?classifier=sources

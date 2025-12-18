@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-web-jsf12@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-web-jsf12@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-web-jsf12@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-web-jsf12@RELEASE113?classifier=sources

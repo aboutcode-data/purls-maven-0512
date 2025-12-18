@@ -1,0 +1,2 @@
+- pkg:maven/org.omnifaces.oyena/oyena-action@20.4.0
+- pkg:maven/org.omnifaces.oyena/oyena-action@20.4.0?classifier=sources

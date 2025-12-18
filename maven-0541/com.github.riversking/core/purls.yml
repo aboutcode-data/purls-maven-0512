@@ -43,8 +43,12 @@
 - pkg:maven/com.github.riversking/core@1.0.9.80?classifier=sources
 - pkg:maven/com.github.riversking/core@1.0.9.81
 - pkg:maven/com.github.riversking/core@1.0.9.81?classifier=sources
+- pkg:maven/com.github.riversking/core@1.0.9.82
+- pkg:maven/com.github.riversking/core@1.0.9.82?classifier=sources
 - pkg:maven/com.github.riversking/core@1.0.9.90
 - pkg:maven/com.github.riversking/core@1.0.9.90?classifier=sources
+- pkg:maven/com.github.riversking/core@1.0.9.91
+- pkg:maven/com.github.riversking/core@1.0.9.91?classifier=sources
 - pkg:maven/com.github.riversking/core@1.0.9?classifier=sources
 - pkg:maven/com.github.riversking/core@1.1.0
 - pkg:maven/com.github.riversking/core@1.1.0?classifier=sources

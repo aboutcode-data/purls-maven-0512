@@ -1,0 +1,2 @@
+- pkg:maven/de.wayofquality.blended/blended.websocket_2.12@3.1-RC2
+- pkg:maven/de.wayofquality.blended/blended.websocket_2.12@3.1-RC2?classifier=sources

@@ -1,3 +1,7 @@
 - pkg:maven/com.datomic/tools.ops@0.10.24
 - pkg:maven/com.datomic/tools.ops@0.10.64
 - pkg:maven/com.datomic/tools.ops@0.10.65
+- pkg:maven/com.datomic/tools.ops@0.10.70
+- pkg:maven/com.datomic/tools.ops@0.10.77
+- pkg:maven/com.datomic/tools.ops@0.10.81
+- pkg:maven/com.datomic/tools.ops@0.10.82

@@ -1,1 +1,2 @@
 - pkg:maven/de.mhus.ports/ports-cglib@6.2.0
+- pkg:maven/de.mhus.ports/ports-cglib@7.0.0

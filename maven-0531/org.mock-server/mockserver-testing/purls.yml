@@ -1,2 +1,6 @@
+- pkg:maven/org.mock-server/mockserver-testing@5.10
+- pkg:maven/org.mock-server/mockserver-testing@5.10.0
+- pkg:maven/org.mock-server/mockserver-testing@5.10.0?classifier=sources
+- pkg:maven/org.mock-server/mockserver-testing@5.10?classifier=sources
 - pkg:maven/org.mock-server/mockserver-testing@5.9.0
 - pkg:maven/org.mock-server/mockserver-testing@5.9.0?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/com.microsoft.azure/azure-batch@6.0.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-batch@7.0.0
 - pkg:maven/com.microsoft.azure/azure-batch@7.0.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-batch@8.0.0
+- pkg:maven/com.microsoft.azure/azure-batch@8.0.0?classifier=sources

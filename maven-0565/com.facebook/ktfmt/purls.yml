@@ -1,0 +1,8 @@
+- pkg:maven/com.facebook/ktfmt@0.1
+- pkg:maven/com.facebook/ktfmt@0.11
+- pkg:maven/com.facebook/ktfmt@0.11?classifier=sources
+- pkg:maven/com.facebook/ktfmt@0.12
+- pkg:maven/com.facebook/ktfmt@0.12?classifier=sources
+- pkg:maven/com.facebook/ktfmt@0.13
+- pkg:maven/com.facebook/ktfmt@0.13?classifier=sources
+- pkg:maven/com.facebook/ktfmt@0.1?classifier=sources

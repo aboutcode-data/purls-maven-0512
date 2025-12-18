@@ -1,2 +1,4 @@
 - pkg:maven/com.dameng/Dm8JdbcDriver16@8.1.0.157
 - pkg:maven/com.dameng/Dm8JdbcDriver16@8.1.0.157?classifier=sources
+- pkg:maven/com.dameng/Dm8JdbcDriver16@8.1.1.49
+- pkg:maven/com.dameng/Dm8JdbcDriver16@8.1.1.49?classifier=sources

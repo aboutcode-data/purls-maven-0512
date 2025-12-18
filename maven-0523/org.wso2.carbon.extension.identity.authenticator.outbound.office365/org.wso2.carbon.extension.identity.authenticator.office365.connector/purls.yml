@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.office365/org.wso2.carbon.extension.identity.authenticator.office365.connector@2.0.1
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.office365/org.wso2.carbon.extension.identity.authenticator.office365.connector@2.0.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.office365/org.wso2.carbon.extension.identity.authenticator.office365.connector@2.0.2
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.office365/org.wso2.carbon.extension.identity.authenticator.office365.connector@2.0.2?classifier=source-release&type=zip

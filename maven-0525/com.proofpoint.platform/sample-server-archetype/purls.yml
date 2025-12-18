@@ -93,3 +93,9 @@
 - pkg:maven/com.proofpoint.platform/sample-server-archetype@2.21?classifier=sources
 - pkg:maven/com.proofpoint.platform/sample-server-archetype@2.22?classifier=sources
 - pkg:maven/com.proofpoint.platform/sample-server-archetype@2.23?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server-archetype@2.24?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server-archetype@2.25?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server-archetype@2.26?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server-archetype@2.27?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server-archetype@2.28?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server-archetype@2.29?classifier=sources

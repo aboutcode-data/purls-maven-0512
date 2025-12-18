@@ -28,3 +28,7 @@
 - pkg:maven/io.prestosql/presto-postgresql@327?classifier=sources
 - pkg:maven/io.prestosql/presto-postgresql@328?classifier=sources
 - pkg:maven/io.prestosql/presto-postgresql@329?classifier=sources
+- pkg:maven/io.prestosql/presto-postgresql@330?classifier=sources
+- pkg:maven/io.prestosql/presto-postgresql@331?classifier=sources
+- pkg:maven/io.prestosql/presto-postgresql@332?classifier=sources
+- pkg:maven/io.prestosql/presto-postgresql@333?classifier=sources
