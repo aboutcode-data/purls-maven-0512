@@ -10,3 +10,5 @@
 - pkg:maven/com.centit.framework/centit-ip-app@1.2.1812?classifier=sources
 - pkg:maven/com.centit.framework/centit-ip-app@2.1.2007
 - pkg:maven/com.centit.framework/centit-ip-app@2.1.2007?classifier=sources
+- pkg:maven/com.centit.framework/centit-ip-app@5.0.2101
+- pkg:maven/com.centit.framework/centit-ip-app@5.0.2101?classifier=sources

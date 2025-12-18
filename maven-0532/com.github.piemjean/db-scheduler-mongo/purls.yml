@@ -1,0 +1,2 @@
+- pkg:maven/com.github.piemjean/db-scheduler-mongo@9.3
+- pkg:maven/com.github.piemjean/db-scheduler-mongo@9.3?classifier=sources

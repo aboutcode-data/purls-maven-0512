@@ -116,3 +116,5 @@
 - pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-games@2.5.3?classifier=sources
 - pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-games@2.5.4
 - pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-games@2.5.4?classifier=sources
+- pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-games@2.6.4
+- pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-games@2.6.4?classifier=sources

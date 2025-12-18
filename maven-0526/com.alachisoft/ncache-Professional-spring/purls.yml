@@ -1,0 +1,4 @@
+- pkg:maven/com.alachisoft/ncache-Professional-spring@5.2-alpha-19
+- pkg:maven/com.alachisoft/ncache-Professional-spring@5.2-alpha-19?classifier=sources
+- pkg:maven/com.alachisoft/ncache-Professional-spring@5.2-alpha-23
+- pkg:maven/com.alachisoft/ncache-Professional-spring@5.2-alpha-23?classifier=sources

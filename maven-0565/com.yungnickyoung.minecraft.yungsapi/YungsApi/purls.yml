@@ -6,3 +6,11 @@
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.3-Forge-1?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.4-Fabric-1
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.4-Fabric-1?classifier=sources
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.4-Forge-2
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.4-Forge-2?classifier=sources
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.4-Forge-3
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.4-Forge-3?classifier=sources
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.4-Forge-4
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.4-Forge-4?classifier=sources
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.5-Fabric-2
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.5-Fabric-2?classifier=sources

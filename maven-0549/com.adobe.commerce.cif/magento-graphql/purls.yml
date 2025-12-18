@@ -26,3 +26,5 @@
 - pkg:maven/com.adobe.commerce.cif/magento-graphql@8.0.0-magento241ee?classifier=sources
 - pkg:maven/com.adobe.commerce.cif/magento-graphql@8.1.0-magento241ee
 - pkg:maven/com.adobe.commerce.cif/magento-graphql@8.1.0-magento241ee?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/magento-graphql@9.0.0-magento242ee
+- pkg:maven/com.adobe.commerce.cif/magento-graphql@9.0.0-magento242ee?classifier=sources

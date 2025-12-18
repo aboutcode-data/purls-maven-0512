@@ -1,2 +1,4 @@
 - pkg:maven/com.rheagroup/cdp4requirementsverification@2.0.0
 - pkg:maven/com.rheagroup/cdp4requirementsverification@2.0.0?classifier=sources
+- pkg:maven/com.rheagroup/cdp4requirementsverification@3.0.0
+- pkg:maven/com.rheagroup/cdp4requirementsverification@3.0.0?classifier=sources

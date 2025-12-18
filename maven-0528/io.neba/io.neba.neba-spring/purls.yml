@@ -26,3 +26,5 @@
 - pkg:maven/io.neba/io.neba.neba-spring@5.1.4?classifier=sources
 - pkg:maven/io.neba/io.neba.neba-spring@5.1.5
 - pkg:maven/io.neba/io.neba.neba-spring@5.1.5?classifier=sources
+- pkg:maven/io.neba/io.neba.neba-spring@5.2.0
+- pkg:maven/io.neba/io.neba.neba-spring@5.2.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.graphql-java-kickstart/playground-spring-boot-autoconfigure@11.0.0
+- pkg:maven/com.graphql-java-kickstart/playground-spring-boot-autoconfigure@11.0.0?classifier=sources
 - pkg:maven/com.graphql-java-kickstart/playground-spring-boot-autoconfigure@5.10.0
 - pkg:maven/com.graphql-java-kickstart/playground-spring-boot-autoconfigure@5.10.0?classifier=sources
 - pkg:maven/com.graphql-java-kickstart/playground-spring-boot-autoconfigure@5.11.0

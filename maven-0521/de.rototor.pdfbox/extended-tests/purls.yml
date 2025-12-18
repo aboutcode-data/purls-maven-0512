@@ -1,2 +1,4 @@
 - pkg:maven/de.rototor.pdfbox/extended-tests@0.30
 - pkg:maven/de.rototor.pdfbox/extended-tests@0.30?classifier=sources
+- pkg:maven/de.rototor.pdfbox/extended-tests@0.31
+- pkg:maven/de.rototor.pdfbox/extended-tests@0.31?classifier=sources

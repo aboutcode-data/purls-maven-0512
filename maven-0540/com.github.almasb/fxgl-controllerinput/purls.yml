@@ -1,2 +1,6 @@
 - pkg:maven/com.github.almasb/fxgl-controllerinput@11.12
 - pkg:maven/com.github.almasb/fxgl-controllerinput@11.12?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-controllerinput@11.13
+- pkg:maven/com.github.almasb/fxgl-controllerinput@11.13?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-controllerinput@11.14
+- pkg:maven/com.github.almasb/fxgl-controllerinput@11.14?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/com.github.phantomthief/more-lambdas-jdk9@0.1.52?classifier=sources
 - pkg:maven/com.github.phantomthief/more-lambdas-jdk9@0.1.53
 - pkg:maven/com.github.phantomthief/more-lambdas-jdk9@0.1.53?classifier=sources
+- pkg:maven/com.github.phantomthief/more-lambdas-jdk9@0.1.54
+- pkg:maven/com.github.phantomthief/more-lambdas-jdk9@0.1.54?classifier=sources

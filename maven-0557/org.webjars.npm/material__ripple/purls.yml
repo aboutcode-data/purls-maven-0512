@@ -92,6 +92,8 @@
 - pkg:maven/org.webjars.npm/material__ripple@1.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/material__ripple@1.1.0
 - pkg:maven/org.webjars.npm/material__ripple@1.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__ripple@10.0.0
+- pkg:maven/org.webjars.npm/material__ripple@10.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__ripple@2.0.0
 - pkg:maven/org.webjars.npm/material__ripple@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__ripple@3.0.0-alpha.1
@@ -106,3 +108,5 @@
 - pkg:maven/org.webjars.npm/material__ripple@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__ripple@7.0.0
 - pkg:maven/org.webjars.npm/material__ripple@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__ripple@9.0.0
+- pkg:maven/org.webjars.npm/material__ripple@9.0.0?classifier=sources

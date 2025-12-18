@@ -15,3 +15,5 @@
 - pkg:maven/org.sonarsource.javascript/eslint-bridge@7.0.0.14528
 - pkg:maven/org.sonarsource.javascript/eslint-bridge@7.0.1.14561
 - pkg:maven/org.sonarsource.javascript/eslint-bridge@7.1.0.14721
+- pkg:maven/org.sonarsource.javascript/eslint-bridge@7.2.0.14938
+- pkg:maven/org.sonarsource.javascript/eslint-bridge@7.2.1.14998

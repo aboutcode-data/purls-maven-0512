@@ -4,3 +4,11 @@
 - pkg:maven/org.graalvm.js/js-interop-micro-benchmarks@20.2.0?classifier=sources
 - pkg:maven/org.graalvm.js/js-interop-micro-benchmarks@20.3.0
 - pkg:maven/org.graalvm.js/js-interop-micro-benchmarks@20.3.0?classifier=sources
+- pkg:maven/org.graalvm.js/js-interop-micro-benchmarks@20.3.1
+- pkg:maven/org.graalvm.js/js-interop-micro-benchmarks@20.3.1.2
+- pkg:maven/org.graalvm.js/js-interop-micro-benchmarks@20.3.1.2?classifier=sources
+- pkg:maven/org.graalvm.js/js-interop-micro-benchmarks@20.3.1?classifier=sources
+- pkg:maven/org.graalvm.js/js-interop-micro-benchmarks@21.0.0
+- pkg:maven/org.graalvm.js/js-interop-micro-benchmarks@21.0.0.2
+- pkg:maven/org.graalvm.js/js-interop-micro-benchmarks@21.0.0.2?classifier=sources
+- pkg:maven/org.graalvm.js/js-interop-micro-benchmarks@21.0.0?classifier=sources

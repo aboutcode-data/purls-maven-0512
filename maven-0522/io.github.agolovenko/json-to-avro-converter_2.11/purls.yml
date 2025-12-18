@@ -1,0 +1,2 @@
+- pkg:maven/io.github.agolovenko/json-to-avro-converter_2.11@1.0.1
+- pkg:maven/io.github.agolovenko/json-to-avro-converter_2.11@1.0.1?classifier=sources

@@ -6,6 +6,7 @@
 - pkg:maven/org.apache.xmlgraphics/batik-parser@1.12?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-parser@1.13
 - pkg:maven/org.apache.xmlgraphics/batik-parser@1.13?classifier=sources
+- pkg:maven/org.apache.xmlgraphics/batik-parser@1.14?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-parser@1.6.1
 - pkg:maven/org.apache.xmlgraphics/batik-parser@1.7
 - pkg:maven/org.apache.xmlgraphics/batik-parser@1.7?classifier=sources

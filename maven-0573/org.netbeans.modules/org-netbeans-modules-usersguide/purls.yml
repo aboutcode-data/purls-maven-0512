@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-usersguide@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-usersguide@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-usersguide@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-usersguide@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-usersguide@RELEASE90?classifier=sources

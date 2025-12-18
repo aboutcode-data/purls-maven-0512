@@ -1,2 +1,4 @@
 - pkg:maven/com.cognitect.aws/mwaa@810.2.801.0
 - pkg:maven/com.cognitect.aws/mwaa@810.2.801.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mwaa@811.2.858.0
+- pkg:maven/com.cognitect.aws/mwaa@811.2.858.0?classifier=sources

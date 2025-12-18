@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-dbgp@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-dbgp@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-dbgp@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-dbgp@RELEASE123?classifier=sources

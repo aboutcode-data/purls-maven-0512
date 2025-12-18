@@ -1,0 +1,2 @@
+- pkg:maven/space.arim.dazzleconf/dazzleconf-ext-hocon@1.2.0-M2
+- pkg:maven/space.arim.dazzleconf/dazzleconf-ext-hocon@1.2.0-M2?classifier=sources

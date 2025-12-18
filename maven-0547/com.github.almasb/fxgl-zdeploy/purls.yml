@@ -4,6 +4,10 @@
 - pkg:maven/com.github.almasb/fxgl-zdeploy@11.11?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-zdeploy@11.12
 - pkg:maven/com.github.almasb/fxgl-zdeploy@11.12?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-zdeploy@11.13
+- pkg:maven/com.github.almasb/fxgl-zdeploy@11.13?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-zdeploy@11.14
+- pkg:maven/com.github.almasb/fxgl-zdeploy@11.14?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-zdeploy@11.4
 - pkg:maven/com.github.almasb/fxgl-zdeploy@11.5
 - pkg:maven/com.github.almasb/fxgl-zdeploy@11.5?classifier=sources

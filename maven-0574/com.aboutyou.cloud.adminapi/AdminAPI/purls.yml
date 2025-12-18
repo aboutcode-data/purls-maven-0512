@@ -1,2 +1,4 @@
 - pkg:maven/com.aboutyou.cloud.adminapi/AdminAPI@0.1.0
 - pkg:maven/com.aboutyou.cloud.adminapi/AdminAPI@0.1.0?classifier=sources
+- pkg:maven/com.aboutyou.cloud.adminapi/AdminAPI@1.0.0
+- pkg:maven/com.aboutyou.cloud.adminapi/AdminAPI@1.0.0?classifier=sources

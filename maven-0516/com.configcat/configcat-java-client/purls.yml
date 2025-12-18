@@ -26,3 +26,5 @@
 - pkg:maven/com.configcat/configcat-java-client@5.1.0?classifier=sources
 - pkg:maven/com.configcat/configcat-java-client@6.0.0
 - pkg:maven/com.configcat/configcat-java-client@6.0.0?classifier=sources
+- pkg:maven/com.configcat/configcat-java-client@6.0.1
+- pkg:maven/com.configcat/configcat-java-client@6.0.1?classifier=sources

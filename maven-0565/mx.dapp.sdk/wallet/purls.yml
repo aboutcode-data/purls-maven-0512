@@ -1,0 +1,2 @@
+- pkg:maven/mx.dapp.sdk/wallet@2.2.0?classifier=sources
+- pkg:maven/mx.dapp.sdk/wallet@2.3.0?classifier=sources

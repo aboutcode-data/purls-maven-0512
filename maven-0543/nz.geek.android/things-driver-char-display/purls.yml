@@ -1,0 +1,2 @@
+- pkg:maven/nz.geek.android/things-driver-char-display@0.7?classifier=sources
+- pkg:maven/nz.geek.android/things-driver-char-display@0.8?classifier=sources

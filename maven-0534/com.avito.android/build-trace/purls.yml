@@ -1,0 +1,2 @@
+- pkg:maven/com.avito.android/build-trace@2021.7?classifier=sources
+- pkg:maven/com.avito.android/build-trace@2021.8?classifier=sources

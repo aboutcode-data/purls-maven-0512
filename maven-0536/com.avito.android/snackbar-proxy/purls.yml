@@ -1,0 +1,2 @@
+- pkg:maven/com.avito.android/snackbar-proxy@2021.7?classifier=sources
+- pkg:maven/com.avito.android/snackbar-proxy@2021.8?classifier=sources

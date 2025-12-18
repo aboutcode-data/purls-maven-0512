@@ -1,0 +1,2 @@
+- pkg:maven/org.openforis.collect.earth/collect-earth-app@1.12.15
+- pkg:maven/org.openforis.collect.earth/collect-earth-app@1.12.15?classifier=sources

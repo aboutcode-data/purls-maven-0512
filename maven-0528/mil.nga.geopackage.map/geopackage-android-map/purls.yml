@@ -30,3 +30,5 @@
 - pkg:maven/mil.nga.geopackage.map/geopackage-android-map@3.5.0?type=aar
 - pkg:maven/mil.nga.geopackage.map/geopackage-android-map@4.0.0?classifier=sources
 - pkg:maven/mil.nga.geopackage.map/geopackage-android-map@4.0.0?type=aar
+- pkg:maven/mil.nga.geopackage.map/geopackage-android-map@5.0.0?classifier=sources
+- pkg:maven/mil.nga.geopackage.map/geopackage-android-map@5.0.0?type=aar

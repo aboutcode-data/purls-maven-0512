@@ -18,3 +18,5 @@
 - pkg:maven/com.kasinf/ks-boot-oauth@1.2.3.RELEASE?classifier=sources
 - pkg:maven/com.kasinf/ks-boot-oauth@1.2.4.RELEASE
 - pkg:maven/com.kasinf/ks-boot-oauth@1.2.4.RELEASE?classifier=sources
+- pkg:maven/com.kasinf/ks-boot-oauth@1.2.5.RELEASE
+- pkg:maven/com.kasinf/ks-boot-oauth@1.2.5.RELEASE?classifier=sources

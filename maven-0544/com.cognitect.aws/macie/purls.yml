@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/macie@770.2.568.0?classifier=sources
 - pkg:maven/com.cognitect.aws/macie@801.2.684.0
 - pkg:maven/com.cognitect.aws/macie@801.2.684.0?classifier=sources
+- pkg:maven/com.cognitect.aws/macie@811.2.844.0
+- pkg:maven/com.cognitect.aws/macie@811.2.844.0?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/com.google.zetasql/zetasql-types@2020.09.1?classifier=sources
 - pkg:maven/com.google.zetasql/zetasql-types@2020.10.1
 - pkg:maven/com.google.zetasql/zetasql-types@2020.10.1?classifier=sources
+- pkg:maven/com.google.zetasql/zetasql-types@2021.02.1
+- pkg:maven/com.google.zetasql/zetasql-types@2021.02.1?classifier=sources

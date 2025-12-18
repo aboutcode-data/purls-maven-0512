@@ -3,3 +3,4 @@
 - pkg:maven/org.wildfly.archetype/wildfly-jakartaee-ear-archetype@19.1.0.Final?classifier=sources
 - pkg:maven/org.wildfly.archetype/wildfly-jakartaee-ear-archetype@20.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.archetype/wildfly-jakartaee-ear-archetype@21.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.archetype/wildfly-jakartaee-ear-archetype@22.0.0.Final?classifier=sources

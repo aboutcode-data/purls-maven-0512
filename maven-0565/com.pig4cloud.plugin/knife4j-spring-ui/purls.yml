@@ -1,0 +1,2 @@
+- pkg:maven/com.pig4cloud.plugin/knife4j-spring-ui@3.0.2
+- pkg:maven/com.pig4cloud.plugin/knife4j-spring-ui@3.0.2?classifier=sources

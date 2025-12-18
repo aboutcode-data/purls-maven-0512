@@ -8,3 +8,7 @@
 - pkg:maven/com.haoxuer.discover/discover-common-filter@2.0.4?classifier=sources
 - pkg:maven/com.haoxuer.discover/discover-common-filter@3.1.4-20201031
 - pkg:maven/com.haoxuer.discover/discover-common-filter@3.1.4-20201031?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-common-filter@3.2.5-20210225
+- pkg:maven/com.haoxuer.discover/discover-common-filter@3.2.5-20210225?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-common-filter@3.2.6-20210222
+- pkg:maven/com.haoxuer.discover/discover-common-filter@3.2.6-20210222?classifier=sources

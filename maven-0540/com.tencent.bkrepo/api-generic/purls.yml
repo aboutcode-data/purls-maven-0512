@@ -1,1 +1,2 @@
 - pkg:maven/com.tencent.bkrepo/api-generic@0.8.30?classifier=sources
+- pkg:maven/com.tencent.bkrepo/api-generic@1.0.0?classifier=sources

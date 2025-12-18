@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pityka/flatjoin-jsoniter_2.13@0.0.15
+- pkg:maven/io.github.pityka/flatjoin-jsoniter_2.13@0.0.15?classifier=sources

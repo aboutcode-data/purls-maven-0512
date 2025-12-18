@@ -2,5 +2,9 @@
 - pkg:maven/com.farao-community.farao/farao-loopflow-computation@2.1.0?classifier=sources
 - pkg:maven/com.farao-community.farao/farao-loopflow-computation@2.1.1
 - pkg:maven/com.farao-community.farao/farao-loopflow-computation@2.1.1?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-loopflow-computation@2.2.0
 - pkg:maven/com.farao-community.farao/farao-loopflow-computation@2.2.0-RC1
 - pkg:maven/com.farao-community.farao/farao-loopflow-computation@2.2.0-RC1?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-loopflow-computation@2.2.0?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-loopflow-computation@2.3.0
+- pkg:maven/com.farao-community.farao/farao-loopflow-computation@2.3.0?classifier=sources

@@ -13,6 +13,7 @@
 - pkg:maven/org.gridkit.lab/nanocloud@0.8.2.2
 - pkg:maven/org.gridkit.lab/nanocloud@0.8.2.3
 - pkg:maven/org.gridkit.lab/nanocloud@0.8.2.4
+- pkg:maven/org.gridkit.lab/nanocloud@0.8.20
 - pkg:maven/org.gridkit.lab/nanocloud@0.8.3
 - pkg:maven/org.gridkit.lab/nanocloud@0.8.4
 - pkg:maven/org.gridkit.lab/nanocloud@0.8.5

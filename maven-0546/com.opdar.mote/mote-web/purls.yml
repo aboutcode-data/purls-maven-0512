@@ -6,3 +6,5 @@
 - pkg:maven/com.opdar.mote/mote-web@20201105.1.2?classifier=sources
 - pkg:maven/com.opdar.mote/mote-web@20201111.1.3
 - pkg:maven/com.opdar.mote/mote-web@20201111.1.3?classifier=sources
+- pkg:maven/com.opdar.mote/mote-web@20210205.1.5
+- pkg:maven/com.opdar.mote/mote-web@20210205.1.5?classifier=sources

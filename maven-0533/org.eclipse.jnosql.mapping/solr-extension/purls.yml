@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jnosql.mapping/solr-extension@1.0.0-b3
+- pkg:maven/org.eclipse.jnosql.mapping/solr-extension@1.0.0-b3?classifier=sources

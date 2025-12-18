@@ -59,6 +59,7 @@
 - pkg:maven/uk.gov.gchq.gaffer/ui@1.12.0?type=war
 - pkg:maven/uk.gov.gchq.gaffer/ui@1.13.0?type=war
 - pkg:maven/uk.gov.gchq.gaffer/ui@1.13.1?type=war
+- pkg:maven/uk.gov.gchq.gaffer/ui@1.15.0?type=war
 - pkg:maven/uk.gov.gchq.gaffer/ui@1.2.0-RC1?type=war
 - pkg:maven/uk.gov.gchq.gaffer/ui@1.2.0?type=war
 - pkg:maven/uk.gov.gchq.gaffer/ui@1.3.0-RC1?type=war

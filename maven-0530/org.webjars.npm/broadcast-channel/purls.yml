@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/broadcast-channel@3.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/broadcast-channel@3.0.4
 - pkg:maven/org.webjars.npm/broadcast-channel@3.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/broadcast-channel@3.4.1
+- pkg:maven/org.webjars.npm/broadcast-channel@3.4.1?classifier=sources

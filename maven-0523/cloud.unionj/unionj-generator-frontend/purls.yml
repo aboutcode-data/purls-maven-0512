@@ -1,2 +1,6 @@
 - pkg:maven/cloud.unionj/unionj-generator-frontend@1.0
 - pkg:maven/cloud.unionj/unionj-generator-frontend@1.0?classifier=sources
+- pkg:maven/cloud.unionj/unionj-generator-frontend@1.1
+- pkg:maven/cloud.unionj/unionj-generator-frontend@1.1?classifier=sources
+- pkg:maven/cloud.unionj/unionj-generator-frontend@1.2
+- pkg:maven/cloud.unionj/unionj-generator-frontend@1.2?classifier=sources

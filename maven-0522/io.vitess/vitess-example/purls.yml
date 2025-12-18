@@ -22,3 +22,5 @@
 - pkg:maven/io.vitess/vitess-example@7.0.0?classifier=sources
 - pkg:maven/io.vitess/vitess-example@8.0.0
 - pkg:maven/io.vitess/vitess-example@8.0.0?classifier=sources
+- pkg:maven/io.vitess/vitess-example@9.0.0
+- pkg:maven/io.vitess/vitess-example@9.0.0?classifier=sources

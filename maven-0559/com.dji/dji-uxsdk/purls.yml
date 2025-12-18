@@ -5,6 +5,7 @@
 - pkg:maven/com.dji/dji-uxsdk@4.12?type=aar
 - pkg:maven/com.dji/dji-uxsdk@4.13?type=aar
 - pkg:maven/com.dji/dji-uxsdk@4.14-trial1?type=aar
+- pkg:maven/com.dji/dji-uxsdk@4.14?type=aar
 - pkg:maven/com.dji/dji-uxsdk@4.5.1?type=aar
 - pkg:maven/com.dji/dji-uxsdk@4.5?type=aar
 - pkg:maven/com.dji/dji-uxsdk@4.6?type=aar

@@ -106,6 +106,10 @@
 - pkg:maven/com.nepxion/discovery-console-starter-apollo@3.20.3?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter-apollo@3.21.0
 - pkg:maven/com.nepxion/discovery-console-starter-apollo@3.21.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-console-starter-apollo@3.22.0
+- pkg:maven/com.nepxion/discovery-console-starter-apollo@3.22.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-console-starter-apollo@3.23.0
+- pkg:maven/com.nepxion/discovery-console-starter-apollo@3.23.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter-apollo@3.7.12
 - pkg:maven/com.nepxion/discovery-console-starter-apollo@3.7.12?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter-apollo@3.8.0
@@ -434,6 +438,10 @@
 - pkg:maven/com.nepxion/discovery-console-starter-apollo@6.3.3?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter-apollo@6.5.0
 - pkg:maven/com.nepxion/discovery-console-starter-apollo@6.5.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-console-starter-apollo@6.6.0
+- pkg:maven/com.nepxion/discovery-console-starter-apollo@6.6.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-console-starter-apollo@6.7.0
+- pkg:maven/com.nepxion/discovery-console-starter-apollo@6.7.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter-apollo@Edgware.1.0.0
 - pkg:maven/com.nepxion/discovery-console-starter-apollo@Edgware.1.0.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter-apollo@Finchley.1.0.0

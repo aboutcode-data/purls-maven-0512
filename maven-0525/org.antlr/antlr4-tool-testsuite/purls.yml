@@ -10,3 +10,5 @@
 - pkg:maven/org.antlr/antlr4-tool-testsuite@4.8
 - pkg:maven/org.antlr/antlr4-tool-testsuite@4.8-1
 - pkg:maven/org.antlr/antlr4-tool-testsuite@4.9
+- pkg:maven/org.antlr/antlr4-tool-testsuite@4.9.1
+- pkg:maven/org.antlr/antlr4-tool-testsuite@4.9.2

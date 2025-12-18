@@ -14,3 +14,7 @@
 - pkg:maven/org.daisy.pipeline.modules/ssml-to-audio@3.1.1?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/ssml-to-audio@4.0.0
 - pkg:maven/org.daisy.pipeline.modules/ssml-to-audio@4.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/ssml-to-audio@4.0.1
+- pkg:maven/org.daisy.pipeline.modules/ssml-to-audio@4.0.1?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/ssml-to-audio@4.0.2
+- pkg:maven/org.daisy.pipeline.modules/ssml-to-audio@4.0.2?classifier=sources

@@ -93,8 +93,16 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.37.1?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.38.0
 - pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.38.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.38.1
+- pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.38.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.39.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.39.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.39.1
+- pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.39.1?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.4.0-beta
 - pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.4.0-beta?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.40.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.40.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.5.0-beta
 - pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.5.0-beta?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-eventhub@1.5.1-beta

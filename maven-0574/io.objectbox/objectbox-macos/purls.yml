@@ -1,0 +1,2 @@
+- pkg:maven/io.objectbox/objectbox-macos@2.8.0
+- pkg:maven/io.objectbox/objectbox-macos@2.8.0?classifier=sources

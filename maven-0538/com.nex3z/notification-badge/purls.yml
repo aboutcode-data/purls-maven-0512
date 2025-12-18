@@ -1,0 +1,6 @@
+- pkg:maven/com.nex3z/notification-badge@0.2.0?classifier=sources
+- pkg:maven/com.nex3z/notification-badge@0.2.1?classifier=sources
+- pkg:maven/com.nex3z/notification-badge@0.3.2?classifier=sources
+- pkg:maven/com.nex3z/notification-badge@1.0.2?classifier=sources
+- pkg:maven/com.nex3z/notification-badge@1.0.4?classifier=sources
+- pkg:maven/com.nex3z/notification-badge@1.0.5?classifier=sources

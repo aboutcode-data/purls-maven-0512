@@ -2,3 +2,5 @@
 - pkg:maven/com.artipie/composer-adapter@0.1?classifier=sources
 - pkg:maven/com.artipie/composer-adapter@0.2
 - pkg:maven/com.artipie/composer-adapter@0.2?classifier=sources
+- pkg:maven/com.artipie/composer-adapter@0.3.7
+- pkg:maven/com.artipie/composer-adapter@0.3.7?classifier=sources

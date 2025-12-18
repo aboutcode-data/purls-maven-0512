@@ -1,0 +1,2 @@
+- pkg:maven/it.maconsultingitalia.keycloak/keycloak-resource-autoconf@0.1.0
+- pkg:maven/it.maconsultingitalia.keycloak/keycloak-resource-autoconf@0.1.0?classifier=sources

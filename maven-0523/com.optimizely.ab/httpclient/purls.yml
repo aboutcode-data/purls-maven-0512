@@ -1,0 +1,1 @@
+- pkg:maven/com.optimizely.ab/httpclient@MC-TEST-1?classifier=sources

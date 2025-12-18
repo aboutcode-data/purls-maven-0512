@@ -1,0 +1,2 @@
+- pkg:maven/de.codecentric.reedelk/module-core@2.0.0
+- pkg:maven/de.codecentric.reedelk/module-core@2.0.0?classifier=sources

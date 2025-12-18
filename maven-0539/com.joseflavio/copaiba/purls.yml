@@ -13,6 +13,7 @@
 - pkg:maven/com.joseflavio/copaiba@1.0-A15?classifier=sources
 - pkg:maven/com.joseflavio/copaiba@1.0-A16
 - pkg:maven/com.joseflavio/copaiba@1.0-A16?classifier=sources
+- pkg:maven/com.joseflavio/copaiba@1.0-A17?classifier=sources
 - pkg:maven/com.joseflavio/copaiba@1.0-A1?classifier=sources
 - pkg:maven/com.joseflavio/copaiba@1.0-A2
 - pkg:maven/com.joseflavio/copaiba@1.0-A2?classifier=sources

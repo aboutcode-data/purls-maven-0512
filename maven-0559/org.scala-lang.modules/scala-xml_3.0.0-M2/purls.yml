@@ -1,2 +1,4 @@
 - pkg:maven/org.scala-lang.modules/scala-xml_3.0.0-M2@2.0.0-M3
 - pkg:maven/org.scala-lang.modules/scala-xml_3.0.0-M2@2.0.0-M3?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-xml_3.0.0-M2@2.0.0-M4
+- pkg:maven/org.scala-lang.modules/scala-xml_3.0.0-M2@2.0.0-M4?classifier=sources

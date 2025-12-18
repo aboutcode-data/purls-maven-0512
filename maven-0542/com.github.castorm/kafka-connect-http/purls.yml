@@ -22,6 +22,7 @@
 - pkg:maven/com.github.castorm/kafka-connect-http@0.7.6?type=zip
 - pkg:maven/com.github.castorm/kafka-connect-http@0.8.0?classifier=sources
 - pkg:maven/com.github.castorm/kafka-connect-http@0.8.0?type=zip
+- pkg:maven/com.github.castorm/kafka-connect-http@0.8.10?classifier=sources
 - pkg:maven/com.github.castorm/kafka-connect-http@0.8.2?classifier=sources
 - pkg:maven/com.github.castorm/kafka-connect-http@0.8.3?classifier=sources
 - pkg:maven/com.github.castorm/kafka-connect-http@0.8.4?classifier=sources

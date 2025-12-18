@@ -6,3 +6,5 @@
 - pkg:maven/org.iherus.shiro/shiro-redis-spring-boot-web-starter@2.2.0?classifier=sources
 - pkg:maven/org.iherus.shiro/shiro-redis-spring-boot-web-starter@2.3.0
 - pkg:maven/org.iherus.shiro/shiro-redis-spring-boot-web-starter@2.3.0?classifier=sources
+- pkg:maven/org.iherus.shiro/shiro-redis-spring-boot-web-starter@2.5.0
+- pkg:maven/org.iherus.shiro/shiro-redis-spring-boot-web-starter@2.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@1.0.0?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@1.1.0?classifier=sources

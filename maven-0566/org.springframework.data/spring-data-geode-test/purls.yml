@@ -26,6 +26,8 @@
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.0.20.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.0.21.RELEASE
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.0.21.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.0.22
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.0.22?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.0.3.RELEASE
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.0.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.0.4.RELEASE

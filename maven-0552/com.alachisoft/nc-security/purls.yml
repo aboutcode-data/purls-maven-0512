@@ -1,0 +1,6 @@
+- pkg:maven/com.alachisoft/nc-security@5.2-alpha-22
+- pkg:maven/com.alachisoft/nc-security@5.2-alpha-22?classifier=sources
+- pkg:maven/com.alachisoft/nc-security@5.2-alpha-23
+- pkg:maven/com.alachisoft/nc-security@5.2-alpha-23?classifier=sources
+- pkg:maven/com.alachisoft/nc-security@5.2-alpha-24
+- pkg:maven/com.alachisoft/nc-security@5.2-alpha-24?classifier=sources

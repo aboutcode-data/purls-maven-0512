@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nkaaf/annotationprocessor@1.0
+- pkg:maven/io.github.nkaaf/annotationprocessor@1.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.wso2.km.ext.keycloak/keycloak.key.manager@2.0.3?classifier=sources
 - pkg:maven/org.wso2.km.ext.keycloak/keycloak.key.manager@2.0.4
 - pkg:maven/org.wso2.km.ext.keycloak/keycloak.key.manager@2.0.4?classifier=sources
+- pkg:maven/org.wso2.km.ext.keycloak/keycloak.key.manager@2.0.5
+- pkg:maven/org.wso2.km.ext.keycloak/keycloak.key.manager@2.0.5?classifier=sources

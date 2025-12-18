@@ -1,0 +1,2 @@
+- pkg:maven/io.github.astrapi69/net-extensions@5.1
+- pkg:maven/io.github.astrapi69/net-extensions@5.1?classifier=sources

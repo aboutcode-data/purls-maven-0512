@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-nbjunit@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-nbjunit@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-nbjunit@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-nbjunit@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-nbjunit@RELEASE90?classifier=sources

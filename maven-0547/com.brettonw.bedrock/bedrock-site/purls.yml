@@ -80,3 +80,4 @@
 - pkg:maven/com.brettonw.bedrock/bedrock-site@1.6.1?type=war
 - pkg:maven/com.brettonw.bedrock/bedrock-site@1.6.2?type=war
 - pkg:maven/com.brettonw.bedrock/bedrock-site@1.6.4?type=war
+- pkg:maven/com.brettonw.bedrock/bedrock-site@1.6.5?type=war

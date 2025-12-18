@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awscdk/s3outposts@1.93.0
+- pkg:maven/software.amazon.awscdk/s3outposts@1.93.0?classifier=sources

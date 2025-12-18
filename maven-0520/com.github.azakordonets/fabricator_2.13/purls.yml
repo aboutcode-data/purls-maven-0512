@@ -1,0 +1,2 @@
+- pkg:maven/com.github.azakordonets/fabricator_2.13@2.1.9
+- pkg:maven/com.github.azakordonets/fabricator_2.13@2.1.9?classifier=sources

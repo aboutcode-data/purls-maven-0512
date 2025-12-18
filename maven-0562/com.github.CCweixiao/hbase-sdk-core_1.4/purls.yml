@@ -14,3 +14,5 @@
 - pkg:maven/com.github.CCweixiao/hbase-sdk-core_1.4@2.0.6?classifier=sources
 - pkg:maven/com.github.CCweixiao/hbase-sdk-core_1.4@2.0.7
 - pkg:maven/com.github.CCweixiao/hbase-sdk-core_1.4@2.0.7?classifier=sources
+- pkg:maven/com.github.CCweixiao/hbase-sdk-core_1.4@2.0.8
+- pkg:maven/com.github.CCweixiao/hbase-sdk-core_1.4@2.0.8?classifier=sources

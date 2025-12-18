@@ -1,0 +1,2 @@
+- pkg:maven/cn.stylefeng.roses/validator-sdk-captcha@7.0.0
+- pkg:maven/cn.stylefeng.roses/validator-sdk-captcha@7.0.0?classifier=sources

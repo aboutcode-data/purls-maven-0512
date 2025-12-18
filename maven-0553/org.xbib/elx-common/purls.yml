@@ -15,4 +15,5 @@
 - pkg:maven/org.xbib/elx-common@6.3.2.6?classifier=sources
 - pkg:maven/org.xbib/elx-common@6.3.2.7?classifier=sources
 - pkg:maven/org.xbib/elx-common@6.3.2.8?classifier=sources
+- pkg:maven/org.xbib/elx-common@7.10.2.0?classifier=sources
 - pkg:maven/org.xbib/elx-common@7.6.1.1?classifier=sources

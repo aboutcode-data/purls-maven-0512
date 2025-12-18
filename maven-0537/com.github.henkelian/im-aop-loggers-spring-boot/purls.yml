@@ -1,0 +1,2 @@
+- pkg:maven/com.github.henkelian/im-aop-loggers-spring-boot@1.0.0
+- pkg:maven/com.github.henkelian/im-aop-loggers-spring-boot@1.0.0?classifier=sources

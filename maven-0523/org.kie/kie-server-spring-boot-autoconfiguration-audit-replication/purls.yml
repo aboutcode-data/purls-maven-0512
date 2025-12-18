@@ -14,3 +14,11 @@
 - pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-audit-replication@7.46.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-audit-replication@7.47.0.Final
 - pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-audit-replication@7.47.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-audit-replication@7.48.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-audit-replication@7.48.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-audit-replication@7.49.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-audit-replication@7.49.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-audit-replication@7.50.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-audit-replication@7.50.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-audit-replication@7.51.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-audit-replication@7.51.0.Final?classifier=sources

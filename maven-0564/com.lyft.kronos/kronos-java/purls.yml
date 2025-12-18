@@ -1,3 +1,4 @@
 - pkg:maven/com.lyft.kronos/kronos-java@0.0.1-alpha09
 - pkg:maven/com.lyft.kronos/kronos-java@0.0.1-alpha09?classifier=sources
 - pkg:maven/com.lyft.kronos/kronos-java@0.0.1-alpha10?classifier=sources
+- pkg:maven/com.lyft.kronos/kronos-java@0.0.1-alpha11?classifier=sources

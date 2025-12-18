@@ -2,3 +2,5 @@
 - pkg:maven/com.microsoft.onnxruntime/onnxruntime_gpu@1.4.0?classifier=sources
 - pkg:maven/com.microsoft.onnxruntime/onnxruntime_gpu@1.5.1?classifier=sources
 - pkg:maven/com.microsoft.onnxruntime/onnxruntime_gpu@1.5.2?classifier=sources
+- pkg:maven/com.microsoft.onnxruntime/onnxruntime_gpu@1.6.0?classifier=sources
+- pkg:maven/com.microsoft.onnxruntime/onnxruntime_gpu@1.7.0?classifier=sources

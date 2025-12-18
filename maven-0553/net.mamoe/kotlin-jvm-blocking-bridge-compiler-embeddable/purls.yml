@@ -1,0 +1,4 @@
+- pkg:maven/net.mamoe/kotlin-jvm-blocking-bridge-compiler-embeddable@1.10.3
+- pkg:maven/net.mamoe/kotlin-jvm-blocking-bridge-compiler-embeddable@1.10.3-dev-2
+- pkg:maven/net.mamoe/kotlin-jvm-blocking-bridge-compiler-embeddable@1.10.3-dev-2?classifier=sources
+- pkg:maven/net.mamoe/kotlin-jvm-blocking-bridge-compiler-embeddable@1.10.3?classifier=sources

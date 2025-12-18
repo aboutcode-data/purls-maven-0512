@@ -12,3 +12,7 @@
 - pkg:maven/se.l4.graphql.binding/graphql-binding@1.2.2?classifier=sources
 - pkg:maven/se.l4.graphql.binding/graphql-binding@2.0.0
 - pkg:maven/se.l4.graphql.binding/graphql-binding@2.0.0?classifier=sources
+- pkg:maven/se.l4.graphql.binding/graphql-binding@3.0.0
+- pkg:maven/se.l4.graphql.binding/graphql-binding@3.0.0?classifier=sources
+- pkg:maven/se.l4.graphql.binding/graphql-binding@3.0.1
+- pkg:maven/se.l4.graphql.binding/graphql-binding@3.0.1?classifier=sources

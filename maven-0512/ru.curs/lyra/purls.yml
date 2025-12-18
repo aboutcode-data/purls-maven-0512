@@ -101,6 +101,16 @@
 - pkg:maven/ru.curs/lyra@1.2.4
 - pkg:maven/ru.curs/lyra@1.2.40
 - pkg:maven/ru.curs/lyra@1.2.40?classifier=sources
+- pkg:maven/ru.curs/lyra@1.2.41
+- pkg:maven/ru.curs/lyra@1.2.41?classifier=sources
+- pkg:maven/ru.curs/lyra@1.2.45
+- pkg:maven/ru.curs/lyra@1.2.45?classifier=sources
+- pkg:maven/ru.curs/lyra@1.2.46
+- pkg:maven/ru.curs/lyra@1.2.46?classifier=sources
+- pkg:maven/ru.curs/lyra@1.2.47
+- pkg:maven/ru.curs/lyra@1.2.47?classifier=sources
+- pkg:maven/ru.curs/lyra@1.2.48
+- pkg:maven/ru.curs/lyra@1.2.48?classifier=sources
 - pkg:maven/ru.curs/lyra@1.2.4?classifier=sources
 - pkg:maven/ru.curs/lyra@1.2.5
 - pkg:maven/ru.curs/lyra@1.2.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.csp/sentinel-motan-adapter@1.8.1
+- pkg:maven/com.alibaba.csp/sentinel-motan-adapter@1.8.1?classifier=sources

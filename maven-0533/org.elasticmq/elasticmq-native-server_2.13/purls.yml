@@ -18,3 +18,5 @@
 - pkg:maven/org.elasticmq/elasticmq-native-server_2.13@0.15.8?classifier=sources
 - pkg:maven/org.elasticmq/elasticmq-native-server_2.13@1.0.0
 - pkg:maven/org.elasticmq/elasticmq-native-server_2.13@1.0.0?classifier=sources
+- pkg:maven/org.elasticmq/elasticmq-native-server_2.13@1.1.0
+- pkg:maven/org.elasticmq/elasticmq-native-server_2.13@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.plc4x/plc4x-opcua-server@0.8.0
+- pkg:maven/org.apache.plc4x/plc4x-opcua-server@0.8.0?classifier=sources

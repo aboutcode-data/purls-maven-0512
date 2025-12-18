@@ -47,3 +47,4 @@
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.54
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.55
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.56
+- pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.57

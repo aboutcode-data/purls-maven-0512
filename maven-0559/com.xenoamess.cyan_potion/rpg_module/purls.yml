@@ -14,3 +14,5 @@
 - pkg:maven/com.xenoamess.cyan_potion/rpg_module@0.166.0?classifier=sources
 - pkg:maven/com.xenoamess.cyan_potion/rpg_module@0.167.0
 - pkg:maven/com.xenoamess.cyan_potion/rpg_module@0.167.0?classifier=sources
+- pkg:maven/com.xenoamess.cyan_potion/rpg_module@0.167.1
+- pkg:maven/com.xenoamess.cyan_potion/rpg_module@0.167.1?classifier=sources

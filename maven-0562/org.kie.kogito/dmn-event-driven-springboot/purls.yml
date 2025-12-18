@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.kogito/dmn-event-driven-springboot@1.3.0.Final
+- pkg:maven/org.kie.kogito/dmn-event-driven-springboot@1.3.0.Final?classifier=sources

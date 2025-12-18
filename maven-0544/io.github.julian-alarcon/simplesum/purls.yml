@@ -1,0 +1,2 @@
+- pkg:maven/io.github.julian-alarcon/simplesum@1.0
+- pkg:maven/io.github.julian-alarcon/simplesum@1.0?classifier=sources

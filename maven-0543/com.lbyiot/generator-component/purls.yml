@@ -1,0 +1,4 @@
+- pkg:maven/com.lbyiot/generator-component@1.0.0-LB
+- pkg:maven/com.lbyiot/generator-component@1.0.0-LB?classifier=sources
+- pkg:maven/com.lbyiot/generator-component@1.0.1-LB
+- pkg:maven/com.lbyiot/generator-component@1.0.1-LB?classifier=sources

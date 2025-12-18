@@ -1,0 +1,16 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.10
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.10?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.11
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.11?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.12
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.12?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.13
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.13?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.14
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.14?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.15
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.15?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.8
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.8?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.9
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-vertx-server_2.13@0.17.9?classifier=sources

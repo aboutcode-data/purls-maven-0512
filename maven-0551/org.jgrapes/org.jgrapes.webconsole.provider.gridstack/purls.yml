@@ -1,0 +1,8 @@
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.gridstack@0.1.1
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.gridstack@0.1.1?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.gridstack@0.2.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.gridstack@0.3.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.gridstack@0.4.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.gridstack@0.5.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.gridstack@0.6.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.gridstack@0.7.0?classifier=sources

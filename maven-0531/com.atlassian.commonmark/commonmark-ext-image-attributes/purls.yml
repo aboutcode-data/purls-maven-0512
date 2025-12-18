@@ -2,3 +2,4 @@
 - pkg:maven/com.atlassian.commonmark/commonmark-ext-image-attributes@0.15.1?classifier=sources
 - pkg:maven/com.atlassian.commonmark/commonmark-ext-image-attributes@0.15.2?classifier=sources
 - pkg:maven/com.atlassian.commonmark/commonmark-ext-image-attributes@0.16.1?classifier=sources
+- pkg:maven/com.atlassian.commonmark/commonmark-ext-image-attributes@0.17.0?classifier=sources

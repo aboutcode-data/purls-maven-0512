@@ -123,3 +123,9 @@
 - pkg:maven/org.wso2.carbon/Axis2SampleService@4.6.2-m3?type=aar
 - pkg:maven/org.wso2.carbon/Axis2SampleService@4.6.2-m4?classifier=sources
 - pkg:maven/org.wso2.carbon/Axis2SampleService@4.6.2-m4?type=aar
+- pkg:maven/org.wso2.carbon/Axis2SampleService@4.6.2-m5?classifier=sources
+- pkg:maven/org.wso2.carbon/Axis2SampleService@4.6.2-m5?type=aar
+- pkg:maven/org.wso2.carbon/Axis2SampleService@4.6.2-m6?classifier=sources
+- pkg:maven/org.wso2.carbon/Axis2SampleService@4.6.2-m6?type=aar
+- pkg:maven/org.wso2.carbon/Axis2SampleService@4.6.2-m7?classifier=sources
+- pkg:maven/org.wso2.carbon/Axis2SampleService@4.6.2-m7?type=aar

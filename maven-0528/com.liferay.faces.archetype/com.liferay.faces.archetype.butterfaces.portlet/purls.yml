@@ -4,4 +4,6 @@
 - pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.butterfaces.portlet@5.0.3?classifier=sources
 - pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.butterfaces.portlet@5.0.4?classifier=sources
 - pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.butterfaces.portlet@5.0.5?classifier=sources
+- pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.butterfaces.portlet@5.1.0?classifier=sources
 - pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.butterfaces.portlet@6.0.0?classifier=sources
+- pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.butterfaces.portlet@6.1.0?classifier=sources

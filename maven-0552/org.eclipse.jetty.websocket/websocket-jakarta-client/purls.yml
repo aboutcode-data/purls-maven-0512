@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jakarta-client@11.0.0.beta3
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jakarta-client@11.0.0.beta3?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jakarta-client@11.0.0?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-jakarta-client@11.0.1
+- pkg:maven/org.eclipse.jetty.websocket/websocket-jakarta-client@11.0.1?classifier=sources

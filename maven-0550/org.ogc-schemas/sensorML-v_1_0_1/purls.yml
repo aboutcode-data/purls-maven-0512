@@ -1,0 +1,2 @@
+- pkg:maven/org.ogc-schemas/sensorML-v_1_0_1@3.0.0
+- pkg:maven/org.ogc-schemas/sensorML-v_1_0_1@3.0.0?classifier=sources

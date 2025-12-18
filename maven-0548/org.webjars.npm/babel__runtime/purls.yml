@@ -25,9 +25,17 @@
 - pkg:maven/org.webjars.npm/babel__runtime@7.11.2
 - pkg:maven/org.webjars.npm/babel__runtime@7.11.2?classifier=sources
 - pkg:maven/org.webjars.npm/babel__runtime@7.12.1
+- pkg:maven/org.webjars.npm/babel__runtime@7.12.13
+- pkg:maven/org.webjars.npm/babel__runtime@7.12.13?classifier=sources
 - pkg:maven/org.webjars.npm/babel__runtime@7.12.1?classifier=sources
 - pkg:maven/org.webjars.npm/babel__runtime@7.12.5
 - pkg:maven/org.webjars.npm/babel__runtime@7.12.5?classifier=sources
+- pkg:maven/org.webjars.npm/babel__runtime@7.13.10
+- pkg:maven/org.webjars.npm/babel__runtime@7.13.10?classifier=sources
+- pkg:maven/org.webjars.npm/babel__runtime@7.13.2
+- pkg:maven/org.webjars.npm/babel__runtime@7.13.2?classifier=sources
+- pkg:maven/org.webjars.npm/babel__runtime@7.13.9
+- pkg:maven/org.webjars.npm/babel__runtime@7.13.9?classifier=sources
 - pkg:maven/org.webjars.npm/babel__runtime@7.2.0
 - pkg:maven/org.webjars.npm/babel__runtime@7.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__runtime@7.3.1

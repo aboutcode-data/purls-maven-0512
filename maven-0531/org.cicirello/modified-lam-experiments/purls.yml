@@ -1,0 +1,2 @@
+- pkg:maven/org.cicirello/modified-lam-experiments@1.0.0
+- pkg:maven/org.cicirello/modified-lam-experiments@1.0.0?classifier=sources

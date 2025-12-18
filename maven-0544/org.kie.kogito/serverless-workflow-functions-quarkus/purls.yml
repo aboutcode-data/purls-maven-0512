@@ -4,3 +4,9 @@
 - pkg:maven/org.kie.kogito/serverless-workflow-functions-quarkus@0.17.0?classifier=sources
 - pkg:maven/org.kie.kogito/serverless-workflow-functions-quarkus@1.0.0.Final
 - pkg:maven/org.kie.kogito/serverless-workflow-functions-quarkus@1.0.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/serverless-workflow-functions-quarkus@1.1.0.Final
+- pkg:maven/org.kie.kogito/serverless-workflow-functions-quarkus@1.1.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/serverless-workflow-functions-quarkus@1.2.0.Final
+- pkg:maven/org.kie.kogito/serverless-workflow-functions-quarkus@1.2.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/serverless-workflow-functions-quarkus@1.3.0.Final
+- pkg:maven/org.kie.kogito/serverless-workflow-functions-quarkus@1.3.0.Final?classifier=sources

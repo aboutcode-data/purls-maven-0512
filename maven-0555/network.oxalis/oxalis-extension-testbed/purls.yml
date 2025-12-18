@@ -1,0 +1,2 @@
+- pkg:maven/network.oxalis/oxalis-extension-testbed@5.0.0.RC1
+- pkg:maven/network.oxalis/oxalis-extension-testbed@5.0.0.RC1?classifier=sources

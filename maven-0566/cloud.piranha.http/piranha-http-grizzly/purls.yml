@@ -24,3 +24,7 @@
 - pkg:maven/cloud.piranha.http/piranha-http-grizzly@20.8.0?classifier=sources
 - pkg:maven/cloud.piranha.http/piranha-http-grizzly@20.9.0
 - pkg:maven/cloud.piranha.http/piranha-http-grizzly@20.9.0?classifier=sources
+- pkg:maven/cloud.piranha.http/piranha-http-grizzly@21.1.0
+- pkg:maven/cloud.piranha.http/piranha-http-grizzly@21.1.0?classifier=sources
+- pkg:maven/cloud.piranha.http/piranha-http-grizzly@21.2.0
+- pkg:maven/cloud.piranha.http/piranha-http-grizzly@21.2.0?classifier=sources

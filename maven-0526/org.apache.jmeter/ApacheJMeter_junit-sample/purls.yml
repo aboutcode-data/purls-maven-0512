@@ -2,4 +2,5 @@
 - pkg:maven/org.apache.jmeter/ApacheJMeter_junit-sample@5.2.1?classifier=sources
 - pkg:maven/org.apache.jmeter/ApacheJMeter_junit-sample@5.2?classifier=sources
 - pkg:maven/org.apache.jmeter/ApacheJMeter_junit-sample@5.3?classifier=sources
+- pkg:maven/org.apache.jmeter/ApacheJMeter_junit-sample@5.4.1?classifier=sources
 - pkg:maven/org.apache.jmeter/ApacheJMeter_junit-sample@5.4?classifier=sources

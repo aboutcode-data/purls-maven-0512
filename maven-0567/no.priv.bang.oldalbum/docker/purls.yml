@@ -4,3 +4,7 @@
 - pkg:maven/no.priv.bang.oldalbum/docker@1.4.2
 - pkg:maven/no.priv.bang.oldalbum/docker@1.5.0
 - pkg:maven/no.priv.bang.oldalbum/docker@1.6.0
+- pkg:maven/no.priv.bang.oldalbum/docker@1.6.1
+- pkg:maven/no.priv.bang.oldalbum/docker@1.6.2
+- pkg:maven/no.priv.bang.oldalbum/docker@1.6.3
+- pkg:maven/no.priv.bang.oldalbum/docker@1.6.4

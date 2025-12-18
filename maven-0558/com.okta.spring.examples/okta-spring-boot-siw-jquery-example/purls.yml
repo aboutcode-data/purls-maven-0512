@@ -32,3 +32,5 @@
 - pkg:maven/com.okta.spring.examples/okta-spring-boot-siw-jquery-example@1.5.1?classifier=sources
 - pkg:maven/com.okta.spring.examples/okta-spring-boot-siw-jquery-example@2.0.0
 - pkg:maven/com.okta.spring.examples/okta-spring-boot-siw-jquery-example@2.0.0?classifier=sources
+- pkg:maven/com.okta.spring.examples/okta-spring-boot-siw-jquery-example@2.0.1
+- pkg:maven/com.okta.spring.examples/okta-spring-boot-siw-jquery-example@2.0.1?classifier=sources

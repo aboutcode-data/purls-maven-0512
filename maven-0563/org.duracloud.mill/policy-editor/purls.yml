@@ -43,3 +43,4 @@
 - pkg:maven/org.duracloud.mill/policy-editor@3.0.0
 - pkg:maven/org.duracloud.mill/policy-editor@3.1.0
 - pkg:maven/org.duracloud.mill/policy-editor@3.2.0
+- pkg:maven/org.duracloud.mill/policy-editor@4.0.0

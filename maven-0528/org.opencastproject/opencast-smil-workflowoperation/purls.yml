@@ -1,0 +1,2 @@
+- pkg:maven/org.opencastproject/opencast-smil-workflowoperation@9.2
+- pkg:maven/org.opencastproject/opencast-smil-workflowoperation@9.2?classifier=sources

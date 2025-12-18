@@ -1,0 +1,8 @@
+- pkg:maven/com.alachisoft/ncache.hibernate@5.2-alpha-16
+- pkg:maven/com.alachisoft/ncache.hibernate@5.2-alpha-16?classifier=sources
+- pkg:maven/com.alachisoft/ncache.hibernate@5.2-alpha-19
+- pkg:maven/com.alachisoft/ncache.hibernate@5.2-alpha-19?classifier=sources
+- pkg:maven/com.alachisoft/ncache.hibernate@5.2-alpha-21
+- pkg:maven/com.alachisoft/ncache.hibernate@5.2-alpha-21?classifier=sources
+- pkg:maven/com.alachisoft/ncache.hibernate@5.2-alpha-23
+- pkg:maven/com.alachisoft/ncache.hibernate@5.2-alpha-23?classifier=sources

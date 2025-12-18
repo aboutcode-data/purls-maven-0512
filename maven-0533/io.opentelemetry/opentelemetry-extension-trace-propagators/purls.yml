@@ -8,6 +8,14 @@
 - pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.13.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.13.1
 - pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.13.1?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.14.0
+- pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.14.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.14.1
+- pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.14.1?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.15.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.16.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.17.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.17.1?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.6.0
 - pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.6.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.7.0
@@ -18,3 +26,5 @@
 - pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.8.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.9.1
 - pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.9.1?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@1.0.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@1.0.1?classifier=sources

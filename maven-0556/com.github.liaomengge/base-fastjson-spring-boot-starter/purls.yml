@@ -1,0 +1,2 @@
+- pkg:maven/com.github.liaomengge/base-fastjson-spring-boot-starter@3.0.0.RELEASE
+- pkg:maven/com.github.liaomengge/base-fastjson-spring-boot-starter@3.0.0.RELEASE?classifier=sources

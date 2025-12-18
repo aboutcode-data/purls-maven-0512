@@ -1,0 +1,2 @@
+- pkg:maven/com.applovin.mediation/saygames-adapter@7.0.32.0?classifier=sources
+- pkg:maven/com.applovin.mediation/saygames-adapter@7.0.32.0?type=aar

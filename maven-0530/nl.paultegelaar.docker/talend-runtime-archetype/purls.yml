@@ -1,0 +1,2 @@
+- pkg:maven/nl.paultegelaar.docker/talend-runtime-archetype@0.0.3?classifier=sources
+- pkg:maven/nl.paultegelaar.docker/talend-runtime-archetype@0.0.5?classifier=sources

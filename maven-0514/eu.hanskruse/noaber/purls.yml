@@ -1,0 +1,16 @@
+- pkg:maven/eu.hanskruse/noaber@0.0.%24
+- pkg:maven/eu.hanskruse/noaber@0.0.%24?classifier=sources
+- pkg:maven/eu.hanskruse/noaber@0.0.10
+- pkg:maven/eu.hanskruse/noaber@0.0.10?classifier=sources
+- pkg:maven/eu.hanskruse/noaber@0.0.11
+- pkg:maven/eu.hanskruse/noaber@0.0.11?classifier=sources
+- pkg:maven/eu.hanskruse/noaber@0.0.12
+- pkg:maven/eu.hanskruse/noaber@0.0.12?classifier=sources
+- pkg:maven/eu.hanskruse/noaber@0.0.3
+- pkg:maven/eu.hanskruse/noaber@0.0.3?classifier=sources
+- pkg:maven/eu.hanskruse/noaber@0.0.5
+- pkg:maven/eu.hanskruse/noaber@0.0.5?classifier=sources
+- pkg:maven/eu.hanskruse/noaber@0.0.8
+- pkg:maven/eu.hanskruse/noaber@0.0.8?classifier=sources
+- pkg:maven/eu.hanskruse/noaber@0.0.9
+- pkg:maven/eu.hanskruse/noaber@0.0.9?classifier=sources

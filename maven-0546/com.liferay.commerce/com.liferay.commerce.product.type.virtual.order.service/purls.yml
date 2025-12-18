@@ -154,3 +154,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.order.service@3.0.7
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.order.service@3.0.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.order.service@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.order.service@3.0.9
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.order.service@3.0.9?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.order.service@3.0.9?classifier=sources-commercial

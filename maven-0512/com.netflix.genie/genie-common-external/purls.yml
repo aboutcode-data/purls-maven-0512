@@ -106,6 +106,9 @@
 - pkg:maven/com.netflix.genie/genie-common-external@4.0.0-rc.82?classifier=sources
 - pkg:maven/com.netflix.genie/genie-common-external@4.0.0-rc.83?classifier=sources
 - pkg:maven/com.netflix.genie/genie-common-external@4.0.0-rc.85?classifier=sources
+- pkg:maven/com.netflix.genie/genie-common-external@4.0.0-rc.86?classifier=sources
+- pkg:maven/com.netflix.genie/genie-common-external@4.0.0-rc.87?classifier=sources
+- pkg:maven/com.netflix.genie/genie-common-external@4.0.0-rc.88?classifier=sources
 - pkg:maven/com.netflix.genie/genie-common-external@4.0.0-rc.8?classifier=sources
 - pkg:maven/com.netflix.genie/genie-common-external@4.0.0-rc.9
 - pkg:maven/com.netflix.genie/genie-common-external@4.0.0-rc.9?classifier=sources

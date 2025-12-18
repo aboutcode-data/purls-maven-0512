@@ -26,3 +26,7 @@
 - pkg:maven/com.healthmarketscience.jackcess/jackcess-encrypt@2.1.4?classifier=sources
 - pkg:maven/com.healthmarketscience.jackcess/jackcess-encrypt@3.0.0
 - pkg:maven/com.healthmarketscience.jackcess/jackcess-encrypt@3.0.0?classifier=sources
+- pkg:maven/com.healthmarketscience.jackcess/jackcess-encrypt@4.0.0
+- pkg:maven/com.healthmarketscience.jackcess/jackcess-encrypt@4.0.0?classifier=sources
+- pkg:maven/com.healthmarketscience.jackcess/jackcess-encrypt@4.0.1
+- pkg:maven/com.healthmarketscience.jackcess/jackcess-encrypt@4.0.1?classifier=sources

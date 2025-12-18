@@ -37,4 +37,16 @@
 - pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1
 - pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1%2B1-adcb4b58
 - pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1%2B1-adcb4b58?classifier=sources
+- pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1%2B2-03598cc1
+- pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1%2B2-03598cc1?classifier=sources
+- pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1%2B4-32f99903
+- pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1%2B4-32f99903?classifier=sources
+- pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1%2B5-abcc0b94
+- pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1%2B5-abcc0b94?classifier=sources
+- pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1%2B6-2bba3960
+- pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1%2B6-2bba3960?classifier=sources
+- pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1%2B7-352f986a
+- pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1%2B7-352f986a?classifier=sources
+- pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1%2B8-f26e1795
+- pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1%2B8-f26e1795?classifier=sources
 - pkg:maven/me.shadaj/scalapy-macros_native0.4.0-M2_2.11@0.4.1?classifier=sources

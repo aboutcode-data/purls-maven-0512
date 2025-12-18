@@ -1,0 +1,2 @@
+- pkg:maven/com.infobip.jib/jib-layer-with-modification-time-extension-maven@1.0.1
+- pkg:maven/com.infobip.jib/jib-layer-with-modification-time-extension-maven@1.0.1?classifier=sources

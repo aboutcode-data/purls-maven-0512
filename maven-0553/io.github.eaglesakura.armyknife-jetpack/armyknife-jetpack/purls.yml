@@ -1,0 +1,5 @@
+- pkg:maven/io.github.eaglesakura.armyknife-jetpack/armyknife-jetpack@1.4.18-beta01?classifier=sources
+- pkg:maven/io.github.eaglesakura.armyknife-jetpack/armyknife-jetpack@1.4.18?classifier=sources
+- pkg:maven/io.github.eaglesakura.armyknife-jetpack/armyknife-jetpack@1.5.0-rc01?classifier=sources
+- pkg:maven/io.github.eaglesakura.armyknife-jetpack/armyknife-jetpack@1.5.0?classifier=sources
+- pkg:maven/io.github.eaglesakura.armyknife-jetpack/armyknife-jetpack@1.5.1?classifier=sources
