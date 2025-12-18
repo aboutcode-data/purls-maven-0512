@@ -12,3 +12,5 @@
 - pkg:maven/org.dspace/dspace-server-webapp@7.0-beta4?type=war
 - pkg:maven/org.dspace/dspace-server-webapp@7.0-beta5?classifier=sources
 - pkg:maven/org.dspace/dspace-server-webapp@7.0-beta5?type=war
+- pkg:maven/org.dspace/dspace-server-webapp@7.0?classifier=sources
+- pkg:maven/org.dspace/dspace-server-webapp@7.0?type=war

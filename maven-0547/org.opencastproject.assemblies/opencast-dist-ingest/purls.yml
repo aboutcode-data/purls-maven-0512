@@ -1,4 +1,5 @@
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-ingest@10.0?classifier=sources
+- pkg:maven/org.opencastproject.assemblies/opencast-dist-ingest@10.1?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-ingest@6.6?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-ingest@7.2?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-ingest@7.3?classifier=sources

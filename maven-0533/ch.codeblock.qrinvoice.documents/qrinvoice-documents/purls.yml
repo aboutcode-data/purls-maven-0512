@@ -1,0 +1,2 @@
+- pkg:maven/ch.codeblock.qrinvoice.documents/qrinvoice-documents@1.12
+- pkg:maven/ch.codeblock.qrinvoice.documents/qrinvoice-documents@1.12?classifier=sources

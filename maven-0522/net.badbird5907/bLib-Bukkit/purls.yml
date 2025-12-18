@@ -1,0 +1,4 @@
+- pkg:maven/net.badbird5907/bLib-Bukkit@1.0.0-REL
+- pkg:maven/net.badbird5907/bLib-Bukkit@1.0.0-REL?classifier=sources
+- pkg:maven/net.badbird5907/bLib-Bukkit@1.0.1-REL
+- pkg:maven/net.badbird5907/bLib-Bukkit@1.0.1-REL?classifier=sources

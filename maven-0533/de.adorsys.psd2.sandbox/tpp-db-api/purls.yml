@@ -24,6 +24,10 @@
 - pkg:maven/de.adorsys.psd2.sandbox/tpp-db-api@5.11?classifier=sources
 - pkg:maven/de.adorsys.psd2.sandbox/tpp-db-api@5.12
 - pkg:maven/de.adorsys.psd2.sandbox/tpp-db-api@5.12?classifier=sources
+- pkg:maven/de.adorsys.psd2.sandbox/tpp-db-api@5.13
+- pkg:maven/de.adorsys.psd2.sandbox/tpp-db-api@5.13?classifier=sources
+- pkg:maven/de.adorsys.psd2.sandbox/tpp-db-api@5.14
+- pkg:maven/de.adorsys.psd2.sandbox/tpp-db-api@5.14?classifier=sources
 - pkg:maven/de.adorsys.psd2.sandbox/tpp-db-api@5.2
 - pkg:maven/de.adorsys.psd2.sandbox/tpp-db-api@5.2?classifier=sources
 - pkg:maven/de.adorsys.psd2.sandbox/tpp-db-api@5.4

@@ -18,3 +18,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-dbfs@1.8.8-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dbfs@1.8.9-beta
 - pkg:maven/com.aliyun/aliyun-java-sdk-dbfs@1.8.9-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dbfs@1.9.0-beta
+- pkg:maven/com.aliyun/aliyun-java-sdk-dbfs@1.9.0-beta?classifier=sources

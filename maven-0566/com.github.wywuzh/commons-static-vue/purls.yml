@@ -1,5 +1,7 @@
 - pkg:maven/com.github.wywuzh/commons-static-vue@2.3.10.RELEASE
 - pkg:maven/com.github.wywuzh/commons-static-vue@2.3.10.RELEASE?classifier=sources
+- pkg:maven/com.github.wywuzh/commons-static-vue@2.3.11.RELEASE
+- pkg:maven/com.github.wywuzh/commons-static-vue@2.3.11.RELEASE?classifier=sources
 - pkg:maven/com.github.wywuzh/commons-static-vue@2.3.8.RELEASE
 - pkg:maven/com.github.wywuzh/commons-static-vue@2.3.8.RELEASE?classifier=sources
 - pkg:maven/com.github.wywuzh/commons-static-vue@2.3.9.RELEASE
@@ -10,3 +12,13 @@
 - pkg:maven/com.github.wywuzh/commons-static-vue@2.4.3.RELEASE?classifier=sources
 - pkg:maven/com.github.wywuzh/commons-static-vue@2.4.4.RELEASE
 - pkg:maven/com.github.wywuzh/commons-static-vue@2.4.4.RELEASE?classifier=sources
+- pkg:maven/com.github.wywuzh/commons-static-vue@2.4.5.RELEASE
+- pkg:maven/com.github.wywuzh/commons-static-vue@2.4.5.RELEASE?classifier=sources
+- pkg:maven/com.github.wywuzh/commons-static-vue@2.4.6.RELEASE
+- pkg:maven/com.github.wywuzh/commons-static-vue@2.4.6.RELEASE?classifier=sources
+- pkg:maven/com.github.wywuzh/commons-static-vue@2.4.7.RELEASE
+- pkg:maven/com.github.wywuzh/commons-static-vue@2.4.7.RELEASE?classifier=sources
+- pkg:maven/com.github.wywuzh/commons-static-vue@2.5.0.RELEASE
+- pkg:maven/com.github.wywuzh/commons-static-vue@2.5.0.RELEASE?classifier=sources
+- pkg:maven/com.github.wywuzh/commons-static-vue@2.5.1.RELEASE
+- pkg:maven/com.github.wywuzh/commons-static-vue@2.5.1.RELEASE?classifier=sources

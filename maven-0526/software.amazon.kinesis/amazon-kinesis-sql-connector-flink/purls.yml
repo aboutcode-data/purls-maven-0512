@@ -1,2 +1,6 @@
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-sql-connector-flink@2.0.3
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-sql-connector-flink@2.0.3?classifier=sources
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-sql-connector-flink@2.1.0
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-sql-connector-flink@2.1.0?classifier=sources
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-sql-connector-flink@2.2.0
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-sql-connector-flink@2.2.0?classifier=sources

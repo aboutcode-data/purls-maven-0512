@@ -10,3 +10,5 @@
 - pkg:maven/org.spectrumauctions/sats@0.6.4?classifier=sources
 - pkg:maven/org.spectrumauctions/sats@0.7.0
 - pkg:maven/org.spectrumauctions/sats@0.7.0?classifier=sources
+- pkg:maven/org.spectrumauctions/sats@0.7.1
+- pkg:maven/org.spectrumauctions/sats@0.7.1?classifier=sources

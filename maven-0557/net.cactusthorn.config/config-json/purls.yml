@@ -1,2 +1,6 @@
 - pkg:maven/net.cactusthorn.config/config-json@0.40
 - pkg:maven/net.cactusthorn.config/config-json@0.40?classifier=sources
+- pkg:maven/net.cactusthorn.config/config-json@0.50
+- pkg:maven/net.cactusthorn.config/config-json@0.50?classifier=sources
+- pkg:maven/net.cactusthorn.config/config-json@0.60
+- pkg:maven/net.cactusthorn.config/config-json@0.60?classifier=sources

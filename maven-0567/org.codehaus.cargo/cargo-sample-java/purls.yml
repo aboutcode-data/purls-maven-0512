@@ -191,3 +191,7 @@
 - pkg:maven/org.codehaus.cargo/cargo-sample-java@1.9.3?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-sample-java@1.9.4
 - pkg:maven/org.codehaus.cargo/cargo-sample-java@1.9.4?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-sample-java@1.9.5
+- pkg:maven/org.codehaus.cargo/cargo-sample-java@1.9.5?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-sample-java@1.9.6
+- pkg:maven/org.codehaus.cargo/cargo-sample-java@1.9.6?classifier=sources

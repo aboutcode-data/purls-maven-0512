@@ -12,6 +12,7 @@
 - pkg:maven/org.webjars.npm/fomantic-ui@2.8.4?classifier=sources
 - pkg:maven/org.webjars.npm/fomantic-ui@2.8.7
 - pkg:maven/org.webjars.npm/fomantic-ui@2.8.7?classifier=sources
+- pkg:maven/org.webjars.npm/fomantic-ui@2.8.8
 - pkg:maven/org.webjars.npm/fomantic-ui@2.8.8-beta.201
 - pkg:maven/org.webjars.npm/fomantic-ui@2.8.8-beta.201?classifier=sources
 - pkg:maven/org.webjars.npm/fomantic-ui@2.8.8-beta.212
@@ -20,3 +21,4 @@
 - pkg:maven/org.webjars.npm/fomantic-ui@2.8.8-beta.62?classifier=sources
 - pkg:maven/org.webjars.npm/fomantic-ui@2.8.8-beta.63
 - pkg:maven/org.webjars.npm/fomantic-ui@2.8.8-beta.63?classifier=sources
+- pkg:maven/org.webjars.npm/fomantic-ui@2.8.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cd.connect.openapi.gensupport/openapi-jersey3-support@2.1
+- pkg:maven/cd.connect.openapi.gensupport/openapi-jersey3-support@2.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/sso-admin@810.2.801.0?classifier=sources
 - pkg:maven/com.cognitect.aws/sso-admin@811.2.858.0
 - pkg:maven/com.cognitect.aws/sso-admin@811.2.858.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sso-admin@811.2.958.0
+- pkg:maven/com.cognitect.aws/sso-admin@811.2.958.0?classifier=sources

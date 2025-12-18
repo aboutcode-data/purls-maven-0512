@@ -38,3 +38,5 @@
 - pkg:maven/org.webjars.npm/js-yaml@3.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/js-yaml@3.9.1
 - pkg:maven/org.webjars.npm/js-yaml@3.9.1?classifier=sources
+- pkg:maven/org.webjars.npm/js-yaml@4.1.0
+- pkg:maven/org.webjars.npm/js-yaml@4.1.0?classifier=sources

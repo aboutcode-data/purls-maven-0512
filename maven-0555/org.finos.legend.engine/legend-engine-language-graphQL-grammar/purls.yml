@@ -1,0 +1,6 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-language-graphQL-grammar@2.37.0
+- pkg:maven/org.finos.legend.engine/legend-engine-language-graphQL-grammar@2.37.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-language-graphQL-grammar@2.38.0
+- pkg:maven/org.finos.legend.engine/legend-engine-language-graphQL-grammar@2.38.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-language-graphQL-grammar@2.39.0
+- pkg:maven/org.finos.legend.engine/legend-engine-language-graphQL-grammar@2.39.0?classifier=sources

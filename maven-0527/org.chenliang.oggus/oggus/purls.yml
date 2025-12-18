@@ -1,3 +1,4 @@
 - pkg:maven/org.chenliang.oggus/oggus@0.2.0?classifier=sources
 - pkg:maven/org.chenliang.oggus/oggus@1.0.0?classifier=sources
 - pkg:maven/org.chenliang.oggus/oggus@1.1.0?classifier=sources
+- pkg:maven/org.chenliang.oggus/oggus@1.2.0?classifier=sources

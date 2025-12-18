@@ -20,3 +20,7 @@
 - pkg:maven/org.apache.skywalking/apm-kafka-plugin@8.4.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-kafka-plugin@8.5.0
 - pkg:maven/org.apache.skywalking/apm-kafka-plugin@8.5.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-kafka-plugin@8.6.0
+- pkg:maven/org.apache.skywalking/apm-kafka-plugin@8.6.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-kafka-plugin@8.7.0
+- pkg:maven/org.apache.skywalking/apm-kafka-plugin@8.7.0?classifier=sources

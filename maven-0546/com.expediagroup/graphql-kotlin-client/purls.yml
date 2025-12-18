@@ -47,3 +47,5 @@
 - pkg:maven/com.expediagroup/graphql-kotlin-client@4.0.1?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-client@4.1.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-client@4.1.1?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-client@5.0.0-alpha.0?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-client@5.0.0-alpha.3?classifier=sources

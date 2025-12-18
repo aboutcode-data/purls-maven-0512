@@ -1,0 +1,4 @@
+- pkg:maven/ca.wheatstalk/openapi-diff-maven-plugin@0.1.0
+- pkg:maven/ca.wheatstalk/openapi-diff-maven-plugin@0.1.0?classifier=sources
+- pkg:maven/ca.wheatstalk/openapi-diff-maven-plugin@0.1.6
+- pkg:maven/ca.wheatstalk/openapi-diff-maven-plugin@0.1.6?classifier=sources

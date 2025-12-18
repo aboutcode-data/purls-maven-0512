@@ -14,3 +14,5 @@
 - pkg:maven/org.dominokit/domino-mvp-apt-client@1.0.0-RC7?classifier=sources
 - pkg:maven/org.dominokit/domino-mvp-apt-client@1.0.0-RC8
 - pkg:maven/org.dominokit/domino-mvp-apt-client@1.0.0-RC8?classifier=sources
+- pkg:maven/org.dominokit/domino-mvp-apt-client@1.0.0-RC9
+- pkg:maven/org.dominokit/domino-mvp-apt-client@1.0.0-RC9?classifier=sources

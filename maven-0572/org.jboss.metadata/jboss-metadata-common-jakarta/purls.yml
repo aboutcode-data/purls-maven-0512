@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.metadata/jboss-metadata-common-jakarta@14.0.0.Beta2
+- pkg:maven/org.jboss.metadata/jboss-metadata-common-jakarta@14.0.0.Beta2?classifier=sources

@@ -68,6 +68,9 @@
 - pkg:maven/org.bitbucket.swattu/rabbitmq@4.0.51
 - pkg:maven/org.bitbucket.swattu/rabbitmq@4.0.52
 - pkg:maven/org.bitbucket.swattu/rabbitmq@4.0.53
+- pkg:maven/org.bitbucket.swattu/rabbitmq@4.0.54
+- pkg:maven/org.bitbucket.swattu/rabbitmq@4.0.55
+- pkg:maven/org.bitbucket.swattu/rabbitmq@4.0.56
 - pkg:maven/org.bitbucket.swattu/rabbitmq@4.0.6
 - pkg:maven/org.bitbucket.swattu/rabbitmq@4.0.7
 - pkg:maven/org.bitbucket.swattu/rabbitmq@4.0.8

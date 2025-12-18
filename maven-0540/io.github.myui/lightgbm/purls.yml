@@ -1,2 +1,4 @@
 - pkg:maven/io.github.myui/lightgbm@2.3.1-rc1
 - pkg:maven/io.github.myui/lightgbm@2.3.1-rc1?classifier=sources
+- pkg:maven/io.github.myui/lightgbm@3.2.1-rc2
+- pkg:maven/io.github.myui/lightgbm@3.2.1-rc2?classifier=sources

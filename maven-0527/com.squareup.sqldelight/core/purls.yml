@@ -56,3 +56,4 @@
 - pkg:maven/com.squareup.sqldelight/core@1.4.3?classifier=sources
 - pkg:maven/com.squareup.sqldelight/core@1.4.4?classifier=sources
 - pkg:maven/com.squareup.sqldelight/core@1.5.0?classifier=sources
+- pkg:maven/com.squareup.sqldelight/core@1.5.1?classifier=sources

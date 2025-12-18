@@ -1,5 +1,9 @@
 - pkg:maven/org.apache.camel/camel-jfr@3.10.0
 - pkg:maven/org.apache.camel/camel-jfr@3.10.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-jfr@3.11.0
+- pkg:maven/org.apache.camel/camel-jfr@3.11.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-jfr@3.11.1
+- pkg:maven/org.apache.camel/camel-jfr@3.11.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-jfr@3.8.0
 - pkg:maven/org.apache.camel/camel-jfr@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jfr@3.9.0

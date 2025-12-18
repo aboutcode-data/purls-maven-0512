@@ -1,0 +1,4 @@
+- pkg:maven/co.topl/crypto_2.13@1.6.7
+- pkg:maven/co.topl/crypto_2.13@1.6.7?classifier=sources
+- pkg:maven/co.topl/crypto_2.13@1.7.0
+- pkg:maven/co.topl/crypto_2.13@1.7.0?classifier=sources

@@ -84,6 +84,10 @@
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-events@0.9.14
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-events@0.9.140
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-events@0.9.140?classifier=sources
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-events@0.9.141
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-events@0.9.141?classifier=sources
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-events@0.9.142
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-events@0.9.142?classifier=sources
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-events@0.9.14?classifier=sources
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-events@0.9.15
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-events@0.9.15?classifier=sources

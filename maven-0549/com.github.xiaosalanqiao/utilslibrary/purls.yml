@@ -2,3 +2,7 @@
 - pkg:maven/com.github.xiaosalanqiao/utilslibrary@1.03?type=aar
 - pkg:maven/com.github.xiaosalanqiao/utilslibrary@1.04?classifier=sources
 - pkg:maven/com.github.xiaosalanqiao/utilslibrary@1.04?type=aar
+- pkg:maven/com.github.xiaosalanqiao/utilslibrary@1.05?classifier=sources
+- pkg:maven/com.github.xiaosalanqiao/utilslibrary@1.05?type=aar
+- pkg:maven/com.github.xiaosalanqiao/utilslibrary@1.06?classifier=sources
+- pkg:maven/com.github.xiaosalanqiao/utilslibrary@1.06?type=aar

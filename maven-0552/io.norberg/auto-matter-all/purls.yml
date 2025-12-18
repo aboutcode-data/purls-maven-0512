@@ -14,6 +14,8 @@
 - pkg:maven/io.norberg/auto-matter-all@0.15.3
 - pkg:maven/io.norberg/auto-matter-all@0.15.4
 - pkg:maven/io.norberg/auto-matter-all@0.16.0
+- pkg:maven/io.norberg/auto-matter-all@0.17.0
+- pkg:maven/io.norberg/auto-matter-all@0.18.0
 - pkg:maven/io.norberg/auto-matter-all@0.2
 - pkg:maven/io.norberg/auto-matter-all@0.3
 - pkg:maven/io.norberg/auto-matter-all@0.4

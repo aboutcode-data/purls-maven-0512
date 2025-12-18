@@ -1,0 +1,4 @@
+- pkg:maven/io.github.vfhhu/privateadlocus@1.5?classifier=sources
+- pkg:maven/io.github.vfhhu/privateadlocus@1.5?type=aar
+- pkg:maven/io.github.vfhhu/privateadlocus@1.6?classifier=sources
+- pkg:maven/io.github.vfhhu/privateadlocus@1.6?type=aar

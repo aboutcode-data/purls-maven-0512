@@ -138,3 +138,5 @@
 - pkg:maven/com.artipie/http@0.9.7
 - pkg:maven/com.artipie/http@0.9.7?classifier=sources
 - pkg:maven/com.artipie/http@0.9?classifier=sources
+- pkg:maven/com.artipie/http@v0.19
+- pkg:maven/com.artipie/http@v0.19?classifier=sources

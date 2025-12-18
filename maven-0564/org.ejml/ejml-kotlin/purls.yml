@@ -2,3 +2,4 @@
 - pkg:maven/org.ejml/ejml-kotlin@0.39?classifier=sources
 - pkg:maven/org.ejml/ejml-kotlin@0.40
 - pkg:maven/org.ejml/ejml-kotlin@0.40?classifier=sources
+- pkg:maven/org.ejml/ejml-kotlin@0.41?classifier=sources

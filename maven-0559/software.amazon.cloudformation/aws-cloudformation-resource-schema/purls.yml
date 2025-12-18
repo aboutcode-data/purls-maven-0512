@@ -8,3 +8,5 @@
 - pkg:maven/software.amazon.cloudformation/aws-cloudformation-resource-schema@2.0.3?classifier=sources
 - pkg:maven/software.amazon.cloudformation/aws-cloudformation-resource-schema@2.0.4
 - pkg:maven/software.amazon.cloudformation/aws-cloudformation-resource-schema@2.0.4?classifier=sources
+- pkg:maven/software.amazon.cloudformation/aws-cloudformation-resource-schema@2.0.5
+- pkg:maven/software.amazon.cloudformation/aws-cloudformation-resource-schema@2.0.5?classifier=sources

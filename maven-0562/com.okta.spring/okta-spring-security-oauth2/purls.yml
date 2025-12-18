@@ -32,3 +32,5 @@
 - pkg:maven/com.okta.spring/okta-spring-security-oauth2@2.0.0?classifier=sources
 - pkg:maven/com.okta.spring/okta-spring-security-oauth2@2.0.1
 - pkg:maven/com.okta.spring/okta-spring-security-oauth2@2.0.1?classifier=sources
+- pkg:maven/com.okta.spring/okta-spring-security-oauth2@2.1.0
+- pkg:maven/com.okta.spring/okta-spring-security-oauth2@2.1.0?classifier=sources

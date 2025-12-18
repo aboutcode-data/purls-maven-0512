@@ -8,3 +8,5 @@
 - pkg:maven/fr.arakne/arakne-encoding@0.4-alpha?classifier=sources
 - pkg:maven/fr.arakne/arakne-encoding@0.5-alpha
 - pkg:maven/fr.arakne/arakne-encoding@0.5-alpha?classifier=sources
+- pkg:maven/fr.arakne/arakne-encoding@0.6-alpha
+- pkg:maven/fr.arakne/arakne-encoding@0.6-alpha?classifier=sources

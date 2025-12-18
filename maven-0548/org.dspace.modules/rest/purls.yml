@@ -39,3 +39,4 @@
 - pkg:maven/org.dspace.modules/rest@7.0-beta3?type=war
 - pkg:maven/org.dspace.modules/rest@7.0-beta5?type=war
 - pkg:maven/org.dspace.modules/rest@7.0-preview-1?type=war
+- pkg:maven/org.dspace.modules/rest@7.0?type=war

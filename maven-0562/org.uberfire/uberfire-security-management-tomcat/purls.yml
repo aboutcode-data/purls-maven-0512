@@ -180,3 +180,9 @@
 - pkg:maven/org.uberfire/uberfire-security-management-tomcat@7.54.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-security-management-tomcat@7.55.0.Final
 - pkg:maven/org.uberfire/uberfire-security-management-tomcat@7.55.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-management-tomcat@7.56.0.Final
+- pkg:maven/org.uberfire/uberfire-security-management-tomcat@7.56.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-management-tomcat@7.57.0.Final
+- pkg:maven/org.uberfire/uberfire-security-management-tomcat@7.57.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-management-tomcat@7.58.0.Final
+- pkg:maven/org.uberfire/uberfire-security-management-tomcat@7.58.0.Final?classifier=sources

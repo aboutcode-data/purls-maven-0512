@@ -1,0 +1,2 @@
+- pkg:maven/io.ep2p/row-client-starter@1.3.1-RELEASE
+- pkg:maven/io.ep2p/row-client-starter@1.3.1-RELEASE?classifier=sources

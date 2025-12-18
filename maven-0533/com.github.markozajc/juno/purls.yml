@@ -5,4 +5,10 @@
 - pkg:maven/com.github.markozajc/juno@1.0
 - pkg:maven/com.github.markozajc/juno@1.0?classifier=sources
 - pkg:maven/com.github.markozajc/juno@2.0
+- pkg:maven/com.github.markozajc/juno@2.0-1
+- pkg:maven/com.github.markozajc/juno@2.0-1?classifier=sources
+- pkg:maven/com.github.markozajc/juno@2.0.1
+- pkg:maven/com.github.markozajc/juno@2.0.1?classifier=sources
 - pkg:maven/com.github.markozajc/juno@2.0?classifier=sources
+- pkg:maven/com.github.markozajc/juno@2.1
+- pkg:maven/com.github.markozajc/juno@2.1?classifier=sources

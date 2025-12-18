@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/chenfengyuan__vue-qrcode@1.0.2
+- pkg:maven/org.webjars.npm/chenfengyuan__vue-qrcode@1.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/chenfengyuan__vue-qrcode@2.0.0-rc
+- pkg:maven/org.webjars.npm/chenfengyuan__vue-qrcode@2.0.0-rc?classifier=sources

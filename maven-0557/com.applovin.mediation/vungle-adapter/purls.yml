@@ -1,2 +1,4 @@
+- pkg:maven/com.applovin.mediation/vungle-adapter@6.10.1.0?classifier=sources
+- pkg:maven/com.applovin.mediation/vungle-adapter@6.10.1.0?type=aar
 - pkg:maven/com.applovin.mediation/vungle-adapter@6.9.1.0?classifier=sources
 - pkg:maven/com.applovin.mediation/vungle-adapter@6.9.1.0?type=aar

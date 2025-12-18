@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/multiselect-two-sides@2.5.7
+- pkg:maven/org.webjars.npm/multiselect-two-sides@2.5.7?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/io.chrisdavenport/rediculous_2.13@0.0.7?classifier=sources
 - pkg:maven/io.chrisdavenport/rediculous_2.13@0.0.8
 - pkg:maven/io.chrisdavenport/rediculous_2.13@0.0.8?classifier=sources
+- pkg:maven/io.chrisdavenport/rediculous_2.13@0.1.0-M1
+- pkg:maven/io.chrisdavenport/rediculous_2.13@0.1.0-M1?classifier=sources

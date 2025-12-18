@@ -14,6 +14,12 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-blazemeter@0.15?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-blazemeter@0.16
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-blazemeter@0.16?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-blazemeter@0.17
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-blazemeter@0.17?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-blazemeter@0.18
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-blazemeter@0.18?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-blazemeter@0.19
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-blazemeter@0.19?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-blazemeter@0.2
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-blazemeter@0.2?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-blazemeter@0.3

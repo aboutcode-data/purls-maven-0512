@@ -1,0 +1,2 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-protocol-external-format-flatdata@2.39.0
+- pkg:maven/org.finos.legend.engine/legend-engine-protocol-external-format-flatdata@2.39.0?classifier=sources

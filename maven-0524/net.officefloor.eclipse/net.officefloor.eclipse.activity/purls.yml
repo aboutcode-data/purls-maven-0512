@@ -22,3 +22,7 @@
 - pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.activity@3.34.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.activity@3.35.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.activity@3.36.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.activity@3.37.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.activity@3.38.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.activity@3.39.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.activity@3.40.0?classifier=sources

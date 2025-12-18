@@ -50,6 +50,9 @@
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@2.0.25
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@2.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@2.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@2.0.26
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@2.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@2.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@2.0.3
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@2.0.3?classifier=sources
@@ -87,6 +90,9 @@
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@3.0.13
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@3.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@3.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@3.0.14
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@3.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@3.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@3.0.2
@@ -177,6 +183,9 @@
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@5.0.14
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@5.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@5.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@5.0.15
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@5.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@5.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@5.0.2
@@ -218,3 +227,12 @@
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@6.0.4
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@6.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.hello.velocity.web@6.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@6.0.5
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@6.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@6.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@6.0.6
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@6.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@6.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@6.0.7
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@6.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.hello.velocity.web@6.0.7?classifier=sources-commercial

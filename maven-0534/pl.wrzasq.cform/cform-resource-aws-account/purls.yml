@@ -1,0 +1,2 @@
+- pkg:maven/pl.wrzasq.cform/cform-resource-aws-account@1.0.4
+- pkg:maven/pl.wrzasq.cform/cform-resource-aws-account@1.0.4?classifier=sources

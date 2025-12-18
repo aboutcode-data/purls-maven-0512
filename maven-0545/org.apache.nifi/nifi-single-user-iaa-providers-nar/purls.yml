@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.nifi/nifi-single-user-iaa-providers-nar@1.14.0?classifier=sources

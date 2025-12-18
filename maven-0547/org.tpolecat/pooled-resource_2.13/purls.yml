@@ -1,0 +1,2 @@
+- pkg:maven/org.tpolecat/pooled-resource_2.13@0.0.2
+- pkg:maven/org.tpolecat/pooled-resource_2.13@0.0.2?classifier=sources

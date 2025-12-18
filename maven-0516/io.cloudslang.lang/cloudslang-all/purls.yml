@@ -392,3 +392,11 @@
 - pkg:maven/io.cloudslang.lang/cloudslang-all@1.0.98
 - pkg:maven/io.cloudslang.lang/cloudslang-all@1.0.98?classifier=sources
 - pkg:maven/io.cloudslang.lang/cloudslang-all@1.0.9?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-all@2.0.0
+- pkg:maven/io.cloudslang.lang/cloudslang-all@2.0.0?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-all@2.0.2
+- pkg:maven/io.cloudslang.lang/cloudslang-all@2.0.2?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-all@2.0.4
+- pkg:maven/io.cloudslang.lang/cloudslang-all@2.0.4?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-all@2.0.5
+- pkg:maven/io.cloudslang.lang/cloudslang-all@2.0.5?classifier=sources

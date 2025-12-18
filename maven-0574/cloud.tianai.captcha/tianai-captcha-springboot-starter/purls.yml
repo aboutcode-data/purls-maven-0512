@@ -10,3 +10,5 @@
 - pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.0?classifier=sources
 - pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.1
 - pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.1?classifier=sources
+- pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.2
+- pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.2?classifier=sources

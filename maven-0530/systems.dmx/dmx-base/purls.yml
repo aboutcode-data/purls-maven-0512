@@ -1,0 +1,2 @@
+- pkg:maven/systems.dmx/dmx-base@5.2
+- pkg:maven/systems.dmx/dmx-base@5.2?classifier=sources

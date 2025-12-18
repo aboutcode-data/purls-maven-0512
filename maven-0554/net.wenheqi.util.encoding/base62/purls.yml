@@ -1,0 +1,2 @@
+- pkg:maven/net.wenheqi.util.encoding/base62@1.0.0
+- pkg:maven/net.wenheqi.util.encoding/base62@1.0.0?classifier=sources

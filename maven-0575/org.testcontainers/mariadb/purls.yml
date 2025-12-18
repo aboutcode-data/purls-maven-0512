@@ -66,6 +66,7 @@
 - pkg:maven/org.testcontainers/mariadb@1.15.2?classifier=sources
 - pkg:maven/org.testcontainers/mariadb@1.15.3
 - pkg:maven/org.testcontainers/mariadb@1.15.3?classifier=sources
+- pkg:maven/org.testcontainers/mariadb@1.16.0?classifier=sources
 - pkg:maven/org.testcontainers/mariadb@1.2.0
 - pkg:maven/org.testcontainers/mariadb@1.2.0?classifier=sources
 - pkg:maven/org.testcontainers/mariadb@1.2.1

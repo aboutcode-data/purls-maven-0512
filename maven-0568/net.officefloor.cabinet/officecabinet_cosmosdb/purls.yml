@@ -1,0 +1,4 @@
+- pkg:maven/net.officefloor.cabinet/officecabinet_cosmosdb@3.39.0
+- pkg:maven/net.officefloor.cabinet/officecabinet_cosmosdb@3.39.0?classifier=sources
+- pkg:maven/net.officefloor.cabinet/officecabinet_cosmosdb@3.40.0
+- pkg:maven/net.officefloor.cabinet/officecabinet_cosmosdb@3.40.0?classifier=sources

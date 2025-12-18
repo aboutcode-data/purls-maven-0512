@@ -1,0 +1,2 @@
+- pkg:maven/cn.bingerz.android/countrycodepicker@0.8.1-beta01?classifier=sources
+- pkg:maven/cn.bingerz.android/countrycodepicker@0.8.1?classifier=sources

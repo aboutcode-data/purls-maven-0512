@@ -34,3 +34,6 @@
 - pkg:maven/org.kie/sample-hacep-project-kjar@7.53.0.Final?classifier=sources
 - pkg:maven/org.kie/sample-hacep-project-kjar@7.54.0.Final?classifier=sources
 - pkg:maven/org.kie/sample-hacep-project-kjar@7.55.0.Final?classifier=sources
+- pkg:maven/org.kie/sample-hacep-project-kjar@7.56.0.Final?classifier=sources
+- pkg:maven/org.kie/sample-hacep-project-kjar@7.57.0.Final?classifier=sources
+- pkg:maven/org.kie/sample-hacep-project-kjar@7.58.0.Final?classifier=sources

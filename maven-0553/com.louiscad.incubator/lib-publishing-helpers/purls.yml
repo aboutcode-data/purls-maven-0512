@@ -1,1 +1,6 @@
 - pkg:maven/com.louiscad.incubator/lib-publishing-helpers@0.1.4?classifier=sources
+- pkg:maven/com.louiscad.incubator/lib-publishing-helpers@0.1.5?classifier=sources
+- pkg:maven/com.louiscad.incubator/lib-publishing-helpers@0.2.0?classifier=sources
+- pkg:maven/com.louiscad.incubator/lib-publishing-helpers@0.2.1?classifier=sources
+- pkg:maven/com.louiscad.incubator/lib-publishing-helpers@0.2.2?classifier=sources
+- pkg:maven/com.louiscad.incubator/lib-publishing-helpers@0.2.3?classifier=sources

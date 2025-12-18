@@ -60,3 +60,5 @@
 - pkg:maven/org.hdiv/hdiv-core@3.5.0.RC3
 - pkg:maven/org.hdiv/hdiv-core@3.5.0.RC3?classifier=sources
 - pkg:maven/org.hdiv/hdiv-core@3.5.0?classifier=sources
+- pkg:maven/org.hdiv/hdiv-core@3.5.1
+- pkg:maven/org.hdiv/hdiv-core@3.5.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.scalawilliam/xs4s-fs2v3_3@0.9.1
+- pkg:maven/com.scalawilliam/xs4s-fs2v3_3@0.9.1?classifier=sources

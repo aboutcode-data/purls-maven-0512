@@ -16,3 +16,9 @@
 - pkg:maven/org.realityforge.vecmath/vecmath@0.08?classifier=sources
 - pkg:maven/org.realityforge.vecmath/vecmath@0.09
 - pkg:maven/org.realityforge.vecmath/vecmath@0.09?classifier=sources
+- pkg:maven/org.realityforge.vecmath/vecmath@0.10
+- pkg:maven/org.realityforge.vecmath/vecmath@0.10?classifier=sources
+- pkg:maven/org.realityforge.vecmath/vecmath@0.11
+- pkg:maven/org.realityforge.vecmath/vecmath@0.11?classifier=sources
+- pkg:maven/org.realityforge.vecmath/vecmath@0.12
+- pkg:maven/org.realityforge.vecmath/vecmath@0.12?classifier=sources

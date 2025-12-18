@@ -16,3 +16,9 @@
 - pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@1.8?classifier=sources
 - pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@1.9
 - pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@1.9?classifier=sources
+- pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@2.0.0
+- pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@2.0.0?classifier=sources
+- pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@2.1.0
+- pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@2.1.0?classifier=sources
+- pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@2.1.1
+- pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@2.1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.redhat.consulting/openapi-vertx-archetype@1.0.10?classifier=sources
+- pkg:maven/com.redhat.consulting/openapi-vertx-archetype@1.0.11?classifier=sources
+- pkg:maven/com.redhat.consulting/openapi-vertx-archetype@1.0.8?classifier=sources
+- pkg:maven/com.redhat.consulting/openapi-vertx-archetype@1.0.9?classifier=sources

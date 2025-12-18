@@ -1,0 +1,8 @@
+- pkg:maven/com.testvagrant.ekam/ekam-config@0.0.1-beta?classifier=sources
+- pkg:maven/com.testvagrant.ekam/ekam-config@0.0.2-beta?classifier=sources
+- pkg:maven/com.testvagrant.ekam/ekam-config@0.0.3-beta?classifier=sources
+- pkg:maven/com.testvagrant.ekam/ekam-config@0.0.4-beta?classifier=sources
+- pkg:maven/com.testvagrant.ekam/ekam-config@0.0.5-beta?classifier=sources
+- pkg:maven/com.testvagrant.ekam/ekam-config@1.0.0?classifier=sources
+- pkg:maven/com.testvagrant.ekam/ekam-config@1.0.1?classifier=sources
+- pkg:maven/com.testvagrant.ekam/ekam-config@1.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zg2pro/unpack-core-plugin@0.0.1
+- pkg:maven/com.github.zg2pro/unpack-core-plugin@0.0.1?classifier=sources

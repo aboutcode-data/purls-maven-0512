@@ -40,3 +40,7 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@1.2.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@1.2.1
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@1.2.1?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@1.2.2
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@1.2.2?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.0.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.danklco/com.danklco.slingcms.plugins.disqus@1.0?classifier=sources
 - pkg:maven/com.danklco/com.danklco.slingcms.plugins.disqus@1.1
 - pkg:maven/com.danklco/com.danklco.slingcms.plugins.disqus@1.1?classifier=sources
+- pkg:maven/com.danklco/com.danklco.slingcms.plugins.disqus@1.2
+- pkg:maven/com.danklco/com.danklco.slingcms.plugins.disqus@1.2?classifier=sources

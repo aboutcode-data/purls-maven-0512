@@ -175,6 +175,10 @@
 - pkg:maven/org.elasticsearch.test/hdfs-fixture@6.8.15?classifier=sources
 - pkg:maven/org.elasticsearch.test/hdfs-fixture@6.8.16
 - pkg:maven/org.elasticsearch.test/hdfs-fixture@6.8.16?classifier=sources
+- pkg:maven/org.elasticsearch.test/hdfs-fixture@6.8.17
+- pkg:maven/org.elasticsearch.test/hdfs-fixture@6.8.17?classifier=sources
+- pkg:maven/org.elasticsearch.test/hdfs-fixture@6.8.18
+- pkg:maven/org.elasticsearch.test/hdfs-fixture@6.8.18?classifier=sources
 - pkg:maven/org.elasticsearch.test/hdfs-fixture@6.8.1?classifier=sources
 - pkg:maven/org.elasticsearch.test/hdfs-fixture@6.8.2
 - pkg:maven/org.elasticsearch.test/hdfs-fixture@6.8.2?classifier=sources

@@ -13,3 +13,5 @@
 - pkg:maven/org.apache.skywalking/telemetry-api@8.3.0
 - pkg:maven/org.apache.skywalking/telemetry-api@8.4.0
 - pkg:maven/org.apache.skywalking/telemetry-api@8.5.0
+- pkg:maven/org.apache.skywalking/telemetry-api@8.6.0
+- pkg:maven/org.apache.skywalking/telemetry-api@8.7.0

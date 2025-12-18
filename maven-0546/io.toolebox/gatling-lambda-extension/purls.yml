@@ -5,4 +5,6 @@
 - pkg:maven/io.toolebox/gatling-lambda-extension@0.2.0?classifier=sources
 - pkg:maven/io.toolebox/gatling-lambda-extension@0.2.1?classifier=sources
 - pkg:maven/io.toolebox/gatling-lambda-extension@3.5.0?classifier=sources
+- pkg:maven/io.toolebox/gatling-lambda-extension@3.5.1.3?classifier=sources
 - pkg:maven/io.toolebox/gatling-lambda-extension@3.5.1?classifier=sources
+- pkg:maven/io.toolebox/gatling-lambda-extension@3.6.0?classifier=sources

@@ -236,3 +236,9 @@
 - pkg:maven/org.uberfire/uberfire-runtime-plugins-api@7.54.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-runtime-plugins-api@7.55.0.Final
 - pkg:maven/org.uberfire/uberfire-runtime-plugins-api@7.55.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-runtime-plugins-api@7.56.0.Final
+- pkg:maven/org.uberfire/uberfire-runtime-plugins-api@7.56.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-runtime-plugins-api@7.57.0.Final
+- pkg:maven/org.uberfire/uberfire-runtime-plugins-api@7.57.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-runtime-plugins-api@7.58.0.Final
+- pkg:maven/org.uberfire/uberfire-runtime-plugins-api@7.58.0.Final?classifier=sources

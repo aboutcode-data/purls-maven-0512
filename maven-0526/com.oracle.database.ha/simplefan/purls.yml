@@ -6,6 +6,8 @@
 - pkg:maven/com.oracle.database.ha/simplefan@18.3.0.0?classifier=sources
 - pkg:maven/com.oracle.database.ha/simplefan@19.10.0.0
 - pkg:maven/com.oracle.database.ha/simplefan@19.10.0.0?classifier=sources
+- pkg:maven/com.oracle.database.ha/simplefan@19.11.0.0
+- pkg:maven/com.oracle.database.ha/simplefan@19.11.0.0?classifier=sources
 - pkg:maven/com.oracle.database.ha/simplefan@19.3.0.0
 - pkg:maven/com.oracle.database.ha/simplefan@19.3.0.0?classifier=sources
 - pkg:maven/com.oracle.database.ha/simplefan@19.6.0.0

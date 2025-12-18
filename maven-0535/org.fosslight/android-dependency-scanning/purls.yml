@@ -1,0 +1,4 @@
+- pkg:maven/org.fosslight/android-dependency-scanning@1.0.0
+- pkg:maven/org.fosslight/android-dependency-scanning@1.0.0?classifier=sources
+- pkg:maven/org.fosslight/android-dependency-scanning@1.0.0_pre
+- pkg:maven/org.fosslight/android-dependency-scanning@1.0.0_pre?classifier=sources

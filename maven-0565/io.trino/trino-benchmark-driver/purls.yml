@@ -14,3 +14,7 @@
 - pkg:maven/io.trino/trino-benchmark-driver@357?classifier=sources
 - pkg:maven/io.trino/trino-benchmark-driver@358
 - pkg:maven/io.trino/trino-benchmark-driver@358?classifier=sources
+- pkg:maven/io.trino/trino-benchmark-driver@359
+- pkg:maven/io.trino/trino-benchmark-driver@359?classifier=sources
+- pkg:maven/io.trino/trino-benchmark-driver@360
+- pkg:maven/io.trino/trino-benchmark-driver@360?classifier=sources

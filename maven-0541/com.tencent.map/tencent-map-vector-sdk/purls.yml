@@ -138,6 +138,8 @@
 - pkg:maven/com.tencent.map/tencent-map-vector-sdk@4.3.8.1?type=aar
 - pkg:maven/com.tencent.map/tencent-map-vector-sdk@4.3.8.2?type=aar
 - pkg:maven/com.tencent.map/tencent-map-vector-sdk@4.3.9.12?type=aar
+- pkg:maven/com.tencent.map/tencent-map-vector-sdk@4.3.9.13?type=aar
+- pkg:maven/com.tencent.map/tencent-map-vector-sdk@4.3.9.14?type=aar
 - pkg:maven/com.tencent.map/tencent-map-vector-sdk@4.3.9.1?type=aar
 - pkg:maven/com.tencent.map/tencent-map-vector-sdk@4.3.9.2?type=aar
 - pkg:maven/com.tencent.map/tencent-map-vector-sdk@4.3.9.3?type=aar

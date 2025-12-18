@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars/ckeditor-autosave@0.18
 - pkg:maven/org.webjars/ckeditor-autosave@0.18.1
 - pkg:maven/org.webjars/ckeditor-autosave@0.18.4
+- pkg:maven/org.webjars/ckeditor-autosave@0.18.6

@@ -60,3 +60,5 @@
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-protocol-jmx@3.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-protocol-jmx@4.0.0.Alpha1
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-protocol-jmx@4.0.0.Alpha1?classifier=sources
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-protocol-jmx@5.0.0.Alpha1
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-protocol-jmx@5.0.0.Alpha1?classifier=sources

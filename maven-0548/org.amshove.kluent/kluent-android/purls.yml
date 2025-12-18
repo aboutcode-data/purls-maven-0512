@@ -6,3 +6,7 @@
 - pkg:maven/org.amshove.kluent/kluent-android@1.65?classifier=sources
 - pkg:maven/org.amshove.kluent/kluent-android@1.66
 - pkg:maven/org.amshove.kluent/kluent-android@1.66?classifier=sources
+- pkg:maven/org.amshove.kluent/kluent-android@1.67
+- pkg:maven/org.amshove.kluent/kluent-android@1.67?classifier=sources
+- pkg:maven/org.amshove.kluent/kluent-android@1.68
+- pkg:maven/org.amshove.kluent/kluent-android@1.68?classifier=sources

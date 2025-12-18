@@ -1,2 +1,3 @@
 - pkg:maven/com.fancydsp/ad-vivo@1.4.4?classifier=sources
 - pkg:maven/com.fancydsp/ad-vivo@1.4.4?type=aar
+- pkg:maven/com.fancydsp/ad-vivo@1.5.1?type=aar

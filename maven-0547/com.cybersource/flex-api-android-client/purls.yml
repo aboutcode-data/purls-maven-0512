@@ -1,0 +1,2 @@
+- pkg:maven/com.cybersource/flex-api-android-client@1.0.0
+- pkg:maven/com.cybersource/flex-api-android-client@1.0.0?classifier=sources

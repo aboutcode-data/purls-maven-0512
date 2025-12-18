@@ -49,5 +49,8 @@
 - pkg:maven/org.kie.workbench.playground/mortgage-process@7.53.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/mortgage-process@7.54.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/mortgage-process@7.55.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/mortgage-process@7.56.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/mortgage-process@7.57.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/mortgage-process@7.58.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/mortgage-process@7.8.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/mortgage-process@7.9.0.Final?classifier=sources

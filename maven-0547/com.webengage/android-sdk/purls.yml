@@ -1,1 +1,2 @@
 - pkg:maven/com.webengage/android-sdk@3.18.4?type=aar
+- pkg:maven/com.webengage/android-sdk@3.18.5?classifier=sources
