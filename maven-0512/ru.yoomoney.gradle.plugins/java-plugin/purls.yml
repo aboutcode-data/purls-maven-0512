@@ -1,0 +1,2 @@
+- pkg:maven/ru.yoomoney.gradle.plugins/java-plugin@4.1.0?classifier=sources
+- pkg:maven/ru.yoomoney.gradle.plugins/java-plugin@4.1.1?classifier=sources

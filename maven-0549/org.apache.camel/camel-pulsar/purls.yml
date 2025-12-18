@@ -60,3 +60,5 @@
 - pkg:maven/org.apache.camel/camel-pulsar@3.7.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-pulsar@3.8.0
 - pkg:maven/org.apache.camel/camel-pulsar@3.8.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-pulsar@3.9.0
+- pkg:maven/org.apache.camel/camel-pulsar@3.9.0?classifier=sources

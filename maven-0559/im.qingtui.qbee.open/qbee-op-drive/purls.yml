@@ -1,0 +1,3 @@
+- pkg:maven/im.qingtui.qbee.open/qbee-op-drive@1.1.10?classifier=sources
+- pkg:maven/im.qingtui.qbee.open/qbee-op-drive@1.1.8
+- pkg:maven/im.qingtui.qbee.open/qbee-op-drive@1.1.8?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.typelevel/vault_sjs1_3.0.0-RC3@2.1.10
+- pkg:maven/org.typelevel/vault_sjs1_3.0.0-RC3@2.1.10?classifier=sources
+- pkg:maven/org.typelevel/vault_sjs1_3.0.0-RC3@3.0.2
+- pkg:maven/org.typelevel/vault_sjs1_3.0.0-RC3@3.0.2?classifier=sources

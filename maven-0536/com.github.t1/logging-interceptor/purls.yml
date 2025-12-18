@@ -1,0 +1,2 @@
+- pkg:maven/com.github.t1/logging-interceptor@3.2.6
+- pkg:maven/com.github.t1/logging-interceptor@3.2.6?classifier=sources

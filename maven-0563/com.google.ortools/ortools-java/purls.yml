@@ -1,0 +1,4 @@
+- pkg:maven/com.google.ortools/ortools-java@8.2.9004
+- pkg:maven/com.google.ortools/ortools-java@8.2.9004?classifier=sources
+- pkg:maven/com.google.ortools/ortools-java@8.2.9025
+- pkg:maven/com.google.ortools/ortools-java@8.2.9025?classifier=sources

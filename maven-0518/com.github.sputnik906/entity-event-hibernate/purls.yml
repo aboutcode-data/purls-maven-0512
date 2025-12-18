@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sputnik906/entity-event-hibernate@0.1.0
+- pkg:maven/com.github.sputnik906/entity-event-hibernate@0.1.0?classifier=sources

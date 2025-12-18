@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/lerna__symlink-dependencies@3.17.0
+- pkg:maven/org.webjars.npm/lerna__symlink-dependencies@3.17.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.ufoss.kotysa/kotysa-spring-r2dbc@0.2.3?classifier=sources
+- pkg:maven/org.ufoss.kotysa/kotysa-spring-r2dbc@0.2.4?classifier=sources

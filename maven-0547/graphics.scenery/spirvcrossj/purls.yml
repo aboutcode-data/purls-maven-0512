@@ -22,3 +22,5 @@
 - pkg:maven/graphics.scenery/spirvcrossj@0.6.0-1.1.106.0?classifier=sources
 - pkg:maven/graphics.scenery/spirvcrossj@0.7.0-1.1.106.0
 - pkg:maven/graphics.scenery/spirvcrossj@0.7.0-1.1.106.0?classifier=sources
+- pkg:maven/graphics.scenery/spirvcrossj@0.7.1-1.1.106.0
+- pkg:maven/graphics.scenery/spirvcrossj@0.7.1-1.1.106.0?classifier=sources

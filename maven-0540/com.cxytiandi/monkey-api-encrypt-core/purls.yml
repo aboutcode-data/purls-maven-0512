@@ -1,4 +1,6 @@
 - pkg:maven/com.cxytiandi/monkey-api-encrypt-core@1.2.1.RELEASE
 - pkg:maven/com.cxytiandi/monkey-api-encrypt-core@1.2.1.RELEASE?classifier=sources
+- pkg:maven/com.cxytiandi/monkey-api-encrypt-core@1.2.2.RELEASE
+- pkg:maven/com.cxytiandi/monkey-api-encrypt-core@1.2.2.RELEASE?classifier=sources
 - pkg:maven/com.cxytiandi/monkey-api-encrypt-core@1.2.RELEASE
 - pkg:maven/com.cxytiandi/monkey-api-encrypt-core@1.2.RELEASE?classifier=sources

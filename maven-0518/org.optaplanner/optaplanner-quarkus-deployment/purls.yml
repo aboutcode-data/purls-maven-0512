@@ -42,3 +42,9 @@
 - pkg:maven/org.optaplanner/optaplanner-quarkus-deployment@8.2.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus-deployment@8.3.0.Final
 - pkg:maven/org.optaplanner/optaplanner-quarkus-deployment@8.3.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus-deployment@8.4.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-deployment@8.4.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus-deployment@8.4.1.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-deployment@8.4.1.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus-deployment@8.5.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-deployment@8.5.0.Final?classifier=sources

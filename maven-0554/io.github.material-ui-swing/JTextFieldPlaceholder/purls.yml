@@ -1,1 +1,2 @@
+- pkg:maven/io.github.material-ui-swing/JTextFieldPlaceholder@0.0.2-rc1?classifier=sources
 - pkg:maven/io.github.material-ui-swing/JTextFieldPlaceholder@io.github.materialuiswing.placeholder?classifier=sources

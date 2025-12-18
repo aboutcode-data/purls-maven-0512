@@ -48,3 +48,8 @@
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.55
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.56
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.57
+- pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.58
+- pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.59
+- pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.59-SNAPSHOT-MARK
+- pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.60
+- pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.61

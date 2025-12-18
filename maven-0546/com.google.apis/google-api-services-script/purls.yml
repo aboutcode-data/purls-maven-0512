@@ -692,6 +692,8 @@
 - pkg:maven/com.google.apis/google-api-services-script@v1-rev20210206-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-script@v1-rev20210227-1.31.0
 - pkg:maven/com.google.apis/google-api-services-script@v1-rev20210227-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-script@v1-rev20210403-1.31.0
+- pkg:maven/com.google.apis/google-api-services-script@v1-rev20210403-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-script@v1-rev204-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-script@v1-rev204-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-script@v1-rev204-1.21.0

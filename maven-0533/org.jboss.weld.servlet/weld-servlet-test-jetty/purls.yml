@@ -320,3 +320,7 @@
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-test-jetty@3.1.5.SP1?classifier=sources
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-test-jetty@3.1.6.Final
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-test-jetty@3.1.6.Final?classifier=sources
+- pkg:maven/org.jboss.weld.servlet/weld-servlet-test-jetty@3.1.7.Final
+- pkg:maven/org.jboss.weld.servlet/weld-servlet-test-jetty@3.1.7.Final?classifier=sources
+- pkg:maven/org.jboss.weld.servlet/weld-servlet-test-jetty@3.1.7.SP1
+- pkg:maven/org.jboss.weld.servlet/weld-servlet-test-jetty@3.1.7.SP1?classifier=sources

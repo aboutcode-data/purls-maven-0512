@@ -1,0 +1,2 @@
+- pkg:maven/com.github.stephenc.continuous/k2p-maven-plugin@1.4
+- pkg:maven/com.github.stephenc.continuous/k2p-maven-plugin@1.4?classifier=sources

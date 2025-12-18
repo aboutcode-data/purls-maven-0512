@@ -1,0 +1,2 @@
+- pkg:maven/io.vlingo.xoom/xoom-build-plugins@1.7.0
+- pkg:maven/io.vlingo.xoom/xoom-build-plugins@1.7.0?classifier=sources

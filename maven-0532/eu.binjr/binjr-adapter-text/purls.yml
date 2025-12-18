@@ -3,3 +3,5 @@
 - pkg:maven/eu.binjr/binjr-adapter-text@3.0.0-b04?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-text@3.0.0-b06?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-text@3.0.0-b07?classifier=sources
+- pkg:maven/eu.binjr/binjr-adapter-text@3.0.0?classifier=sources
+- pkg:maven/eu.binjr/binjr-adapter-text@3.0.1?classifier=sources

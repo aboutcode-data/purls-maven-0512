@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.bjornstar/blob-polyfill@1.0.20150320
+- pkg:maven/org.webjars.bowergithub.bjornstar/blob-polyfill@1.0.20150320?classifier=sources
 - pkg:maven/org.webjars.bowergithub.bjornstar/blob-polyfill@5.0.20210201
 - pkg:maven/org.webjars.bowergithub.bjornstar/blob-polyfill@5.0.20210201?classifier=sources

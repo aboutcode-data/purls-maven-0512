@@ -1,0 +1,2 @@
+- pkg:maven/io.datalbry.alxndria/alxndria-client-feign@0.0.2?classifier=sources
+- pkg:maven/io.datalbry.alxndria/alxndria-client-feign@0.0.3?classifier=sources

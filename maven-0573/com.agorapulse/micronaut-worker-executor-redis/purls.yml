@@ -1,0 +1,1 @@
+- pkg:maven/com.agorapulse/micronaut-worker-executor-redis@1.0.1?classifier=sources

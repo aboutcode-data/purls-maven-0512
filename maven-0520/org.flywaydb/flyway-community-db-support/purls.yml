@@ -1,0 +1,2 @@
+- pkg:maven/org.flywaydb/flyway-community-db-support@7.8.2
+- pkg:maven/org.flywaydb/flyway-community-db-support@7.8.2?classifier=sources

@@ -1,3 +1,8 @@
+- pkg:maven/io.insert-koin/koin-android-ext@2.0.1?classifier=sources
+- pkg:maven/io.insert-koin/koin-android-ext@2.1.6?classifier=sources
+- pkg:maven/io.insert-koin/koin-android-ext@2.2.2?classifier=sources
 - pkg:maven/io.insert-koin/koin-android-ext@3.0.1-alpha-5?classifier=sources
 - pkg:maven/io.insert-koin/koin-android-ext@3.0.1-alpha-6?classifier=sources
 - pkg:maven/io.insert-koin/koin-android-ext@3.0.1-beta-1?classifier=sources
+- pkg:maven/io.insert-koin/koin-android-ext@3.0.1-beta-2?classifier=sources
+- pkg:maven/io.insert-koin/koin-android-ext@3.0.1?classifier=sources

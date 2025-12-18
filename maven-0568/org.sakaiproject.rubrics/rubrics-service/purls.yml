@@ -18,3 +18,7 @@
 - pkg:maven/org.sakaiproject.rubrics/rubrics-service@20.1?type=war
 - pkg:maven/org.sakaiproject.rubrics/rubrics-service@20.2?classifier=sources
 - pkg:maven/org.sakaiproject.rubrics/rubrics-service@20.2?type=war
+- pkg:maven/org.sakaiproject.rubrics/rubrics-service@20.3?classifier=sources
+- pkg:maven/org.sakaiproject.rubrics/rubrics-service@20.3?type=war
+- pkg:maven/org.sakaiproject.rubrics/rubrics-service@21.0?classifier=sources
+- pkg:maven/org.sakaiproject.rubrics/rubrics-service@21.0?type=war

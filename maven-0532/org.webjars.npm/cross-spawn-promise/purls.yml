@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/cross-spawn-promise@0.10.2
+- pkg:maven/org.webjars.npm/cross-spawn-promise@0.10.2?classifier=sources

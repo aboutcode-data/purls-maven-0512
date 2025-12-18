@@ -1,0 +1,2 @@
+- pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-api_2.12@8.5.0?classifier=sources
+- pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-api_2.12@8.6.0?classifier=sources

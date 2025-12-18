@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/codeguruprofiler@801.2.707.0?classifier=sources
 - pkg:maven/com.cognitect.aws/codeguruprofiler@803.2.717.0
 - pkg:maven/com.cognitect.aws/codeguruprofiler@803.2.717.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codeguruprofiler@811.2.865.0
+- pkg:maven/com.cognitect.aws/codeguruprofiler@811.2.865.0?classifier=sources

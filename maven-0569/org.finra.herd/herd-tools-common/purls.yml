@@ -62,6 +62,8 @@
 - pkg:maven/org.finra.herd/herd-tools-common@0.136.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-tools-common@0.137.0
 - pkg:maven/org.finra.herd/herd-tools-common@0.137.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-tools-common@0.147.0
+- pkg:maven/org.finra.herd/herd-tools-common@0.147.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-tools-common@0.20.0
 - pkg:maven/org.finra.herd/herd-tools-common@0.20.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-tools-common@0.21.0

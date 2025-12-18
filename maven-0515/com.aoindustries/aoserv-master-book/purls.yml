@@ -8,6 +8,8 @@
 - pkg:maven/com.aoindustries/aoserv-master-book@1.84.13?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-master-book@1.84.14
 - pkg:maven/com.aoindustries/aoserv-master-book@1.84.14?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-master-book@1.84.17
+- pkg:maven/com.aoindustries/aoserv-master-book@1.84.17?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-master-book@1.84.2
 - pkg:maven/com.aoindustries/aoserv-master-book@1.84.2?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-master-book@1.84.6

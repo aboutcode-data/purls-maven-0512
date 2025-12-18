@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.dubbo/dubbo-metadata-report-failover@2.7.10
+- pkg:maven/org.apache.dubbo/dubbo-metadata-report-failover@2.7.10?classifier=sources

@@ -40,6 +40,8 @@
 - pkg:maven/com.sun.xml.ws/jaxws-async-client-transport@2.3.3-b01
 - pkg:maven/com.sun.xml.ws/jaxws-async-client-transport@2.3.3-b01?classifier=sources
 - pkg:maven/com.sun.xml.ws/jaxws-async-client-transport@2.3.3?classifier=sources
+- pkg:maven/com.sun.xml.ws/jaxws-async-client-transport@2.3.4
+- pkg:maven/com.sun.xml.ws/jaxws-async-client-transport@2.3.4?classifier=sources
 - pkg:maven/com.sun.xml.ws/jaxws-async-client-transport@3.0.0
 - pkg:maven/com.sun.xml.ws/jaxws-async-client-transport@3.0.0-M1
 - pkg:maven/com.sun.xml.ws/jaxws-async-client-transport@3.0.0-M1?classifier=sources

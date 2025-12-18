@@ -1,0 +1,3 @@
+- pkg:maven/io.spinnaker.kork/kork-actuator@7.105.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-actuator@7.107.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-actuator@7.108.0?classifier=sources

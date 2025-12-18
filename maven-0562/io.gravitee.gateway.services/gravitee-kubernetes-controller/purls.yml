@@ -1,0 +1,1 @@
+- pkg:maven/io.gravitee.gateway.services/gravitee-kubernetes-controller@0.1.0?classifier=sources

@@ -64,6 +64,8 @@
 - pkg:maven/org.infinispan/infinispan-tools@11.0.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tools@11.0.1.Final
 - pkg:maven/org.infinispan/infinispan-tools@11.0.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-tools@11.0.10.Final
+- pkg:maven/org.infinispan/infinispan-tools@11.0.10.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tools@11.0.2.Final
 - pkg:maven/org.infinispan/infinispan-tools@11.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tools@11.0.3.Final
@@ -106,8 +108,14 @@
 - pkg:maven/org.infinispan/infinispan-tools@12.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tools@12.1.0.CR1
 - pkg:maven/org.infinispan/infinispan-tools@12.1.0.CR1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-tools@12.1.0.CR2
+- pkg:maven/org.infinispan/infinispan-tools@12.1.0.CR2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tools@12.1.0.Dev01
 - pkg:maven/org.infinispan/infinispan-tools@12.1.0.Dev01?classifier=sources
+- pkg:maven/org.infinispan/infinispan-tools@12.1.0.Final
+- pkg:maven/org.infinispan/infinispan-tools@12.1.0.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-tools@12.1.1.Final
+- pkg:maven/org.infinispan/infinispan-tools@12.1.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tools@5.0.0.FINAL?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tools@5.0.1.FINAL?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tools@5.1.0.ALPHA1?classifier=sources
@@ -529,6 +537,8 @@
 - pkg:maven/org.infinispan/infinispan-tools@9.4.20.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tools@9.4.21.Final
 - pkg:maven/org.infinispan/infinispan-tools@9.4.21.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-tools@9.4.22.Final
+- pkg:maven/org.infinispan/infinispan-tools@9.4.22.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tools@9.4.3.Final
 - pkg:maven/org.infinispan/infinispan-tools@9.4.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tools@9.4.4.Final

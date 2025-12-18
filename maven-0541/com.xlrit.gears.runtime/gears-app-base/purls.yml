@@ -46,6 +46,16 @@
 - pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.31?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.32
 - pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.32?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.33
+- pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.33-pre1
+- pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.33-pre1?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.33?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.34
+- pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.34?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.35
+- pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.35?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.36
+- pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.36?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.5
 - pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.5?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-app-base@0.6

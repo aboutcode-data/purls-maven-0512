@@ -206,3 +206,9 @@
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets-spring-gwtp@1.5.0?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets-spring-gwtp@1.5.1
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets-spring-gwtp@1.5.1?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets-spring-gwtp@1.6.0
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets-spring-gwtp@1.6.0?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets-spring-gwtp@1.7.0
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets-spring-gwtp@1.7.0?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets-spring-gwtp@1.7.1
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets-spring-gwtp@1.7.1?classifier=sources

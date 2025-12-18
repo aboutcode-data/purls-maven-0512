@@ -1,2 +1,4 @@
 - pkg:maven/org.ojalgo/ojalgo-mosek@2.47.2
 - pkg:maven/org.ojalgo/ojalgo-mosek@2.47.2?classifier=sources
+- pkg:maven/org.ojalgo/ojalgo-mosek@3.0.0
+- pkg:maven/org.ojalgo/ojalgo-mosek@3.0.0?classifier=sources

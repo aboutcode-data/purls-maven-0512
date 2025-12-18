@@ -148,6 +148,14 @@
 - pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.2.30?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.2.31
 - pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.2.31?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.2.32
+- pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.2.32?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.2.33
+- pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.2.33?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.2.34
+- pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.2.34?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.2.36
+- pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.2.36?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.2.3?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.2.4
 - pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.2.4?classifier=sources

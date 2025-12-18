@@ -1,1 +1,3 @@
 - pkg:maven/net.devslash.fetchdsl/extensions@0.16.7?classifier=sources
+- pkg:maven/net.devslash.fetchdsl/extensions@0.16.8?classifier=sources
+- pkg:maven/net.devslash.fetchdsl/extensions@0.16.9?classifier=sources

@@ -10,6 +10,12 @@
 - pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@1.13.0
 - pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@1.13.1
 - pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@1.14.0
+- pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@1.14.1
+- pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@1.14.2
+- pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@1.14.3
+- pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@1.15.0
+- pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@1.15.1
+- pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@1.15.2
 - pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@1.2.0
 - pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@1.3.0
 - pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@1.4.0

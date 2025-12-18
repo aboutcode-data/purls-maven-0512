@@ -14,3 +14,5 @@
 - pkg:maven/com.vaadin/vaadin-testbench-core@6.4.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-testbench-core@7.0.0
 - pkg:maven/com.vaadin/vaadin-testbench-core@7.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-testbench-core@7.0.1
+- pkg:maven/com.vaadin/vaadin-testbench-core@7.0.1?classifier=sources

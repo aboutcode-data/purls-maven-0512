@@ -1,0 +1,2 @@
+- pkg:maven/org.linkedopenactors.code/loa-wechange-adapter@0.0.2
+- pkg:maven/org.linkedopenactors.code/loa-wechange-adapter@0.0.2?classifier=sources

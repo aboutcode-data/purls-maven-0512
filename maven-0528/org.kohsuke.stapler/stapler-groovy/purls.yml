@@ -206,6 +206,8 @@
 - pkg:maven/org.kohsuke.stapler/stapler-groovy@1.261?classifier=sources
 - pkg:maven/org.kohsuke.stapler/stapler-groovy@1.262
 - pkg:maven/org.kohsuke.stapler/stapler-groovy@1.262?classifier=sources
+- pkg:maven/org.kohsuke.stapler/stapler-groovy@1.263
+- pkg:maven/org.kohsuke.stapler/stapler-groovy@1.263?classifier=sources
 - pkg:maven/org.kohsuke.stapler/stapler-groovy@1.97
 - pkg:maven/org.kohsuke.stapler/stapler-groovy@1.97?classifier=sources
 - pkg:maven/org.kohsuke.stapler/stapler-groovy@1.98

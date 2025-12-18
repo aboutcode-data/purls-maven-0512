@@ -84,6 +84,8 @@
 - pkg:maven/io.nextflow/nf-commons@20.11.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nf-commons@20.12.0-edge
 - pkg:maven/io.nextflow/nf-commons@20.12.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-commons@20.12.1-edge
+- pkg:maven/io.nextflow/nf-commons@20.12.1-edge?classifier=sources
 - pkg:maven/io.nextflow/nf-commons@21.01.0-edge
 - pkg:maven/io.nextflow/nf-commons@21.01.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nf-commons@21.01.1-edge
@@ -92,3 +94,7 @@
 - pkg:maven/io.nextflow/nf-commons@21.02.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nf-commons@21.03.0-edge
 - pkg:maven/io.nextflow/nf-commons@21.03.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-commons@21.04.0-edge
+- pkg:maven/io.nextflow/nf-commons@21.04.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-commons@21.04.1-edge
+- pkg:maven/io.nextflow/nf-commons@21.04.1-edge?classifier=sources

@@ -172,6 +172,12 @@
 - pkg:maven/org.eclipse.che.multiuser/che-multiuser-keycloak-token-provider@7.27.0?classifier=sources
 - pkg:maven/org.eclipse.che.multiuser/che-multiuser-keycloak-token-provider@7.27.1
 - pkg:maven/org.eclipse.che.multiuser/che-multiuser-keycloak-token-provider@7.27.1?classifier=sources
+- pkg:maven/org.eclipse.che.multiuser/che-multiuser-keycloak-token-provider@7.27.2
+- pkg:maven/org.eclipse.che.multiuser/che-multiuser-keycloak-token-provider@7.27.2?classifier=sources
+- pkg:maven/org.eclipse.che.multiuser/che-multiuser-keycloak-token-provider@7.28.0
+- pkg:maven/org.eclipse.che.multiuser/che-multiuser-keycloak-token-provider@7.28.0?classifier=sources
+- pkg:maven/org.eclipse.che.multiuser/che-multiuser-keycloak-token-provider@7.28.2
+- pkg:maven/org.eclipse.che.multiuser/che-multiuser-keycloak-token-provider@7.28.2?classifier=sources
 - pkg:maven/org.eclipse.che.multiuser/che-multiuser-keycloak-token-provider@7.3.0
 - pkg:maven/org.eclipse.che.multiuser/che-multiuser-keycloak-token-provider@7.3.0?classifier=sources
 - pkg:maven/org.eclipse.che.multiuser/che-multiuser-keycloak-token-provider@7.3.1

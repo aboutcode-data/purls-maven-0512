@@ -14,3 +14,5 @@
 - pkg:maven/id.ac.unpar/SIAModels@5.0.0?classifier=sources
 - pkg:maven/id.ac.unpar/SIAModels@5.1.0
 - pkg:maven/id.ac.unpar/SIAModels@5.1.0?classifier=sources
+- pkg:maven/id.ac.unpar/SIAModels@5.1.1
+- pkg:maven/id.ac.unpar/SIAModels@5.1.1?classifier=sources

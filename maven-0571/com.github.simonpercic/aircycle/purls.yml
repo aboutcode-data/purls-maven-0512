@@ -1,0 +1,2 @@
+- pkg:maven/com.github.simonpercic/aircycle@1.2.0?classifier=sources
+- pkg:maven/com.github.simonpercic/aircycle@1.2.0?type=aar

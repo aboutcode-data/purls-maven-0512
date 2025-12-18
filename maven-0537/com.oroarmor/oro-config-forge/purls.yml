@@ -1,2 +1,6 @@
 - pkg:maven/com.oroarmor/oro-config-forge@2.0.0
 - pkg:maven/com.oroarmor/oro-config-forge@2.0.0?classifier=sources
+- pkg:maven/com.oroarmor/oro-config-forge@2.1.0
+- pkg:maven/com.oroarmor/oro-config-forge@2.1.0?classifier=sources
+- pkg:maven/com.oroarmor/oro-config-forge@3.0.0
+- pkg:maven/com.oroarmor/oro-config-forge@3.0.0?classifier=sources

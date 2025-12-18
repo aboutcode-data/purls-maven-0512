@@ -16,3 +16,11 @@
 - pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.44?classifier=sources
 - pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.45
 - pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.45?classifier=sources
+- pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.46
+- pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.46?classifier=sources
+- pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.47
+- pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.47?classifier=sources
+- pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.48
+- pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.48?classifier=sources
+- pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.49
+- pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.49?classifier=sources

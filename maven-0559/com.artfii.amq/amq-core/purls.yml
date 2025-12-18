@@ -2,3 +2,5 @@
 - pkg:maven/com.artfii.amq/amq-core@0.0.1-RELEASE?classifier=sources
 - pkg:maven/com.artfii.amq/amq-core@0.0.3-snapshot
 - pkg:maven/com.artfii.amq/amq-core@0.0.3-snapshot?classifier=sources
+- pkg:maven/com.artfii.amq/amq-core@0.0.5-RELEASE
+- pkg:maven/com.artfii.amq/amq-core@0.0.5-RELEASE?classifier=sources

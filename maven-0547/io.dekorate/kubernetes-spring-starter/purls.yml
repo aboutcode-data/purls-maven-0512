@@ -76,3 +76,4 @@
 - pkg:maven/io.dekorate/kubernetes-spring-starter@2.0.0.rc-1
 - pkg:maven/io.dekorate/kubernetes-spring-starter@2.1.0
 - pkg:maven/io.dekorate/kubernetes-spring-starter@2.1.1
+- pkg:maven/io.dekorate/kubernetes-spring-starter@2.1.2

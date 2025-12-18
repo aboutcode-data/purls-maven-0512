@@ -1,0 +1,2 @@
+- pkg:maven/com.fakerandroid.tools.build/dex2jar@1.0.1
+- pkg:maven/com.fakerandroid.tools.build/dex2jar@1.0.1?classifier=sources

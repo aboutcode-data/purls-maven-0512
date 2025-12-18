@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.skywalking/prometheus-fetcher-plugin@8.2.0
 - pkg:maven/org.apache.skywalking/prometheus-fetcher-plugin@8.3.0
 - pkg:maven/org.apache.skywalking/prometheus-fetcher-plugin@8.4.0
+- pkg:maven/org.apache.skywalking/prometheus-fetcher-plugin@8.5.0

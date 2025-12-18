@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/github-com-mistic100-jQuery-QueryBuilder@2.4.5?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-mistic100-jQuery-QueryBuilder@2.5.2
 - pkg:maven/org.webjars.npm/github-com-mistic100-jQuery-QueryBuilder@2.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-mistic100-jQuery-QueryBuilder@2.6.0
+- pkg:maven/org.webjars.npm/github-com-mistic100-jQuery-QueryBuilder@2.6.0?classifier=sources

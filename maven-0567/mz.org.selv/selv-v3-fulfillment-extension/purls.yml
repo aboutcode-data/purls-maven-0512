@@ -1,0 +1,2 @@
+- pkg:maven/mz.org.selv/selv-v3-fulfillment-extension@1.0.1
+- pkg:maven/mz.org.selv/selv-v3-fulfillment-extension@1.0.1?classifier=sources

@@ -12,6 +12,8 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-uint24-netty@5.0.15?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-uint24-netty@5.0.16
 - pkg:maven/org.opendaylight.mdsal/mdsal-uint24-netty@5.0.16?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-uint24-netty@5.0.17
+- pkg:maven/org.opendaylight.mdsal/mdsal-uint24-netty@5.0.17?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-uint24-netty@5.0.7
 - pkg:maven/org.opendaylight.mdsal/mdsal-uint24-netty@5.0.7?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-uint24-netty@5.0.8

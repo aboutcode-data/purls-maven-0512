@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rssh/cps-async-connect-zio_3.0.0-RC2@0.3.0
+- pkg:maven/com.github.rssh/cps-async-connect-zio_3.0.0-RC2@0.3.0?classifier=sources

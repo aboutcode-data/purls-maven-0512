@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.iotdb/client-cpp-tools-thrift@0.12.0
+- pkg:maven/org.apache.iotdb/client-cpp-tools-thrift@0.12.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.adven27/exam-mq-ibmmq@5.0.0
+- pkg:maven/io.github.adven27/exam-mq-ibmmq@5.0.0?classifier=sources

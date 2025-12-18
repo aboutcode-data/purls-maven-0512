@@ -36,3 +36,5 @@
 - pkg:maven/de.adorsys.xs2a.adapter/dab-bank-adapter@0.1.7?classifier=sources
 - pkg:maven/de.adorsys.xs2a.adapter/dab-bank-adapter@0.1.8
 - pkg:maven/de.adorsys.xs2a.adapter/dab-bank-adapter@0.1.8?classifier=sources
+- pkg:maven/de.adorsys.xs2a.adapter/dab-bank-adapter@0.1.9
+- pkg:maven/de.adorsys.xs2a.adapter/dab-bank-adapter@0.1.9?classifier=sources

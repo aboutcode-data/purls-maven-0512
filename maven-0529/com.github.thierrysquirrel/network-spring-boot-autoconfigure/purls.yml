@@ -36,3 +36,7 @@
 - pkg:maven/com.github.thierrysquirrel/network-spring-boot-autoconfigure@2.2.1-RELEASE?classifier=sources
 - pkg:maven/com.github.thierrysquirrel/network-spring-boot-autoconfigure@2.2.2-RELEASE
 - pkg:maven/com.github.thierrysquirrel/network-spring-boot-autoconfigure@2.2.2-RELEASE?classifier=sources
+- pkg:maven/com.github.thierrysquirrel/network-spring-boot-autoconfigure@2.3.0.0-RELEASE
+- pkg:maven/com.github.thierrysquirrel/network-spring-boot-autoconfigure@2.3.0.0-RELEASE?classifier=sources
+- pkg:maven/com.github.thierrysquirrel/network-spring-boot-autoconfigure@2.3.0.1-RELEASE
+- pkg:maven/com.github.thierrysquirrel/network-spring-boot-autoconfigure@2.3.0.1-RELEASE?classifier=sources

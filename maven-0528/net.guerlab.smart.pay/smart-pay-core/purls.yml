@@ -26,3 +26,7 @@
 - pkg:maven/net.guerlab.smart.pay/smart-pay-core@20.1.2?classifier=sources
 - pkg:maven/net.guerlab.smart.pay/smart-pay-core@20.2.0
 - pkg:maven/net.guerlab.smart.pay/smart-pay-core@20.2.0?classifier=sources
+- pkg:maven/net.guerlab.smart.pay/smart-pay-core@21.0.0
+- pkg:maven/net.guerlab.smart.pay/smart-pay-core@21.0.0?classifier=sources
+- pkg:maven/net.guerlab.smart.pay/smart-pay-core@21.2.0
+- pkg:maven/net.guerlab.smart.pay/smart-pay-core@21.2.0?classifier=sources

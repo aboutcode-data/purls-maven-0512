@@ -1,1 +1,2 @@
 - pkg:maven/com.skoumal.grimoire/wand-recyclerview@1.0.0?classifier=sources
+- pkg:maven/com.skoumal.grimoire/wand-recyclerview@1.1.0-alpha01?classifier=sources

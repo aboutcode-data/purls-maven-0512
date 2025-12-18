@@ -18,3 +18,7 @@
 - pkg:maven/com.intuit.karate/karate-robot@0.9.9.RC3?classifier=sources
 - pkg:maven/com.intuit.karate/karate-robot@0.9.9.RC4
 - pkg:maven/com.intuit.karate/karate-robot@0.9.9.RC4?classifier=sources
+- pkg:maven/com.intuit.karate/karate-robot@1.0.0
+- pkg:maven/com.intuit.karate/karate-robot@1.0.0?classifier=sources
+- pkg:maven/com.intuit.karate/karate-robot@1.0.1
+- pkg:maven/com.intuit.karate/karate-robot@1.0.1?classifier=sources

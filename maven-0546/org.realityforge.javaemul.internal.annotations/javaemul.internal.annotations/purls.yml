@@ -1,0 +1,2 @@
+- pkg:maven/org.realityforge.javaemul.internal.annotations/javaemul.internal.annotations@0.01
+- pkg:maven/org.realityforge.javaemul.internal.annotations/javaemul.internal.annotations@0.01?classifier=sources

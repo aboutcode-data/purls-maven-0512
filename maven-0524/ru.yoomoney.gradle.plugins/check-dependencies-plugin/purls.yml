@@ -1,0 +1,1 @@
+- pkg:maven/ru.yoomoney.gradle.plugins/check-dependencies-plugin@7.2.0?classifier=sources

@@ -63,6 +63,8 @@
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@1.41?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@1.42
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@1.42?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-maven-plugin@1.43
+- pkg:maven/se.bjurr.violations/violations-maven-plugin@1.43?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@1.4?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@1.5
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@1.5?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/com.twelvemonkeys.contrib/contrib@3.6.4
 - pkg:maven/com.twelvemonkeys.contrib/contrib@3.6.4?classifier=sources
 - pkg:maven/com.twelvemonkeys.contrib/contrib@3.6?classifier=sources
+- pkg:maven/com.twelvemonkeys.contrib/contrib@3.7.0
+- pkg:maven/com.twelvemonkeys.contrib/contrib@3.7.0?classifier=sources

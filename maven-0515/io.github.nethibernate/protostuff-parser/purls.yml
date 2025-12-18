@@ -1,0 +1,4 @@
+- pkg:maven/io.github.nethibernate/protostuff-parser@1
+- pkg:maven/io.github.nethibernate/protostuff-parser@1.7.3
+- pkg:maven/io.github.nethibernate/protostuff-parser@1.7.3?classifier=sources
+- pkg:maven/io.github.nethibernate/protostuff-parser@1?classifier=sources

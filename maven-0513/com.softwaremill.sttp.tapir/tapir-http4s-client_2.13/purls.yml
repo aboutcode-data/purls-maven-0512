@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-client_2.13@0.18.0-M7
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-client_2.13@0.18.0-M7?classifier=sources

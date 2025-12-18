@@ -58,3 +58,5 @@
 - pkg:maven/org.finra.herd/herd-sdk-ext@0.136.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-sdk-ext@0.137.0
 - pkg:maven/org.finra.herd/herd-sdk-ext@0.137.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-sdk-ext@0.147.0
+- pkg:maven/org.finra.herd/herd-sdk-ext@0.147.0?classifier=sources

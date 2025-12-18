@@ -4,3 +4,5 @@
 - pkg:maven/com.squareup.leakcanary/plumber-android@2.5?type=aar
 - pkg:maven/com.squareup.leakcanary/plumber-android@2.6?classifier=sources
 - pkg:maven/com.squareup.leakcanary/plumber-android@2.6?type=aar
+- pkg:maven/com.squareup.leakcanary/plumber-android@2.7?classifier=sources
+- pkg:maven/com.squareup.leakcanary/plumber-android@2.7?type=aar

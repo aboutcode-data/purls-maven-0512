@@ -2,4 +2,5 @@
 - pkg:maven/com.vmware.jsonteng/jsonteng@1.0.3?classifier=sources
 - pkg:maven/com.vmware.jsonteng/jsonteng@1.0.4?classifier=sources
 - pkg:maven/com.vmware.jsonteng/jsonteng@1.0.7?classifier=sources
+- pkg:maven/com.vmware.jsonteng/jsonteng@1.0.8?classifier=sources
 - pkg:maven/com.vmware.jsonteng/jsonteng@null?classifier=sources
