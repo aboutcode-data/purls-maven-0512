@@ -1,2 +1,5 @@
 - pkg:maven/org.apache.skywalking/server-bootstrap@6.6.0
 - pkg:maven/org.apache.skywalking/server-bootstrap@7.0.0
+- pkg:maven/org.apache.skywalking/server-bootstrap@8.0.0
+- pkg:maven/org.apache.skywalking/server-bootstrap@8.0.1
+- pkg:maven/org.apache.skywalking/server-bootstrap@8.1.0

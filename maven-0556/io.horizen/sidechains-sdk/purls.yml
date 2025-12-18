@@ -1,0 +1,2 @@
+- pkg:maven/io.horizen/sidechains-sdk@0.2.2
+- pkg:maven/io.horizen/sidechains-sdk@0.2.2?classifier=sources

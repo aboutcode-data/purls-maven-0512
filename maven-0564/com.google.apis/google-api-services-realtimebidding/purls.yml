@@ -1,0 +1,4 @@
+- pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20200623-1.30.10
+- pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20200623-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20200623-1.30.9
+- pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20200623-1.30.9?classifier=sources

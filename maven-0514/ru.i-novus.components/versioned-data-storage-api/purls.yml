@@ -20,5 +20,13 @@
 - pkg:maven/ru.i-novus.components/versioned-data-storage-api@2.18?classifier=sources
 - pkg:maven/ru.i-novus.components/versioned-data-storage-api@2.19
 - pkg:maven/ru.i-novus.components/versioned-data-storage-api@2.19?classifier=sources
+- pkg:maven/ru.i-novus.components/versioned-data-storage-api@2.20
+- pkg:maven/ru.i-novus.components/versioned-data-storage-api@2.20?classifier=sources
+- pkg:maven/ru.i-novus.components/versioned-data-storage-api@2.21
+- pkg:maven/ru.i-novus.components/versioned-data-storage-api@2.21?classifier=sources
+- pkg:maven/ru.i-novus.components/versioned-data-storage-api@2.22
+- pkg:maven/ru.i-novus.components/versioned-data-storage-api@2.22?classifier=sources
+- pkg:maven/ru.i-novus.components/versioned-data-storage-api@2.23
+- pkg:maven/ru.i-novus.components/versioned-data-storage-api@2.23?classifier=sources
 - pkg:maven/ru.i-novus.components/versioned-data-storage-api@2.8
 - pkg:maven/ru.i-novus.components/versioned-data-storage-api@2.8?classifier=sources

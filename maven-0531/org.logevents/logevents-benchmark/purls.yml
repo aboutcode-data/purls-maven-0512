@@ -12,3 +12,9 @@
 - pkg:maven/org.logevents/logevents-benchmark@0.1.28?classifier=sources
 - pkg:maven/org.logevents/logevents-benchmark@0.1.29
 - pkg:maven/org.logevents/logevents-benchmark@0.1.29?classifier=sources
+- pkg:maven/org.logevents/logevents-benchmark@0.1.30
+- pkg:maven/org.logevents/logevents-benchmark@0.1.30?classifier=sources
+- pkg:maven/org.logevents/logevents-benchmark@0.1.31
+- pkg:maven/org.logevents/logevents-benchmark@0.1.31?classifier=sources
+- pkg:maven/org.logevents/logevents-benchmark@0.1.32
+- pkg:maven/org.logevents/logevents-benchmark@0.1.32?classifier=sources

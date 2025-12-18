@@ -4,3 +4,5 @@
 - pkg:maven/org.dspace/dspace-server-webapp@7.0-beta2.1?type=war
 - pkg:maven/org.dspace/dspace-server-webapp@7.0-beta2?classifier=sources
 - pkg:maven/org.dspace/dspace-server-webapp@7.0-beta2?type=war
+- pkg:maven/org.dspace/dspace-server-webapp@7.0-beta3?classifier=sources
+- pkg:maven/org.dspace/dspace-server-webapp@7.0-beta3?type=war

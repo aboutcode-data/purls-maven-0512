@@ -1,2 +1,4 @@
 - pkg:maven/org.sakaiproject/webcomponents-bundle@20.0
 - pkg:maven/org.sakaiproject/webcomponents-bundle@20.0?classifier=sources
+- pkg:maven/org.sakaiproject/webcomponents-bundle@20.1
+- pkg:maven/org.sakaiproject/webcomponents-bundle@20.1?classifier=sources

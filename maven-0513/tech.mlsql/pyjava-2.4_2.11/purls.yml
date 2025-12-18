@@ -27,4 +27,8 @@
 - pkg:maven/tech.mlsql/pyjava-2.4_2.11@0.2.8.3?classifier=sources
 - pkg:maven/tech.mlsql/pyjava-2.4_2.11@0.2.8.4
 - pkg:maven/tech.mlsql/pyjava-2.4_2.11@0.2.8.4?classifier=sources
+- pkg:maven/tech.mlsql/pyjava-2.4_2.11@0.2.8.5
+- pkg:maven/tech.mlsql/pyjava-2.4_2.11@0.2.8.5?classifier=sources
 - pkg:maven/tech.mlsql/pyjava-2.4_2.11@0.2.8?classifier=sources
+- pkg:maven/tech.mlsql/pyjava-2.4_2.11@0.3.0
+- pkg:maven/tech.mlsql/pyjava-2.4_2.11@0.3.0?classifier=sources

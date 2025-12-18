@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/stylelint__postcss-css-in-js@0.37.2
+- pkg:maven/org.webjars.npm/stylelint__postcss-css-in-js@0.37.2?classifier=sources

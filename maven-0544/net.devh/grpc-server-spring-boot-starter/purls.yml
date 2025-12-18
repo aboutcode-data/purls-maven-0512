@@ -29,3 +29,5 @@
 - pkg:maven/net.devh/grpc-server-spring-boot-starter@2.6.2.RELEASE?classifier=sources
 - pkg:maven/net.devh/grpc-server-spring-boot-starter@2.7.0.RELEASE
 - pkg:maven/net.devh/grpc-server-spring-boot-starter@2.7.0.RELEASE?classifier=sources
+- pkg:maven/net.devh/grpc-server-spring-boot-starter@2.8.0.RELEASE?classifier=sources
+- pkg:maven/net.devh/grpc-server-spring-boot-starter@2.9.0.RELEASE?classifier=sources

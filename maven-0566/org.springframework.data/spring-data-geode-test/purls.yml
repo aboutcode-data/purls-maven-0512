@@ -10,6 +10,12 @@
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.0.13.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.0.14.RELEASE
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.0.14.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.0.15.RELEASE
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.0.15.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.0.16.RELEASE
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.0.16.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.0.17.RELEASE
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.0.17.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.0.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.0.3.RELEASE

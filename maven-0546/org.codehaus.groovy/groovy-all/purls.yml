@@ -277,6 +277,8 @@
 - pkg:maven/org.codehaus.groovy/groovy-all@2.4.19?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-all@2.4.1?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-all@2.4.2
+- pkg:maven/org.codehaus.groovy/groovy-all@2.4.20
+- pkg:maven/org.codehaus.groovy/groovy-all@2.4.20?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-all@2.4.2?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-all@2.4.3
 - pkg:maven/org.codehaus.groovy/groovy-all@2.4.3?classifier=sources
@@ -305,6 +307,8 @@
 - pkg:maven/org.codehaus.groovy/groovy-all@2.5.0?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-all@2.5.10?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-all@2.5.11?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-all@2.5.12?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-all@2.5.13?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-all@2.5.1?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-all@2.5.2?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-all@2.5.3?classifier=sources
@@ -335,3 +339,5 @@
 - pkg:maven/org.codehaus.groovy/groovy-all@3.0.1?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-all@3.0.2?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-all@3.0.3?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-all@3.0.4?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-all@3.0.5?classifier=sources

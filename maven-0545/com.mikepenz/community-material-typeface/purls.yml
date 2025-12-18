@@ -46,3 +46,5 @@
 - pkg:maven/com.mikepenz/community-material-typeface@3.7.95.4-kotlin?type=aar
 - pkg:maven/com.mikepenz/community-material-typeface@5.0.45.1-kotlin?classifier=sources
 - pkg:maven/com.mikepenz/community-material-typeface@5.0.45.1-kotlin?type=aar
+- pkg:maven/com.mikepenz/community-material-typeface@5.3.45.1-kotlin?classifier=sources
+- pkg:maven/com.mikepenz/community-material-typeface@5.3.45.1-kotlin?type=aar

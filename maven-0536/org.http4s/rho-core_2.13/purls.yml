@@ -6,3 +6,5 @@
 - pkg:maven/org.http4s/rho-core_2.13@0.20.0-RC5
 - pkg:maven/org.http4s/rho-core_2.13@0.20.0-RC5?classifier=sources
 - pkg:maven/org.http4s/rho-core_2.13@0.20.0?classifier=sources
+- pkg:maven/org.http4s/rho-core_2.13@0.21.0-RC1
+- pkg:maven/org.http4s/rho-core_2.13@0.21.0-RC1?classifier=sources

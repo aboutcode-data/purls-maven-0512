@@ -1,4 +1,8 @@
 - pkg:maven/io.github.myasuka/frocksdbjni@5.17.2-artisans-2.0
+- pkg:maven/io.github.myasuka/frocksdbjni@5.17.2-artisans-2.0-debug
+- pkg:maven/io.github.myasuka/frocksdbjni@5.17.2-artisans-2.0-debug2
+- pkg:maven/io.github.myasuka/frocksdbjni@5.17.2-artisans-2.0-debug2?classifier=sources
+- pkg:maven/io.github.myasuka/frocksdbjni@5.17.2-artisans-2.0-debug?classifier=sources
 - pkg:maven/io.github.myasuka/frocksdbjni@5.17.2-artisans-2.0?classifier=sources
 - pkg:maven/io.github.myasuka/frocksdbjni@5.17.2-artisans-3.0
 - pkg:maven/io.github.myasuka/frocksdbjni@5.17.2-artisans-3.0?classifier=sources

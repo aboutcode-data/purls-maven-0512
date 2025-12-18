@@ -1,0 +1,2 @@
+- pkg:maven/de.microtema/jenkinsfile-maven-plugin@2.0.3
+- pkg:maven/de.microtema/jenkinsfile-maven-plugin@2.0.3?classifier=sources

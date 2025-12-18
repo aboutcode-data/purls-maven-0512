@@ -8,3 +8,5 @@
 - pkg:maven/org.sakaiproject.roster2/sakai-roster2-i18n@19.3?classifier=sources
 - pkg:maven/org.sakaiproject.roster2/sakai-roster2-i18n@19.4
 - pkg:maven/org.sakaiproject.roster2/sakai-roster2-i18n@19.4?classifier=sources
+- pkg:maven/org.sakaiproject.roster2/sakai-roster2-i18n@19.5
+- pkg:maven/org.sakaiproject.roster2/sakai-roster2-i18n@19.5?classifier=sources

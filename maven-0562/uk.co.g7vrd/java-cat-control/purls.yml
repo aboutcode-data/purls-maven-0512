@@ -1,0 +1,4 @@
+- pkg:maven/uk.co.g7vrd/java-cat-control@0.0.4
+- pkg:maven/uk.co.g7vrd/java-cat-control@0.0.4?classifier=sources
+- pkg:maven/uk.co.g7vrd/java-cat-control@0.0.5
+- pkg:maven/uk.co.g7vrd/java-cat-control@0.0.5?classifier=sources

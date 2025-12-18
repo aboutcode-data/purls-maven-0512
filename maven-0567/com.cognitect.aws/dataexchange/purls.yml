@@ -2,3 +2,5 @@
 - pkg:maven/com.cognitect.aws/dataexchange@773.2.579.0?classifier=sources
 - pkg:maven/com.cognitect.aws/dataexchange@796.2.664.0
 - pkg:maven/com.cognitect.aws/dataexchange@796.2.664.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dataexchange@801.2.698.0
+- pkg:maven/com.cognitect.aws/dataexchange@801.2.698.0?classifier=sources

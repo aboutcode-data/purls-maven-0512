@@ -1,0 +1,2 @@
+- pkg:maven/io.github.java-native/jssc@2.9.2
+- pkg:maven/io.github.java-native/jssc@2.9.2?classifier=sources

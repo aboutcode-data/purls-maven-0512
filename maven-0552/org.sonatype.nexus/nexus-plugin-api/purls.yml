@@ -85,6 +85,8 @@
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@2.14.16-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@2.14.17-01
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@2.14.17-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@2.14.18-01
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@2.14.18-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@2.14.2-01
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@2.14.2-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@2.14.3-02
@@ -300,6 +302,18 @@
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.23.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.23.0-03
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.23.0-03?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.24.0-01
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.24.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.24.0-02
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.24.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.25.0-02
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.25.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.25.0-03
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.25.0-03?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.25.1-01
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.25.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.25.1-02
+- pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.25.1-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.3.0-01
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.3.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-plugin-api@3.3.1-01

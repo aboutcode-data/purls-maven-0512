@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE90?classifier=sources

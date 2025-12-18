@@ -1,0 +1,2 @@
+- pkg:maven/com.whatsapp.stringpacks/stringpacks@0.1.0?classifier=sources
+- pkg:maven/com.whatsapp.stringpacks/stringpacks@0.1.0?type=aar

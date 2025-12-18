@@ -30,6 +30,10 @@
 - pkg:maven/org.apache.activemq.examples.stomp/stomp-embedded-interceptor@2.11.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.stomp/stomp-embedded-interceptor@2.12.0
 - pkg:maven/org.apache.activemq.examples.stomp/stomp-embedded-interceptor@2.12.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.stomp/stomp-embedded-interceptor@2.13.0
+- pkg:maven/org.apache.activemq.examples.stomp/stomp-embedded-interceptor@2.13.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.stomp/stomp-embedded-interceptor@2.14.0
+- pkg:maven/org.apache.activemq.examples.stomp/stomp-embedded-interceptor@2.14.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.stomp/stomp-embedded-interceptor@2.2.0
 - pkg:maven/org.apache.activemq.examples.stomp/stomp-embedded-interceptor@2.2.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.stomp/stomp-embedded-interceptor@2.3.0

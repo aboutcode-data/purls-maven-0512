@@ -13,3 +13,7 @@
 - pkg:maven/dev.bluefalcon/library-android@0.6.4?classifier=sources
 - pkg:maven/dev.bluefalcon/library-android@0.6.5?classifier=sources
 - pkg:maven/dev.bluefalcon/library-android@0.6.6?classifier=sources
+- pkg:maven/dev.bluefalcon/library-android@0.6.8?classifier=sources
+- pkg:maven/dev.bluefalcon/library-android@0.6.9?classifier=sources
+- pkg:maven/dev.bluefalcon/library-android@0.7.0?classifier=sources
+- pkg:maven/dev.bluefalcon/library-android@0.7.1?classifier=sources

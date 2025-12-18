@@ -8,3 +8,9 @@
 - pkg:maven/cloud.piranha.http/piranha-http-grizzly@20.3.0?classifier=sources
 - pkg:maven/cloud.piranha.http/piranha-http-grizzly@20.4.0
 - pkg:maven/cloud.piranha.http/piranha-http-grizzly@20.4.0?classifier=sources
+- pkg:maven/cloud.piranha.http/piranha-http-grizzly@20.5.0
+- pkg:maven/cloud.piranha.http/piranha-http-grizzly@20.5.0?classifier=sources
+- pkg:maven/cloud.piranha.http/piranha-http-grizzly@20.6.0
+- pkg:maven/cloud.piranha.http/piranha-http-grizzly@20.6.0?classifier=sources
+- pkg:maven/cloud.piranha.http/piranha-http-grizzly@20.7.0
+- pkg:maven/cloud.piranha.http/piranha-http-grizzly@20.7.0?classifier=sources

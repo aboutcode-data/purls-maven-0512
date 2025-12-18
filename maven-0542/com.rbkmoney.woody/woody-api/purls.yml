@@ -1,0 +1,8 @@
+- pkg:maven/com.rbkmoney.woody/woody-api@1.1.19
+- pkg:maven/com.rbkmoney.woody/woody-api@1.1.19?classifier=sources
+- pkg:maven/com.rbkmoney.woody/woody-api@1.1.20
+- pkg:maven/com.rbkmoney.woody/woody-api@1.1.20?classifier=sources
+- pkg:maven/com.rbkmoney.woody/woody-api@1.1.21
+- pkg:maven/com.rbkmoney.woody/woody-api@1.1.21?classifier=sources
+- pkg:maven/com.rbkmoney.woody/woody-api@1.1.22
+- pkg:maven/com.rbkmoney.woody/woody-api@1.1.22?classifier=sources

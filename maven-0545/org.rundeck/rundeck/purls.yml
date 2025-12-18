@@ -73,3 +73,5 @@
 - pkg:maven/org.rundeck/rundeck@3.2.5-20200403?type=war
 - pkg:maven/org.rundeck/rundeck@3.2.6-20200427?classifier=sources
 - pkg:maven/org.rundeck/rundeck@3.2.6-20200427?type=war
+- pkg:maven/org.rundeck/rundeck@3.2.7-20200515?classifier=sources
+- pkg:maven/org.rundeck/rundeck@3.2.7-20200515?type=war

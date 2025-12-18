@@ -124,3 +124,7 @@
 - pkg:maven/com.google.cloud/google-cloud-containeranalysis@0.98.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-containeranalysis@0.99.0-beta
 - pkg:maven/com.google.cloud/google-cloud-containeranalysis@0.99.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.0.0
+- pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.0.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.1.0
+- pkg:maven/com.google.cloud/google-cloud-containeranalysis@1.1.0?classifier=sources

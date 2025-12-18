@@ -1,0 +1,7 @@
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.0.0?classifier=sources
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.0.1?classifier=sources
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.0.2?classifier=sources
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.0.3?classifier=sources
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.0.4?classifier=sources
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.1.0?classifier=sources
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.1.1?classifier=sources

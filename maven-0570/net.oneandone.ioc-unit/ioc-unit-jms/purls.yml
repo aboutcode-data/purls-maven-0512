@@ -1,0 +1,4 @@
+- pkg:maven/net.oneandone.ioc-unit/ioc-unit-jms@2.0.32
+- pkg:maven/net.oneandone.ioc-unit/ioc-unit-jms@2.0.32?classifier=sources
+- pkg:maven/net.oneandone.ioc-unit/ioc-unit-jms@2.0.33
+- pkg:maven/net.oneandone.ioc-unit/ioc-unit-jms@2.0.33?classifier=sources

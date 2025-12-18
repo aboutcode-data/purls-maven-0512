@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.jetty.websocket/websocket-jakarta-client@11.0.0-alpha0
+- pkg:maven/org.eclipse.jetty.websocket/websocket-jakarta-client@11.0.0-alpha0?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-jakarta-client@11.0.0.beta1
+- pkg:maven/org.eclipse.jetty.websocket/websocket-jakarta-client@11.0.0.beta1?classifier=sources

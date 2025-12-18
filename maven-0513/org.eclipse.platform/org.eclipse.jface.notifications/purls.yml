@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.jface.notifications@0.1.0
+- pkg:maven/org.eclipse.platform/org.eclipse.jface.notifications@0.1.0?classifier=sources

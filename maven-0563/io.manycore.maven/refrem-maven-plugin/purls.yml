@@ -1,0 +1,2 @@
+- pkg:maven/io.manycore.maven/refrem-maven-plugin@1.0
+- pkg:maven/io.manycore.maven/refrem-maven-plugin@1.0?classifier=sources

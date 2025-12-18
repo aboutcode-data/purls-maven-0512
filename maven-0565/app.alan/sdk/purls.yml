@@ -1,0 +1,14 @@
+- pkg:maven/app.alan/sdk@4.7.10?classifier=sources
+- pkg:maven/app.alan/sdk@4.7.10?type=aar
+- pkg:maven/app.alan/sdk@4.7.11?classifier=sources
+- pkg:maven/app.alan/sdk@4.7.11?type=aar
+- pkg:maven/app.alan/sdk@4.7.12?classifier=sources
+- pkg:maven/app.alan/sdk@4.7.12?type=aar
+- pkg:maven/app.alan/sdk@4.7.13?classifier=sources
+- pkg:maven/app.alan/sdk@4.7.13?type=aar
+- pkg:maven/app.alan/sdk@4.7.14?classifier=sources
+- pkg:maven/app.alan/sdk@4.7.14?type=aar
+- pkg:maven/app.alan/sdk@4.7.15?classifier=sources
+- pkg:maven/app.alan/sdk@4.7.15?type=aar
+- pkg:maven/app.alan/sdk@4.7.9?classifier=sources
+- pkg:maven/app.alan/sdk@4.7.9?type=aar

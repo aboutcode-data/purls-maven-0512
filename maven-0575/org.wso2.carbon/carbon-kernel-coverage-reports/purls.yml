@@ -19,6 +19,8 @@
 - pkg:maven/org.wso2.carbon/carbon-kernel-coverage-reports@5.2.0-m4?classifier=sources
 - pkg:maven/org.wso2.carbon/carbon-kernel-coverage-reports@5.2.0?classifier=sources
 - pkg:maven/org.wso2.carbon/carbon-kernel-coverage-reports@5.2.1
+- pkg:maven/org.wso2.carbon/carbon-kernel-coverage-reports@5.2.13
+- pkg:maven/org.wso2.carbon/carbon-kernel-coverage-reports@5.2.13?classifier=sources
 - pkg:maven/org.wso2.carbon/carbon-kernel-coverage-reports@5.2.1?classifier=sources
 - pkg:maven/org.wso2.carbon/carbon-kernel-coverage-reports@5.2.2
 - pkg:maven/org.wso2.carbon/carbon-kernel-coverage-reports@5.2.2?classifier=sources

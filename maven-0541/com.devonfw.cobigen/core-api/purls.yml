@@ -22,3 +22,5 @@
 - pkg:maven/com.devonfw.cobigen/core-api@6.0.0?classifier=sources
 - pkg:maven/com.devonfw.cobigen/core-api@6.1.0
 - pkg:maven/com.devonfw.cobigen/core-api@6.1.0?classifier=sources
+- pkg:maven/com.devonfw.cobigen/core-api@6.1.1
+- pkg:maven/com.devonfw.cobigen/core-api@6.1.1?classifier=sources

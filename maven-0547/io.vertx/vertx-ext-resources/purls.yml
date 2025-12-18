@@ -48,6 +48,8 @@
 - pkg:maven/io.vertx/vertx-ext-resources@33?classifier=sources
 - pkg:maven/io.vertx/vertx-ext-resources@34
 - pkg:maven/io.vertx/vertx-ext-resources@34?classifier=sources
+- pkg:maven/io.vertx/vertx-ext-resources@35
+- pkg:maven/io.vertx/vertx-ext-resources@35?classifier=sources
 - pkg:maven/io.vertx/vertx-ext-resources@4
 - pkg:maven/io.vertx/vertx-ext-resources@4?classifier=sources
 - pkg:maven/io.vertx/vertx-ext-resources@5

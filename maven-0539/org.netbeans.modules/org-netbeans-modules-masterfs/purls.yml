@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs@RELEASE90?classifier=sources

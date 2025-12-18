@@ -51,6 +51,16 @@
 - pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.19?classifier=sources
 - pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.1?classifier=sources
 - pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.2
+- pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.20
+- pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.20?classifier=sources
+- pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.21
+- pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.21?classifier=sources
+- pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.22
+- pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.22?classifier=sources
+- pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.23
+- pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.23?classifier=sources
+- pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.24
+- pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.24?classifier=sources
 - pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.2?classifier=sources
 - pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.4
 - pkg:maven/com.networknt/light-eventuate-4j-generator@1.6.4?classifier=sources

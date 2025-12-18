@@ -26,6 +26,8 @@
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@1.15?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@1.16?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@1.16?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@1.17?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@1.17?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@1.1?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@1.1?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@1.2.1?classifier=sources
@@ -64,3 +66,7 @@
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@1.9?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@2.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@2.0.0-M1?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@2.0.0-M2?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@2.0.0-M2?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@2.0.0-M3?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-noappconfig@2.0.0-M3?type=war

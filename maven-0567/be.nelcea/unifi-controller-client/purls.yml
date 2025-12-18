@@ -1,0 +1,2 @@
+- pkg:maven/be.nelcea/unifi-controller-client@0.0.3
+- pkg:maven/be.nelcea/unifi-controller-client@0.0.3?classifier=sources

@@ -98,3 +98,11 @@
 - pkg:maven/com.konghq/unirest-java@3.7.01?classifier=sources
 - pkg:maven/com.konghq/unirest-java@3.7.02
 - pkg:maven/com.konghq/unirest-java@3.7.02?classifier=sources
+- pkg:maven/com.konghq/unirest-java@3.7.03
+- pkg:maven/com.konghq/unirest-java@3.7.03?classifier=sources
+- pkg:maven/com.konghq/unirest-java@3.7.04
+- pkg:maven/com.konghq/unirest-java@3.7.04?classifier=sources
+- pkg:maven/com.konghq/unirest-java@3.8.00
+- pkg:maven/com.konghq/unirest-java@3.8.00?classifier=sources
+- pkg:maven/com.konghq/unirest-java@3.8.06
+- pkg:maven/com.konghq/unirest-java@3.8.06?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.optionfactory.spring/upstream-interceptor-micrometer@3.0
+- pkg:maven/net.optionfactory.spring/upstream-interceptor-micrometer@3.0?classifier=sources

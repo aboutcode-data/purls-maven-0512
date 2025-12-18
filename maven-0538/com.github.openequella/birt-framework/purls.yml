@@ -1,0 +1,4 @@
+- pkg:maven/com.github.openequella/birt-framework@4.6.0.20160607212201
+- pkg:maven/com.github.openequella/birt-framework@4.6.0.20160607212201?classifier=sources
+- pkg:maven/com.github.openequella/birt-framework@4.6.0.20160607212202
+- pkg:maven/com.github.openequella/birt-framework@4.6.0.20160607212202?classifier=sources

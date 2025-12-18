@@ -20,3 +20,7 @@
 - pkg:maven/com.gerritforge/events-broker@3.1.3?classifier=sources
 - pkg:maven/com.gerritforge/events-broker@3.1.4
 - pkg:maven/com.gerritforge/events-broker@3.1.4?classifier=sources
+- pkg:maven/com.gerritforge/events-broker@3.2.0-rc1
+- pkg:maven/com.gerritforge/events-broker@3.2.0-rc1?classifier=sources
+- pkg:maven/com.gerritforge/events-broker@3.2.0-rc4
+- pkg:maven/com.gerritforge/events-broker@3.2.0-rc4?classifier=sources

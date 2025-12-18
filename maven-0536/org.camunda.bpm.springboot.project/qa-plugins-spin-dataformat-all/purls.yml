@@ -1,5 +1,10 @@
 - pkg:maven/org.camunda.bpm.springboot.project/qa-plugins-spin-dataformat-all@3.4.0
 - pkg:maven/org.camunda.bpm.springboot.project/qa-plugins-spin-dataformat-all@3.4.1
 - pkg:maven/org.camunda.bpm.springboot.project/qa-plugins-spin-dataformat-all@3.4.2
+- pkg:maven/org.camunda.bpm.springboot.project/qa-plugins-spin-dataformat-all@3.4.3
+- pkg:maven/org.camunda.bpm.springboot.project/qa-plugins-spin-dataformat-all@3.4.4
+- pkg:maven/org.camunda.bpm.springboot.project/qa-plugins-spin-dataformat-all@7.13.0
 - pkg:maven/org.camunda.bpm.springboot.project/qa-plugins-spin-dataformat-all@7.13.0-alpha3
 - pkg:maven/org.camunda.bpm.springboot.project/qa-plugins-spin-dataformat-all@7.13.0-alpha4
+- pkg:maven/org.camunda.bpm.springboot.project/qa-plugins-spin-dataformat-all@7.13.0-alpha5
+- pkg:maven/org.camunda.bpm.springboot.project/qa-plugins-spin-dataformat-all@7.14.0-alpha1

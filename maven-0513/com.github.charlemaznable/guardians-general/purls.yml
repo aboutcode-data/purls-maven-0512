@@ -60,3 +60,7 @@
 - pkg:maven/com.github.charlemaznable/guardians-general@0.6.2?classifier=sources
 - pkg:maven/com.github.charlemaznable/guardians-general@0.6.3
 - pkg:maven/com.github.charlemaznable/guardians-general@0.6.3?classifier=sources
+- pkg:maven/com.github.charlemaznable/guardians-general@0.6.4
+- pkg:maven/com.github.charlemaznable/guardians-general@0.6.4?classifier=sources
+- pkg:maven/com.github.charlemaznable/guardians-general@0.6.5
+- pkg:maven/com.github.charlemaznable/guardians-general@0.6.5?classifier=sources

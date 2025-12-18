@@ -4,3 +4,5 @@
 - pkg:maven/net.exoego/scalajs-jquery2_sjs0.6_2.11@1%2C0%2C0?classifier=sources
 - pkg:maven/net.exoego/scalajs-jquery2_sjs0.6_2.11@1.0.0
 - pkg:maven/net.exoego/scalajs-jquery2_sjs0.6_2.11@1.0.0?classifier=sources
+- pkg:maven/net.exoego/scalajs-jquery2_sjs0.6_2.11@2.0.0
+- pkg:maven/net.exoego/scalajs-jquery2_sjs0.6_2.11@2.0.0?classifier=sources

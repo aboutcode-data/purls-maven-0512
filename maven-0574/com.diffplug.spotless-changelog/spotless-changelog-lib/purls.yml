@@ -10,3 +10,5 @@
 - pkg:maven/com.diffplug.spotless-changelog/spotless-changelog-lib@1.0.0?classifier=sources
 - pkg:maven/com.diffplug.spotless-changelog/spotless-changelog-lib@1.1.0
 - pkg:maven/com.diffplug.spotless-changelog/spotless-changelog-lib@1.1.0?classifier=sources
+- pkg:maven/com.diffplug.spotless-changelog/spotless-changelog-lib@2.0.0
+- pkg:maven/com.diffplug.spotless-changelog/spotless-changelog-lib@2.0.0?classifier=sources

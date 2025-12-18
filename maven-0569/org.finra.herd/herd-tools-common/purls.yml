@@ -38,6 +38,14 @@
 - pkg:maven/org.finra.herd/herd-tools-common@0.119.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-tools-common@0.120.0
 - pkg:maven/org.finra.herd/herd-tools-common@0.120.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-tools-common@0.122.0
+- pkg:maven/org.finra.herd/herd-tools-common@0.122.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-tools-common@0.123.0
+- pkg:maven/org.finra.herd/herd-tools-common@0.123.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-tools-common@0.124.0
+- pkg:maven/org.finra.herd/herd-tools-common@0.124.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-tools-common@0.125.0
+- pkg:maven/org.finra.herd/herd-tools-common@0.125.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-tools-common@0.20.0
 - pkg:maven/org.finra.herd/herd-tools-common@0.20.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-tools-common@0.21.0

@@ -1,0 +1,2 @@
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-web@1.107.0?classifier=sources
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-web@1.107.0?type=war

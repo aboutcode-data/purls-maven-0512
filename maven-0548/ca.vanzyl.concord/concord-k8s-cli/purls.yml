@@ -1,0 +1,1 @@
+- pkg:maven/ca.vanzyl.concord/concord-k8s-cli@1.0.0?classifier=sources

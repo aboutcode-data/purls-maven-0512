@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-snaptracer@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-snaptracer@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-snaptracer@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-snaptracer@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-snaptracer@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-snaptracer@RELEASE90?classifier=sources

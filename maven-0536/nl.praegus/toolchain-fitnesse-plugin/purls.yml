@@ -48,3 +48,13 @@
 - pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.2?classifier=sources
 - pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.3
 - pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.3?classifier=sources
+- pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.4
+- pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.4?classifier=sources
+- pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.5-TEST
+- pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.5-TEST?classifier=sources
+- pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.6
+- pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.6?classifier=sources
+- pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.8
+- pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.8?classifier=sources
+- pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.9
+- pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.9?classifier=sources

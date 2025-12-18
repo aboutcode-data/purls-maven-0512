@@ -4,3 +4,5 @@
 - pkg:maven/com.linecorp.decaton/decaton-protobuf@0.0.35?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-protobuf@0.0.36
 - pkg:maven/com.linecorp.decaton/decaton-protobuf@0.0.36?classifier=sources
+- pkg:maven/com.linecorp.decaton/decaton-protobuf@0.0.38
+- pkg:maven/com.linecorp.decaton/decaton-protobuf@0.0.38?classifier=sources

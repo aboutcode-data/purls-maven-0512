@@ -1,0 +1,2 @@
+- pkg:maven/com.hortonworks.registries/schema-registry-ranger-authorizer@0.9.0
+- pkg:maven/com.hortonworks.registries/schema-registry-ranger-authorizer@0.9.0?classifier=sources

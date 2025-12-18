@@ -1,0 +1,2 @@
+- pkg:maven/com.syntaxphoenix.syntaxapi/command@2.0.1
+- pkg:maven/com.syntaxphoenix.syntaxapi/command@2.0.1?classifier=sources

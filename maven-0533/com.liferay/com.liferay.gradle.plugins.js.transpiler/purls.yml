@@ -263,6 +263,10 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.52?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.53
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.53?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.54
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.54?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.55
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.js.transpiler@2.4.6

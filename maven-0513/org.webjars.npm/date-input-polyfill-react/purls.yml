@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/date-input-polyfill-react@2.14.4
+- pkg:maven/org.webjars.npm/date-input-polyfill-react@2.14.4?classifier=sources

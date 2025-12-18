@@ -333,6 +333,15 @@
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@8.15?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@8.16
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@8.16?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@8.17
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@8.17.1
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@8.17.1?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@8.17?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@8.18
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@8.18.1?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@8.18?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@8.19
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@8.19?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@8.1?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@8.2
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@8.2.1

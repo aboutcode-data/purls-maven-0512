@@ -1,0 +1,10 @@
+- pkg:maven/org.openrewrite/rewrite-java-8@2.0.0
+- pkg:maven/org.openrewrite/rewrite-java-8@2.0.0-rc.10
+- pkg:maven/org.openrewrite/rewrite-java-8@2.0.0-rc.10?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-8@2.0.0-rc.11
+- pkg:maven/org.openrewrite/rewrite-java-8@2.0.0-rc.11?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-8@2.0.0-rc.12
+- pkg:maven/org.openrewrite/rewrite-java-8@2.0.0-rc.12?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-8@2.0.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-8@2.0.1
+- pkg:maven/org.openrewrite/rewrite-java-8@2.0.1?classifier=sources

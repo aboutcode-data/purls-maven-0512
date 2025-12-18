@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables@1.10.19?classifier=sources
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables@1.10.20
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables@1.10.20?classifier=sources
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables@1.10.21
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables@1.10.21?classifier=sources

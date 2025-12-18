@@ -1,0 +1,2 @@
+- pkg:maven/com.github.snchengqi/http2-qing-core@1.0.1
+- pkg:maven/com.github.snchengqi/http2-qing-core@1.0.1?classifier=sources

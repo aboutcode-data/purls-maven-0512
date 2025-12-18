@@ -22,3 +22,5 @@
 - pkg:maven/org.perfmon4j/perfmon4j-webapp@1.4.2?type=war
 - pkg:maven/org.perfmon4j/perfmon4j-webapp@1.4.3?classifier=sources
 - pkg:maven/org.perfmon4j/perfmon4j-webapp@1.4.3?type=war
+- pkg:maven/org.perfmon4j/perfmon4j-webapp@1.5.0?classifier=sources
+- pkg:maven/org.perfmon4j/perfmon4j-webapp@1.5.0?type=war

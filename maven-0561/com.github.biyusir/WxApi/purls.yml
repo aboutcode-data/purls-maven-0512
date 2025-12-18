@@ -1,0 +1,2 @@
+- pkg:maven/com.github.biyusir/WxApi@1.0
+- pkg:maven/com.github.biyusir/WxApi@1.0?classifier=sources

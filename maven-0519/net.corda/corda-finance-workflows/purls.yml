@@ -4,3 +4,5 @@
 - pkg:maven/net.corda/corda-finance-workflows@4.3?classifier=sources
 - pkg:maven/net.corda/corda-finance-workflows@4.4
 - pkg:maven/net.corda/corda-finance-workflows@4.4?classifier=sources
+- pkg:maven/net.corda/corda-finance-workflows@4.5
+- pkg:maven/net.corda/corda-finance-workflows@4.5?classifier=sources

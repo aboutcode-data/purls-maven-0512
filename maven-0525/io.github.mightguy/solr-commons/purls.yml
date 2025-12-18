@@ -1,0 +1,4 @@
+- pkg:maven/io.github.mightguy/solr-commons@1.2.32
+- pkg:maven/io.github.mightguy/solr-commons@1.2.32?classifier=sources
+- pkg:maven/io.github.mightguy/solr-commons@1.2.34
+- pkg:maven/io.github.mightguy/solr-commons@1.2.34?classifier=sources

@@ -154,3 +154,7 @@
 - pkg:maven/org.commonjava.indy.tools/indy-assemblies@1.9.9?classifier=sources
 - pkg:maven/org.commonjava.indy.tools/indy-assemblies@2.0.0
 - pkg:maven/org.commonjava.indy.tools/indy-assemblies@2.0.0?classifier=sources
+- pkg:maven/org.commonjava.indy.tools/indy-assemblies@2.2.0
+- pkg:maven/org.commonjava.indy.tools/indy-assemblies@2.2.0?classifier=sources
+- pkg:maven/org.commonjava.indy.tools/indy-assemblies@2.3.0
+- pkg:maven/org.commonjava.indy.tools/indy-assemblies@2.3.0?classifier=sources

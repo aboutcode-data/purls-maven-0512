@@ -204,6 +204,8 @@
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.565?classifier=sources
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.570
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.570?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.572
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.572?classifier=sources
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.579
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.579?classifier=sources
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.584
@@ -270,3 +272,17 @@
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.683?classifier=sources
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.686
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.686?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.687
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.687?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.704
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.704?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.706
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.706?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.709
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.709?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.726
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.726?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.728
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.728?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.734
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@2.1.734?classifier=sources

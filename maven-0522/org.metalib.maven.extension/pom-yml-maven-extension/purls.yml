@@ -1,0 +1,4 @@
+- pkg:maven/org.metalib.maven.extension/pom-yml-maven-extension@0.0.10
+- pkg:maven/org.metalib.maven.extension/pom-yml-maven-extension@0.0.10?classifier=sources
+- pkg:maven/org.metalib.maven.extension/pom-yml-maven-extension@0.0.11
+- pkg:maven/org.metalib.maven.extension/pom-yml-maven-extension@0.0.11?classifier=sources

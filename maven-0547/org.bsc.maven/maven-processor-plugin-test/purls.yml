@@ -1,0 +1,6 @@
+- pkg:maven/org.bsc.maven/maven-processor-plugin-test@4.0-jdk8
+- pkg:maven/org.bsc.maven/maven-processor-plugin-test@4.0-jdk8?classifier=sources
+- pkg:maven/org.bsc.maven/maven-processor-plugin-test@4.1
+- pkg:maven/org.bsc.maven/maven-processor-plugin-test@4.1-jdk8
+- pkg:maven/org.bsc.maven/maven-processor-plugin-test@4.1-jdk8?classifier=sources
+- pkg:maven/org.bsc.maven/maven-processor-plugin-test@4.1?classifier=sources

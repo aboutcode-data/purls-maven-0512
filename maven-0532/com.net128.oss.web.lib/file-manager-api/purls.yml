@@ -1,0 +1,2 @@
+- pkg:maven/com.net128.oss.web.lib/file-manager-api@0.1.7
+- pkg:maven/com.net128.oss.web.lib/file-manager-api@0.1.7?classifier=sources

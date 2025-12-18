@@ -2,9 +2,15 @@
 - pkg:maven/org.xbib/elx-common@2.2.1.10?classifier=sources
 - pkg:maven/org.xbib/elx-common@2.2.1.13
 - pkg:maven/org.xbib/elx-common@2.2.1.13?classifier=sources
+- pkg:maven/org.xbib/elx-common@2.2.1.17?classifier=sources
+- pkg:maven/org.xbib/elx-common@2.2.1.19?classifier=sources
 - pkg:maven/org.xbib/elx-common@2.2.1.7
 - pkg:maven/org.xbib/elx-common@2.2.1.7?classifier=sources
 - pkg:maven/org.xbib/elx-common@2.2.1.8
 - pkg:maven/org.xbib/elx-common@2.2.1.8?classifier=sources
 - pkg:maven/org.xbib/elx-common@6.3.2.1
 - pkg:maven/org.xbib/elx-common@6.3.2.1?classifier=sources
+- pkg:maven/org.xbib/elx-common@6.3.2.6?classifier=sources
+- pkg:maven/org.xbib/elx-common@6.3.2.7?classifier=sources
+- pkg:maven/org.xbib/elx-common@6.3.2.8?classifier=sources
+- pkg:maven/org.xbib/elx-common@7.6.1.1?classifier=sources

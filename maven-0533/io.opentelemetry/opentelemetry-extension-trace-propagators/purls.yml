@@ -1,0 +1,2 @@
+- pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.6.0
+- pkg:maven/io.opentelemetry/opentelemetry-extension-trace-propagators@0.6.0?classifier=sources

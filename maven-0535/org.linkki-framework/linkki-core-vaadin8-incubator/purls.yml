@@ -1,6 +1,10 @@
+- pkg:maven/org.linkki-framework/linkki-core-vaadin8-incubator@1.2.0
 - pkg:maven/org.linkki-framework/linkki-core-vaadin8-incubator@1.2.0-m01
 - pkg:maven/org.linkki-framework/linkki-core-vaadin8-incubator@1.2.0-m01?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-core-vaadin8-incubator@1.2.0-m02
 - pkg:maven/org.linkki-framework/linkki-core-vaadin8-incubator@1.2.0-m02?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-core-vaadin8-incubator@1.2.0-rc01
 - pkg:maven/org.linkki-framework/linkki-core-vaadin8-incubator@1.2.0-rc01?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-core-vaadin8-incubator@1.2.0-rc02
+- pkg:maven/org.linkki-framework/linkki-core-vaadin8-incubator@1.2.0-rc02?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-core-vaadin8-incubator@1.2.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/io.tekniq/tekniq-cache@0.10.0
+- pkg:maven/io.tekniq/tekniq-cache@0.10.0?classifier=sources
 - pkg:maven/io.tekniq/tekniq-cache@0.7
 - pkg:maven/io.tekniq/tekniq-cache@0.7.1
 - pkg:maven/io.tekniq/tekniq-cache@0.7.1?classifier=sources

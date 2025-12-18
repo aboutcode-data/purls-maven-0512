@@ -1,0 +1,2 @@
+- pkg:maven/com.raelity.logman/simple-val-fix@2.2
+- pkg:maven/com.raelity.logman/simple-val-fix@2.2?classifier=sources

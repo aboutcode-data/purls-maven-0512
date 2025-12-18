@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/minio@7.0.16
+- pkg:maven/org.webjars.npm/minio@7.0.16?classifier=sources

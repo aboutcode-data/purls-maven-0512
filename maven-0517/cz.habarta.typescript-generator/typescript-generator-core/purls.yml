@@ -130,6 +130,10 @@
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-core@2.21.588?classifier=sources
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-core@2.22.595
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-core@2.22.595?classifier=sources
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-core@2.23.603
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-core@2.23.603?classifier=sources
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-core@2.24.612
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-core@2.24.612?classifier=sources
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-core@2.3.415
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-core@2.3.415?classifier=sources
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-core@2.4.418

@@ -1,0 +1,4 @@
+- pkg:maven/net.pwall.json/json-kotlin-pointer@0.1
+- pkg:maven/net.pwall.json/json-kotlin-pointer@0.1?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-pointer@0.2
+- pkg:maven/net.pwall.json/json-kotlin-pointer@0.2?classifier=sources

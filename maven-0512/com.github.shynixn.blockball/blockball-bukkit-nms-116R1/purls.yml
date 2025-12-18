@@ -1,0 +1,4 @@
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-116R1@6.17.0
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-116R1@6.17.0?classifier=sources
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-116R1@6.18.0
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-116R1@6.18.0?classifier=sources

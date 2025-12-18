@@ -24,3 +24,5 @@
 - pkg:maven/com.gitlab.haynes/libsass-maven-plugin@0.2.22?classifier=sources
 - pkg:maven/com.gitlab.haynes/libsass-maven-plugin@0.2.23
 - pkg:maven/com.gitlab.haynes/libsass-maven-plugin@0.2.23?classifier=sources
+- pkg:maven/com.gitlab.haynes/libsass-maven-plugin@0.2.24
+- pkg:maven/com.gitlab.haynes/libsass-maven-plugin@0.2.24?classifier=sources

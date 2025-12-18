@@ -1,2 +1,6 @@
 - pkg:maven/com.dimafeng/testcontainers-scala-munit_2.13@0.37.0
 - pkg:maven/com.dimafeng/testcontainers-scala-munit_2.13@0.37.0?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-munit_2.13@0.38.0
+- pkg:maven/com.dimafeng/testcontainers-scala-munit_2.13@0.38.0?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-munit_2.13@0.38.1
+- pkg:maven/com.dimafeng/testcontainers-scala-munit_2.13@0.38.1?classifier=sources
