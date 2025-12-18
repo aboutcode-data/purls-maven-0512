@@ -1,0 +1,4 @@
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@0.9.7
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@0.9.7?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@0.9.8
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@0.9.8?classifier=sources

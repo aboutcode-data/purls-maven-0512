@@ -58,3 +58,5 @@
 - pkg:maven/com.microsoft.azure/azure-storage@8.2.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-storage@8.3.0
 - pkg:maven/com.microsoft.azure/azure-storage@8.3.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-storage@8.4.0
+- pkg:maven/com.microsoft.azure/azure-storage@8.4.0?classifier=sources

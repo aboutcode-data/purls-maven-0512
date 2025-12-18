@@ -2,6 +2,8 @@
 - pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.1541aa6?classifier=sources
 - pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.17a16db
 - pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.17a16db?classifier=sources
+- pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.1e2f74a
+- pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.1e2f74a?classifier=sources
 - pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.1fafd1d
 - pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.1fafd1d?classifier=sources
 - pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.3c15bd3
@@ -20,5 +22,7 @@
 - pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.d0c1b16?classifier=sources
 - pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.d721633
 - pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.d721633?classifier=sources
+- pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.db14d34
+- pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.db14d34?classifier=sources
 - pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.eff3069
 - pkg:maven/no.nav.helse.sykepenger.lovverk/sykepenger-beregning@2018-12-20-101.eff3069?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/org.kill-bill.billing.plugin.java/bridge-plugin@0.1.2?classifier=sources
 - pkg:maven/org.kill-bill.billing.plugin.java/bridge-plugin@0.2.0
 - pkg:maven/org.kill-bill.billing.plugin.java/bridge-plugin@0.2.0?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin.java/bridge-plugin@0.2.1
+- pkg:maven/org.kill-bill.billing.plugin.java/bridge-plugin@0.2.1?classifier=sources

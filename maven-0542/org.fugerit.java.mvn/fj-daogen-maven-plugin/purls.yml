@@ -1,0 +1,2 @@
+- pkg:maven/org.fugerit.java.mvn/fj-daogen-maven-plugin@0.1.5
+- pkg:maven/org.fugerit.java.mvn/fj-daogen-maven-plugin@0.1.5?classifier=sources

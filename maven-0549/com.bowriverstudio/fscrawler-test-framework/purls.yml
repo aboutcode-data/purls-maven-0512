@@ -1,0 +1,2 @@
+- pkg:maven/com.bowriverstudio/fscrawler-test-framework@2.6
+- pkg:maven/com.bowriverstudio/fscrawler-test-framework@2.6?classifier=sources

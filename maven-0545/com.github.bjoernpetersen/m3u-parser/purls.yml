@@ -1,0 +1,6 @@
+- pkg:maven/com.github.bjoernpetersen/m3u-parser@0.1.0
+- pkg:maven/com.github.bjoernpetersen/m3u-parser@0.1.0?classifier=sources
+- pkg:maven/com.github.bjoernpetersen/m3u-parser@0.2.0
+- pkg:maven/com.github.bjoernpetersen/m3u-parser@0.2.0?classifier=sources
+- pkg:maven/com.github.bjoernpetersen/m3u-parser@1.0.0
+- pkg:maven/com.github.bjoernpetersen/m3u-parser@1.0.0?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-parsing-indexing@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-parsing-indexing@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-parsing-indexing@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-parsing-indexing@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-parsing-indexing@RELEASE90?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@1.6.0
+- pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@1.6.0?classifier=sources
+- pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@1.7.0
+- pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@1.7.0?classifier=sources
+- pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@2.0.0
+- pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@2.0.0?classifier=sources
+- pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@2.1.0
+- pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@2.1.0?classifier=sources
+- pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@2.2.0
+- pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@2.2.0?classifier=sources

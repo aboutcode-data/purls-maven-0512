@@ -6,3 +6,5 @@
 - pkg:maven/com.jsunsoft.util/concurrent@0.0.1-alpha2
 - pkg:maven/com.jsunsoft.util/concurrent@0.0.1-alpha2?classifier=sources
 - pkg:maven/com.jsunsoft.util/concurrent@0.0.1?classifier=sources
+- pkg:maven/com.jsunsoft.util/concurrent@0.0.2
+- pkg:maven/com.jsunsoft.util/concurrent@0.0.2?classifier=sources

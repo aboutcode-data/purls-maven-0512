@@ -1,2 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-model@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-model@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-model@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-model@RELEASE112?classifier=sources

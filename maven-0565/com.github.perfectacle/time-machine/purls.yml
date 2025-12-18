@@ -1,0 +1,2 @@
+- pkg:maven/com.github.perfectacle/time-machine@1.0.0
+- pkg:maven/com.github.perfectacle/time-machine@1.0.0?classifier=sources

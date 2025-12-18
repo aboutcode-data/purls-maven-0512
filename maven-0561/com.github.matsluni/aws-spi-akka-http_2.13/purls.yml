@@ -1,2 +1,4 @@
 - pkg:maven/com.github.matsluni/aws-spi-akka-http_2.13@0.0.7
 - pkg:maven/com.github.matsluni/aws-spi-akka-http_2.13@0.0.7?classifier=sources
+- pkg:maven/com.github.matsluni/aws-spi-akka-http_2.13@0.0.8
+- pkg:maven/com.github.matsluni/aws-spi-akka-http_2.13@0.0.8?classifier=sources

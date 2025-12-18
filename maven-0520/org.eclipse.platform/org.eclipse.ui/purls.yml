@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui@3.112.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui@3.113.0
 - pkg:maven/org.eclipse.platform/org.eclipse.ui@3.113.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui@3.114.0
+- pkg:maven/org.eclipse.platform/org.eclipse.ui@3.114.0?classifier=sources

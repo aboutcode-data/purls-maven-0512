@@ -22,6 +22,10 @@
 - pkg:maven/org.kie.workbench.playground/curriculumcourse@7.22.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/curriculumcourse@7.23.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/curriculumcourse@7.24.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/curriculumcourse@7.25.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/curriculumcourse@7.26.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/curriculumcourse@7.27.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/curriculumcourse@7.28.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/curriculumcourse@7.3.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/curriculumcourse@7.4.1.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/curriculumcourse@7.5.0.Final?classifier=sources

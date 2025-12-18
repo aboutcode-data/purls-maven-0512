@@ -12,3 +12,9 @@
 - pkg:maven/io.github.resilience4j/resilience4j-spring@0.15.0?classifier=sources
 - pkg:maven/io.github.resilience4j/resilience4j-spring@0.16.0
 - pkg:maven/io.github.resilience4j/resilience4j-spring@0.16.0?classifier=sources
+- pkg:maven/io.github.resilience4j/resilience4j-spring@0.17.0
+- pkg:maven/io.github.resilience4j/resilience4j-spring@0.17.0?classifier=sources
+- pkg:maven/io.github.resilience4j/resilience4j-spring@1.0.0
+- pkg:maven/io.github.resilience4j/resilience4j-spring@1.0.0?classifier=sources
+- pkg:maven/io.github.resilience4j/resilience4j-spring@1.1.0
+- pkg:maven/io.github.resilience4j/resilience4j-spring@1.1.0?classifier=sources

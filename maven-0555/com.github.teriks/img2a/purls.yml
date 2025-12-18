@@ -1,0 +1,2 @@
+- pkg:maven/com.github.teriks/img2a@1.2.3
+- pkg:maven/com.github.teriks/img2a@1.2.3?classifier=sources

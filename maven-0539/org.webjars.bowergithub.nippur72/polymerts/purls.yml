@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.nippur72/polymerts@0.1.29
 - pkg:maven/org.webjars.bowergithub.nippur72/polymerts@0.1.29?classifier=sources
+- pkg:maven/org.webjars.bowergithub.nippur72/polymerts@0.2.3
+- pkg:maven/org.webjars.bowergithub.nippur72/polymerts@0.2.3?classifier=sources

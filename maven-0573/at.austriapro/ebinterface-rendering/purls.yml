@@ -1,0 +1,2 @@
+- pkg:maven/at.austriapro/ebinterface-rendering@1.0.0
+- pkg:maven/at.austriapro/ebinterface-rendering@1.0.0?classifier=sources

@@ -61,6 +61,8 @@
 - pkg:maven/com.microsoft.azure/azure-servicebus@1.2.14?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-servicebus@1.2.15
 - pkg:maven/com.microsoft.azure/azure-servicebus@1.2.15?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-servicebus@1.2.16
+- pkg:maven/com.microsoft.azure/azure-servicebus@1.2.16?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-servicebus@1.2.2-PREVIEW
 - pkg:maven/com.microsoft.azure/azure-servicebus@1.2.2-PREVIEW?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-servicebus@1.2.3-PREVIEW
@@ -93,3 +95,9 @@
 - pkg:maven/com.microsoft.azure/azure-servicebus@2.0.0-preview2
 - pkg:maven/com.microsoft.azure/azure-servicebus@2.0.0-preview2?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-servicebus@2.0.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-servicebus@3.0.0
+- pkg:maven/com.microsoft.azure/azure-servicebus@3.0.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-servicebus@3.1.0
+- pkg:maven/com.microsoft.azure/azure-servicebus@3.1.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-servicebus@3.1.1
+- pkg:maven/com.microsoft.azure/azure-servicebus@3.1.1?classifier=sources

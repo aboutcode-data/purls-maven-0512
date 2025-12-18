@@ -1,0 +1,2 @@
+- pkg:maven/de.acosix.alfresco.rest.client/de.acosix.alfresco.rest.client@0.1.0
+- pkg:maven/de.acosix.alfresco.rest.client/de.acosix.alfresco.rest.client@0.1.0?classifier=sources

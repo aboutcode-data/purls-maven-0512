@@ -2,5 +2,9 @@
 - pkg:maven/com.rolfje.anonimatron/anonimatron@1.10.0?classifier=sources
 - pkg:maven/com.rolfje.anonimatron/anonimatron@1.10.1
 - pkg:maven/com.rolfje.anonimatron/anonimatron@1.10.1?classifier=sources
+- pkg:maven/com.rolfje.anonimatron/anonimatron@1.11
+- pkg:maven/com.rolfje.anonimatron/anonimatron@1.11.1
+- pkg:maven/com.rolfje.anonimatron/anonimatron@1.11.1?classifier=sources
+- pkg:maven/com.rolfje.anonimatron/anonimatron@1.11?classifier=sources
 - pkg:maven/com.rolfje.anonimatron/anonimatron@1.9.3
 - pkg:maven/com.rolfje.anonimatron/anonimatron@1.9.3?classifier=sources

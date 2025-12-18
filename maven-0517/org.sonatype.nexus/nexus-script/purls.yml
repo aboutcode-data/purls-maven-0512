@@ -34,6 +34,12 @@
 - pkg:maven/org.sonatype.nexus/nexus-script@3.17.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-script@3.18.0-01
 - pkg:maven/org.sonatype.nexus/nexus-script@3.18.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-script@3.18.1-01
+- pkg:maven/org.sonatype.nexus/nexus-script@3.18.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-script@3.19.0-01
+- pkg:maven/org.sonatype.nexus/nexus-script@3.19.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-script@3.19.1-01
+- pkg:maven/org.sonatype.nexus/nexus-script@3.19.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-script@3.2.0-01
 - pkg:maven/org.sonatype.nexus/nexus-script@3.2.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-script@3.2.1-01

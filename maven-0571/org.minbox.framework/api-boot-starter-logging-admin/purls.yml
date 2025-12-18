@@ -1,1 +1,5 @@
 - pkg:maven/org.minbox.framework/api-boot-starter-logging-admin@2.1.2.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-starter-logging-admin@2.1.3.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-starter-logging-admin@2.1.4-RC1
+- pkg:maven/org.minbox.framework/api-boot-starter-logging-admin@2.1.4-RC2
+- pkg:maven/org.minbox.framework/api-boot-starter-logging-admin@2.1.4.RELEASE

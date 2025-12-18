@@ -12,3 +12,5 @@
 - pkg:maven/org.sonarsource.update-center/sonar-update-center-mojo@1.21.0.561?classifier=sources
 - pkg:maven/org.sonarsource.update-center/sonar-update-center-mojo@1.22.0.644
 - pkg:maven/org.sonarsource.update-center/sonar-update-center-mojo@1.22.0.644?classifier=sources
+- pkg:maven/org.sonarsource.update-center/sonar-update-center-mojo@1.23.0.723
+- pkg:maven/org.sonarsource.update-center/sonar-update-center-mojo@1.23.0.723?classifier=sources

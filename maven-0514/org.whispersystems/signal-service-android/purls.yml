@@ -17,6 +17,12 @@
 - pkg:maven/org.whispersystems/signal-service-android@2.13.4?type=aar
 - pkg:maven/org.whispersystems/signal-service-android@2.13.5?type=aar
 - pkg:maven/org.whispersystems/signal-service-android@2.13.6?type=aar
+- pkg:maven/org.whispersystems/signal-service-android@2.13.7?type=aar
+- pkg:maven/org.whispersystems/signal-service-android@2.13.8?type=aar
+- pkg:maven/org.whispersystems/signal-service-android@2.13.9?type=aar
+- pkg:maven/org.whispersystems/signal-service-android@2.14.0?type=aar
+- pkg:maven/org.whispersystems/signal-service-android@2.15.0?type=aar
+- pkg:maven/org.whispersystems/signal-service-android@2.15.1?type=aar
 - pkg:maven/org.whispersystems/signal-service-android@2.2.0?type=aar
 - pkg:maven/org.whispersystems/signal-service-android@2.3.0?type=aar
 - pkg:maven/org.whispersystems/signal-service-android@2.3.1?type=aar

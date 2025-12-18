@@ -11,3 +11,4 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.totp/identity-outbound-auth-totp@2.0.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.totp/identity-outbound-auth-totp@2.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.totp/identity-outbound-auth-totp@2.0.9?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.totp/identity-outbound-auth-totp@2.1.5?classifier=source-release&type=zip

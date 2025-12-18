@@ -1,3 +1,5 @@
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@10.10.0
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@10.10.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@10.4.0
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@10.4.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@10.5.0
@@ -34,6 +36,8 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.4.22?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.4.23
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.4.23?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.4.24
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.4.24?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.5.13
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.5.13?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.5.14
@@ -48,6 +52,8 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.5.17?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.5.18
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.5.18?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.5.19
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.5.19?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.6.10
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.6.10-1
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.6.10-1?classifier=sources
@@ -60,5 +66,7 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.6.13?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.6.14
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.6.14?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.6.15
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.6.15?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.6.9
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-windows-i386@9.6.9?classifier=sources

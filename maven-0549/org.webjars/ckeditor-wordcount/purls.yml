@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars/ckeditor-wordcount@1.17.2
 - pkg:maven/org.webjars/ckeditor-wordcount@1.17.3
 - pkg:maven/org.webjars/ckeditor-wordcount@1.17.4
+- pkg:maven/org.webjars/ckeditor-wordcount@1.17.6

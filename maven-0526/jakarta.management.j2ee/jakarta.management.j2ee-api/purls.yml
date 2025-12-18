@@ -1,2 +1,4 @@
 - pkg:maven/jakarta.management.j2ee/jakarta.management.j2ee-api@1.1.3
 - pkg:maven/jakarta.management.j2ee/jakarta.management.j2ee-api@1.1.3?classifier=sources
+- pkg:maven/jakarta.management.j2ee/jakarta.management.j2ee-api@1.1.4
+- pkg:maven/jakarta.management.j2ee/jakarta.management.j2ee-api@1.1.4?classifier=sources

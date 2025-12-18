@@ -36,3 +36,5 @@
 - pkg:maven/com.datto/flow-testkit_2.11@1.9.2?classifier=sources
 - pkg:maven/com.datto/flow-testkit_2.11@2.0.0
 - pkg:maven/com.datto/flow-testkit_2.11@2.0.0?classifier=sources
+- pkg:maven/com.datto/flow-testkit_2.11@2.0.1
+- pkg:maven/com.datto/flow-testkit_2.11@2.0.1?classifier=sources

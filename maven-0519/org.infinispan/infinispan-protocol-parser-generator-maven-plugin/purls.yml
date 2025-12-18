@@ -36,6 +36,8 @@
 - pkg:maven/org.infinispan/infinispan-protocol-parser-generator-maven-plugin@9.4.14.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-protocol-parser-generator-maven-plugin@9.4.15.Final
 - pkg:maven/org.infinispan/infinispan-protocol-parser-generator-maven-plugin@9.4.15.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-protocol-parser-generator-maven-plugin@9.4.16.Final
+- pkg:maven/org.infinispan/infinispan-protocol-parser-generator-maven-plugin@9.4.16.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-protocol-parser-generator-maven-plugin@9.4.2.Final
 - pkg:maven/org.infinispan/infinispan-protocol-parser-generator-maven-plugin@9.4.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-protocol-parser-generator-maven-plugin@9.4.3.Final

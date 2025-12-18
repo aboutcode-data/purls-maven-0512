@@ -1,1 +1,3 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-client-rest@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-client-rest@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-client-rest@RELEASE112?classifier=sources

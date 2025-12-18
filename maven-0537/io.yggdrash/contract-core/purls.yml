@@ -1,0 +1,2 @@
+- pkg:maven/io.yggdrash/contract-core@0.10.0-beta
+- pkg:maven/io.yggdrash/contract-core@0.10.0-beta?classifier=sources

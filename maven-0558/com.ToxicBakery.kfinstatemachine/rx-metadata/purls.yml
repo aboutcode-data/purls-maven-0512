@@ -1,1 +1,2 @@
 - pkg:maven/com.ToxicBakery.kfinstatemachine/rx-metadata@4.2.47?classifier=sources
+- pkg:maven/com.ToxicBakery.kfinstatemachine/rx-metadata@4.3.50?classifier=sources

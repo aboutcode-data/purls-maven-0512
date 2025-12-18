@@ -1,0 +1,2 @@
+- pkg:maven/com.blazebit/blaze-persistence-integration-spring-data-2.2@1.4.0-Alpha3
+- pkg:maven/com.blazebit/blaze-persistence-integration-spring-data-2.2@1.4.0-Alpha3?classifier=sources

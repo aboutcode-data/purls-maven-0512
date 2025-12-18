@@ -1,0 +1,2 @@
+- pkg:maven/org.microshed/microshed-testing-payara-micro@0.4.1
+- pkg:maven/org.microshed/microshed-testing-payara-micro@0.4.1?classifier=sources

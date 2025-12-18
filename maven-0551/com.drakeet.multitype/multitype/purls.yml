@@ -1,0 +1,2 @@
+- pkg:maven/com.drakeet.multitype/multitype@4.0.0?classifier=sources
+- pkg:maven/com.drakeet.multitype/multitype@4.0.0?type=aar

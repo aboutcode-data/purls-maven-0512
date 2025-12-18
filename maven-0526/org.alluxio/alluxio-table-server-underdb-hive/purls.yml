@@ -1,0 +1,2 @@
+- pkg:maven/org.alluxio/alluxio-table-server-underdb-hive@2.1.0
+- pkg:maven/org.alluxio/alluxio-table-server-underdb-hive@2.1.0?classifier=sources

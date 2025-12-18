@@ -1,2 +1,4 @@
 - pkg:maven/com.adrianhurt/play-bootstrap-core_2.13@1.5-P27
 - pkg:maven/com.adrianhurt/play-bootstrap-core_2.13@1.5-P27?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.13@1.5.1-P27
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.13@1.5.1-P27?classifier=sources

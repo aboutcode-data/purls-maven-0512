@@ -102,3 +102,9 @@
 - pkg:maven/org.bytesoft/bytejta-core@0.5.0-BETA4?classifier=sources
 - pkg:maven/org.bytesoft/bytejta-core@0.5.0-BETA5
 - pkg:maven/org.bytesoft/bytejta-core@0.5.0-BETA5?classifier=sources
+- pkg:maven/org.bytesoft/bytejta-core@0.5.0-BETA6
+- pkg:maven/org.bytesoft/bytejta-core@0.5.0-BETA6?classifier=sources
+- pkg:maven/org.bytesoft/bytejta-core@0.5.0-BETA7
+- pkg:maven/org.bytesoft/bytejta-core@0.5.0-BETA7?classifier=sources
+- pkg:maven/org.bytesoft/bytejta-core@0.5.0-BETA8
+- pkg:maven/org.bytesoft/bytejta-core@0.5.0-BETA8?classifier=sources

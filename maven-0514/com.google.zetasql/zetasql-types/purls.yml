@@ -1,0 +1,6 @@
+- pkg:maven/com.google.zetasql/zetasql-types@2019.07.1
+- pkg:maven/com.google.zetasql/zetasql-types@2019.07.1?classifier=sources
+- pkg:maven/com.google.zetasql/zetasql-types@2019.09.1
+- pkg:maven/com.google.zetasql/zetasql-types@2019.09.1?classifier=sources
+- pkg:maven/com.google.zetasql/zetasql-types@2019.10.1
+- pkg:maven/com.google.zetasql/zetasql-types@2019.10.1?classifier=sources

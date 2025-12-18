@@ -34,3 +34,5 @@
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/html-types@20190503.1?classifier=sources
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/html-types@20190610.1
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/html-types@20190610.1?classifier=sources
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/html-types@20191001.1
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/html-types@20191001.1?classifier=sources

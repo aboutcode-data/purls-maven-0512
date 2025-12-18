@@ -1,0 +1,2 @@
+- pkg:maven/com.lingdonge/common-crypto@3.0.5
+- pkg:maven/com.lingdonge/common-crypto@3.0.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.datakernel/datakernel-launchers-http@3.0.0
+- pkg:maven/io.datakernel/datakernel-launchers-http@3.0.0-rc
+- pkg:maven/io.datakernel/datakernel-launchers-http@3.0.0-rc?classifier=sources
+- pkg:maven/io.datakernel/datakernel-launchers-http@3.0.0?classifier=sources

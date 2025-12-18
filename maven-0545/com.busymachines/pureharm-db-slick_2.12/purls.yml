@@ -1,5 +1,6 @@
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.1
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.1?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M1
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M10
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M10?classifier=sources
@@ -15,6 +16,14 @@
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M14?classifier=sources
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M15
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M15?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M16
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M16?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M17
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M17?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M18
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M18?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M19
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M19?classifier=sources
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M1?classifier=sources
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M2
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M2?classifier=sources
@@ -32,5 +41,12 @@
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M8?classifier=sources
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M9
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-M9?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-RC1
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-RC1?classifier=sources
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-SNAP15
 - pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2-SNAP15?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.2?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.3
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.3?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.4
+- pkg:maven/com.busymachines/pureharm-db-slick_2.12@0.0.4?classifier=sources

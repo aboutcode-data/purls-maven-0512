@@ -1,0 +1,2 @@
+- pkg:maven/com.github.venus-ai/remote-server-monitoring@1.0.0
+- pkg:maven/com.github.venus-ai/remote-server-monitoring@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/jp.co.yahoo.yosegi/yosegi-spark_2.11@1.0
+- pkg:maven/jp.co.yahoo.yosegi/yosegi-spark_2.11@1.0?classifier=sources

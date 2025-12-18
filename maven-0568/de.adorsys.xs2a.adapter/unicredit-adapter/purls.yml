@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.xs2a.adapter/unicredit-adapter@0.0.3
+- pkg:maven/de.adorsys.xs2a.adapter/unicredit-adapter@0.0.3?classifier=sources

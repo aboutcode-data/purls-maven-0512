@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.activemq.examples.failover/shared-storage-static-cluster@2.10.1
+- pkg:maven/org.apache.activemq.examples.failover/shared-storage-static-cluster@2.10.1?classifier=sources

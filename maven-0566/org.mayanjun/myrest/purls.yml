@@ -2,3 +2,5 @@
 - pkg:maven/org.mayanjun/myrest@0.0.1.RELEASE?classifier=sources
 - pkg:maven/org.mayanjun/myrest@0.0.1.alpha
 - pkg:maven/org.mayanjun/myrest@0.0.1.alpha?classifier=sources
+- pkg:maven/org.mayanjun/myrest@0.0.2
+- pkg:maven/org.mayanjun/myrest@0.0.2?classifier=sources

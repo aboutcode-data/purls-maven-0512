@@ -1,0 +1,9 @@
+- pkg:maven/org.opendaylight.unimgr/cpeui-bundle@0.2.0-Carbon
+- pkg:maven/org.opendaylight.unimgr/cpeui-bundle@0.2.1-Carbon
+- pkg:maven/org.opendaylight.unimgr/cpeui-bundle@0.2.2-Carbon
+- pkg:maven/org.opendaylight.unimgr/cpeui-bundle@0.2.3-Carbon
+- pkg:maven/org.opendaylight.unimgr/cpeui-bundle@0.2.4-Carbon
+- pkg:maven/org.opendaylight.unimgr/cpeui-bundle@0.3.0
+- pkg:maven/org.opendaylight.unimgr/cpeui-bundle@0.3.1
+- pkg:maven/org.opendaylight.unimgr/cpeui-bundle@0.3.2
+- pkg:maven/org.opendaylight.unimgr/cpeui-bundle@0.3.3

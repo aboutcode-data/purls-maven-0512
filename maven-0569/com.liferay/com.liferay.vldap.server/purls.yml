@@ -1,0 +1,3 @@
+- pkg:maven/com.liferay/com.liferay.vldap.server@3.0.9
+- pkg:maven/com.liferay/com.liferay.vldap.server@3.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.vldap.server@3.0.9?classifier=sources-commercial

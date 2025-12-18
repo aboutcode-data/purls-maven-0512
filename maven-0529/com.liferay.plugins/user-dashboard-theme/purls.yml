@@ -51,6 +51,7 @@
 - pkg:maven/com.liferay.plugins/user-dashboard-theme@1.0.55?type=war
 - pkg:maven/com.liferay.plugins/user-dashboard-theme@1.0.56?type=war
 - pkg:maven/com.liferay.plugins/user-dashboard-theme@1.0.57?type=war
+- pkg:maven/com.liferay.plugins/user-dashboard-theme@1.0.58?type=war
 - pkg:maven/com.liferay.plugins/user-dashboard-theme@1.0.5?type=war
 - pkg:maven/com.liferay.plugins/user-dashboard-theme@1.0.6?type=war
 - pkg:maven/com.liferay.plugins/user-dashboard-theme@1.0.7?type=war

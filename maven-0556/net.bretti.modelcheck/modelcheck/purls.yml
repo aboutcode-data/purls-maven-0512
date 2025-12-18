@@ -1,0 +1,2 @@
+- pkg:maven/net.bretti.modelcheck/modelcheck@1.0.0
+- pkg:maven/net.bretti.modelcheck/modelcheck@1.0.0?classifier=sources

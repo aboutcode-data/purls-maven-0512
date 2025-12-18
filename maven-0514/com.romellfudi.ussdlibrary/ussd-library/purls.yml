@@ -1,2 +1,4 @@
 - pkg:maven/com.romellfudi.ussdlibrary/ussd-library@1.1.h?classifier=sources
 - pkg:maven/com.romellfudi.ussdlibrary/ussd-library@1.1.h?type=aar
+- pkg:maven/com.romellfudi.ussdlibrary/ussd-library@1.1.i?classifier=sources
+- pkg:maven/com.romellfudi.ussdlibrary/ussd-library@1.1.i?type=aar

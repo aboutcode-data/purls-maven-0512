@@ -6,3 +6,5 @@
 - pkg:maven/com.kenshoo/metrics-play_2.12@2.6.6_0.6.2?classifier=sources
 - pkg:maven/com.kenshoo/metrics-play_2.12@2.7.0_0.8.0
 - pkg:maven/com.kenshoo/metrics-play_2.12@2.7.0_0.8.0?classifier=sources
+- pkg:maven/com.kenshoo/metrics-play_2.12@2.7.3_0.8.1
+- pkg:maven/com.kenshoo/metrics-play_2.12@2.7.3_0.8.1?classifier=sources

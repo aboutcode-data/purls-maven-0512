@@ -1,3 +1,5 @@
 - pkg:maven/org.apache.skywalking/telemetry-api@6.0.0-GA
 - pkg:maven/org.apache.skywalking/telemetry-api@6.1.0
 - pkg:maven/org.apache.skywalking/telemetry-api@6.2.0
+- pkg:maven/org.apache.skywalking/telemetry-api@6.3.0
+- pkg:maven/org.apache.skywalking/telemetry-api@6.4.0

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.gregjacobs/autolinker.js@2.2.1
 - pkg:maven/org.webjars.bowergithub.gregjacobs/autolinker.js@2.2.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.gregjacobs/autolinker.js@3.11.1
+- pkg:maven/org.webjars.bowergithub.gregjacobs/autolinker.js@3.11.1?classifier=sources

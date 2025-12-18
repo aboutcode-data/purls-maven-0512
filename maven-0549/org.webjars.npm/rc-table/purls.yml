@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/rc-table@6.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/rc-table@6.4.3
 - pkg:maven/org.webjars.npm/rc-table@6.4.3?classifier=sources
+- pkg:maven/org.webjars.npm/rc-table@6.7.0
+- pkg:maven/org.webjars.npm/rc-table@6.7.0?classifier=sources

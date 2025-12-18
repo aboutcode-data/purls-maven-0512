@@ -12,3 +12,5 @@
 - pkg:maven/com.indvd00m.ascii.render/ascii-render-api@2.0.0?classifier=sources
 - pkg:maven/com.indvd00m.ascii.render/ascii-render-api@2.1.0
 - pkg:maven/com.indvd00m.ascii.render/ascii-render-api@2.1.0?classifier=sources
+- pkg:maven/com.indvd00m.ascii.render/ascii-render-api@2.1.2
+- pkg:maven/com.indvd00m.ascii.render/ascii-render-api@2.1.2?classifier=sources

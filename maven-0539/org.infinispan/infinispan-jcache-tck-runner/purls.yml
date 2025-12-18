@@ -5,6 +5,12 @@
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@10.0.0.Beta2
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@10.0.0.Beta3
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@10.0.0.Beta4
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner@10.0.0.Beta5
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner@10.0.0.CR1
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner@10.0.0.CR2
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner@10.0.0.CR3
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner@10.0.0.Final
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner@10.0.1.Final
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@7.2.0.Beta1
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@7.2.0.Beta1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@7.2.0.Beta2
@@ -196,6 +202,7 @@
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.4.13.Final
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.4.14.Final
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.4.15.Final
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.4.16.Final
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.4.2.Final
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.4.3.Final
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner@9.4.4.Final

@@ -1,0 +1,2 @@
+- pkg:maven/com.mastfrog/acteur-bunyan-v2@2.6.0
+- pkg:maven/com.mastfrog/acteur-bunyan-v2@2.6.0?classifier=sources

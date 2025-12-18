@@ -1,5 +1,9 @@
 - pkg:maven/org.verapdf/pdfbox-metadata-fixer@1.14.1-RC
 - pkg:maven/org.verapdf/pdfbox-metadata-fixer@1.14.1-RC?classifier=sources
+- pkg:maven/org.verapdf/pdfbox-metadata-fixer@1.14.104
+- pkg:maven/org.verapdf/pdfbox-metadata-fixer@1.14.104?classifier=sources
+- pkg:maven/org.verapdf/pdfbox-metadata-fixer@1.14.105
+- pkg:maven/org.verapdf/pdfbox-metadata-fixer@1.14.105?classifier=sources
 - pkg:maven/org.verapdf/pdfbox-metadata-fixer@1.14.2-RC
 - pkg:maven/org.verapdf/pdfbox-metadata-fixer@1.14.2-RC?classifier=sources
 - pkg:maven/org.verapdf/pdfbox-metadata-fixer@1.14.3-RC

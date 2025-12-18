@@ -1,0 +1,2 @@
+- pkg:maven/com.cosium.murmur/vysper-admin-console@0.8?classifier=sources
+- pkg:maven/com.cosium.murmur/vysper-admin-console@0.8?type=war

@@ -1,2 +1,4 @@
 - pkg:maven/com.orientechnologies/orientdb-distributed-v2@3.1.0-M3
 - pkg:maven/com.orientechnologies/orientdb-distributed-v2@3.1.0-M3?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-distributed-v2@3.1.0-beta1
+- pkg:maven/com.orientechnologies/orientdb-distributed-v2@3.1.0-beta1?classifier=sources

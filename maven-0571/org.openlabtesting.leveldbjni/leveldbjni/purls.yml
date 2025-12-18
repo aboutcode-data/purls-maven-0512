@@ -1,0 +1,2 @@
+- pkg:maven/org.openlabtesting.leveldbjni/leveldbjni@1.8
+- pkg:maven/org.openlabtesting.leveldbjni/leveldbjni@1.8?classifier=sources

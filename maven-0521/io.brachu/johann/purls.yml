@@ -18,3 +18,7 @@
 - pkg:maven/io.brachu/johann@0.8.0?classifier=sources
 - pkg:maven/io.brachu/johann@1.0.0
 - pkg:maven/io.brachu/johann@1.0.0?classifier=sources
+- pkg:maven/io.brachu/johann@1.0.1
+- pkg:maven/io.brachu/johann@1.0.1?classifier=sources
+- pkg:maven/io.brachu/johann@1.1.0
+- pkg:maven/io.brachu/johann@1.1.0?classifier=sources

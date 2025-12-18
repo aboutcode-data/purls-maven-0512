@@ -1,0 +1,2 @@
+- pkg:maven/com.azure/azure-cognitiveservices-customvision-prediction@1.1.0-preview.2
+- pkg:maven/com.azure/azure-cognitiveservices-customvision-prediction@1.1.0-preview.2?classifier=sources

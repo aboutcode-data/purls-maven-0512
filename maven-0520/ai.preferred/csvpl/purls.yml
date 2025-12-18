@@ -1,0 +1,2 @@
+- pkg:maven/ai.preferred/csvpl@1.0
+- pkg:maven/ai.preferred/csvpl@1.0?classifier=sources

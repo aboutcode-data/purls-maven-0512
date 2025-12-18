@@ -1,0 +1,2 @@
+- pkg:maven/com.github.deepexi/pojo-converter-spring-boot-starter@1.0.0-release
+- pkg:maven/com.github.deepexi/pojo-converter-spring-boot-starter@1.0.0-release?classifier=sources

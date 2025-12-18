@@ -1,3 +1,5 @@
 - pkg:maven/org.netbeans.api/org-openidex-util@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.api/org-openidex-util@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-openidex-util@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-openidex-util@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-openidex-util@RELEASE90?classifier=sources

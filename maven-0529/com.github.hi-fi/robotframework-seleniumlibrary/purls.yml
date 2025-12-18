@@ -5,6 +5,7 @@
 - pkg:maven/com.github.hi-fi/robotframework-seleniumlibrary@3.12.0.0?classifier=sources
 - pkg:maven/com.github.hi-fi/robotframework-seleniumlibrary@3.12.0.1?classifier=sources
 - pkg:maven/com.github.hi-fi/robotframework-seleniumlibrary@3.14.0.0?classifier=sources
+- pkg:maven/com.github.hi-fi/robotframework-seleniumlibrary@3.141.59.2653?classifier=sources
 - pkg:maven/com.github.hi-fi/robotframework-seleniumlibrary@3.141.59.265?classifier=sources
 - pkg:maven/com.github.hi-fi/robotframework-seleniumlibrary@3.141.59.26?classifier=sources
 - pkg:maven/com.github.hi-fi/robotframework-seleniumlibrary@3.141.59.2?classifier=sources
@@ -19,3 +20,4 @@
 - pkg:maven/com.github.hi-fi/robotframework-seleniumlibrary@3.8.1.0?classifier=sources
 - pkg:maven/com.github.hi-fi/robotframework-seleniumlibrary@3.8.1.1?classifier=sources
 - pkg:maven/com.github.hi-fi/robotframework-seleniumlibrary@3.9.1.0?classifier=sources
+- pkg:maven/com.github.hi-fi/robotframework-seleniumlibrary@4.0.0-alpha-2.0?classifier=sources

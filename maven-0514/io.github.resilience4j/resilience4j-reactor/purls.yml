@@ -16,3 +16,9 @@
 - pkg:maven/io.github.resilience4j/resilience4j-reactor@0.15.0?classifier=sources
 - pkg:maven/io.github.resilience4j/resilience4j-reactor@0.16.0
 - pkg:maven/io.github.resilience4j/resilience4j-reactor@0.16.0?classifier=sources
+- pkg:maven/io.github.resilience4j/resilience4j-reactor@0.17.0
+- pkg:maven/io.github.resilience4j/resilience4j-reactor@0.17.0?classifier=sources
+- pkg:maven/io.github.resilience4j/resilience4j-reactor@1.0.0
+- pkg:maven/io.github.resilience4j/resilience4j-reactor@1.0.0?classifier=sources
+- pkg:maven/io.github.resilience4j/resilience4j-reactor@1.1.0
+- pkg:maven/io.github.resilience4j/resilience4j-reactor@1.1.0?classifier=sources

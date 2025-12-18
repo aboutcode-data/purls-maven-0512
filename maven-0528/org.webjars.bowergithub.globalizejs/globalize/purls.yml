@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.bowergithub.globalizejs/globalize@0.1.1
+- pkg:maven/org.webjars.bowergithub.globalizejs/globalize@0.1.1?classifier=sources
 - pkg:maven/org.webjars.bowergithub.globalizejs/globalize@1.4.0
 - pkg:maven/org.webjars.bowergithub.globalizejs/globalize@1.4.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.globalizejs/globalize@1.4.1
+- pkg:maven/org.webjars.bowergithub.globalizejs/globalize@1.4.1?classifier=sources

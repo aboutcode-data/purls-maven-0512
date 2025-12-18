@@ -1,0 +1,2 @@
+- pkg:maven/net.dathoang.cqrs.commandbus/commandbus-core-full@0.2.0?classifier=sources
+- pkg:maven/net.dathoang.cqrs.commandbus/commandbus-core-full@0.3.0?classifier=sources

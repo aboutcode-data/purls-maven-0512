@@ -1,0 +1,2 @@
+- pkg:maven/com.roadmm.lu/lu-common@1.0.2
+- pkg:maven/com.roadmm.lu/lu-common@1.0.2?classifier=sources

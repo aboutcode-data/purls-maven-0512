@@ -8,3 +8,13 @@
 - pkg:maven/io.puresec/function-shield@1.2.0?classifier=sources
 - pkg:maven/io.puresec/function-shield@1.2.4
 - pkg:maven/io.puresec/function-shield@1.2.4?classifier=sources
+- pkg:maven/io.puresec/function-shield@2.0.11
+- pkg:maven/io.puresec/function-shield@2.0.11?classifier=sources
+- pkg:maven/io.puresec/function-shield@2.0.12
+- pkg:maven/io.puresec/function-shield@2.0.12?classifier=sources
+- pkg:maven/io.puresec/function-shield@2.0.16
+- pkg:maven/io.puresec/function-shield@2.0.16?classifier=sources
+- pkg:maven/io.puresec/function-shield@2.0.7
+- pkg:maven/io.puresec/function-shield@2.0.7?classifier=sources
+- pkg:maven/io.puresec/function-shield@2.0.8
+- pkg:maven/io.puresec/function-shield@2.0.8?classifier=sources

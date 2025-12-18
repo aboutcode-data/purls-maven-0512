@@ -34,3 +34,7 @@
 - pkg:maven/org.zalando.stups/stups-spring-oauth2-common@1.0.21?classifier=sources
 - pkg:maven/org.zalando.stups/stups-spring-oauth2-common@1.0.22
 - pkg:maven/org.zalando.stups/stups-spring-oauth2-common@1.0.22?classifier=sources
+- pkg:maven/org.zalando.stups/stups-spring-oauth2-common@1.0.23
+- pkg:maven/org.zalando.stups/stups-spring-oauth2-common@1.0.23?classifier=sources
+- pkg:maven/org.zalando.stups/stups-spring-oauth2-common@1.0.24
+- pkg:maven/org.zalando.stups/stups-spring-oauth2-common@1.0.24?classifier=sources

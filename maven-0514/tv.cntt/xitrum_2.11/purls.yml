@@ -57,6 +57,8 @@
 - pkg:maven/tv.cntt/xitrum_2.11@3.28.16?classifier=sources
 - pkg:maven/tv.cntt/xitrum_2.11@3.28.17
 - pkg:maven/tv.cntt/xitrum_2.11@3.28.17?classifier=sources
+- pkg:maven/tv.cntt/xitrum_2.11@3.28.18
+- pkg:maven/tv.cntt/xitrum_2.11@3.28.18?classifier=sources
 - pkg:maven/tv.cntt/xitrum_2.11@3.28.1?classifier=sources
 - pkg:maven/tv.cntt/xitrum_2.11@3.28.2
 - pkg:maven/tv.cntt/xitrum_2.11@3.28.2?classifier=sources

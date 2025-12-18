@@ -32,3 +32,5 @@
 - pkg:maven/com.identityx.auth/daon-http-digest-auth@4.5.2.4?classifier=sources
 - pkg:maven/com.identityx.auth/daon-http-digest-auth@4.6.0.3
 - pkg:maven/com.identityx.auth/daon-http-digest-auth@4.6.0.3?classifier=sources
+- pkg:maven/com.identityx.auth/daon-http-digest-auth@5.0.0.2
+- pkg:maven/com.identityx.auth/daon-http-digest-auth@5.0.0.2?classifier=sources

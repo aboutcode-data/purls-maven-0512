@@ -1,0 +1,2 @@
+- pkg:maven/com.carrotsearch.thirdparty/simple-xml-safe@2.7.1
+- pkg:maven/com.carrotsearch.thirdparty/simple-xml-safe@2.7.1?classifier=sources

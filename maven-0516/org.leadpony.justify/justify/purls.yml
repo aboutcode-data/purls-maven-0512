@@ -20,3 +20,5 @@
 - pkg:maven/org.leadpony.justify/justify@0.9.1?classifier=sources
 - pkg:maven/org.leadpony.justify/justify@1.0.0
 - pkg:maven/org.leadpony.justify/justify@1.0.0?classifier=sources
+- pkg:maven/org.leadpony.justify/justify@1.1.0
+- pkg:maven/org.leadpony.justify/justify@1.1.0?classifier=sources

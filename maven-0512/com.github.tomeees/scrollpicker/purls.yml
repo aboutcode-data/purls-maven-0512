@@ -27,3 +27,5 @@
 - pkg:maven/com.github.tomeees/scrollpicker@1.7.2?type=aar
 - pkg:maven/com.github.tomeees/scrollpicker@1.7.3?classifier=sources
 - pkg:maven/com.github.tomeees/scrollpicker@1.7.3?type=aar
+- pkg:maven/com.github.tomeees/scrollpicker@1.7.4?classifier=sources
+- pkg:maven/com.github.tomeees/scrollpicker@1.7.4?type=aar

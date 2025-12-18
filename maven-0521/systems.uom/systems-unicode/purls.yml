@@ -18,3 +18,5 @@
 - pkg:maven/systems.uom/systems-unicode@0.9?classifier=sources
 - pkg:maven/systems.uom/systems-unicode@1.0
 - pkg:maven/systems.uom/systems-unicode@1.0?classifier=sources
+- pkg:maven/systems.uom/systems-unicode@2.0
+- pkg:maven/systems.uom/systems-unicode@2.0?classifier=sources

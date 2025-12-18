@@ -8,3 +8,9 @@
 - pkg:maven/com.cognitect.aws/states@697.2.391.0?classifier=sources
 - pkg:maven/com.cognitect.aws/states@707.2.409.0
 - pkg:maven/com.cognitect.aws/states@707.2.409.0?classifier=sources
+- pkg:maven/com.cognitect.aws/states@742.2.523.0
+- pkg:maven/com.cognitect.aws/states@742.2.523.0?classifier=sources
+- pkg:maven/com.cognitect.aws/states@742.2.527.0
+- pkg:maven/com.cognitect.aws/states@742.2.527.0?classifier=sources
+- pkg:maven/com.cognitect.aws/states@747.2.533.0
+- pkg:maven/com.cognitect.aws/states@747.2.533.0?classifier=sources

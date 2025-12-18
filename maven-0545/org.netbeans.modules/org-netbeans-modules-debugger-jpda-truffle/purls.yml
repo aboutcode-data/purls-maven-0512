@@ -1,2 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-truffle@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-truffle@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-truffle@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-truffle@RELEASE112?classifier=sources

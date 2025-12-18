@@ -18,3 +18,7 @@
 - pkg:maven/com.linecorp.bot/line-bot-cli@2.6.1?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-cli@2.7.0
 - pkg:maven/com.linecorp.bot/line-bot-cli@2.7.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-cli@3.0.0
+- pkg:maven/com.linecorp.bot/line-bot-cli@3.0.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-cli@3.1.0
+- pkg:maven/com.linecorp.bot/line-bot-cli@3.1.0?classifier=sources

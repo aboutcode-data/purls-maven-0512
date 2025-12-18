@@ -1,0 +1,4 @@
+- pkg:maven/io.github.agrica/ppa-assembly-descriptor@3.0.0
+- pkg:maven/io.github.agrica/ppa-assembly-descriptor@3.0.0-alpha3
+- pkg:maven/io.github.agrica/ppa-assembly-descriptor@3.0.0-alpha3?classifier=sources
+- pkg:maven/io.github.agrica/ppa-assembly-descriptor@3.0.0?classifier=sources

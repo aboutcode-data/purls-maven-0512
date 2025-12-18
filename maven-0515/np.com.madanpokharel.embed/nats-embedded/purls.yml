@@ -1,0 +1,6 @@
+- pkg:maven/np.com.madanpokharel.embed/nats-embedded@0.1.0
+- pkg:maven/np.com.madanpokharel.embed/nats-embedded@0.1.0?classifier=sources
+- pkg:maven/np.com.madanpokharel.embed/nats-embedded@1.0.0
+- pkg:maven/np.com.madanpokharel.embed/nats-embedded@1.0.0?classifier=sources
+- pkg:maven/np.com.madanpokharel.embed/nats-embedded@1.1.0
+- pkg:maven/np.com.madanpokharel.embed/nats-embedded@1.1.0?classifier=sources

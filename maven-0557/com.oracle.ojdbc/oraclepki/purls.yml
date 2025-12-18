@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.ojdbc/oraclepki@19.3.0.0
+- pkg:maven/com.oracle.ojdbc/oraclepki@19.3.0.0?classifier=sources

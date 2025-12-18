@@ -1,0 +1,4 @@
+- pkg:maven/com.wuyushuo/spring-hexolab-boxes-boot-starer@1.1.3
+- pkg:maven/com.wuyushuo/spring-hexolab-boxes-boot-starer@1.1.3?classifier=sources
+- pkg:maven/com.wuyushuo/spring-hexolab-boxes-boot-starer@1.1.4
+- pkg:maven/com.wuyushuo/spring-hexolab-boxes-boot-starer@1.1.4?classifier=sources

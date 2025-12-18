@@ -1,0 +1,2 @@
+- pkg:maven/church.i18n/church.i18n.error.spring@2019.0
+- pkg:maven/church.i18n/church.i18n.error.spring@2019.0?classifier=sources

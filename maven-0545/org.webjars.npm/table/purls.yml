@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/table@3.7.10?classifier=sources
 - pkg:maven/org.webjars.npm/table@4.0.2
 - pkg:maven/org.webjars.npm/table@4.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/table@5.4.6
+- pkg:maven/org.webjars.npm/table@5.4.6?classifier=sources

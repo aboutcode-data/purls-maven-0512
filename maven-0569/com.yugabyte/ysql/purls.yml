@@ -1,0 +1,4 @@
+- pkg:maven/com.yugabyte/ysql@42.2.7-yb-1
+- pkg:maven/com.yugabyte/ysql@42.2.7-yb-1?classifier=sources
+- pkg:maven/com.yugabyte/ysql@42.2.7-yb-2
+- pkg:maven/com.yugabyte/ysql@42.2.7-yb-2?classifier=sources

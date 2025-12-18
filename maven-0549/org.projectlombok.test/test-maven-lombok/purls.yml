@@ -74,9 +74,13 @@
 - pkg:maven/org.projectlombok.test/test-maven-lombok@1.16.8.0?classifier=sources
 - pkg:maven/org.projectlombok.test/test-maven-lombok@1.18.0.0
 - pkg:maven/org.projectlombok.test/test-maven-lombok@1.18.0.0?classifier=sources
+- pkg:maven/org.projectlombok.test/test-maven-lombok@1.18.10.0
+- pkg:maven/org.projectlombok.test/test-maven-lombok@1.18.10.0?classifier=sources
 - pkg:maven/org.projectlombok.test/test-maven-lombok@1.18.2.0
 - pkg:maven/org.projectlombok.test/test-maven-lombok@1.18.2.0?classifier=sources
 - pkg:maven/org.projectlombok.test/test-maven-lombok@1.18.4.0
 - pkg:maven/org.projectlombok.test/test-maven-lombok@1.18.4.0?classifier=sources
 - pkg:maven/org.projectlombok.test/test-maven-lombok@1.18.6.0
 - pkg:maven/org.projectlombok.test/test-maven-lombok@1.18.6.0?classifier=sources
+- pkg:maven/org.projectlombok.test/test-maven-lombok@1.18.8.1
+- pkg:maven/org.projectlombok.test/test-maven-lombok@1.18.8.1?classifier=sources

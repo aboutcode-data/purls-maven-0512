@@ -1,0 +1,2 @@
+- pkg:maven/org.clulab/geonorm_2.13@0.9.6
+- pkg:maven/org.clulab/geonorm_2.13@0.9.6?classifier=sources

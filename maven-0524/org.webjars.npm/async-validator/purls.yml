@@ -6,6 +6,10 @@
 - pkg:maven/org.webjars.npm/async-validator@1.11.2?classifier=sources
 - pkg:maven/org.webjars.npm/async-validator@1.11.3
 - pkg:maven/org.webjars.npm/async-validator@1.11.3?classifier=sources
+- pkg:maven/org.webjars.npm/async-validator@1.11.5
+- pkg:maven/org.webjars.npm/async-validator@1.11.5?classifier=sources
+- pkg:maven/org.webjars.npm/async-validator@1.12.2
+- pkg:maven/org.webjars.npm/async-validator@1.12.2?classifier=sources
 - pkg:maven/org.webjars.npm/async-validator@1.6.8
 - pkg:maven/org.webjars.npm/async-validator@1.6.8?classifier=sources
 - pkg:maven/org.webjars.npm/async-validator@1.6.9

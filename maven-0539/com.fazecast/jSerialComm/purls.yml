@@ -64,3 +64,5 @@
 - pkg:maven/com.fazecast/jSerialComm@2.5.0?classifier=sources
 - pkg:maven/com.fazecast/jSerialComm@2.5.1
 - pkg:maven/com.fazecast/jSerialComm@2.5.1?classifier=sources
+- pkg:maven/com.fazecast/jSerialComm@2.5.2
+- pkg:maven/com.fazecast/jSerialComm@2.5.2?classifier=sources

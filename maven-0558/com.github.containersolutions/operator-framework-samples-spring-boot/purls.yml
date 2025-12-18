@@ -1,0 +1,4 @@
+- pkg:maven/com.github.containersolutions/operator-framework-samples-spring-boot@0.3.6
+- pkg:maven/com.github.containersolutions/operator-framework-samples-spring-boot@0.3.6?classifier=sources
+- pkg:maven/com.github.containersolutions/operator-framework-samples-spring-boot@0.3.8
+- pkg:maven/com.github.containersolutions/operator-framework-samples-spring-boot@0.3.8?classifier=sources

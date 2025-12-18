@@ -7,4 +7,8 @@
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M4
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M4%2B1-7c5dbafb
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M4%2B1-7c5dbafb?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M4%2B10-61e61e87
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M4%2B10-61e61e87?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M4%2B2-faf8c029
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M4%2B2-faf8c029?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M4?classifier=sources

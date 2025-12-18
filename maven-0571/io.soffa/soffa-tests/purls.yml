@@ -1,0 +1,2 @@
+- pkg:maven/io.soffa/soffa-tests@0.3.0
+- pkg:maven/io.soffa/soffa-tests@0.3.0?classifier=sources

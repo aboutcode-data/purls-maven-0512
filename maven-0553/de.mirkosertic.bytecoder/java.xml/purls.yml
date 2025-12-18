@@ -1,0 +1,2 @@
+- pkg:maven/de.mirkosertic.bytecoder/java.xml@2019-11-03
+- pkg:maven/de.mirkosertic.bytecoder/java.xml@2019-11-03?classifier=sources

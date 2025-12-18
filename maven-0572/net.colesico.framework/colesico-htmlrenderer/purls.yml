@@ -14,3 +14,15 @@
 - pkg:maven/net.colesico.framework/colesico-htmlrenderer@1.7.2?classifier=sources
 - pkg:maven/net.colesico.framework/colesico-htmlrenderer@1.8.0
 - pkg:maven/net.colesico.framework/colesico-htmlrenderer@1.8.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-htmlrenderer@1.9.0
+- pkg:maven/net.colesico.framework/colesico-htmlrenderer@1.9.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-htmlrenderer@2.0.0
+- pkg:maven/net.colesico.framework/colesico-htmlrenderer@2.0.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-htmlrenderer@2.1.0
+- pkg:maven/net.colesico.framework/colesico-htmlrenderer@2.1.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-htmlrenderer@2.2.0
+- pkg:maven/net.colesico.framework/colesico-htmlrenderer@2.2.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-htmlrenderer@2.2.1
+- pkg:maven/net.colesico.framework/colesico-htmlrenderer@2.2.1?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-htmlrenderer@2.2.2
+- pkg:maven/net.colesico.framework/colesico-htmlrenderer@2.2.2?classifier=sources

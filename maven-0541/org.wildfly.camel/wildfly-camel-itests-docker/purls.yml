@@ -1,5 +1,7 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker@10.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker@10.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker@10.2.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker@10.3.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker@4.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker@4.1.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker@4.2.0

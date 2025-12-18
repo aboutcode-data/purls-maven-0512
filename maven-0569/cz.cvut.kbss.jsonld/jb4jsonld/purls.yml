@@ -22,3 +22,5 @@
 - pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld@0.3.7?classifier=sources
 - pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld@0.3.8
 - pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld@0.3.8?classifier=sources
+- pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld@0.4.0
+- pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld@0.4.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/grunt-contrib-connect@0.11.2
 - pkg:maven/org.webjars.npm/grunt-contrib-connect@0.11.2?classifier=sources
+- pkg:maven/org.webjars.npm/grunt-contrib-connect@2.1.0
+- pkg:maven/org.webjars.npm/grunt-contrib-connect@2.1.0?classifier=sources

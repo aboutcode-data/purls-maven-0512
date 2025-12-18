@@ -1,2 +1,4 @@
 - pkg:maven/com.github.thiagogarbazza/simple-message@0.1.0
 - pkg:maven/com.github.thiagogarbazza/simple-message@0.1.0?classifier=sources
+- pkg:maven/com.github.thiagogarbazza/simple-message@1.0.0
+- pkg:maven/com.github.thiagogarbazza/simple-message@1.0.0?classifier=sources

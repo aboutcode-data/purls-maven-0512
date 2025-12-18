@@ -124,6 +124,8 @@
 - pkg:maven/de.sciss/soundprocesses-compiler_2.11@3.29.3?classifier=sources
 - pkg:maven/de.sciss/soundprocesses-compiler_2.11@3.3.0
 - pkg:maven/de.sciss/soundprocesses-compiler_2.11@3.3.0?classifier=sources
+- pkg:maven/de.sciss/soundprocesses-compiler_2.11@3.30.0
+- pkg:maven/de.sciss/soundprocesses-compiler_2.11@3.30.0?classifier=sources
 - pkg:maven/de.sciss/soundprocesses-compiler_2.11@3.4.0
 - pkg:maven/de.sciss/soundprocesses-compiler_2.11@3.4.0?classifier=sources
 - pkg:maven/de.sciss/soundprocesses-compiler_2.11@3.4.1

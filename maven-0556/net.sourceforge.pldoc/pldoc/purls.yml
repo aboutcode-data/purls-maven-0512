@@ -96,6 +96,12 @@
 - pkg:maven/net.sourceforge.pldoc/pldoc@1.5.20?classifier=sources
 - pkg:maven/net.sourceforge.pldoc/pldoc@1.5.21
 - pkg:maven/net.sourceforge.pldoc/pldoc@1.5.21?classifier=sources
+- pkg:maven/net.sourceforge.pldoc/pldoc@1.5.22
+- pkg:maven/net.sourceforge.pldoc/pldoc@1.5.22?classifier=sources
+- pkg:maven/net.sourceforge.pldoc/pldoc@1.5.23
+- pkg:maven/net.sourceforge.pldoc/pldoc@1.5.23?classifier=sources
+- pkg:maven/net.sourceforge.pldoc/pldoc@1.5.24
+- pkg:maven/net.sourceforge.pldoc/pldoc@1.5.24?classifier=sources
 - pkg:maven/net.sourceforge.pldoc/pldoc@1.5.2?classifier=sources
 - pkg:maven/net.sourceforge.pldoc/pldoc@1.5.3
 - pkg:maven/net.sourceforge.pldoc/pldoc@1.5.3?classifier=sources

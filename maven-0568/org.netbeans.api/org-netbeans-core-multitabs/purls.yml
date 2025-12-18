@@ -1,3 +1,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-core-multitabs@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-core-multitabs@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-core-multitabs@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-core-multitabs@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-core-multitabs@RELEASE90?classifier=sources
