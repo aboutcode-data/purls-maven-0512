@@ -1,0 +1,4 @@
+- pkg:maven/com.tyntec/ktor-problem@0.2
+- pkg:maven/com.tyntec/ktor-problem@0.2?classifier=sources
+- pkg:maven/com.tyntec/ktor-problem@0.3
+- pkg:maven/com.tyntec/ktor-problem@0.3?classifier=sources

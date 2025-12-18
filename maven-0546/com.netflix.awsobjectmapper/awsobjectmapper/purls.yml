@@ -71,6 +71,12 @@
 - pkg:maven/com.netflix.awsobjectmapper/awsobjectmapper@1.11.501?classifier=sources
 - pkg:maven/com.netflix.awsobjectmapper/awsobjectmapper@1.11.521
 - pkg:maven/com.netflix.awsobjectmapper/awsobjectmapper@1.11.521?classifier=sources
+- pkg:maven/com.netflix.awsobjectmapper/awsobjectmapper@1.11.534
+- pkg:maven/com.netflix.awsobjectmapper/awsobjectmapper@1.11.534?classifier=sources
+- pkg:maven/com.netflix.awsobjectmapper/awsobjectmapper@1.11.556
+- pkg:maven/com.netflix.awsobjectmapper/awsobjectmapper@1.11.556?classifier=sources
+- pkg:maven/com.netflix.awsobjectmapper/awsobjectmapper@1.11.579
+- pkg:maven/com.netflix.awsobjectmapper/awsobjectmapper@1.11.579?classifier=sources
 - pkg:maven/com.netflix.awsobjectmapper/awsobjectmapper@1.11.5?classifier=sources
 - pkg:maven/com.netflix.awsobjectmapper/awsobjectmapper@1.11.83
 - pkg:maven/com.netflix.awsobjectmapper/awsobjectmapper@1.11.83?classifier=sources

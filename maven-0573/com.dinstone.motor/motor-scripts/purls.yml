@@ -2,3 +2,5 @@
 - pkg:maven/com.dinstone.motor/motor-scripts@1.0.0?classifier=sources
 - pkg:maven/com.dinstone.motor/motor-scripts@1.1.0
 - pkg:maven/com.dinstone.motor/motor-scripts@1.1.0?classifier=sources
+- pkg:maven/com.dinstone.motor/motor-scripts@1.2.0
+- pkg:maven/com.dinstone.motor/motor-scripts@1.2.0?classifier=sources

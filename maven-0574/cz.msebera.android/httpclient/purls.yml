@@ -16,3 +16,5 @@
 - pkg:maven/cz.msebera.android/httpclient@4.4.1?classifier=sources
 - pkg:maven/cz.msebera.android/httpclient@4.5.3
 - pkg:maven/cz.msebera.android/httpclient@4.5.3?classifier=sources
+- pkg:maven/cz.msebera.android/httpclient@4.5.8
+- pkg:maven/cz.msebera.android/httpclient@4.5.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.meeuw.i18n/i18n-regions-open-location-code@0.4
+- pkg:maven/org.meeuw.i18n/i18n-regions-open-location-code@0.4?classifier=sources

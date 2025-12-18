@@ -41,3 +41,4 @@
 - pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.1.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.1.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.1.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.http/siddhi-io-http-parent@1.2.1?classifier=source-release&type=zip

@@ -33,3 +33,4 @@
 - pkg:maven/org.dspace.modules/rest@6.1?type=war
 - pkg:maven/org.dspace.modules/rest@6.2?type=war
 - pkg:maven/org.dspace.modules/rest@6.3?type=war
+- pkg:maven/org.dspace.modules/rest@7.0-preview-1?type=war

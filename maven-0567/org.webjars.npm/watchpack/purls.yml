@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/watchpack@1.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/watchpack@1.6.0
 - pkg:maven/org.webjars.npm/watchpack@1.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/watchpack@2.0.0-beta.2
+- pkg:maven/org.webjars.npm/watchpack@2.0.0-beta.2?classifier=sources

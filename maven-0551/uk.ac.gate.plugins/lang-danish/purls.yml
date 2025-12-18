@@ -4,3 +4,5 @@
 - pkg:maven/uk.ac.gate.plugins/lang-danish@8.5.1
 - pkg:maven/uk.ac.gate.plugins/lang-danish@8.5.1?classifier=sources
 - pkg:maven/uk.ac.gate.plugins/lang-danish@8.5?classifier=sources
+- pkg:maven/uk.ac.gate.plugins/lang-danish@8.6
+- pkg:maven/uk.ac.gate.plugins/lang-danish@8.6?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/io.circe/circe-java8_sjs0.6_2.11@0.11.0?classifier=sources
 - pkg:maven/io.circe/circe-java8_sjs0.6_2.11@0.11.1
 - pkg:maven/io.circe/circe-java8_sjs0.6_2.11@0.11.1?classifier=sources
+- pkg:maven/io.circe/circe-java8_sjs0.6_2.11@0.12.0-M1
+- pkg:maven/io.circe/circe-java8_sjs0.6_2.11@0.12.0-M1?classifier=sources
 - pkg:maven/io.circe/circe-java8_sjs0.6_2.11@0.8.0
 - pkg:maven/io.circe/circe-java8_sjs0.6_2.11@0.8.0-RC1
 - pkg:maven/io.circe/circe-java8_sjs0.6_2.11@0.8.0-RC1?classifier=sources

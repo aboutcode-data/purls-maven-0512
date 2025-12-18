@@ -1,0 +1,2 @@
+- pkg:maven/jp.co.bizreach/aws-kinesis-scala_2.13@0.0.12
+- pkg:maven/jp.co.bizreach/aws-kinesis-scala_2.13@0.0.12?classifier=sources

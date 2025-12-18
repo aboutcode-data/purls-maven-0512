@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.quicklens/quicklensjvm_2.13@1.4.12
+- pkg:maven/com.softwaremill.quicklens/quicklensjvm_2.13@1.4.12?classifier=sources

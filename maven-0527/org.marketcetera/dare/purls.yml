@@ -1,0 +1,2 @@
+- pkg:maven/org.marketcetera/dare@3.2.0?classifier=sources
+- pkg:maven/org.marketcetera/dare@3.2.0?type=zip

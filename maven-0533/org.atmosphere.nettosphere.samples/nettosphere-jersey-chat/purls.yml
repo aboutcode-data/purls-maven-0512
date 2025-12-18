@@ -122,3 +122,5 @@
 - pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-jersey-chat@2.4.6?classifier=sources
 - pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-jersey-chat@2.4.8
 - pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-jersey-chat@2.4.8?classifier=sources
+- pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-jersey-chat@2.5.3
+- pkg:maven/org.atmosphere.nettosphere.samples/nettosphere-jersey-chat@2.5.3?classifier=sources

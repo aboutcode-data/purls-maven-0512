@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.appserver/http-analytics-quickstart@6.0.0-m4
+- pkg:maven/org.wso2.appserver/http-analytics-quickstart@6.0.0-m4?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.elephantdrummer/drummer-spring-integrator@1.0.0
 - pkg:maven/com.elephantdrummer/drummer-spring-integrator@1.0.0?classifier=sources
+- pkg:maven/com.elephantdrummer/drummer-spring-integrator@1.2.5
+- pkg:maven/com.elephantdrummer/drummer-spring-integrator@1.2.5?classifier=sources

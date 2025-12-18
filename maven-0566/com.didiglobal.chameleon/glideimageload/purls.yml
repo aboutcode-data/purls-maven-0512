@@ -1,0 +1,2 @@
+- pkg:maven/com.didiglobal.chameleon/glideimageload@0.0.12?classifier=sources
+- pkg:maven/com.didiglobal.chameleon/glideimageload@0.0.12?type=aar

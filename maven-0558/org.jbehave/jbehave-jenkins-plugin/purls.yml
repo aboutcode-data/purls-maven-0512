@@ -71,3 +71,5 @@
 - pkg:maven/org.jbehave/jbehave-jenkins-plugin@4.3.5?classifier=sources
 - pkg:maven/org.jbehave/jbehave-jenkins-plugin@4.3?classifier=sources
 - pkg:maven/org.jbehave/jbehave-jenkins-plugin@4.4?classifier=sources
+- pkg:maven/org.jbehave/jbehave-jenkins-plugin@4.5.1?classifier=sources
+- pkg:maven/org.jbehave/jbehave-jenkins-plugin@4.5?classifier=sources

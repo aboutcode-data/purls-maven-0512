@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.authorization.v2015_06_01/azure-mgmt-authorization@1.0.0-beta
+- pkg:maven/com.microsoft.azure.authorization.v2015_06_01/azure-mgmt-authorization@1.0.0-beta?classifier=sources

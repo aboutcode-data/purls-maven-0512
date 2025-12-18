@@ -1,0 +1,2 @@
+- pkg:maven/ru.fix/jfix-stdlib-socket@1.0.22
+- pkg:maven/ru.fix/jfix-stdlib-socket@1.0.22?classifier=sources

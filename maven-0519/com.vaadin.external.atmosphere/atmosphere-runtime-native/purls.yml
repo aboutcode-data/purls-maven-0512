@@ -62,6 +62,8 @@
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-runtime-native@2.4.24.vaadin1?classifier=sources
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-runtime-native@2.4.3.vaadin1
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-runtime-native@2.4.3.vaadin1?classifier=sources
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-runtime-native@2.4.30.slf4jvaadin1
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-runtime-native@2.4.30.slf4jvaadin1?classifier=sources
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-runtime-native@2.4.30.vaadin1
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-runtime-native@2.4.30.vaadin1?classifier=sources
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-runtime-native@2.4.5.vaadin1

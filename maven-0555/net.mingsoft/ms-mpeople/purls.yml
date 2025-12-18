@@ -4,3 +4,5 @@
 - pkg:maven/net.mingsoft/ms-mpeople@1.0.5?type=war
 - pkg:maven/net.mingsoft/ms-mpeople@1.0.6?classifier=sources
 - pkg:maven/net.mingsoft/ms-mpeople@1.0.6?type=war
+- pkg:maven/net.mingsoft/ms-mpeople@1.0.7
+- pkg:maven/net.mingsoft/ms-mpeople@1.0.7?classifier=sources

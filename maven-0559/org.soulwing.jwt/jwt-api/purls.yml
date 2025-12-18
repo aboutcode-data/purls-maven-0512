@@ -22,3 +22,5 @@
 - pkg:maven/org.soulwing.jwt/jwt-api@1.5.0?classifier=sources
 - pkg:maven/org.soulwing.jwt/jwt-api@1.6.0
 - pkg:maven/org.soulwing.jwt/jwt-api@1.6.0?classifier=sources
+- pkg:maven/org.soulwing.jwt/jwt-api@1.6.1
+- pkg:maven/org.soulwing.jwt/jwt-api@1.6.1?classifier=sources

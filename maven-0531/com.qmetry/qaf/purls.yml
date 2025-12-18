@@ -15,3 +15,7 @@
 - pkg:maven/com.qmetry/qaf@2.1.14-RC3
 - pkg:maven/com.qmetry/qaf@2.1.14-RC3?classifier=sources
 - pkg:maven/com.qmetry/qaf@2.1.14?classifier=sources
+- pkg:maven/com.qmetry/qaf@2.1.15-beta-1
+- pkg:maven/com.qmetry/qaf@2.1.15-beta-1?classifier=sources
+- pkg:maven/com.qmetry/qaf@2.1.15-beta-2
+- pkg:maven/com.qmetry/qaf@2.1.15-beta-2?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/org.webjars.npm/riot@3.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/riot@3.13.0
 - pkg:maven/org.webjars.npm/riot@3.13.0?classifier=sources
+- pkg:maven/org.webjars.npm/riot@3.13.2
+- pkg:maven/org.webjars.npm/riot@3.13.2?classifier=sources
 - pkg:maven/org.webjars.npm/riot@3.4.0
 - pkg:maven/org.webjars.npm/riot@3.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/riot@3.6.1

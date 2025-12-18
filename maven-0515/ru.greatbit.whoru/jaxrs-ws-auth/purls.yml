@@ -1,0 +1,2 @@
+- pkg:maven/ru.greatbit.whoru/jaxrs-ws-auth@1.1
+- pkg:maven/ru.greatbit.whoru/jaxrs-ws-auth@1.1?classifier=sources

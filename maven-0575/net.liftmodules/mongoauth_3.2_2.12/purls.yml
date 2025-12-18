@@ -1,2 +1,4 @@
 - pkg:maven/net.liftmodules/mongoauth_3.2_2.12@1.4.0
 - pkg:maven/net.liftmodules/mongoauth_3.2_2.12@1.4.0?classifier=sources
+- pkg:maven/net.liftmodules/mongoauth_3.2_2.12@1.4.3
+- pkg:maven/net.liftmodules/mongoauth_3.2_2.12@1.4.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.profunktor/console4cats_2.13@0.8.0-M1
+- pkg:maven/dev.profunktor/console4cats_2.13@0.8.0-M1?classifier=sources

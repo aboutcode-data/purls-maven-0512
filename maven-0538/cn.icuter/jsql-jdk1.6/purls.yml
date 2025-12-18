@@ -4,3 +4,7 @@
 - pkg:maven/cn.icuter/jsql-jdk1.6@1.0.1?classifier=sources
 - pkg:maven/cn.icuter/jsql-jdk1.6@1.0.2
 - pkg:maven/cn.icuter/jsql-jdk1.6@1.0.2?classifier=sources
+- pkg:maven/cn.icuter/jsql-jdk1.6@1.0.6
+- pkg:maven/cn.icuter/jsql-jdk1.6@1.0.6?classifier=sources
+- pkg:maven/cn.icuter/jsql-jdk1.6@1.0.7
+- pkg:maven/cn.icuter/jsql-jdk1.6@1.0.7?classifier=sources

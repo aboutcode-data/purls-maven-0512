@@ -1,0 +1,2 @@
+- pkg:maven/com.jdcloud.sdk/ssl@0.2.9
+- pkg:maven/com.jdcloud.sdk/ssl@0.2.9?classifier=sources

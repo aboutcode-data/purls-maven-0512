@@ -1,0 +1,4 @@
+- pkg:maven/com.github.lazyBoyl/docker-maven-plugin@1.0-release
+- pkg:maven/com.github.lazyBoyl/docker-maven-plugin@1.0-release?classifier=sources
+- pkg:maven/com.github.lazyBoyl/docker-maven-plugin@1.1-release
+- pkg:maven/com.github.lazyBoyl/docker-maven-plugin@1.1-release?classifier=sources

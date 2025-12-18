@@ -9,3 +9,8 @@
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-services-sync@2.2.0?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-services-sync@2.3.0?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-services-sync@2.4.0?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-services-sync@2.5.0?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-services-sync@2.6.0?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-services-sync@2.7.0?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-services-sync@2.7.1?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-services-sync@2.8.0?classifier=sources

@@ -6,6 +6,10 @@
 - pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.10.0-beta3?classifier=sources
 - pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.10.0-beta4
 - pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.10.0-beta4?classifier=sources
+- pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.10.0-beta6
+- pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.10.0-beta6?classifier=sources
+- pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.10.0-beta8
+- pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.10.0-beta8?classifier=sources
 - pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.5.4
 - pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.5.4?classifier=sources
 - pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.6.0
@@ -72,3 +76,5 @@
 - pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.9.7?classifier=sources
 - pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.9.8
 - pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.9.8?classifier=sources
+- pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.9.9
+- pkg:maven/com.whisk/docker-testkit-scalatest_2.11@0.9.9?classifier=sources

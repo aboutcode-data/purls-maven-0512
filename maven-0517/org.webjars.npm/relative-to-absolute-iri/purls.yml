@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/relative-to-absolute-iri@1.0.5
+- pkg:maven/org.webjars.npm/relative-to-absolute-iri@1.0.5?classifier=sources

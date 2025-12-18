@@ -1,0 +1,2 @@
+- pkg:maven/com.baidubce.cfc/bce-cfc-java-core@2.0.0
+- pkg:maven/com.baidubce.cfc/bce-cfc-java-core@2.0.0?classifier=sources

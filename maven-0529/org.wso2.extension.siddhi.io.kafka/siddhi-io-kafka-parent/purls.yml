@@ -33,3 +33,4 @@
 - pkg:maven/org.wso2.extension.siddhi.io.kafka/siddhi-io-kafka-parent@4.1.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.kafka/siddhi-io-kafka-parent@4.1.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.kafka/siddhi-io-kafka-parent@4.2.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.kafka/siddhi-io-kafka-parent@5.0.1?classifier=source-release&type=zip

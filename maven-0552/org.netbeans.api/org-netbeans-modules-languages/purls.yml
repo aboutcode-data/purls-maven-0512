@@ -1,0 +1,3 @@
+- pkg:maven/org.netbeans.api/org-netbeans-modules-languages@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-languages@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-languages@RELEASE90?classifier=sources

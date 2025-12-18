@@ -1,0 +1,2 @@
+- pkg:maven/com.hynnet/taobao-sdk@20160607
+- pkg:maven/com.hynnet/taobao-sdk@20160607?classifier=sources

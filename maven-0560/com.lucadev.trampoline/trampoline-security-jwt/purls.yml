@@ -2,3 +2,5 @@
 - pkg:maven/com.lucadev.trampoline/trampoline-security-jwt@20190308?classifier=sources
 - pkg:maven/com.lucadev.trampoline/trampoline-security-jwt@20190329
 - pkg:maven/com.lucadev.trampoline/trampoline-security-jwt@20190329?classifier=sources
+- pkg:maven/com.lucadev.trampoline/trampoline-security-jwt@20190507
+- pkg:maven/com.lucadev.trampoline/trampoline-security-jwt@20190507?classifier=sources

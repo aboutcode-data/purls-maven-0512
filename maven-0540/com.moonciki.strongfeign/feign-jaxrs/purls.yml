@@ -1,0 +1,4 @@
+- pkg:maven/com.moonciki.strongfeign/feign-jaxrs@10.2.3
+- pkg:maven/com.moonciki.strongfeign/feign-jaxrs@10.2.3?classifier=sources
+- pkg:maven/com.moonciki.strongfeign/feign-jaxrs@10.3.1-RELEASE
+- pkg:maven/com.moonciki.strongfeign/feign-jaxrs@10.3.1-RELEASE?classifier=sources

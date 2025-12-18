@@ -15,3 +15,5 @@
 - pkg:maven/com.holon-platform.jdbc/holon-starter-jdbc-hikaricp@5.2.0-rc2
 - pkg:maven/com.holon-platform.jdbc/holon-starter-jdbc-hikaricp@5.2.1
 - pkg:maven/com.holon-platform.jdbc/holon-starter-jdbc-hikaricp@5.2.2
+- pkg:maven/com.holon-platform.jdbc/holon-starter-jdbc-hikaricp@5.2.3
+- pkg:maven/com.holon-platform.jdbc/holon-starter-jdbc-hikaricp@5.2.4

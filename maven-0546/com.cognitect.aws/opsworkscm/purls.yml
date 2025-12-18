@@ -6,3 +6,5 @@
 - pkg:maven/com.cognitect.aws/opsworkscm@697.2.391.0?classifier=sources
 - pkg:maven/com.cognitect.aws/opsworkscm@711.2.411.0
 - pkg:maven/com.cognitect.aws/opsworkscm@711.2.411.0?classifier=sources
+- pkg:maven/com.cognitect.aws/opsworkscm@719.2.463.0
+- pkg:maven/com.cognitect.aws/opsworkscm@719.2.463.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/wiki.xsx/slf4j-spring-boot-starter@1.1.1
+- pkg:maven/wiki.xsx/slf4j-spring-boot-starter@1.1.1?classifier=sources

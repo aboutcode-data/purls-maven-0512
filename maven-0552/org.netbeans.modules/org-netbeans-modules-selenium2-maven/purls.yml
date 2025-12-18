@@ -1,0 +1,3 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE90?classifier=sources

@@ -2,8 +2,10 @@
 - pkg:maven/org.webjars.npm/readable-stream@1.0.27-1?classifier=sources
 - pkg:maven/org.webjars.npm/readable-stream@1.0.31
 - pkg:maven/org.webjars.npm/readable-stream@1.0.31?classifier=sources
+- pkg:maven/org.webjars.npm/readable-stream@1.0.33
 - pkg:maven/org.webjars.npm/readable-stream@1.0.33-2
 - pkg:maven/org.webjars.npm/readable-stream@1.0.33-2?classifier=sources
+- pkg:maven/org.webjars.npm/readable-stream@1.0.33?classifier=sources
 - pkg:maven/org.webjars.npm/readable-stream@1.0.34
 - pkg:maven/org.webjars.npm/readable-stream@1.0.34?classifier=sources
 - pkg:maven/org.webjars.npm/readable-stream@1.1.13-1
@@ -52,3 +54,5 @@
 - pkg:maven/org.webjars.npm/readable-stream@3.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/readable-stream@3.3.0
 - pkg:maven/org.webjars.npm/readable-stream@3.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/readable-stream@3.4.0
+- pkg:maven/org.webjars.npm/readable-stream@3.4.0?classifier=sources

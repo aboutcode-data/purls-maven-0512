@@ -1,0 +1,2 @@
+- pkg:maven/org.jmotor/scala-i18n_2.13@1.0.7
+- pkg:maven/org.jmotor/scala-i18n_2.13@1.0.7?classifier=sources

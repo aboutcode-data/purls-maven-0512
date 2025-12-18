@@ -7,3 +7,7 @@
 - pkg:maven/com.caucho/resin@4.0.59?classifier=sources
 - pkg:maven/com.caucho/resin@4.0.60
 - pkg:maven/com.caucho/resin@4.0.60?classifier=sources
+- pkg:maven/com.caucho/resin@4.0.61
+- pkg:maven/com.caucho/resin@4.0.61?classifier=sources
+- pkg:maven/com.caucho/resin@4.0.62
+- pkg:maven/com.caucho/resin@4.0.62?classifier=sources

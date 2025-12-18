@@ -93,6 +93,8 @@
 - pkg:maven/com.ibm.watson.developer_cloud/java-sdk@6.13.2?classifier=sources
 - pkg:maven/com.ibm.watson.developer_cloud/java-sdk@6.14.0
 - pkg:maven/com.ibm.watson.developer_cloud/java-sdk@6.14.0?classifier=sources
+- pkg:maven/com.ibm.watson.developer_cloud/java-sdk@6.14.2
+- pkg:maven/com.ibm.watson.developer_cloud/java-sdk@6.14.2?classifier=sources
 - pkg:maven/com.ibm.watson.developer_cloud/java-sdk@6.2.0
 - pkg:maven/com.ibm.watson.developer_cloud/java-sdk@6.2.0?classifier=sources
 - pkg:maven/com.ibm.watson.developer_cloud/java-sdk@6.3.1

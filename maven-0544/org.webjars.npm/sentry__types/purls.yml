@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/sentry__types@4.5.0
 - pkg:maven/org.webjars.npm/sentry__types@4.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/sentry__types@5.4.0
+- pkg:maven/org.webjars.npm/sentry__types@5.4.0?classifier=sources

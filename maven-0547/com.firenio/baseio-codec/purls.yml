@@ -4,6 +4,8 @@
 - pkg:maven/com.firenio/baseio-codec@3.2.9-BETA-4?classifier=sources
 - pkg:maven/com.firenio/baseio-codec@3.2.9.beta10
 - pkg:maven/com.firenio/baseio-codec@3.2.9.beta10?classifier=sources
+- pkg:maven/com.firenio/baseio-codec@3.2.9.beta11
+- pkg:maven/com.firenio/baseio-codec@3.2.9.beta11?classifier=sources
 - pkg:maven/com.firenio/baseio-codec@3.2.9.beta5
 - pkg:maven/com.firenio/baseio-codec@3.2.9.beta5?classifier=sources
 - pkg:maven/com.firenio/baseio-codec@3.2.9.beta6

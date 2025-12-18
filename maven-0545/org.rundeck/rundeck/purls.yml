@@ -27,6 +27,16 @@
 - pkg:maven/org.rundeck/rundeck@3.0.2-20180803?classifier=sources
 - pkg:maven/org.rundeck/rundeck@3.0.2-20180803?type=war
 - pkg:maven/org.rundeck/rundeck@3.0.2-20180817?classifier=sources
+- pkg:maven/org.rundeck/rundeck@3.0.20-20190408?classifier=sources
+- pkg:maven/org.rundeck/rundeck@3.0.20-20190408?type=war
+- pkg:maven/org.rundeck/rundeck@3.0.21-20190424?classifier=sources
+- pkg:maven/org.rundeck/rundeck@3.0.21-20190424?type=war
+- pkg:maven/org.rundeck/rundeck@3.0.22-20190512?classifier=sources
+- pkg:maven/org.rundeck/rundeck@3.0.22-20190512?type=war
+- pkg:maven/org.rundeck/rundeck@3.0.23-20190619?classifier=sources
+- pkg:maven/org.rundeck/rundeck@3.0.23-20190619?type=war
+- pkg:maven/org.rundeck/rundeck@3.0.24-20190719?classifier=sources
+- pkg:maven/org.rundeck/rundeck@3.0.24-20190719?type=war
 - pkg:maven/org.rundeck/rundeck@3.0.5-20180828?classifier=sources
 - pkg:maven/org.rundeck/rundeck@3.0.5-20180828?type=war
 - pkg:maven/org.rundeck/rundeck@3.0.7-20181008?classifier=sources
@@ -35,3 +45,5 @@
 - pkg:maven/org.rundeck/rundeck@3.0.8-20181029?type=war
 - pkg:maven/org.rundeck/rundeck@3.0.9-20181127?classifier=sources
 - pkg:maven/org.rundeck/rundeck@3.0.9-20181127?type=war
+- pkg:maven/org.rundeck/rundeck@3.1.0-rc2-20190719?classifier=sources
+- pkg:maven/org.rundeck/rundeck@3.1.0-rc2-20190719?type=war

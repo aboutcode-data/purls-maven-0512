@@ -1,2 +1,6 @@
 - pkg:maven/org.jeecf/jeecf-module-osgi@1.0.0-RELEASE
 - pkg:maven/org.jeecf/jeecf-module-osgi@1.0.0-RELEASE?classifier=sources
+- pkg:maven/org.jeecf/jeecf-module-osgi@2.0.0-RELEASE
+- pkg:maven/org.jeecf/jeecf-module-osgi@2.0.0-RELEASE?classifier=sources
+- pkg:maven/org.jeecf/jeecf-module-osgi@2.0.1-RELEASE
+- pkg:maven/org.jeecf/jeecf-module-osgi@2.0.1-RELEASE?classifier=sources

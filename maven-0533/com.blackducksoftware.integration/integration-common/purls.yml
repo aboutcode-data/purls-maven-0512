@@ -62,6 +62,10 @@
 - pkg:maven/com.blackducksoftware.integration/integration-common@17.0.0?classifier=sources
 - pkg:maven/com.blackducksoftware.integration/integration-common@17.0.1
 - pkg:maven/com.blackducksoftware.integration/integration-common@17.0.1?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/integration-common@17.0.2
+- pkg:maven/com.blackducksoftware.integration/integration-common@17.0.2?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/integration-common@17.1.0
+- pkg:maven/com.blackducksoftware.integration/integration-common@17.1.0?classifier=sources
 - pkg:maven/com.blackducksoftware.integration/integration-common@2.0.0
 - pkg:maven/com.blackducksoftware.integration/integration-common@2.0.0?classifier=sources
 - pkg:maven/com.blackducksoftware.integration/integration-common@2.1.0

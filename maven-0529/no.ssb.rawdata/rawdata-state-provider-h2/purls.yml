@@ -1,0 +1,2 @@
+- pkg:maven/no.ssb.rawdata/rawdata-state-provider-h2@0.1
+- pkg:maven/no.ssb.rawdata/rawdata-state-provider-h2@0.1?classifier=sources

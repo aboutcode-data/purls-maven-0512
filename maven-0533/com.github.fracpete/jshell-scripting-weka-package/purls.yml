@@ -2,3 +2,5 @@
 - pkg:maven/com.github.fracpete/jshell-scripting-weka-package@2018.7.2?classifier=sources
 - pkg:maven/com.github.fracpete/jshell-scripting-weka-package@2018.8.11
 - pkg:maven/com.github.fracpete/jshell-scripting-weka-package@2018.8.11?classifier=sources
+- pkg:maven/com.github.fracpete/jshell-scripting-weka-package@2019.4.3
+- pkg:maven/com.github.fracpete/jshell-scripting-weka-package@2019.4.3?classifier=sources

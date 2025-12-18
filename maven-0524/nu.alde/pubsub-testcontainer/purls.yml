@@ -1,0 +1,2 @@
+- pkg:maven/nu.alde/pubsub-testcontainer@0.0.5
+- pkg:maven/nu.alde/pubsub-testcontainer@0.0.5?classifier=sources

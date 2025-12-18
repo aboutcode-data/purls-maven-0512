@@ -6,3 +6,5 @@
 - pkg:maven/ml.dmlc/xgboost4j-flink@0.81?classifier=sources
 - pkg:maven/ml.dmlc/xgboost4j-flink@0.82
 - pkg:maven/ml.dmlc/xgboost4j-flink@0.82?classifier=sources
+- pkg:maven/ml.dmlc/xgboost4j-flink@0.90
+- pkg:maven/ml.dmlc/xgboost4j-flink@0.90?classifier=sources

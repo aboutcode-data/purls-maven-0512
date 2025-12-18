@@ -1,0 +1,14 @@
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.1-RELEASE
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.1-RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.11-RELEASE
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.11-RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.12-RELEASE
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.12-RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.13-RELEASE
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.13-RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.14-RELEASE
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.14-RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.15-RELEASE
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.15-RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.20-RELEASE
+- pkg:maven/com.github.g-chenning/redis-wcn@0.0.20-RELEASE?classifier=sources

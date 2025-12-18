@@ -1,0 +1,2 @@
+- pkg:maven/com.baristav.bugreporter/bugreporter@0.7.0?classifier=sources
+- pkg:maven/com.baristav.bugreporter/bugreporter@0.7.0?type=aar

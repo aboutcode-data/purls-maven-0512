@@ -1,0 +1,3 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-jshell-agent@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-jshell-agent@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-jshell-agent@RELEASE90?classifier=sources

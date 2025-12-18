@@ -58,5 +58,7 @@
 - pkg:maven/uk.gov.gchq.gaffer/integration-test@1.8.1
 - pkg:maven/uk.gov.gchq.gaffer/integration-test@1.8.2
 - pkg:maven/uk.gov.gchq.gaffer/integration-test@1.8.3
+- pkg:maven/uk.gov.gchq.gaffer/integration-test@1.9.0
 - pkg:maven/uk.gov.gchq.gaffer/integration-test@1.9.0-RC1
 - pkg:maven/uk.gov.gchq.gaffer/integration-test@1.9.0-RC2
+- pkg:maven/uk.gov.gchq.gaffer/integration-test@1.9.1

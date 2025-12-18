@@ -1,0 +1,2 @@
+- pkg:maven/com.networknt/logging@1.5.32
+- pkg:maven/com.networknt/logging@1.5.32?classifier=sources

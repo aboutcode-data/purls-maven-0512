@@ -1,0 +1,8 @@
+- pkg:maven/org.eclipse.jetty/infinispan-remote-query@10.0.0-alpha0
+- pkg:maven/org.eclipse.jetty/infinispan-remote-query@10.0.0-alpha0?classifier=sources
+- pkg:maven/org.eclipse.jetty/infinispan-remote-query@9.4.17.v20190418
+- pkg:maven/org.eclipse.jetty/infinispan-remote-query@9.4.17.v20190418?classifier=sources
+- pkg:maven/org.eclipse.jetty/infinispan-remote-query@9.4.18.v20190429
+- pkg:maven/org.eclipse.jetty/infinispan-remote-query@9.4.18.v20190429?classifier=sources
+- pkg:maven/org.eclipse.jetty/infinispan-remote-query@9.4.19.v20190610
+- pkg:maven/org.eclipse.jetty/infinispan-remote-query@9.4.19.v20190610?classifier=sources

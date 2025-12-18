@@ -1,1 +1,3 @@
 - pkg:maven/org.javalite/db-migrator-integration-test@1.4.10
+- pkg:maven/org.javalite/db-migrator-integration-test@2.3
+- pkg:maven/org.javalite/db-migrator-integration-test@2.3?classifier=sources

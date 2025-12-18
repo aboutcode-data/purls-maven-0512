@@ -1,0 +1,2 @@
+- pkg:maven/io.github.egonw.bacting/managers-chemspider@0.0.7
+- pkg:maven/io.github.egonw.bacting/managers-chemspider@0.0.7?classifier=sources

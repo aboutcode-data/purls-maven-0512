@@ -24,3 +24,4 @@
 - pkg:maven/com.cosium.vet/vet@3.17?classifier=sources
 - pkg:maven/com.cosium.vet/vet@3.18?classifier=sources
 - pkg:maven/com.cosium.vet/vet@3.19?classifier=sources
+- pkg:maven/com.cosium.vet/vet@3.22?classifier=sources

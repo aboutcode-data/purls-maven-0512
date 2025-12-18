@@ -1,0 +1,2 @@
+- pkg:maven/net.petitviolet/generic-diff-macro_2.13@0.6.0
+- pkg:maven/net.petitviolet/generic-diff-macro_2.13@0.6.0?classifier=sources

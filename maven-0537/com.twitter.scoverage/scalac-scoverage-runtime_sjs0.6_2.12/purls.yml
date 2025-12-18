@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter.scoverage/scalac-scoverage-runtime_sjs0.6_2.12@1.0.1-twitter
+- pkg:maven/com.twitter.scoverage/scalac-scoverage-runtime_sjs0.6_2.12@1.0.1-twitter?classifier=sources

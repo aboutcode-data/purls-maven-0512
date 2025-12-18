@@ -1,0 +1,6 @@
+- pkg:maven/com.github.mizool.technology.table-access/table-access-business@0.29
+- pkg:maven/com.github.mizool.technology.table-access/table-access-business@0.29?classifier=sources
+- pkg:maven/com.github.mizool.technology.table-access/table-access-business@0.30
+- pkg:maven/com.github.mizool.technology.table-access/table-access-business@0.30?classifier=sources
+- pkg:maven/com.github.mizool.technology.table-access/table-access-business@0.31
+- pkg:maven/com.github.mizool.technology.table-access/table-access-business@0.31?classifier=sources

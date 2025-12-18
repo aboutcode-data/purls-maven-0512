@@ -1,5 +1,6 @@
 - pkg:maven/io.confluent/kafka-connect-maven-plugin@0.10.0
 - pkg:maven/io.confluent/kafka-connect-maven-plugin@0.11.0
 - pkg:maven/io.confluent/kafka-connect-maven-plugin@0.11.1
+- pkg:maven/io.confluent/kafka-connect-maven-plugin@0.11.2
 - pkg:maven/io.confluent/kafka-connect-maven-plugin@0.9.0
 - pkg:maven/io.confluent/kafka-connect-maven-plugin@0.9.1

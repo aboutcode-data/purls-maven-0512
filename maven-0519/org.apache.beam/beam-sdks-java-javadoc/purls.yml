@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.beam/beam-sdks-java-javadoc@2.13.0
+- pkg:maven/org.apache.beam/beam-sdks-java-javadoc@2.13.0?classifier=sources

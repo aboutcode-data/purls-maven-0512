@@ -1,0 +1,4 @@
+- pkg:maven/dev.spiti.utilities/config-reader@1.0.0
+- pkg:maven/dev.spiti.utilities/config-reader@1.0.0?classifier=sources
+- pkg:maven/dev.spiti.utilities/config-reader@1.0.1
+- pkg:maven/dev.spiti.utilities/config-reader@1.0.1?classifier=sources

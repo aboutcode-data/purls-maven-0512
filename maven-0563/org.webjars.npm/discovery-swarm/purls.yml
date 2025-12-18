@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/discovery-swarm@5.1.4
+- pkg:maven/org.webjars.npm/discovery-swarm@5.1.4?classifier=sources

@@ -86,3 +86,5 @@
 - pkg:maven/org.wso2.ei/jaxrs_basic@6.5.0-m2?type=war
 - pkg:maven/org.wso2.ei/jaxrs_basic@6.5.0-m3?classifier=sources
 - pkg:maven/org.wso2.ei/jaxrs_basic@6.5.0-m3?type=war
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.5.0?classifier=sources
+- pkg:maven/org.wso2.ei/jaxrs_basic@6.5.0?type=war

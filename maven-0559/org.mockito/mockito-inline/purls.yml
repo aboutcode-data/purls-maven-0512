@@ -40,6 +40,14 @@
 - pkg:maven/org.mockito/mockito-inline@2.25.1?classifier=sources
 - pkg:maven/org.mockito/mockito-inline@2.26.0
 - pkg:maven/org.mockito/mockito-inline@2.26.0?classifier=sources
+- pkg:maven/org.mockito/mockito-inline@2.27.0
+- pkg:maven/org.mockito/mockito-inline@2.27.0?classifier=sources
+- pkg:maven/org.mockito/mockito-inline@2.27.5
+- pkg:maven/org.mockito/mockito-inline@2.27.5?classifier=sources
+- pkg:maven/org.mockito/mockito-inline@2.28.1
+- pkg:maven/org.mockito/mockito-inline@2.28.1?classifier=sources
+- pkg:maven/org.mockito/mockito-inline@2.28.2
+- pkg:maven/org.mockito/mockito-inline@2.28.2?classifier=sources
 - pkg:maven/org.mockito/mockito-inline@2.7.10
 - pkg:maven/org.mockito/mockito-inline@2.7.10?classifier=sources
 - pkg:maven/org.mockito/mockito-inline@2.7.11
@@ -88,3 +96,5 @@
 - pkg:maven/org.mockito/mockito-inline@2.8.9?classifier=sources
 - pkg:maven/org.mockito/mockito-inline@2.9.0
 - pkg:maven/org.mockito/mockito-inline@2.9.0?classifier=sources
+- pkg:maven/org.mockito/mockito-inline@3.0.0
+- pkg:maven/org.mockito/mockito-inline@3.0.0?classifier=sources

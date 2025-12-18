@@ -1,0 +1,4 @@
+- pkg:maven/xyz.entangled/scotty_2.10@0.1.0
+- pkg:maven/xyz.entangled/scotty_2.10@0.1.0?classifier=sources
+- pkg:maven/xyz.entangled/scotty_2.10@0.2.0
+- pkg:maven/xyz.entangled/scotty_2.10@0.2.0?classifier=sources

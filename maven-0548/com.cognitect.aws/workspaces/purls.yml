@@ -6,3 +6,13 @@
 - pkg:maven/com.cognitect.aws/workspaces@704.2.396.0?classifier=sources
 - pkg:maven/com.cognitect.aws/workspaces@714.2.431.0
 - pkg:maven/com.cognitect.aws/workspaces@714.2.431.0?classifier=sources
+- pkg:maven/com.cognitect.aws/workspaces@716.2.440.0
+- pkg:maven/com.cognitect.aws/workspaces@716.2.440.0?classifier=sources
+- pkg:maven/com.cognitect.aws/workspaces@716.2.441.0
+- pkg:maven/com.cognitect.aws/workspaces@716.2.441.0?classifier=sources
+- pkg:maven/com.cognitect.aws/workspaces@718.2.443.0
+- pkg:maven/com.cognitect.aws/workspaces@718.2.443.0?classifier=sources
+- pkg:maven/com.cognitect.aws/workspaces@726.2.484.0
+- pkg:maven/com.cognitect.aws/workspaces@726.2.484.0?classifier=sources
+- pkg:maven/com.cognitect.aws/workspaces@726.2.485.0
+- pkg:maven/com.cognitect.aws/workspaces@726.2.485.0?classifier=sources

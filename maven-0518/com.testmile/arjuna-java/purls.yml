@@ -1,0 +1,4 @@
+- pkg:maven/com.testmile/arjuna-java@0.1.0-beta
+- pkg:maven/com.testmile/arjuna-java@0.1.0-beta?classifier=sources
+- pkg:maven/com.testmile/arjuna-java@0.1.1
+- pkg:maven/com.testmile/arjuna-java@0.1.1?classifier=sources

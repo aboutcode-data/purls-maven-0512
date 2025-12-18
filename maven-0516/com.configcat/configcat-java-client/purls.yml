@@ -1,0 +1,4 @@
+- pkg:maven/com.configcat/configcat-java-client@1.0.0
+- pkg:maven/com.configcat/configcat-java-client@1.0.0?classifier=sources
+- pkg:maven/com.configcat/configcat-java-client@1.1.0
+- pkg:maven/com.configcat/configcat-java-client@1.1.0?classifier=sources

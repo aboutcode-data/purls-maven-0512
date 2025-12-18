@@ -5,3 +5,13 @@
 - pkg:maven/io.prestosql/presto-postgresql@304?classifier=sources
 - pkg:maven/io.prestosql/presto-postgresql@305?classifier=sources
 - pkg:maven/io.prestosql/presto-postgresql@306?classifier=sources
+- pkg:maven/io.prestosql/presto-postgresql@307?classifier=sources
+- pkg:maven/io.prestosql/presto-postgresql@308?classifier=sources
+- pkg:maven/io.prestosql/presto-postgresql@309?classifier=sources
+- pkg:maven/io.prestosql/presto-postgresql@310?classifier=sources
+- pkg:maven/io.prestosql/presto-postgresql@311?classifier=sources
+- pkg:maven/io.prestosql/presto-postgresql@312?classifier=sources
+- pkg:maven/io.prestosql/presto-postgresql@313?classifier=sources
+- pkg:maven/io.prestosql/presto-postgresql@314?classifier=sources
+- pkg:maven/io.prestosql/presto-postgresql@315?classifier=sources
+- pkg:maven/io.prestosql/presto-postgresql@316?classifier=sources

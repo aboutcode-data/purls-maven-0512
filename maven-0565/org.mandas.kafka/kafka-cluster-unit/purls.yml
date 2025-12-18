@@ -20,3 +20,5 @@
 - pkg:maven/org.mandas.kafka/kafka-cluster-unit@2.0.5?classifier=sources
 - pkg:maven/org.mandas.kafka/kafka-cluster-unit@2.1.0
 - pkg:maven/org.mandas.kafka/kafka-cluster-unit@2.1.0?classifier=sources
+- pkg:maven/org.mandas.kafka/kafka-cluster-unit@2.3.0
+- pkg:maven/org.mandas.kafka/kafka-cluster-unit@2.3.0?classifier=sources

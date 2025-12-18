@@ -1,0 +1,2 @@
+- pkg:maven/io.github.gasparbarancelli/spring-native-query@1.0.1
+- pkg:maven/io.github.gasparbarancelli/spring-native-query@1.0.1?classifier=sources

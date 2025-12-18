@@ -14,3 +14,7 @@
 - pkg:maven/cn.javaer.springfox/swagger-document-ui@0.2.1?classifier=sources
 - pkg:maven/cn.javaer.springfox/swagger-document-ui@1.0.0
 - pkg:maven/cn.javaer.springfox/swagger-document-ui@1.0.0?classifier=sources
+- pkg:maven/cn.javaer.springfox/swagger-document-ui@1.0.1
+- pkg:maven/cn.javaer.springfox/swagger-document-ui@1.0.1?classifier=sources
+- pkg:maven/cn.javaer.springfox/swagger-document-ui@1.0.2
+- pkg:maven/cn.javaer.springfox/swagger-document-ui@1.0.2?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.gitee.hengboy/mybatis-enhance-dsl@1.0.6.RELEASE?classifier=sources
 - pkg:maven/com.gitee.hengboy/mybatis-enhance-dsl@1.0.7.RELEASE
 - pkg:maven/com.gitee.hengboy/mybatis-enhance-dsl@1.0.7.RELEASE?classifier=sources
+- pkg:maven/com.gitee.hengboy/mybatis-enhance-dsl@1.1.1.RELEASE
+- pkg:maven/com.gitee.hengboy/mybatis-enhance-dsl@1.1.1.RELEASE?classifier=sources

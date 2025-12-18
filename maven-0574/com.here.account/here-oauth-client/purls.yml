@@ -12,6 +12,8 @@
 - pkg:maven/com.here.account/here-oauth-client@0.4.15?classifier=sources
 - pkg:maven/com.here.account/here-oauth-client@0.4.16
 - pkg:maven/com.here.account/here-oauth-client@0.4.16?classifier=sources
+- pkg:maven/com.here.account/here-oauth-client@0.4.17
+- pkg:maven/com.here.account/here-oauth-client@0.4.17?classifier=sources
 - pkg:maven/com.here.account/here-oauth-client@0.4.7
 - pkg:maven/com.here.account/here-oauth-client@0.4.7?classifier=sources
 - pkg:maven/com.here.account/here-oauth-client@0.4.8

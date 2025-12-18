@@ -47,3 +47,7 @@
 - pkg:maven/com.facebook.presto/presto-benchto-benchmarks@0.216?classifier=sources
 - pkg:maven/com.facebook.presto/presto-benchto-benchmarks@0.217?classifier=sources
 - pkg:maven/com.facebook.presto/presto-benchto-benchmarks@0.218?classifier=sources
+- pkg:maven/com.facebook.presto/presto-benchto-benchmarks@0.219?classifier=sources
+- pkg:maven/com.facebook.presto/presto-benchto-benchmarks@0.220?classifier=sources
+- pkg:maven/com.facebook.presto/presto-benchto-benchmarks@0.221?classifier=sources
+- pkg:maven/com.facebook.presto/presto-benchto-benchmarks@0.222?classifier=sources

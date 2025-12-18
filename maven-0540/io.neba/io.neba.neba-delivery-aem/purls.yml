@@ -17,3 +17,5 @@
 - pkg:maven/io.neba/io.neba.neba-delivery-aem@5.0.2?classifier=sources
 - pkg:maven/io.neba/io.neba.neba-delivery-aem@5.0.3?classifier=sources
 - pkg:maven/io.neba/io.neba.neba-delivery-aem@5.0.4?classifier=sources
+- pkg:maven/io.neba/io.neba.neba-delivery-aem@5.0.5?classifier=sources
+- pkg:maven/io.neba/io.neba.neba-delivery-aem@5.0.6?classifier=sources

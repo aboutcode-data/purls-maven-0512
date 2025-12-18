@@ -1,0 +1,2 @@
+- pkg:maven/com.webank/TestId_test@0.0.1-rc.1
+- pkg:maven/com.webank/TestId_test@0.0.1-rc.1?classifier=sources

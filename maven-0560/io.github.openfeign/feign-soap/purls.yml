@@ -1,2 +1,4 @@
 - pkg:maven/io.github.openfeign/feign-soap@10.2.0
 - pkg:maven/io.github.openfeign/feign-soap@10.2.0?classifier=sources
+- pkg:maven/io.github.openfeign/feign-soap@10.2.3
+- pkg:maven/io.github.openfeign/feign-soap@10.2.3?classifier=sources

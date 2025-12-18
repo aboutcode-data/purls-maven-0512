@@ -62,3 +62,5 @@
 - pkg:maven/top.marchand.xml/gaulois-pipe@1.03.05?classifier=sources
 - pkg:maven/top.marchand.xml/gaulois-pipe@1.04.00
 - pkg:maven/top.marchand.xml/gaulois-pipe@1.04.00?classifier=sources
+- pkg:maven/top.marchand.xml/gaulois-pipe@1.04.01
+- pkg:maven/top.marchand.xml/gaulois-pipe@1.04.01?classifier=sources

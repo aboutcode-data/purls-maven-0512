@@ -28,3 +28,9 @@
 - pkg:maven/com.xishankeji/Demo@1.1.1.63?classifier=sources
 - pkg:maven/com.xishankeji/Demo@1.1.1.71
 - pkg:maven/com.xishankeji/Demo@1.1.1.71?classifier=sources
+- pkg:maven/com.xishankeji/Demo@1.1.1.81
+- pkg:maven/com.xishankeji/Demo@1.1.1.81?classifier=sources
+- pkg:maven/com.xishankeji/Demo@1.1.1.85
+- pkg:maven/com.xishankeji/Demo@1.1.1.85?classifier=sources
+- pkg:maven/com.xishankeji/Demo@1.1.1.86
+- pkg:maven/com.xishankeji/Demo@1.1.1.86?classifier=sources

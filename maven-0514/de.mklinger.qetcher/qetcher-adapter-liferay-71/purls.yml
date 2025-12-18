@@ -1,0 +1,10 @@
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-71@2.0.10
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-71@2.0.10?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-71@2.0.6
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-71@2.0.6?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-71@2.0.7
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-71@2.0.7?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-71@2.0.8
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-71@2.0.8?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-71@2.0.9
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-71@2.0.9?classifier=sources

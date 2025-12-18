@@ -1,0 +1,2 @@
+- pkg:maven/org.femtoframework.fork/jsoniter@0.9.24-FEMTO
+- pkg:maven/org.femtoframework.fork/jsoniter@0.9.24-FEMTO?classifier=sources

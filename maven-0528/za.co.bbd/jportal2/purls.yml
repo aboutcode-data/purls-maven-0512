@@ -1,0 +1,6 @@
+- pkg:maven/za.co.bbd/jportal2@1.0.0
+- pkg:maven/za.co.bbd/jportal2@1.0.0?classifier=sources
+- pkg:maven/za.co.bbd/jportal2@1.1.0
+- pkg:maven/za.co.bbd/jportal2@1.1.0?classifier=sources
+- pkg:maven/za.co.bbd/jportal2@1.2.0
+- pkg:maven/za.co.bbd/jportal2@1.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.tinymediamanager/tinyMediaManager-LaF@3.0
+- pkg:maven/org.tinymediamanager/tinyMediaManager-LaF@3.0?classifier=sources
+- pkg:maven/org.tinymediamanager/tinyMediaManager-LaF@3.1
+- pkg:maven/org.tinymediamanager/tinyMediaManager-LaF@3.1?classifier=sources

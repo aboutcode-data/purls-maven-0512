@@ -1,0 +1,2 @@
+- pkg:maven/de.mklinger.micro/lists@1.0
+- pkg:maven/de.mklinger.micro/lists@1.0?classifier=sources

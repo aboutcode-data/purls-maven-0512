@@ -12,3 +12,5 @@
 - pkg:maven/cn.afterturn/easypoi-annotation@3.3.0?classifier=sources
 - pkg:maven/cn.afterturn/easypoi-annotation@4.0.0
 - pkg:maven/cn.afterturn/easypoi-annotation@4.0.0?classifier=sources
+- pkg:maven/cn.afterturn/easypoi-annotation@4.1.0
+- pkg:maven/cn.afterturn/easypoi-annotation@4.1.0?classifier=sources

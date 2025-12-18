@@ -13,6 +13,8 @@
 - pkg:maven/org.opencypher/spark-cypher-tck@0.3.0?classifier=sources
 - pkg:maven/org.opencypher/spark-cypher-tck@0.3.1
 - pkg:maven/org.opencypher/spark-cypher-tck@0.3.1?classifier=sources
+- pkg:maven/org.opencypher/spark-cypher-tck@0.3.2
+- pkg:maven/org.opencypher/spark-cypher-tck@0.3.2?classifier=sources
 - pkg:maven/org.opencypher/spark-cypher-tck@1.0.0-alpha02
 - pkg:maven/org.opencypher/spark-cypher-tck@1.0.0-beta.1
 - pkg:maven/org.opencypher/spark-cypher-tck@1.0.0-beta2

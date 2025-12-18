@@ -1,0 +1,4 @@
+- pkg:maven/tel.schich/postfix-rest-connector@1.0.0
+- pkg:maven/tel.schich/postfix-rest-connector@1.0.0?classifier=sources
+- pkg:maven/tel.schich/postfix-rest-connector@1.1.0
+- pkg:maven/tel.schich/postfix-rest-connector@1.1.0?classifier=sources

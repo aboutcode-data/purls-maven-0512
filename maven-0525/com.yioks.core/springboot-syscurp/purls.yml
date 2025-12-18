@@ -1,0 +1,2 @@
+- pkg:maven/com.yioks.core/springboot-syscurp@v1.1.10
+- pkg:maven/com.yioks.core/springboot-syscurp@v1.1.10?classifier=sources

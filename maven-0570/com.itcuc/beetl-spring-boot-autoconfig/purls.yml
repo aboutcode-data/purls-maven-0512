@@ -1,0 +1,2 @@
+- pkg:maven/com.itcuc/beetl-spring-boot-autoconfig@1.0.0
+- pkg:maven/com.itcuc/beetl-spring-boot-autoconfig@1.0.0?classifier=sources

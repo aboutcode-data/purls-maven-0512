@@ -25,6 +25,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cglib@3.2.10_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cglib@3.2.10_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cglib@3.2.10_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cglib@3.2.12_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cglib@3.2.12_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cglib@3.2.12_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cglib@3.2.12_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cglib@3.2.1_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cglib@3.2.1_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cglib@3.2.1_1?classifier=src&type=tar.gz
