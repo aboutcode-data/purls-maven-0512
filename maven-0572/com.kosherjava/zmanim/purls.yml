@@ -6,3 +6,5 @@
 - pkg:maven/com.kosherjava/zmanim@2.02
 - pkg:maven/com.kosherjava/zmanim@2.02?classifier=sources
 - pkg:maven/com.kosherjava/zmanim@2.0?classifier=sources
+- pkg:maven/com.kosherjava/zmanim@2.1.0
+- pkg:maven/com.kosherjava/zmanim@2.1.0?classifier=sources

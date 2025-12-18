@@ -51,3 +51,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-archetype-daemon@1.8.0?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-archetype-daemon@1.8.1?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-archetype-daemon@1.8.2?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-archetype-daemon@1.8.3?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-archetype-daemon@1.8.4?classifier=sources

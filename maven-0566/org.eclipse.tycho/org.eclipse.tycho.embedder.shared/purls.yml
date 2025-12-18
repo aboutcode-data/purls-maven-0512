@@ -24,3 +24,4 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.embedder.shared@1.6.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.embedder.shared@1.7.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.embedder.shared@2.0.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.embedder.shared@2.1.0?classifier=sources

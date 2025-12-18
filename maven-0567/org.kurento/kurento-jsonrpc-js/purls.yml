@@ -22,3 +22,5 @@
 - pkg:maven/org.kurento/kurento-jsonrpc-js@6.13.0?type=zip
 - pkg:maven/org.kurento/kurento-jsonrpc-js@6.14.0?classifier=sources
 - pkg:maven/org.kurento/kurento-jsonrpc-js@6.14.0?type=zip
+- pkg:maven/org.kurento/kurento-jsonrpc-js@6.15.0?classifier=sources
+- pkg:maven/org.kurento/kurento-jsonrpc-js@6.15.0?type=zip

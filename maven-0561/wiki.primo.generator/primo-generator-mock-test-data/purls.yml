@@ -1,0 +1,2 @@
+- pkg:maven/wiki.primo.generator/primo-generator-mock-test-data@1.0.1
+- pkg:maven/wiki.primo.generator/primo-generator-mock-test-data@1.0.1?classifier=sources

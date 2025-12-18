@@ -1,3 +1,5 @@
 - pkg:maven/org.kie.kogito/explainability-integrationtests-opennlp@0.14.0
 - pkg:maven/org.kie.kogito/explainability-integrationtests-opennlp@0.15.0
 - pkg:maven/org.kie.kogito/explainability-integrationtests-opennlp@0.16.0
+- pkg:maven/org.kie.kogito/explainability-integrationtests-opennlp@0.17.0
+- pkg:maven/org.kie.kogito/explainability-integrationtests-opennlp@1.0.0.Final

@@ -16,3 +16,4 @@
 - pkg:maven/org.spf4j.avro/core-schema@1.0.0?classifier=sources
 - pkg:maven/org.spf4j.avro/core-schema@1.0.1
 - pkg:maven/org.spf4j.avro/core-schema@1.0.1?classifier=sources
+- pkg:maven/org.spf4j.avro/core-schema@1.0.2

@@ -20,3 +20,7 @@
 - pkg:maven/com.cognitect.aws/states@780.2.584.0?classifier=sources
 - pkg:maven/com.cognitect.aws/states@793.2.626.0
 - pkg:maven/com.cognitect.aws/states@793.2.626.0?classifier=sources
+- pkg:maven/com.cognitect.aws/states@809.2.784.0
+- pkg:maven/com.cognitect.aws/states@809.2.784.0?classifier=sources
+- pkg:maven/com.cognitect.aws/states@810.2.801.0
+- pkg:maven/com.cognitect.aws/states@810.2.801.0?classifier=sources

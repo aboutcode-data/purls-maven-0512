@@ -1,2 +1,4 @@
 - pkg:maven/com.jongsoft.lang/language-fasterxml@0.0.7
 - pkg:maven/com.jongsoft.lang/language-fasterxml@0.0.7?classifier=sources
+- pkg:maven/com.jongsoft.lang/language-fasterxml@1.1.0
+- pkg:maven/com.jongsoft.lang/language-fasterxml@1.1.0?classifier=sources

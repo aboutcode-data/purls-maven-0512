@@ -1,0 +1,6 @@
+- pkg:maven/de.sciss/scalacollider-dot_3.0.0-M1@1.2.0
+- pkg:maven/de.sciss/scalacollider-dot_3.0.0-M1@1.2.0?classifier=sources
+- pkg:maven/de.sciss/scalacollider-dot_3.0.0-M1@1.3.0
+- pkg:maven/de.sciss/scalacollider-dot_3.0.0-M1@1.3.0?classifier=sources
+- pkg:maven/de.sciss/scalacollider-dot_3.0.0-M1@1.4.0
+- pkg:maven/de.sciss/scalacollider-dot_3.0.0-M1@1.4.0?classifier=sources

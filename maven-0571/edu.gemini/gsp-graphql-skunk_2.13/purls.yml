@@ -1,0 +1,10 @@
+- pkg:maven/edu.gemini/gsp-graphql-skunk_2.13@0.0.26
+- pkg:maven/edu.gemini/gsp-graphql-skunk_2.13@0.0.26?classifier=sources
+- pkg:maven/edu.gemini/gsp-graphql-skunk_2.13@0.0.27
+- pkg:maven/edu.gemini/gsp-graphql-skunk_2.13@0.0.27?classifier=sources
+- pkg:maven/edu.gemini/gsp-graphql-skunk_2.13@0.0.28
+- pkg:maven/edu.gemini/gsp-graphql-skunk_2.13@0.0.28?classifier=sources
+- pkg:maven/edu.gemini/gsp-graphql-skunk_2.13@0.0.29
+- pkg:maven/edu.gemini/gsp-graphql-skunk_2.13@0.0.29?classifier=sources
+- pkg:maven/edu.gemini/gsp-graphql-skunk_2.13@0.0.30
+- pkg:maven/edu.gemini/gsp-graphql-skunk_2.13@0.0.30?classifier=sources

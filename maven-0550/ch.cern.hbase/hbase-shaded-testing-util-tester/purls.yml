@@ -1,0 +1,4 @@
+- pkg:maven/ch.cern.hbase/hbase-shaded-testing-util-tester@2.2.4
+- pkg:maven/ch.cern.hbase/hbase-shaded-testing-util-tester@2.2.4?classifier=sources
+- pkg:maven/ch.cern.hbase/hbase-shaded-testing-util-tester@2.2.4_1
+- pkg:maven/ch.cern.hbase/hbase-shaded-testing-util-tester@2.2.4_1?classifier=sources

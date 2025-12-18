@@ -1,2 +1,4 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.live/org.wso2.carbon.identity.application.authenticator.live@5.1.4
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.live/org.wso2.carbon.identity.application.authenticator.live@5.1.4?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.live/org.wso2.carbon.identity.application.authenticator.live@5.1.5
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.live/org.wso2.carbon.identity.application.authenticator.live@5.1.5?classifier=sources

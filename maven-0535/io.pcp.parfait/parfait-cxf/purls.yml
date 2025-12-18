@@ -6,3 +6,5 @@
 - pkg:maven/io.pcp.parfait/parfait-cxf@0.5.1?classifier=sources
 - pkg:maven/io.pcp.parfait/parfait-cxf@1.0.0
 - pkg:maven/io.pcp.parfait/parfait-cxf@1.0.0?classifier=sources
+- pkg:maven/io.pcp.parfait/parfait-cxf@1.1.0
+- pkg:maven/io.pcp.parfait/parfait-cxf@1.1.0?classifier=sources

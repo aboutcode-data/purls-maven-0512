@@ -4,3 +4,13 @@
 - pkg:maven/com.ganshane.specs/pop-sdk-all@1.9.54?classifier=sources
 - pkg:maven/com.ganshane.specs/pop-sdk-all@1.9.55
 - pkg:maven/com.ganshane.specs/pop-sdk-all@1.9.55?classifier=sources
+- pkg:maven/com.ganshane.specs/pop-sdk-all@1.9.70
+- pkg:maven/com.ganshane.specs/pop-sdk-all@1.9.70?classifier=sources
+- pkg:maven/com.ganshane.specs/pop-sdk-all@1.9.72
+- pkg:maven/com.ganshane.specs/pop-sdk-all@1.9.72?classifier=sources
+- pkg:maven/com.ganshane.specs/pop-sdk-all@1.9.77
+- pkg:maven/com.ganshane.specs/pop-sdk-all@1.9.77?classifier=sources
+- pkg:maven/com.ganshane.specs/pop-sdk-all@1.9.86
+- pkg:maven/com.ganshane.specs/pop-sdk-all@1.9.86?classifier=sources
+- pkg:maven/com.ganshane.specs/pop-sdk-all@1.9.87
+- pkg:maven/com.ganshane.specs/pop-sdk-all@1.9.87?classifier=sources

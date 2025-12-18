@@ -8,6 +8,10 @@
 - pkg:maven/org.wso2.carbon.identity.media/org.wso2.carbon.identity.media.endpoint@2.0.13?type=war
 - pkg:maven/org.wso2.carbon.identity.media/org.wso2.carbon.identity.media.endpoint@2.0.14?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.media/org.wso2.carbon.identity.media.endpoint@2.0.14?type=war
+- pkg:maven/org.wso2.carbon.identity.media/org.wso2.carbon.identity.media.endpoint@2.0.15?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.media/org.wso2.carbon.identity.media.endpoint@2.0.15?type=war
+- pkg:maven/org.wso2.carbon.identity.media/org.wso2.carbon.identity.media.endpoint@2.0.16?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.media/org.wso2.carbon.identity.media.endpoint@2.0.16?type=war
 - pkg:maven/org.wso2.carbon.identity.media/org.wso2.carbon.identity.media.endpoint@2.0.4?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.media/org.wso2.carbon.identity.media.endpoint@2.0.4?type=war
 - pkg:maven/org.wso2.carbon.identity.media/org.wso2.carbon.identity.media.endpoint@2.0.5?classifier=sources

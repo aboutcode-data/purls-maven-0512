@@ -12,3 +12,5 @@
 - pkg:maven/com.handcraftedbits/handcraftedbits-codequality@1.0.7?classifier=sources
 - pkg:maven/com.handcraftedbits/handcraftedbits-codequality@1.1.0
 - pkg:maven/com.handcraftedbits/handcraftedbits-codequality@1.1.0?classifier=sources
+- pkg:maven/com.handcraftedbits/handcraftedbits-codequality@1.1.1
+- pkg:maven/com.handcraftedbits/handcraftedbits-codequality@1.1.1?classifier=sources

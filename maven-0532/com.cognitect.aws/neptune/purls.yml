@@ -14,3 +14,5 @@
 - pkg:maven/com.cognitect.aws/neptune@786.2.606.0?classifier=sources
 - pkg:maven/com.cognitect.aws/neptune@791.2.617.0
 - pkg:maven/com.cognitect.aws/neptune@791.2.617.0?classifier=sources
+- pkg:maven/com.cognitect.aws/neptune@809.2.784.0
+- pkg:maven/com.cognitect.aws/neptune@809.2.784.0?classifier=sources

@@ -9,3 +9,5 @@
 - pkg:maven/me.jlurena/revolvingweekview@1.2.0?classifier=sources
 - pkg:maven/me.jlurena/revolvingweekview@2.0.0?classifier=sources
 - pkg:maven/me.jlurena/revolvingweekview@2.0.0?type=aar
+- pkg:maven/me.jlurena/revolvingweekview@3.0.0?classifier=sources
+- pkg:maven/me.jlurena/revolvingweekview@3.0.0?type=aar

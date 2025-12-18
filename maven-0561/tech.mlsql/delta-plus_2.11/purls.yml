@@ -22,3 +22,5 @@
 - pkg:maven/tech.mlsql/delta-plus_2.11@0.2.0?classifier=sources
 - pkg:maven/tech.mlsql/delta-plus_2.11@0.3.0
 - pkg:maven/tech.mlsql/delta-plus_2.11@0.3.0?classifier=sources
+- pkg:maven/tech.mlsql/delta-plus_2.11@0.4.0
+- pkg:maven/tech.mlsql/delta-plus_2.11@0.4.0?classifier=sources

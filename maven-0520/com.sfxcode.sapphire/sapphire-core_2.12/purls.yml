@@ -52,3 +52,5 @@
 - pkg:maven/com.sfxcode.sapphire/sapphire-core_2.12@1.8.3?classifier=sources
 - pkg:maven/com.sfxcode.sapphire/sapphire-core_2.12@2.0.0
 - pkg:maven/com.sfxcode.sapphire/sapphire-core_2.12@2.0.0?classifier=sources
+- pkg:maven/com.sfxcode.sapphire/sapphire-core_2.12@2.0.1
+- pkg:maven/com.sfxcode.sapphire/sapphire-core_2.12@2.0.1?classifier=sources

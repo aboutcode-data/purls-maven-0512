@@ -1,0 +1,2 @@
+- pkg:maven/com.playtika.nosql/reactor-batch-updater@0.0.15
+- pkg:maven/com.playtika.nosql/reactor-batch-updater@0.0.15?classifier=sources

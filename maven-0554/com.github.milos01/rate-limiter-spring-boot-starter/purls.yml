@@ -1,0 +1,2 @@
+- pkg:maven/com.github.milos01/rate-limiter-spring-boot-starter@1.0.0
+- pkg:maven/com.github.milos01/rate-limiter-spring-boot-starter@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.streampipes/streampipes-maven-plugin@0.67.0
+- pkg:maven/org.apache.streampipes/streampipes-maven-plugin@0.67.0?classifier=sources

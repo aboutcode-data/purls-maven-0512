@@ -14,3 +14,5 @@
 - pkg:maven/io.zipkin.aws/zipkin-module-collector-kinesis@0.21.3?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-module-collector-kinesis@0.22.0
 - pkg:maven/io.zipkin.aws/zipkin-module-collector-kinesis@0.22.0?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-module-collector-kinesis@0.22.1
+- pkg:maven/io.zipkin.aws/zipkin-module-collector-kinesis@0.22.1?classifier=sources

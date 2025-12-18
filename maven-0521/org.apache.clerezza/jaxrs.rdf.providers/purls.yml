@@ -6,3 +6,6 @@
 - pkg:maven/org.apache.clerezza/jaxrs.rdf.providers@0.15?classifier=sources
 - pkg:maven/org.apache.clerezza/jaxrs.rdf.providers@1.0.0
 - pkg:maven/org.apache.clerezza/jaxrs.rdf.providers@1.0.0?classifier=sources
+- pkg:maven/org.apache.clerezza/jaxrs.rdf.providers@2.0.0
+- pkg:maven/org.apache.clerezza/jaxrs.rdf.providers@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.clerezza/jaxrs.rdf.providers@2.0.0?classifier=sources

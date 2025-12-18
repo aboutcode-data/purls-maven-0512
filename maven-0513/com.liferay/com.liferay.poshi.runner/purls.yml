@@ -599,8 +599,17 @@
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.288
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.288?classifier=sources
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.288?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.289
+- pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.289?classifier=sources
+- pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.289?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.29
+- pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.290
+- pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.290?classifier=sources
+- pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.290?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.291
+- pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.291?classifier=sources
+- pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.291?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.3
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.30

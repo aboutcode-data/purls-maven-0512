@@ -35,6 +35,13 @@
 - pkg:maven/io.dekorate/kubernetes-spring-starter@0.13.1
 - pkg:maven/io.dekorate/kubernetes-spring-starter@0.13.2
 - pkg:maven/io.dekorate/kubernetes-spring-starter@0.13.3
+- pkg:maven/io.dekorate/kubernetes-spring-starter@0.13.4
+- pkg:maven/io.dekorate/kubernetes-spring-starter@0.13.5
+- pkg:maven/io.dekorate/kubernetes-spring-starter@0.13.6
+- pkg:maven/io.dekorate/kubernetes-spring-starter@0.14.0
+- pkg:maven/io.dekorate/kubernetes-spring-starter@0.14.1
+- pkg:maven/io.dekorate/kubernetes-spring-starter@0.14.2
+- pkg:maven/io.dekorate/kubernetes-spring-starter@0.14.3
 - pkg:maven/io.dekorate/kubernetes-spring-starter@0.6.1
 - pkg:maven/io.dekorate/kubernetes-spring-starter@0.7.1
 - pkg:maven/io.dekorate/kubernetes-spring-starter@0.7.2

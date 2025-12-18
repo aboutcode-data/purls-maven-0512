@@ -1,4 +1,5 @@
 - pkg:maven/com.io7m.changelog/com.io7m.changelog.tests@3.1.0
+- pkg:maven/com.io7m.changelog/com.io7m.changelog.tests@4.0.0
 - pkg:maven/com.io7m.changelog/com.io7m.changelog.tests@4.0.0-beta0001
 - pkg:maven/com.io7m.changelog/com.io7m.changelog.tests@4.0.0-beta0002
 - pkg:maven/com.io7m.changelog/com.io7m.changelog.tests@4.0.0-beta0004

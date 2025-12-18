@@ -1,2 +1,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-app-broker-logging@1.1.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-app-broker-logging@1.1.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-app-broker-logging@1.2.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-app-broker-logging@1.2.1?classifier=sources

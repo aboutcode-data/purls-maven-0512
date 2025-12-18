@@ -20,3 +20,5 @@
 - pkg:maven/com.github.waffle.demo/waffle-jaas@2.2.1?type=war
 - pkg:maven/com.github.waffle.demo/waffle-jaas@2.3.0?classifier=sources
 - pkg:maven/com.github.waffle.demo/waffle-jaas@2.3.0?type=war
+- pkg:maven/com.github.waffle.demo/waffle-jaas@3.0.0?classifier=sources
+- pkg:maven/com.github.waffle.demo/waffle-jaas@3.0.0?type=war

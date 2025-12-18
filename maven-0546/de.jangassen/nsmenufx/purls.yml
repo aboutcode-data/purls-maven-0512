@@ -1,0 +1,14 @@
+- pkg:maven/de.jangassen/nsmenufx@2.1.7
+- pkg:maven/de.jangassen/nsmenufx@2.1.7?classifier=sources
+- pkg:maven/de.jangassen/nsmenufx@2.1.8
+- pkg:maven/de.jangassen/nsmenufx@2.1.8?classifier=sources
+- pkg:maven/de.jangassen/nsmenufx@3.0.0
+- pkg:maven/de.jangassen/nsmenufx@3.0.0-BETA1
+- pkg:maven/de.jangassen/nsmenufx@3.0.0-BETA1?classifier=sources
+- pkg:maven/de.jangassen/nsmenufx@3.0.0-BETA2
+- pkg:maven/de.jangassen/nsmenufx@3.0.0-BETA2?classifier=sources
+- pkg:maven/de.jangassen/nsmenufx@3.0.0?classifier=sources
+- pkg:maven/de.jangassen/nsmenufx@3.0.1
+- pkg:maven/de.jangassen/nsmenufx@3.0.1?classifier=sources
+- pkg:maven/de.jangassen/nsmenufx@3.0.2
+- pkg:maven/de.jangassen/nsmenufx@3.0.2?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/io.github.mmihira/qualtrix-sdk@0.3.0?classifier=sources
 - pkg:maven/io.github.mmihira/qualtrix-sdk@0.3.10?classifier=sources
 - pkg:maven/io.github.mmihira/qualtrix-sdk@0.3.11?classifier=sources
+- pkg:maven/io.github.mmihira/qualtrix-sdk@0.4.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.gravitee.am.repository/gravitee-am-repository-jdbc@3.5.0?classifier=sources

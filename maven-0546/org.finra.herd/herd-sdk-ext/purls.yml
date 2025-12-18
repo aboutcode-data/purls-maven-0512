@@ -50,3 +50,11 @@
 - pkg:maven/org.finra.herd/herd-sdk-ext@0.132.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-sdk-ext@0.133.0
 - pkg:maven/org.finra.herd/herd-sdk-ext@0.133.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-sdk-ext@0.134.0
+- pkg:maven/org.finra.herd/herd-sdk-ext@0.134.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-sdk-ext@0.135.0
+- pkg:maven/org.finra.herd/herd-sdk-ext@0.135.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-sdk-ext@0.136.0
+- pkg:maven/org.finra.herd/herd-sdk-ext@0.136.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-sdk-ext@0.137.0
+- pkg:maven/org.finra.herd/herd-sdk-ext@0.137.0?classifier=sources

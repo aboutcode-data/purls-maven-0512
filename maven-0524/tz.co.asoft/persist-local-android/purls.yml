@@ -1,0 +1,3 @@
+- pkg:maven/tz.co.asoft/persist-local-android@0.0.1?classifier=sources
+- pkg:maven/tz.co.asoft/persist-local-android@0.1.0?classifier=sources
+- pkg:maven/tz.co.asoft/persist-local-android@0.1.10?classifier=sources

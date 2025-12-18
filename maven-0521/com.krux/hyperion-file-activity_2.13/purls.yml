@@ -1,0 +1,2 @@
+- pkg:maven/com.krux/hyperion-file-activity_2.13@7.0.0-RC1
+- pkg:maven/com.krux/hyperion-file-activity_2.13@7.0.0-RC1?classifier=sources

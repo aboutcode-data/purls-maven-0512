@@ -6,6 +6,8 @@
 - pkg:maven/com.nepxion/discovery-console-starter@3.20.2?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter@3.20.3
 - pkg:maven/com.nepxion/discovery-console-starter@3.20.3?classifier=sources
+- pkg:maven/com.nepxion/discovery-console-starter@3.21.0
+- pkg:maven/com.nepxion/discovery-console-starter@3.21.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter@3.3.10
 - pkg:maven/com.nepxion/discovery-console-starter@3.3.10?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter@3.3.11
@@ -226,3 +228,5 @@
 - pkg:maven/com.nepxion/discovery-console-starter@6.3.2?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter@6.3.3
 - pkg:maven/com.nepxion/discovery-console-starter@6.3.3?classifier=sources
+- pkg:maven/com.nepxion/discovery-console-starter@6.5.0
+- pkg:maven/com.nepxion/discovery-console-starter@6.5.0?classifier=sources

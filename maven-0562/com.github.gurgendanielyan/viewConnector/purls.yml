@@ -14,3 +14,5 @@
 - pkg:maven/com.github.gurgendanielyan/viewConnector@2.3?type=aar
 - pkg:maven/com.github.gurgendanielyan/viewConnector@2.6?classifier=sources
 - pkg:maven/com.github.gurgendanielyan/viewConnector@2.6?type=aar
+- pkg:maven/com.github.gurgendanielyan/viewConnector@2.7?classifier=sources
+- pkg:maven/com.github.gurgendanielyan/viewConnector@2.7?type=aar

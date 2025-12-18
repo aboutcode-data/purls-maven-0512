@@ -10,3 +10,5 @@
 - pkg:maven/org.javastro/jsofa@20180130b?classifier=sources
 - pkg:maven/org.javastro/jsofa@20190722
 - pkg:maven/org.javastro/jsofa@20190722?classifier=sources
+- pkg:maven/org.javastro/jsofa@20200721
+- pkg:maven/org.javastro/jsofa@20200721?classifier=sources

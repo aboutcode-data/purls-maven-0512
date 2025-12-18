@@ -1,0 +1,2 @@
+- pkg:maven/br.com.meslin.API-HTTPConnection/API-HTTPConnection@0.1
+- pkg:maven/br.com.meslin.API-HTTPConnection/API-HTTPConnection@0.1?classifier=sources

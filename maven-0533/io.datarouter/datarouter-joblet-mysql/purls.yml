@@ -50,3 +50,11 @@
 - pkg:maven/io.datarouter/datarouter-joblet-mysql@0.0.52?classifier=sources
 - pkg:maven/io.datarouter/datarouter-joblet-mysql@0.0.53
 - pkg:maven/io.datarouter/datarouter-joblet-mysql@0.0.53?classifier=sources
+- pkg:maven/io.datarouter/datarouter-joblet-mysql@0.0.54
+- pkg:maven/io.datarouter/datarouter-joblet-mysql@0.0.54?classifier=sources
+- pkg:maven/io.datarouter/datarouter-joblet-mysql@0.0.55
+- pkg:maven/io.datarouter/datarouter-joblet-mysql@0.0.55?classifier=sources
+- pkg:maven/io.datarouter/datarouter-joblet-mysql@0.0.56
+- pkg:maven/io.datarouter/datarouter-joblet-mysql@0.0.56?classifier=sources
+- pkg:maven/io.datarouter/datarouter-joblet-mysql@0.0.58
+- pkg:maven/io.datarouter/datarouter-joblet-mysql@0.0.58?classifier=sources

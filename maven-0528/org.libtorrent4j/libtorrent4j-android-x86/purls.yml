@@ -22,6 +22,8 @@
 - pkg:maven/org.libtorrent4j/libtorrent4j-android-x86@2.0.0-2
 - pkg:maven/org.libtorrent4j/libtorrent4j-android-x86@2.0.0-3
 - pkg:maven/org.libtorrent4j/libtorrent4j-android-x86@2.0.0-4
+- pkg:maven/org.libtorrent4j/libtorrent4j-android-x86@2.0.0-5
+- pkg:maven/org.libtorrent4j/libtorrent4j-android-x86@2.0.0-6
 - pkg:maven/org.libtorrent4j/libtorrent4j-android-x86@2.0.0-alpha-1
 - pkg:maven/org.libtorrent4j/libtorrent4j-android-x86@2.0.0-alpha-2
 - pkg:maven/org.libtorrent4j/libtorrent4j-android-x86@2.0.0-alpha-3
@@ -29,3 +31,6 @@
 - pkg:maven/org.libtorrent4j/libtorrent4j-android-x86@2.0.0-alpha-5
 - pkg:maven/org.libtorrent4j/libtorrent4j-android-x86@2.0.0-beta-1
 - pkg:maven/org.libtorrent4j/libtorrent4j-android-x86@2.0.0-beta-2
+- pkg:maven/org.libtorrent4j/libtorrent4j-android-x86@2.0.1-7
+- pkg:maven/org.libtorrent4j/libtorrent4j-android-x86@2.0.1-8
+- pkg:maven/org.libtorrent4j/libtorrent4j-android-x86@2.0.1-9

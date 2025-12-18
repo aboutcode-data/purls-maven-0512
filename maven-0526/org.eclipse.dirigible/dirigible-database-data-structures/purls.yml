@@ -78,3 +78,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-database-data-structures@5.3.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-database-data-structures@5.4.0
 - pkg:maven/org.eclipse.dirigible/dirigible-database-data-structures@5.4.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-data-structures@5.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-database-data-structures@5.5.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-data-structures@5.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-database-data-structures@5.6.0?classifier=sources

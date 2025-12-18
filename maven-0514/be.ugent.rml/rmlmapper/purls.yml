@@ -1,2 +1,4 @@
 - pkg:maven/be.ugent.rml/rmlmapper@4.9.0
 - pkg:maven/be.ugent.rml/rmlmapper@4.9.0?classifier=sources
+- pkg:maven/be.ugent.rml/rmlmapper@4.9.1
+- pkg:maven/be.ugent.rml/rmlmapper@4.9.1?classifier=sources

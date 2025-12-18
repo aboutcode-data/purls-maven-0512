@@ -1,0 +1,4 @@
+- pkg:maven/pro.fessional/meepo@1.0.0
+- pkg:maven/pro.fessional/meepo@1.0.0?classifier=sources
+- pkg:maven/pro.fessional/meepo@1.4.0
+- pkg:maven/pro.fessional/meepo@1.4.0?classifier=sources

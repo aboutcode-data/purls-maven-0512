@@ -1,0 +1,4 @@
+- pkg:maven/org.springblade/blade-core-report@2.8.0
+- pkg:maven/org.springblade/blade-core-report@2.8.0?classifier=sources
+- pkg:maven/org.springblade/blade-core-report@3.0.0
+- pkg:maven/org.springblade/blade-core-report@3.0.0?classifier=sources

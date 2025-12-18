@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/fapi-client-play28_2.12@3.2.1
+- pkg:maven/com.gu/fapi-client-play28_2.12@3.2.1?classifier=sources

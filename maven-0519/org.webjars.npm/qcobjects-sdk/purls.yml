@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/qcobjects-sdk@0.0.155?classifier=sources
 - pkg:maven/org.webjars.npm/qcobjects-sdk@0.1.226
 - pkg:maven/org.webjars.npm/qcobjects-sdk@0.1.226?classifier=sources
+- pkg:maven/org.webjars.npm/qcobjects-sdk@0.1.255
+- pkg:maven/org.webjars.npm/qcobjects-sdk@0.1.255?classifier=sources

@@ -40,6 +40,8 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-util-tests@3.0.12
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-util-tests@3.0.13
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-util-tests@3.0.14
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-util-tests@3.0.15
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-util-tests@3.0.16
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-util-tests@3.0.2
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-util-tests@3.0.3
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-util-tests@3.0.4

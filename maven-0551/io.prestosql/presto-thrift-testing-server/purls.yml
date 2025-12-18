@@ -44,3 +44,8 @@
 - pkg:maven/io.prestosql/presto-thrift-testing-server@343?classifier=sources
 - pkg:maven/io.prestosql/presto-thrift-testing-server@344?classifier=sources
 - pkg:maven/io.prestosql/presto-thrift-testing-server@345?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift-testing-server@346?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift-testing-server@347?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift-testing-server@348?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift-testing-server@349?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift-testing-server@350?classifier=sources

@@ -34,3 +34,4 @@
 - pkg:maven/io.geewit.data/gw-data-jpa-essential@1.4.8?classifier=sources
 - pkg:maven/io.geewit.data/gw-data-jpa-essential@1.4.9?classifier=sources
 - pkg:maven/io.geewit.data/gw-data-jpa-essential@1.5.0?classifier=sources
+- pkg:maven/io.geewit.data/gw-data-jpa-essential@1.5.1?classifier=sources

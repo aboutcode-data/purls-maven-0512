@@ -1,0 +1,4 @@
+- pkg:maven/de.tum.ei.lkn.eces/master-commons@1.0.19
+- pkg:maven/de.tum.ei.lkn.eces/master-commons@1.0.19?classifier=sources
+- pkg:maven/de.tum.ei.lkn.eces/master-commons@1.0.20
+- pkg:maven/de.tum.ei.lkn.eces/master-commons@1.0.20?classifier=sources

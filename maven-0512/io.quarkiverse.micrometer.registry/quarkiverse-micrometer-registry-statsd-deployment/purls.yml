@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.micrometer.registry/quarkiverse-micrometer-registry-statsd-deployment@0.1.0
+- pkg:maven/io.quarkiverse.micrometer.registry/quarkiverse-micrometer-registry-statsd-deployment@0.1.0?classifier=sources

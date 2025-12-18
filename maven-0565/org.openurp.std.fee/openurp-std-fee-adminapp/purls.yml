@@ -2,3 +2,5 @@
 - pkg:maven/org.openurp.std.fee/openurp-std-fee-adminapp@0.0.12?type=war
 - pkg:maven/org.openurp.std.fee/openurp-std-fee-adminapp@0.0.13?classifier=sources
 - pkg:maven/org.openurp.std.fee/openurp-std-fee-adminapp@0.0.13?type=war
+- pkg:maven/org.openurp.std.fee/openurp-std-fee-adminapp@0.0.14?classifier=sources
+- pkg:maven/org.openurp.std.fee/openurp-std-fee-adminapp@0.0.14?type=war

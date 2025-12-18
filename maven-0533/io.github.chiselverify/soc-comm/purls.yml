@@ -1,0 +1,2 @@
+- pkg:maven/io.github.chiselverify/soc-comm@0.1.0
+- pkg:maven/io.github.chiselverify/soc-comm@0.1.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/rtlcss@2.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/rtlcss@2.5.0
 - pkg:maven/org.webjars.npm/rtlcss@2.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/rtlcss@2.6.1
+- pkg:maven/org.webjars.npm/rtlcss@2.6.1?classifier=sources

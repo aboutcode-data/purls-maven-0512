@@ -42,6 +42,10 @@
 - pkg:maven/com.pacificwebconsulting.runtime/runtime-microservice@1.0.29?classifier=sources
 - pkg:maven/com.pacificwebconsulting.runtime/runtime-microservice@1.0.2?classifier=sources
 - pkg:maven/com.pacificwebconsulting.runtime/runtime-microservice@1.0.3
+- pkg:maven/com.pacificwebconsulting.runtime/runtime-microservice@1.0.30
+- pkg:maven/com.pacificwebconsulting.runtime/runtime-microservice@1.0.30?classifier=sources
+- pkg:maven/com.pacificwebconsulting.runtime/runtime-microservice@1.0.31
+- pkg:maven/com.pacificwebconsulting.runtime/runtime-microservice@1.0.31?classifier=sources
 - pkg:maven/com.pacificwebconsulting.runtime/runtime-microservice@1.0.3?classifier=sources
 - pkg:maven/com.pacificwebconsulting.runtime/runtime-microservice@1.0.5
 - pkg:maven/com.pacificwebconsulting.runtime/runtime-microservice@1.0.5?classifier=sources

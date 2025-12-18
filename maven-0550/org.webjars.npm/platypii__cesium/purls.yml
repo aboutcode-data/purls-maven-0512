@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/platypii__cesium@0.1.1
+- pkg:maven/org.webjars.npm/platypii__cesium@0.1.1?classifier=sources
+- pkg:maven/org.webjars.npm/platypii__cesium@1.76.0
+- pkg:maven/org.webjars.npm/platypii__cesium@1.76.0?classifier=sources
+- pkg:maven/org.webjars.npm/platypii__cesium@1.77.0
+- pkg:maven/org.webjars.npm/platypii__cesium@1.77.0?classifier=sources

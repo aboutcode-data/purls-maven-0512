@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/service-quotas@746.2.533.0?classifier=sources
 - pkg:maven/com.cognitect.aws/service-quotas@770.2.568.0
 - pkg:maven/com.cognitect.aws/service-quotas@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/service-quotas@810.2.817.0
+- pkg:maven/com.cognitect.aws/service-quotas@810.2.817.0?classifier=sources

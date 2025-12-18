@@ -1,0 +1,6 @@
+- pkg:maven/pl.msitko/dhallj-magnolia_2.13@0.1.0
+- pkg:maven/pl.msitko/dhallj-magnolia_2.13@0.1.0?classifier=sources
+- pkg:maven/pl.msitko/dhallj-magnolia_2.13@0.1.1
+- pkg:maven/pl.msitko/dhallj-magnolia_2.13@0.1.1-RC3
+- pkg:maven/pl.msitko/dhallj-magnolia_2.13@0.1.1-RC3?classifier=sources
+- pkg:maven/pl.msitko/dhallj-magnolia_2.13@0.1.1?classifier=sources

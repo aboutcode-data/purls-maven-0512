@@ -1,0 +1,8 @@
+- pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@1.0.0
+- pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@1.0.0?classifier=sources
+- pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@1.2.0
+- pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@1.2.0?classifier=sources
+- pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@1.4
+- pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@1.4?classifier=sources
+- pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@1.5
+- pkg:maven/io.connectedhealth-idaas/idaas-eventbuilder@1.5?classifier=sources

@@ -18,6 +18,10 @@
 - pkg:maven/com.contrastsecurity/contrast-sdk-java@2.14?classifier=sources
 - pkg:maven/com.contrastsecurity/contrast-sdk-java@2.15
 - pkg:maven/com.contrastsecurity/contrast-sdk-java@2.15?classifier=sources
+- pkg:maven/com.contrastsecurity/contrast-sdk-java@2.18
+- pkg:maven/com.contrastsecurity/contrast-sdk-java@2.18?classifier=sources
+- pkg:maven/com.contrastsecurity/contrast-sdk-java@2.19
+- pkg:maven/com.contrastsecurity/contrast-sdk-java@2.19?classifier=sources
 - pkg:maven/com.contrastsecurity/contrast-sdk-java@2.2
 - pkg:maven/com.contrastsecurity/contrast-sdk-java@2.2?classifier=sources
 - pkg:maven/com.contrastsecurity/contrast-sdk-java@2.3

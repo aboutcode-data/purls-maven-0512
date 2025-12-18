@@ -1,0 +1,10 @@
+- pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20201021-1.30.10
+- pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20201021-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20201104-1.30.10
+- pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20201104-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20201112-1.30.10
+- pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20201112-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20201112-1.31.0
+- pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20201112-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20201201-1.31.0
+- pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20201201-1.31.0?classifier=sources

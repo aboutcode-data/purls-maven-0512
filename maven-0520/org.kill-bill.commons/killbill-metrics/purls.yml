@@ -138,5 +138,7 @@
 - pkg:maven/org.kill-bill.commons/killbill-metrics@0.24.7?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-metrics@0.24.8
 - pkg:maven/org.kill-bill.commons/killbill-metrics@0.24.8?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-metrics@0.24.9
+- pkg:maven/org.kill-bill.commons/killbill-metrics@0.24.9?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-metrics@0.9
 - pkg:maven/org.kill-bill.commons/killbill-metrics@0.9?classifier=sources

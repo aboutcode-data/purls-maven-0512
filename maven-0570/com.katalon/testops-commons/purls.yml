@@ -1,0 +1,4 @@
+- pkg:maven/com.katalon/testops-commons@1.0.0
+- pkg:maven/com.katalon/testops-commons@1.0.0?classifier=sources
+- pkg:maven/com.katalon/testops-commons@1.1.0
+- pkg:maven/com.katalon/testops-commons@1.1.0?classifier=sources

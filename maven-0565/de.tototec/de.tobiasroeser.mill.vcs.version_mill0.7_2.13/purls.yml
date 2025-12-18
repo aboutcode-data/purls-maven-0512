@@ -1,0 +1,4 @@
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.0.1-22-5a258c
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.0.1-22-5a258c?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.1.0
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.1.0?classifier=sources

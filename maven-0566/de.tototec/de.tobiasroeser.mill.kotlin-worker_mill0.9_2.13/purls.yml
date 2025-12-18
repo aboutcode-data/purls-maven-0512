@@ -1,0 +1,4 @@
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_mill0.9_2.13@0.1.0-7-e10825
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_mill0.9_2.13@0.1.0-7-e10825?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_mill0.9_2.13@0.1.1
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_mill0.9_2.13@0.1.1?classifier=sources

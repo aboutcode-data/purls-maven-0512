@@ -1,0 +1,4 @@
+- pkg:maven/com.power4j.kit/esc-pos@1.0.0-beta
+- pkg:maven/com.power4j.kit/esc-pos@1.0.0-beta?classifier=sources
+- pkg:maven/com.power4j.kit/esc-pos@1.0.1
+- pkg:maven/com.power4j.kit/esc-pos@1.0.1?classifier=sources

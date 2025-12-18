@@ -1,4 +1,6 @@
 - pkg:maven/com.iwuyc.tpg4j/tpg4j-core@0.0.1-SNAPSHOTS
 - pkg:maven/com.iwuyc.tpg4j/tpg4j-core@0.0.1-SNAPSHOTS01
 - pkg:maven/com.iwuyc.tpg4j/tpg4j-core@0.0.1-SNAPSHOTS01?classifier=sources
+- pkg:maven/com.iwuyc.tpg4j/tpg4j-core@0.0.1-SNAPSHOTS02
+- pkg:maven/com.iwuyc.tpg4j/tpg4j-core@0.0.1-SNAPSHOTS02?classifier=sources
 - pkg:maven/com.iwuyc.tpg4j/tpg4j-core@0.0.1-SNAPSHOTS?classifier=sources

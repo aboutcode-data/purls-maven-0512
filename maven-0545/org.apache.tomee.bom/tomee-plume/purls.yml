@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tomee.bom/tomee-plume@8.0.5
+- pkg:maven/org.apache.tomee.bom/tomee-plume@8.0.5?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/cz.datadriven.utils/config-view@0.3.3?classifier=sources
 - pkg:maven/cz.datadriven.utils/config-view@0.3.4
 - pkg:maven/cz.datadriven.utils/config-view@0.3.4?classifier=sources
+- pkg:maven/cz.datadriven.utils/config-view@0.4.0?classifier=sources
+- pkg:maven/cz.datadriven.utils/config-view@0.4.2?classifier=sources

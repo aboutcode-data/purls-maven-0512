@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.needim/noty@3.1.4
 - pkg:maven/org.webjars.bowergithub.needim/noty@3.1.4?classifier=sources
+- pkg:maven/org.webjars.bowergithub.needim/noty@3.2.0-beta
+- pkg:maven/org.webjars.bowergithub.needim/noty@3.2.0-beta?classifier=sources

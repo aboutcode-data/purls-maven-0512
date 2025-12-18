@@ -1,0 +1,6 @@
+- pkg:maven/de.sciss/lucre-base_sjs1_2.13@4.1.0
+- pkg:maven/de.sciss/lucre-base_sjs1_2.13@4.1.0?classifier=sources
+- pkg:maven/de.sciss/lucre-base_sjs1_2.13@4.2.0
+- pkg:maven/de.sciss/lucre-base_sjs1_2.13@4.2.0?classifier=sources
+- pkg:maven/de.sciss/lucre-base_sjs1_2.13@4.3.0
+- pkg:maven/de.sciss/lucre-base_sjs1_2.13@4.3.0?classifier=sources

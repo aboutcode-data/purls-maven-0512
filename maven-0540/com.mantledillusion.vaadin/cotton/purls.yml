@@ -34,6 +34,7 @@
 - pkg:maven/com.mantledillusion.vaadin/cotton@1.0.0?classifier=sources
 - pkg:maven/com.mantledillusion.vaadin/cotton@1.1.0
 - pkg:maven/com.mantledillusion.vaadin/cotton@1.1.0?classifier=sources
+- pkg:maven/com.mantledillusion.vaadin/cotton@2.0.0
 - pkg:maven/com.mantledillusion.vaadin/cotton@2.0.0.ALPHA1
 - pkg:maven/com.mantledillusion.vaadin/cotton@2.0.0.ALPHA10
 - pkg:maven/com.mantledillusion.vaadin/cotton@2.0.0.ALPHA10?classifier=sources
@@ -132,3 +133,4 @@
 - pkg:maven/com.mantledillusion.vaadin/cotton@2.0.0.BETA8?classifier=sources
 - pkg:maven/com.mantledillusion.vaadin/cotton@2.0.0.BETA9
 - pkg:maven/com.mantledillusion.vaadin/cotton@2.0.0.BETA9?classifier=sources
+- pkg:maven/com.mantledillusion.vaadin/cotton@2.0.0?classifier=sources

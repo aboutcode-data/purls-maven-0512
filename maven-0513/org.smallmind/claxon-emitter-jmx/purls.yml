@@ -6,3 +6,7 @@
 - pkg:maven/org.smallmind/claxon-emitter-jmx@4.1.0?classifier=sources
 - pkg:maven/org.smallmind/claxon-emitter-jmx@4.2.0
 - pkg:maven/org.smallmind/claxon-emitter-jmx@4.2.0?classifier=sources
+- pkg:maven/org.smallmind/claxon-emitter-jmx@4.3.0
+- pkg:maven/org.smallmind/claxon-emitter-jmx@4.3.0?classifier=sources
+- pkg:maven/org.smallmind/claxon-emitter-jmx@4.4.1
+- pkg:maven/org.smallmind/claxon-emitter-jmx@4.4.1?classifier=sources

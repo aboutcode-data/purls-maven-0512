@@ -1,0 +1,2 @@
+- pkg:maven/io.github.forsyde/forsyde-io-java@0.1.1
+- pkg:maven/io.github.forsyde/forsyde-io-java@0.1.1?classifier=sources

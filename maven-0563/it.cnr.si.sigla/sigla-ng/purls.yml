@@ -8,3 +8,7 @@
 - pkg:maven/it.cnr.si.sigla/sigla-ng@2.0.5?type=war
 - pkg:maven/it.cnr.si.sigla/sigla-ng@2.0.6?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-ng@2.0.6?type=war
+- pkg:maven/it.cnr.si.sigla/sigla-ng@2.0.7?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-ng@2.0.7?type=war
+- pkg:maven/it.cnr.si.sigla/sigla-ng@2.0.8?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-ng@2.0.8?type=war

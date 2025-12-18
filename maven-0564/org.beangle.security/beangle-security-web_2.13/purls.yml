@@ -24,6 +24,8 @@
 - pkg:maven/org.beangle.security/beangle-security-web_2.13@4.2.21?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-web_2.13@4.2.22
 - pkg:maven/org.beangle.security/beangle-security-web_2.13@4.2.22?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-web_2.13@4.2.23
+- pkg:maven/org.beangle.security/beangle-security-web_2.13@4.2.23?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-web_2.13@4.2.8
 - pkg:maven/org.beangle.security/beangle-security-web_2.13@4.2.8?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-web_2.13@4.2.9

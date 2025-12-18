@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.suveng/trace-local-log-spring-boot-starter@2.3.0.RELEASE
+- pkg:maven/com.gitee.suveng/trace-local-log-spring-boot-starter@2.3.0.RELEASE?classifier=sources

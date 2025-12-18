@@ -32,6 +32,14 @@
 - pkg:maven/net.mingsoft/ms-mpeople@1.0.26?classifier=sources
 - pkg:maven/net.mingsoft/ms-mpeople@1.0.28
 - pkg:maven/net.mingsoft/ms-mpeople@1.0.28?classifier=sources
+- pkg:maven/net.mingsoft/ms-mpeople@1.0.29
+- pkg:maven/net.mingsoft/ms-mpeople@1.0.29?classifier=sources
+- pkg:maven/net.mingsoft/ms-mpeople@1.0.30
+- pkg:maven/net.mingsoft/ms-mpeople@1.0.30?classifier=sources
+- pkg:maven/net.mingsoft/ms-mpeople@1.0.31
+- pkg:maven/net.mingsoft/ms-mpeople@1.0.31?classifier=sources
+- pkg:maven/net.mingsoft/ms-mpeople@1.0.32
+- pkg:maven/net.mingsoft/ms-mpeople@1.0.32?classifier=sources
 - pkg:maven/net.mingsoft/ms-mpeople@1.0.4?classifier=sources
 - pkg:maven/net.mingsoft/ms-mpeople@1.0.4?type=war
 - pkg:maven/net.mingsoft/ms-mpeople@1.0.5?classifier=sources

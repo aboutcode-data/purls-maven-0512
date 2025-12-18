@@ -1,0 +1,2 @@
+- pkg:maven/org.sentilo.agent/sentilo-agent-metrics-monitor@1.9.0
+- pkg:maven/org.sentilo.agent/sentilo-agent-metrics-monitor@1.9.0?classifier=sources

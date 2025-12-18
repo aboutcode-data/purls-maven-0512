@@ -1,0 +1,2 @@
+- pkg:maven/com.intel.qat/hadoop_qat_wrapper@2.3.0
+- pkg:maven/com.intel.qat/hadoop_qat_wrapper@2.3.0?classifier=sources

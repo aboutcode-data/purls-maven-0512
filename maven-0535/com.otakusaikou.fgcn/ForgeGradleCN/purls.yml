@@ -1,0 +1,4 @@
+- pkg:maven/com.otakusaikou.fgcn/ForgeGradleCN@3.0.221
+- pkg:maven/com.otakusaikou.fgcn/ForgeGradleCN@3.0.221?classifier=sources
+- pkg:maven/com.otakusaikou.fgcn/ForgeGradleCN@3.0.224
+- pkg:maven/com.otakusaikou.fgcn/ForgeGradleCN@3.0.224?classifier=sources

@@ -1,4 +1,12 @@
 - pkg:maven/com.lizhifm.sdk.lzplatformtools/lzplatformtools-lib@2.9.13.3?type=aar
+- pkg:maven/com.lizhifm.sdk.lzplatformtools/lzplatformtools-lib@2.9.13.6.16?type=aar
+- pkg:maven/com.lizhifm.sdk.lzplatformtools/lzplatformtools-lib@2.9.13.6.18?classifier=sources
+- pkg:maven/com.lizhifm.sdk.lzplatformtools/lzplatformtools-lib@2.9.13.6.18?type=aar
 - pkg:maven/com.lizhifm.sdk.lzplatformtools/lzplatformtools-lib@2.9.13.6.1?type=aar
 - pkg:maven/com.lizhifm.sdk.lzplatformtools/lzplatformtools-lib@2.9.13.6.4?type=aar
+- pkg:maven/com.lizhifm.sdk.lzplatformtools/lzplatformtools-lib@2.9.13.6.5?type=aar
+- pkg:maven/com.lizhifm.sdk.lzplatformtools/lzplatformtools-lib@2.9.13.6.6?classifier=sources
+- pkg:maven/com.lizhifm.sdk.lzplatformtools/lzplatformtools-lib@2.9.13.6.6?type=aar
+- pkg:maven/com.lizhifm.sdk.lzplatformtools/lzplatformtools-lib@2.9.13.6.8?type=aar
+- pkg:maven/com.lizhifm.sdk.lzplatformtools/lzplatformtools-lib@2.9.13.6?type=aar
 - pkg:maven/com.lizhifm.sdk.lzplatformtools/lzplatformtools-lib@2.9.8?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.spotify/noether-tfx_0.27@0.4.1-M2
+- pkg:maven/com.spotify/noether-tfx_0.27@0.4.1-M2?classifier=sources

@@ -42,6 +42,8 @@
 - pkg:maven/org.kie/kie-server-spring-boot-starter@7.45.0.Final
 - pkg:maven/org.kie/kie-server-spring-boot-starter@7.45.0.t20201009
 - pkg:maven/org.kie/kie-server-spring-boot-starter@7.45.0.t20201014
+- pkg:maven/org.kie/kie-server-spring-boot-starter@7.46.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-starter@7.47.0.Final
 - pkg:maven/org.kie/kie-server-spring-boot-starter@7.6.0.Final
 - pkg:maven/org.kie/kie-server-spring-boot-starter@7.7.0.Final
 - pkg:maven/org.kie/kie-server-spring-boot-starter@7.8.0.Final

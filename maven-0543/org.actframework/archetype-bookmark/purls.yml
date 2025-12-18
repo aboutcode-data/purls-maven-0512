@@ -7,3 +7,4 @@
 - pkg:maven/org.actframework/archetype-bookmark@1.9.0.0?classifier=sources
 - pkg:maven/org.actframework/archetype-bookmark@1.9.0.1?classifier=sources
 - pkg:maven/org.actframework/archetype-bookmark@1.9.0.2?classifier=sources
+- pkg:maven/org.actframework/archetype-bookmark@1.9.1.0?classifier=sources
