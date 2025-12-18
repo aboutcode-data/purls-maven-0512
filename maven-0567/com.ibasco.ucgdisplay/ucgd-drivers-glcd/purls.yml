@@ -32,3 +32,7 @@
 - pkg:maven/com.ibasco.ucgdisplay/ucgd-drivers-glcd@1.5.2-alpha?classifier=sources
 - pkg:maven/com.ibasco.ucgdisplay/ucgd-drivers-glcd@2.0.0-alpha
 - pkg:maven/com.ibasco.ucgdisplay/ucgd-drivers-glcd@2.0.0-alpha?classifier=sources
+- pkg:maven/com.ibasco.ucgdisplay/ucgd-drivers-glcd@3.0.0
+- pkg:maven/com.ibasco.ucgdisplay/ucgd-drivers-glcd@3.0.0?classifier=sources
+- pkg:maven/com.ibasco.ucgdisplay/ucgd-drivers-glcd@3.0.1
+- pkg:maven/com.ibasco.ucgdisplay/ucgd-drivers-glcd@3.0.1?classifier=sources

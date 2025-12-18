@@ -30,3 +30,5 @@
 - pkg:maven/com.velocidi/apso_2.13@0.16.8?classifier=sources
 - pkg:maven/com.velocidi/apso_2.13@0.16.9
 - pkg:maven/com.velocidi/apso_2.13@0.16.9?classifier=sources
+- pkg:maven/com.velocidi/apso_2.13@0.17.0
+- pkg:maven/com.velocidi/apso_2.13@0.17.0?classifier=sources

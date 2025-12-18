@@ -1,0 +1,2 @@
+- pkg:maven/com.squins.media.conversion/media-conversion-gradle-plugin@0.4?classifier=sources
+- pkg:maven/com.squins.media.conversion/media-conversion-gradle-plugin@0.5?classifier=sources

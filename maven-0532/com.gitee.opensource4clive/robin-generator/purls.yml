@@ -6,3 +6,7 @@
 - pkg:maven/com.gitee.opensource4clive/robin-generator@1.0.2?classifier=sources
 - pkg:maven/com.gitee.opensource4clive/robin-generator@1.1.0
 - pkg:maven/com.gitee.opensource4clive/robin-generator@1.1.0?classifier=sources
+- pkg:maven/com.gitee.opensource4clive/robin-generator@1.2.0
+- pkg:maven/com.gitee.opensource4clive/robin-generator@1.2.0?classifier=sources
+- pkg:maven/com.gitee.opensource4clive/robin-generator@1.2.1
+- pkg:maven/com.gitee.opensource4clive/robin-generator@1.2.1?classifier=sources

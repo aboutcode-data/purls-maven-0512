@@ -15,3 +15,4 @@
 - pkg:maven/com.tencent.matrix/matrix-sqlite-lint-android-sdk-no-op@0.6.6?classifier=sources
 - pkg:maven/com.tencent.matrix/matrix-sqlite-lint-android-sdk-no-op@0.8.0?classifier=sources
 - pkg:maven/com.tencent.matrix/matrix-sqlite-lint-android-sdk-no-op@0.8.1?classifier=sources
+- pkg:maven/com.tencent.matrix/matrix-sqlite-lint-android-sdk-no-op@0.9.0?classifier=sources

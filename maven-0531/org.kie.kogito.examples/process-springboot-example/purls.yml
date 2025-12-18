@@ -36,3 +36,7 @@
 - pkg:maven/org.kie.kogito.examples/process-springboot-example@1.4.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito.examples/process-springboot-example@1.5.0.Final
 - pkg:maven/org.kie.kogito.examples/process-springboot-example@1.5.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito.examples/process-springboot-example@1.6.0.Final
+- pkg:maven/org.kie.kogito.examples/process-springboot-example@1.6.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito.examples/process-springboot-example@1.7.0.Final
+- pkg:maven/org.kie.kogito.examples/process-springboot-example@1.7.0.Final?classifier=sources

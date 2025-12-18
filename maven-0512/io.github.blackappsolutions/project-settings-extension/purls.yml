@@ -1,0 +1,2 @@
+- pkg:maven/io.github.blackappsolutions/project-settings-extension@0.2.10
+- pkg:maven/io.github.blackappsolutions/project-settings-extension@0.2.10?classifier=sources

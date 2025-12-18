@@ -28,3 +28,5 @@
 - pkg:maven/com.redislabs/jredisgraph@2.2.0?classifier=sources
 - pkg:maven/com.redislabs/jredisgraph@2.3.0
 - pkg:maven/com.redislabs/jredisgraph@2.3.0?classifier=sources
+- pkg:maven/com.redislabs/jredisgraph@2.4.0
+- pkg:maven/com.redislabs/jredisgraph@2.4.0?classifier=sources

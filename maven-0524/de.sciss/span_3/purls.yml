@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/span_3@2.0.2
+- pkg:maven/de.sciss/span_3@2.0.2?classifier=sources

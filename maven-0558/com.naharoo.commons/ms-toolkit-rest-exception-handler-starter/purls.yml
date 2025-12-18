@@ -18,3 +18,7 @@
 - pkg:maven/com.naharoo.commons/ms-toolkit-rest-exception-handler-starter@0.7.2?classifier=sources
 - pkg:maven/com.naharoo.commons/ms-toolkit-rest-exception-handler-starter@0.7.3
 - pkg:maven/com.naharoo.commons/ms-toolkit-rest-exception-handler-starter@0.7.3?classifier=sources
+- pkg:maven/com.naharoo.commons/ms-toolkit-rest-exception-handler-starter@0.7.4
+- pkg:maven/com.naharoo.commons/ms-toolkit-rest-exception-handler-starter@0.7.4?classifier=sources
+- pkg:maven/com.naharoo.commons/ms-toolkit-rest-exception-handler-starter@0.7.5
+- pkg:maven/com.naharoo.commons/ms-toolkit-rest-exception-handler-starter@0.7.5?classifier=sources

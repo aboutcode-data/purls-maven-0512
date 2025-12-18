@@ -1,0 +1,2 @@
+- pkg:maven/io.github.no-dumps/cell-info-2-json@1.0
+- pkg:maven/io.github.no-dumps/cell-info-2-json@1.0?classifier=sources

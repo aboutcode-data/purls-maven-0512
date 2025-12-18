@@ -52,3 +52,7 @@
 - pkg:maven/net.guerlab.smart.wx/smart-wx-service@21.0.0?classifier=sources
 - pkg:maven/net.guerlab.smart.wx/smart-wx-service@21.2.0
 - pkg:maven/net.guerlab.smart.wx/smart-wx-service@21.2.0?classifier=sources
+- pkg:maven/net.guerlab.smart.wx/smart-wx-service@21.3.2
+- pkg:maven/net.guerlab.smart.wx/smart-wx-service@21.3.2?classifier=sources
+- pkg:maven/net.guerlab.smart.wx/smart-wx-service@21.4.0
+- pkg:maven/net.guerlab.smart.wx/smart-wx-service@21.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.tidb/flink-tidb-connector-1.11@0.0.3
+- pkg:maven/io.tidb/flink-tidb-connector-1.11@0.0.3?classifier=sources

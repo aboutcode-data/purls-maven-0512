@@ -5,6 +5,7 @@
 - pkg:maven/org.wso2.carbon.identity.media/identity-media@2.0.14?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.media/identity-media@2.0.15?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.media/identity-media@2.0.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.media/identity-media@2.0.17?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.media/identity-media@2.0.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.media/identity-media@2.0.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.media/identity-media@2.0.6?classifier=source-release&type=zip

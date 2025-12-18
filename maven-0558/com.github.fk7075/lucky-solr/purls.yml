@@ -1,0 +1,4 @@
+- pkg:maven/com.github.fk7075/lucky-solr@2.0.0
+- pkg:maven/com.github.fk7075/lucky-solr@2.0.0?classifier=sources
+- pkg:maven/com.github.fk7075/lucky-solr@V2-TEST
+- pkg:maven/com.github.fk7075/lucky-solr@V2-TEST?classifier=sources

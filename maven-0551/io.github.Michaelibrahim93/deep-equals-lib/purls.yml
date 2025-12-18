@@ -1,0 +1,2 @@
+- pkg:maven/io.github.Michaelibrahim93/deep-equals-lib@1.0.0-Beta
+- pkg:maven/io.github.Michaelibrahim93/deep-equals-lib@1.0.0-Beta?classifier=sources

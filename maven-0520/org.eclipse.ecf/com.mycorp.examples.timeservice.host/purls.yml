@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.ecf/com.mycorp.examples.timeservice.host@1.1.300?classifier=sources
+- pkg:maven/org.eclipse.ecf/com.mycorp.examples.timeservice.host@1.1.400?classifier=sources

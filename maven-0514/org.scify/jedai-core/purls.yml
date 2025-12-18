@@ -4,3 +4,4 @@
 - pkg:maven/org.scify/jedai-core@2.0?classifier=sources
 - pkg:maven/org.scify/jedai-core@3.0
 - pkg:maven/org.scify/jedai-core@3.0?classifier=sources
+- pkg:maven/org.scify/jedai-core@3.1?classifier=sources

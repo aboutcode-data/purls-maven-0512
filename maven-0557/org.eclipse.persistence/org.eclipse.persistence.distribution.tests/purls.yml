@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.distribution.tests@3.0.0?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.distribution.tests@3.0.1
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.distribution.tests@3.0.1?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.distribution.tests@3.0.2-RC1
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.distribution.tests@3.0.2-RC1?classifier=sources

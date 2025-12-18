@@ -1,2 +1,4 @@
 - pkg:maven/org.scalaz/deriving-plugin_2.13.5@3.0.0-M2
 - pkg:maven/org.scalaz/deriving-plugin_2.13.5@3.0.0-M2?classifier=sources
+- pkg:maven/org.scalaz/deriving-plugin_2.13.5@3.0.0-M3
+- pkg:maven/org.scalaz/deriving-plugin_2.13.5@3.0.0-M3?classifier=sources

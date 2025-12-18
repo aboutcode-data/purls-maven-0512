@@ -1,0 +1,10 @@
+- pkg:maven/io.mozocoin/mozo-sdk@0.2.4-beta04?classifier=sources
+- pkg:maven/io.mozocoin/mozo-sdk@0.2.4-beta05?classifier=sources
+- pkg:maven/io.mozocoin/mozo-sdk@0.2.4-beta06?classifier=sources
+- pkg:maven/io.mozocoin/mozo-sdk@0.2.4-beta07?classifier=sources
+- pkg:maven/io.mozocoin/mozo-sdk@0.2.4-beta08?classifier=sources
+- pkg:maven/io.mozocoin/mozo-sdk@0.2.4-beta09?classifier=sources
+- pkg:maven/io.mozocoin/mozo-sdk@0.2.4-beta10?classifier=sources
+- pkg:maven/io.mozocoin/mozo-sdk@0.2.4-beta11?classifier=sources
+- pkg:maven/io.mozocoin/mozo-sdk@0.2.4-beta12?classifier=sources
+- pkg:maven/io.mozocoin/mozo-sdk@0.2.4-beta13?classifier=sources

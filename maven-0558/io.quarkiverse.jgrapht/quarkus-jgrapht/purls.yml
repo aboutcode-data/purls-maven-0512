@@ -1,2 +1,6 @@
 - pkg:maven/io.quarkiverse.jgrapht/quarkus-jgrapht@1.0.0
 - pkg:maven/io.quarkiverse.jgrapht/quarkus-jgrapht@1.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.jgrapht/quarkus-jgrapht@1.1.0
+- pkg:maven/io.quarkiverse.jgrapht/quarkus-jgrapht@1.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.jgrapht/quarkus-jgrapht@1.2.1
+- pkg:maven/io.quarkiverse.jgrapht/quarkus-jgrapht@1.2.1?classifier=sources

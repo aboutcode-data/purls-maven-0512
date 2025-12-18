@@ -8,3 +8,5 @@
 - pkg:maven/org.cornutum.tcases/tcases-rest-assured@3.5.0?classifier=sources
 - pkg:maven/org.cornutum.tcases/tcases-rest-assured@3.5.1
 - pkg:maven/org.cornutum.tcases/tcases-rest-assured@3.5.1?classifier=sources
+- pkg:maven/org.cornutum.tcases/tcases-rest-assured@3.6.0
+- pkg:maven/org.cornutum.tcases/tcases-rest-assured@3.6.0?classifier=sources

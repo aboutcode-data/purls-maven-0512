@@ -8,6 +8,8 @@
 - pkg:maven/org.typelevel/munit-cats-effect-2_sjs1_3.0.0-RC2@0.4-3-b084555?classifier=sources
 - pkg:maven/org.typelevel/munit-cats-effect-2_sjs1_3.0.0-RC2@0.4-4-31d721c
 - pkg:maven/org.typelevel/munit-cats-effect-2_sjs1_3.0.0-RC2@0.4-4-31d721c?classifier=sources
+- pkg:maven/org.typelevel/munit-cats-effect-2_sjs1_3.0.0-RC2@0.4-4-5a4ee90
+- pkg:maven/org.typelevel/munit-cats-effect-2_sjs1_3.0.0-RC2@0.4-4-5a4ee90?classifier=sources
 - pkg:maven/org.typelevel/munit-cats-effect-2_sjs1_3.0.0-RC2@0.4-6-5b8bf02
 - pkg:maven/org.typelevel/munit-cats-effect-2_sjs1_3.0.0-RC2@0.4-6-5b8bf02?classifier=sources
 - pkg:maven/org.typelevel/munit-cats-effect-2_sjs1_3.0.0-RC2@0.4-8-6560423

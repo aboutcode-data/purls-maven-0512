@@ -1,0 +1,2 @@
+- pkg:maven/org.specs2/specs2-form_3@SPECS2-5.0.0-RC0
+- pkg:maven/org.specs2/specs2-form_3@SPECS2-5.0.0-RC0?classifier=sources

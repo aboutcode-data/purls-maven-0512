@@ -47,3 +47,7 @@
 - pkg:maven/org.pepstock/charba@3.3-gwt
 - pkg:maven/org.pepstock/charba@3.3-gwt?classifier=sources
 - pkg:maven/org.pepstock/charba@3.3?classifier=sources
+- pkg:maven/org.pepstock/charba@4.0
+- pkg:maven/org.pepstock/charba@4.0-gwt
+- pkg:maven/org.pepstock/charba@4.0-gwt?classifier=sources
+- pkg:maven/org.pepstock/charba@4.0?classifier=sources

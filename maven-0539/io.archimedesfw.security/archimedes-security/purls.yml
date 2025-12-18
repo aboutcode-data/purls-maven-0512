@@ -1,0 +1,2 @@
+- pkg:maven/io.archimedesfw.security/archimedes-security@0.0.1
+- pkg:maven/io.archimedesfw.security/archimedes-security@0.0.1?classifier=sources

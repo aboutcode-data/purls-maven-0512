@@ -1,0 +1,4 @@
+- pkg:maven/com.segway.robot/sdkbase@0.1.98?classifier=sources
+- pkg:maven/com.segway.robot/sdkbase@0.1.98?type=aar
+- pkg:maven/com.segway.robot/sdkbase@0.1.99?classifier=sources
+- pkg:maven/com.segway.robot/sdkbase@0.1.99?type=aar

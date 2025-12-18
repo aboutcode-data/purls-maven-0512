@@ -24,3 +24,5 @@
 - pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-extension-sap-cp-jms@2.0.6?classifier=sources
 - pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-extension-sap-cp-jms@2.0.7
 - pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-extension-sap-cp-jms@2.0.7?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-extension-sap-cp-jms@2.2.0
+- pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-extension-sap-cp-jms@2.2.0?classifier=sources

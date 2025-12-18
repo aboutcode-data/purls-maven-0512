@@ -1,1 +1,2 @@
 - pkg:maven/tech.clickhouse/clickhouse-http-client@0.3.1
+- pkg:maven/tech.clickhouse/clickhouse-http-client@0.3.1-patch

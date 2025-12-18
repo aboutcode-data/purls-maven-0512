@@ -1,2 +1,4 @@
 - pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.0.0?classifier=sources
 - pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.0.1?classifier=sources
+- pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.1.0?classifier=sources
+- pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.1.1?classifier=sources

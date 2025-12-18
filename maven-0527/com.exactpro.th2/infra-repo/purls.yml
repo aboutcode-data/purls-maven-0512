@@ -1,3 +1,17 @@
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.10-alpha-1?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.10-alpha?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.10-config-1?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.10-config?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.10-refactoring-1?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.10-refactoring?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.10?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.11?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.12-validation?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.12?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.13-keyspace?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.13?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.14-commit-hash?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.14-validation?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.0.5?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.0.6?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.0.7?classifier=sources

@@ -72,3 +72,5 @@
 - pkg:maven/de.sciss/scalafreesound-compression_2.12@2.4.0?classifier=sources
 - pkg:maven/de.sciss/scalafreesound-compression_2.12@2.5.0
 - pkg:maven/de.sciss/scalafreesound-compression_2.12@2.5.0?classifier=sources
+- pkg:maven/de.sciss/scalafreesound-compression_2.12@2.5.1
+- pkg:maven/de.sciss/scalafreesound-compression_2.12@2.5.1?classifier=sources

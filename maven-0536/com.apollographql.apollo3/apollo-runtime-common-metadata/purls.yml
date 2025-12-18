@@ -5,3 +5,4 @@
 - pkg:maven/com.apollographql.apollo3/apollo-runtime-common-metadata@3.0.0-dev6?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-runtime-common-metadata@3.0.0-dev7?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-runtime-common-metadata@3.0.0-dev8?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-runtime-common-metadata@3.0.0-dev9?classifier=sources

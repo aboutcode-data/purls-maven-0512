@@ -1,0 +1,4 @@
+- pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils-jackson@0.7.169
+- pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils-jackson@0.7.169?classifier=sources
+- pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils-jackson@0.7.171
+- pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils-jackson@0.7.171?classifier=sources

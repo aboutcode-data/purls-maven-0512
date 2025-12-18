@@ -13,3 +13,4 @@
 - pkg:maven/com.manolodominguez/openlrae@1.5?classifier=sources
 - pkg:maven/com.manolodominguez/openlrae@2.0?classifier=sources
 - pkg:maven/com.manolodominguez/openlrae@2.1?classifier=sources
+- pkg:maven/com.manolodominguez/openlrae@2.2?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/vega-statistics@1.7.3?classifier=sources
 - pkg:maven/org.webjars.npm/vega-statistics@1.7.8
 - pkg:maven/org.webjars.npm/vega-statistics@1.7.8?classifier=sources
+- pkg:maven/org.webjars.npm/vega-statistics@1.7.9
+- pkg:maven/org.webjars.npm/vega-statistics@1.7.9?classifier=sources

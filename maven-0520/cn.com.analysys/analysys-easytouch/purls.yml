@@ -28,3 +28,5 @@
 - pkg:maven/cn.com.analysys/analysys-easytouch@1.29.1?type=aar
 - pkg:maven/cn.com.analysys/analysys-easytouch@1.29.2?type=aar
 - pkg:maven/cn.com.analysys/analysys-easytouch@1.29.3?type=aar
+- pkg:maven/cn.com.analysys/analysys-easytouch@2.2.0?type=aar
+- pkg:maven/cn.com.analysys/analysys-easytouch@2.2.1?type=aar

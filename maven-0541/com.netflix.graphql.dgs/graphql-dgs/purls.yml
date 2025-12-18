@@ -4,6 +4,8 @@
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs@3.1.2?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs@3.10.2?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs@3.11.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs@3.12.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs@3.12.1?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs@3.2.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs@3.4.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs@3.4.1?classifier=sources
@@ -16,3 +18,7 @@
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs@3.9.1?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs@3.9.2?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs@3.9.3?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs@4.0.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs@4.0.1?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs@4.1.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs@4.2.0?classifier=sources

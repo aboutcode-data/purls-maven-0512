@@ -4,3 +4,5 @@
 - pkg:maven/com.kaltura.playkit/vrplugin@4.13.2?type=aar
 - pkg:maven/com.kaltura.playkit/vrplugin@4.13.3?classifier=sources
 - pkg:maven/com.kaltura.playkit/vrplugin@4.13.3?type=aar
+- pkg:maven/com.kaltura.playkit/vrplugin@4.14.0?classifier=sources
+- pkg:maven/com.kaltura.playkit/vrplugin@4.14.0?type=aar

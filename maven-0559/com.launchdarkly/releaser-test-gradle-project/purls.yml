@@ -1,0 +1,2 @@
+- pkg:maven/com.launchdarkly/releaser-test-gradle-project@0.2.0?classifier=sources
+- pkg:maven/com.launchdarkly/releaser-test-gradle-project@4.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.polyv.android/polyvDownload@2.15.2?classifier=sources
+- pkg:maven/net.polyv.android/polyvDownload@2.15.2?type=aar

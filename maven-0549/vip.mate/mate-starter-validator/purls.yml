@@ -1,0 +1,2 @@
+- pkg:maven/vip.mate/mate-starter-validator@3.7.8
+- pkg:maven/vip.mate/mate-starter-validator@3.7.8?classifier=sources

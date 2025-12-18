@@ -156,6 +156,8 @@
 - pkg:maven/it.cnr.si.sigla/sigla-ejb@6.3.23?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-ejb@6.3.24?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-ejb@6.3.25?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-ejb@6.3.28?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-ejb@6.3.29?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-ejb@6.3.2?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-ejb@6.3.3?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-ejb@6.3.4?classifier=sources

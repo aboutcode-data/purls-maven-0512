@@ -1,2 +1,4 @@
 - pkg:maven/org.streamingpool/streamingpool-ext-analysis-starter@0.0.8
 - pkg:maven/org.streamingpool/streamingpool-ext-analysis-starter@0.0.8?classifier=sources
+- pkg:maven/org.streamingpool/streamingpool-ext-analysis-starter@0.0.9
+- pkg:maven/org.streamingpool/streamingpool-ext-analysis-starter@0.0.9?classifier=sources

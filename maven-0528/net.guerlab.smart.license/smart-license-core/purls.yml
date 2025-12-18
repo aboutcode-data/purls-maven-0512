@@ -12,3 +12,5 @@
 - pkg:maven/net.guerlab.smart.license/smart-license-core@20.0.2?classifier=sources
 - pkg:maven/net.guerlab.smart.license/smart-license-core@20.2.0
 - pkg:maven/net.guerlab.smart.license/smart-license-core@20.2.0?classifier=sources
+- pkg:maven/net.guerlab.smart.license/smart-license-core@21.4.0
+- pkg:maven/net.guerlab.smart.license/smart-license-core@21.4.0?classifier=sources

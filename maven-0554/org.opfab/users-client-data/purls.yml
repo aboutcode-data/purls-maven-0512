@@ -1,1 +1,3 @@
 - pkg:maven/org.opfab/users-client-data@2.4.0.RELEASE?classifier=sources
+- pkg:maven/org.opfab/users-client-data@2.5.0.RELEASE?classifier=sources
+- pkg:maven/org.opfab/users-client-data@2.6.0.RELEASE?classifier=sources

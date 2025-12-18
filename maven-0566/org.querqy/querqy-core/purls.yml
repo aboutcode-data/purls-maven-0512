@@ -2,6 +2,8 @@
 - pkg:maven/org.querqy/querqy-core@3.10.0?classifier=sources
 - pkg:maven/org.querqy/querqy-core@3.10.1
 - pkg:maven/org.querqy/querqy-core@3.10.1?classifier=sources
+- pkg:maven/org.querqy/querqy-core@3.11.0
+- pkg:maven/org.querqy/querqy-core@3.11.0?classifier=sources
 - pkg:maven/org.querqy/querqy-core@3.5.0
 - pkg:maven/org.querqy/querqy-core@3.5.0?classifier=sources
 - pkg:maven/org.querqy/querqy-core@3.5.1

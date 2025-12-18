@@ -30,3 +30,9 @@
 - pkg:maven/com.linecorp.decaton/decaton-protobuf@1.0.2?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-protobuf@1.1.0
 - pkg:maven/com.linecorp.decaton/decaton-protobuf@1.1.0?classifier=sources
+- pkg:maven/com.linecorp.decaton/decaton-protobuf@2.0.0
+- pkg:maven/com.linecorp.decaton/decaton-protobuf@2.0.0?classifier=sources
+- pkg:maven/com.linecorp.decaton/decaton-protobuf@2.1.0
+- pkg:maven/com.linecorp.decaton/decaton-protobuf@2.1.0?classifier=sources
+- pkg:maven/com.linecorp.decaton/decaton-protobuf@3.0.0
+- pkg:maven/com.linecorp.decaton/decaton-protobuf@3.0.0?classifier=sources

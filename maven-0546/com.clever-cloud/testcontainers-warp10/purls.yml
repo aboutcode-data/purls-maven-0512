@@ -1,0 +1,2 @@
+- pkg:maven/com.clever-cloud/testcontainers-warp10@1.0.1
+- pkg:maven/com.clever-cloud/testcontainers-warp10@1.0.1?classifier=sources

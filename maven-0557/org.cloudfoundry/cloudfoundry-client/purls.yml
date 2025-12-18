@@ -172,6 +172,8 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.13.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.14.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.14.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@4.15.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@4.15.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.2.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.2.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.3.0.RELEASE
@@ -192,3 +194,11 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@5.0.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@5.1.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@5.1.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@5.2.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@5.2.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@5.3.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@5.3.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@5.4.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@5.4.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@5.5.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@5.5.0.RELEASE?classifier=sources

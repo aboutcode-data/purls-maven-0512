@@ -6,3 +6,5 @@
 - pkg:maven/org.scalameta/munit-scalacheck_native0.4_2.13@0.7.23?classifier=sources
 - pkg:maven/org.scalameta/munit-scalacheck_native0.4_2.13@0.7.25
 - pkg:maven/org.scalameta/munit-scalacheck_native0.4_2.13@0.7.25?classifier=sources
+- pkg:maven/org.scalameta/munit-scalacheck_native0.4_2.13@0.7.26
+- pkg:maven/org.scalameta/munit-scalacheck_native0.4_2.13@0.7.26?classifier=sources

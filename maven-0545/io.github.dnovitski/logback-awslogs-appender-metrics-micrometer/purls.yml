@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dnovitski/logback-awslogs-appender-metrics-micrometer@1.0.1
+- pkg:maven/io.github.dnovitski/logback-awslogs-appender-metrics-micrometer@1.0.1?classifier=sources

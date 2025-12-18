@@ -75,6 +75,7 @@
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@6.0.9
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@7.0.0
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@7.0.1
+- pkg:maven/org.opendaylight.odlparent/karaf.branding@7.0.10
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@7.0.2
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@7.0.3
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@7.0.4
@@ -82,10 +83,15 @@
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@7.0.6
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@7.0.7
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@7.0.8
+- pkg:maven/org.opendaylight.odlparent/karaf.branding@7.0.9
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@8.0.0
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@8.0.1
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@8.0.2
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@8.0.3
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@8.1.0
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@8.1.1
+- pkg:maven/org.opendaylight.odlparent/karaf.branding@8.1.2
+- pkg:maven/org.opendaylight.odlparent/karaf.branding@8.1.3
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@9.0.0
+- pkg:maven/org.opendaylight.odlparent/karaf.branding@9.0.1
+- pkg:maven/org.opendaylight.odlparent/karaf.branding@9.0.2

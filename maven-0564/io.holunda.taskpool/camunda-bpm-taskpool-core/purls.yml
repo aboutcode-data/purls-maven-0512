@@ -70,3 +70,5 @@
 - pkg:maven/io.holunda.taskpool/camunda-bpm-taskpool-core@2.1.4?classifier=sources
 - pkg:maven/io.holunda.taskpool/camunda-bpm-taskpool-core@2.1.6
 - pkg:maven/io.holunda.taskpool/camunda-bpm-taskpool-core@2.1.6?classifier=sources
+- pkg:maven/io.holunda.taskpool/camunda-bpm-taskpool-core@2.1.8
+- pkg:maven/io.holunda.taskpool/camunda-bpm-taskpool-core@2.1.8?classifier=sources

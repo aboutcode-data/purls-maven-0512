@@ -1,0 +1,2 @@
+- pkg:maven/dev.profunktor/fs2-rabbit-testkit_3@4.1.0
+- pkg:maven/dev.profunktor/fs2-rabbit-testkit_3@4.1.0?classifier=sources

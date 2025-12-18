@@ -64,8 +64,12 @@
 - pkg:maven/org.opendaylight.lispflowmapping/common.unittest.tools@1.12.2?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/common.unittest.tools@1.12.3
 - pkg:maven/org.opendaylight.lispflowmapping/common.unittest.tools@1.12.3?classifier=sources
+- pkg:maven/org.opendaylight.lispflowmapping/common.unittest.tools@1.12.4
+- pkg:maven/org.opendaylight.lispflowmapping/common.unittest.tools@1.12.4?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/common.unittest.tools@1.13.0
 - pkg:maven/org.opendaylight.lispflowmapping/common.unittest.tools@1.13.0?classifier=sources
+- pkg:maven/org.opendaylight.lispflowmapping/common.unittest.tools@1.13.2
+- pkg:maven/org.opendaylight.lispflowmapping/common.unittest.tools@1.13.2?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/common.unittest.tools@1.2.0-Lithium
 - pkg:maven/org.opendaylight.lispflowmapping/common.unittest.tools@1.2.1-Lithium-SR1
 - pkg:maven/org.opendaylight.lispflowmapping/common.unittest.tools@1.2.1-Lithium-SR1?classifier=sources

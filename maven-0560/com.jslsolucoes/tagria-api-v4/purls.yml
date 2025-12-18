@@ -36,3 +36,7 @@
 - pkg:maven/com.jslsolucoes/tagria-api-v4@4.0.35?classifier=sources
 - pkg:maven/com.jslsolucoes/tagria-api-v4@4.0.36
 - pkg:maven/com.jslsolucoes/tagria-api-v4@4.0.36?classifier=sources
+- pkg:maven/com.jslsolucoes/tagria-api-v4@4.0.37
+- pkg:maven/com.jslsolucoes/tagria-api-v4@4.0.37?classifier=sources
+- pkg:maven/com.jslsolucoes/tagria-api-v4@4.0.38
+- pkg:maven/com.jslsolucoes/tagria-api-v4@4.0.38?classifier=sources

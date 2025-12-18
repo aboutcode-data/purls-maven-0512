@@ -1,0 +1,4 @@
+- pkg:maven/io.github.xiaoxunyao/java-utils-library@0.0.1-releases
+- pkg:maven/io.github.xiaoxunyao/java-utils-library@0.0.1-releases?classifier=sources
+- pkg:maven/io.github.xiaoxunyao/java-utils-library@0.0.2-releases
+- pkg:maven/io.github.xiaoxunyao/java-utils-library@0.0.2-releases?classifier=sources

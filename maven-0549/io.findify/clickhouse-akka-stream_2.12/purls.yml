@@ -20,3 +20,5 @@
 - pkg:maven/io.findify/clickhouse-akka-stream_2.12@0.4.3?classifier=sources
 - pkg:maven/io.findify/clickhouse-akka-stream_2.12@0.4.4
 - pkg:maven/io.findify/clickhouse-akka-stream_2.12@0.4.4?classifier=sources
+- pkg:maven/io.findify/clickhouse-akka-stream_2.12@0.4.6
+- pkg:maven/io.findify/clickhouse-akka-stream_2.12@0.4.6?classifier=sources

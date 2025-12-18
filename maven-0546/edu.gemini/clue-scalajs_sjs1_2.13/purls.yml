@@ -28,6 +28,12 @@
 - pkg:maven/edu.gemini/clue-scalajs_sjs1_2.13@0.14.0?classifier=sources
 - pkg:maven/edu.gemini/clue-scalajs_sjs1_2.13@0.14.1
 - pkg:maven/edu.gemini/clue-scalajs_sjs1_2.13@0.14.1?classifier=sources
+- pkg:maven/edu.gemini/clue-scalajs_sjs1_2.13@0.15.0
+- pkg:maven/edu.gemini/clue-scalajs_sjs1_2.13@0.15.0?classifier=sources
+- pkg:maven/edu.gemini/clue-scalajs_sjs1_2.13@0.15.1
+- pkg:maven/edu.gemini/clue-scalajs_sjs1_2.13@0.15.1?classifier=sources
+- pkg:maven/edu.gemini/clue-scalajs_sjs1_2.13@0.16.0
+- pkg:maven/edu.gemini/clue-scalajs_sjs1_2.13@0.16.0?classifier=sources
 - pkg:maven/edu.gemini/clue-scalajs_sjs1_2.13@0.2.2
 - pkg:maven/edu.gemini/clue-scalajs_sjs1_2.13@0.2.2?classifier=sources
 - pkg:maven/edu.gemini/clue-scalajs_sjs1_2.13@0.2.3

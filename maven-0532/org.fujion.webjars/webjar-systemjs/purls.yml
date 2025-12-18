@@ -2,3 +2,6 @@
 - pkg:maven/org.fujion.webjars/webjar-systemjs@0.21.6
 - pkg:maven/org.fujion.webjars/webjar-systemjs@0.21.6-1
 - pkg:maven/org.fujion.webjars/webjar-systemjs@3.0.1
+- pkg:maven/org.fujion.webjars/webjar-systemjs@6.10.0
+- pkg:maven/org.fujion.webjars/webjar-systemjs@6.8.3
+- pkg:maven/org.fujion.webjars/webjar-systemjs@6.9.0

@@ -1,0 +1,5 @@
+- pkg:maven/io.mzlnk.springframework/multi-tenant-oauth2-resource-server-spring-boot-starter@1.0-beta
+- pkg:maven/io.mzlnk.springframework/multi-tenant-oauth2-resource-server-spring-boot-starter@1.0.1-beta
+- pkg:maven/io.mzlnk.springframework/multi-tenant-oauth2-resource-server-spring-boot-starter@1.0.2-beta
+- pkg:maven/io.mzlnk.springframework/multi-tenant-oauth2-resource-server-spring-boot-starter@1.0.3-beta
+- pkg:maven/io.mzlnk.springframework/multi-tenant-oauth2-resource-server-spring-boot-starter@1.0.4-beta

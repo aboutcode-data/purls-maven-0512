@@ -40,3 +40,5 @@
 - pkg:maven/org.opendaylight.genius/checkstyle@0.9.2?classifier=sources
 - pkg:maven/org.opendaylight.genius/checkstyle@0.9.3
 - pkg:maven/org.opendaylight.genius/checkstyle@0.9.3?classifier=sources
+- pkg:maven/org.opendaylight.genius/checkstyle@0.9.4
+- pkg:maven/org.opendaylight.genius/checkstyle@0.9.4?classifier=sources

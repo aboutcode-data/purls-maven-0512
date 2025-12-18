@@ -1,0 +1,2 @@
+- pkg:maven/com.bytedesk/libcore@2.6.0?classifier=sources
+- pkg:maven/com.bytedesk/libcore@2.6.1?classifier=sources

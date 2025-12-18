@@ -1,3 +1,5 @@
 - pkg:maven/com.motorro.appupdatewrapper/appupdatewrapper@1.6.17?classifier=sources
+- pkg:maven/com.motorro.appupdatewrapper/appupdatewrapper@1.6.19?classifier=sources
 - pkg:maven/com.motorro.appupdatewrapper/appupdatewrapper@1.6.20?classifier=sources
+- pkg:maven/com.motorro.appupdatewrapper/appupdatewrapper@1.6.21?classifier=sources
 - pkg:maven/com.motorro.appupdatewrapper/appupdatewrapper@1.6.3?classifier=sources

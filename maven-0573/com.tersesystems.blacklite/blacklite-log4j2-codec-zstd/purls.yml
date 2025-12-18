@@ -1,0 +1,1 @@
+- pkg:maven/com.tersesystems.blacklite/blacklite-log4j2-codec-zstd@1.0.1?classifier=sources

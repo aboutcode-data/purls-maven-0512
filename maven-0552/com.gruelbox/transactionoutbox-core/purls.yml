@@ -16,3 +16,5 @@
 - pkg:maven/com.gruelbox/transactionoutbox-core@2.1.164?classifier=sources
 - pkg:maven/com.gruelbox/transactionoutbox-core@3.1.184
 - pkg:maven/com.gruelbox/transactionoutbox-core@3.1.184?classifier=sources
+- pkg:maven/com.gruelbox/transactionoutbox-core@3.1.195
+- pkg:maven/com.gruelbox/transactionoutbox-core@3.1.195?classifier=sources
