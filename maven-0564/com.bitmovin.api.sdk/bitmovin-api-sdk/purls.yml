@@ -172,3 +172,13 @@
 - pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.93.0?classifier=sources
 - pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.94.0
 - pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.94.0?classifier=sources
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.95.0
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.95.0?classifier=sources
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.96.0
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.96.0?classifier=sources
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.97.0
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.97.0?classifier=sources
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.98.0
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.98.0?classifier=sources
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.99.0
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.99.0?classifier=sources

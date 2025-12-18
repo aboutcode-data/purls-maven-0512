@@ -1,0 +1,1 @@
+- pkg:maven/com.solace.connector.kafka.connect/pubsubplus-connector-kafka-sink@2.2.0?classifier=sources

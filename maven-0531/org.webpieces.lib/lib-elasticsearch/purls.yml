@@ -6,3 +6,4 @@
 - pkg:maven/org.webpieces.lib/lib-elasticsearch@2.1.21.2?classifier=sources
 - pkg:maven/org.webpieces.lib/lib-elasticsearch@2.1.21?classifier=sources
 - pkg:maven/org.webpieces.lib/lib-elasticsearch@2.1.22?classifier=sources
+- pkg:maven/org.webpieces.lib/lib-elasticsearch@2.1.23?classifier=sources

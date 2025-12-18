@@ -16,3 +16,5 @@
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.choreo@1.1.21?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.choreo@1.1.22
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.choreo@1.1.22?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.choreo@1.1.23
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.choreo@1.1.23?classifier=sources

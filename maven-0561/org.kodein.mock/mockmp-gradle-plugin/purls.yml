@@ -1,0 +1,1 @@
+- pkg:maven/org.kodein.mock/mockmp-gradle-plugin@1.0.1?classifier=sources

@@ -370,6 +370,12 @@
 - pkg:maven/com.palantir.dialogue/dialogue-target@3.29.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-target@3.3.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-target@3.30.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-target@3.31.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-target@3.32.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-target@3.33.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-target@3.34.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-target@3.35.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-target@3.36.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-target@3.4.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-target@3.6.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-target@3.7.0?classifier=sources

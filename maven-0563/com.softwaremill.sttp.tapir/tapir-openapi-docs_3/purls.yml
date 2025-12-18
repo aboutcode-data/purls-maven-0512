@@ -8,6 +8,7 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.18.1?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.18.3
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.18.3?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.19.0
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.19.0-M1
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.19.0-M10
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.19.0-M10?classifier=sources
@@ -38,3 +39,12 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.19.0-M8?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.19.0-M9
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.19.0-M9?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.19.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.19.1
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.19.1?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.19.3
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.19.3?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.20.0-M2
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.20.0-M2?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.20.0-M3
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-docs_3@0.20.0-M3?classifier=sources

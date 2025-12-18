@@ -2,3 +2,5 @@
 - pkg:maven/com.qcloud/chdfs_hadoop_plugin_network@2.0?classifier=sources
 - pkg:maven/com.qcloud/chdfs_hadoop_plugin_network@2.3
 - pkg:maven/com.qcloud/chdfs_hadoop_plugin_network@2.3?classifier=sources
+- pkg:maven/com.qcloud/chdfs_hadoop_plugin_network@2.5
+- pkg:maven/com.qcloud/chdfs_hadoop_plugin_network@2.5?classifier=sources

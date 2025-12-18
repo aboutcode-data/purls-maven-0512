@@ -12,3 +12,6 @@
 - pkg:maven/org.komapper/komapper-spring-boot-autoconfigure-r2dbc@0.20.0?classifier=sources
 - pkg:maven/org.komapper/komapper-spring-boot-autoconfigure-r2dbc@0.21.0?classifier=sources
 - pkg:maven/org.komapper/komapper-spring-boot-autoconfigure-r2dbc@0.22.0?classifier=sources
+- pkg:maven/org.komapper/komapper-spring-boot-autoconfigure-r2dbc@0.23.0?classifier=sources
+- pkg:maven/org.komapper/komapper-spring-boot-autoconfigure-r2dbc@0.24.0?classifier=sources
+- pkg:maven/org.komapper/komapper-spring-boot-autoconfigure-r2dbc@0.25.0?classifier=sources

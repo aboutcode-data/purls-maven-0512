@@ -1,2 +1,4 @@
 - pkg:maven/com.zmops/camel-zabbix-agent@2.25.4
 - pkg:maven/com.zmops/camel-zabbix-agent@2.25.4?classifier=sources
+- pkg:maven/com.zmops/camel-zabbix-agent@3.11.4
+- pkg:maven/com.zmops/camel-zabbix-agent@3.11.4?classifier=sources

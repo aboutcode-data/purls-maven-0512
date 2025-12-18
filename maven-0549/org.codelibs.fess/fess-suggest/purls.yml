@@ -106,6 +106,8 @@
 - pkg:maven/org.codelibs.fess/fess-suggest@7.14.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-suggest@7.15.0
 - pkg:maven/org.codelibs.fess/fess-suggest@7.15.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-suggest@7.16.0
+- pkg:maven/org.codelibs.fess/fess-suggest@7.16.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-suggest@7.2.0
 - pkg:maven/org.codelibs.fess/fess-suggest@7.2.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-suggest@7.2.1

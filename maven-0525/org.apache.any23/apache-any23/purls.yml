@@ -22,3 +22,6 @@
 - pkg:maven/org.apache.any23/apache-any23@2.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.any23/apache-any23@2.5?classifier=src&type=tar.gz
 - pkg:maven/org.apache.any23/apache-any23@2.5?classifier=src&type=zip
+- pkg:maven/org.apache.any23/apache-any23@2.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.any23/apache-any23@2.6?classifier=src&type=tar.gz
+- pkg:maven/org.apache.any23/apache-any23@2.6?classifier=src&type=zip

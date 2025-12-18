@@ -40,3 +40,5 @@
 - pkg:maven/se.jguru.shared.persistence.spi.jpa/jguru-shared-persistence-spi-jpa@0.9.8?classifier=sources
 - pkg:maven/se.jguru.shared.persistence.spi.jpa/jguru-shared-persistence-spi-jpa@0.9.9
 - pkg:maven/se.jguru.shared.persistence.spi.jpa/jguru-shared-persistence-spi-jpa@0.9.9?classifier=sources
+- pkg:maven/se.jguru.shared.persistence.spi.jpa/jguru-shared-persistence-spi-jpa@1.0.0
+- pkg:maven/se.jguru.shared.persistence.spi.jpa/jguru-shared-persistence-spi-jpa@1.0.0?classifier=sources

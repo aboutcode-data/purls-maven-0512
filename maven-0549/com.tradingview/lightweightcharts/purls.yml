@@ -4,3 +4,4 @@
 - pkg:maven/com.tradingview/lightweightcharts@3.5.1?classifier=sources
 - pkg:maven/com.tradingview/lightweightcharts@3.6.0?classifier=sources
 - pkg:maven/com.tradingview/lightweightcharts@3.6.1?classifier=sources
+- pkg:maven/com.tradingview/lightweightcharts@3.7.0?classifier=sources

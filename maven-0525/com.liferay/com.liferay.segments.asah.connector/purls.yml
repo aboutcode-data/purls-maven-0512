@@ -44,6 +44,9 @@
 - pkg:maven/com.liferay/com.liferay.segments.asah.connector@1.0.33
 - pkg:maven/com.liferay/com.liferay.segments.asah.connector@1.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.asah.connector@1.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.segments.asah.connector@1.0.34
+- pkg:maven/com.liferay/com.liferay.segments.asah.connector@1.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.asah.connector@1.0.34?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.asah.connector@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.asah.connector@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.asah.connector@1.0.4
@@ -88,6 +91,9 @@
 - pkg:maven/com.liferay/com.liferay.segments.asah.connector@2.0.24
 - pkg:maven/com.liferay/com.liferay.segments.asah.connector@2.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.asah.connector@2.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.segments.asah.connector@2.0.25
+- pkg:maven/com.liferay/com.liferay.segments.asah.connector@2.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.asah.connector@2.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.asah.connector@3.0.0
 - pkg:maven/com.liferay/com.liferay.segments.asah.connector@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.asah.connector@3.0.0?classifier=sources-commercial

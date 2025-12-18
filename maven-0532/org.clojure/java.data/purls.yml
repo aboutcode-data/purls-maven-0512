@@ -20,3 +20,5 @@
 - pkg:maven/org.clojure/java.data@1.0.86?classifier=sources
 - pkg:maven/org.clojure/java.data@1.0.92
 - pkg:maven/org.clojure/java.data@1.0.92?classifier=sources
+- pkg:maven/org.clojure/java.data@1.0.95
+- pkg:maven/org.clojure/java.data@1.0.95?classifier=sources

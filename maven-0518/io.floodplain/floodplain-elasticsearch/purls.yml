@@ -44,3 +44,8 @@
 - pkg:maven/io.floodplain/floodplain-elasticsearch@1.6.0?classifier=sources
 - pkg:maven/io.floodplain/floodplain-elasticsearch@1.6.2?classifier=sources
 - pkg:maven/io.floodplain/floodplain-elasticsearch@1.6.3?classifier=sources
+- pkg:maven/io.floodplain/floodplain-elasticsearch@1.6.5?classifier=sources
+- pkg:maven/io.floodplain/floodplain-elasticsearch@1.6.7?classifier=sources
+- pkg:maven/io.floodplain/floodplain-elasticsearch@1.6.9?classifier=sources
+- pkg:maven/io.floodplain/floodplain-elasticsearch@1.8.0?classifier=sources
+- pkg:maven/io.floodplain/floodplain-elasticsearch@1.8.2?classifier=sources

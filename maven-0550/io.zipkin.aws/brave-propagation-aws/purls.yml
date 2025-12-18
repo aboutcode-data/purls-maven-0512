@@ -76,3 +76,5 @@
 - pkg:maven/io.zipkin.aws/brave-propagation-aws@0.23.1?classifier=sources
 - pkg:maven/io.zipkin.aws/brave-propagation-aws@0.23.2
 - pkg:maven/io.zipkin.aws/brave-propagation-aws@0.23.2?classifier=sources
+- pkg:maven/io.zipkin.aws/brave-propagation-aws@0.23.3
+- pkg:maven/io.zipkin.aws/brave-propagation-aws@0.23.3?classifier=sources

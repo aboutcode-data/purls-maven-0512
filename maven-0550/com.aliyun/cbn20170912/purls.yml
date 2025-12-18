@@ -1,4 +1,6 @@
 - pkg:maven/com.aliyun/cbn20170912@1.0.0
 - pkg:maven/com.aliyun/cbn20170912@1.0.0?classifier=sources
 - pkg:maven/com.aliyun/cbn20170912@1.0.1
+- pkg:maven/com.aliyun/cbn20170912@1.0.13
+- pkg:maven/com.aliyun/cbn20170912@1.0.13?classifier=sources
 - pkg:maven/com.aliyun/cbn20170912@1.0.1?classifier=sources

@@ -166,3 +166,5 @@
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-client@3.4.4?classifier=sources
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-client@3.4.5
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-client@3.4.5?classifier=sources
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-client@3.5.0
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-client@3.5.0?classifier=sources

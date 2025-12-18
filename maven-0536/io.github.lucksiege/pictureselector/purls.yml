@@ -1,4 +1,5 @@
 - pkg:maven/io.github.lucksiege/pictureselector@2.6.3?classifier=sources
+- pkg:maven/io.github.lucksiege/pictureselector@compress:v2.8.0-test03?classifier=sources
 - pkg:maven/io.github.lucksiege/pictureselector@v2.6.2?classifier=sources
 - pkg:maven/io.github.lucksiege/pictureselector@v2.6.4?classifier=sources
 - pkg:maven/io.github.lucksiege/pictureselector@v2.6.5-test?classifier=sources
@@ -23,3 +24,7 @@
 - pkg:maven/io.github.lucksiege/pictureselector@v2.7.3-rc08?classifier=sources
 - pkg:maven/io.github.lucksiege/pictureselector@v2.7.3-rc09?classifier=sources
 - pkg:maven/io.github.lucksiege/pictureselector@v2.7.3-rc10?classifier=sources
+- pkg:maven/io.github.lucksiege/pictureselector@v2.8.0-test01?classifier=sources
+- pkg:maven/io.github.lucksiege/pictureselector@v2.8.0-test02?classifier=sources
+- pkg:maven/io.github.lucksiege/pictureselector@v2.8.0-test03?classifier=sources
+- pkg:maven/io.github.lucksiege/pictureselector@v2.8.0-test06?classifier=sources

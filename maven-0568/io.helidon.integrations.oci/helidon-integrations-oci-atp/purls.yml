@@ -1,2 +1,4 @@
 - pkg:maven/io.helidon.integrations.oci/helidon-integrations-oci-atp@2.4.0
 - pkg:maven/io.helidon.integrations.oci/helidon-integrations-oci-atp@2.4.0?classifier=sources
+- pkg:maven/io.helidon.integrations.oci/helidon-integrations-oci-atp@2.4.1
+- pkg:maven/io.helidon.integrations.oci/helidon-integrations-oci-atp@2.4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ovh.lumen/NKcoreAPI@1.0.0
+- pkg:maven/ovh.lumen/NKcoreAPI@1.0.0?classifier=sources

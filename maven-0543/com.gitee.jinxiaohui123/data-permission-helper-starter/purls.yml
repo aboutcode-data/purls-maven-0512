@@ -42,3 +42,5 @@
 - pkg:maven/com.gitee.jinxiaohui123/data-permission-helper-starter@2.1.4.RELEASE?classifier=sources
 - pkg:maven/com.gitee.jinxiaohui123/data-permission-helper-starter@2.1.5.RELEASE
 - pkg:maven/com.gitee.jinxiaohui123/data-permission-helper-starter@2.1.5.RELEASE?classifier=sources
+- pkg:maven/com.gitee.jinxiaohui123/data-permission-helper-starter@2.2.1.RELEASE
+- pkg:maven/com.gitee.jinxiaohui123/data-permission-helper-starter@2.2.1.RELEASE?classifier=sources

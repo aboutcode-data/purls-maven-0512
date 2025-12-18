@@ -1,0 +1,4 @@
+- pkg:maven/io.gitee.seening/seen-core@0.0.1-BETA
+- pkg:maven/io.gitee.seening/seen-core@0.0.1-BETA?classifier=sources
+- pkg:maven/io.gitee.seening/seen-core@0.0.2-BETA
+- pkg:maven/io.gitee.seening/seen-core@0.0.2-BETA?classifier=sources

@@ -46,6 +46,9 @@
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@2.3.11
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@2.3.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@2.3.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@2.3.12
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@2.3.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@2.3.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@2.3.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@2.3.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@2.3.2
@@ -109,6 +112,9 @@
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@3.0.2
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@3.0.20
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@3.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@3.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@3.0.3
@@ -181,6 +187,9 @@
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@4.1.13
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@4.1.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@4.1.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@4.1.14
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@4.1.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@4.1.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@4.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@4.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@4.1.2
@@ -258,6 +267,9 @@
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@5.1.4
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@5.1.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@5.1.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@5.1.5
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@5.1.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@5.1.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@6.0.0
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@6.0.0?classifier=sources-commercial
@@ -265,6 +277,9 @@
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@6.0.10
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@6.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@6.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@6.0.11
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@6.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.alloy.mvc@6.0.11?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@6.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.alloy.mvc@6.0.2

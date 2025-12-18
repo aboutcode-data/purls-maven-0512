@@ -14,4 +14,5 @@
 - pkg:maven/net.aestron.rtc/aestron-audio@1.7.3.0.1?type=aar
 - pkg:maven/net.aestron.rtc/aestron-audio@1.7.3.0.2?type=aar
 - pkg:maven/net.aestron.rtc/aestron-audio@1.7.3.0.3?type=aar
+- pkg:maven/net.aestron.rtc/aestron-audio@1.7.3.1?type=aar
 - pkg:maven/net.aestron.rtc/aestron-audio@1.7.3?type=aar

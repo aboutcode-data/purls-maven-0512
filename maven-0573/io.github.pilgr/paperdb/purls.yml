@@ -1,1 +1,2 @@
 - pkg:maven/io.github.pilgr/paperdb@2.7.1?classifier=sources
+- pkg:maven/io.github.pilgr/paperdb@2.7.2?classifier=sources

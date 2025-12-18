@@ -2,3 +2,5 @@
 - pkg:maven/com.blazebit/blaze-persistence-examples-microprofile-graphql@1.6.2?type=war
 - pkg:maven/com.blazebit/blaze-persistence-examples-microprofile-graphql@1.6.3?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-examples-microprofile-graphql@1.6.3?type=war
+- pkg:maven/com.blazebit/blaze-persistence-examples-microprofile-graphql@1.6.4?classifier=sources
+- pkg:maven/com.blazebit/blaze-persistence-examples-microprofile-graphql@1.6.4?type=war

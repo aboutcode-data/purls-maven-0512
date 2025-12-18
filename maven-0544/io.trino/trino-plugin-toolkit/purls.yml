@@ -26,3 +26,9 @@
 - pkg:maven/io.trino/trino-plugin-toolkit@363?classifier=sources
 - pkg:maven/io.trino/trino-plugin-toolkit@364
 - pkg:maven/io.trino/trino-plugin-toolkit@364?classifier=sources
+- pkg:maven/io.trino/trino-plugin-toolkit@365
+- pkg:maven/io.trino/trino-plugin-toolkit@365?classifier=sources
+- pkg:maven/io.trino/trino-plugin-toolkit@366
+- pkg:maven/io.trino/trino-plugin-toolkit@366?classifier=sources
+- pkg:maven/io.trino/trino-plugin-toolkit@367
+- pkg:maven/io.trino/trino-plugin-toolkit@367?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.catyee.mybatis/ds-generator-core@1.1.0
 - pkg:maven/com.catyee.mybatis/ds-generator-core@1.1.0?classifier=sources
+- pkg:maven/com.catyee.mybatis/ds-generator-core@1.2.0
+- pkg:maven/com.catyee.mybatis/ds-generator-core@1.2.0?classifier=sources

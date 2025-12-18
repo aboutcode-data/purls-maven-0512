@@ -1,0 +1,2 @@
+- pkg:maven/com.snourian.micronaut/querydsl-dynamic-query@0.1.1?classifier=sources
+- pkg:maven/com.snourian.micronaut/querydsl-dynamic-query@0.2.0?classifier=sources

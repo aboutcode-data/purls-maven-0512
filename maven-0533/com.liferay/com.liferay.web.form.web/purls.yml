@@ -171,8 +171,14 @@
 - pkg:maven/com.liferay/com.liferay.web.form.web@1.0.68
 - pkg:maven/com.liferay/com.liferay.web.form.web@1.0.68?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@1.0.68?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.web.form.web@1.0.69
+- pkg:maven/com.liferay/com.liferay.web.form.web@1.0.69?classifier=sources
+- pkg:maven/com.liferay/com.liferay.web.form.web@1.0.69?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.web.form.web@1.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@1.0.7
+- pkg:maven/com.liferay/com.liferay.web.form.web@1.0.70
+- pkg:maven/com.liferay/com.liferay.web.form.web@1.0.70?classifier=sources
+- pkg:maven/com.liferay/com.liferay.web.form.web@1.0.70?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.web.form.web@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@1.0.8
 - pkg:maven/com.liferay/com.liferay.web.form.web@1.0.8?classifier=sources
@@ -269,6 +275,9 @@
 - pkg:maven/com.liferay/com.liferay.web.form.web@2.0.36
 - pkg:maven/com.liferay/com.liferay.web.form.web@2.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@2.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.web.form.web@2.0.37
+- pkg:maven/com.liferay/com.liferay.web.form.web@2.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.web.form.web@2.0.37?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.web.form.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.web.form.web@2.0.4
@@ -398,6 +407,9 @@
 - pkg:maven/com.liferay/com.liferay.web.form.web@3.0.42
 - pkg:maven/com.liferay/com.liferay.web.form.web@3.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@3.0.42?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.web.form.web@3.0.43
+- pkg:maven/com.liferay/com.liferay.web.form.web@3.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.web.form.web@3.0.43?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.web.form.web@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.web.form.web@3.0.5
@@ -470,6 +482,9 @@
 - pkg:maven/com.liferay/com.liferay.web.form.web@4.0.27
 - pkg:maven/com.liferay/com.liferay.web.form.web@4.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@4.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.web.form.web@4.0.28
+- pkg:maven/com.liferay/com.liferay.web.form.web@4.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.web.form.web@4.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.web.form.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.web.form.web@4.0.3

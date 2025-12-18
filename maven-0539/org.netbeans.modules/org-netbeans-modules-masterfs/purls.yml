@@ -11,4 +11,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs@RELEASE90?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.npm/parchment@2.0.0-dev.0?classifier=sources
 - pkg:maven/org.webjars.npm/parchment@2.0.0-dev.2
 - pkg:maven/org.webjars.npm/parchment@2.0.0-dev.2?classifier=sources
+- pkg:maven/org.webjars.npm/parchment@2.0.0-dev.3
+- pkg:maven/org.webjars.npm/parchment@2.0.0-dev.3?classifier=sources

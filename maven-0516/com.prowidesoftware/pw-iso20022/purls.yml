@@ -6,3 +6,4 @@
 - pkg:maven/com.prowidesoftware/pw-iso20022@SRU2020-9.1.7?classifier=sources
 - pkg:maven/com.prowidesoftware/pw-iso20022@SRU2020-9.1.8?classifier=sources
 - pkg:maven/com.prowidesoftware/pw-iso20022@SRU2021-9.2.3?classifier=sources
+- pkg:maven/com.prowidesoftware/pw-iso20022@SRU2021-9.2.4?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.linkedopenactors.code/loa-comparator@0.0.10
+- pkg:maven/org.linkedopenactors.code/loa-comparator@0.0.10?classifier=sources
 - pkg:maven/org.linkedopenactors.code/loa-comparator@0.0.7
 - pkg:maven/org.linkedopenactors.code/loa-comparator@0.0.7?classifier=sources
 - pkg:maven/org.linkedopenactors.code/loa-comparator@0.0.8

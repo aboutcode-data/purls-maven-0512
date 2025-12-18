@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hbase/hbase-compression-zstd@3.0.0-alpha-2
+- pkg:maven/org.apache.hbase/hbase-compression-zstd@3.0.0-alpha-2?classifier=sources

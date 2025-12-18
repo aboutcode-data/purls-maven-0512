@@ -11,4 +11,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE90?classifier=sources

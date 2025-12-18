@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-standalone-components@2.21.7?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-standalone-components@2.21.8
 - pkg:maven/org.apache.jackrabbit/jackrabbit-standalone-components@2.21.8?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-standalone-components@2.21.9
+- pkg:maven/org.apache.jackrabbit/jackrabbit-standalone-components@2.21.9?classifier=sources

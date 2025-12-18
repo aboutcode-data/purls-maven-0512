@@ -16,3 +16,9 @@
 - pkg:maven/org.infinispan.archetypes/server-task@13.0.1.Final?classifier=sources
 - pkg:maven/org.infinispan.archetypes/server-task@13.0.2.Final
 - pkg:maven/org.infinispan.archetypes/server-task@13.0.2.Final?classifier=sources
+- pkg:maven/org.infinispan.archetypes/server-task@13.0.3.Final
+- pkg:maven/org.infinispan.archetypes/server-task@13.0.3.Final?classifier=sources
+- pkg:maven/org.infinispan.archetypes/server-task@13.0.4.Final
+- pkg:maven/org.infinispan.archetypes/server-task@13.0.4.Final?classifier=sources
+- pkg:maven/org.infinispan.archetypes/server-task@13.0.5.Final
+- pkg:maven/org.infinispan.archetypes/server-task@13.0.5.Final?classifier=sources

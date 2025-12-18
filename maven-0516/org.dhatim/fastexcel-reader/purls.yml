@@ -56,6 +56,8 @@
 - pkg:maven/org.dhatim/fastexcel-reader@0.12.11?classifier=sources
 - pkg:maven/org.dhatim/fastexcel-reader@0.12.12
 - pkg:maven/org.dhatim/fastexcel-reader@0.12.12?classifier=sources
+- pkg:maven/org.dhatim/fastexcel-reader@0.12.13
+- pkg:maven/org.dhatim/fastexcel-reader@0.12.13?classifier=sources
 - pkg:maven/org.dhatim/fastexcel-reader@0.12.2
 - pkg:maven/org.dhatim/fastexcel-reader@0.12.2?classifier=sources
 - pkg:maven/org.dhatim/fastexcel-reader@0.12.3

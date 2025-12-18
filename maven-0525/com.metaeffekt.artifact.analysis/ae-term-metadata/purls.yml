@@ -1,4 +1,7 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.10.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.11.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.12.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.13.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.3.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.4.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.4.1

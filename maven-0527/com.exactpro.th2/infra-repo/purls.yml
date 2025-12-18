@@ -29,4 +29,5 @@
 - pkg:maven/com.exactpro.th2/infra-repo@1.1.0-beta-005?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.1.0-beta?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.1.0?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.1.1-alpha-01?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.1.1-beta-01?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/tech.grasshopper/pdfextentreporter@0.2?classifier=sources
 - pkg:maven/tech.grasshopper/pdfextentreporter@0.3
 - pkg:maven/tech.grasshopper/pdfextentreporter@0.3?classifier=sources
+- pkg:maven/tech.grasshopper/pdfextentreporter@1.0.0
+- pkg:maven/tech.grasshopper/pdfextentreporter@1.0.0?classifier=sources

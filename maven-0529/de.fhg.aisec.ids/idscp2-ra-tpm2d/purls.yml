@@ -1,0 +1,2 @@
+- pkg:maven/de.fhg.aisec.ids/idscp2-ra-tpm2d@0.8.0?classifier=sources
+- pkg:maven/de.fhg.aisec.ids/idscp2-ra-tpm2d@0.8.1?classifier=sources

@@ -56,6 +56,9 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.service@1.0.26
 - pkg:maven/com.liferay/com.liferay.data.engine.service@1.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.service@1.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.service@1.0.27
+- pkg:maven/com.liferay/com.liferay.data.engine.service@1.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.service@1.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.service@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.service@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.service@1.0.3
@@ -152,6 +155,9 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.service@2.0.30
 - pkg:maven/com.liferay/com.liferay.data.engine.service@2.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.service@2.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.service@2.0.31
+- pkg:maven/com.liferay/com.liferay.data.engine.service@2.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.service@2.0.31?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.service@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.service@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.service@2.0.4

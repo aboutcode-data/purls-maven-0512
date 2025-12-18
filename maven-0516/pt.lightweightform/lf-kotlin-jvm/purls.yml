@@ -23,3 +23,13 @@
 - pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.7.1?classifier=sources
 - pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.7.2-legacy-ie11?classifier=sources
 - pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.7.2?classifier=sources
+- pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.7.3-legacy-ie11?classifier=sources
+- pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.7.3?classifier=sources
+- pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.7.4-legacy-ie11?classifier=sources
+- pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.7.4?classifier=sources
+- pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.7.5-legacy-ie11?classifier=sources
+- pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.7.5?classifier=sources
+- pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.8.0-legacy-ie11?classifier=sources
+- pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.8.0?classifier=sources
+- pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.9.0-legacy-ie11?classifier=sources
+- pkg:maven/pt.lightweightform/lf-kotlin-jvm@4.9.0?classifier=sources

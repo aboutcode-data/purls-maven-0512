@@ -7,3 +7,4 @@
 - pkg:maven/org.ow2.petals/petals-camel-parent@1.1.1?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-camel-parent@1.2.0?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-camel-parent@1.2.1?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-camel-parent@1.2.2?classifier=source-release&type=zip

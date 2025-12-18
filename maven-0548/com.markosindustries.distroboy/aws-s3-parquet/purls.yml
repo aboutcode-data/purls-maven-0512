@@ -1,0 +1,1 @@
+- pkg:maven/com.markosindustries.distroboy/aws-s3-parquet@0.3.3?classifier=sources

@@ -74,3 +74,5 @@
 - pkg:maven/org.http4s/http4s-jdk-http-client_2.13@0.6.0-M5?classifier=sources
 - pkg:maven/org.http4s/http4s-jdk-http-client_2.13@0.6.0-M6
 - pkg:maven/org.http4s/http4s-jdk-http-client_2.13@0.6.0-M6?classifier=sources
+- pkg:maven/org.http4s/http4s-jdk-http-client_2.13@0.6.0-M7
+- pkg:maven/org.http4s/http4s-jdk-http-client_2.13@0.6.0-M7?classifier=sources

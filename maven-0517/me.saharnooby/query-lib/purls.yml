@@ -1,0 +1,2 @@
+- pkg:maven/me.saharnooby/query-lib@1.2.1
+- pkg:maven/me.saharnooby/query-lib@1.2.1?classifier=sources

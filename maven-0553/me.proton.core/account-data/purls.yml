@@ -10,3 +10,10 @@
 - pkg:maven/me.proton.core/account-data@1.5.2?classifier=sources
 - pkg:maven/me.proton.core/account-data@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/account-data@2.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-data@3.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-data@4.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-data@4.1.0?classifier=sources
+- pkg:maven/me.proton.core/account-data@5.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-data@5.0.1?classifier=sources
+- pkg:maven/me.proton.core/account-data@5.1.0?classifier=sources
+- pkg:maven/me.proton.core/account-data@5.1.1?classifier=sources

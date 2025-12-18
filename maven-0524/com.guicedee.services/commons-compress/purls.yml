@@ -882,5 +882,7 @@
 - pkg:maven/com.guicedee.services/commons-compress@1.2.0.3-jre17-rc1?classifier=sources
 - pkg:maven/com.guicedee.services/commons-compress@1.2.1.1-jre17
 - pkg:maven/com.guicedee.services/commons-compress@1.2.1.1-jre17?classifier=sources
+- pkg:maven/com.guicedee.services/commons-compress@1.2.1.2-jre17
+- pkg:maven/com.guicedee.services/commons-compress@1.2.1.2-jre17?classifier=sources
 - pkg:maven/com.guicedee.services/commons-compress@62
 - pkg:maven/com.guicedee.services/commons-compress@62?classifier=sources

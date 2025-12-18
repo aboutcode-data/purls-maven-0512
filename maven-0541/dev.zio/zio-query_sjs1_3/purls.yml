@@ -1,2 +1,4 @@
 - pkg:maven/dev.zio/zio-query_sjs1_3@0.2.10
 - pkg:maven/dev.zio/zio-query_sjs1_3@0.2.10?classifier=sources
+- pkg:maven/dev.zio/zio-query_sjs1_3@0.3.0-RC1
+- pkg:maven/dev.zio/zio-query_sjs1_3@0.3.0-RC1?classifier=sources

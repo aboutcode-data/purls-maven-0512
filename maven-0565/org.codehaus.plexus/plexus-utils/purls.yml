@@ -136,6 +136,8 @@
 - pkg:maven/org.codehaus.plexus/plexus-utils@3.2.1?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-utils@3.3.0
 - pkg:maven/org.codehaus.plexus/plexus-utils@3.3.0?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-utils@3.3.1
+- pkg:maven/org.codehaus.plexus/plexus-utils@3.3.1?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-utils@3.4.0
 - pkg:maven/org.codehaus.plexus/plexus-utils@3.4.0?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus-utils@3.4.0?classifier=sources

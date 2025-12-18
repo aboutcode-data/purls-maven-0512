@@ -83,6 +83,9 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@1.0.35
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@1.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@1.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.client@1.0.36
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.client@1.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.client@1.0.36?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@1.0.4
@@ -170,6 +173,12 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@2.0.30
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@2.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@2.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.client@2.0.31
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.client@2.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.client@2.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.client@2.0.32
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.client@2.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.client@2.0.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@2.0.4
@@ -194,6 +203,9 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@3.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@3.0.1
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.client@3.0.10
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.client@3.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.client@3.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.client@3.0.2

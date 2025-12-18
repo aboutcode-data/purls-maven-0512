@@ -10,3 +10,5 @@
 - pkg:maven/net.kanstren.osmo/osmotester@3.7.1?classifier=sources
 - pkg:maven/net.kanstren.osmo/osmotester@3.8.0
 - pkg:maven/net.kanstren.osmo/osmotester@3.8.0?classifier=sources
+- pkg:maven/net.kanstren.osmo/osmotester@3.8.1
+- pkg:maven/net.kanstren.osmo/osmotester@3.8.1?classifier=sources

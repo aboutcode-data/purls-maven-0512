@@ -4,3 +4,4 @@
 - pkg:maven/org.duracloud/notification-smtp@6.2.1?classifier=sources
 - pkg:maven/org.duracloud/notification-smtp@7.0.0
 - pkg:maven/org.duracloud/notification-smtp@7.0.0?classifier=sources
+- pkg:maven/org.duracloud/notification-smtp@7.1.0?classifier=sources

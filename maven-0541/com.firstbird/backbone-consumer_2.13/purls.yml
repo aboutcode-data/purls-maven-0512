@@ -1,0 +1,2 @@
+- pkg:maven/com.firstbird/backbone-consumer_2.13@3.0.0-RC8
+- pkg:maven/com.firstbird/backbone-consumer_2.13@3.0.0-RC8?classifier=sources

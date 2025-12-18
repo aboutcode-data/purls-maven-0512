@@ -94,6 +94,8 @@
 - pkg:maven/com.yahoo.parsec/parsec-clients@1.0.19-RC4
 - pkg:maven/com.yahoo.parsec/parsec-clients@1.0.19-RC4?classifier=sources
 - pkg:maven/com.yahoo.parsec/parsec-clients@1.0.19?classifier=sources
+- pkg:maven/com.yahoo.parsec/parsec-clients@1.0.20
+- pkg:maven/com.yahoo.parsec/parsec-clients@1.0.20?classifier=sources
 - pkg:maven/com.yahoo.parsec/parsec-clients@1.0.3
 - pkg:maven/com.yahoo.parsec/parsec-clients@1.0.3?classifier=sources
 - pkg:maven/com.yahoo.parsec/parsec-clients@1.0.4

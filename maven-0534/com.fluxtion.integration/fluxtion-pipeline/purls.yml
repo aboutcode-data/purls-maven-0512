@@ -24,3 +24,5 @@
 - pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.48?classifier=sources
 - pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.49
 - pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.49?classifier=sources
+- pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.50
+- pkg:maven/com.fluxtion.integration/fluxtion-pipeline@2.10.50?classifier=sources

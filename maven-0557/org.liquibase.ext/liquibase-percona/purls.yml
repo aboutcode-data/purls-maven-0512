@@ -20,3 +20,5 @@
 - pkg:maven/org.liquibase.ext/liquibase-percona@4.6.1.1
 - pkg:maven/org.liquibase.ext/liquibase-percona@4.6.1.1?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-percona@4.6.1?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-percona@4.6.2
+- pkg:maven/org.liquibase.ext/liquibase-percona@4.6.2?classifier=sources

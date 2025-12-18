@@ -1,0 +1,2 @@
+- pkg:maven/cloud.commandframework/cloud-kotlin-coroutines-annotations@1.6.0?classifier=sources
+- pkg:maven/cloud.commandframework/cloud-kotlin-coroutines-annotations@1.6.1?classifier=sources

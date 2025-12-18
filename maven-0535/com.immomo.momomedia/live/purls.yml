@@ -46,3 +46,13 @@
 - pkg:maven/com.immomo.momomedia/live@2.3.1-20211109190503?type=aar
 - pkg:maven/com.immomo.momomedia/live@2.3.1-20211111160503?classifier=sources
 - pkg:maven/com.immomo.momomedia/live@2.3.1-20211111160503?type=aar
+- pkg:maven/com.immomo.momomedia/live@2.3.1-20211129180503?classifier=sources
+- pkg:maven/com.immomo.momomedia/live@2.3.1-20211129180503?type=aar
+- pkg:maven/com.immomo.momomedia/live@2.3.1-20211210113101?classifier=sources
+- pkg:maven/com.immomo.momomedia/live@2.3.1-20211210113101?type=aar
+- pkg:maven/com.immomo.momomedia/live@2.3.1-20211222195301?classifier=sources
+- pkg:maven/com.immomo.momomedia/live@2.3.1-20211222195301?type=aar
+- pkg:maven/com.immomo.momomedia/live@2.3.1-20211223125301?classifier=sources
+- pkg:maven/com.immomo.momomedia/live@2.3.1-20211223125301?type=aar
+- pkg:maven/com.immomo.momomedia/live@2.3.1-20211223133801?classifier=sources
+- pkg:maven/com.immomo.momomedia/live@2.3.1-20211223133801?type=aar

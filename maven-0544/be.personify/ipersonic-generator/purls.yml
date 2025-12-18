@@ -1,3 +1,4 @@
+- pkg:maven/be.personify/ipersonic-generator@1.2.30.RELEASE
 - pkg:maven/be.personify/ipersonic-generator@1.2.7.RELEASE
 - pkg:maven/be.personify/ipersonic-generator@1.2.8.RELEASE
 - pkg:maven/be.personify/ipersonic-generator@1.2.9.RELEASE

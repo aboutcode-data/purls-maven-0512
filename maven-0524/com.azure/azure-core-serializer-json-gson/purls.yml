@@ -34,3 +34,5 @@
 - pkg:maven/com.azure/azure-core-serializer-json-gson@1.1.7?classifier=sources
 - pkg:maven/com.azure/azure-core-serializer-json-gson@1.1.8
 - pkg:maven/com.azure/azure-core-serializer-json-gson@1.1.8?classifier=sources
+- pkg:maven/com.azure/azure-core-serializer-json-gson@1.1.9
+- pkg:maven/com.azure/azure-core-serializer-json-gson@1.1.9?classifier=sources

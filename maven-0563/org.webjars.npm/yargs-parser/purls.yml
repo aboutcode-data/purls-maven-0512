@@ -41,6 +41,8 @@
 - pkg:maven/org.webjars.npm/yargs-parser@20.2.7?classifier=sources
 - pkg:maven/org.webjars.npm/yargs-parser@20.2.9
 - pkg:maven/org.webjars.npm/yargs-parser@20.2.9?classifier=sources
+- pkg:maven/org.webjars.npm/yargs-parser@21.0.0
+- pkg:maven/org.webjars.npm/yargs-parser@21.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/yargs-parser@3.2.0
 - pkg:maven/org.webjars.npm/yargs-parser@3.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/yargs-parser@4.2.0

@@ -10,6 +10,10 @@
 - pkg:maven/ca.bc.gov.tno/dal-db@0.0.14-alpha?classifier=sources
 - pkg:maven/ca.bc.gov.tno/dal-db@0.0.15-alpha
 - pkg:maven/ca.bc.gov.tno/dal-db@0.0.15-alpha?classifier=sources
+- pkg:maven/ca.bc.gov.tno/dal-db@0.0.16-alpha
+- pkg:maven/ca.bc.gov.tno/dal-db@0.0.16-alpha?classifier=sources
+- pkg:maven/ca.bc.gov.tno/dal-db@0.0.17-alpha
+- pkg:maven/ca.bc.gov.tno/dal-db@0.0.17-alpha?classifier=sources
 - pkg:maven/ca.bc.gov.tno/dal-db@0.0.2-alpha
 - pkg:maven/ca.bc.gov.tno/dal-db@0.0.2-alpha?classifier=sources
 - pkg:maven/ca.bc.gov.tno/dal-db@0.0.3-alpha

@@ -242,3 +242,7 @@
 - pkg:maven/com.ibeetl/beetl@3.8.0.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/beetl@3.8.1.RELEASE
 - pkg:maven/com.ibeetl/beetl@3.8.1.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/beetl@3.9.0.RELEASE
+- pkg:maven/com.ibeetl/beetl@3.9.0.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/beetl@3.9.1.RELEASE
+- pkg:maven/com.ibeetl/beetl@3.9.1.RELEASE?classifier=sources

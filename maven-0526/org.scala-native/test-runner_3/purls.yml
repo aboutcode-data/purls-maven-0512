@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-native/test-runner_3@0.4.3-RC1
+- pkg:maven/org.scala-native/test-runner_3@0.4.3-RC1?classifier=sources

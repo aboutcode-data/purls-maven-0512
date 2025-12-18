@@ -48,6 +48,14 @@
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.20?type=war
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.21?classifier=sources
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.21?type=war
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.22?classifier=sources
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.22?type=war
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.23?classifier=sources
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.23?type=war
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.24?classifier=sources
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.24?type=war
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.28?classifier=sources
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.28?type=war
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.2?classifier=sources
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.2?type=war
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.3?classifier=sources

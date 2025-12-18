@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/alibabacloud-sls20201230-async@1.0.0-beta
+- pkg:maven/com.aliyun/alibabacloud-sls20201230-async@1.0.0-beta?classifier=sources

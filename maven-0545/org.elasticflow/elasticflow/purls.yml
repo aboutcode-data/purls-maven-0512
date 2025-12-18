@@ -16,3 +16,5 @@
 - pkg:maven/org.elasticflow/elasticflow@5.1.0?classifier=sources
 - pkg:maven/org.elasticflow/elasticflow@5.1.1
 - pkg:maven/org.elasticflow/elasticflow@5.1.1?classifier=sources
+- pkg:maven/org.elasticflow/elasticflow@5.3.0
+- pkg:maven/org.elasticflow/elasticflow@5.3.0?classifier=sources
