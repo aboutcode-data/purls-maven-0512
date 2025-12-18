@@ -23,4 +23,8 @@
 - pkg:maven/de.uni-freiburg.informatik.ultimate/smtinterpol@2.5-66-g453d36e?classifier=sources
 - pkg:maven/de.uni-freiburg.informatik.ultimate/smtinterpol@2.5-732-gd208e931
 - pkg:maven/de.uni-freiburg.informatik.ultimate/smtinterpol@2.5-732-gd208e931?classifier=sources
+- pkg:maven/de.uni-freiburg.informatik.ultimate/smtinterpol@2.5-842-gfcd46532
+- pkg:maven/de.uni-freiburg.informatik.ultimate/smtinterpol@2.5-842-gfcd46532?classifier=sources
+- pkg:maven/de.uni-freiburg.informatik.ultimate/smtinterpol@2.5-916-ga5843d8b
+- pkg:maven/de.uni-freiburg.informatik.ultimate/smtinterpol@2.5-916-ga5843d8b?classifier=sources
 - pkg:maven/de.uni-freiburg.informatik.ultimate/smtinterpol@2.5?classifier=sources

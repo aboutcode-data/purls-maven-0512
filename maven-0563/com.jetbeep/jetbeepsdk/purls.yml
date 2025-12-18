@@ -139,3 +139,9 @@
 - pkg:maven/com.jetbeep/jetbeepsdk@1.4.1?type=aar
 - pkg:maven/com.jetbeep/jetbeepsdk@1.4.2?classifier=sources
 - pkg:maven/com.jetbeep/jetbeepsdk@1.4.2?type=aar
+- pkg:maven/com.jetbeep/jetbeepsdk@1.4.3?classifier=sources
+- pkg:maven/com.jetbeep/jetbeepsdk@1.4.3?type=aar
+- pkg:maven/com.jetbeep/jetbeepsdk@1.4.4?classifier=sources
+- pkg:maven/com.jetbeep/jetbeepsdk@1.4.4?type=aar
+- pkg:maven/com.jetbeep/jetbeepsdk@1.5.0?classifier=sources
+- pkg:maven/com.jetbeep/jetbeepsdk@1.5.0?type=aar

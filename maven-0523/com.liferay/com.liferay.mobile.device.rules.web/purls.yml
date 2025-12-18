@@ -148,6 +148,9 @@
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@1.0.58
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@1.0.58?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@1.0.58?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@1.0.59
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@1.0.59?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@1.0.59?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@1.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@1.0.6
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@1.0.6?classifier=sources
@@ -278,6 +281,12 @@
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@2.0.45
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@2.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@2.0.45?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@2.0.46
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@2.0.46?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@2.0.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@2.0.47
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@2.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@2.0.47?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@2.0.5
@@ -416,6 +425,12 @@
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@3.0.45
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@3.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@3.0.45?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@3.0.46
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@3.0.46?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@3.0.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@3.0.47
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@3.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@3.0.47?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@3.0.5
@@ -512,6 +527,12 @@
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@4.0.32
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@4.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@4.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@4.0.33
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@4.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@4.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@4.0.34
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@4.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@4.0.34?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@4.0.4
@@ -556,3 +577,6 @@
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@5.0.7
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@5.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@5.0.8
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@5.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mobile.device.rules.web@5.0.8?classifier=sources-commercial

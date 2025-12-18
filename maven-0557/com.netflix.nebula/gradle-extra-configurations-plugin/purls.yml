@@ -31,3 +31,4 @@
 - pkg:maven/com.netflix.nebula/gradle-extra-configurations-plugin@5.0.1
 - pkg:maven/com.netflix.nebula/gradle-extra-configurations-plugin@5.0.1?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-extra-configurations-plugin@6.0.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-extra-configurations-plugin@7.0.0?classifier=sources

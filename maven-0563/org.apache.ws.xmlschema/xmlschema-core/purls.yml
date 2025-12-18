@@ -13,3 +13,5 @@
 - pkg:maven/org.apache.ws.xmlschema/xmlschema-core@2.2.4?classifier=sources
 - pkg:maven/org.apache.ws.xmlschema/xmlschema-core@2.2.5
 - pkg:maven/org.apache.ws.xmlschema/xmlschema-core@2.2.5?classifier=sources
+- pkg:maven/org.apache.ws.xmlschema/xmlschema-core@2.3.0
+- pkg:maven/org.apache.ws.xmlschema/xmlschema-core@2.3.0?classifier=sources

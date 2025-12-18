@@ -1,0 +1,6 @@
+- pkg:maven/tech.codingzen/kata-assertions@1.5.0
+- pkg:maven/tech.codingzen/kata-assertions@1.5.0?classifier=sources
+- pkg:maven/tech.codingzen/kata-assertions@2.0.0
+- pkg:maven/tech.codingzen/kata-assertions@2.0.0?classifier=sources
+- pkg:maven/tech.codingzen/kata-assertions@2.0.1
+- pkg:maven/tech.codingzen/kata-assertions@2.0.1?classifier=sources

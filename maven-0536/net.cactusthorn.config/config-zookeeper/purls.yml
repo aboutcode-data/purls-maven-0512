@@ -1,0 +1,2 @@
+- pkg:maven/net.cactusthorn.config/config-zookeeper@0.70
+- pkg:maven/net.cactusthorn.config/config-zookeeper@0.70?classifier=sources

@@ -98,3 +98,5 @@
 - pkg:maven/com.groupbyinc/common-test-internal@193?classifier=sources
 - pkg:maven/com.groupbyinc/common-test-internal@194
 - pkg:maven/com.groupbyinc/common-test-internal@194?classifier=sources
+- pkg:maven/com.groupbyinc/common-test-internal@195
+- pkg:maven/com.groupbyinc/common-test-internal@195?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.mqtt/server-sdk@1.0.0.Final
+- pkg:maven/com.alibaba.mqtt/server-sdk@1.0.0.Final?classifier=sources

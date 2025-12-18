@@ -62,6 +62,8 @@
 - pkg:maven/ch.exense.step/step-core-model@3.16.3?classifier=sources
 - pkg:maven/ch.exense.step/step-core-model@3.17.0
 - pkg:maven/ch.exense.step/step-core-model@3.17.0?classifier=sources
+- pkg:maven/ch.exense.step/step-core-model@3.17.1
+- pkg:maven/ch.exense.step/step-core-model@3.17.1?classifier=sources
 - pkg:maven/ch.exense.step/step-core-model@3.9.0
 - pkg:maven/ch.exense.step/step-core-model@3.9.0?classifier=sources
 - pkg:maven/ch.exense.step/step-core-model@3.9.1

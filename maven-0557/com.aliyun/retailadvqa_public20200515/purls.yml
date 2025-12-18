@@ -1,2 +1,6 @@
 - pkg:maven/com.aliyun/retailadvqa_public20200515@1.8.130
 - pkg:maven/com.aliyun/retailadvqa_public20200515@1.8.130?classifier=sources
+- pkg:maven/com.aliyun/retailadvqa_public20200515@3.3.26
+- pkg:maven/com.aliyun/retailadvqa_public20200515@3.3.26?classifier=sources
+- pkg:maven/com.aliyun/retailadvqa_public20200515@3.3.27
+- pkg:maven/com.aliyun/retailadvqa_public20200515@3.3.27?classifier=sources

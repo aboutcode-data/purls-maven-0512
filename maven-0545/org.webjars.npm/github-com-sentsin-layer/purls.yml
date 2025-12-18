@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-sentsin-layer@3.5.1
+- pkg:maven/org.webjars.npm/github-com-sentsin-layer@3.5.1?classifier=sources

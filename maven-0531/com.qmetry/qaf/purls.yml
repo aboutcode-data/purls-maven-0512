@@ -39,3 +39,5 @@
 - pkg:maven/com.qmetry/qaf@3.0.0-beta-4
 - pkg:maven/com.qmetry/qaf@3.0.0-beta-4?classifier=sources
 - pkg:maven/com.qmetry/qaf@3.0.0?classifier=sources
+- pkg:maven/com.qmetry/qaf@3.0.1b
+- pkg:maven/com.qmetry/qaf@3.0.1b?classifier=sources

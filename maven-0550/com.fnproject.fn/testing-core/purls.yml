@@ -62,6 +62,8 @@
 - pkg:maven/com.fnproject.fn/testing-core@1.0.131?classifier=sources
 - pkg:maven/com.fnproject.fn/testing-core@1.0.132
 - pkg:maven/com.fnproject.fn/testing-core@1.0.132?classifier=sources
+- pkg:maven/com.fnproject.fn/testing-core@1.0.133
+- pkg:maven/com.fnproject.fn/testing-core@1.0.133?classifier=sources
 - pkg:maven/com.fnproject.fn/testing-core@1.0.64
 - pkg:maven/com.fnproject.fn/testing-core@1.0.64?classifier=sources
 - pkg:maven/com.fnproject.fn/testing-core@1.0.70

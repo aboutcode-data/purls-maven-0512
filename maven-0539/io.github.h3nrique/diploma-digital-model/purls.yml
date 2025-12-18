@@ -1,0 +1,4 @@
+- pkg:maven/io.github.h3nrique/diploma-digital-model@1.02
+- pkg:maven/io.github.h3nrique/diploma-digital-model@1.02-2
+- pkg:maven/io.github.h3nrique/diploma-digital-model@1.02-2?classifier=sources
+- pkg:maven/io.github.h3nrique/diploma-digital-model@1.02?classifier=sources

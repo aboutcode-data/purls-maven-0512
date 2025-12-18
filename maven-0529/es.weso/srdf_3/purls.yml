@@ -1,2 +1,6 @@
 - pkg:maven/es.weso/srdf_3@0.1.102
 - pkg:maven/es.weso/srdf_3@0.1.102?classifier=sources
+- pkg:maven/es.weso/srdf_3@0.1.103
+- pkg:maven/es.weso/srdf_3@0.1.103?classifier=sources
+- pkg:maven/es.weso/srdf_3@0.1.104
+- pkg:maven/es.weso/srdf_3@0.1.104?classifier=sources

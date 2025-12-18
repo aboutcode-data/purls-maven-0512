@@ -38,8 +38,13 @@
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.5-Fabric-6?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.5-Fabric-7?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.5-Fabric-8?classifier=sources
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.16.5-Fabric-9?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.17-Fabric-11?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.17-Fabric-12?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.17-Fabric-13?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.17-Fabric-14?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.17-Fabric-15?classifier=sources
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.17-Fabric-16?classifier=sources
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.17-Fabric-17?classifier=sources
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.17-Fabric-18?classifier=sources
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.17-Fabric-19?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.github.mictaege/arete-gradle@2021.4?classifier=sources
 - pkg:maven/com.github.mictaege/arete-gradle@2021.5
 - pkg:maven/com.github.mictaege/arete-gradle@2021.5?classifier=sources
+- pkg:maven/com.github.mictaege/arete-gradle@2021.6
+- pkg:maven/com.github.mictaege/arete-gradle@2021.6?classifier=sources

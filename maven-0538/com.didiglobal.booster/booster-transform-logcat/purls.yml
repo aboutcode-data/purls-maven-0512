@@ -99,3 +99,9 @@
 - pkg:maven/com.didiglobal.booster/booster-transform-logcat@3.4.0-alpha2?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-logcat@3.4.0-alpha3?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-logcat@3.4.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-logcat@3.5.0-alpha1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-logcat@3.5.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-logcat@4.0.0-alpha1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-logcat@4.0.0-alpha2?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-logcat@4.0.0-beta1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-logcat@4.0.0?classifier=sources

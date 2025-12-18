@@ -1,3 +1,5 @@
 - pkg:maven/io.github.tompee26/kotlin-builder-runtime@0.4.0?classifier=sources
 - pkg:maven/io.github.tompee26/kotlin-builder-runtime@0.4.1?classifier=sources
 - pkg:maven/io.github.tompee26/kotlin-builder-runtime@0.5.0?classifier=sources
+- pkg:maven/io.github.tompee26/kotlin-builder-runtime@0.6.0?classifier=sources
+- pkg:maven/io.github.tompee26/kotlin-builder-runtime@0.6.1?classifier=sources

@@ -22,3 +22,6 @@
 - pkg:maven/com.github.adriankuta/tree-structure@1.2.2?type=aar
 - pkg:maven/com.github.adriankuta/tree-structure@1.2.3?classifier=sources
 - pkg:maven/com.github.adriankuta/tree-structure@1.2.3?type=aar
+- pkg:maven/com.github.adriankuta/tree-structure@2.0.0?classifier=sources
+- pkg:maven/com.github.adriankuta/tree-structure@2.0.2?classifier=sources
+- pkg:maven/com.github.adriankuta/tree-structure@2.0.3?classifier=sources

@@ -109,3 +109,4 @@
 - pkg:maven/io.nextflow/nf-commons@21.05.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nf-commons@21.06.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nf-commons@21.07.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-commons@21.08.0-edge?classifier=sources

@@ -11,4 +11,6 @@
 - pkg:maven/org.wildfly.arquillian/elytron-standalone@3.0.0.Final
 - pkg:maven/org.wildfly.arquillian/elytron-standalone@3.0.1.Final
 - pkg:maven/org.wildfly.arquillian/elytron-standalone@4.0.0.Alpha1
+- pkg:maven/org.wildfly.arquillian/elytron-standalone@4.0.0.Alpha2
+- pkg:maven/org.wildfly.arquillian/elytron-standalone@4.0.0.Alpha3
 - pkg:maven/org.wildfly.arquillian/elytron-standalone@5.0.0.Alpha1

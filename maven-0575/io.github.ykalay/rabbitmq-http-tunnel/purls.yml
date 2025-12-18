@@ -1,0 +1,12 @@
+- pkg:maven/io.github.ykalay/rabbitmq-http-tunnel@1.0.6
+- pkg:maven/io.github.ykalay/rabbitmq-http-tunnel@1.0.6-4443
+- pkg:maven/io.github.ykalay/rabbitmq-http-tunnel@1.0.6-4443?classifier=sources
+- pkg:maven/io.github.ykalay/rabbitmq-http-tunnel@1.0.6-test
+- pkg:maven/io.github.ykalay/rabbitmq-http-tunnel@1.0.6-test?classifier=sources
+- pkg:maven/io.github.ykalay/rabbitmq-http-tunnel@1.0.6?classifier=sources
+- pkg:maven/io.github.ykalay/rabbitmq-http-tunnel@1.0.7
+- pkg:maven/io.github.ykalay/rabbitmq-http-tunnel@1.0.7?classifier=sources
+- pkg:maven/io.github.ykalay/rabbitmq-http-tunnel@1.0.8
+- pkg:maven/io.github.ykalay/rabbitmq-http-tunnel@1.0.8-RELEASE
+- pkg:maven/io.github.ykalay/rabbitmq-http-tunnel@1.0.8-RELEASE?classifier=sources
+- pkg:maven/io.github.ykalay/rabbitmq-http-tunnel@1.0.8?classifier=sources

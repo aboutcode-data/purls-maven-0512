@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.jclouds.labs/vagrant@2.2.1?classifier=sources
 - pkg:maven/org.apache.jclouds.labs/vagrant@2.3.0
 - pkg:maven/org.apache.jclouds.labs/vagrant@2.3.0?classifier=sources
+- pkg:maven/org.apache.jclouds.labs/vagrant@2.4.0
+- pkg:maven/org.apache.jclouds.labs/vagrant@2.4.0?classifier=sources

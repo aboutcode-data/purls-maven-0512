@@ -1,0 +1,4 @@
+- pkg:maven/group.rxcloud/capa-sdk-infrastructure@1.0.0-RELEASE
+- pkg:maven/group.rxcloud/capa-sdk-infrastructure@1.0.0-RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/capa-sdk-infrastructure@1.0.1.RELEASE
+- pkg:maven/group.rxcloud/capa-sdk-infrastructure@1.0.1.RELEASE?classifier=sources

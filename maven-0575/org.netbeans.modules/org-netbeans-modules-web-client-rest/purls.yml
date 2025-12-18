@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-client-rest@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-client-rest@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-client-rest@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-client-rest@RELEASE125?classifier=sources

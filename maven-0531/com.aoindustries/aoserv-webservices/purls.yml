@@ -2,3 +2,5 @@
 - pkg:maven/com.aoindustries/aoserv-webservices@1.84.13?type=aar
 - pkg:maven/com.aoindustries/aoserv-webservices@1.85.0?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-webservices@1.85.0?type=aar
+- pkg:maven/com.aoindustries/aoserv-webservices@1.86.0?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-webservices@1.86.0?type=aar

@@ -5,3 +5,5 @@
 - pkg:maven/com.urbanairship.android/urbanairship-chat@14.5.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-chat@14.5.1?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-chat@14.6.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-chat@15.0.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-chat@15.1.0?classifier=sources

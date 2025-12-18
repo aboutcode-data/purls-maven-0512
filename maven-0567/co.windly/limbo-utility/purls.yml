@@ -40,3 +40,4 @@
 - pkg:maven/co.windly/limbo-utility@3.2.0?type=aar
 - pkg:maven/co.windly/limbo-utility@3.2.1?classifier=sources
 - pkg:maven/co.windly/limbo-utility@3.2.1?type=aar
+- pkg:maven/co.windly/limbo-utility@3.2.2?classifier=sources

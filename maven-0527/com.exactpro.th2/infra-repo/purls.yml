@@ -16,8 +16,10 @@
 - pkg:maven/com.exactpro.th2/infra-repo@1.0.14?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.0.15-cassandra-config-2?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.0.15-cassandra-config?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.0.15?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.0.5?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.0.6?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.0.7?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.0.8?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.0.9?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.1.0-beta?classifier=sources

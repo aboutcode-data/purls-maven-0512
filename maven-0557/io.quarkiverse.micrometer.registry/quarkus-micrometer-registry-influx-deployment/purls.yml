@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.micrometer.registry/quarkus-micrometer-registry-influx-deployment@2.2.2
+- pkg:maven/io.quarkiverse.micrometer.registry/quarkus-micrometer-registry-influx-deployment@2.2.2?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.opensearch/java-version-checker@1.0.0?classifier=sources

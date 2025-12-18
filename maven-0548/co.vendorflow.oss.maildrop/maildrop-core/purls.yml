@@ -1,0 +1,2 @@
+- pkg:maven/co.vendorflow.oss.maildrop/maildrop-core@0.1.0
+- pkg:maven/co.vendorflow.oss.maildrop/maildrop-core@0.1.0?classifier=sources

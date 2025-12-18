@@ -1,1 +1,2 @@
 - pkg:maven/org.librarysimplified/org.librarysimplified.ui.announcements@6.6.3?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.ui.announcements@7.0.2?classifier=sources

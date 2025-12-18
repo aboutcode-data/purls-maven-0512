@@ -68,6 +68,8 @@
 - pkg:maven/io.gravitee.rest.api/gravitee-rest-api-spec-converter@3.8.5?classifier=sources
 - pkg:maven/io.gravitee.rest.api/gravitee-rest-api-spec-converter@3.8.6
 - pkg:maven/io.gravitee.rest.api/gravitee-rest-api-spec-converter@3.8.6?classifier=sources
+- pkg:maven/io.gravitee.rest.api/gravitee-rest-api-spec-converter@3.8.7
+- pkg:maven/io.gravitee.rest.api/gravitee-rest-api-spec-converter@3.8.7?classifier=sources
 - pkg:maven/io.gravitee.rest.api/gravitee-rest-api-spec-converter@3.9.0
 - pkg:maven/io.gravitee.rest.api/gravitee-rest-api-spec-converter@3.9.0?classifier=sources
 - pkg:maven/io.gravitee.rest.api/gravitee-rest-api-spec-converter@3.9.1

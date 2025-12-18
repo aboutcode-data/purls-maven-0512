@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/fortawesome__fontawesome-free@5.15.2?classifier=sources
 - pkg:maven/org.webjars.npm/fortawesome__fontawesome-free@5.15.3
 - pkg:maven/org.webjars.npm/fortawesome__fontawesome-free@5.15.3?classifier=sources
+- pkg:maven/org.webjars.npm/fortawesome__fontawesome-free@5.15.4
+- pkg:maven/org.webjars.npm/fortawesome__fontawesome-free@5.15.4?classifier=sources

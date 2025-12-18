@@ -106,3 +106,5 @@
 - pkg:maven/io.atlasmap/atlas-itests-validation-mappings@2.2.1
 - pkg:maven/io.atlasmap/atlas-itests-validation-mappings@2.2.2
 - pkg:maven/io.atlasmap/atlas-itests-validation-mappings@2.2.3
+- pkg:maven/io.atlasmap/atlas-itests-validation-mappings@2.3.0-M.3
+- pkg:maven/io.atlasmap/atlas-itests-validation-mappings@2.3.0-M.5

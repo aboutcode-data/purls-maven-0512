@@ -95,3 +95,9 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apt@3.32.0-03?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apt@3.33.0-01
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apt@3.33.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apt@3.33.1-01
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apt@3.33.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apt@3.34.0-01
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apt@3.34.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apt@3.34.1-01
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apt@3.34.1-01?classifier=sources

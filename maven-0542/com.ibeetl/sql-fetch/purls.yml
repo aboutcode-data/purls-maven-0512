@@ -32,6 +32,10 @@
 - pkg:maven/com.ibeetl/sql-fetch@3.1.4-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-fetch@3.1.5-RELEASE
 - pkg:maven/com.ibeetl/sql-fetch@3.1.5-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-fetch@3.10.0-RELEASE
+- pkg:maven/com.ibeetl/sql-fetch@3.10.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-fetch@3.10.1-RELEASE
+- pkg:maven/com.ibeetl/sql-fetch@3.10.1-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-fetch@3.2.0-RELEASE
 - pkg:maven/com.ibeetl/sql-fetch@3.2.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-fetch@3.2.1-RELEASE
@@ -106,3 +110,13 @@
 - pkg:maven/com.ibeetl/sql-fetch@3.6.3-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-fetch@3.6.4-RELEASE
 - pkg:maven/com.ibeetl/sql-fetch@3.6.4-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-fetch@3.6.5-RELEASE
+- pkg:maven/com.ibeetl/sql-fetch@3.6.5-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-fetch@3.6.6-RELEASE
+- pkg:maven/com.ibeetl/sql-fetch@3.6.6-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-fetch@3.7.0-RELEASE
+- pkg:maven/com.ibeetl/sql-fetch@3.7.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-fetch@3.8.0-RELEASE
+- pkg:maven/com.ibeetl/sql-fetch@3.8.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-fetch@3.9.0-RELEASE
+- pkg:maven/com.ibeetl/sql-fetch@3.9.0-RELEASE?classifier=sources

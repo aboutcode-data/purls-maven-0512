@@ -2,3 +2,5 @@
 - pkg:maven/gov.nasa.pds/api-search-query-lexer@0.1.0?classifier=sources
 - pkg:maven/gov.nasa.pds/api-search-query-lexer@0.2.0
 - pkg:maven/gov.nasa.pds/api-search-query-lexer@0.2.0?classifier=sources
+- pkg:maven/gov.nasa.pds/api-search-query-lexer@1.0.0
+- pkg:maven/gov.nasa.pds/api-search-query-lexer@1.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.ganshane.specs/dingtalk-sdk@20210115
 - pkg:maven/com.ganshane.specs/dingtalk-sdk@20210115?classifier=sources
+- pkg:maven/com.ganshane.specs/dingtalk-sdk@20210917
+- pkg:maven/com.ganshane.specs/dingtalk-sdk@20210917?classifier=sources

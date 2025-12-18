@@ -1,0 +1,4 @@
+- pkg:maven/zone.dragon.baharclerode/cassandra-unit-spring@4.3.2.2
+- pkg:maven/zone.dragon.baharclerode/cassandra-unit-spring@4.3.2.2?classifier=sources
+- pkg:maven/zone.dragon.baharclerode/cassandra-unit-spring@4.3.2.3
+- pkg:maven/zone.dragon.baharclerode/cassandra-unit-spring@4.3.2.3?classifier=sources

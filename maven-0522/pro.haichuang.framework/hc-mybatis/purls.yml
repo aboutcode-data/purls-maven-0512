@@ -1,0 +1,4 @@
+- pkg:maven/pro.haichuang.framework/hc-mybatis@1.0.0
+- pkg:maven/pro.haichuang.framework/hc-mybatis@1.0.0.210926
+- pkg:maven/pro.haichuang.framework/hc-mybatis@1.0.0.210926?classifier=sources
+- pkg:maven/pro.haichuang.framework/hc-mybatis@1.0.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/de.jgoldhammer/alfresco-jscript-extension@1.6?classifier=sources
 - pkg:maven/de.jgoldhammer/alfresco-jscript-extension@1.7
 - pkg:maven/de.jgoldhammer/alfresco-jscript-extension@1.7?classifier=sources
+- pkg:maven/de.jgoldhammer/alfresco-jscript-extension@1.8.0
+- pkg:maven/de.jgoldhammer/alfresco-jscript-extension@1.8.0?classifier=sources

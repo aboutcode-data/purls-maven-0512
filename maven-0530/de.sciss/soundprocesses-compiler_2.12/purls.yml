@@ -158,3 +158,5 @@
 - pkg:maven/de.sciss/soundprocesses-compiler_2.12@4.7.7?classifier=sources
 - pkg:maven/de.sciss/soundprocesses-compiler_2.12@4.8.0
 - pkg:maven/de.sciss/soundprocesses-compiler_2.12@4.8.0?classifier=sources
+- pkg:maven/de.sciss/soundprocesses-compiler_2.12@4.9.0
+- pkg:maven/de.sciss/soundprocesses-compiler_2.12@4.9.0?classifier=sources

@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-platform@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-platform@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-platform@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-java-platform@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-platform@RELEASE90?classifier=sources

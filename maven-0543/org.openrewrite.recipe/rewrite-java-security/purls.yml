@@ -1,0 +1,1 @@
+- pkg:maven/org.openrewrite.recipe/rewrite-java-security@1.0.0?classifier=sources

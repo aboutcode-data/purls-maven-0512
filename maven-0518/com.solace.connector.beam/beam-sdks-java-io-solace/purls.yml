@@ -1,2 +1,4 @@
 - pkg:maven/com.solace.connector.beam/beam-sdks-java-io-solace@1.0.0
 - pkg:maven/com.solace.connector.beam/beam-sdks-java-io-solace@1.0.0?classifier=sources
+- pkg:maven/com.solace.connector.beam/beam-sdks-java-io-solace@1.1.0
+- pkg:maven/com.solace.connector.beam/beam-sdks-java-io-solace@1.1.0?classifier=sources

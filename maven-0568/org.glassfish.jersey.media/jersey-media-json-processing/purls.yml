@@ -119,6 +119,8 @@
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.33?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.34
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.34?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.35
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.35?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.4
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.4.1
@@ -150,3 +152,5 @@
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@3.0.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@3.0.2
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@3.0.2?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@3.0.3
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@3.0.3?classifier=sources

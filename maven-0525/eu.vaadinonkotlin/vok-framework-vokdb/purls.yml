@@ -1,3 +1,4 @@
+- pkg:maven/eu.vaadinonkotlin/vok-framework-vokdb@0.11.1?classifier=sources
 - pkg:maven/eu.vaadinonkotlin/vok-framework-vokdb@0.8.0
 - pkg:maven/eu.vaadinonkotlin/vok-framework-vokdb@0.8.0?classifier=sources
 - pkg:maven/eu.vaadinonkotlin/vok-framework-vokdb@0.8.1

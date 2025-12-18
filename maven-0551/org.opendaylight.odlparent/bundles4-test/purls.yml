@@ -77,6 +77,7 @@
 - pkg:maven/org.opendaylight.odlparent/bundles4-test@7.0.0
 - pkg:maven/org.opendaylight.odlparent/bundles4-test@7.0.1
 - pkg:maven/org.opendaylight.odlparent/bundles4-test@7.0.10
+- pkg:maven/org.opendaylight.odlparent/bundles4-test@7.0.11
 - pkg:maven/org.opendaylight.odlparent/bundles4-test@7.0.2
 - pkg:maven/org.opendaylight.odlparent/bundles4-test@7.0.3
 - pkg:maven/org.opendaylight.odlparent/bundles4-test@7.0.4
@@ -96,3 +97,6 @@
 - pkg:maven/org.opendaylight.odlparent/bundles4-test@9.0.0
 - pkg:maven/org.opendaylight.odlparent/bundles4-test@9.0.1
 - pkg:maven/org.opendaylight.odlparent/bundles4-test@9.0.2
+- pkg:maven/org.opendaylight.odlparent/bundles4-test@9.0.3
+- pkg:maven/org.opendaylight.odlparent/bundles4-test@9.0.4
+- pkg:maven/org.opendaylight.odlparent/bundles4-test@9.0.5

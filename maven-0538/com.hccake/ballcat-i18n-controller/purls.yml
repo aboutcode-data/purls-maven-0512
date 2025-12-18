@@ -1,0 +1,2 @@
+- pkg:maven/com.hccake/ballcat-i18n-controller@0.3.0
+- pkg:maven/com.hccake/ballcat-i18n-controller@0.3.0?classifier=sources

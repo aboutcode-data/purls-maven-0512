@@ -4,3 +4,5 @@
 - pkg:maven/name.remal.gradle-plugins.test-source-sets/test-source-sets@2.0.0-rc-8?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.test-source-sets/test-source-sets@2.0.0?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.test-source-sets/test-source-sets@2.1.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.test-source-sets/test-source-sets@2.2.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.test-source-sets/test-source-sets@2.2.1?classifier=sources

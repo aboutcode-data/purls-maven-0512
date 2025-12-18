@@ -1,1 +1,4 @@
 - pkg:maven/com.platopen/opensdk@1.0
+- pkg:maven/com.platopen/opensdk@1.1
+- pkg:maven/com.platopen/opensdk@1.2
+- pkg:maven/com.platopen/opensdk@1.3

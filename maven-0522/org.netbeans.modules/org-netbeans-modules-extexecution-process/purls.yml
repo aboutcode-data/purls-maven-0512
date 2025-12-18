@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-process@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-process@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-process@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-process@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-process@RELEASE90?classifier=sources

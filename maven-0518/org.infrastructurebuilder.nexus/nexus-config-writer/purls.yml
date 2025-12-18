@@ -1,0 +1,2 @@
+- pkg:maven/org.infrastructurebuilder.nexus/nexus-config-writer@0.1.0
+- pkg:maven/org.infrastructurebuilder.nexus/nexus-config-writer@0.1.0?classifier=sources

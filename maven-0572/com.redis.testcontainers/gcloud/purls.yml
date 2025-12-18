@@ -1,0 +1,1 @@
+- pkg:maven/com.redis.testcontainers/gcloud@1.15.3?classifier=sources

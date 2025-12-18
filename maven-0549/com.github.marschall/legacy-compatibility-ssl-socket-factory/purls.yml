@@ -1,0 +1,2 @@
+- pkg:maven/com.github.marschall/legacy-compatibility-ssl-socket-factory@0.1.0
+- pkg:maven/com.github.marschall/legacy-compatibility-ssl-socket-factory@0.1.0?classifier=sources

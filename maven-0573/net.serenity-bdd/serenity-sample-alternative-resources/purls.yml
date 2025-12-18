@@ -743,6 +743,8 @@
 - pkg:maven/net.serenity-bdd/serenity-sample-alternative-resources@2.5.0
 - pkg:maven/net.serenity-bdd/serenity-sample-alternative-resources@2.5.0?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-sample-alternative-resources@2.5.1
+- pkg:maven/net.serenity-bdd/serenity-sample-alternative-resources@2.5.10
+- pkg:maven/net.serenity-bdd/serenity-sample-alternative-resources@2.5.10?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-sample-alternative-resources@2.5.1?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-sample-alternative-resources@2.5.2
 - pkg:maven/net.serenity-bdd/serenity-sample-alternative-resources@2.5.2?classifier=sources
@@ -756,3 +758,5 @@
 - pkg:maven/net.serenity-bdd/serenity-sample-alternative-resources@2.5.7?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-sample-alternative-resources@2.5.8
 - pkg:maven/net.serenity-bdd/serenity-sample-alternative-resources@2.5.8?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-sample-alternative-resources@2.6.0
+- pkg:maven/net.serenity-bdd/serenity-sample-alternative-resources@2.6.0?classifier=sources

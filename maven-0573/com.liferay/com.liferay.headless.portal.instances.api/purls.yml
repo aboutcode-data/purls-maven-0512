@@ -28,6 +28,9 @@
 - pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@2.2.1
 - pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@2.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@2.2.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@2.3.0
+- pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@2.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@2.3.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@3.0.0?classifier=sources-commercial
@@ -43,3 +46,6 @@
 - pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@4.0.3
 - pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@4.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@5.0.0
+- pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@5.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.portal.instances.api@5.0.0?classifier=sources-commercial

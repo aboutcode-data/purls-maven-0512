@@ -38,3 +38,5 @@
 - pkg:maven/com.walmartlabs.concord.plugins/jsonpath-task@1.36.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/jsonpath-task@1.37.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/jsonpath-task@1.38.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/jsonpath-task@1.39.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/jsonpath-task@1.40.0?classifier=sources

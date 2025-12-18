@@ -1,0 +1,2 @@
+- pkg:maven/io.github.avulavasudha/POC@1.0
+- pkg:maven/io.github.avulavasudha/POC@1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.easy-do/oauth2-client-starter@0.0.3
+- pkg:maven/io.github.easy-do/oauth2-client-starter@0.0.3?classifier=sources
+- pkg:maven/io.github.easy-do/oauth2-client-starter@1.0.0
+- pkg:maven/io.github.easy-do/oauth2-client-starter@1.0.0?classifier=sources

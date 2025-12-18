@@ -21,3 +21,4 @@
 - pkg:maven/com.ekino.oss.spring/ekino-spring-boot-starter-errors@5.0.0?classifier=sources
 - pkg:maven/com.ekino.oss.spring/ekino-spring-boot-starter-errors@5.1.0?classifier=sources
 - pkg:maven/com.ekino.oss.spring/ekino-spring-boot-starter-errors@5.2.0?classifier=sources
+- pkg:maven/com.ekino.oss.spring/ekino-spring-boot-starter-errors@6.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.arcadedb/arcadedb-postgresw@21.9.1
+- pkg:maven/com.arcadedb/arcadedb-postgresw@21.9.1-beta
+- pkg:maven/com.arcadedb/arcadedb-postgresw@21.9.1-beta?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-postgresw@21.9.1?classifier=sources

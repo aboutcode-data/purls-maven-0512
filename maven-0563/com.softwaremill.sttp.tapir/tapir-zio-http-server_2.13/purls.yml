@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-zio-http-server_2.13@0.19.0-M10
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-zio-http-server_2.13@0.19.0-M10?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.seanyinx.wing/wing-spring-tracing-reactive@1.0.1
+- pkg:maven/com.github.seanyinx.wing/wing-spring-tracing-reactive@1.0.1?classifier=sources

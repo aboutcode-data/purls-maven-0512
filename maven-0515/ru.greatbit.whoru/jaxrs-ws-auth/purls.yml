@@ -6,3 +6,5 @@
 - pkg:maven/ru.greatbit.whoru/jaxrs-ws-auth@1.3?classifier=sources
 - pkg:maven/ru.greatbit.whoru/jaxrs-ws-auth@1.4
 - pkg:maven/ru.greatbit.whoru/jaxrs-ws-auth@1.4?classifier=sources
+- pkg:maven/ru.greatbit.whoru/jaxrs-ws-auth@1.5
+- pkg:maven/ru.greatbit.whoru/jaxrs-ws-auth@1.5?classifier=sources

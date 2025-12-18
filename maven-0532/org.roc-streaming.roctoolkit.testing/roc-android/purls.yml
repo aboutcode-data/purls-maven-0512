@@ -1,0 +1,2 @@
+- pkg:maven/org.roc-streaming.roctoolkit.testing/roc-android@0.0.1-alpha3?classifier=sources
+- pkg:maven/org.roc-streaming.roctoolkit.testing/roc-android@0.0.1-alpha3?type=aar

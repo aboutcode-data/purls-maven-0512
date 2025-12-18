@@ -14,3 +14,4 @@
 - pkg:maven/com.vanniktech/emoji@0.6.0?type=aar
 - pkg:maven/com.vanniktech/emoji@0.7.0?classifier=sources
 - pkg:maven/com.vanniktech/emoji@0.7.0?type=aar
+- pkg:maven/com.vanniktech/emoji@0.8.0?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/com.github.adriankuta/expandable-recyclerView@0.0.1-beta02?type=aar
 - pkg:maven/com.github.adriankuta/expandable-recyclerView@1.0.0?classifier=sources
 - pkg:maven/com.github.adriankuta/expandable-recyclerView@1.0.0?type=aar
+- pkg:maven/com.github.adriankuta/expandable-recyclerView@2.0.0?classifier=sources

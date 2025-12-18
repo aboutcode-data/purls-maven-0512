@@ -41,3 +41,6 @@
 - pkg:maven/com.toast.android/toast-unity-iap-core@0.25.0?type=aar
 - pkg:maven/com.toast.android/toast-unity-iap-core@0.26.0?type=aar
 - pkg:maven/com.toast.android/toast-unity-iap-core@0.27.0?type=aar
+- pkg:maven/com.toast.android/toast-unity-iap-core@0.27.1?type=aar
+- pkg:maven/com.toast.android/toast-unity-iap-core@0.27.2?type=aar
+- pkg:maven/com.toast.android/toast-unity-iap-core@0.27.3?type=aar

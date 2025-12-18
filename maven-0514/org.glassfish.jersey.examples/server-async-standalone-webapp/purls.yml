@@ -122,6 +122,9 @@
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.34?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.34?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.34?type=war
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.35?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.35?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.35?type=war
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.3?type=war
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.4.1?classifier=sources
@@ -159,3 +162,6 @@
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@3.0.2?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@3.0.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@3.0.2?type=war
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@3.0.3?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@3.0.3?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@3.0.3?type=war

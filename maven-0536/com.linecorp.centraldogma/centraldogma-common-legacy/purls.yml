@@ -112,3 +112,5 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.50.0?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.51.0?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.51.1?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.52.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.52.1?classifier=sources

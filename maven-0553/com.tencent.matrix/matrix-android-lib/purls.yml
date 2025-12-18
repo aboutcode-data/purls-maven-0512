@@ -19,3 +19,4 @@
 - pkg:maven/com.tencent.matrix/matrix-android-lib@1.0.0?classifier=sources
 - pkg:maven/com.tencent.matrix/matrix-android-lib@2.0.0-beta?classifier=sources
 - pkg:maven/com.tencent.matrix/matrix-android-lib@2.0.0?classifier=sources
+- pkg:maven/com.tencent.matrix/matrix-android-lib@2.0.1?classifier=sources
