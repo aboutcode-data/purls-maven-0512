@@ -1,4 +1,6 @@
 - pkg:maven/com.thoughtworks.binding/safebuffer_sjs1_2.13@12.0.0
+- pkg:maven/com.thoughtworks.binding/safebuffer_sjs1_2.13@12.0.0%2B1-e143d8f9
+- pkg:maven/com.thoughtworks.binding/safebuffer_sjs1_2.13@12.0.0%2B1-e143d8f9?classifier=sources
 - pkg:maven/com.thoughtworks.binding/safebuffer_sjs1_2.13@12.0.0-M1
 - pkg:maven/com.thoughtworks.binding/safebuffer_sjs1_2.13@12.0.0-M1%2B10-55818a65
 - pkg:maven/com.thoughtworks.binding/safebuffer_sjs1_2.13@12.0.0-M1%2B10-55818a65?classifier=sources

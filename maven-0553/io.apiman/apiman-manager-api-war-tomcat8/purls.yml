@@ -54,3 +54,5 @@
 - pkg:maven/io.apiman/apiman-manager-api-war-tomcat8@1.5.4.Final?type=war
 - pkg:maven/io.apiman/apiman-manager-api-war-tomcat8@1.5.5.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-manager-api-war-tomcat8@1.5.5.Final?type=war
+- pkg:maven/io.apiman/apiman-manager-api-war-tomcat8@2.0.0.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-manager-api-war-tomcat8@2.0.0.Final?type=war

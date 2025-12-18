@@ -32,6 +32,10 @@
 - pkg:maven/top.sanguohf.egg/yang-sql-boot-configure@1.0.26-release?classifier=sources
 - pkg:maven/top.sanguohf.egg/yang-sql-boot-configure@1.0.3-release
 - pkg:maven/top.sanguohf.egg/yang-sql-boot-configure@1.0.3-release?classifier=sources
+- pkg:maven/top.sanguohf.egg/yang-sql-boot-configure@1.0.30-release
+- pkg:maven/top.sanguohf.egg/yang-sql-boot-configure@1.0.30-release?classifier=sources
+- pkg:maven/top.sanguohf.egg/yang-sql-boot-configure@1.0.31-release
+- pkg:maven/top.sanguohf.egg/yang-sql-boot-configure@1.0.31-release?classifier=sources
 - pkg:maven/top.sanguohf.egg/yang-sql-boot-configure@1.0.4-release
 - pkg:maven/top.sanguohf.egg/yang-sql-boot-configure@1.0.4-release?classifier=sources
 - pkg:maven/top.sanguohf.egg/yang-sql-boot-configure@1.0.5-release

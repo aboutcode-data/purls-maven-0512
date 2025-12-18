@@ -1,0 +1,2 @@
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-openfeign@D.0.1.0-Beta-3
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-openfeign@D.0.1.0-Beta-3?classifier=sources

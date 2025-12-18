@@ -1,4 +1,5 @@
 - pkg:maven/io.github.githublaohu/dubbo-springmvc@0.0.1
+- pkg:maven/io.github.githublaohu/dubbo-springmvc@0.0.10
 - pkg:maven/io.github.githublaohu/dubbo-springmvc@0.0.3
 - pkg:maven/io.github.githublaohu/dubbo-springmvc@0.0.4
 - pkg:maven/io.github.githublaohu/dubbo-springmvc@0.0.6

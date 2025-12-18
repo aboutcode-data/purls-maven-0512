@@ -1,0 +1,8 @@
+- pkg:maven/net.mingsoft/store-client@2.0
+- pkg:maven/net.mingsoft/store-client@2.0?classifier=sources
+- pkg:maven/net.mingsoft/store-client@3.0
+- pkg:maven/net.mingsoft/store-client@3.0?classifier=sources
+- pkg:maven/net.mingsoft/store-client@5.0
+- pkg:maven/net.mingsoft/store-client@5.0?classifier=sources
+- pkg:maven/net.mingsoft/store-client@5.1
+- pkg:maven/net.mingsoft/store-client@5.1?classifier=sources

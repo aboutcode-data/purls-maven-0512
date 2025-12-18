@@ -1,0 +1,1 @@
+- pkg:maven/co.uzzu.danger.plugins/checkstyle@0.1.0?classifier=sources

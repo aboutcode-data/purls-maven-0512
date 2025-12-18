@@ -1,0 +1,2 @@
+- pkg:maven/io.getnelson.quiver/docs_2.12@8.0.9
+- pkg:maven/io.getnelson.quiver/docs_2.12@8.0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/xyz.dev-zes/ann-proc@1.1.0
+- pkg:maven/xyz.dev-zes/ann-proc@1.1.0?classifier=sources

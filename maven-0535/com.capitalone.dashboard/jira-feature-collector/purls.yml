@@ -22,3 +22,5 @@
 - pkg:maven/com.capitalone.dashboard/jira-feature-collector@3.1.2?classifier=sources
 - pkg:maven/com.capitalone.dashboard/jira-feature-collector@3.1.3
 - pkg:maven/com.capitalone.dashboard/jira-feature-collector@3.1.3?classifier=sources
+- pkg:maven/com.capitalone.dashboard/jira-feature-collector@3.2.0
+- pkg:maven/com.capitalone.dashboard/jira-feature-collector@3.2.0?classifier=sources

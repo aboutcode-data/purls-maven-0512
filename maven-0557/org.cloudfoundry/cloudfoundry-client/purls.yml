@@ -138,6 +138,12 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@3.24.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@3.25.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@3.25.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@3.26.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@3.26.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@3.27.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@3.27.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@3.28.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@3.28.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@3.3.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@3.3.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@3.4.0.RELEASE
@@ -154,6 +160,10 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.0.1.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.1.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.1.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@4.10.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@4.10.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@4.11.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@4.11.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.2.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.2.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.3.0.RELEASE
@@ -168,3 +178,5 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.7.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.8.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@4.8.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@4.9.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@4.9.0.RELEASE?classifier=sources

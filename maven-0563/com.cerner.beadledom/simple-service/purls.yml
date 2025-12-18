@@ -18,3 +18,4 @@
 - pkg:maven/com.cerner.beadledom/simple-service@3.6?classifier=sources
 - pkg:maven/com.cerner.beadledom/simple-service@3.7?classifier=sources
 - pkg:maven/com.cerner.beadledom/simple-service@4.0?classifier=sources
+- pkg:maven/com.cerner.beadledom/simple-service@4.1?classifier=sources

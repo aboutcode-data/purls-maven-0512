@@ -4,3 +4,5 @@
 - pkg:maven/io.lenses/secret-provider@0.0.2_final?classifier=sources
 - pkg:maven/io.lenses/secret-provider@2.0.0
 - pkg:maven/io.lenses/secret-provider@2.0.0?classifier=sources
+- pkg:maven/io.lenses/secret-provider@2.0.1
+- pkg:maven/io.lenses/secret-provider@2.0.1?classifier=sources

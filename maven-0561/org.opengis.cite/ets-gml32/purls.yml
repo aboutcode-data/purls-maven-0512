@@ -16,6 +16,8 @@
 - pkg:maven/org.opengis.cite/ets-gml32@1.27?classifier=sources
 - pkg:maven/org.opengis.cite/ets-gml32@1.28
 - pkg:maven/org.opengis.cite/ets-gml32@1.28?classifier=sources
+- pkg:maven/org.opengis.cite/ets-gml32@1.29
+- pkg:maven/org.opengis.cite/ets-gml32@1.29?classifier=sources
 - pkg:maven/org.opengis.cite/ets-gml32@3.2.1-r16
 - pkg:maven/org.opengis.cite/ets-gml32@3.2.1-r16?classifier=sources
 - pkg:maven/org.opengis.cite/ets-gml32@3.2.1-r17

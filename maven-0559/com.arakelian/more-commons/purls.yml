@@ -56,3 +56,5 @@
 - pkg:maven/com.arakelian/more-commons@2.4.0?classifier=sources
 - pkg:maven/com.arakelian/more-commons@2.5.0
 - pkg:maven/com.arakelian/more-commons@2.5.0?classifier=sources
+- pkg:maven/com.arakelian/more-commons@3.0.0
+- pkg:maven/com.arakelian/more-commons@3.0.0?classifier=sources

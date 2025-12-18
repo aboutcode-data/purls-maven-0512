@@ -10,3 +10,11 @@
 - pkg:maven/org.kie.kogito/filesystem-persistence-addon@0.12.0?classifier=sources
 - pkg:maven/org.kie.kogito/filesystem-persistence-addon@0.13.0
 - pkg:maven/org.kie.kogito/filesystem-persistence-addon@0.13.0?classifier=sources
+- pkg:maven/org.kie.kogito/filesystem-persistence-addon@0.13.1
+- pkg:maven/org.kie.kogito/filesystem-persistence-addon@0.13.1?classifier=sources
+- pkg:maven/org.kie.kogito/filesystem-persistence-addon@0.14.0
+- pkg:maven/org.kie.kogito/filesystem-persistence-addon@0.14.0?classifier=sources
+- pkg:maven/org.kie.kogito/filesystem-persistence-addon@0.15.0
+- pkg:maven/org.kie.kogito/filesystem-persistence-addon@0.15.0?classifier=sources
+- pkg:maven/org.kie.kogito/filesystem-persistence-addon@0.16.0
+- pkg:maven/org.kie.kogito/filesystem-persistence-addon@0.16.0?classifier=sources

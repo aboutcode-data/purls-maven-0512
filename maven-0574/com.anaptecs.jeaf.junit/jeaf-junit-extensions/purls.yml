@@ -6,3 +6,5 @@
 - pkg:maven/com.anaptecs.jeaf.junit/jeaf-junit-extensions@1.0.2?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.junit/jeaf-junit-extensions@1.0.3
 - pkg:maven/com.anaptecs.jeaf.junit/jeaf-junit-extensions@1.0.3?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.junit/jeaf-junit-extensions@1.0.4
+- pkg:maven/com.anaptecs.jeaf.junit/jeaf-junit-extensions@1.0.4?classifier=sources

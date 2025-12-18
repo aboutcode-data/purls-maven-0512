@@ -1,0 +1,2 @@
+- pkg:maven/com.zepben.ewb/ewb-energy-datastore@1.2.0
+- pkg:maven/com.zepben.ewb/ewb-energy-datastore@1.2.0?classifier=sources

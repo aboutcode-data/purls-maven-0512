@@ -1,0 +1,2 @@
+- pkg:maven/com.dispalt/akka-zk-cluster-seed_2.13@0.1.12
+- pkg:maven/com.dispalt/akka-zk-cluster-seed_2.13@0.1.12?classifier=sources

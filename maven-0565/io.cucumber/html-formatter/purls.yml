@@ -14,3 +14,11 @@
 - pkg:maven/io.cucumber/html-formatter@6.0.3?classifier=sources
 - pkg:maven/io.cucumber/html-formatter@7.0.0
 - pkg:maven/io.cucumber/html-formatter@7.0.0?classifier=sources
+- pkg:maven/io.cucumber/html-formatter@7.1.0
+- pkg:maven/io.cucumber/html-formatter@7.1.0?classifier=sources
+- pkg:maven/io.cucumber/html-formatter@7.2.0
+- pkg:maven/io.cucumber/html-formatter@7.2.0?classifier=sources
+- pkg:maven/io.cucumber/html-formatter@8.0.0
+- pkg:maven/io.cucumber/html-formatter@8.0.0?classifier=sources
+- pkg:maven/io.cucumber/html-formatter@9.0.0
+- pkg:maven/io.cucumber/html-formatter@9.0.0?classifier=sources

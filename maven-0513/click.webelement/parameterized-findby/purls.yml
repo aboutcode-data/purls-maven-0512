@@ -1,0 +1,2 @@
+- pkg:maven/click.webelement/parameterized-findby@1.0.0
+- pkg:maven/click.webelement/parameterized-findby@1.0.0?classifier=sources

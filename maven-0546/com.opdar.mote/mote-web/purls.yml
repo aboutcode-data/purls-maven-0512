@@ -1,0 +1,4 @@
+- pkg:maven/com.opdar.mote/mote-web@20201010.1.0
+- pkg:maven/com.opdar.mote/mote-web@20201010.1.0?classifier=sources
+- pkg:maven/com.opdar.mote/mote-web@20201019.1.1
+- pkg:maven/com.opdar.mote/mote-web@20201019.1.1?classifier=sources

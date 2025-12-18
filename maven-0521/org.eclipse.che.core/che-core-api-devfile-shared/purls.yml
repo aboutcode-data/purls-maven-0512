@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.che.core/che-core-api-devfile-shared@7.20.0
+- pkg:maven/org.eclipse.che.core/che-core-api-devfile-shared@7.20.0?classifier=sources

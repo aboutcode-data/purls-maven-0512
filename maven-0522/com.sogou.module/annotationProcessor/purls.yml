@@ -1,0 +1,2 @@
+- pkg:maven/com.sogou.module/annotationProcessor@1.2.0
+- pkg:maven/com.sogou.module/annotationProcessor@1.2.0?classifier=sources

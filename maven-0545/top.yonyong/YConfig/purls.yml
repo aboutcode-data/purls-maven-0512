@@ -1,0 +1,4 @@
+- pkg:maven/top.yonyong/YConfig@1.0.0
+- pkg:maven/top.yonyong/YConfig@1.0.0?classifier=sources
+- pkg:maven/top.yonyong/YConfig@1.1.0.RELEASE
+- pkg:maven/top.yonyong/YConfig@1.1.0.RELEASE?classifier=sources

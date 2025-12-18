@@ -114,3 +114,5 @@
 - pkg:maven/com.xenoamess.cyan_potion/cyan_potion_base@0.162.1?classifier=sources
 - pkg:maven/com.xenoamess.cyan_potion/cyan_potion_base@0.162.2
 - pkg:maven/com.xenoamess.cyan_potion/cyan_potion_base@0.162.2?classifier=sources
+- pkg:maven/com.xenoamess.cyan_potion/cyan_potion_base@0.162.3
+- pkg:maven/com.xenoamess.cyan_potion/cyan_potion_base@0.162.3?classifier=sources

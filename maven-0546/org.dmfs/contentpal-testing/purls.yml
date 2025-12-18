@@ -1,1 +1,2 @@
 - pkg:maven/org.dmfs/contentpal-testing@0.6?type=aar
+- pkg:maven/org.dmfs/contentpal-testing@0.7?type=aar

@@ -1,2 +1,12 @@
 - pkg:maven/com.lizhifm.sdk.live.room/lzroom-lib@1.0.0?classifier=sources
 - pkg:maven/com.lizhifm.sdk.live.room/lzroom-lib@1.0.0?type=aar
+- pkg:maven/com.lizhifm.sdk.live.room/lzroom-lib@1.0.10?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live.room/lzroom-lib@1.0.10?type=aar
+- pkg:maven/com.lizhifm.sdk.live.room/lzroom-lib@1.0.11?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live.room/lzroom-lib@1.0.11?type=aar
+- pkg:maven/com.lizhifm.sdk.live.room/lzroom-lib@1.0.12?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live.room/lzroom-lib@1.0.12?type=aar
+- pkg:maven/com.lizhifm.sdk.live.room/lzroom-lib@1.0.13?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live.room/lzroom-lib@1.0.13?type=aar
+- pkg:maven/com.lizhifm.sdk.live.room/lzroom-lib@1.0.6?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live.room/lzroom-lib@1.0.6?type=aar

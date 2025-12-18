@@ -16,3 +16,13 @@
 - pkg:maven/nl.vpro.poms.api-clients/client-extras@5.13.0?classifier=sources
 - pkg:maven/nl.vpro.poms.api-clients/client-extras@5.13.1
 - pkg:maven/nl.vpro.poms.api-clients/client-extras@5.13.1?classifier=sources
+- pkg:maven/nl.vpro.poms.api-clients/client-extras@5.14.0
+- pkg:maven/nl.vpro.poms.api-clients/client-extras@5.14.0?classifier=sources
+- pkg:maven/nl.vpro.poms.api-clients/client-extras@5.15.0
+- pkg:maven/nl.vpro.poms.api-clients/client-extras@5.15.0?classifier=sources
+- pkg:maven/nl.vpro.poms.api-clients/client-extras@5.16.0
+- pkg:maven/nl.vpro.poms.api-clients/client-extras@5.16.0?classifier=sources
+- pkg:maven/nl.vpro.poms.api-clients/client-extras@5.17.0
+- pkg:maven/nl.vpro.poms.api-clients/client-extras@5.17.0?classifier=sources
+- pkg:maven/nl.vpro.poms.api-clients/client-extras@5.17.1
+- pkg:maven/nl.vpro.poms.api-clients/client-extras@5.17.1?classifier=sources

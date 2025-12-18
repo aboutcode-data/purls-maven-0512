@@ -1,5 +1,6 @@
 - pkg:maven/org.jresearch.gwt.time/org.jresearch.gwt.time@1.4.10?classifier=sources
 - pkg:maven/org.jresearch.gwt.time/org.jresearch.gwt.time@1.4.11?classifier=sources
+- pkg:maven/org.jresearch.gwt.time/org.jresearch.gwt.time@1.4.12?classifier=sources
 - pkg:maven/org.jresearch.gwt.time/org.jresearch.gwt.time@1.4.3?classifier=sources
 - pkg:maven/org.jresearch.gwt.time/org.jresearch.gwt.time@1.4.4?classifier=sources
 - pkg:maven/org.jresearch.gwt.time/org.jresearch.gwt.time@1.4.5?classifier=sources
@@ -7,3 +8,4 @@
 - pkg:maven/org.jresearch.gwt.time/org.jresearch.gwt.time@1.4.7?classifier=sources
 - pkg:maven/org.jresearch.gwt.time/org.jresearch.gwt.time@1.4.8?classifier=sources
 - pkg:maven/org.jresearch.gwt.time/org.jresearch.gwt.time@1.4.9?classifier=sources
+- pkg:maven/org.jresearch.gwt.time/org.jresearch.gwt.time@2.0.0?classifier=sources

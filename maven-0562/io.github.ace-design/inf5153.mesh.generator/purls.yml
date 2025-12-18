@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ace-design/inf5153.mesh.generator@1.0
+- pkg:maven/io.github.ace-design/inf5153.mesh.generator@1.0?classifier=sources

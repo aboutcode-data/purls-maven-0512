@@ -1,2 +1,4 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.provisioning.connector.office365/org.wso2.carbon.identity.outbound.provisioning.connector.office365@1.0.0
 - pkg:maven/org.wso2.carbon.identity.outbound.provisioning.connector.office365/org.wso2.carbon.identity.outbound.provisioning.connector.office365@1.0.0?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.outbound.provisioning.connector.office365/org.wso2.carbon.identity.outbound.provisioning.connector.office365@1.0.1
+- pkg:maven/org.wso2.carbon.identity.outbound.provisioning.connector.office365/org.wso2.carbon.identity.outbound.provisioning.connector.office365@1.0.1?classifier=sources

@@ -88,3 +88,5 @@
 - pkg:maven/org.jboss.pnc/ui@1.8.1.7
 - pkg:maven/org.jboss.pnc/ui@1.8.1.7?classifier=sources
 - pkg:maven/org.jboss.pnc/ui@1.8.1?classifier=sources
+- pkg:maven/org.jboss.pnc/ui@2.0.0
+- pkg:maven/org.jboss.pnc/ui@2.0.0?classifier=sources

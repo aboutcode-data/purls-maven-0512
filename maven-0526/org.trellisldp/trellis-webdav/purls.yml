@@ -12,6 +12,11 @@
 - pkg:maven/org.trellisldp/trellis-webdav@0.13.0?classifier=sources
 - pkg:maven/org.trellisldp/trellis-webdav@0.13.1?classifier=sources
 - pkg:maven/org.trellisldp/trellis-webdav@0.14.0?classifier=sources
+- pkg:maven/org.trellisldp/trellis-webdav@0.14.1?classifier=sources
+- pkg:maven/org.trellisldp/trellis-webdav@0.14.2?classifier=sources
+- pkg:maven/org.trellisldp/trellis-webdav@0.15.0?classifier=sources
+- pkg:maven/org.trellisldp/trellis-webdav@0.16.0?classifier=sources
+- pkg:maven/org.trellisldp/trellis-webdav@0.16.1?classifier=sources
 - pkg:maven/org.trellisldp/trellis-webdav@0.9.0
 - pkg:maven/org.trellisldp/trellis-webdav@0.9.0?classifier=sources
 - pkg:maven/org.trellisldp/trellis-webdav@0.9.1

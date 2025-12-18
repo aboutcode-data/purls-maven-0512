@@ -14,3 +14,13 @@
 - pkg:maven/com.github.kfcfans/powerjob-worker@3.2.0?classifier=sources
 - pkg:maven/com.github.kfcfans/powerjob-worker@3.2.1
 - pkg:maven/com.github.kfcfans/powerjob-worker@3.2.1?classifier=sources
+- pkg:maven/com.github.kfcfans/powerjob-worker@3.2.2
+- pkg:maven/com.github.kfcfans/powerjob-worker@3.2.2-bugfix
+- pkg:maven/com.github.kfcfans/powerjob-worker@3.2.2-bugfix?classifier=sources
+- pkg:maven/com.github.kfcfans/powerjob-worker@3.2.2?classifier=sources
+- pkg:maven/com.github.kfcfans/powerjob-worker@3.2.3
+- pkg:maven/com.github.kfcfans/powerjob-worker@3.2.3?classifier=sources
+- pkg:maven/com.github.kfcfans/powerjob-worker@3.3.0
+- pkg:maven/com.github.kfcfans/powerjob-worker@3.3.0?classifier=sources
+- pkg:maven/com.github.kfcfans/powerjob-worker@3.3.1
+- pkg:maven/com.github.kfcfans/powerjob-worker@3.3.1?classifier=sources

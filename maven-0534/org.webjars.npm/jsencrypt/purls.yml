@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/jsencrypt@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/jsencrypt@2.3.0
 - pkg:maven/org.webjars.npm/jsencrypt@2.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/jsencrypt@3.0.0-rc.1
+- pkg:maven/org.webjars.npm/jsencrypt@3.0.0-rc.1?classifier=sources

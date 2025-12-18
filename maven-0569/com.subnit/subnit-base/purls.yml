@@ -1,0 +1,2 @@
+- pkg:maven/com.subnit/subnit-base@1.0
+- pkg:maven/com.subnit/subnit-base@1.0?classifier=sources

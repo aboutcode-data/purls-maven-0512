@@ -55,4 +55,6 @@
 - pkg:maven/com.jfinal/jfinal@4.9
 - pkg:maven/com.jfinal/jfinal@4.9.01
 - pkg:maven/com.jfinal/jfinal@4.9.01?classifier=sources
+- pkg:maven/com.jfinal/jfinal@4.9.02
+- pkg:maven/com.jfinal/jfinal@4.9.02?classifier=sources
 - pkg:maven/com.jfinal/jfinal@4.9?classifier=sources

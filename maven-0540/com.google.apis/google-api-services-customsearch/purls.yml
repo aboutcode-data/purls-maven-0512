@@ -58,6 +58,12 @@
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20200707-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20200707-1.30.9
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20200707-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20200723-1.30.10
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20200723-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20200801-1.30.10
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20200801-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20200917-1.30.10
+- pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev20200917-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev21-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev21-1.13.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-customsearch@v1-rev21-1.14.2-beta

@@ -1,3 +1,5 @@
+- pkg:maven/net.automatalib/automata-commons-util@0.10.0
+- pkg:maven/net.automatalib/automata-commons-util@0.10.0?classifier=sources
 - pkg:maven/net.automatalib/automata-commons-util@0.3.0
 - pkg:maven/net.automatalib/automata-commons-util@0.3.0?classifier=sources
 - pkg:maven/net.automatalib/automata-commons-util@0.3.1

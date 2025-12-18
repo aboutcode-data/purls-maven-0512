@@ -71,6 +71,8 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.44.12?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.44.13
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.44.13?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.44.14
+- pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.44.14?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.44.1?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.44.2
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.44.2?classifier=sources
@@ -88,3 +90,7 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.44.8?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.44.9
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.44.9?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.45.0
+- pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.45.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.45.1
+- pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.45.1?classifier=sources

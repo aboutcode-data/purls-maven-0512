@@ -1,2 +1,8 @@
+- pkg:maven/cloud.piranha.naming/piranha-naming-impl@20.10.0
+- pkg:maven/cloud.piranha.naming/piranha-naming-impl@20.10.0?classifier=sources
 - pkg:maven/cloud.piranha.naming/piranha-naming-impl@20.7.0
 - pkg:maven/cloud.piranha.naming/piranha-naming-impl@20.7.0?classifier=sources
+- pkg:maven/cloud.piranha.naming/piranha-naming-impl@20.8.0
+- pkg:maven/cloud.piranha.naming/piranha-naming-impl@20.8.0?classifier=sources
+- pkg:maven/cloud.piranha.naming/piranha-naming-impl@20.9.0
+- pkg:maven/cloud.piranha.naming/piranha-naming-impl@20.9.0?classifier=sources

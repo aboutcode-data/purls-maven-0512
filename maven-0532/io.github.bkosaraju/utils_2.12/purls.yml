@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bkosaraju/utils_2.12@1.02
+- pkg:maven/io.github.bkosaraju/utils_2.12@1.02?classifier=sources

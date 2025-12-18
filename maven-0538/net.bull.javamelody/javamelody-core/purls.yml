@@ -147,5 +147,7 @@
 - pkg:maven/net.bull.javamelody/javamelody-core@1.83.0?classifier=sources
 - pkg:maven/net.bull.javamelody/javamelody-core@1.85.0
 - pkg:maven/net.bull.javamelody/javamelody-core@1.85.0?classifier=sources
+- pkg:maven/net.bull.javamelody/javamelody-core@1.86.0
+- pkg:maven/net.bull.javamelody/javamelody-core@1.86.0?classifier=sources
 - pkg:maven/net.bull.javamelody/javamelody-core@1.9.0
 - pkg:maven/net.bull.javamelody/javamelody-core@1.9.0?classifier=sources

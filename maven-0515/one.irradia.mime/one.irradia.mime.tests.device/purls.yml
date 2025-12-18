@@ -10,3 +10,4 @@
 - pkg:maven/one.irradia.mime/one.irradia.mime.tests.device@0.0.5?type=aar
 - pkg:maven/one.irradia.mime/one.irradia.mime.tests.device@0.0.6?classifier=sources
 - pkg:maven/one.irradia.mime/one.irradia.mime.tests.device@0.0.6?type=aar
+- pkg:maven/one.irradia.mime/one.irradia.mime.tests.device@1.1.0?classifier=sources

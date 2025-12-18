@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awsconstructs/apigatewaysagemakerendpoint@1.68.0
+- pkg:maven/software.amazon.awsconstructs/apigatewaysagemakerendpoint@1.68.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/apigatewaysagemakerendpoint@1.69.0
+- pkg:maven/software.amazon.awsconstructs/apigatewaysagemakerendpoint@1.69.0?classifier=sources

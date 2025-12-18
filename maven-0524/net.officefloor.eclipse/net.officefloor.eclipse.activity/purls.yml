@@ -9,3 +9,4 @@
 - pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.activity@3.24.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.activity@3.25.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.activity@3.26.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.activity@3.27.0?classifier=sources

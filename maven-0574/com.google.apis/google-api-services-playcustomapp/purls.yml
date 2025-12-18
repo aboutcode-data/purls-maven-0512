@@ -46,6 +46,10 @@
 - pkg:maven/com.google.apis/google-api-services-playcustomapp@v1-rev20200611-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-playcustomapp@v1-rev20200611-1.30.9
 - pkg:maven/com.google.apis/google-api-services-playcustomapp@v1-rev20200611-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-playcustomapp@v1-rev20200801-1.30.10
+- pkg:maven/com.google.apis/google-api-services-playcustomapp@v1-rev20200801-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-playcustomapp@v1-rev20200912-1.30.10
+- pkg:maven/com.google.apis/google-api-services-playcustomapp@v1-rev20200912-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-playcustomapp@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-playcustomapp@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-playcustomapp@v1-rev3-1.20.0

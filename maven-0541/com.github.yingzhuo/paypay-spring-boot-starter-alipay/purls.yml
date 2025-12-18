@@ -4,3 +4,5 @@
 - pkg:maven/com.github.yingzhuo/paypay-spring-boot-starter-alipay@1.0.1?classifier=sources
 - pkg:maven/com.github.yingzhuo/paypay-spring-boot-starter-alipay@1.0.2
 - pkg:maven/com.github.yingzhuo/paypay-spring-boot-starter-alipay@1.0.2?classifier=sources
+- pkg:maven/com.github.yingzhuo/paypay-spring-boot-starter-alipay@1.2.0-20200903
+- pkg:maven/com.github.yingzhuo/paypay-spring-boot-starter-alipay@1.2.0-20200903?classifier=sources

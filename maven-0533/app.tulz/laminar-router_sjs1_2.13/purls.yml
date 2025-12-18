@@ -1,0 +1,4 @@
+- pkg:maven/app.tulz/laminar-router_sjs1_2.13@0.10.0
+- pkg:maven/app.tulz/laminar-router_sjs1_2.13@0.10.0?classifier=sources
+- pkg:maven/app.tulz/laminar-router_sjs1_2.13@0.10.1
+- pkg:maven/app.tulz/laminar-router_sjs1_2.13@0.10.1?classifier=sources

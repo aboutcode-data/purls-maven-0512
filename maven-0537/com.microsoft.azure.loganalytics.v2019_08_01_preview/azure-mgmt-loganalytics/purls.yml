@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.loganalytics.v2019_08_01_preview/azure-mgmt-loganalytics@1.0.0-beta
+- pkg:maven/com.microsoft.azure.loganalytics.v2019_08_01_preview/azure-mgmt-loganalytics@1.0.0-beta?classifier=sources

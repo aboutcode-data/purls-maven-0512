@@ -106,6 +106,8 @@
 - pkg:maven/org.teiid.connectors/simpledb-api@13.1.0?classifier=sources
 - pkg:maven/org.teiid.connectors/simpledb-api@13.1.1
 - pkg:maven/org.teiid.connectors/simpledb-api@13.1.1?classifier=sources
+- pkg:maven/org.teiid.connectors/simpledb-api@13.1.2
+- pkg:maven/org.teiid.connectors/simpledb-api@13.1.2?classifier=sources
 - pkg:maven/org.teiid.connectors/simpledb-api@14.0.0
 - pkg:maven/org.teiid.connectors/simpledb-api@14.0.0?classifier=sources
 - pkg:maven/org.teiid.connectors/simpledb-api@14.0.1

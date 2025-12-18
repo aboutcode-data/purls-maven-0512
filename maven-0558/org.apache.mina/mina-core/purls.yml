@@ -102,6 +102,8 @@
 - pkg:maven/org.apache.mina/mina-core@2.1.2?classifier=sources
 - pkg:maven/org.apache.mina/mina-core@2.1.3
 - pkg:maven/org.apache.mina/mina-core@2.1.3?classifier=sources
+- pkg:maven/org.apache.mina/mina-core@2.1.4
+- pkg:maven/org.apache.mina/mina-core@2.1.4?classifier=sources
 - pkg:maven/org.apache.mina/mina-core@3.0.0-M1
 - pkg:maven/org.apache.mina/mina-core@3.0.0-M2
 - pkg:maven/org.apache.mina/mina-core@3.0.0-M2?classifier=sources

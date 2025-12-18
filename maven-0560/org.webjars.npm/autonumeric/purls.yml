@@ -22,3 +22,5 @@
 - pkg:maven/org.webjars.npm/autonumeric@4.5.13?classifier=sources
 - pkg:maven/org.webjars.npm/autonumeric@4.5.4
 - pkg:maven/org.webjars.npm/autonumeric@4.5.4?classifier=sources
+- pkg:maven/org.webjars.npm/autonumeric@4.6.0
+- pkg:maven/org.webjars.npm/autonumeric@4.6.0?classifier=sources

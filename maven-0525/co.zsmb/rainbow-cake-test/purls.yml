@@ -3,3 +3,4 @@
 - pkg:maven/co.zsmb/rainbow-cake-test@0.6.0?classifier=sources
 - pkg:maven/co.zsmb/rainbow-cake-test@0.7.0?classifier=sources
 - pkg:maven/co.zsmb/rainbow-cake-test@1.0.0?classifier=sources
+- pkg:maven/co.zsmb/rainbow-cake-test@1.1.0?classifier=sources

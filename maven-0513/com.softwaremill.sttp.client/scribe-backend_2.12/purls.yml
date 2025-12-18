@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.client/scribe-backend_2.12@3.0.0-RC2
+- pkg:maven/com.softwaremill.sttp.client/scribe-backend_2.12@3.0.0-RC2?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client/scribe-backend_2.12@3.0.0-RC3
+- pkg:maven/com.softwaremill.sttp.client/scribe-backend_2.12@3.0.0-RC3?classifier=sources

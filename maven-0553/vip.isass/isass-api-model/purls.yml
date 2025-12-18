@@ -1,0 +1,2 @@
+- pkg:maven/vip.isass/isass-api-model@isass-api.0.0.1
+- pkg:maven/vip.isass/isass-api-model@isass-api.0.0.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.ethlo.jsons2xsd/jsons2xsd@2.2.0?classifier=sources
 - pkg:maven/com.ethlo.jsons2xsd/jsons2xsd@2.2.1
 - pkg:maven/com.ethlo.jsons2xsd/jsons2xsd@2.2.1?classifier=sources
+- pkg:maven/com.ethlo.jsons2xsd/jsons2xsd@2.3.0
+- pkg:maven/com.ethlo.jsons2xsd/jsons2xsd@2.3.0?classifier=sources

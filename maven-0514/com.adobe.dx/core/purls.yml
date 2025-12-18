@@ -1,0 +1,9 @@
+- pkg:maven/com.adobe.dx/core@0.0.10
+- pkg:maven/com.adobe.dx/core@0.0.10?classifier=source-release&type=zip
+- pkg:maven/com.adobe.dx/core@0.0.10?classifier=sources
+- pkg:maven/com.adobe.dx/core@0.0.12
+- pkg:maven/com.adobe.dx/core@0.0.12?classifier=source-release&type=zip
+- pkg:maven/com.adobe.dx/core@0.0.12?classifier=sources
+- pkg:maven/com.adobe.dx/core@0.1.0
+- pkg:maven/com.adobe.dx/core@0.1.0?classifier=source-release&type=zip
+- pkg:maven/com.adobe.dx/core@0.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.xenoamess.cyan_potion/cyan_zip@0.1.0
+- pkg:maven/com.xenoamess.cyan_potion/cyan_zip@0.1.0?classifier=sources

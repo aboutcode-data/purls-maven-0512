@@ -136,6 +136,10 @@
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1-rev20200215-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1-rev20200215-1.30.9
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1-rev20200215-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1-rev20200801-1.30.10
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1-rev20200801-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1-rev20200810-1.30.10
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1-rev20200810-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1-rev21-1.22.0
@@ -566,6 +570,12 @@
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev20200215-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev20200215-1.30.9
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev20200215-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev20200801-1.30.10
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev20200801-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev20200817-1.30.10
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev20200817-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev20200919-1.30.10
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev20200919-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1alpha-rev21-1.21.0
@@ -1034,6 +1044,10 @@
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1beta-rev20200215-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1beta-rev20200215-1.30.9
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1beta-rev20200215-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1beta-rev20200801-1.30.10
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1beta-rev20200801-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1beta-rev20200810-1.30.10
+- pkg:maven/com.google.apis/google-api-services-oslogin@v1beta-rev20200810-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1beta-rev22-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1beta-rev22-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-oslogin@v1beta-rev22-1.21.0

@@ -1,2 +1,8 @@
 - pkg:maven/io.horizen/sidechains-sdk@0.2.2
 - pkg:maven/io.horizen/sidechains-sdk@0.2.2?classifier=sources
+- pkg:maven/io.horizen/sidechains-sdk@0.2.3
+- pkg:maven/io.horizen/sidechains-sdk@0.2.3?classifier=sources
+- pkg:maven/io.horizen/sidechains-sdk@0.2.4
+- pkg:maven/io.horizen/sidechains-sdk@0.2.4?classifier=sources
+- pkg:maven/io.horizen/sidechains-sdk@0.2.5
+- pkg:maven/io.horizen/sidechains-sdk@0.2.5?classifier=sources

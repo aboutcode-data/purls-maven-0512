@@ -24,3 +24,5 @@
 - pkg:maven/com.spotify/folsom-yammer-metrics@1.7.2?classifier=sources
 - pkg:maven/com.spotify/folsom-yammer-metrics@1.7.3
 - pkg:maven/com.spotify/folsom-yammer-metrics@1.7.3?classifier=sources
+- pkg:maven/com.spotify/folsom-yammer-metrics@1.7.4
+- pkg:maven/com.spotify/folsom-yammer-metrics@1.7.4?classifier=sources

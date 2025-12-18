@@ -16,6 +16,8 @@
 - pkg:maven/de.learnlib/learnlib-drivers-basic@0.14.0?classifier=sources
 - pkg:maven/de.learnlib/learnlib-drivers-basic@0.15.0
 - pkg:maven/de.learnlib/learnlib-drivers-basic@0.15.0?classifier=sources
+- pkg:maven/de.learnlib/learnlib-drivers-basic@0.16.0
+- pkg:maven/de.learnlib/learnlib-drivers-basic@0.16.0?classifier=sources
 - pkg:maven/de.learnlib/learnlib-drivers-basic@0.9.1-ase2013-tutorial
 - pkg:maven/de.learnlib/learnlib-drivers-basic@0.9.1-ase2013-tutorial-r1
 - pkg:maven/de.learnlib/learnlib-drivers-basic@0.9.1-ase2013-tutorial-r1?classifier=sources

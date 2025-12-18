@@ -10,3 +10,5 @@
 - pkg:maven/com.cerner.beadledom/beadledom-integration-client@3.7?classifier=sources
 - pkg:maven/com.cerner.beadledom/beadledom-integration-client@4.0
 - pkg:maven/com.cerner.beadledom/beadledom-integration-client@4.0?classifier=sources
+- pkg:maven/com.cerner.beadledom/beadledom-integration-client@4.1
+- pkg:maven/com.cerner.beadledom/beadledom-integration-client@4.1?classifier=sources

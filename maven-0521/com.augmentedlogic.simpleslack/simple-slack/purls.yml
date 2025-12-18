@@ -1,0 +1,2 @@
+- pkg:maven/com.augmentedlogic.simpleslack/simple-slack@0.4?classifier=sources
+- pkg:maven/com.augmentedlogic.simpleslack/simple-slack@0.5?classifier=sources

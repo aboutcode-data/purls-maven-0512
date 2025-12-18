@@ -14,3 +14,9 @@
 - pkg:maven/org.hibernate/hibernate-graalvm@5.4.18.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-graalvm@5.4.19.Final
 - pkg:maven/org.hibernate/hibernate-graalvm@5.4.19.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.20.Final
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.20.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.21.Final
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.21.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.22.Final
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.22.Final?classifier=sources

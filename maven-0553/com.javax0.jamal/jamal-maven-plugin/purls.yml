@@ -10,3 +10,5 @@
 - pkg:maven/com.javax0.jamal/jamal-maven-plugin@1.0.3?classifier=sources
 - pkg:maven/com.javax0.jamal/jamal-maven-plugin@1.0.4
 - pkg:maven/com.javax0.jamal/jamal-maven-plugin@1.0.4?classifier=sources
+- pkg:maven/com.javax0.jamal/jamal-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/com.javax0.jamal/jamal-maven-plugin@1.2.0?classifier=sources

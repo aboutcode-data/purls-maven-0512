@@ -14,3 +14,7 @@
 - pkg:maven/org.apache.arrow/arrow-performance@0.17.1?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-performance@1.0.0
 - pkg:maven/org.apache.arrow/arrow-performance@1.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-performance@1.0.1
+- pkg:maven/org.apache.arrow/arrow-performance@1.0.1?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-performance@2.0.0
+- pkg:maven/org.apache.arrow/arrow-performance@2.0.0?classifier=sources

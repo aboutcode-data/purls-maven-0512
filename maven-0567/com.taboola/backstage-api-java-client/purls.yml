@@ -29,6 +29,10 @@
 - pkg:maven/com.taboola/backstage-api-java-client@1.0.2-beta-02?classifier=sources
 - pkg:maven/com.taboola/backstage-api-java-client@1.0.2-beta-03
 - pkg:maven/com.taboola/backstage-api-java-client@1.0.2-beta-03?classifier=sources
+- pkg:maven/com.taboola/backstage-api-java-client@1.0.20
+- pkg:maven/com.taboola/backstage-api-java-client@1.0.20?classifier=sources
+- pkg:maven/com.taboola/backstage-api-java-client@1.0.21
+- pkg:maven/com.taboola/backstage-api-java-client@1.0.21?classifier=sources
 - pkg:maven/com.taboola/backstage-api-java-client@1.0.2?classifier=sources
 - pkg:maven/com.taboola/backstage-api-java-client@1.0.3
 - pkg:maven/com.taboola/backstage-api-java-client@1.0.3?classifier=sources

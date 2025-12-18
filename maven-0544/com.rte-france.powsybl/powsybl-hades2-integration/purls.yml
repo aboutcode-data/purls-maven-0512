@@ -5,6 +5,11 @@
 - pkg:maven/com.rte-france.powsybl/powsybl-hades2-integration@2.11.0
 - pkg:maven/com.rte-france.powsybl/powsybl-hades2-integration@2.11.1
 - pkg:maven/com.rte-france.powsybl/powsybl-hades2-integration@2.11.2
+- pkg:maven/com.rte-france.powsybl/powsybl-hades2-integration@2.12.0
+- pkg:maven/com.rte-france.powsybl/powsybl-hades2-integration@2.12.1
+- pkg:maven/com.rte-france.powsybl/powsybl-hades2-integration@2.13.0
+- pkg:maven/com.rte-france.powsybl/powsybl-hades2-integration@2.14.0
+- pkg:maven/com.rte-france.powsybl/powsybl-hades2-integration@2.14.1
 - pkg:maven/com.rte-france.powsybl/powsybl-hades2-integration@2.2.0
 - pkg:maven/com.rte-france.powsybl/powsybl-hades2-integration@2.2.1
 - pkg:maven/com.rte-france.powsybl/powsybl-hades2-integration@2.3.0

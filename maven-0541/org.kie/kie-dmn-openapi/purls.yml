@@ -1,0 +1,4 @@
+- pkg:maven/org.kie/kie-dmn-openapi@7.45.0.Final
+- pkg:maven/org.kie/kie-dmn-openapi@7.45.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-openapi@7.45.0.t20201014
+- pkg:maven/org.kie/kie-dmn-openapi@7.45.0.t20201014?classifier=sources

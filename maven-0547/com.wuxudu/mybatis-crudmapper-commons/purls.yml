@@ -8,3 +8,5 @@
 - pkg:maven/com.wuxudu/mybatis-crudmapper-commons@1.5?classifier=sources
 - pkg:maven/com.wuxudu/mybatis-crudmapper-commons@1.6
 - pkg:maven/com.wuxudu/mybatis-crudmapper-commons@1.6?classifier=sources
+- pkg:maven/com.wuxudu/mybatis-crudmapper-commons@1.7
+- pkg:maven/com.wuxudu/mybatis-crudmapper-commons@1.7?classifier=sources

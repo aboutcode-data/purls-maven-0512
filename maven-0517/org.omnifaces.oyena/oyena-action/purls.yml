@@ -6,3 +6,7 @@
 - pkg:maven/org.omnifaces.oyena/oyena-action@20.6.0?classifier=sources
 - pkg:maven/org.omnifaces.oyena/oyena-action@20.7.0
 - pkg:maven/org.omnifaces.oyena/oyena-action@20.7.0?classifier=sources
+- pkg:maven/org.omnifaces.oyena/oyena-action@20.8.0
+- pkg:maven/org.omnifaces.oyena/oyena-action@20.8.0?classifier=sources
+- pkg:maven/org.omnifaces.oyena/oyena-action@20.9.0
+- pkg:maven/org.omnifaces.oyena/oyena-action@20.9.0?classifier=sources

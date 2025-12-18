@@ -1,0 +1,2 @@
+- pkg:maven/org.zkoss.zk/zk-bom@9.5.0.1?classifier=sources
+- pkg:maven/org.zkoss.zk/zk-bom@9.5.0?classifier=sources

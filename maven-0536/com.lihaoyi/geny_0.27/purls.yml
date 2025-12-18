@@ -1,0 +1,2 @@
+- pkg:maven/com.lihaoyi/geny_0.27@0.6.2
+- pkg:maven/com.lihaoyi/geny_0.27@0.6.2?classifier=sources

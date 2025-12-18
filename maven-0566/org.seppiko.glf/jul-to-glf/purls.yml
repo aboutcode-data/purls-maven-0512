@@ -1,0 +1,2 @@
+- pkg:maven/org.seppiko.glf/jul-to-glf@1.2.RELEASE
+- pkg:maven/org.seppiko.glf/jul-to-glf@1.2.RELEASE?classifier=sources

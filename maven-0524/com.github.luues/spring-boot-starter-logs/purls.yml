@@ -1,0 +1,8 @@
+- pkg:maven/com.github.luues/spring-boot-starter-logs@1.2.9.2.RELEASE
+- pkg:maven/com.github.luues/spring-boot-starter-logs@1.2.9.2.RELEASE?classifier=sources
+- pkg:maven/com.github.luues/spring-boot-starter-logs@1.2.9.3.RELEASE
+- pkg:maven/com.github.luues/spring-boot-starter-logs@1.2.9.3.RELEASE?classifier=sources
+- pkg:maven/com.github.luues/spring-boot-starter-logs@1.2.9.4.RELEASE
+- pkg:maven/com.github.luues/spring-boot-starter-logs@1.2.9.4.RELEASE?classifier=sources
+- pkg:maven/com.github.luues/spring-boot-starter-logs@1.2.9.5.RELEASE
+- pkg:maven/com.github.luues/spring-boot-starter-logs@1.2.9.5.RELEASE?classifier=sources

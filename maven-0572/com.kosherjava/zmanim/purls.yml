@@ -1,0 +1,8 @@
+- pkg:maven/com.kosherjava/zmanim@2.0
+- pkg:maven/com.kosherjava/zmanim@2.0.3
+- pkg:maven/com.kosherjava/zmanim@2.0.3?classifier=sources
+- pkg:maven/com.kosherjava/zmanim@2.01
+- pkg:maven/com.kosherjava/zmanim@2.01?classifier=sources
+- pkg:maven/com.kosherjava/zmanim@2.02
+- pkg:maven/com.kosherjava/zmanim@2.02?classifier=sources
+- pkg:maven/com.kosherjava/zmanim@2.0?classifier=sources

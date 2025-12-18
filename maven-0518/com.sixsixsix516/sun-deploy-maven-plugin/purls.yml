@@ -1,0 +1,2 @@
+- pkg:maven/com.sixsixsix516/sun-deploy-maven-plugin@1.0
+- pkg:maven/com.sixsixsix516/sun-deploy-maven-plugin@1.0?classifier=sources

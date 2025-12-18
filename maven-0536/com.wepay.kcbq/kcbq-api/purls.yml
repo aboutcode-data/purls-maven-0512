@@ -32,3 +32,5 @@
 - pkg:maven/com.wepay.kcbq/kcbq-api@1.6.4?classifier=sources
 - pkg:maven/com.wepay.kcbq/kcbq-api@1.6.5
 - pkg:maven/com.wepay.kcbq/kcbq-api@1.6.5?classifier=sources
+- pkg:maven/com.wepay.kcbq/kcbq-api@2.0.0-alpha
+- pkg:maven/com.wepay.kcbq/kcbq-api@2.0.0-alpha?classifier=sources

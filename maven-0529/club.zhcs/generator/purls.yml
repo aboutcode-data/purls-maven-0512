@@ -1,0 +1,2 @@
+- pkg:maven/club.zhcs/generator@2.3.3.RELEASE
+- pkg:maven/club.zhcs/generator@2.3.3.RELEASE?classifier=sources

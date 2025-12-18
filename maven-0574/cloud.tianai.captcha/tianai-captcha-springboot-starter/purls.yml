@@ -1,0 +1,10 @@
+- pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.0
+- pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.0-alpha
+- pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.0-alpha?classifier=sources
+- pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.0.1-alpha
+- pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.0.1-alpha?classifier=sources
+- pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.0.1-beta
+- pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.0.1-beta?classifier=sources
+- pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.0.beta
+- pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.0.beta?classifier=sources
+- pkg:maven/cloud.tianai.captcha/tianai-captcha-springboot-starter@1.0?classifier=sources

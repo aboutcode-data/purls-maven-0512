@@ -2,3 +2,5 @@
 - pkg:maven/io.micronaut.picocli/micronaut-picocli@2.0.0?classifier=sources
 - pkg:maven/io.micronaut.picocli/micronaut-picocli@2.1.0?classifier=sources
 - pkg:maven/io.micronaut.picocli/micronaut-picocli@2.2.0?classifier=sources
+- pkg:maven/io.micronaut.picocli/micronaut-picocli@2.2.1?classifier=sources
+- pkg:maven/io.micronaut.picocli/micronaut-picocli@3.0.0?classifier=sources

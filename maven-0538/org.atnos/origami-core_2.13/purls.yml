@@ -2,3 +2,7 @@
 - pkg:maven/org.atnos/origami-core_2.13@6.0.0?classifier=sources
 - pkg:maven/org.atnos/origami-core_2.13@6.0.1
 - pkg:maven/org.atnos/origami-core_2.13@6.0.1?classifier=sources
+- pkg:maven/org.atnos/origami-core_2.13@6.1.0
+- pkg:maven/org.atnos/origami-core_2.13@6.1.0?classifier=sources
+- pkg:maven/org.atnos/origami-core_2.13@6.1.1
+- pkg:maven/org.atnos/origami-core_2.13@6.1.1?classifier=sources

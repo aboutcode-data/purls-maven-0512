@@ -1,0 +1,16 @@
+- pkg:maven/eu.hansolo.fx/gedit@11.3
+- pkg:maven/eu.hansolo.fx/gedit@11.3?classifier=sources
+- pkg:maven/eu.hansolo.fx/gedit@11.4
+- pkg:maven/eu.hansolo.fx/gedit@11.4?classifier=sources
+- pkg:maven/eu.hansolo.fx/gedit@11.5
+- pkg:maven/eu.hansolo.fx/gedit@11.5.1
+- pkg:maven/eu.hansolo.fx/gedit@11.5.1?classifier=sources
+- pkg:maven/eu.hansolo.fx/gedit@11.5.2
+- pkg:maven/eu.hansolo.fx/gedit@11.5.2?classifier=sources
+- pkg:maven/eu.hansolo.fx/gedit@11.5.3
+- pkg:maven/eu.hansolo.fx/gedit@11.5.3?classifier=sources
+- pkg:maven/eu.hansolo.fx/gedit@11.5.4
+- pkg:maven/eu.hansolo.fx/gedit@11.5.4?classifier=sources
+- pkg:maven/eu.hansolo.fx/gedit@11.5.5
+- pkg:maven/eu.hansolo.fx/gedit@11.5.5?classifier=sources
+- pkg:maven/eu.hansolo.fx/gedit@11.5?classifier=sources

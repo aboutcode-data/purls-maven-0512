@@ -1,5 +1,7 @@
 - pkg:maven/com.clickntap/vimeo@1.10
 - pkg:maven/com.clickntap/vimeo@1.10?classifier=sources
+- pkg:maven/com.clickntap/vimeo@1.13
+- pkg:maven/com.clickntap/vimeo@1.13?classifier=sources
 - pkg:maven/com.clickntap/vimeo@1.4
 - pkg:maven/com.clickntap/vimeo@1.4?classifier=sources
 - pkg:maven/com.clickntap/vimeo@1.5

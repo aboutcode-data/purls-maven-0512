@@ -1,0 +1,2 @@
+- pkg:maven/com.instaclustr/sstable-generator-cassandra-2@1.2
+- pkg:maven/com.instaclustr/sstable-generator-cassandra-2@1.2?classifier=sources

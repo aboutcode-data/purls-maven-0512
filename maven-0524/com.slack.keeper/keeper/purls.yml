@@ -11,3 +11,4 @@
 - pkg:maven/com.slack.keeper/keeper@0.4.3?classifier=sources
 - pkg:maven/com.slack.keeper/keeper@0.5.0?classifier=sources
 - pkg:maven/com.slack.keeper/keeper@0.6.0?classifier=sources
+- pkg:maven/com.slack.keeper/keeper@0.7.0?classifier=sources

@@ -4,5 +4,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE90?classifier=sources

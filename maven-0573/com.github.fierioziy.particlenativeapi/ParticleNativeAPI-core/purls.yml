@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fierioziy.particlenativeapi/ParticleNativeAPI-core@3.0.0
+- pkg:maven/com.github.fierioziy.particlenativeapi/ParticleNativeAPI-core@3.0.0?classifier=sources

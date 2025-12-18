@@ -1,0 +1,2 @@
+- pkg:maven/com.olvind/scala-st-std_sjs1_2.13@1.0.0-beta22-3.9
+- pkg:maven/com.olvind/scala-st-std_sjs1_2.13@1.0.0-beta22-3.9?classifier=sources

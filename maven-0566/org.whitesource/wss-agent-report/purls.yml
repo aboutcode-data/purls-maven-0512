@@ -289,4 +289,12 @@
 - pkg:maven/org.whitesource/wss-agent-report@2.9.9.52?classifier=sources
 - pkg:maven/org.whitesource/wss-agent-report@2.9.9.53
 - pkg:maven/org.whitesource/wss-agent-report@2.9.9.53?classifier=sources
+- pkg:maven/org.whitesource/wss-agent-report@2.9.9.54
+- pkg:maven/org.whitesource/wss-agent-report@2.9.9.54?classifier=sources
+- pkg:maven/org.whitesource/wss-agent-report@2.9.9.55
+- pkg:maven/org.whitesource/wss-agent-report@2.9.9.55?classifier=sources
+- pkg:maven/org.whitesource/wss-agent-report@2.9.9.56
+- pkg:maven/org.whitesource/wss-agent-report@2.9.9.56?classifier=sources
+- pkg:maven/org.whitesource/wss-agent-report@2.9.9.57
+- pkg:maven/org.whitesource/wss-agent-report@2.9.9.57?classifier=sources
 - pkg:maven/org.whitesource/wss-agent-report@2.9.9?classifier=sources

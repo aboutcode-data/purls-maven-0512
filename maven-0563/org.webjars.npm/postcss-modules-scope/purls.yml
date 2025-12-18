@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/postcss-modules-scope@2.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/postcss-modules-scope@2.1.0
 - pkg:maven/org.webjars.npm/postcss-modules-scope@2.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/postcss-modules-scope@3.0.0-rc.2
+- pkg:maven/org.webjars.npm/postcss-modules-scope@3.0.0-rc.2?classifier=sources

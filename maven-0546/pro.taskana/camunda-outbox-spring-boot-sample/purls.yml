@@ -1,0 +1,4 @@
+- pkg:maven/pro.taskana/camunda-outbox-spring-boot-sample@0.9.8
+- pkg:maven/pro.taskana/camunda-outbox-spring-boot-sample@0.9.8?classifier=sources
+- pkg:maven/pro.taskana/camunda-outbox-spring-boot-sample@1.0.0
+- pkg:maven/pro.taskana/camunda-outbox-spring-boot-sample@1.0.0?classifier=sources

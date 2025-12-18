@@ -1,0 +1,2 @@
+- pkg:maven/tech.sparse/translit-scala_sjs1_2.13@0.1.2
+- pkg:maven/tech.sparse/translit-scala_sjs1_2.13@0.1.2?classifier=sources

@@ -1,4 +1,8 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-sofa@1.1.8
 - pkg:maven/com.aliyun/aliyun-java-sdk-sofa@1.1.8?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-sofa@1.2.2
+- pkg:maven/com.aliyun/aliyun-java-sdk-sofa@1.2.2?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-sofa@1.2.3
+- pkg:maven/com.aliyun/aliyun-java-sdk-sofa@1.2.3?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-sofa@1.8
 - pkg:maven/com.aliyun/aliyun-java-sdk-sofa@1.8?classifier=sources

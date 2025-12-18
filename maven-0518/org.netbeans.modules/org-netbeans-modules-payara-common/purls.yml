@@ -2,4 +2,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-common@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-common@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-common@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-common@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-common@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-common@RELEASE121?classifier=sources

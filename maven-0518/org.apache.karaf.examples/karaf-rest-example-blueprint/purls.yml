@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.karaf.examples/karaf-rest-example-blueprint@4.2.10
+- pkg:maven/org.apache.karaf.examples/karaf-rest-example-blueprint@4.2.10?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-rest-example-blueprint@4.2.8
 - pkg:maven/org.apache.karaf.examples/karaf-rest-example-blueprint@4.2.8?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-rest-example-blueprint@4.2.9

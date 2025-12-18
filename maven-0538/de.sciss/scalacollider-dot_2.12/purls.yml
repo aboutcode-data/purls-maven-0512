@@ -14,3 +14,5 @@
 - pkg:maven/de.sciss/scalacollider-dot_2.12@0.8.0?classifier=sources
 - pkg:maven/de.sciss/scalacollider-dot_2.12@0.9.0
 - pkg:maven/de.sciss/scalacollider-dot_2.12@0.9.0?classifier=sources
+- pkg:maven/de.sciss/scalacollider-dot_2.12@1.0.0
+- pkg:maven/de.sciss/scalacollider-dot_2.12@1.0.0?classifier=sources

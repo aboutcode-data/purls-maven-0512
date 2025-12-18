@@ -1,0 +1,2 @@
+- pkg:maven/io.finarkein.auth/finarkein-auth-oauth2@0.3.0
+- pkg:maven/io.finarkein.auth/finarkein-auth-oauth2@0.3.0?classifier=sources

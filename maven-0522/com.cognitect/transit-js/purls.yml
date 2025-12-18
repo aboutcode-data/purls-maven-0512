@@ -103,3 +103,11 @@
 - pkg:maven/com.cognitect/transit-js@0.8.860?classifier=sources
 - pkg:maven/com.cognitect/transit-js@0.8.861
 - pkg:maven/com.cognitect/transit-js@0.8.861?classifier=sources
+- pkg:maven/com.cognitect/transit-js@0.8.865
+- pkg:maven/com.cognitect/transit-js@0.8.865?classifier=sources
+- pkg:maven/com.cognitect/transit-js@0.8.866
+- pkg:maven/com.cognitect/transit-js@0.8.866?classifier=sources
+- pkg:maven/com.cognitect/transit-js@0.8.867
+- pkg:maven/com.cognitect/transit-js@0.8.867?classifier=sources
+- pkg:maven/com.cognitect/transit-js@dev
+- pkg:maven/com.cognitect/transit-js@dev?classifier=sources

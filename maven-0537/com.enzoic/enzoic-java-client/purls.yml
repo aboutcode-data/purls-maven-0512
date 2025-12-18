@@ -1,2 +1,4 @@
 - pkg:maven/com.enzoic/enzoic-java-client@3.0.1
 - pkg:maven/com.enzoic/enzoic-java-client@3.0.1?classifier=sources
+- pkg:maven/com.enzoic/enzoic-java-client@3.1.1
+- pkg:maven/com.enzoic/enzoic-java-client@3.1.1?classifier=sources

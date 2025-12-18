@@ -2,3 +2,5 @@
 - pkg:maven/eu.lunisolar.magma/magma-func-builder@1.0.0?classifier=sources
 - pkg:maven/eu.lunisolar.magma/magma-func-builder@2.0.0
 - pkg:maven/eu.lunisolar.magma/magma-func-builder@2.0.0?classifier=sources
+- pkg:maven/eu.lunisolar.magma/magma-func-builder@3.0.0
+- pkg:maven/eu.lunisolar.magma/magma-func-builder@3.0.0?classifier=sources

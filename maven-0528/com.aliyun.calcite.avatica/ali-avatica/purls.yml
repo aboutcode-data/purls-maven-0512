@@ -3,4 +3,6 @@
 - pkg:maven/com.aliyun.calcite.avatica/ali-avatica@1.12.1
 - pkg:maven/com.aliyun.calcite.avatica/ali-avatica@1.12.1?classifier=sources
 - pkg:maven/com.aliyun.calcite.avatica/ali-avatica@1.13.0
+- pkg:maven/com.aliyun.calcite.avatica/ali-avatica@1.13.0-qtp
+- pkg:maven/com.aliyun.calcite.avatica/ali-avatica@1.13.0-qtp?classifier=sources
 - pkg:maven/com.aliyun.calcite.avatica/ali-avatica@1.13.0?classifier=sources

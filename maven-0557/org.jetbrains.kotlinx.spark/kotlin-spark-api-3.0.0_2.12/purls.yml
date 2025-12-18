@@ -1,0 +1,2 @@
+- pkg:maven/org.jetbrains.kotlinx.spark/kotlin-spark-api-3.0.0_2.12@1.0.0-preview1
+- pkg:maven/org.jetbrains.kotlinx.spark/kotlin-spark-api-3.0.0_2.12@1.0.0-preview1?classifier=sources
