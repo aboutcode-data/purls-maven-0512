@@ -41,3 +41,4 @@
 - pkg:maven/com.palantir.hadoop-crypto2/crypto-keys@2.8.0?classifier=sources
 - pkg:maven/com.palantir.hadoop-crypto2/crypto-keys@3.0.0?classifier=sources
 - pkg:maven/com.palantir.hadoop-crypto2/crypto-keys@3.1.0?classifier=sources
+- pkg:maven/com.palantir.hadoop-crypto2/crypto-keys@3.2.0-rc1?classifier=sources

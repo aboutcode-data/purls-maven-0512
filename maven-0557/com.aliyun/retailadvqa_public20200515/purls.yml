@@ -4,3 +4,5 @@
 - pkg:maven/com.aliyun/retailadvqa_public20200515@3.3.26?classifier=sources
 - pkg:maven/com.aliyun/retailadvqa_public20200515@3.3.27
 - pkg:maven/com.aliyun/retailadvqa_public20200515@3.3.27?classifier=sources
+- pkg:maven/com.aliyun/retailadvqa_public20200515@3.3.30
+- pkg:maven/com.aliyun/retailadvqa_public20200515@3.3.30?classifier=sources

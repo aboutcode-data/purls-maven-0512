@@ -21,3 +21,5 @@
 - pkg:maven/com.exactpro.sf/service-fix@3.2.1676?classifier=sources
 - pkg:maven/com.exactpro.sf/service-fix@3.2.1682?classifier=sources
 - pkg:maven/com.exactpro.sf/service-fix@3.2.1684?classifier=sources
+- pkg:maven/com.exactpro.sf/service-fix@3.2.1712?classifier=sources
+- pkg:maven/com.exactpro.sf/service-fix@3.2.1731?classifier=sources

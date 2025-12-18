@@ -50,3 +50,7 @@
 - pkg:maven/com.sap.cds/cds-feature-jdbc@1.18.3?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-jdbc@1.19.0
 - pkg:maven/com.sap.cds/cds-feature-jdbc@1.19.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-jdbc@1.20.0
+- pkg:maven/com.sap.cds/cds-feature-jdbc@1.20.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-jdbc@1.20.1
+- pkg:maven/com.sap.cds/cds-feature-jdbc@1.20.1?classifier=sources

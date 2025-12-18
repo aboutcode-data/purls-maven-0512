@@ -1,0 +1,2 @@
+- pkg:maven/com.musenbrock/gitflow-maven-plugin@1.16.0.mmusenbr
+- pkg:maven/com.musenbrock/gitflow-maven-plugin@1.16.0.mmusenbr?classifier=sources

@@ -21,3 +21,5 @@
 - pkg:maven/com.google.mug/mug-examples@5.3
 - pkg:maven/com.google.mug/mug-examples@5.4
 - pkg:maven/com.google.mug/mug-examples@5.5
+- pkg:maven/com.google.mug/mug-examples@5.6
+- pkg:maven/com.google.mug/mug-examples@5.7

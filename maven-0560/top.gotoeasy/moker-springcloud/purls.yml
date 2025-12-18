@@ -1,0 +1,2 @@
+- pkg:maven/top.gotoeasy/moker-springcloud@1.0.0
+- pkg:maven/top.gotoeasy/moker-springcloud@1.0.0?classifier=sources

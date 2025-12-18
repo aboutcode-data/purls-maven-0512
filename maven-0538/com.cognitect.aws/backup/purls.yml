@@ -20,5 +20,9 @@
 - pkg:maven/com.cognitect.aws/backup@811.2.834.0?classifier=sources
 - pkg:maven/com.cognitect.aws/backup@811.2.865.0
 - pkg:maven/com.cognitect.aws/backup@811.2.865.0?classifier=sources
+- pkg:maven/com.cognitect.aws/backup@814.2.1008.0
+- pkg:maven/com.cognitect.aws/backup@814.2.1008.0?classifier=sources
+- pkg:maven/com.cognitect.aws/backup@814.2.1028.0
+- pkg:maven/com.cognitect.aws/backup@814.2.1028.0?classifier=sources
 - pkg:maven/com.cognitect.aws/backup@814.2.977.0
 - pkg:maven/com.cognitect.aws/backup@814.2.977.0?classifier=sources

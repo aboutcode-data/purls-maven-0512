@@ -12,6 +12,13 @@
 - pkg:maven/com.facebook.flipper/flipper-litho-plugin@0.111.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-litho-plugin@0.112.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-litho-plugin@0.113.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-litho-plugin@0.114.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-litho-plugin@0.115.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-litho-plugin@0.116.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-litho-plugin@0.117.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-litho-plugin@0.118.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-litho-plugin@0.118.1?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-litho-plugin@0.119.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-litho-plugin@0.75.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-litho-plugin@0.75.1?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-litho-plugin@0.76.0?classifier=sources

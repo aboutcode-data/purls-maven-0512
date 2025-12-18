@@ -4,3 +4,4 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-plugin-api@6.3.0.36253?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-plugin-api@6.4.0.36592?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-plugin-api@6.5.0.37122?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-plugin-api@7.0.0.37656?classifier=sources

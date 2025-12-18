@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.facebook/react@16.4.2
 - pkg:maven/org.webjars.bowergithub.facebook/react@16.4.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.facebook/react@17.0.1
+- pkg:maven/org.webjars.bowergithub.facebook/react@17.0.1?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/org.noear.hatch/solon.boot.smarthttp@1.5.50
+- pkg:maven/org.noear.hatch/solon.boot.smarthttp@1.5.50?classifier=sources
+- pkg:maven/org.noear.hatch/solon.boot.smarthttp@1.5.51
+- pkg:maven/org.noear.hatch/solon.boot.smarthttp@1.5.51?classifier=sources
+- pkg:maven/org.noear.hatch/solon.boot.smarthttp@1.5.52
+- pkg:maven/org.noear.hatch/solon.boot.smarthttp@1.5.52?classifier=sources
+- pkg:maven/org.noear.hatch/solon.boot.smarthttp@1.5.53
+- pkg:maven/org.noear.hatch/solon.boot.smarthttp@1.5.53?classifier=sources
+- pkg:maven/org.noear.hatch/solon.boot.smarthttp@1.5.54
+- pkg:maven/org.noear.hatch/solon.boot.smarthttp@1.5.54?classifier=sources

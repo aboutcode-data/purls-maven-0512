@@ -1,0 +1,4 @@
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-processor@1.8.0
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-processor@1.8.0?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-processor@1.8.1
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-processor@1.8.1?classifier=sources

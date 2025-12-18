@@ -40,3 +40,4 @@
 - pkg:maven/io.arrow-kt/arrow-annotations@0.9.0
 - pkg:maven/io.arrow-kt/arrow-annotations@0.9.0?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-annotations@1.0.0?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-annotations@1.0.1?classifier=sources

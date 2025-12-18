@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/pluralize@1.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/pluralize@7.0.0
 - pkg:maven/org.webjars.npm/pluralize@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/pluralize@8.0.0
+- pkg:maven/org.webjars.npm/pluralize@8.0.0?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/com.palantir.jvm.diagnostics/jvm-diagnostics@0.0.1?classifier=sources
 - pkg:maven/com.palantir.jvm.diagnostics/jvm-diagnostics@0.0.2
 - pkg:maven/com.palantir.jvm.diagnostics/jvm-diagnostics@0.0.2?classifier=sources
+- pkg:maven/com.palantir.jvm.diagnostics/jvm-diagnostics@0.1.0?classifier=sources

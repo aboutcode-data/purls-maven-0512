@@ -90,3 +90,7 @@
 - pkg:maven/org.realityforge.proton/proton-qa@0.50?classifier=sources
 - pkg:maven/org.realityforge.proton/proton-qa@0.51
 - pkg:maven/org.realityforge.proton/proton-qa@0.51?classifier=sources
+- pkg:maven/org.realityforge.proton/proton-qa@0.52
+- pkg:maven/org.realityforge.proton/proton-qa@0.52?classifier=sources
+- pkg:maven/org.realityforge.proton/proton-qa@0.53
+- pkg:maven/org.realityforge.proton/proton-qa@0.53?classifier=sources

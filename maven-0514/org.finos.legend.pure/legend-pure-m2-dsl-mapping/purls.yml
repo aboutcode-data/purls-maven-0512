@@ -96,6 +96,14 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-mapping@1.39.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-mapping@1.4.0
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-mapping@1.4.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-mapping@1.40.0
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-mapping@1.40.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-mapping@1.41.0
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-mapping@1.41.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-mapping@1.42.0
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-mapping@1.42.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-mapping@1.43.0
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-mapping@1.43.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-mapping@1.5.0
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-mapping@1.5.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-mapping@1.5.1

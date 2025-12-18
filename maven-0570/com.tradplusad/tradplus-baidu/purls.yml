@@ -29,8 +29,16 @@
 - pkg:maven/com.tradplusad/tradplus-baidu@43.6.9.61.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.6.9.61?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.6.9.70.1.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.6.9.70.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.6.9.70?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.6.9.71.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.6.9.71?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.6.9.80.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.6.9.80?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.7.0.0.1.1.100?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.7.0.0.1.1.101?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.7.0.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.7.0.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.7.1.0.1.1.100?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.7.1.0.1.1.101?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.7.1.0.1.1.102?type=aar

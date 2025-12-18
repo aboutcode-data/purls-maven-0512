@@ -1,4 +1,5 @@
 - pkg:maven/dev.aspectj/aspectj-maven-plugin@1.13
+- pkg:maven/dev.aspectj/aspectj-maven-plugin@1.13.1
 - pkg:maven/dev.aspectj/aspectj-maven-plugin@1.13.M2
 - pkg:maven/dev.aspectj/aspectj-maven-plugin@1.13.M3
 - pkg:maven/dev.aspectj/aspectj-maven-plugin@1.13?classifier=source-release&type=zip

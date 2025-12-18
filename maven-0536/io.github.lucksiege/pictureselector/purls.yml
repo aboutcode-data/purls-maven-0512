@@ -21,3 +21,5 @@
 - pkg:maven/io.github.lucksiege/pictureselector@v2.7.3-rc06?classifier=sources
 - pkg:maven/io.github.lucksiege/pictureselector@v2.7.3-rc07?classifier=sources
 - pkg:maven/io.github.lucksiege/pictureselector@v2.7.3-rc08?classifier=sources
+- pkg:maven/io.github.lucksiege/pictureselector@v2.7.3-rc09?classifier=sources
+- pkg:maven/io.github.lucksiege/pictureselector@v2.7.3-rc10?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/com.adobe.commerce.cif/magento-graphql@1.0.0-magento230
 - pkg:maven/com.adobe.commerce.cif/magento-graphql@1.0.0-magento230?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/magento-graphql@10.0.0-magento243ee
+- pkg:maven/com.adobe.commerce.cif/magento-graphql@10.0.0-magento243ee?classifier=sources
 - pkg:maven/com.adobe.commerce.cif/magento-graphql@2.0.0-magento231
 - pkg:maven/com.adobe.commerce.cif/magento-graphql@2.0.0-magento231?classifier=sources
 - pkg:maven/com.adobe.commerce.cif/magento-graphql@3.0.0-magento232

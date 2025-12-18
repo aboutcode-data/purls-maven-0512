@@ -67,6 +67,8 @@
 - pkg:maven/com.mindoo.domino/domino-jna@0.9.41?classifier=sources
 - pkg:maven/com.mindoo.domino/domino-jna@0.9.42
 - pkg:maven/com.mindoo.domino/domino-jna@0.9.42?classifier=sources
+- pkg:maven/com.mindoo.domino/domino-jna@0.9.44
+- pkg:maven/com.mindoo.domino/domino-jna@0.9.44?classifier=sources
 - pkg:maven/com.mindoo.domino/domino-jna@0.9.4?classifier=sources
 - pkg:maven/com.mindoo.domino/domino-jna@0.9.5
 - pkg:maven/com.mindoo.domino/domino-jna@0.9.5?classifier=sources

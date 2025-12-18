@@ -232,3 +232,4 @@
 - pkg:maven/org.grails/grails-datastore-gorm@7.1.0.RC1?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm@7.1.0.RC2?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm@7.1.0.RC3?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm@7.1.0?classifier=sources

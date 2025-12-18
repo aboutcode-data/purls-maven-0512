@@ -1,0 +1,2 @@
+- pkg:maven/io.qtjambi/qtjambi-websockets@5.15?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-websockets@6.2?classifier=sources

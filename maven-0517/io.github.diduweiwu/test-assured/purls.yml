@@ -1,0 +1,2 @@
+- pkg:maven/io.github.diduweiwu/test-assured@1.0.0-REALEASE
+- pkg:maven/io.github.diduweiwu/test-assured@1.0.0-REALEASE?classifier=sources

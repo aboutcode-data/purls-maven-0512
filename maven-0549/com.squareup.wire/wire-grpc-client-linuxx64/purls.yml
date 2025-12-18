@@ -8,9 +8,13 @@
 - pkg:maven/com.squareup.wire/wire-grpc-client-linuxx64@3.6.0?classifier=sources
 - pkg:maven/com.squareup.wire/wire-grpc-client-linuxx64@3.6.1?classifier=sources
 - pkg:maven/com.squareup.wire/wire-grpc-client-linuxx64@3.7.0?classifier=sources
+- pkg:maven/com.squareup.wire/wire-grpc-client-linuxx64@3.7.1?classifier=sources
 - pkg:maven/com.squareup.wire/wire-grpc-client-linuxx64@4.0.0-alpha.10?classifier=sources
 - pkg:maven/com.squareup.wire/wire-grpc-client-linuxx64@4.0.0-alpha.11?classifier=sources
 - pkg:maven/com.squareup.wire/wire-grpc-client-linuxx64@4.0.0-alpha.12?classifier=sources
+- pkg:maven/com.squareup.wire/wire-grpc-client-linuxx64@4.0.0-alpha.15?classifier=sources
+- pkg:maven/com.squareup.wire/wire-grpc-client-linuxx64@4.0.0-alpha.16?classifier=sources
+- pkg:maven/com.squareup.wire/wire-grpc-client-linuxx64@4.0.0-alpha.17?classifier=sources
 - pkg:maven/com.squareup.wire/wire-grpc-client-linuxx64@4.0.0-alpha.1?classifier=sources
 - pkg:maven/com.squareup.wire/wire-grpc-client-linuxx64@4.0.0-alpha.2?classifier=sources
 - pkg:maven/com.squareup.wire/wire-grpc-client-linuxx64@4.0.0-alpha.3?classifier=sources

@@ -43,3 +43,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-docs@2.7.0
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-docs@2.7.1
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-docs@2.7.2
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-docs@2.7.3
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-docs@2.7.4
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-docs@2.8.0
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-docs@2.8.1

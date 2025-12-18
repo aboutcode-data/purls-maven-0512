@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-autofill-bootstrap4@2.3.4
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-autofill-bootstrap4@2.3.4?classifier=sources
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-autofill-bootstrap4@2.3.9
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-autofill-bootstrap4@2.3.9?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.scalameta/metac_2.12.15@4.4.28
 - pkg:maven/org.scalameta/metac_2.12.15@4.4.28?classifier=sources
+- pkg:maven/org.scalameta/metac_2.12.15@4.4.29
+- pkg:maven/org.scalameta/metac_2.12.15@4.4.29?classifier=sources
+- pkg:maven/org.scalameta/metac_2.12.15@4.4.30
+- pkg:maven/org.scalameta/metac_2.12.15@4.4.30?classifier=sources

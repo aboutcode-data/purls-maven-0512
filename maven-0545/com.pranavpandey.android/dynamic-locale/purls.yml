@@ -12,3 +12,4 @@
 - pkg:maven/com.pranavpandey.android/dynamic-locale@1.2.1?type=aar
 - pkg:maven/com.pranavpandey.android/dynamic-locale@2.0.0?classifier=sources
 - pkg:maven/com.pranavpandey.android/dynamic-locale@2.1.0?classifier=sources
+- pkg:maven/com.pranavpandey.android/dynamic-locale@2.1.1?classifier=sources

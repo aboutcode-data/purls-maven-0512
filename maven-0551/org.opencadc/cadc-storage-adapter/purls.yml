@@ -1,1 +1,2 @@
 - pkg:maven/org.opencadc/cadc-storage-adapter@0.7.1?classifier=sources
+- pkg:maven/org.opencadc/cadc-storage-adapter@0.8.0?classifier=sources

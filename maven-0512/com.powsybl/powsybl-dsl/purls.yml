@@ -78,3 +78,7 @@
 - pkg:maven/com.powsybl/powsybl-dsl@4.4.0-RC1
 - pkg:maven/com.powsybl/powsybl-dsl@4.4.0-RC1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-dsl@4.4.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-dsl@4.5.0
+- pkg:maven/com.powsybl/powsybl-dsl@4.5.0-RC1
+- pkg:maven/com.powsybl/powsybl-dsl@4.5.0-RC1?classifier=sources
+- pkg:maven/com.powsybl/powsybl-dsl@4.5.0?classifier=sources

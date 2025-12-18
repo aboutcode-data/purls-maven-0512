@@ -2,3 +2,5 @@
 - pkg:maven/com.applovin.mediation/maio-adapter@1.1.14.0?type=aar
 - pkg:maven/com.applovin.mediation/maio-adapter@1.1.15.0?classifier=sources
 - pkg:maven/com.applovin.mediation/maio-adapter@1.1.15.0?type=aar
+- pkg:maven/com.applovin.mediation/maio-adapter@1.1.16.0?classifier=sources
+- pkg:maven/com.applovin.mediation/maio-adapter@1.1.16.0?type=aar

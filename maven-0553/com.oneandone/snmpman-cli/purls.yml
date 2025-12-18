@@ -20,3 +20,5 @@
 - pkg:maven/com.oneandone/snmpman-cli@2.0.0-beta
 - pkg:maven/com.oneandone/snmpman-cli@2.0.0-beta?classifier=sources
 - pkg:maven/com.oneandone/snmpman-cli@2.0.0?classifier=sources
+- pkg:maven/com.oneandone/snmpman-cli@2.1.0
+- pkg:maven/com.oneandone/snmpman-cli@2.1.0?classifier=sources

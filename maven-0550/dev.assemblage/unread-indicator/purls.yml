@@ -1,1 +1,2 @@
 - pkg:maven/dev.assemblage/unread-indicator@1.1.0?classifier=sources
+- pkg:maven/dev.assemblage/unread-indicator@2.0.0?classifier=sources

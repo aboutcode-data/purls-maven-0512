@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnsearch/h2-functions-4-mysql@1.0.0
+- pkg:maven/org.mvnsearch/h2-functions-4-mysql@1.0.0?classifier=sources

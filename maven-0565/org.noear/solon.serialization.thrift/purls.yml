@@ -29,4 +29,13 @@
 - pkg:maven/org.noear/solon.serialization.thrift@1.5.38
 - pkg:maven/org.noear/solon.serialization.thrift@1.5.39
 - pkg:maven/org.noear/solon.serialization.thrift@1.5.40
+- pkg:maven/org.noear/solon.serialization.thrift@1.5.41
+- pkg:maven/org.noear/solon.serialization.thrift@1.5.42
+- pkg:maven/org.noear/solon.serialization.thrift@1.5.43
+- pkg:maven/org.noear/solon.serialization.thrift@1.5.44
+- pkg:maven/org.noear/solon.serialization.thrift@1.5.45
+- pkg:maven/org.noear/solon.serialization.thrift@1.5.46
+- pkg:maven/org.noear/solon.serialization.thrift@1.5.47
+- pkg:maven/org.noear/solon.serialization.thrift@1.5.48
+- pkg:maven/org.noear/solon.serialization.thrift@1.5.49
 - pkg:maven/org.noear/solon.serialization.thrift@1.5.9

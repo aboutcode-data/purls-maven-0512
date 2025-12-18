@@ -10,3 +10,5 @@
 - pkg:maven/io.trino/trino-jmx@360?classifier=sources
 - pkg:maven/io.trino/trino-jmx@361?classifier=sources
 - pkg:maven/io.trino/trino-jmx@362?classifier=sources
+- pkg:maven/io.trino/trino-jmx@363?classifier=sources
+- pkg:maven/io.trino/trino-jmx@364?classifier=sources

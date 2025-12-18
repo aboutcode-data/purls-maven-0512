@@ -1,3 +1,4 @@
 - pkg:maven/io.github.sergeshustoff.dikt/dikt-compiler-plugin@1.0.0-alpha4?classifier=sources
 - pkg:maven/io.github.sergeshustoff.dikt/dikt-compiler-plugin@1.0.0-alpha5?classifier=sources
 - pkg:maven/io.github.sergeshustoff.dikt/dikt-compiler-plugin@1.0.0-alpha6?classifier=sources
+- pkg:maven/io.github.sergeshustoff.dikt/dikt-compiler-plugin@1.0.0-alpha7?classifier=sources

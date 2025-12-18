@@ -42,3 +42,5 @@
 - pkg:maven/org.liquibase.ext/liquibase-teradata@4.4.3?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-teradata@4.5.0
 - pkg:maven/org.liquibase.ext/liquibase-teradata@4.5.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-teradata@4.6.1
+- pkg:maven/org.liquibase.ext/liquibase-teradata@4.6.1?classifier=sources

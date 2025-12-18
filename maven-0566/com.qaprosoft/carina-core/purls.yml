@@ -316,3 +316,5 @@
 - pkg:maven/com.qaprosoft/carina-core@7.2.10?classifier=sources
 - pkg:maven/com.qaprosoft/carina-core@7.2.11
 - pkg:maven/com.qaprosoft/carina-core@7.2.11?classifier=sources
+- pkg:maven/com.qaprosoft/carina-core@7.2.12
+- pkg:maven/com.qaprosoft/carina-core@7.2.12?classifier=sources

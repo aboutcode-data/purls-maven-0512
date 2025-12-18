@@ -1,0 +1,4 @@
+- pkg:maven/org.anyline/anyline-jdbc-dm@8.3.10
+- pkg:maven/org.anyline/anyline-jdbc-dm@8.3.10?classifier=sources
+- pkg:maven/org.anyline/anyline-jdbc-dm@8.3.9
+- pkg:maven/org.anyline/anyline-jdbc-dm@8.3.9?classifier=sources

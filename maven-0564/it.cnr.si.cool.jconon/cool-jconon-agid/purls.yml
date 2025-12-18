@@ -50,6 +50,16 @@
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.12?type=war
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.13?classifier=sources
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.13?type=war
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.14?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.14?type=war
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.15?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.15?type=war
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.16?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.16?type=war
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.17?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.17?type=war
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.18?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.18?type=war
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.1?classifier=sources
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.1?type=war
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-agid@1.1.2?classifier=sources

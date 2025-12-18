@@ -20,3 +20,9 @@
 - pkg:maven/org.tentackle/tentackle-fx-rdc-update@11.7.2.1?classifier=sources
 - pkg:maven/org.tentackle/tentackle-fx-rdc-update@11.7.3.0
 - pkg:maven/org.tentackle/tentackle-fx-rdc-update@11.7.3.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-fx-rdc-update@11.7.4.0
+- pkg:maven/org.tentackle/tentackle-fx-rdc-update@11.7.4.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-fx-rdc-update@17.8.0.0
+- pkg:maven/org.tentackle/tentackle-fx-rdc-update@17.8.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-fx-rdc-update@17.9.0.0
+- pkg:maven/org.tentackle/tentackle-fx-rdc-update@17.9.0.0?classifier=sources

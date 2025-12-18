@@ -16,3 +16,7 @@
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-maven-plugin@0.2.1?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-maven-plugin@0.3.1
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-maven-plugin@0.3.1?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-maven-plugin@0.3.2
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-maven-plugin@0.3.2?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-maven-plugin@1.0.0
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-maven-plugin@1.0.0?classifier=sources

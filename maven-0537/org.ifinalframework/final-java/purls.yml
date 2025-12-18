@@ -1,0 +1,2 @@
+- pkg:maven/org.ifinalframework/final-java@1.2.2
+- pkg:maven/org.ifinalframework/final-java@1.2.2?classifier=sources

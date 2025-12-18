@@ -4,3 +4,5 @@
 - pkg:maven/one.leftshift.gaia-sdk/gaia-sdk-docs@3.4.0?classifier=sources
 - pkg:maven/one.leftshift.gaia-sdk/gaia-sdk-docs@3.4.1
 - pkg:maven/one.leftshift.gaia-sdk/gaia-sdk-docs@3.4.1?classifier=sources
+- pkg:maven/one.leftshift.gaia-sdk/gaia-sdk-docs@4.0.0
+- pkg:maven/one.leftshift.gaia-sdk/gaia-sdk-docs@4.0.0?classifier=sources

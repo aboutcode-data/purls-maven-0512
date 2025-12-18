@@ -14,3 +14,6 @@
 - pkg:maven/com.github.michaelruocco/json-adapter@0.1.8?classifier=sources
 - pkg:maven/com.github.michaelruocco/json-adapter@1.0.0
 - pkg:maven/com.github.michaelruocco/json-adapter@1.0.0?classifier=sources
+- pkg:maven/com.github.michaelruocco/json-adapter@1.0.1?classifier=sources
+- pkg:maven/com.github.michaelruocco/json-adapter@1.0.2?classifier=sources
+- pkg:maven/com.github.michaelruocco/json-adapter@1.0.3?classifier=sources

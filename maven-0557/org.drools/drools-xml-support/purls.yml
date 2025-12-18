@@ -1,0 +1,2 @@
+- pkg:maven/org.drools/drools-xml-support@8.14.0.Beta
+- pkg:maven/org.drools/drools-xml-support@8.14.0.Beta?classifier=sources

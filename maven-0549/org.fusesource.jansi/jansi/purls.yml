@@ -54,3 +54,5 @@
 - pkg:maven/org.fusesource.jansi/jansi@2.3.3?classifier=sources
 - pkg:maven/org.fusesource.jansi/jansi@2.3.4
 - pkg:maven/org.fusesource.jansi/jansi@2.3.4?classifier=sources
+- pkg:maven/org.fusesource.jansi/jansi@2.4.0
+- pkg:maven/org.fusesource.jansi/jansi@2.4.0?classifier=sources

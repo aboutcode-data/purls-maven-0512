@@ -1,7 +1,12 @@
 - pkg:maven/org.opfab/users-client-data@2.10.0.RELEASE?classifier=sources
+- pkg:maven/org.opfab/users-client-data@2.11.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/users-client-data@2.4.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/users-client-data@2.5.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/users-client-data@2.6.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/users-client-data@2.7.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/users-client-data@2.8.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/users-client-data@2.9.0.RELEASE?classifier=sources
+- pkg:maven/org.opfab/users-client-data@3.0.0.RELEASE?classifier=sources
+- pkg:maven/org.opfab/users-client-data@3.0.1.RELEASE?classifier=sources
+- pkg:maven/org.opfab/users-client-data@3.0.2.RELEASE?classifier=sources
+- pkg:maven/org.opfab/users-client-data@3.1.0.RELEASE?classifier=sources

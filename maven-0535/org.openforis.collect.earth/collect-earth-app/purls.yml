@@ -10,3 +10,9 @@
 - pkg:maven/org.openforis.collect.earth/collect-earth-app@1.13.4?classifier=sources
 - pkg:maven/org.openforis.collect.earth/collect-earth-app@1.13.5
 - pkg:maven/org.openforis.collect.earth/collect-earth-app@1.13.5?classifier=sources
+- pkg:maven/org.openforis.collect.earth/collect-earth-app@1.14.0
+- pkg:maven/org.openforis.collect.earth/collect-earth-app@1.14.0?classifier=sources
+- pkg:maven/org.openforis.collect.earth/collect-earth-app@1.14.1
+- pkg:maven/org.openforis.collect.earth/collect-earth-app@1.14.1?classifier=sources
+- pkg:maven/org.openforis.collect.earth/collect-earth-app@1.14.2
+- pkg:maven/org.openforis.collect.earth/collect-earth-app@1.14.2?classifier=sources

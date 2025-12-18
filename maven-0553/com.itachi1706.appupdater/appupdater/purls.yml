@@ -7,3 +7,5 @@
 - pkg:maven/com.itachi1706.appupdater/appupdater@2.2.3?classifier=sources
 - pkg:maven/com.itachi1706.appupdater/appupdater@2.2.4?classifier=sources
 - pkg:maven/com.itachi1706.appupdater/appupdater@2.3.0?classifier=sources
+- pkg:maven/com.itachi1706.appupdater/appupdater@2.4.0?classifier=sources
+- pkg:maven/com.itachi1706.appupdater/appupdater@2.4.1?classifier=sources

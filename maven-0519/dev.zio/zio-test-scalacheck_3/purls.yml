@@ -1,0 +1,2 @@
+- pkg:maven/dev.zio/zio-test-scalacheck_3@2.0.0-M5
+- pkg:maven/dev.zio/zio-test-scalacheck_3@2.0.0-M5?classifier=sources

@@ -129,6 +129,9 @@
 - pkg:maven/org.cryptomator/cryptofs@2.0.0?classifier=sources
 - pkg:maven/org.cryptomator/cryptofs@2.0.1
 - pkg:maven/org.cryptomator/cryptofs@2.0.1?classifier=sources
+- pkg:maven/org.cryptomator/cryptofs@2.0.2
+- pkg:maven/org.cryptomator/cryptofs@2.0.2?classifier=sources
+- pkg:maven/org.cryptomator/cryptofs@2.1.0
 - pkg:maven/org.cryptomator/cryptofs@2.1.0-beta1
 - pkg:maven/org.cryptomator/cryptofs@2.1.0-beta10
 - pkg:maven/org.cryptomator/cryptofs@2.1.0-beta10?classifier=sources
@@ -154,3 +157,14 @@
 - pkg:maven/org.cryptomator/cryptofs@2.1.0-beta8?classifier=sources
 - pkg:maven/org.cryptomator/cryptofs@2.1.0-beta9
 - pkg:maven/org.cryptomator/cryptofs@2.1.0-beta9?classifier=sources
+- pkg:maven/org.cryptomator/cryptofs@2.1.0-rc1
+- pkg:maven/org.cryptomator/cryptofs@2.1.0-rc1?classifier=sources
+- pkg:maven/org.cryptomator/cryptofs@2.1.0-rc2
+- pkg:maven/org.cryptomator/cryptofs@2.1.0-rc2?classifier=sources
+- pkg:maven/org.cryptomator/cryptofs@2.1.0?classifier=sources
+- pkg:maven/org.cryptomator/cryptofs@2.1.1
+- pkg:maven/org.cryptomator/cryptofs@2.1.1?classifier=sources
+- pkg:maven/org.cryptomator/cryptofs@2.2.0
+- pkg:maven/org.cryptomator/cryptofs@2.2.0?classifier=sources
+- pkg:maven/org.cryptomator/cryptofs@2.3.0
+- pkg:maven/org.cryptomator/cryptofs@2.3.0?classifier=sources

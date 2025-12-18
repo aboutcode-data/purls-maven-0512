@@ -1,4 +1,8 @@
+- pkg:maven/org.odftoolkit/odfvalidator@0.10.0?classifier=sources
+- pkg:maven/org.odftoolkit/odfvalidator@0.10.0?type=war
 - pkg:maven/org.odftoolkit/odfvalidator@0.9.0-RC1?classifier=sources
 - pkg:maven/org.odftoolkit/odfvalidator@0.9.0-RC1?type=war
+- pkg:maven/org.odftoolkit/odfvalidator@0.9.0?classifier=sources
+- pkg:maven/org.odftoolkit/odfvalidator@0.9.0?type=war
 - pkg:maven/org.odftoolkit/odfvalidator@1.0.0-BETA1?classifier=sources
 - pkg:maven/org.odftoolkit/odfvalidator@1.0.0-BETA1?type=war

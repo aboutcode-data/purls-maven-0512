@@ -30,3 +30,6 @@
 - pkg:maven/com.github.turansky.cesium/cesium-kotlin-nm@1.84.0-20?classifier=sources
 - pkg:maven/com.github.turansky.cesium/cesium-kotlin-nm@1.85.0-10?classifier=sources
 - pkg:maven/com.github.turansky.cesium/cesium-kotlin-nm@1.86.0-10?classifier=sources
+- pkg:maven/com.github.turansky.cesium/cesium-kotlin-nm@1.86.1-10?classifier=sources
+- pkg:maven/com.github.turansky.cesium/cesium-kotlin-nm@1.87.0-10?classifier=sources
+- pkg:maven/com.github.turansky.cesium/cesium-kotlin-nm@1.87.1-10?classifier=sources

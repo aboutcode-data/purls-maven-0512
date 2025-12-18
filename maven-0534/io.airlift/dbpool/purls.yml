@@ -286,3 +286,5 @@
 - pkg:maven/io.airlift/dbpool@207?classifier=sources
 - pkg:maven/io.airlift/dbpool@208
 - pkg:maven/io.airlift/dbpool@208?classifier=sources
+- pkg:maven/io.airlift/dbpool@209
+- pkg:maven/io.airlift/dbpool@209?classifier=sources

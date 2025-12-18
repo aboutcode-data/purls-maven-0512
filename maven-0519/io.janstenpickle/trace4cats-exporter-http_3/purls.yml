@@ -1,4 +1,6 @@
 - pkg:maven/io.janstenpickle/trace4cats-exporter-http_3@0.12.0
+- pkg:maven/io.janstenpickle/trace4cats-exporter-http_3@0.12.0%2B41-8ce63144
+- pkg:maven/io.janstenpickle/trace4cats-exporter-http_3@0.12.0%2B41-8ce63144?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-exporter-http_3@0.12.0-RC2%2B4-69bfcea6
 - pkg:maven/io.janstenpickle/trace4cats-exporter-http_3@0.12.0-RC2%2B4-69bfcea6?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-exporter-http_3@0.12.0?classifier=sources

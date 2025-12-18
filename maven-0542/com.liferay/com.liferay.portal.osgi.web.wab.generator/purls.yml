@@ -229,6 +229,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.88
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.88?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.88?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.89
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.89?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.89?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.9
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.90
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.90?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.90?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.wab.generator@2.1.9?classifier=sources

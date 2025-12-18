@@ -1,0 +1,2 @@
+- pkg:maven/com.voodoodyne/nv-i18n-safe@1.29
+- pkg:maven/com.voodoodyne/nv-i18n-safe@1.29?classifier=sources

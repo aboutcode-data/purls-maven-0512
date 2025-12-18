@@ -1,0 +1,3 @@
+- pkg:maven/io.github.chenqunming/alipaysdk@15.8.03?classifier=sources
+- pkg:maven/io.github.chenqunming/alipaysdk@15.8.05?classifier=sources
+- pkg:maven/io.github.chenqunming/alipaysdk@SNAPSHOT-15.8.03?classifier=sources

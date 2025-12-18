@@ -348,3 +348,5 @@
 - pkg:maven/com.proofpoint.platform/concurrent@2.59?classifier=sources
 - pkg:maven/com.proofpoint.platform/concurrent@2.60
 - pkg:maven/com.proofpoint.platform/concurrent@2.60?classifier=sources
+- pkg:maven/com.proofpoint.platform/concurrent@2.61
+- pkg:maven/com.proofpoint.platform/concurrent@2.61?classifier=sources

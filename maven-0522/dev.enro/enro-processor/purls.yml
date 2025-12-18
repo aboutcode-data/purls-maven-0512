@@ -10,3 +10,5 @@
 - pkg:maven/dev.enro/enro-processor@1.4.0-beta03?classifier=sources
 - pkg:maven/dev.enro/enro-processor@1.4.0-beta04?classifier=sources
 - pkg:maven/dev.enro/enro-processor@1.4.0-compose-beta01?classifier=sources
+- pkg:maven/dev.enro/enro-processor@1.4.0?classifier=sources
+- pkg:maven/dev.enro/enro-processor@1.4.1?classifier=sources

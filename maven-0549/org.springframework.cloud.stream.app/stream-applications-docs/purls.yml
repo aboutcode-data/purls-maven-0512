@@ -1,3 +1,5 @@
 - pkg:maven/org.springframework.cloud.stream.app/stream-applications-docs@2020.0.0
 - pkg:maven/org.springframework.cloud.stream.app/stream-applications-docs@2020.0.1
 - pkg:maven/org.springframework.cloud.stream.app/stream-applications-docs@2020.0.2
+- pkg:maven/org.springframework.cloud.stream.app/stream-applications-docs@2021.0.0
+- pkg:maven/org.springframework.cloud.stream.app/stream-applications-docs@2021.0.1

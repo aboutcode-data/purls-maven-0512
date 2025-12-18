@@ -22,4 +22,11 @@
 - pkg:maven/com.exactpro.th2/infra-repo@1.0.7?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.0.8?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.0.9?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.1.0-beta-001?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.1.0-beta-002?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.1.0-beta-003?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.1.0-beta-004?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.1.0-beta-005?classifier=sources
 - pkg:maven/com.exactpro.th2/infra-repo@1.1.0-beta?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.1.0?classifier=sources
+- pkg:maven/com.exactpro.th2/infra-repo@1.1.1-beta-01?classifier=sources

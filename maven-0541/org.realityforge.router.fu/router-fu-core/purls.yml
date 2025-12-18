@@ -66,3 +66,7 @@
 - pkg:maven/org.realityforge.router.fu/router-fu-core@0.33?classifier=sources
 - pkg:maven/org.realityforge.router.fu/router-fu-core@0.34
 - pkg:maven/org.realityforge.router.fu/router-fu-core@0.34?classifier=sources
+- pkg:maven/org.realityforge.router.fu/router-fu-core@0.35
+- pkg:maven/org.realityforge.router.fu/router-fu-core@0.35?classifier=sources
+- pkg:maven/org.realityforge.router.fu/router-fu-core@0.36
+- pkg:maven/org.realityforge.router.fu/router-fu-core@0.36?classifier=sources

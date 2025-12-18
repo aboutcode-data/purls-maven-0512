@@ -1,0 +1,2 @@
+- pkg:maven/icu.easyj/easyj-redis@0.2.2
+- pkg:maven/icu.easyj/easyj-redis@0.2.2?classifier=sources

@@ -44,3 +44,7 @@
 - pkg:maven/com.google.dagger/hilt-android-gradle-plugin@2.39.1
 - pkg:maven/com.google.dagger/hilt-android-gradle-plugin@2.39.1?classifier=sources
 - pkg:maven/com.google.dagger/hilt-android-gradle-plugin@2.39?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android-gradle-plugin@2.40
+- pkg:maven/com.google.dagger/hilt-android-gradle-plugin@2.40.1
+- pkg:maven/com.google.dagger/hilt-android-gradle-plugin@2.40.1?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android-gradle-plugin@2.40?classifier=sources

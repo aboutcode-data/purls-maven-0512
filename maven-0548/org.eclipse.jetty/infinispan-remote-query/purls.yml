@@ -26,6 +26,8 @@
 - pkg:maven/org.eclipse.jetty/infinispan-remote-query@10.0.5?classifier=sources
 - pkg:maven/org.eclipse.jetty/infinispan-remote-query@10.0.6
 - pkg:maven/org.eclipse.jetty/infinispan-remote-query@10.0.6?classifier=sources
+- pkg:maven/org.eclipse.jetty/infinispan-remote-query@10.0.7
+- pkg:maven/org.eclipse.jetty/infinispan-remote-query@10.0.7?classifier=sources
 - pkg:maven/org.eclipse.jetty/infinispan-remote-query@11.0.0
 - pkg:maven/org.eclipse.jetty/infinispan-remote-query@11.0.0-alpha0
 - pkg:maven/org.eclipse.jetty/infinispan-remote-query@11.0.0-alpha0?classifier=sources
@@ -48,6 +50,8 @@
 - pkg:maven/org.eclipse.jetty/infinispan-remote-query@11.0.5?classifier=sources
 - pkg:maven/org.eclipse.jetty/infinispan-remote-query@11.0.6
 - pkg:maven/org.eclipse.jetty/infinispan-remote-query@11.0.6?classifier=sources
+- pkg:maven/org.eclipse.jetty/infinispan-remote-query@11.0.7
+- pkg:maven/org.eclipse.jetty/infinispan-remote-query@11.0.7?classifier=sources
 - pkg:maven/org.eclipse.jetty/infinispan-remote-query@9.4.17.v20190418
 - pkg:maven/org.eclipse.jetty/infinispan-remote-query@9.4.17.v20190418?classifier=sources
 - pkg:maven/org.eclipse.jetty/infinispan-remote-query@9.4.18.v20190429

@@ -128,3 +128,4 @@
 - pkg:maven/com.proofpoint.platform/sample-server-archetype@2.58?classifier=sources
 - pkg:maven/com.proofpoint.platform/sample-server-archetype@2.59?classifier=sources
 - pkg:maven/com.proofpoint.platform/sample-server-archetype@2.60?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server-archetype@2.61?classifier=sources

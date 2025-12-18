@@ -1,0 +1,4 @@
+- pkg:maven/com.tagtraum/jipesfft-complete@0.9.0
+- pkg:maven/com.tagtraum/jipesfft-complete@0.9.1
+- pkg:maven/com.tagtraum/jipesfft-complete@0.9.8
+- pkg:maven/com.tagtraum/jipesfft-complete@0.9.8?classifier=sources
