@@ -1,0 +1,2 @@
+- pkg:maven/io.github.agdturner/agdt-java-UKPostcodeChecker@1.0.0
+- pkg:maven/io.github.agdturner/agdt-java-UKPostcodeChecker@1.0.0?classifier=sources

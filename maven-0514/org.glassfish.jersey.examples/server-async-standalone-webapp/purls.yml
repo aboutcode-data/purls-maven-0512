@@ -108,6 +108,8 @@
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.2?type=war
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.3.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.3.1?type=war
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.30?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.30?type=war
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.3?type=war
 - pkg:maven/org.glassfish.jersey.examples/server-async-standalone-webapp@2.4.1?classifier=sources

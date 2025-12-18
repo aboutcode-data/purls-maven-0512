@@ -4,6 +4,8 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-tests_2.13@6.7.2?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-tests_2.13@6.7.3
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-tests_2.13@6.7.3?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-tests_2.13@6.7.4
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-tests_2.13@6.7.4?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-tests_2.13@7.0.3
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-tests_2.13@7.0.3?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-tests_2.13@7.1.0

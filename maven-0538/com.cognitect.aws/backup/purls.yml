@@ -4,3 +4,7 @@
 - pkg:maven/com.cognitect.aws/backup@697.2.391.0?classifier=sources
 - pkg:maven/com.cognitect.aws/backup@746.2.533.0
 - pkg:maven/com.cognitect.aws/backup@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/backup@770.2.568.0
+- pkg:maven/com.cognitect.aws/backup@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/backup@786.2.602.0
+- pkg:maven/com.cognitect.aws/backup@786.2.602.0?classifier=sources

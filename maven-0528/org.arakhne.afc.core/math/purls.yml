@@ -9,3 +9,4 @@
 - pkg:maven/org.arakhne.afc.core/math@15.1
 - pkg:maven/org.arakhne.afc.core/math@15.2
 - pkg:maven/org.arakhne.afc.core/math@16.0
+- pkg:maven/org.arakhne.afc.core/math@17.0

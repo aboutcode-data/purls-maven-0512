@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.servertoolsbot.util/commandmanager@0.0.1
+- pkg:maven/com.gitlab.servertoolsbot.util/commandmanager@0.0.1?classifier=sources

@@ -76,3 +76,7 @@
 - pkg:maven/com.google.javascript/closure-compiler-externs@v20190909
 - pkg:maven/com.google.javascript/closure-compiler-externs@v20190929
 - pkg:maven/com.google.javascript/closure-compiler-externs@v20191027
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20191111
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20200101
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20200112
+- pkg:maven/com.google.javascript/closure-compiler-externs@v20200204

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-paperjs-paper-js@0.12.0
 - pkg:maven/org.webjars.npm/github-com-paperjs-paper-js@0.12.0?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-paperjs-paper-js@0.12.4
+- pkg:maven/org.webjars.npm/github-com-paperjs-paper-js@0.12.4?classifier=sources

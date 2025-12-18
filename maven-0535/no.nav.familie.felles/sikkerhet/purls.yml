@@ -6,3 +6,5 @@
 - pkg:maven/no.nav.familie.felles/sikkerhet@1.0_20191029223639_40f00f9?classifier=sources
 - pkg:maven/no.nav.familie.felles/sikkerhet@1.0_20191101145453_96ece0d
 - pkg:maven/no.nav.familie.felles/sikkerhet@1.0_20191101145453_96ece0d?classifier=sources
+- pkg:maven/no.nav.familie.felles/sikkerhet@1.0_20191106113227_c2ad869
+- pkg:maven/no.nav.familie.felles/sikkerhet@1.0_20191106113227_c2ad869?classifier=sources

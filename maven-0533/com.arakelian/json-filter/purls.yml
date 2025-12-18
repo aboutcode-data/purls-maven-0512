@@ -30,3 +30,7 @@
 - pkg:maven/com.arakelian/json-filter@3.1.0?classifier=sources
 - pkg:maven/com.arakelian/json-filter@3.2.0
 - pkg:maven/com.arakelian/json-filter@3.2.0?classifier=sources
+- pkg:maven/com.arakelian/json-filter@3.3.0
+- pkg:maven/com.arakelian/json-filter@3.3.0?classifier=sources
+- pkg:maven/com.arakelian/json-filter@3.3.1
+- pkg:maven/com.arakelian/json-filter@3.3.1?classifier=sources

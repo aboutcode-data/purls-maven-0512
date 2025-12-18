@@ -1,0 +1,6 @@
+- pkg:maven/io.quarkus/quarkus-universe-parent@1.0.0.CR2?classifier=source-release&type=zip
+- pkg:maven/io.quarkus/quarkus-universe-parent@1.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/io.quarkus/quarkus-universe-parent@1.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/io.quarkus/quarkus-universe-parent@1.1.0.Final?classifier=source-release&type=zip
+- pkg:maven/io.quarkus/quarkus-universe-parent@1.1.1.Final?classifier=source-release&type=zip
+- pkg:maven/io.quarkus/quarkus-universe-parent@1.2.0.Final?classifier=source-release&type=zip

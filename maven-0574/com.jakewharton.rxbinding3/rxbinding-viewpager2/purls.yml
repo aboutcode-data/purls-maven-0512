@@ -1,0 +1,2 @@
+- pkg:maven/com.jakewharton.rxbinding3/rxbinding-viewpager2@3.1.0?classifier=sources
+- pkg:maven/com.jakewharton.rxbinding3/rxbinding-viewpager2@3.1.0?type=aar

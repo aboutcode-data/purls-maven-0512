@@ -10,3 +10,5 @@
 - pkg:maven/de.rwth.swc.coffee4j/coffee4j-engine@1.0.4?classifier=sources
 - pkg:maven/de.rwth.swc.coffee4j/coffee4j-engine@1.0.5
 - pkg:maven/de.rwth.swc.coffee4j/coffee4j-engine@1.0.5?classifier=sources
+- pkg:maven/de.rwth.swc.coffee4j/coffee4j-engine@1.0.6
+- pkg:maven/de.rwth.swc.coffee4j/coffee4j-engine@1.0.6?classifier=sources

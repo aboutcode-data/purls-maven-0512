@@ -1,0 +1,2 @@
+- pkg:maven/com.github.gotham25/TurboSMTP@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.github.gotham25/TurboSMTP@1.0.1?classifier=sources

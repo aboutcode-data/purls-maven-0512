@@ -1,0 +1,2 @@
+- pkg:maven/com.gabrielittner.renderer/connect-livedata-rx@0.3.0?classifier=sources
+- pkg:maven/com.gabrielittner.renderer/connect-livedata-rx@0.3.0?type=aar

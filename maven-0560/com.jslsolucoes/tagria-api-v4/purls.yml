@@ -1,0 +1,2 @@
+- pkg:maven/com.jslsolucoes/tagria-api-v4@4.0.18
+- pkg:maven/com.jslsolucoes/tagria-api-v4@4.0.18?classifier=sources

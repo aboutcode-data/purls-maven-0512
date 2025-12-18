@@ -82,7 +82,11 @@
 - pkg:maven/org.cryptomator/cryptofs@1.8.8?classifier=sources
 - pkg:maven/org.cryptomator/cryptofs@1.8.9
 - pkg:maven/org.cryptomator/cryptofs@1.8.9?classifier=sources
+- pkg:maven/org.cryptomator/cryptofs@1.9.0
 - pkg:maven/org.cryptomator/cryptofs@1.9.0-beta2
 - pkg:maven/org.cryptomator/cryptofs@1.9.0-beta2?classifier=sources
 - pkg:maven/org.cryptomator/cryptofs@1.9.0-beta4
 - pkg:maven/org.cryptomator/cryptofs@1.9.0-beta4?classifier=sources
+- pkg:maven/org.cryptomator/cryptofs@1.9.0-rc2
+- pkg:maven/org.cryptomator/cryptofs@1.9.0-rc2?classifier=sources
+- pkg:maven/org.cryptomator/cryptofs@1.9.0?classifier=sources

@@ -1,4 +1,12 @@
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@0.9.10
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@0.9.10?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@0.9.11
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@0.9.11?classifier=sources
 - pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@0.9.7
 - pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@0.9.7?classifier=sources
 - pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@0.9.8
 - pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@0.9.8?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@0.9.9
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@0.9.9?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@2.3.0-RC1
+- pkg:maven/ch.epfl.scala/scalafix-testkit_2.12.10@2.3.0-RC1?classifier=sources

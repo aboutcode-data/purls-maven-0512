@@ -18,3 +18,7 @@
 - pkg:maven/com.github.drinkjava2/jsqlbox@2.0.6?classifier=sources
 - pkg:maven/com.github.drinkjava2/jsqlbox@3.0.0
 - pkg:maven/com.github.drinkjava2/jsqlbox@3.0.0?classifier=sources
+- pkg:maven/com.github.drinkjava2/jsqlbox@4.0.0.jre6
+- pkg:maven/com.github.drinkjava2/jsqlbox@4.0.0.jre6?classifier=sources
+- pkg:maven/com.github.drinkjava2/jsqlbox@4.0.0.jre8
+- pkg:maven/com.github.drinkjava2/jsqlbox@4.0.0.jre8?classifier=sources

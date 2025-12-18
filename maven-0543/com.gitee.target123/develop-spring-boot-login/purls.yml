@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.target123/develop-spring-boot-login@1.2.3
+- pkg:maven/com.gitee.target123/develop-spring-boot-login@1.2.3?classifier=sources
+- pkg:maven/com.gitee.target123/develop-spring-boot-login@1.2.4
+- pkg:maven/com.gitee.target123/develop-spring-boot-login@1.2.4?classifier=sources

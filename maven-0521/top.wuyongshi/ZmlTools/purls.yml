@@ -20,3 +20,5 @@
 - pkg:maven/top.wuyongshi/ZmlTools@1.0.8?classifier=sources
 - pkg:maven/top.wuyongshi/ZmlTools@1.0.9
 - pkg:maven/top.wuyongshi/ZmlTools@1.0.9?classifier=sources
+- pkg:maven/top.wuyongshi/ZmlTools@1.1.0
+- pkg:maven/top.wuyongshi/ZmlTools@1.1.0?classifier=sources

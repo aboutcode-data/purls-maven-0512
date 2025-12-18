@@ -1,0 +1,6 @@
+- pkg:maven/de.adorsys.psd2/xs2a-logger-web@5.10
+- pkg:maven/de.adorsys.psd2/xs2a-logger-web@5.10?classifier=sources
+- pkg:maven/de.adorsys.psd2/xs2a-logger-web@5.8
+- pkg:maven/de.adorsys.psd2/xs2a-logger-web@5.8?classifier=sources
+- pkg:maven/de.adorsys.psd2/xs2a-logger-web@5.9
+- pkg:maven/de.adorsys.psd2/xs2a-logger-web@5.9?classifier=sources

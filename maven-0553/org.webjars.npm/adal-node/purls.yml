@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/adal-node@0.1.28
+- pkg:maven/org.webjars.npm/adal-node@0.1.28?classifier=sources

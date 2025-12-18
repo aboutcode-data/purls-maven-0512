@@ -4,3 +4,9 @@
 - pkg:maven/com.adobe.commerce.cif/cif-virtual-catalog@0.2.0?classifier=sources
 - pkg:maven/com.adobe.commerce.cif/cif-virtual-catalog@0.6.0
 - pkg:maven/com.adobe.commerce.cif/cif-virtual-catalog@0.6.0?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/cif-virtual-catalog@0.7.0
+- pkg:maven/com.adobe.commerce.cif/cif-virtual-catalog@0.7.0?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/cif-virtual-catalog@0.7.1
+- pkg:maven/com.adobe.commerce.cif/cif-virtual-catalog@0.7.1?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/cif-virtual-catalog@0.8.0
+- pkg:maven/com.adobe.commerce.cif/cif-virtual-catalog@0.8.0?classifier=sources

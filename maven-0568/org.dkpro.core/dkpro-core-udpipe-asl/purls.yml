@@ -4,7 +4,11 @@
 - pkg:maven/org.dkpro.core/dkpro-core-udpipe-asl@1.11.0?classifier=sources
 - pkg:maven/org.dkpro.core/dkpro-core-udpipe-asl@1.11.1
 - pkg:maven/org.dkpro.core/dkpro-core-udpipe-asl@1.11.1?classifier=sources
+- pkg:maven/org.dkpro.core/dkpro-core-udpipe-asl@1.12.0
+- pkg:maven/org.dkpro.core/dkpro-core-udpipe-asl@1.12.0?classifier=sources
 - pkg:maven/org.dkpro.core/dkpro-core-udpipe-asl@1.9.3
 - pkg:maven/org.dkpro.core/dkpro-core-udpipe-asl@1.9.3?classifier=sources
 - pkg:maven/org.dkpro.core/dkpro-core-udpipe-asl@2.0.0
 - pkg:maven/org.dkpro.core/dkpro-core-udpipe-asl@2.0.0?classifier=sources
+- pkg:maven/org.dkpro.core/dkpro-core-udpipe-asl@2.1.0
+- pkg:maven/org.dkpro.core/dkpro-core-udpipe-asl@2.1.0?classifier=sources

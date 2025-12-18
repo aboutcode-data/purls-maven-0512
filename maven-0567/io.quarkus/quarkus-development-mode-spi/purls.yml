@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-development-mode-spi@1.3.0.Alpha1
+- pkg:maven/io.quarkus/quarkus-development-mode-spi@1.3.0.Alpha1?classifier=sources

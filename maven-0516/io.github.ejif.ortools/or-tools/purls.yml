@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ejif.ortools/or-tools@0.0.2
+- pkg:maven/io.github.ejif.ortools/or-tools@0.0.2?classifier=sources

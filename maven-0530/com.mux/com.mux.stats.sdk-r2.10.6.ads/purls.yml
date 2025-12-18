@@ -1,0 +1,4 @@
+- pkg:maven/com.mux/com.mux.stats.sdk-r2.10.6.ads@2.3.3?classifier=sources
+- pkg:maven/com.mux/com.mux.stats.sdk-r2.10.6.ads@2.3.3?type=aar
+- pkg:maven/com.mux/com.mux.stats.sdk-r2.10.6.ads@2.3.4?classifier=sources
+- pkg:maven/com.mux/com.mux.stats.sdk-r2.10.6.ads@2.3.4?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.12.Final
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.12.Final?classifier=sources

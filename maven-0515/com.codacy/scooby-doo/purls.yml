@@ -1,0 +1,4 @@
+- pkg:maven/com.codacy/scooby-doo@1.5.0-sbt.5476f60
+- pkg:maven/com.codacy/scooby-doo@1.5.0-sbt.5476f60?classifier=sources
+- pkg:maven/com.codacy/scooby-doo@1.5.0-sbt.d86c62e
+- pkg:maven/com.codacy/scooby-doo@1.5.0-sbt.d86c62e?classifier=sources

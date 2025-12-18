@@ -1,0 +1,6 @@
+- pkg:maven/com.labun/spring-tx@5.2.1.RELEASE.patched
+- pkg:maven/com.labun/spring-tx@5.2.1.RELEASE.patched?classifier=sources
+- pkg:maven/com.labun/spring-tx@5.2.2.RELEASE.patched
+- pkg:maven/com.labun/spring-tx@5.2.2.RELEASE.patched?classifier=sources
+- pkg:maven/com.labun/spring-tx@5.2.3.RELEASE.patched
+- pkg:maven/com.labun/spring-tx@5.2.3.RELEASE.patched?classifier=sources

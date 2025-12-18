@@ -20,3 +20,5 @@
 - pkg:maven/com.manywho.sdk/sdk-services@2.0.0-beta-08?classifier=sources
 - pkg:maven/com.manywho.sdk/sdk-services@2.0.0-beta-09
 - pkg:maven/com.manywho.sdk/sdk-services@2.0.0-beta-09?classifier=sources
+- pkg:maven/com.manywho.sdk/sdk-services@2.0.0-beta-10
+- pkg:maven/com.manywho.sdk/sdk-services@2.0.0-beta-10?classifier=sources

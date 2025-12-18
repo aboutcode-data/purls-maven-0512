@@ -49,6 +49,12 @@
 - pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.0
 - pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.0?classifier=sources
 - pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.1
+- pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.10
+- pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.10?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.11
+- pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.11?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.12
+- pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.12?classifier=sources
 - pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.1?classifier=sources
 - pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.2
 - pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.2?classifier=sources
@@ -64,6 +70,8 @@
 - pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.7?classifier=sources
 - pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.8
 - pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.8?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.9
+- pkg:maven/com.blackducksoftware.integration/phone-home-client@0.21.9?classifier=sources
 - pkg:maven/com.blackducksoftware.integration/phone-home-client@0.3.0
 - pkg:maven/com.blackducksoftware.integration/phone-home-client@0.3.0?classifier=sources
 - pkg:maven/com.blackducksoftware.integration/phone-home-client@0.4.0

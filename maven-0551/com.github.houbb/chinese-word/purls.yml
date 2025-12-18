@@ -1,0 +1,2 @@
+- pkg:maven/com.github.houbb/chinese-word@0.0.1
+- pkg:maven/com.github.houbb/chinese-word@0.0.1?classifier=sources

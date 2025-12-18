@@ -73,8 +73,12 @@
 - pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.13@1.0.0%2B35-9431cb4e?classifier=sources
 - pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.13@1.0.0%2B37-07731ef8
 - pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.13@1.0.0%2B37-07731ef8?classifier=sources
+- pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.13@1.0.0%2B39-dfddd25c
+- pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.13@1.0.0%2B39-dfddd25c?classifier=sources
 - pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.13@1.0.0%2B4-cf0f450c
 - pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.13@1.0.0%2B4-cf0f450c?classifier=sources
+- pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.13@1.0.0%2B41-2c0cd4fa
+- pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.13@1.0.0%2B41-2c0cd4fa?classifier=sources
 - pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.13@1.0.0%2B5-8fed261d
 - pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.13@1.0.0%2B5-8fed261d?classifier=sources
 - pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.13@1.0.0%2B6-b1430447

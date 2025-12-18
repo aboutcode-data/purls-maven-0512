@@ -1,0 +1,2 @@
+- pkg:maven/org.mock-server/mockserver-junit-rule@5.9.0
+- pkg:maven/org.mock-server/mockserver-junit-rule@5.9.0?classifier=sources

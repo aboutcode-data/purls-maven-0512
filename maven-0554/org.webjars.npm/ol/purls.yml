@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/ol@6.0.0-beta.3?classifier=sources
 - pkg:maven/org.webjars.npm/ol@6.1.0
 - pkg:maven/org.webjars.npm/ol@6.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/ol@6.1.1
+- pkg:maven/org.webjars.npm/ol@6.1.1?classifier=sources

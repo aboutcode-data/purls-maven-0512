@@ -22,3 +22,5 @@
 - pkg:maven/me.kingtux/tuxorm@1.3?classifier=sources
 - pkg:maven/me.kingtux/tuxorm@1.4.RC0
 - pkg:maven/me.kingtux/tuxorm@1.4.RC0?classifier=sources
+- pkg:maven/me.kingtux/tuxorm@1.4.RC1
+- pkg:maven/me.kingtux/tuxorm@1.4.RC1?classifier=sources

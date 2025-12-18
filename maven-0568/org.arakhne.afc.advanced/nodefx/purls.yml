@@ -6,3 +6,5 @@
 - pkg:maven/org.arakhne.afc.advanced/nodefx@15.2?classifier=sources
 - pkg:maven/org.arakhne.afc.advanced/nodefx@16.0
 - pkg:maven/org.arakhne.afc.advanced/nodefx@16.0?classifier=sources
+- pkg:maven/org.arakhne.afc.advanced/nodefx@17.0
+- pkg:maven/org.arakhne.afc.advanced/nodefx@17.0?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/tech.raaf/logelastic@2.8.2?classifier=sources
 - pkg:maven/tech.raaf/logelastic@3.0.0
 - pkg:maven/tech.raaf/logelastic@3.0.0?classifier=sources
+- pkg:maven/tech.raaf/logelastic@3.1.0
+- pkg:maven/tech.raaf/logelastic@3.1.0?classifier=sources
+- pkg:maven/tech.raaf/logelastic@3.1.1
+- pkg:maven/tech.raaf/logelastic@3.1.1?classifier=sources

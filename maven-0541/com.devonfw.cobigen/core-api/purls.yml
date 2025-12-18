@@ -18,3 +18,5 @@
 - pkg:maven/com.devonfw.cobigen/core-api@5.3.5?classifier=sources
 - pkg:maven/com.devonfw.cobigen/core-api@5.4.0
 - pkg:maven/com.devonfw.cobigen/core-api@5.4.0?classifier=sources
+- pkg:maven/com.devonfw.cobigen/core-api@6.0.0
+- pkg:maven/com.devonfw.cobigen/core-api@6.0.0?classifier=sources

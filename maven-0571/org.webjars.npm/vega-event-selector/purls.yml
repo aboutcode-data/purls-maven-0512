@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/vega-event-selector@2.0.0
+- pkg:maven/org.webjars.npm/vega-event-selector@2.0.0-beta
+- pkg:maven/org.webjars.npm/vega-event-selector@2.0.0-beta?classifier=sources
 - pkg:maven/org.webjars.npm/vega-event-selector@2.0.0?classifier=sources

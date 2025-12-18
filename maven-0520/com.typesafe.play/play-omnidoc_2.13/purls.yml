@@ -1,5 +1,8 @@
 - pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.7.3
 - pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.7.3?classifier=sources
+- pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.7.4
+- pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.7.4?classifier=sources
+- pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.8.0
 - pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.8.0-M2
 - pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.8.0-M2?classifier=sources
 - pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.8.0-M3
@@ -10,3 +13,10 @@
 - pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.8.0-M5?classifier=sources
 - pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.8.0-M6
 - pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.8.0-M6?classifier=sources
+- pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.8.0-RC2
+- pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.8.0-RC2?classifier=sources
+- pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.8.0-RC5
+- pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.8.0-RC5?classifier=sources
+- pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.8.0?classifier=sources
+- pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.8.1
+- pkg:maven/com.typesafe.play/play-omnidoc_2.13@2.8.1?classifier=sources

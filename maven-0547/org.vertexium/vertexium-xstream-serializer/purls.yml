@@ -148,3 +148,13 @@
 - pkg:maven/org.vertexium/vertexium-xstream-serializer@4.7.1?classifier=sources
 - pkg:maven/org.vertexium/vertexium-xstream-serializer@4.8.0
 - pkg:maven/org.vertexium/vertexium-xstream-serializer@4.8.0?classifier=sources
+- pkg:maven/org.vertexium/vertexium-xstream-serializer@4.8.1
+- pkg:maven/org.vertexium/vertexium-xstream-serializer@4.8.1?classifier=sources
+- pkg:maven/org.vertexium/vertexium-xstream-serializer@4.9.0
+- pkg:maven/org.vertexium/vertexium-xstream-serializer@4.9.0?classifier=sources
+- pkg:maven/org.vertexium/vertexium-xstream-serializer@4.9.1
+- pkg:maven/org.vertexium/vertexium-xstream-serializer@4.9.1?classifier=sources
+- pkg:maven/org.vertexium/vertexium-xstream-serializer@4.9.2
+- pkg:maven/org.vertexium/vertexium-xstream-serializer@4.9.2?classifier=sources
+- pkg:maven/org.vertexium/vertexium-xstream-serializer@4.9.3
+- pkg:maven/org.vertexium/vertexium-xstream-serializer@4.9.3?classifier=sources

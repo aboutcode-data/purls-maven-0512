@@ -1,0 +1,3 @@
+- pkg:maven/io.servicetalk/servicetalk-data-jackson-jersey@0.20.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-data-jackson-jersey@0.21.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-data-jackson-jersey@0.22.0?classifier=sources

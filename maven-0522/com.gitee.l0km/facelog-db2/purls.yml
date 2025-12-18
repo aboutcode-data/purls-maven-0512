@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.l0km/facelog-db2@2.6.0
+- pkg:maven/com.gitee.l0km/facelog-db2@2.6.0?classifier=sources

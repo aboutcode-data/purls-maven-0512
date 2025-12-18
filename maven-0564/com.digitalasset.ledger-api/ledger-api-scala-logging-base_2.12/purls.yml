@@ -1,0 +1,10 @@
+- pkg:maven/com.digitalasset.ledger-api/ledger-api-scala-logging-base_2.12@100.13.40
+- pkg:maven/com.digitalasset.ledger-api/ledger-api-scala-logging-base_2.12@100.13.40?classifier=sources
+- pkg:maven/com.digitalasset.ledger-api/ledger-api-scala-logging-base_2.12@100.13.41
+- pkg:maven/com.digitalasset.ledger-api/ledger-api-scala-logging-base_2.12@100.13.41?classifier=sources
+- pkg:maven/com.digitalasset.ledger-api/ledger-api-scala-logging-base_2.12@100.13.42
+- pkg:maven/com.digitalasset.ledger-api/ledger-api-scala-logging-base_2.12@100.13.42?classifier=sources
+- pkg:maven/com.digitalasset.ledger-api/ledger-api-scala-logging-base_2.12@100.13.43
+- pkg:maven/com.digitalasset.ledger-api/ledger-api-scala-logging-base_2.12@100.13.43?classifier=sources
+- pkg:maven/com.digitalasset.ledger-api/ledger-api-scala-logging-base_2.12@100.13.44
+- pkg:maven/com.digitalasset.ledger-api/ledger-api-scala-logging-base_2.12@100.13.44?classifier=sources

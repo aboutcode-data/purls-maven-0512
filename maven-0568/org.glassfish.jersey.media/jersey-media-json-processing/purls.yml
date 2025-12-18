@@ -107,6 +107,8 @@
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.3
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.3.1
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.3.1?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.30
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.30?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.4
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-processing@2.4.1

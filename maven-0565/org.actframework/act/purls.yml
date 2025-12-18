@@ -171,6 +171,12 @@
 - pkg:maven/org.actframework/act@1.8.29?classifier=sources
 - pkg:maven/org.actframework/act@1.8.2?classifier=sources
 - pkg:maven/org.actframework/act@1.8.3
+- pkg:maven/org.actframework/act@1.8.30
+- pkg:maven/org.actframework/act@1.8.30?classifier=sources
+- pkg:maven/org.actframework/act@1.8.30a
+- pkg:maven/org.actframework/act@1.8.30a?classifier=sources
+- pkg:maven/org.actframework/act@1.8.31
+- pkg:maven/org.actframework/act@1.8.31?classifier=sources
 - pkg:maven/org.actframework/act@1.8.3?classifier=sources
 - pkg:maven/org.actframework/act@1.8.4
 - pkg:maven/org.actframework/act@1.8.4?classifier=sources

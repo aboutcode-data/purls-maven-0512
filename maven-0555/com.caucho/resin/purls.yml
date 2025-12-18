@@ -11,3 +11,5 @@
 - pkg:maven/com.caucho/resin@4.0.61?classifier=sources
 - pkg:maven/com.caucho/resin@4.0.62
 - pkg:maven/com.caucho/resin@4.0.62?classifier=sources
+- pkg:maven/com.caucho/resin@4.0.63
+- pkg:maven/com.caucho/resin@4.0.63?classifier=sources

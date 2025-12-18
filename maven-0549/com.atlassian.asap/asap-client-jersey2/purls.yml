@@ -72,3 +72,5 @@
 - pkg:maven/com.atlassian.asap/asap-client-jersey2@2.25.0?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-client-jersey2@2.25.1
 - pkg:maven/com.atlassian.asap/asap-client-jersey2@2.25.1?classifier=sources
+- pkg:maven/com.atlassian.asap/asap-client-jersey2@2.26.0
+- pkg:maven/com.atlassian.asap/asap-client-jersey2@2.26.0?classifier=sources

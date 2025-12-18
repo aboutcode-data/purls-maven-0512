@@ -1,2 +1,4 @@
 - pkg:maven/io.yggdrash/contract-core@0.10.0-beta
 - pkg:maven/io.yggdrash/contract-core@0.10.0-beta?classifier=sources
+- pkg:maven/io.yggdrash/contract-core@0.10.2-beta
+- pkg:maven/io.yggdrash/contract-core@0.10.2-beta?classifier=sources

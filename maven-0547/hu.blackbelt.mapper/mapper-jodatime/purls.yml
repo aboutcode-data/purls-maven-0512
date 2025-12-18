@@ -1,0 +1,2 @@
+- pkg:maven/hu.blackbelt.mapper/mapper-jodatime@1.0.0
+- pkg:maven/hu.blackbelt.mapper/mapper-jodatime@1.0.0?classifier=sources

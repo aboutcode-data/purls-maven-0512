@@ -96,7 +96,11 @@
 - pkg:maven/org.jbpm/jbpm-distribution@7.26.0.Final?classifier=src&type=zip
 - pkg:maven/org.jbpm/jbpm-distribution@7.27.0.Final?classifier=src&type=zip
 - pkg:maven/org.jbpm/jbpm-distribution@7.28.0.Final?classifier=src&type=zip
+- pkg:maven/org.jbpm/jbpm-distribution@7.29.0.Final?classifier=src&type=zip
 - pkg:maven/org.jbpm/jbpm-distribution@7.3.0.Final?classifier=src&type=zip
+- pkg:maven/org.jbpm/jbpm-distribution@7.30.0.Final?classifier=src&type=zip
+- pkg:maven/org.jbpm/jbpm-distribution@7.31.0.Final?classifier=src&type=zip
+- pkg:maven/org.jbpm/jbpm-distribution@7.32.0.Final?classifier=src&type=zip
 - pkg:maven/org.jbpm/jbpm-distribution@7.4.0.Final?classifier=src&type=zip
 - pkg:maven/org.jbpm/jbpm-distribution@7.4.1.Final?classifier=src&type=zip
 - pkg:maven/org.jbpm/jbpm-distribution@7.5.0.Final?classifier=src&type=zip

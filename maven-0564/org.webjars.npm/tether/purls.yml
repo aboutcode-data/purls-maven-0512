@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.npm/tether@1.4.4?classifier=sources
 - pkg:maven/org.webjars.npm/tether@1.4.5
 - pkg:maven/org.webjars.npm/tether@1.4.5?classifier=sources
+- pkg:maven/org.webjars.npm/tether@2.0.0-beta.5
+- pkg:maven/org.webjars.npm/tether@2.0.0-beta.5?classifier=sources

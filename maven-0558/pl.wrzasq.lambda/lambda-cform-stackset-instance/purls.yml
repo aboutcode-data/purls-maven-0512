@@ -60,6 +60,8 @@
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-stackset-instance@1.0.40?classifier=sources
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-stackset-instance@1.0.41
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-stackset-instance@1.0.41?classifier=sources
+- pkg:maven/pl.wrzasq.lambda/lambda-cform-stackset-instance@1.0.42
+- pkg:maven/pl.wrzasq.lambda/lambda-cform-stackset-instance@1.0.42?classifier=sources
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-stackset-instance@1.0.5
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-stackset-instance@1.0.5?classifier=sources
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-stackset-instance@1.0.6
@@ -70,3 +72,5 @@
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-stackset-instance@1.0.8?classifier=sources
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-stackset-instance@1.0.9
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-stackset-instance@1.0.9?classifier=sources
+- pkg:maven/pl.wrzasq.lambda/lambda-cform-stackset-instance@1.1.0
+- pkg:maven/pl.wrzasq.lambda/lambda-cform-stackset-instance@1.1.0?classifier=sources

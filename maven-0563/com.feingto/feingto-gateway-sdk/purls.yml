@@ -1,2 +1,4 @@
 - pkg:maven/com.feingto/feingto-gateway-sdk@2.0
 - pkg:maven/com.feingto/feingto-gateway-sdk@2.0?classifier=sources
+- pkg:maven/com.feingto/feingto-gateway-sdk@2.3.3.RELEASE
+- pkg:maven/com.feingto/feingto-gateway-sdk@2.3.3.RELEASE?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/org.opencypher.gremlin/cypher-gremlin-server-plugin@1.0.2?classifier=sources
 - pkg:maven/org.opencypher.gremlin/cypher-gremlin-server-plugin@1.0.3
 - pkg:maven/org.opencypher.gremlin/cypher-gremlin-server-plugin@1.0.3?classifier=sources
+- pkg:maven/org.opencypher.gremlin/cypher-gremlin-server-plugin@1.0.4
+- pkg:maven/org.opencypher.gremlin/cypher-gremlin-server-plugin@1.0.4?classifier=sources

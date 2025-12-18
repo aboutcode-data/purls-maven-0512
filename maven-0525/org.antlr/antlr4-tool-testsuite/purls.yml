@@ -7,3 +7,5 @@
 - pkg:maven/org.antlr/antlr4-tool-testsuite@4.7
 - pkg:maven/org.antlr/antlr4-tool-testsuite@4.7.1
 - pkg:maven/org.antlr/antlr4-tool-testsuite@4.7.2
+- pkg:maven/org.antlr/antlr4-tool-testsuite@4.8
+- pkg:maven/org.antlr/antlr4-tool-testsuite@4.8-1

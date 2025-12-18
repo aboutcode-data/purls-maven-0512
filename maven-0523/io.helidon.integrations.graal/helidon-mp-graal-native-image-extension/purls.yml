@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.integrations.graal/helidon-mp-graal-native-image-extension@2.0.0-M1
+- pkg:maven/io.helidon.integrations.graal/helidon-mp-graal-native-image-extension@2.0.0-M1?classifier=sources

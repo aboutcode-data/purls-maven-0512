@@ -1,0 +1,2 @@
+- pkg:maven/cn.com.analysys/analysys-gradle-plugin-allgro@0.0.8
+- pkg:maven/cn.com.analysys/analysys-gradle-plugin-allgro@0.0.8?classifier=sources

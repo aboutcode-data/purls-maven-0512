@@ -10,3 +10,5 @@
 - pkg:maven/org.opencord/olt-app@1.4.1?classifier=sources
 - pkg:maven/org.opencord/olt-app@2.1.0?classifier=sources
 - pkg:maven/org.opencord/olt-app@3.0.1?classifier=sources
+- pkg:maven/org.opencord/olt-app@4.0.0?classifier=sources
+- pkg:maven/org.opencord/olt-app@4.0.1?classifier=sources

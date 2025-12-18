@@ -10,3 +10,5 @@
 - pkg:maven/com.dajudge.yabuto/test-support-junit4@0.0.20?classifier=sources
 - pkg:maven/com.dajudge.yabuto/test-support-junit4@0.0.21
 - pkg:maven/com.dajudge.yabuto/test-support-junit4@0.0.21?classifier=sources
+- pkg:maven/com.dajudge.yabuto/test-support-junit4@0.0.22
+- pkg:maven/com.dajudge.yabuto/test-support-junit4@0.0.22?classifier=sources

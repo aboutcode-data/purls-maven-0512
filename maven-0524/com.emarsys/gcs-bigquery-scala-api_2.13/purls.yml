@@ -1,0 +1,2 @@
+- pkg:maven/com.emarsys/gcs-bigquery-scala-api_2.13@6.4.0
+- pkg:maven/com.emarsys/gcs-bigquery-scala-api_2.13@6.4.0?classifier=sources

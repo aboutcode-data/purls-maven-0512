@@ -20,3 +20,9 @@
 - pkg:maven/com.cognitect.aws/iam@736.2.493.0?classifier=sources
 - pkg:maven/com.cognitect.aws/iam@746.2.533.0
 - pkg:maven/com.cognitect.aws/iam@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iam@770.2.568.0
+- pkg:maven/com.cognitect.aws/iam@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iam@773.2.575.0
+- pkg:maven/com.cognitect.aws/iam@773.2.575.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iam@788.2.609.0
+- pkg:maven/com.cognitect.aws/iam@788.2.609.0?classifier=sources

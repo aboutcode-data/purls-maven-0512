@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/nodelib__fs.walk@1.2.4
+- pkg:maven/org.webjars.npm/nodelib__fs.walk@1.2.4?classifier=sources

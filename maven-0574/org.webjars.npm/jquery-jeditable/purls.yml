@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/jquery-jeditable@2.0.14
+- pkg:maven/org.webjars.npm/jquery-jeditable@2.0.14?classifier=sources
 - pkg:maven/org.webjars.npm/jquery-jeditable@2.0.8
 - pkg:maven/org.webjars.npm/jquery-jeditable@2.0.8?classifier=sources

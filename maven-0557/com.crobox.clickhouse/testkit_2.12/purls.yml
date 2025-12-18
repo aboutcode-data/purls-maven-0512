@@ -88,3 +88,5 @@
 - pkg:maven/com.crobox.clickhouse/testkit_2.12@0.8.8?classifier=sources
 - pkg:maven/com.crobox.clickhouse/testkit_2.12@0.8.9
 - pkg:maven/com.crobox.clickhouse/testkit_2.12@0.8.9?classifier=sources
+- pkg:maven/com.crobox.clickhouse/testkit_2.12@0.9.0
+- pkg:maven/com.crobox.clickhouse/testkit_2.12@0.9.0?classifier=sources

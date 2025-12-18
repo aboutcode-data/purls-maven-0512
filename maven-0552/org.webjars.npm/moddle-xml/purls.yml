@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/moddle-xml@7.2.3?classifier=sources
 - pkg:maven/org.webjars.npm/moddle-xml@7.3.0
 - pkg:maven/org.webjars.npm/moddle-xml@7.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/moddle-xml@8.0.2
+- pkg:maven/org.webjars.npm/moddle-xml@8.0.2?classifier=sources

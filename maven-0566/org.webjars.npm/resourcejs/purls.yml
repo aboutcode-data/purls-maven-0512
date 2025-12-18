@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/resourcejs@1.37.0
+- pkg:maven/org.webjars.npm/resourcejs@1.37.0?classifier=sources

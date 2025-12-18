@@ -1,0 +1,2 @@
+- pkg:maven/com.github.AnonymousMister/druid-spring-boot-starter@1.1.18_dynamic
+- pkg:maven/com.github.AnonymousMister/druid-spring-boot-starter@1.1.18_dynamic?classifier=sources

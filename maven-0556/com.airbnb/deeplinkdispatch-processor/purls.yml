@@ -28,3 +28,5 @@
 - pkg:maven/com.airbnb/deeplinkdispatch-processor@4.0.0?classifier=sources
 - pkg:maven/com.airbnb/deeplinkdispatch-processor@4.1.0
 - pkg:maven/com.airbnb/deeplinkdispatch-processor@4.1.0?classifier=sources
+- pkg:maven/com.airbnb/deeplinkdispatch-processor@5.0.0-beta01
+- pkg:maven/com.airbnb/deeplinkdispatch-processor@5.0.0-beta01?classifier=sources

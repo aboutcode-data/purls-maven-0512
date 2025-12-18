@@ -38,3 +38,9 @@
 - pkg:maven/com.hotels/circus-train-s3-mapreduce-cp-copier@14.0.1?classifier=sources
 - pkg:maven/com.hotels/circus-train-s3-mapreduce-cp-copier@14.1.0
 - pkg:maven/com.hotels/circus-train-s3-mapreduce-cp-copier@14.1.0?classifier=sources
+- pkg:maven/com.hotels/circus-train-s3-mapreduce-cp-copier@15.0.0
+- pkg:maven/com.hotels/circus-train-s3-mapreduce-cp-copier@15.0.0?classifier=sources
+- pkg:maven/com.hotels/circus-train-s3-mapreduce-cp-copier@15.1.0
+- pkg:maven/com.hotels/circus-train-s3-mapreduce-cp-copier@15.1.0?classifier=sources
+- pkg:maven/com.hotels/circus-train-s3-mapreduce-cp-copier@15.1.1
+- pkg:maven/com.hotels/circus-train-s3-mapreduce-cp-copier@15.1.1?classifier=sources

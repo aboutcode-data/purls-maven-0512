@@ -10,3 +10,7 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-retailcloud@1.0.32
 - pkg:maven/com.aliyun/aliyun-java-sdk-retailcloud@1.0.32?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-retailcloud@1.0.3?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-retailcloud@2.0.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-retailcloud@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-retailcloud@2.0.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-retailcloud@2.0.1?classifier=sources

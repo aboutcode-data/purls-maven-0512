@@ -44,3 +44,5 @@
 - pkg:maven/com.instamojo/android-sdk@3.1.0?type=aar
 - pkg:maven/com.instamojo/android-sdk@3.2.0?classifier=sources
 - pkg:maven/com.instamojo/android-sdk@3.2.0?type=aar
+- pkg:maven/com.instamojo/android-sdk@3.3.0?classifier=sources
+- pkg:maven/com.instamojo/android-sdk@3.3.0?type=aar

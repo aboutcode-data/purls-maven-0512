@@ -16,3 +16,5 @@
 - pkg:maven/com.feingto/feingto-core@2.0?classifier=sources
 - pkg:maven/com.feingto/feingto-core@2.2.7.RELEASE
 - pkg:maven/com.feingto/feingto-core@2.2.7.RELEASE?classifier=sources
+- pkg:maven/com.feingto/feingto-core@2.3.3.RELEASE
+- pkg:maven/com.feingto/feingto-core@2.3.3.RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.gematik.ti/schema.gen.dpe@1.0.1
+- pkg:maven/de.gematik.ti/schema.gen.dpe@1.0.1?classifier=sources
