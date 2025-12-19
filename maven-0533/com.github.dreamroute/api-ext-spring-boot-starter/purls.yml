@@ -1,0 +1,4 @@
+- pkg:maven/com.github.dreamroute/api-ext-spring-boot-starter@1.0.3-RELEASE
+- pkg:maven/com.github.dreamroute/api-ext-spring-boot-starter@1.0.3-RELEASE?classifier=sources
+- pkg:maven/com.github.dreamroute/api-ext-spring-boot-starter@1.0.4-RELEASE
+- pkg:maven/com.github.dreamroute/api-ext-spring-boot-starter@1.0.4-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pulquero.halyard/halyard-webapps@3.12?classifier=sources
+- pkg:maven/io.github.pulquero.halyard/halyard-webapps@3.12?type=zip

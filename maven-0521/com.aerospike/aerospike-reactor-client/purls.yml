@@ -44,3 +44,5 @@
 - pkg:maven/com.aerospike/aerospike-reactor-client@5.1.8?classifier=sources
 - pkg:maven/com.aerospike/aerospike-reactor-client@6.1.0
 - pkg:maven/com.aerospike/aerospike-reactor-client@6.1.0?classifier=sources
+- pkg:maven/com.aerospike/aerospike-reactor-client@6.1.2
+- pkg:maven/com.aerospike/aerospike-reactor-client@6.1.2?classifier=sources

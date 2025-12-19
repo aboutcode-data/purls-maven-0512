@@ -6,3 +6,5 @@
 - pkg:maven/io.github.mbannour/ziomongo_2.13@0.0.2-MC2?classifier=sources
 - pkg:maven/io.github.mbannour/ziomongo_2.13@0.0.2-MC?classifier=sources
 - pkg:maven/io.github.mbannour/ziomongo_2.13@0.0.2?classifier=sources
+- pkg:maven/io.github.mbannour/ziomongo_2.13@0.0.3
+- pkg:maven/io.github.mbannour/ziomongo_2.13@0.0.3?classifier=sources

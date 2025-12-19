@@ -9,6 +9,8 @@
 - pkg:maven/dev.iaiabot.maze/mazeResolver@17.0?classifier=sources
 - pkg:maven/dev.iaiabot.maze/mazeResolver@18.0?classifier=sources
 - pkg:maven/dev.iaiabot.maze/mazeResolver@18.1?classifier=sources
+- pkg:maven/dev.iaiabot.maze/mazeResolver@19.0?classifier=sources
+- pkg:maven/dev.iaiabot.maze/mazeResolver@20.0?classifier=sources
 - pkg:maven/dev.iaiabot.maze/mazeResolver@3.0?classifier=sources
 - pkg:maven/dev.iaiabot.maze/mazeResolver@4.0?classifier=sources
 - pkg:maven/dev.iaiabot.maze/mazeResolver@5.0?classifier=sources

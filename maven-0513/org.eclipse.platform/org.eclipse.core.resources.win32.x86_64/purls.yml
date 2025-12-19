@@ -3,3 +3,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.resources.win32.x86_64@3.5.200
 - pkg:maven/org.eclipse.platform/org.eclipse.core.resources.win32.x86_64@3.5.300
 - pkg:maven/org.eclipse.platform/org.eclipse.core.resources.win32.x86_64@3.5.400
+- pkg:maven/org.eclipse.platform/org.eclipse.core.resources.win32.x86_64@3.5.500

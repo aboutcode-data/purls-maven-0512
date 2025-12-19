@@ -1,1 +1,2 @@
 - pkg:maven/org.fisco-bcos.java-sdk/fisco-bcos-java-sdk-v3@3.0.0-rc3-bugfix?classifier=sources
+- pkg:maven/org.fisco-bcos.java-sdk/fisco-bcos-java-sdk-v3@3.0.0?classifier=sources

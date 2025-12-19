@@ -8,6 +8,8 @@
 - pkg:maven/com.aliyun/adp20210720@1.0.7?classifier=sources
 - pkg:maven/com.aliyun/adp20210720@1.13.0
 - pkg:maven/com.aliyun/adp20210720@1.13.0?classifier=sources
+- pkg:maven/com.aliyun/adp20210720@1.14.0
+- pkg:maven/com.aliyun/adp20210720@1.14.0?classifier=sources
 - pkg:maven/com.aliyun/adp20210720@v1.0.2
 - pkg:maven/com.aliyun/adp20210720@v1.0.2?classifier=sources
 - pkg:maven/com.aliyun/adp20210720@v1.0.3

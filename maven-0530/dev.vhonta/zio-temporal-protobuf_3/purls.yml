@@ -1,0 +1,2 @@
+- pkg:maven/dev.vhonta/zio-temporal-protobuf_3@0.1.0-RC4
+- pkg:maven/dev.vhonta/zio-temporal-protobuf_3@0.1.0-RC4?classifier=sources

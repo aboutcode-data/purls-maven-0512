@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nitinb-v2solutions/ossrh-tutorial@1.0.1
+- pkg:maven/io.github.nitinb-v2solutions/ossrh-tutorial@1.0.1?classifier=sources

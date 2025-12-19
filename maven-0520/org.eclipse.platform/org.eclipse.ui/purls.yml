@@ -32,3 +32,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui@3.200.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui@3.201.0
 - pkg:maven/org.eclipse.platform/org.eclipse.ui@3.201.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui@3.201.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ui@3.201.100?classifier=sources

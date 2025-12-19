@@ -1,1 +1,2 @@
 - pkg:maven/com.aevi.print/print-api@1.1.6?classifier=sources
+- pkg:maven/com.aevi.print/print-api@1.2.0?classifier=sources

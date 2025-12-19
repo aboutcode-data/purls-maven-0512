@@ -7,3 +7,5 @@
 - pkg:maven/org.meyvn/nrepl-middleware@1.2.7
 - pkg:maven/org.meyvn/nrepl-middleware@1.2.7?classifier=sources
 - pkg:maven/org.meyvn/nrepl-middleware@1.2.8
+- pkg:maven/org.meyvn/nrepl-middleware@1.2.9
+- pkg:maven/org.meyvn/nrepl-middleware@1.2.9?classifier=sources

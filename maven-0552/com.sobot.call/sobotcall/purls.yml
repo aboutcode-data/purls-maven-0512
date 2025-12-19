@@ -4,3 +4,5 @@
 - pkg:maven/com.sobot.call/sobotcall@0.2?type=aar
 - pkg:maven/com.sobot.call/sobotcall@1.0?classifier=sources
 - pkg:maven/com.sobot.call/sobotcall@1.0?type=aar
+- pkg:maven/com.sobot.call/sobotcall@2.0.0?classifier=sources
+- pkg:maven/com.sobot.call/sobotcall@2.0?classifier=sources

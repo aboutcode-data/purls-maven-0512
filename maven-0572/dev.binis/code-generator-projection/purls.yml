@@ -1,0 +1,6 @@
+- pkg:maven/dev.binis/code-generator-projection@0.3.10
+- pkg:maven/dev.binis/code-generator-projection@0.3.10?classifier=sources
+- pkg:maven/dev.binis/code-generator-projection@0.3.8
+- pkg:maven/dev.binis/code-generator-projection@0.3.8?classifier=sources
+- pkg:maven/dev.binis/code-generator-projection@0.3.9
+- pkg:maven/dev.binis/code-generator-projection@0.3.9?classifier=sources

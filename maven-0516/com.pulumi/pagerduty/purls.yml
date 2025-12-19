@@ -1,0 +1,4 @@
+- pkg:maven/com.pulumi/pagerduty@3.5.1?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.6.0-alpha.1659605137%2Bab520cd4?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.6.0-alpha.1661919435%2Bc2308cf2?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.6.0?classifier=sources

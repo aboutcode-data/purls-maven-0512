@@ -1,0 +1,6 @@
+- pkg:maven/com.wiwiwa/spring-boot-test_3@1.11
+- pkg:maven/com.wiwiwa/spring-boot-test_3@1.11?classifier=sources
+- pkg:maven/com.wiwiwa/spring-boot-test_3@1.12
+- pkg:maven/com.wiwiwa/spring-boot-test_3@1.12?classifier=sources
+- pkg:maven/com.wiwiwa/spring-boot-test_3@1.15
+- pkg:maven/com.wiwiwa/spring-boot-test_3@1.15?classifier=sources

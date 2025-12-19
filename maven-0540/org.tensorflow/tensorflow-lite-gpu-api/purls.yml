@@ -1,0 +1,2 @@
+- pkg:maven/org.tensorflow/tensorflow-lite-gpu-api@2.10.0-rc3?type=aar
+- pkg:maven/org.tensorflow/tensorflow-lite-gpu-api@2.10.0?type=aar

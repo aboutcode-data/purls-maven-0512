@@ -114,3 +114,5 @@
 - pkg:maven/com.ibm.mfp/adapter-maven-archetype-java@8.0.2022030307?classifier=sources
 - pkg:maven/com.ibm.mfp/adapter-maven-archetype-java@8.0.2022062109
 - pkg:maven/com.ibm.mfp/adapter-maven-archetype-java@8.0.2022062109?classifier=sources
+- pkg:maven/com.ibm.mfp/adapter-maven-archetype-java@8.0.2022072713
+- pkg:maven/com.ibm.mfp/adapter-maven-archetype-java@8.0.2022072713?classifier=sources

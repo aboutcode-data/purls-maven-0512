@@ -1,0 +1,2 @@
+- pkg:maven/com.indoorvivants.detective/platform_3@0.0.2
+- pkg:maven/com.indoorvivants.detective/platform_3@0.0.2?classifier=sources

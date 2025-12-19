@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/asyncapi__specs@2.13.0?classifier=sources
 - pkg:maven/org.webjars.npm/asyncapi__specs@2.13.2
 - pkg:maven/org.webjars.npm/asyncapi__specs@2.13.2?classifier=sources
+- pkg:maven/org.webjars.npm/asyncapi__specs@2.14.0
+- pkg:maven/org.webjars.npm/asyncapi__specs@2.14.0?classifier=sources

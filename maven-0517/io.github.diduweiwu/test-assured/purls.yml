@@ -4,3 +4,7 @@
 - pkg:maven/io.github.diduweiwu/test-assured@1.1.0-REALEASE?classifier=sources
 - pkg:maven/io.github.diduweiwu/test-assured@1.1.1-REALEASE
 - pkg:maven/io.github.diduweiwu/test-assured@1.1.1-REALEASE?classifier=sources
+- pkg:maven/io.github.diduweiwu/test-assured@1.2.0-REALEASE
+- pkg:maven/io.github.diduweiwu/test-assured@1.2.0-REALEASE?classifier=sources
+- pkg:maven/io.github.diduweiwu/test-assured@1.2.1-REALEASE
+- pkg:maven/io.github.diduweiwu/test-assured@1.2.1-REALEASE?classifier=sources

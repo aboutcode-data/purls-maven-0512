@@ -3,3 +3,4 @@
 - pkg:maven/ru.mail.libnotify/libnotify-huawei@0.2.12?classifier=sources
 - pkg:maven/ru.mail.libnotify/libnotify-huawei@0.2.13?classifier=sources
 - pkg:maven/ru.mail.libnotify/libnotify-huawei@0.2.14?classifier=sources
+- pkg:maven/ru.mail.libnotify/libnotify-huawei@0.2.15?classifier=sources

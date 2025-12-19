@@ -1,0 +1,6 @@
+- pkg:maven/no.nordicsemi.android.common/permission@1.0.16?classifier=sources
+- pkg:maven/no.nordicsemi.android.common/permission@1.0.17?classifier=sources
+- pkg:maven/no.nordicsemi.android.common/permission@1.0.19?classifier=sources
+- pkg:maven/no.nordicsemi.android.common/permission@1.0.20?classifier=sources
+- pkg:maven/no.nordicsemi.android.common/permission@1.0.21?classifier=sources
+- pkg:maven/no.nordicsemi.android.common/permission@1.0.22?classifier=sources

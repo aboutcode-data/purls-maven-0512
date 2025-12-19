@@ -14,4 +14,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-jshell-agent@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-jshell-agent@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-jshell-agent@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-jshell-agent@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-jshell-agent@RELEASE90?classifier=sources

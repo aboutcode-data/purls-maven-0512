@@ -309,3 +309,5 @@
 - pkg:maven/io.fabric8/kubernetes-model@5.9.0
 - pkg:maven/io.fabric8/kubernetes-model@6.0.0
 - pkg:maven/io.fabric8/kubernetes-model@6.0.0-RC1
+- pkg:maven/io.fabric8/kubernetes-model@6.1.0
+- pkg:maven/io.fabric8/kubernetes-model@6.1.1

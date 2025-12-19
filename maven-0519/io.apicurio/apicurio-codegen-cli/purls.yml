@@ -1,0 +1,2 @@
+- pkg:maven/io.apicurio/apicurio-codegen-cli@1.0.11.Final
+- pkg:maven/io.apicurio/apicurio-codegen-cli@1.0.11.Final?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/syntaxhighlighter@3.0.90
+- pkg:maven/org.webjars.npm/syntaxhighlighter@3.0.90?classifier=sources
 - pkg:maven/org.webjars.npm/syntaxhighlighter@4.0.0
 - pkg:maven/org.webjars.npm/syntaxhighlighter@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/syntaxhighlighter@4.0.1

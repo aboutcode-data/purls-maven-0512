@@ -46,3 +46,5 @@
 - pkg:maven/it.cnr.si.sigla/sigla-ng@3.0.7?type=war
 - pkg:maven/it.cnr.si.sigla/sigla-ng@3.0.8?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-ng@3.0.8?type=war
+- pkg:maven/it.cnr.si.sigla/sigla-ng@3.0.9?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-ng@3.0.9?type=war

@@ -5,4 +5,8 @@
 - pkg:maven/com.signalfx.public/micrometer-registry-signalfx@1.8.4-splunk3
 - pkg:maven/com.signalfx.public/micrometer-registry-signalfx@1.8.4-splunk3?classifier=sources
 - pkg:maven/com.signalfx.public/micrometer-registry-signalfx@1.9.2-splunk
+- pkg:maven/com.signalfx.public/micrometer-registry-signalfx@1.9.2-splunk2
+- pkg:maven/com.signalfx.public/micrometer-registry-signalfx@1.9.2-splunk2?classifier=sources
+- pkg:maven/com.signalfx.public/micrometer-registry-signalfx@1.9.2-splunk3
+- pkg:maven/com.signalfx.public/micrometer-registry-signalfx@1.9.2-splunk3?classifier=sources
 - pkg:maven/com.signalfx.public/micrometer-registry-signalfx@1.9.2-splunk?classifier=sources

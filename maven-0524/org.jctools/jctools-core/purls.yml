@@ -32,3 +32,5 @@
 - pkg:maven/org.jctools/jctools-core@3.3.0?classifier=sources
 - pkg:maven/org.jctools/jctools-core@3.3.1-ea
 - pkg:maven/org.jctools/jctools-core@3.3.1-ea?classifier=sources
+- pkg:maven/org.jctools/jctools-core@4.0.1
+- pkg:maven/org.jctools/jctools-core@4.0.1?classifier=sources

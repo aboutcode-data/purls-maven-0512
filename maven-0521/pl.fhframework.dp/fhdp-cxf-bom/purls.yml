@@ -1,4 +1,6 @@
 - pkg:maven/pl.fhframework.dp/fhdp-cxf-bom@4.10.0
+- pkg:maven/pl.fhframework.dp/fhdp-cxf-bom@4.10.2
+- pkg:maven/pl.fhframework.dp/fhdp-cxf-bom@4.10.3
 - pkg:maven/pl.fhframework.dp/fhdp-cxf-bom@4.9.23
 - pkg:maven/pl.fhframework.dp/fhdp-cxf-bom@4.9.24
 - pkg:maven/pl.fhframework.dp/fhdp-cxf-bom@4.9.25

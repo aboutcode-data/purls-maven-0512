@@ -28,3 +28,11 @@
 - pkg:maven/io.trino/trino-plugin-reader@390?classifier=sources
 - pkg:maven/io.trino/trino-plugin-reader@391
 - pkg:maven/io.trino/trino-plugin-reader@391?classifier=sources
+- pkg:maven/io.trino/trino-plugin-reader@392
+- pkg:maven/io.trino/trino-plugin-reader@392?classifier=sources
+- pkg:maven/io.trino/trino-plugin-reader@393
+- pkg:maven/io.trino/trino-plugin-reader@393?classifier=sources
+- pkg:maven/io.trino/trino-plugin-reader@394
+- pkg:maven/io.trino/trino-plugin-reader@394?classifier=sources
+- pkg:maven/io.trino/trino-plugin-reader@395
+- pkg:maven/io.trino/trino-plugin-reader@395?classifier=sources

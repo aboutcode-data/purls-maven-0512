@@ -7,3 +7,4 @@
 - pkg:maven/com.aayushatharva.brotli4j/native-linux-aarch64@1.6.0
 - pkg:maven/com.aayushatharva.brotli4j/native-linux-aarch64@1.7.0
 - pkg:maven/com.aayushatharva.brotli4j/native-linux-aarch64@1.7.1
+- pkg:maven/com.aayushatharva.brotli4j/native-linux-aarch64@1.8.0

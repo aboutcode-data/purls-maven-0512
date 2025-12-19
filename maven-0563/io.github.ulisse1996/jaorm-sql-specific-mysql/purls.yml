@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-mysql@1.8.0
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-mysql@1.8.0?classifier=sources

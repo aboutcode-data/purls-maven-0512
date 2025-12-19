@@ -22,3 +22,4 @@
 - pkg:maven/com.xresch/cfw@5.0.0
 - pkg:maven/com.xresch/cfw@5.0.0?classifier=sources
 - pkg:maven/com.xresch/cfw@6.0.0?classifier=sources
+- pkg:maven/com.xresch/cfw@7.0.0?classifier=sources

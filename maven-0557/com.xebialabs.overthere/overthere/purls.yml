@@ -159,3 +159,5 @@
 - pkg:maven/com.xebialabs.overthere/overthere@5.3.6?classifier=sources
 - pkg:maven/com.xebialabs.overthere/overthere@5.3.7
 - pkg:maven/com.xebialabs.overthere/overthere@5.3.7?classifier=sources
+- pkg:maven/com.xebialabs.overthere/overthere@5.4.0
+- pkg:maven/com.xebialabs.overthere/overthere@5.4.0?classifier=sources

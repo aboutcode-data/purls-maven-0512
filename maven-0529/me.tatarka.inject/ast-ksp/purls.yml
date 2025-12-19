@@ -1,0 +1,2 @@
+- pkg:maven/me.tatarka.inject/ast-ksp@0.5.0?classifier=sources
+- pkg:maven/me.tatarka.inject/ast-ksp@0.5.1?classifier=sources

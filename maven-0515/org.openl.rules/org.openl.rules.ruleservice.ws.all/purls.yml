@@ -30,6 +30,8 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.25.10?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.25.11?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.25.12?type=war
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.25.13?type=war
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.25.14?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.25.1?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.25.2?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.25.3?type=war
@@ -40,3 +42,4 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.25.8?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.25.9?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.26.0?type=war
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.26.1?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/types__web-bluetooth@0.0.15
+- pkg:maven/org.webjars.npm/types__web-bluetooth@0.0.15?classifier=sources

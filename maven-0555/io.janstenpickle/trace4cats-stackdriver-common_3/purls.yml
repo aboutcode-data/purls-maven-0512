@@ -30,3 +30,5 @@
 - pkg:maven/io.janstenpickle/trace4cats-stackdriver-common_3@0.13.1%2B64-262980dd
 - pkg:maven/io.janstenpickle/trace4cats-stackdriver-common_3@0.13.1%2B64-262980dd?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-stackdriver-common_3@0.13.1?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-stackdriver-common_3@0.14.0
+- pkg:maven/io.janstenpickle/trace4cats-stackdriver-common_3@0.14.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/net.sf.aguacate.security.service.jwt/security-service-jwt-jwks@0.0.5?classifier=sources
 - pkg:maven/net.sf.aguacate.security.service.jwt/security-service-jwt-jwks@0.0.6
 - pkg:maven/net.sf.aguacate.security.service.jwt/security-service-jwt-jwks@0.0.6?classifier=sources
+- pkg:maven/net.sf.aguacate.security.service.jwt/security-service-jwt-jwks@0.0.7
+- pkg:maven/net.sf.aguacate.security.service.jwt/security-service-jwt-jwks@0.0.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.codbex.kronos/kronos-resources-neo-sdk-synchronizer@0.1.0
+- pkg:maven/com.codbex.kronos/kronos-resources-neo-sdk-synchronizer@0.1.0?classifier=sources

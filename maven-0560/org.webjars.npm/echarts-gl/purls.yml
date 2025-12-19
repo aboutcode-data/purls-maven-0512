@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/echarts-gl@1.1.1?classifier=sources
 - pkg:maven/org.webjars.npm/echarts-gl@2.0.8
 - pkg:maven/org.webjars.npm/echarts-gl@2.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/echarts-gl@2.0.9
+- pkg:maven/org.webjars.npm/echarts-gl@2.0.9?classifier=sources

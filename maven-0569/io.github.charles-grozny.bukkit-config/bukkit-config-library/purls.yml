@@ -1,0 +1,2 @@
+- pkg:maven/io.github.charles-grozny.bukkit-config/bukkit-config-library@1.0.0
+- pkg:maven/io.github.charles-grozny.bukkit-config/bukkit-config-library@1.0.0?classifier=sources

@@ -1,3 +1,7 @@
 - pkg:maven/space.game.gswallet.opensdk/libgswalletsdk@1.0.0?type=aar
 - pkg:maven/space.game.gswallet.opensdk/libgswalletsdk@1.0.1?type=aar
 - pkg:maven/space.game.gswallet.opensdk/libgswalletsdk@1.0.2?type=aar
+- pkg:maven/space.game.gswallet.opensdk/libgswalletsdk@1.1.2?type=aar
+- pkg:maven/space.game.gswallet.opensdk/libgswalletsdk@1.2.0?type=aar
+- pkg:maven/space.game.gswallet.opensdk/libgswalletsdk@1.2.1?type=aar
+- pkg:maven/space.game.gswallet.opensdk/libgswalletsdk@1.2.2?type=aar

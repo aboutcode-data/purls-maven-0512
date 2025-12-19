@@ -1,0 +1,2 @@
+- pkg:maven/me.effegi/speedy-spotless-maven-plugin@0.1.7
+- pkg:maven/me.effegi/speedy-spotless-maven-plugin@0.1.7?classifier=sources

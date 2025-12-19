@@ -9,4 +9,8 @@
 - pkg:maven/io.github.croabeast/BeansLib@1.2.4?classifier=sources
 - pkg:maven/io.github.croabeast/BeansLib@1.2.5
 - pkg:maven/io.github.croabeast/BeansLib@1.2.5?classifier=sources
+- pkg:maven/io.github.croabeast/BeansLib@1.2.7
+- pkg:maven/io.github.croabeast/BeansLib@1.2.7?classifier=sources
+- pkg:maven/io.github.croabeast/BeansLib@1.2.8
+- pkg:maven/io.github.croabeast/BeansLib@1.2.8?classifier=sources
 - pkg:maven/io.github.croabeast/BeansLib@1.2?classifier=sources

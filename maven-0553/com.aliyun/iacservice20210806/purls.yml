@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/iacservice20210806@1.0.0
+- pkg:maven/com.aliyun/iacservice20210806@1.0.0?classifier=sources

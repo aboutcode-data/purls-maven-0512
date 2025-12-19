@@ -1,0 +1,15 @@
+- pkg:maven/io.github.anylifezlb/Face-Verification@0.1.0?classifier=sources
+- pkg:maven/io.github.anylifezlb/Face-Verification@0.2.0?classifier=sources
+- pkg:maven/io.github.anylifezlb/Face-Verification@0.2.1?classifier=sources
+- pkg:maven/io.github.anylifezlb/Face-Verification@0.2.2?classifier=sources
+- pkg:maven/io.github.anylifezlb/Face-Verification@0.2.4?classifier=sources
+- pkg:maven/io.github.anylifezlb/Face-Verification@0.2.5?classifier=sources
+- pkg:maven/io.github.anylifezlb/Face-Verification@0.2.6?classifier=sources
+- pkg:maven/io.github.anylifezlb/Face-Verification@0.2.7?classifier=sources
+- pkg:maven/io.github.anylifezlb/Face-Verification@0.3.0?classifier=sources
+- pkg:maven/io.github.anylifezlb/Face-Verification@0.4.1?classifier=sources
+- pkg:maven/io.github.anylifezlb/Face-Verification@0.4.2?classifier=sources
+- pkg:maven/io.github.anylifezlb/Face-Verification@0.4.4?classifier=sources
+- pkg:maven/io.github.anylifezlb/Face-Verification@1.0.0-alpha01?classifier=sources
+- pkg:maven/io.github.anylifezlb/Face-Verification@1.0.0-alpha02?classifier=sources
+- pkg:maven/io.github.anylifezlb/Face-Verification@1.0.0-beta01?classifier=sources

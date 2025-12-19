@@ -54,3 +54,7 @@
 - pkg:maven/berlin.yuna/nats-server-junit@0.0.44?classifier=sources
 - pkg:maven/berlin.yuna/nats-server-junit@0.0.45
 - pkg:maven/berlin.yuna/nats-server-junit@0.0.45?classifier=sources
+- pkg:maven/berlin.yuna/nats-server-junit@0.0.47
+- pkg:maven/berlin.yuna/nats-server-junit@0.0.47?classifier=sources
+- pkg:maven/berlin.yuna/nats-server-junit@0.0.48
+- pkg:maven/berlin.yuna/nats-server-junit@0.0.48?classifier=sources

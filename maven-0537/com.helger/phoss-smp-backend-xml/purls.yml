@@ -62,3 +62,7 @@
 - pkg:maven/com.helger/phoss-smp-backend-xml@5.6.2?classifier=sources
 - pkg:maven/com.helger/phoss-smp-backend-xml@5.7.0
 - pkg:maven/com.helger/phoss-smp-backend-xml@5.7.0?classifier=sources
+- pkg:maven/com.helger/phoss-smp-backend-xml@5.7.1
+- pkg:maven/com.helger/phoss-smp-backend-xml@5.7.1?classifier=sources
+- pkg:maven/com.helger/phoss-smp-backend-xml@6.0.0-rc1
+- pkg:maven/com.helger/phoss-smp-backend-xml@6.0.0-rc1?classifier=sources

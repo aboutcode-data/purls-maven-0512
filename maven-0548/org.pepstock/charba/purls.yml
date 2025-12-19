@@ -79,3 +79,7 @@
 - pkg:maven/org.pepstock/charba@5.4-gwt
 - pkg:maven/org.pepstock/charba@5.4-gwt?classifier=sources
 - pkg:maven/org.pepstock/charba@5.4?classifier=sources
+- pkg:maven/org.pepstock/charba@5.5
+- pkg:maven/org.pepstock/charba@5.5-gwt
+- pkg:maven/org.pepstock/charba@5.5-gwt?classifier=sources
+- pkg:maven/org.pepstock/charba@5.5?classifier=sources

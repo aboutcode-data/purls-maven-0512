@@ -1,3 +1,7 @@
+- pkg:maven/io.github.dftrakesh/shopify-admin-rest@2022.09.05
+- pkg:maven/io.github.dftrakesh/shopify-admin-rest@2022.09.05?classifier=sources
+- pkg:maven/io.github.dftrakesh/shopify-admin-rest@2022.09.06
+- pkg:maven/io.github.dftrakesh/shopify-admin-rest@2022.09.06?classifier=sources
 - pkg:maven/io.github.dftrakesh/shopify-admin-rest@2022.10.10
 - pkg:maven/io.github.dftrakesh/shopify-admin-rest@2022.10.10?classifier=sources
 - pkg:maven/io.github.dftrakesh/shopify-admin-rest@2022.10.11
