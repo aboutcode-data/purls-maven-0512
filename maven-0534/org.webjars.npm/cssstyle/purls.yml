@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/cssstyle@1.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/cssstyle@2.3.0
 - pkg:maven/org.webjars.npm/cssstyle@2.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/cssstyle@3.0.0
+- pkg:maven/org.webjars.npm/cssstyle@3.0.0?classifier=sources

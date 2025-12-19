@@ -1,0 +1,2 @@
+- pkg:maven/com.github.davidmoten/openapi-codegen-maven-plugin@0.1-alpha-1
+- pkg:maven/com.github.davidmoten/openapi-codegen-maven-plugin@0.1-alpha-1?classifier=sources

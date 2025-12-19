@@ -4,3 +4,5 @@
 - pkg:maven/org.zalando/logbook-spring-webflux@2.15.0?classifier=sources
 - pkg:maven/org.zalando/logbook-spring-webflux@2.16.0
 - pkg:maven/org.zalando/logbook-spring-webflux@2.16.0?classifier=sources
+- pkg:maven/org.zalando/logbook-spring-webflux@3.0.0-RC.0
+- pkg:maven/org.zalando/logbook-spring-webflux@3.0.0-RC.0?classifier=sources

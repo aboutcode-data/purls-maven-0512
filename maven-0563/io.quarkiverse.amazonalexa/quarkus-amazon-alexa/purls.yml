@@ -10,3 +10,5 @@
 - pkg:maven/io.quarkiverse.amazonalexa/quarkus-amazon-alexa@1.0.4?classifier=sources
 - pkg:maven/io.quarkiverse.amazonalexa/quarkus-amazon-alexa@1.0.5
 - pkg:maven/io.quarkiverse.amazonalexa/quarkus-amazon-alexa@1.0.5?classifier=sources
+- pkg:maven/io.quarkiverse.amazonalexa/quarkus-amazon-alexa@2.0.0
+- pkg:maven/io.quarkiverse.amazonalexa/quarkus-amazon-alexa@2.0.0?classifier=sources

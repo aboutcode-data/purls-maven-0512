@@ -54,3 +54,5 @@
 - pkg:maven/com.gitlab.cdc-java.office/cdc-office-doc-html@0.29.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.office/cdc-office-doc-html@0.29.1
 - pkg:maven/com.gitlab.cdc-java.office/cdc-office-doc-html@0.29.1?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.office/cdc-office-doc-html@0.29.2
+- pkg:maven/com.gitlab.cdc-java.office/cdc-office-doc-html@0.29.2?classifier=sources

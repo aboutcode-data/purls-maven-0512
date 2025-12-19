@@ -36,3 +36,4 @@
 - pkg:maven/io.micronaut.servlet/micronaut-servlet-core@3.3.3?classifier=sources
 - pkg:maven/io.micronaut.servlet/micronaut-servlet-core@3.3.4?classifier=sources
 - pkg:maven/io.micronaut.servlet/micronaut-servlet-core@3.3.5?classifier=sources
+- pkg:maven/io.micronaut.servlet/micronaut-servlet-core@4.0.0-M1?classifier=sources

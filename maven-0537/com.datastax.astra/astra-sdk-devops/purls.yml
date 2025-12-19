@@ -2,3 +2,5 @@
 - pkg:maven/com.datastax.astra/astra-sdk-devops@0.3.5?classifier=sources
 - pkg:maven/com.datastax.astra/astra-sdk-devops@0.4
 - pkg:maven/com.datastax.astra/astra-sdk-devops@0.4?classifier=sources
+- pkg:maven/com.datastax.astra/astra-sdk-devops@0.5
+- pkg:maven/com.datastax.astra/astra-sdk-devops@0.5?classifier=sources

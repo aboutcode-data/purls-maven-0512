@@ -1,0 +1,2 @@
+- pkg:maven/travel.wink/allotz-channel-manager-ws-soap-client-java@5.0.1
+- pkg:maven/travel.wink/allotz-channel-manager-ws-soap-client-java@5.0.1?classifier=sources

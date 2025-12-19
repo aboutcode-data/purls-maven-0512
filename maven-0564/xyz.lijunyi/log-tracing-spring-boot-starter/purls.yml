@@ -1,0 +1,4 @@
+- pkg:maven/xyz.lijunyi/log-tracing-spring-boot-starter@1.0.0
+- pkg:maven/xyz.lijunyi/log-tracing-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/xyz.lijunyi/log-tracing-spring-boot-starter@1.0.1.RELEASE
+- pkg:maven/xyz.lijunyi/log-tracing-spring-boot-starter@1.0.1.RELEASE?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.aecsocket/cpu-features-java-natives-linux-x86@2.0.0?classifier=sources
+- pkg:maven/io.github.aecsocket/cpu-features-java-natives-linux-x86@2.0.1?classifier=sources

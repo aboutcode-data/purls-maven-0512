@@ -74,3 +74,5 @@
 - pkg:maven/org.zalando/logbook-okhttp2@2.8.0?classifier=sources
 - pkg:maven/org.zalando/logbook-okhttp2@2.9.0
 - pkg:maven/org.zalando/logbook-okhttp2@2.9.0?classifier=sources
+- pkg:maven/org.zalando/logbook-okhttp2@3.0.0-RC.0
+- pkg:maven/org.zalando/logbook-okhttp2@3.0.0-RC.0?classifier=sources

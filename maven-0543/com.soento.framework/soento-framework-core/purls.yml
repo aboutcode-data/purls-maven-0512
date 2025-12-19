@@ -1,0 +1,2 @@
+- pkg:maven/com.soento.framework/soento-framework-core@2023.001
+- pkg:maven/com.soento.framework/soento-framework-core@2023.001?classifier=sources

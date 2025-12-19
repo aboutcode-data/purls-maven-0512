@@ -1,0 +1,4 @@
+- pkg:maven/com.torocloud/martini-public-lib@1.0.0
+- pkg:maven/com.torocloud/martini-public-lib@1.0.0?classifier=sources
+- pkg:maven/com.torocloud/martini-public-lib@1.0.1-SNAPSHOTs
+- pkg:maven/com.torocloud/martini-public-lib@1.0.1-SNAPSHOTs?classifier=sources

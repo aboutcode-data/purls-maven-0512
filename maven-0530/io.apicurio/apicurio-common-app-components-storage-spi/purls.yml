@@ -1,0 +1,4 @@
+- pkg:maven/io.apicurio/apicurio-common-app-components-storage-spi@0.1.18.Final
+- pkg:maven/io.apicurio/apicurio-common-app-components-storage-spi@0.1.18.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-common-app-components-storage-spi@0.1.19.Final
+- pkg:maven/io.apicurio/apicurio-common-app-components-storage-spi@0.1.19.Final?classifier=sources

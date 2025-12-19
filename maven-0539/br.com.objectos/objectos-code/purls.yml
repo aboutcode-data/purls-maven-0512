@@ -12,3 +12,11 @@
 - pkg:maven/br.com.objectos/objectos-code@0.4.4?classifier=sources
 - pkg:maven/br.com.objectos/objectos-code@0.5.0
 - pkg:maven/br.com.objectos/objectos-code@0.5.0?classifier=sources
+- pkg:maven/br.com.objectos/objectos-code@0.5.1
+- pkg:maven/br.com.objectos/objectos-code@0.5.1?classifier=sources
+- pkg:maven/br.com.objectos/objectos-code@0.5.2
+- pkg:maven/br.com.objectos/objectos-code@0.5.2?classifier=sources
+- pkg:maven/br.com.objectos/objectos-code@0.5.3
+- pkg:maven/br.com.objectos/objectos-code@0.5.3?classifier=sources
+- pkg:maven/br.com.objectos/objectos-code@0.6.0
+- pkg:maven/br.com.objectos/objectos-code@0.6.0?classifier=sources

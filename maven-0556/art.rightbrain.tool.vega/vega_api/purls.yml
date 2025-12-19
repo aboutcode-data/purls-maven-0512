@@ -1,0 +1,4 @@
+- pkg:maven/art.rightbrain.tool.vega/vega_api@1.0.0
+- pkg:maven/art.rightbrain.tool.vega/vega_api@1.0.0?classifier=sources
+- pkg:maven/art.rightbrain.tool.vega/vega_api@1.0.1
+- pkg:maven/art.rightbrain.tool.vega/vega_api@1.0.1?classifier=sources

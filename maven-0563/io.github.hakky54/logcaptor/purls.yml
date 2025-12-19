@@ -56,3 +56,5 @@
 - pkg:maven/io.github.hakky54/logcaptor@2.7.9?classifier=sources
 - pkg:maven/io.github.hakky54/logcaptor@2.8.0
 - pkg:maven/io.github.hakky54/logcaptor@2.8.0?classifier=sources
+- pkg:maven/io.github.hakky54/logcaptor@2.9.0
+- pkg:maven/io.github.hakky54/logcaptor@2.9.0?classifier=sources

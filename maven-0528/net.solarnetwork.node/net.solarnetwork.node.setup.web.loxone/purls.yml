@@ -1,2 +1,4 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web.loxone@2.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web.loxone@2.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web.loxone@3.0.1
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web.loxone@3.0.1?classifier=sources

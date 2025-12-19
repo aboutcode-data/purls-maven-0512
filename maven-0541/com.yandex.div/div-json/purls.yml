@@ -13,6 +13,12 @@
 - pkg:maven/com.yandex.div/div-json@23.3.0?classifier=sources
 - pkg:maven/com.yandex.div/div-json@23.3.1?classifier=sources
 - pkg:maven/com.yandex.div/div-json@23.4.0?classifier=sources
+- pkg:maven/com.yandex.div/div-json@23.5.0?classifier=sources
+- pkg:maven/com.yandex.div/div-json@23.5.1?classifier=sources
+- pkg:maven/com.yandex.div/div-json@23.6.0?classifier=sources
+- pkg:maven/com.yandex.div/div-json@23.7.0?classifier=sources
+- pkg:maven/com.yandex.div/div-json@24.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-json@24.1.0?classifier=sources
 - pkg:maven/com.yandex.div/div-json@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-json@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-json@7.0.0?classifier=sources

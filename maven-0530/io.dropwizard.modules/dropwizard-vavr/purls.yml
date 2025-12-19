@@ -30,3 +30,7 @@
 - pkg:maven/io.dropwizard.modules/dropwizard-vavr@2.0.7-1?classifier=sources
 - pkg:maven/io.dropwizard.modules/dropwizard-vavr@2.1.0-1
 - pkg:maven/io.dropwizard.modules/dropwizard-vavr@2.1.0-1?classifier=sources
+- pkg:maven/io.dropwizard.modules/dropwizard-vavr@3.0.0-1
+- pkg:maven/io.dropwizard.modules/dropwizard-vavr@3.0.0-1?classifier=sources
+- pkg:maven/io.dropwizard.modules/dropwizard-vavr@4.0.0-1
+- pkg:maven/io.dropwizard.modules/dropwizard-vavr@4.0.0-1?classifier=sources

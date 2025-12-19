@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.ij-plugins/scala-console_3@1.7.0
+- pkg:maven/net.sf.ij-plugins/scala-console_3@1.7.0?classifier=sources
+- pkg:maven/net.sf.ij-plugins/scala-console_3@1.7.1
+- pkg:maven/net.sf.ij-plugins/scala-console_3@1.7.1?classifier=sources

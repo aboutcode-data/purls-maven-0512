@@ -160,6 +160,10 @@
 - pkg:maven/com.google.apis/google-api-services-vault@v1-rev20220423-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vault@v1-rev20230203-2.0.0
 - pkg:maven/com.google.apis/google-api-services-vault@v1-rev20230203-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-vault@v1-rev20230323-2.0.0
+- pkg:maven/com.google.apis/google-api-services-vault@v1-rev20230323-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-vault@v1-rev20230405-2.0.0
+- pkg:maven/com.google.apis/google-api-services-vault@v1-rev20230405-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vault@v1-rev23-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-vault@v1-rev23-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vault@v1-rev23-1.22.0

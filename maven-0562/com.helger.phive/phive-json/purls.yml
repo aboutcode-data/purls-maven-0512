@@ -18,3 +18,5 @@
 - pkg:maven/com.helger.phive/phive-json@7.2.4?classifier=sources
 - pkg:maven/com.helger.phive/phive-json@8.0.0
 - pkg:maven/com.helger.phive/phive-json@8.0.0?classifier=sources
+- pkg:maven/com.helger.phive/phive-json@8.0.1
+- pkg:maven/com.helger.phive/phive-json@8.0.1?classifier=sources

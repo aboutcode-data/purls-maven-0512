@@ -1,0 +1,2 @@
+- pkg:maven/io.github.eciuca.blockly/blockly-automation-starter-webmvc-ui@0.1.0
+- pkg:maven/io.github.eciuca.blockly/blockly-automation-starter-webmvc-ui@0.1.0?classifier=sources

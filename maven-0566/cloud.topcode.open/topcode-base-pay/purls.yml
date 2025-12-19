@@ -1,0 +1,4 @@
+- pkg:maven/cloud.topcode.open/topcode-base-pay@1.0.1
+- pkg:maven/cloud.topcode.open/topcode-base-pay@1.0.1.1
+- pkg:maven/cloud.topcode.open/topcode-base-pay@1.0.1.1?classifier=sources
+- pkg:maven/cloud.topcode.open/topcode-base-pay@1.0.1?classifier=sources

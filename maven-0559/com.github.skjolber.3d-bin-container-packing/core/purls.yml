@@ -54,3 +54,7 @@
 - pkg:maven/com.github.skjolber.3d-bin-container-packing/core@2.1.3?classifier=sources
 - pkg:maven/com.github.skjolber.3d-bin-container-packing/core@2.1.4
 - pkg:maven/com.github.skjolber.3d-bin-container-packing/core@2.1.4?classifier=sources
+- pkg:maven/com.github.skjolber.3d-bin-container-packing/core@3.0.0
+- pkg:maven/com.github.skjolber.3d-bin-container-packing/core@3.0.0?classifier=sources
+- pkg:maven/com.github.skjolber.3d-bin-container-packing/core@3.0.1
+- pkg:maven/com.github.skjolber.3d-bin-container-packing/core@3.0.1?classifier=sources

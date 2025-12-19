@@ -2,3 +2,5 @@
 - pkg:maven/fr.ght1pc9kc/testy-jooq-box@1.5.0?classifier=sources
 - pkg:maven/fr.ght1pc9kc/testy-jooq-box@1.6.0
 - pkg:maven/fr.ght1pc9kc/testy-jooq-box@1.6.0?classifier=sources
+- pkg:maven/fr.ght1pc9kc/testy-jooq-box@1.6.1
+- pkg:maven/fr.ght1pc9kc/testy-jooq-box@1.6.1?classifier=sources

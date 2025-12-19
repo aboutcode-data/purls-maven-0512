@@ -505,6 +505,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@4.0.32
 - pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@4.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@4.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@4.0.33
+- pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@4.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@4.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@4.0.4
@@ -580,6 +583,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@5.0.25
 - pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@5.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@5.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@5.0.26
+- pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@5.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@5.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cluster.multiple@5.0.3

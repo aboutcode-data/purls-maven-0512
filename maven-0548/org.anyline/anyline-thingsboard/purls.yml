@@ -180,3 +180,9 @@
 - pkg:maven/org.anyline/anyline-thingsboard@8.6.3-20230222?classifier=sources
 - pkg:maven/org.anyline/anyline-thingsboard@8.6.3-20230308
 - pkg:maven/org.anyline/anyline-thingsboard@8.6.3-20230308?classifier=sources
+- pkg:maven/org.anyline/anyline-thingsboard@8.6.3-20230315
+- pkg:maven/org.anyline/anyline-thingsboard@8.6.3-20230315?classifier=sources
+- pkg:maven/org.anyline/anyline-thingsboard@8.6.3-20230320
+- pkg:maven/org.anyline/anyline-thingsboard@8.6.3-20230320?classifier=sources
+- pkg:maven/org.anyline/anyline-thingsboard@8.6.3-20230325
+- pkg:maven/org.anyline/anyline-thingsboard@8.6.3-20230325?classifier=sources

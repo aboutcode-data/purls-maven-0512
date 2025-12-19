@@ -36,3 +36,5 @@
 - pkg:maven/com.fincity.nocode/kirun-java@1.4.9?classifier=sources
 - pkg:maven/com.fincity.nocode/kirun-java@1.5.0
 - pkg:maven/com.fincity.nocode/kirun-java@1.5.0?classifier=sources
+- pkg:maven/com.fincity.nocode/kirun-java@1.6.1
+- pkg:maven/com.fincity.nocode/kirun-java@1.6.1?classifier=sources

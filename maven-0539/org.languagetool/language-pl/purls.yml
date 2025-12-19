@@ -80,3 +80,5 @@
 - pkg:maven/org.languagetool/language-pl@5.9?classifier=sources
 - pkg:maven/org.languagetool/language-pl@6.0
 - pkg:maven/org.languagetool/language-pl@6.0?classifier=sources
+- pkg:maven/org.languagetool/language-pl@6.1
+- pkg:maven/org.languagetool/language-pl@6.1?classifier=sources

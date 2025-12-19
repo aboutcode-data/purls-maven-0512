@@ -60,3 +60,4 @@
 - pkg:maven/org.odpi.egeria/open-metadata-ut@3.8?classifier=sources
 - pkg:maven/org.odpi.egeria/open-metadata-ut@3.9
 - pkg:maven/org.odpi.egeria/open-metadata-ut@3.9?classifier=sources
+- pkg:maven/org.odpi.egeria/open-metadata-ut@4.0?classifier=sources

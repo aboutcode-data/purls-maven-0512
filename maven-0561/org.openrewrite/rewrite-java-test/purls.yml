@@ -6,3 +6,5 @@
 - pkg:maven/org.openrewrite/rewrite-java-test@7.37.2?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-test@7.37.3?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-test@7.38.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-test@7.39.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-test@7.39.1?classifier=sources

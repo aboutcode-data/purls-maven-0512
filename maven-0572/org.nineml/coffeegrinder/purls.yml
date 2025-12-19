@@ -39,3 +39,4 @@
 - pkg:maven/org.nineml/coffeegrinder@1.99.7?classifier=sources
 - pkg:maven/org.nineml/coffeegrinder@1.99.8?classifier=sources
 - pkg:maven/org.nineml/coffeegrinder@1.99.9?classifier=sources
+- pkg:maven/org.nineml/coffeegrinder@2.0.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/io.github.crac.org.apache.tomcat.embed/tomcat-embed-core@10.1.7
+- pkg:maven/io.github.crac.org.apache.tomcat.embed/tomcat-embed-core@10.1.7?classifier=sources
 - pkg:maven/io.github.crac.org.apache.tomcat.embed/tomcat-embed-core@8.5.75
 - pkg:maven/io.github.crac.org.apache.tomcat.embed/tomcat-embed-core@8.5.75?classifier=sources
 - pkg:maven/io.github.crac.org.apache.tomcat.embed/tomcat-embed-core@9.0.58

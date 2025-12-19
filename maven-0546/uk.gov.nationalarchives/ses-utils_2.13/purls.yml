@@ -48,3 +48,5 @@
 - pkg:maven/uk.gov.nationalarchives/ses-utils_2.13@0.1.78?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/ses-utils_2.13@0.1.79
 - pkg:maven/uk.gov.nationalarchives/ses-utils_2.13@0.1.79?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/ses-utils_2.13@0.1.80
+- pkg:maven/uk.gov.nationalarchives/ses-utils_2.13@0.1.80?classifier=sources

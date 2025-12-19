@@ -94,6 +94,7 @@
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.18.14?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.18.15?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.18.16?classifier=sources
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.18.17?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.18.1?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.18.2?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.18.3?classifier=sources
@@ -105,6 +106,7 @@
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.18.9?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.19.0-RC1?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.19.0?classifier=sources
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.19.10?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.19.1?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.19.2?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.19.3?classifier=sources
@@ -112,6 +114,8 @@
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.19.5?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.19.6?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.19.7?classifier=sources
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.19.8?classifier=sources
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.19.9?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.2.0?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.2.1?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.2.2?classifier=sources
@@ -121,9 +125,12 @@
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.20.0?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.20.1?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.20.2?classifier=sources
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.20.3?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.21.0-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.21.0-alpha.2?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.21.0-alpha.3?classifier=sources
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.21.0-alpha.4?classifier=sources
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.21.0-alpha.5?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.3.0?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.3.1?classifier=sources
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-otp@3.3.2?classifier=sources

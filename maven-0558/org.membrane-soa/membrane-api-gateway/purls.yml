@@ -1,0 +1,2 @@
+- pkg:maven/org.membrane-soa/membrane-api-gateway@5.1.0?classifier=sources
+- pkg:maven/org.membrane-soa/membrane-api-gateway@5.1.0?type=zip

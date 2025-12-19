@@ -175,3 +175,5 @@
 - pkg:maven/org.tinystruct/tinystruct@0.9.8?classifier=sources
 - pkg:maven/org.tinystruct/tinystruct@0.9.9
 - pkg:maven/org.tinystruct/tinystruct@0.9.9?classifier=sources
+- pkg:maven/org.tinystruct/tinystruct@1.0.0
+- pkg:maven/org.tinystruct/tinystruct@1.0.0?classifier=sources

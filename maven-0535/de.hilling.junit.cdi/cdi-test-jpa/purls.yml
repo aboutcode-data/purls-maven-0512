@@ -1,0 +1,2 @@
+- pkg:maven/de.hilling.junit.cdi/cdi-test-jpa@4.3.0
+- pkg:maven/de.hilling.junit.cdi/cdi-test-jpa@4.3.0?classifier=sources

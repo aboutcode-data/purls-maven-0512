@@ -25,3 +25,4 @@
 - pkg:maven/com.bluelinelabs/conductor-archlifecycle@3.1.8?classifier=sources
 - pkg:maven/com.bluelinelabs/conductor-archlifecycle@3.1.9?classifier=sources
 - pkg:maven/com.bluelinelabs/conductor-archlifecycle@3.2.0?classifier=sources
+- pkg:maven/com.bluelinelabs/conductor-archlifecycle@4.0.0-preview-1?classifier=sources

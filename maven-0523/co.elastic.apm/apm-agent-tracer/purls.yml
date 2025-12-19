@@ -1,0 +1,2 @@
+- pkg:maven/co.elastic.apm/apm-agent-tracer@1.37.0
+- pkg:maven/co.elastic.apm/apm-agent-tracer@1.37.0?classifier=sources

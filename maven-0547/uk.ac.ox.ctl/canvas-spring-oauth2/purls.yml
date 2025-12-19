@@ -4,3 +4,5 @@
 - pkg:maven/uk.ac.ox.ctl/canvas-spring-oauth2@0.3?classifier=sources
 - pkg:maven/uk.ac.ox.ctl/canvas-spring-oauth2@0.5
 - pkg:maven/uk.ac.ox.ctl/canvas-spring-oauth2@0.5?classifier=sources
+- pkg:maven/uk.ac.ox.ctl/canvas-spring-oauth2@0.6
+- pkg:maven/uk.ac.ox.ctl/canvas-spring-oauth2@0.6?classifier=sources

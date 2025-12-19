@@ -1,0 +1,2 @@
+- pkg:maven/io.github.smart-cloud/smart-cloud-starter-rate-limit@1.0.5
+- pkg:maven/io.github.smart-cloud/smart-cloud-starter-rate-limit@1.0.5?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-tests@14.0.7.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot3-starter-tests@14.0.8.Final

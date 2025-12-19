@@ -1,0 +1,2 @@
+- pkg:maven/org.elasticsearch/elasticsearch-plugin-scanner@8.7.0
+- pkg:maven/org.elasticsearch/elasticsearch-plugin-scanner@8.7.0?classifier=sources
