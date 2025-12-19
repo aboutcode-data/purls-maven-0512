@@ -1,2 +1,4 @@
 - pkg:maven/hu.blackbelt.judo.meta/hu.blackbelt.judo.meta.jsl.docs@1.0.1
 - pkg:maven/hu.blackbelt.judo.meta/hu.blackbelt.judo.meta.jsl.docs@1.0.1?classifier=sources
+- pkg:maven/hu.blackbelt.judo.meta/hu.blackbelt.judo.meta.jsl.docs@1.0.2
+- pkg:maven/hu.blackbelt.judo.meta/hu.blackbelt.judo.meta.jsl.docs@1.0.2?classifier=sources

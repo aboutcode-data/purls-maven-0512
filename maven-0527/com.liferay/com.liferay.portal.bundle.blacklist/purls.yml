@@ -62,6 +62,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist@1.1.27
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist@1.1.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist@1.1.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist@1.1.28
+- pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist@1.1.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist@1.1.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist@1.1.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist@1.1.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist@1.1.3

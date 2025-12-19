@@ -6,3 +6,5 @@
 - pkg:maven/de.flapdoodle.java8/de.flapdoodle.java8@1.1.0?classifier=sources
 - pkg:maven/de.flapdoodle.java8/de.flapdoodle.java8@1.1.1
 - pkg:maven/de.flapdoodle.java8/de.flapdoodle.java8@1.1.1?classifier=sources
+- pkg:maven/de.flapdoodle.java8/de.flapdoodle.java8@1.2.0
+- pkg:maven/de.flapdoodle.java8/de.flapdoodle.java8@1.2.0?classifier=sources

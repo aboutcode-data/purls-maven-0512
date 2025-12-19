@@ -45,3 +45,4 @@
 - pkg:maven/com.adamratzman/spotify-api-kotlin-android@3.8.6?classifier=sources
 - pkg:maven/com.adamratzman/spotify-api-kotlin-android@3.8.7?classifier=sources
 - pkg:maven/com.adamratzman/spotify-api-kotlin-android@3.8.8?classifier=sources
+- pkg:maven/com.adamratzman/spotify-api-kotlin-android@4.0.0?classifier=sources

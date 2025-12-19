@@ -12,3 +12,6 @@
 - pkg:maven/org.availlang/avail-artifact@2.0.0.alpha12?classifier=sources
 - pkg:maven/org.availlang/avail-artifact@2.0.0.alpha13?classifier=sources
 - pkg:maven/org.availlang/avail-artifact@2.0.0.alpha14?classifier=sources
+- pkg:maven/org.availlang/avail-artifact@2.0.0.alpha15?classifier=sources
+- pkg:maven/org.availlang/avail-artifact@2.0.0.alpha16?classifier=sources
+- pkg:maven/org.availlang/avail-artifact@2.0.0.alpha17?classifier=sources

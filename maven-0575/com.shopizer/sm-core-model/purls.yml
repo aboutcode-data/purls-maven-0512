@@ -30,3 +30,5 @@
 - pkg:maven/com.shopizer/sm-core-model@2.8.0?classifier=sources
 - pkg:maven/com.shopizer/sm-core-model@2.9.0
 - pkg:maven/com.shopizer/sm-core-model@2.9.0?classifier=sources
+- pkg:maven/com.shopizer/sm-core-model@3.2.3
+- pkg:maven/com.shopizer/sm-core-model@3.2.3?classifier=sources

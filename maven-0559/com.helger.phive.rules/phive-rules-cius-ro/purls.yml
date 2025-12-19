@@ -6,3 +6,5 @@
 - pkg:maven/com.helger.phive.rules/phive-rules-cius-ro@2.1.16?classifier=sources
 - pkg:maven/com.helger.phive.rules/phive-rules-cius-ro@2.1.17
 - pkg:maven/com.helger.phive.rules/phive-rules-cius-ro@2.1.17?classifier=sources
+- pkg:maven/com.helger.phive.rules/phive-rules-cius-ro@2.1.18
+- pkg:maven/com.helger.phive.rules/phive-rules-cius-ro@2.1.18?classifier=sources

@@ -5,6 +5,7 @@
 - pkg:maven/pub.ihub.lib/ihub-boot-test-spring-boot-starter@1.0.14?classifier=sources
 - pkg:maven/pub.ihub.lib/ihub-boot-test-spring-boot-starter@1.0.15?classifier=sources
 - pkg:maven/pub.ihub.lib/ihub-boot-test-spring-boot-starter@1.0.16?classifier=sources
+- pkg:maven/pub.ihub.lib/ihub-boot-test-spring-boot-starter@1.0.17?classifier=sources
 - pkg:maven/pub.ihub.lib/ihub-boot-test-spring-boot-starter@1.0.7?classifier=sources
 - pkg:maven/pub.ihub.lib/ihub-boot-test-spring-boot-starter@1.0.8?classifier=sources
 - pkg:maven/pub.ihub.lib/ihub-boot-test-spring-boot-starter@1.0.9?classifier=sources

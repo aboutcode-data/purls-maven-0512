@@ -18,6 +18,10 @@
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.16.1?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.16.2?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.16.3?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.17.0?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.17.1?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.18.0?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.19.0?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.2.0?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.2.1?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.2.2?classifier=sources
@@ -25,6 +29,10 @@
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.2.4?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.2.5?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.2.6?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.20.0?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.21.0?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.21.1?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.21.2?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.3.0?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.3.1?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@2.3.2?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-test-utils@18.2.0-pre.472-compat?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-test-utils@18.2.0-pre.472?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-test-utils@18.2.0-pre.473?classifier=sources

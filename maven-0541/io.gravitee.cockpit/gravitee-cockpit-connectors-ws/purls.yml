@@ -40,3 +40,4 @@
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@3.0.0-alpha.2?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@3.0.0-alpha.3?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@3.0.0-alpha.4?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@3.0.0?classifier=sources

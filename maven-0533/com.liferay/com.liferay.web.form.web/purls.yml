@@ -179,6 +179,12 @@
 - pkg:maven/com.liferay/com.liferay.web.form.web@1.0.70
 - pkg:maven/com.liferay/com.liferay.web.form.web@1.0.70?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@1.0.70?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.web.form.web@1.0.71
+- pkg:maven/com.liferay/com.liferay.web.form.web@1.0.71?classifier=sources
+- pkg:maven/com.liferay/com.liferay.web.form.web@1.0.71?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.web.form.web@1.0.72
+- pkg:maven/com.liferay/com.liferay.web.form.web@1.0.72?classifier=sources
+- pkg:maven/com.liferay/com.liferay.web.form.web@1.0.72?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.web.form.web@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@1.0.8
 - pkg:maven/com.liferay/com.liferay.web.form.web@1.0.8?classifier=sources
@@ -494,6 +500,9 @@
 - pkg:maven/com.liferay/com.liferay.web.form.web@4.0.32
 - pkg:maven/com.liferay/com.liferay.web.form.web@4.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@4.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.web.form.web@4.0.33
+- pkg:maven/com.liferay/com.liferay.web.form.web@4.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.web.form.web@4.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.web.form.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.web.form.web@4.0.4
@@ -551,6 +560,9 @@
 - pkg:maven/com.liferay/com.liferay.web.form.web@5.0.24
 - pkg:maven/com.liferay/com.liferay.web.form.web@5.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@5.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.web.form.web@5.0.25
+- pkg:maven/com.liferay/com.liferay.web.form.web@5.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.web.form.web@5.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.web.form.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.web.form.web@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.web.form.web@5.0.3

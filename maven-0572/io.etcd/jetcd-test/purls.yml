@@ -26,3 +26,4 @@
 - pkg:maven/io.etcd/jetcd-test@0.7.1?classifier=sources
 - pkg:maven/io.etcd/jetcd-test@0.7.2?classifier=sources
 - pkg:maven/io.etcd/jetcd-test@0.7.3?classifier=sources
+- pkg:maven/io.etcd/jetcd-test@0.7.5?classifier=sources

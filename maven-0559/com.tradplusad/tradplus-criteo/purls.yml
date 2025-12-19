@@ -108,3 +108,6 @@
 - pkg:maven/com.tradplusad/tradplus-criteo@32.8.7.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-criteo@32.8.7.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-criteo@32.8.8.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-criteo@32.8.9.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-criteo@32.8.9.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-criteo@32.9.0.0.1?type=aar

@@ -28,6 +28,7 @@
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_nekteck@1.1.22?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_nekteck@1.1.23?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_nekteck@1.1.24?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_nekteck@1.1.25?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_nekteck@1.1.2?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_nekteck@1.1.3?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_nekteck@1.1.4?type=aar

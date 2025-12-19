@@ -65,3 +65,4 @@
 - pkg:maven/org.apache.myfaces.core/myfaces-core-module@3.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-module@4.0.0-RC1?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-module@4.0.0-RC2?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.core/myfaces-core-module@4.0.0-RC3?classifier=source-release&type=zip

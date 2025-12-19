@@ -13,3 +13,6 @@
 - pkg:maven/com.liferay/com.liferay.client.extension.type.item.selector.web@1.0.4
 - pkg:maven/com.liferay/com.liferay.client.extension.type.item.selector.web@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.client.extension.type.item.selector.web@1.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.client.extension.type.item.selector.web@1.0.9
+- pkg:maven/com.liferay/com.liferay.client.extension.type.item.selector.web@1.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.client.extension.type.item.selector.web@1.0.9?classifier=sources-commercial

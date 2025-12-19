@@ -28,3 +28,5 @@
 - pkg:maven/com.envisioniot/enos-mqtt@2.2.7?classifier=sources
 - pkg:maven/com.envisioniot/enos-mqtt@2.2.9
 - pkg:maven/com.envisioniot/enos-mqtt@2.2.9?classifier=sources
+- pkg:maven/com.envisioniot/enos-mqtt@2.4.0
+- pkg:maven/com.envisioniot/enos-mqtt@2.4.0?classifier=sources

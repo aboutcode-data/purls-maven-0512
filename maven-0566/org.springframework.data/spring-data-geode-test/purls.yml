@@ -70,6 +70,8 @@
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.2.2-Q?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.2.3-Q
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.2.3-Q?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.2.4-Q
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.2.4-Q?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.3.0-RAJ
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.3.0-RAJ?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.3.1-RAJ

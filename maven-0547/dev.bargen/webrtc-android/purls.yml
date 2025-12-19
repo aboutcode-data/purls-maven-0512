@@ -1,1 +1,2 @@
 - pkg:maven/dev.bargen/webrtc-android@107.0.0?classifier=sources
+- pkg:maven/dev.bargen/webrtc-android@108.0.0?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/dev.derklaro.reflexion/native@1.5.0?classifier=sources
 - pkg:maven/dev.derklaro.reflexion/native@1.6.0?classifier=sources
 - pkg:maven/dev.derklaro.reflexion/native@1.7.0?classifier=sources
+- pkg:maven/dev.derklaro.reflexion/native@1.8.0?classifier=sources

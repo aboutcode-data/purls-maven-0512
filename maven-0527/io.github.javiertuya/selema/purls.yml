@@ -10,3 +10,7 @@
 - pkg:maven/io.github.javiertuya/selema@2.0.4?classifier=sources
 - pkg:maven/io.github.javiertuya/selema@2.1.0
 - pkg:maven/io.github.javiertuya/selema@2.1.0?classifier=sources
+- pkg:maven/io.github.javiertuya/selema@3.0.0
+- pkg:maven/io.github.javiertuya/selema@3.0.0?classifier=sources
+- pkg:maven/io.github.javiertuya/selema@3.0.1
+- pkg:maven/io.github.javiertuya/selema@3.0.1?classifier=sources

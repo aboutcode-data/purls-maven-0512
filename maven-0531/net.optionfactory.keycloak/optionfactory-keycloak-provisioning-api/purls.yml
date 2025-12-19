@@ -20,3 +20,5 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-provisioning-api@1.9?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-provisioning-api@2.0
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-provisioning-api@2.0?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-provisioning-api@2.1
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-provisioning-api@2.1?classifier=sources

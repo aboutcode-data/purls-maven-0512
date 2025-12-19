@@ -1,0 +1,2 @@
+- pkg:maven/io.github.esafirm.uibook/annotations-processor-jvm@0.1.0?classifier=sources
+- pkg:maven/io.github.esafirm.uibook/annotations-processor-jvm@1.1.0-RC2?classifier=sources

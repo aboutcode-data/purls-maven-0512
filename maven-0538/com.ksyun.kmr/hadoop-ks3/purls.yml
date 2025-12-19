@@ -1,0 +1,2 @@
+- pkg:maven/com.ksyun.kmr/hadoop-ks3@3.1.1-1.1.2
+- pkg:maven/com.ksyun.kmr/hadoop-ks3@3.1.1-1.1.2?classifier=sources

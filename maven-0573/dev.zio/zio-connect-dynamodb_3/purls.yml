@@ -1,0 +1,2 @@
+- pkg:maven/dev.zio/zio-connect-dynamodb_3@0.4.4
+- pkg:maven/dev.zio/zio-connect-dynamodb_3@0.4.4?classifier=sources

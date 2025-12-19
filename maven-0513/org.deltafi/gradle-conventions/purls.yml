@@ -1,0 +1,5 @@
+- pkg:maven/org.deltafi/gradle-conventions@0.9.99?classifier=sources
+- pkg:maven/org.deltafi/gradle-conventions@0.99.5?classifier=sources
+- pkg:maven/org.deltafi/gradle-conventions@0.99.6?classifier=sources
+- pkg:maven/org.deltafi/gradle-conventions@0.99.7?classifier=sources
+- pkg:maven/org.deltafi/gradle-conventions@0.99.8?classifier=sources

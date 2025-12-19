@@ -1,2 +1,4 @@
 - pkg:maven/io.github.ulisse1996/jaorm-cdi-javax-extension@1.10.0
 - pkg:maven/io.github.ulisse1996/jaorm-cdi-javax-extension@1.10.0?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-cdi-javax-extension@2.0.0-RC1
+- pkg:maven/io.github.ulisse1996/jaorm-cdi-javax-extension@2.0.0-RC1?classifier=sources

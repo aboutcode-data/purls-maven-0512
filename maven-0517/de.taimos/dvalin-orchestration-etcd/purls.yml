@@ -42,3 +42,5 @@
 - pkg:maven/de.taimos/dvalin-orchestration-etcd@1.31?classifier=sources
 - pkg:maven/de.taimos/dvalin-orchestration-etcd@1.32
 - pkg:maven/de.taimos/dvalin-orchestration-etcd@1.32?classifier=sources
+- pkg:maven/de.taimos/dvalin-orchestration-etcd@1.33
+- pkg:maven/de.taimos/dvalin-orchestration-etcd@1.33?classifier=sources

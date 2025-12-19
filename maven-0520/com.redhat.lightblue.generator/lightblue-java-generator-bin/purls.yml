@@ -16,3 +16,5 @@
 - pkg:maven/com.redhat.lightblue.generator/lightblue-java-generator-bin@0.1.7?classifier=sources
 - pkg:maven/com.redhat.lightblue.generator/lightblue-java-generator-bin@0.1.8
 - pkg:maven/com.redhat.lightblue.generator/lightblue-java-generator-bin@0.1.8?classifier=sources
+- pkg:maven/com.redhat.lightblue.generator/lightblue-java-generator-bin@0.1.9
+- pkg:maven/com.redhat.lightblue.generator/lightblue-java-generator-bin@0.1.9?classifier=sources

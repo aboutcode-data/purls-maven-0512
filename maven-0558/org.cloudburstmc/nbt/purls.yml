@@ -1,1 +1,2 @@
 - pkg:maven/org.cloudburstmc/nbt@3.0.0.Final?classifier=sources
+- pkg:maven/org.cloudburstmc/nbt@3.0.1.Final?classifier=sources

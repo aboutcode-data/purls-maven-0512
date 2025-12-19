@@ -143,3 +143,4 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.57.3?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.58.0?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.58.1?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.59.0?classifier=sources

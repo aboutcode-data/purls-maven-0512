@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.eonasdan/tempus-dominus@6.0.0-beta2
 - pkg:maven/org.webjars.bowergithub.eonasdan/tempus-dominus@6.0.0-beta2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.eonasdan/tempus-dominus@6.2.10
+- pkg:maven/org.webjars.bowergithub.eonasdan/tempus-dominus@6.2.10?classifier=sources

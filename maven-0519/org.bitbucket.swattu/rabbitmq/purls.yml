@@ -111,3 +111,4 @@
 - pkg:maven/org.bitbucket.swattu/rabbitmq@4.2.3
 - pkg:maven/org.bitbucket.swattu/rabbitmq@4.2.4
 - pkg:maven/org.bitbucket.swattu/rabbitmq@4.2.5
+- pkg:maven/org.bitbucket.swattu/rabbitmq@5.0.0

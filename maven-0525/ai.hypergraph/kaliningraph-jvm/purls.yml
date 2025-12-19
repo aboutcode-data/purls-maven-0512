@@ -1,1 +1,2 @@
 - pkg:maven/ai.hypergraph/kaliningraph-jvm@0.1.9?classifier=sources
+- pkg:maven/ai.hypergraph/kaliningraph-jvm@0.2.1?classifier=sources

@@ -1,1 +1,4 @@
+- pkg:maven/br.com.zup.nimbus/nimbus-core-jvm@1.0.0-alpha10?classifier=sources
+- pkg:maven/br.com.zup.nimbus/nimbus-core-jvm@1.0.0-alpha11?classifier=sources
+- pkg:maven/br.com.zup.nimbus/nimbus-core-jvm@1.0.0-alpha12?classifier=sources
 - pkg:maven/br.com.zup.nimbus/nimbus-core-jvm@1.0.0-alpha9?classifier=sources

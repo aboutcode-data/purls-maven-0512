@@ -64,3 +64,5 @@
 - pkg:maven/com.cognitect.aws/workspaces@825.2.1233.0?classifier=sources
 - pkg:maven/com.cognitect.aws/workspaces@825.2.1250.0
 - pkg:maven/com.cognitect.aws/workspaces@825.2.1250.0?classifier=sources
+- pkg:maven/com.cognitect.aws/workspaces@825.2.1262.0
+- pkg:maven/com.cognitect.aws/workspaces@825.2.1262.0?classifier=sources

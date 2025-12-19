@@ -10,3 +10,7 @@
 - pkg:maven/org.faktorips/faktorips-dtfl-common@22.12.0?classifier=sources
 - pkg:maven/org.faktorips/faktorips-dtfl-common@22.12.1.release
 - pkg:maven/org.faktorips/faktorips-dtfl-common@22.12.1.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-dtfl-common@22.12.2.release
+- pkg:maven/org.faktorips/faktorips-dtfl-common@22.12.2.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-dtfl-common@23.1.0.a20230109-01
+- pkg:maven/org.faktorips/faktorips-dtfl-common@23.1.0.a20230109-01?classifier=sources

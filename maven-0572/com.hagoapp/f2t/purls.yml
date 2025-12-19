@@ -24,3 +24,5 @@
 - pkg:maven/com.hagoapp/f2t@0.7.4.2
 - pkg:maven/com.hagoapp/f2t@0.7.4.2?classifier=sources
 - pkg:maven/com.hagoapp/f2t@0.7.4?classifier=sources
+- pkg:maven/com.hagoapp/f2t@0.7.5
+- pkg:maven/com.hagoapp/f2t@0.7.5?classifier=sources

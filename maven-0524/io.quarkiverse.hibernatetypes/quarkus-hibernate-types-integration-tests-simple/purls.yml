@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.hibernatetypes/quarkus-hibernate-types-integration-tests-simple@1.0.0
+- pkg:maven/io.quarkiverse.hibernatetypes/quarkus-hibernate-types-integration-tests-simple@1.0.0?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/software.amazon.smithy/smithy-rules-engine@1.26.2?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-rules-engine@1.26.3?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-rules-engine@1.26.4?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-rules-engine@1.27.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.http4s/http4s-twirl_3@0.24.0-M1
+- pkg:maven/org.http4s/http4s-twirl_3@0.24.0-M1?classifier=sources
+- pkg:maven/org.http4s/http4s-twirl_3@1.0.0-M38
+- pkg:maven/org.http4s/http4s-twirl_3@1.0.0-M38?classifier=sources

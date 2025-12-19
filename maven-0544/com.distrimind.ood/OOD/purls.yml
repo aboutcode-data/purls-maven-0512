@@ -3,3 +3,5 @@
 - pkg:maven/com.distrimind.ood/OOD@3.1.24-STABLE?classifier=sources
 - pkg:maven/com.distrimind.ood/OOD@3.1.25-STABLE?classifier=sources
 - pkg:maven/com.distrimind.ood/OOD@3.1.26-STABLE?classifier=sources
+- pkg:maven/com.distrimind.ood/OOD@3.2.0-STABLE?classifier=sources
+- pkg:maven/com.distrimind.ood/OOD@3.2.1-STABLE?classifier=sources

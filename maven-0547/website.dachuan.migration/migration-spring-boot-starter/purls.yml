@@ -1,0 +1,2 @@
+- pkg:maven/website.dachuan.migration/migration-spring-boot-starter@1.0.1
+- pkg:maven/website.dachuan.migration/migration-spring-boot-starter@1.0.1?classifier=sources

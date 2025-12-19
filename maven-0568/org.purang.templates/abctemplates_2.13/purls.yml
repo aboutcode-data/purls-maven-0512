@@ -1,0 +1,2 @@
+- pkg:maven/org.purang.templates/abctemplates_2.13@3.2.1
+- pkg:maven/org.purang.templates/abctemplates_2.13@3.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.pighand/pighand-framework-spring@1.0.0
+- pkg:maven/com.pighand/pighand-framework-spring@1.0.0?classifier=sources

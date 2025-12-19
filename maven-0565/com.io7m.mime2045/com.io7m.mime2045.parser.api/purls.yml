@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.mime2045/com.io7m.mime2045.parser.api@0.0.1
+- pkg:maven/com.io7m.mime2045/com.io7m.mime2045.parser.api@0.0.1?classifier=sources

@@ -15,4 +15,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-multiview@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-multiview@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-multiview@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-multiview@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-multiview@RELEASE90?classifier=sources

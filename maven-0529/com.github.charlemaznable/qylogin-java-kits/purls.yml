@@ -124,3 +124,7 @@
 - pkg:maven/com.github.charlemaznable/qylogin-java-kits@0.9.2?classifier=sources
 - pkg:maven/com.github.charlemaznable/qylogin-java-kits@2022.0.0
 - pkg:maven/com.github.charlemaznable/qylogin-java-kits@2022.0.0?classifier=sources
+- pkg:maven/com.github.charlemaznable/qylogin-java-kits@2022.0.1
+- pkg:maven/com.github.charlemaznable/qylogin-java-kits@2022.0.1?classifier=sources
+- pkg:maven/com.github.charlemaznable/qylogin-java-kits@2022.0.2
+- pkg:maven/com.github.charlemaznable/qylogin-java-kits@2022.0.2?classifier=sources

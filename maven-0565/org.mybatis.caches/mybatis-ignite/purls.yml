@@ -16,3 +16,4 @@
 - pkg:maven/org.mybatis.caches/mybatis-ignite@1.0.6?classifier=sources
 - pkg:maven/org.mybatis.caches/mybatis-ignite@1.1.0
 - pkg:maven/org.mybatis.caches/mybatis-ignite@1.1.0?classifier=sources
+- pkg:maven/org.mybatis.caches/mybatis-ignite@1.1.1?classifier=sources

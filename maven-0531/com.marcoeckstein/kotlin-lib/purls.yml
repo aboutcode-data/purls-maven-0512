@@ -1,1 +1,2 @@
 - pkg:maven/com.marcoeckstein/kotlin-lib@0.0.3?classifier=sources
+- pkg:maven/com.marcoeckstein/kotlin-lib@0.0.4-RC3?classifier=sources

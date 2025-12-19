@@ -13,6 +13,8 @@
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M14?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M15
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M15?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M16
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M16?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M2
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M2?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M3

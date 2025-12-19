@@ -5,6 +5,10 @@
 - pkg:maven/com.yandex.div/div-json@14.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-json@15.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-json@16.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-json@17.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-json@18.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-json@19.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-json@20.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-json@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-json@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-json@7.0.0?classifier=sources

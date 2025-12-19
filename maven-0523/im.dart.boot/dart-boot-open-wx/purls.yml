@@ -1,0 +1,2 @@
+- pkg:maven/im.dart.boot/dart-boot-open-wx@1.0.0
+- pkg:maven/im.dart.boot/dart-boot-open-wx@1.0.0?classifier=sources

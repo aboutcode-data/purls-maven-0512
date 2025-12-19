@@ -18,6 +18,9 @@
 - pkg:maven/kiwi.orbit.compose/illustrations@0.20.1?classifier=sources
 - pkg:maven/kiwi.orbit.compose/illustrations@0.21.0?classifier=sources
 - pkg:maven/kiwi.orbit.compose/illustrations@0.22.0?classifier=sources
+- pkg:maven/kiwi.orbit.compose/illustrations@0.23.0?classifier=sources
+- pkg:maven/kiwi.orbit.compose/illustrations@0.23.1?classifier=sources
+- pkg:maven/kiwi.orbit.compose/illustrations@0.23.2?classifier=sources
 - pkg:maven/kiwi.orbit.compose/illustrations@0.3.0?classifier=sources
 - pkg:maven/kiwi.orbit.compose/illustrations@0.4.0?classifier=sources
 - pkg:maven/kiwi.orbit.compose/illustrations@0.5.0?classifier=sources

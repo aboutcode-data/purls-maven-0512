@@ -90,3 +90,7 @@
 - pkg:maven/org.tkit.rhpam/tkit-quarkus-rhpam-client@1.6.0?classifier=sources
 - pkg:maven/org.tkit.rhpam/tkit-quarkus-rhpam-client@2.0.0
 - pkg:maven/org.tkit.rhpam/tkit-quarkus-rhpam-client@2.0.0?classifier=sources
+- pkg:maven/org.tkit.rhpam/tkit-quarkus-rhpam-client@2.1.0
+- pkg:maven/org.tkit.rhpam/tkit-quarkus-rhpam-client@2.1.0?classifier=sources
+- pkg:maven/org.tkit.rhpam/tkit-quarkus-rhpam-client@2.2.0
+- pkg:maven/org.tkit.rhpam/tkit-quarkus-rhpam-client@2.2.0?classifier=sources

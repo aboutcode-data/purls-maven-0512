@@ -1,0 +1,2 @@
+- pkg:maven/com.kongzue.stacklabel/StackLabel@1.1.9?classifier=sources
+- pkg:maven/com.kongzue.stacklabel/StackLabel@1.2.0?classifier=sources

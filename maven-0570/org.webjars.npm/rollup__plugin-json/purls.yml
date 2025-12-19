@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/rollup__plugin-json@5.0.2
+- pkg:maven/org.webjars.npm/rollup__plugin-json@5.0.2?classifier=sources

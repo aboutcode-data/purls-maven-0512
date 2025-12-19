@@ -719,6 +719,9 @@
 - pkg:maven/com.liferay/com.liferay.login.web@6.0.34
 - pkg:maven/com.liferay/com.liferay.login.web@6.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.login.web@6.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.login.web@6.0.35
+- pkg:maven/com.liferay/com.liferay.login.web@6.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.login.web@6.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.login.web@6.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.login.web@6.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.login.web@6.0.4

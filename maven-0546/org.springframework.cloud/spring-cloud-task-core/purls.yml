@@ -78,3 +78,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-task-core@2.4.4?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-task-core@2.4.5
 - pkg:maven/org.springframework.cloud/spring-cloud-task-core@2.4.5?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-task-core@3.0.0
+- pkg:maven/org.springframework.cloud/spring-cloud-task-core@3.0.0?classifier=sources

@@ -75,6 +75,8 @@
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.21.32?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.21.33
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.21.33?classifier=sources
+- pkg:maven/org.http4s/http4s-blaze-client_2.13@0.21.34
+- pkg:maven/org.http4s/http4s-blaze-client_2.13@0.21.34?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.21.3?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.21.4
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.21.4?classifier=sources
@@ -127,6 +129,8 @@
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.22.13?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.22.14
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.22.14?classifier=sources
+- pkg:maven/org.http4s/http4s-blaze-client_2.13@0.22.15
+- pkg:maven/org.http4s/http4s-blaze-client_2.13@0.22.15?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.22.1?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.22.2
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.22.2?classifier=sources
@@ -157,6 +161,8 @@
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.23.11?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.23.12
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.23.12?classifier=sources
+- pkg:maven/org.http4s/http4s-blaze-client_2.13@0.23.13
+- pkg:maven/org.http4s/http4s-blaze-client_2.13@0.23.13?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.23.1?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.23.2
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@0.23.2?classifier=sources
@@ -271,6 +277,10 @@
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@1.0.0-M35?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@1.0.0-M36
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@1.0.0-M36?classifier=sources
+- pkg:maven/org.http4s/http4s-blaze-client_2.13@1.0.0-M37
+- pkg:maven/org.http4s/http4s-blaze-client_2.13@1.0.0-M37?classifier=sources
+- pkg:maven/org.http4s/http4s-blaze-client_2.13@1.0.0-M38
+- pkg:maven/org.http4s/http4s-blaze-client_2.13@1.0.0-M38?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@1.0.0-M3?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@1.0.0-M4
 - pkg:maven/org.http4s/http4s-blaze-client_2.13@1.0.0-M4?classifier=sources

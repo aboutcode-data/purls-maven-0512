@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sabomichal/avro-compiler-extension@0.1
+- pkg:maven/com.github.sabomichal/avro-compiler-extension@0.1?classifier=sources
