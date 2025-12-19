@@ -1,2 +1,8 @@
 - pkg:maven/dev.vality/cds-proto@1.66-01353ce
 - pkg:maven/dev.vality/cds-proto@1.66-01353ce?classifier=sources
+- pkg:maven/dev.vality/cds-proto@1.69-6bfe701
+- pkg:maven/dev.vality/cds-proto@1.69-6bfe701?classifier=sources
+- pkg:maven/dev.vality/cds-proto@1.70-5227377
+- pkg:maven/dev.vality/cds-proto@1.70-5227377?classifier=sources
+- pkg:maven/dev.vality/cds-proto@1.71-b3db02c
+- pkg:maven/dev.vality/cds-proto@1.71-b3db02c?classifier=sources

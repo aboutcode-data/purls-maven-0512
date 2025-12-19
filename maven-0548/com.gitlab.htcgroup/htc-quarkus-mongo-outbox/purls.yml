@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.htcgroup/htc-quarkus-mongo-outbox@0.0.1?classifier=sources
+- pkg:maven/com.gitlab.htcgroup/htc-quarkus-mongo-outbox@0.0.2?classifier=sources

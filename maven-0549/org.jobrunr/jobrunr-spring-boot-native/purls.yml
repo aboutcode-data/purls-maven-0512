@@ -12,3 +12,4 @@
 - pkg:maven/org.jobrunr/jobrunr-spring-boot-native@5.2.0-RC1?classifier=sources
 - pkg:maven/org.jobrunr/jobrunr-spring-boot-native@5.2.0?classifier=sources
 - pkg:maven/org.jobrunr/jobrunr-spring-boot-native@5.3.0?classifier=sources
+- pkg:maven/org.jobrunr/jobrunr-spring-boot-native@5.3.1?classifier=sources

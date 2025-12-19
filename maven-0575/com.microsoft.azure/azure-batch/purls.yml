@@ -12,6 +12,7 @@
 - pkg:maven/com.microsoft.azure/azure-batch@1.0.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-batch@10.0.0
 - pkg:maven/com.microsoft.azure/azure-batch@10.0.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-batch@10.1.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-batch@2.0.0
 - pkg:maven/com.microsoft.azure/azure-batch@2.0.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-batch@2.1.0

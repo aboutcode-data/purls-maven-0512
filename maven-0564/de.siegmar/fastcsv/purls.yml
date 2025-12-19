@@ -9,3 +9,4 @@
 - pkg:maven/de.siegmar/fastcsv@2.0.0?classifier=sources
 - pkg:maven/de.siegmar/fastcsv@2.1.0?classifier=sources
 - pkg:maven/de.siegmar/fastcsv@2.2.0?classifier=sources
+- pkg:maven/de.siegmar/fastcsv@2.2.1?classifier=sources

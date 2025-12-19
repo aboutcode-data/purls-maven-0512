@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.nifi/nifi-snowflake-services-api-nar@1.19.0?classifier=sources

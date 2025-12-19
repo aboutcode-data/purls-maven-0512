@@ -10,3 +10,5 @@
 - pkg:maven/net.sf.jsqlx/jsqlx@1.7.1?classifier=sources
 - pkg:maven/net.sf.jsqlx/jsqlx@2.0.0
 - pkg:maven/net.sf.jsqlx/jsqlx@2.0.0?classifier=sources
+- pkg:maven/net.sf.jsqlx/jsqlx@2.0.1
+- pkg:maven/net.sf.jsqlx/jsqlx@2.0.1?classifier=sources

@@ -29,3 +29,6 @@
 - pkg:maven/no.priv.bang.oldalbum/docker@1.8.3
 - pkg:maven/no.priv.bang.oldalbum/docker@1.8.4
 - pkg:maven/no.priv.bang.oldalbum/docker@1.8.5
+- pkg:maven/no.priv.bang.oldalbum/docker@1.8.6
+- pkg:maven/no.priv.bang.oldalbum/docker@1.9.0
+- pkg:maven/no.priv.bang.oldalbum/docker@1.9.1

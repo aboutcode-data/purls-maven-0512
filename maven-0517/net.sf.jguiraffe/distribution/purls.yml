@@ -1,2 +1,4 @@
+- pkg:maven/net.sf.jguiraffe/distribution@1.4.1?classifier=src&type=tar.gz
+- pkg:maven/net.sf.jguiraffe/distribution@1.4.1?classifier=src&type=zip
 - pkg:maven/net.sf.jguiraffe/distribution@1.4?classifier=src&type=tar.gz
 - pkg:maven/net.sf.jguiraffe/distribution@1.4?classifier=src&type=zip

@@ -30,3 +30,13 @@
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@2.4.9?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@2.5.0?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@2.5.1?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@2.5.2?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@2.5.3?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@2.5.4?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@2.5.5?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@2.5.6?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@2.6.0?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@3.0.0-alpha.1?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@3.0.0-alpha.2?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@3.0.0-alpha.3?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@3.0.0-alpha.4?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/io.github.elf4j/elf4j-logback@1.0.0
+- pkg:maven/io.github.elf4j/elf4j-logback@1.0.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-logback@2.0.0
+- pkg:maven/io.github.elf4j/elf4j-logback@2.0.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-logback@3.0.0
+- pkg:maven/io.github.elf4j/elf4j-logback@3.0.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-logback@4.0.0
+- pkg:maven/io.github.elf4j/elf4j-logback@4.0.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-logback@4.1.0
+- pkg:maven/io.github.elf4j/elf4j-logback@4.1.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-logback@4.2.0
+- pkg:maven/io.github.elf4j/elf4j-logback@4.2.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-logback@5.0.0
+- pkg:maven/io.github.elf4j/elf4j-logback@5.0.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-logback@6.0.0
+- pkg:maven/io.github.elf4j/elf4j-logback@6.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.net128.oss.web.app/web-modules-app-web-shell@0.2.0?classifier=sources
+- pkg:maven/com.net128.oss.web.app/web-modules-app-web-shell@0.2.1?classifier=sources

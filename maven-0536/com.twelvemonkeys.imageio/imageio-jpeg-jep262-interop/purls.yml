@@ -2,3 +2,7 @@
 - pkg:maven/com.twelvemonkeys.imageio/imageio-jpeg-jep262-interop@3.8.2
 - pkg:maven/com.twelvemonkeys.imageio/imageio-jpeg-jep262-interop@3.8.3
 - pkg:maven/com.twelvemonkeys.imageio/imageio-jpeg-jep262-interop@3.9.0
+- pkg:maven/com.twelvemonkeys.imageio/imageio-jpeg-jep262-interop@3.9.1
+- pkg:maven/com.twelvemonkeys.imageio/imageio-jpeg-jep262-interop@3.9.2
+- pkg:maven/com.twelvemonkeys.imageio/imageio-jpeg-jep262-interop@3.9.3
+- pkg:maven/com.twelvemonkeys.imageio/imageio-jpeg-jep262-interop@3.9.4

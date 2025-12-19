@@ -4,3 +4,5 @@
 - pkg:maven/int.esa.ccsds.mo/API_COMMON@1.0-RC2?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/API_COMMON@8.0
 - pkg:maven/int.esa.ccsds.mo/API_COMMON@8.0?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/API_COMMON@8.1
+- pkg:maven/int.esa.ccsds.mo/API_COMMON@8.1?classifier=sources

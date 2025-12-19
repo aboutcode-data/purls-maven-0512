@@ -4,3 +4,4 @@
 - pkg:maven/io.gravitee.gateway.services/gravitee-kubernetes-controller@0.2.2?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-kubernetes-controller@0.3.0?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-kubernetes-controller@0.4.0?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-kubernetes-controller@1.0.0-alpha.1?classifier=sources

@@ -39,4 +39,5 @@
 - pkg:maven/com.myadsget/san-ex-sdk@3.11.6?classifier=sources
 - pkg:maven/com.myadsget/san-ex-sdk@3.12.0?classifier=sources
 - pkg:maven/com.myadsget/san-ex-sdk@3.12.6.3?classifier=sources
+- pkg:maven/com.myadsget/san-ex-sdk@3.12.7.4?classifier=sources
 - pkg:maven/com.myadsget/san-ex-sdk@3.12.7?classifier=sources

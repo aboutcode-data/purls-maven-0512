@@ -1,3 +1,5 @@
+- pkg:maven/com.anatawa12.forge/separated@1.2-1.0.10?classifier=sources
+- pkg:maven/com.anatawa12.forge/separated@1.2-1.0.11?classifier=sources
 - pkg:maven/com.anatawa12.forge/separated@1.2-1.0.6?classifier=sources
 - pkg:maven/com.anatawa12.forge/separated@1.2-1.0.7?classifier=sources
 - pkg:maven/com.anatawa12.forge/separated@1.2-1.0.8?classifier=sources

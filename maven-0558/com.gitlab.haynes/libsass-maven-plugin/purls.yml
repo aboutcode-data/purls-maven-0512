@@ -34,3 +34,5 @@
 - pkg:maven/com.gitlab.haynes/libsass-maven-plugin@0.2.27?classifier=sources
 - pkg:maven/com.gitlab.haynes/libsass-maven-plugin@0.2.28
 - pkg:maven/com.gitlab.haynes/libsass-maven-plugin@0.2.28?classifier=sources
+- pkg:maven/com.gitlab.haynes/libsass-maven-plugin@0.2.29
+- pkg:maven/com.gitlab.haynes/libsass-maven-plugin@0.2.29?classifier=sources

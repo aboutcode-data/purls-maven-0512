@@ -1,6 +1,16 @@
 - pkg:maven/dev.mobile/maestro-ios@1.0.0?classifier=sources
 - pkg:maven/dev.mobile/maestro-ios@1.1.0?classifier=sources
 - pkg:maven/dev.mobile/maestro-ios@1.10.1?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios@1.11.0?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios@1.11.1?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios@1.11.2?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios@1.11.3?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios@1.11.4?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios@1.13.1?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios@1.13.2?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios@1.14.0?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios@1.15.0?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios@1.16.0-RC1?classifier=sources
 - pkg:maven/dev.mobile/maestro-ios@1.2.0?classifier=sources
 - pkg:maven/dev.mobile/maestro-ios@1.2.1?classifier=sources
 - pkg:maven/dev.mobile/maestro-ios@1.2.2?classifier=sources

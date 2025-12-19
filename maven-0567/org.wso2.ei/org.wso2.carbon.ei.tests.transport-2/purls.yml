@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.ei/org.wso2.carbon.ei.tests.transport-2@4.2.0-m1
+- pkg:maven/org.wso2.ei/org.wso2.carbon.ei.tests.transport-2@4.2.0-m1?classifier=sources

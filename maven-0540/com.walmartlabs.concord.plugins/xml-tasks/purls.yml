@@ -21,3 +21,4 @@
 - pkg:maven/com.walmartlabs.concord.plugins/xml-tasks@1.42.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/xml-tasks@1.43.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/xml-tasks@1.44.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/xml-tasks@1.45.0?classifier=sources

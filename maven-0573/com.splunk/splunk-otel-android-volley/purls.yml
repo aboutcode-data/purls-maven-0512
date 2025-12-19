@@ -4,3 +4,4 @@
 - pkg:maven/com.splunk/splunk-otel-android-volley@0.16.0?classifier=sources
 - pkg:maven/com.splunk/splunk-otel-android-volley@0.17.0?classifier=sources
 - pkg:maven/com.splunk/splunk-otel-android-volley@1.0.0-rc.1?classifier=sources
+- pkg:maven/com.splunk/splunk-otel-android-volley@1.0.0-rc.2?classifier=sources

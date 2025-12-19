@@ -134,6 +134,7 @@
 - pkg:maven/com.tradplusad/tradplus-baidu@43.8.1.11.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.8.1.11?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.8.1.12.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.8.1.13?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.8.2.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.8.2.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.8.3.0.1?type=aar
@@ -141,7 +142,16 @@
 - pkg:maven/com.tradplusad/tradplus-baidu@43.8.3.1.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.8.3.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.8.3.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.8.3.20.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.8.4.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.8.4.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.8.5.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.8.5.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.8.6.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.8.6.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.8.6.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.8.7.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.8.7.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.8.7.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.8.8.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.8.8.0?type=aar

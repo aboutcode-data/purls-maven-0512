@@ -230,3 +230,5 @@
 - pkg:maven/org.actframework/act@1.9.1a?classifier=sources
 - pkg:maven/org.actframework/act@1.9.1b
 - pkg:maven/org.actframework/act@1.9.1b?classifier=sources
+- pkg:maven/org.actframework/act@1.9.2
+- pkg:maven/org.actframework/act@1.9.2?classifier=sources

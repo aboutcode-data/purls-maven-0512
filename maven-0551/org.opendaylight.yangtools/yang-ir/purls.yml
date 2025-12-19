@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.yangtools/yang-ir@10.0.0?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-ir@10.0.1?classifier=sources

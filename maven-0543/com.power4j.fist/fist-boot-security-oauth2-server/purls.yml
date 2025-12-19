@@ -1,0 +1,2 @@
+- pkg:maven/com.power4j.fist/fist-boot-security-oauth2-server@2022.1.1
+- pkg:maven/com.power4j.fist/fist-boot-security-oauth2-server@2022.1.1?classifier=sources

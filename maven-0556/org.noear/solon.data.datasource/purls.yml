@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/solon.data.datasource@1.11.1-M3
+- pkg:maven/org.noear/solon.data.datasource@1.11.1-M3?classifier=sources

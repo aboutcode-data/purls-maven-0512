@@ -24,6 +24,8 @@
 - pkg:maven/app.alan/sdk@4.20.1?type=aar
 - pkg:maven/app.alan/sdk@4.20.3?classifier=sources
 - pkg:maven/app.alan/sdk@4.20.3?type=aar
+- pkg:maven/app.alan/sdk@4.20.7?classifier=sources
+- pkg:maven/app.alan/sdk@4.20.7?type=aar
 - pkg:maven/app.alan/sdk@4.7.10?classifier=sources
 - pkg:maven/app.alan/sdk@4.7.10?type=aar
 - pkg:maven/app.alan/sdk@4.7.11?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.u004/slf4j-ext@2.0.3
+- pkg:maven/io.github.u004/slf4j-ext@2.0.3?classifier=sources

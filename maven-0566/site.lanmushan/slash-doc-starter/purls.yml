@@ -8,3 +8,5 @@
 - pkg:maven/site.lanmushan/slash-doc-starter@1.0.3?classifier=sources
 - pkg:maven/site.lanmushan/slash-doc-starter@1.0.4
 - pkg:maven/site.lanmushan/slash-doc-starter@1.0.4?classifier=sources
+- pkg:maven/site.lanmushan/slash-doc-starter@1.0.5
+- pkg:maven/site.lanmushan/slash-doc-starter@1.0.5?classifier=sources

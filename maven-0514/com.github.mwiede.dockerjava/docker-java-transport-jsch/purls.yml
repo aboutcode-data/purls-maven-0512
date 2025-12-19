@@ -4,3 +4,5 @@
 - pkg:maven/com.github.mwiede.dockerjava/docker-java-transport-jsch@1.0-SNAPHSOT?classifier=sources
 - pkg:maven/com.github.mwiede.dockerjava/docker-java-transport-jsch@1.1-M1
 - pkg:maven/com.github.mwiede.dockerjava/docker-java-transport-jsch@1.1-M1?classifier=sources
+- pkg:maven/com.github.mwiede.dockerjava/docker-java-transport-jsch@1.2
+- pkg:maven/com.github.mwiede.dockerjava/docker-java-transport-jsch@1.2?classifier=sources

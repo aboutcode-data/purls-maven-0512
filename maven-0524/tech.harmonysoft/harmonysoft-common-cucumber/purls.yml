@@ -15,6 +15,13 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-common-cucumber@1.20.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-common-cucumber@1.21.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-common-cucumber@1.22.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-common-cucumber@1.23.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-common-cucumber@1.24.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-common-cucumber@1.25.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-common-cucumber@1.26.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-common-cucumber@1.27.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-common-cucumber@1.28.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-common-cucumber@1.29.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-common-cucumber@1.7.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-common-cucumber@1.8.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-common-cucumber@1.9.0?classifier=sources

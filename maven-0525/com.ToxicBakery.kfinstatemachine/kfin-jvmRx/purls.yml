@@ -4,3 +4,4 @@
 - pkg:maven/com.ToxicBakery.kfinstatemachine/kfin-jvmRx@4.1.35?classifier=sources
 - pkg:maven/com.ToxicBakery.kfinstatemachine/kfin-jvmRx@4.2.47?classifier=sources
 - pkg:maven/com.ToxicBakery.kfinstatemachine/kfin-jvmRx@4.3.50?classifier=sources
+- pkg:maven/com.ToxicBakery.kfinstatemachine/kfin-jvmRx@5.0.60?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/io.agora.rtc/iris-event-flutter@1.4.0?type=aar
 - pkg:maven/io.agora.rtc/iris-event-flutter@1.4.1?type=aar
 - pkg:maven/io.agora.rtc/iris-event-flutter@1.5.0-dev.1?type=aar
+- pkg:maven/io.agora.rtc/iris-event-flutter@2.0.0?type=aar

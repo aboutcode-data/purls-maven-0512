@@ -9,3 +9,5 @@
 - pkg:maven/org.aya-prover/tools@0.20?classifier=sources
 - pkg:maven/org.aya-prover/tools@0.21?classifier=sources
 - pkg:maven/org.aya-prover/tools@0.22?classifier=sources
+- pkg:maven/org.aya-prover/tools@0.23?classifier=sources
+- pkg:maven/org.aya-prover/tools@0.24?classifier=sources

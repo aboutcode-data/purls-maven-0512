@@ -1,0 +1,2 @@
+- pkg:maven/com.telefonica/mock@1.0.0?classifier=sources
+- pkg:maven/com.telefonica/mock@unspecified?classifier=sources

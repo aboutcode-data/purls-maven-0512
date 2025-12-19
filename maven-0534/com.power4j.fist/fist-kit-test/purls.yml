@@ -1,6 +1,8 @@
 - pkg:maven/com.power4j.fist/fist-kit-test@2022.0.1
 - pkg:maven/com.power4j.fist/fist-kit-test@2022.0.10
 - pkg:maven/com.power4j.fist/fist-kit-test@2022.0.11
+- pkg:maven/com.power4j.fist/fist-kit-test@2022.0.12
+- pkg:maven/com.power4j.fist/fist-kit-test@2022.0.13
 - pkg:maven/com.power4j.fist/fist-kit-test@2022.0.2
 - pkg:maven/com.power4j.fist/fist-kit-test@2022.0.3
 - pkg:maven/com.power4j.fist/fist-kit-test@2022.0.4

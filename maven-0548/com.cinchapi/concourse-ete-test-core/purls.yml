@@ -12,6 +12,8 @@
 - pkg:maven/com.cinchapi/concourse-ete-test-core@0.11.3?classifier=sources
 - pkg:maven/com.cinchapi/concourse-ete-test-core@0.11.4
 - pkg:maven/com.cinchapi/concourse-ete-test-core@0.11.4?classifier=sources
+- pkg:maven/com.cinchapi/concourse-ete-test-core@0.11.5
+- pkg:maven/com.cinchapi/concourse-ete-test-core@0.11.5?classifier=sources
 - pkg:maven/com.cinchapi/concourse-ete-test-core@0.6.0
 - pkg:maven/com.cinchapi/concourse-ete-test-core@0.6.0?classifier=sources
 - pkg:maven/com.cinchapi/concourse-ete-test-core@0.7.0

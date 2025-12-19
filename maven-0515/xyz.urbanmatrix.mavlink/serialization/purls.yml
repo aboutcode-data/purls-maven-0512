@@ -1,3 +1,9 @@
+- pkg:maven/xyz.urbanmatrix.mavlink/serialization@0.10.0-alpha?classifier=sources
+- pkg:maven/xyz.urbanmatrix.mavlink/serialization@0.10.1-alpha?classifier=sources
+- pkg:maven/xyz.urbanmatrix.mavlink/serialization@0.10.2-alpha?classifier=sources
+- pkg:maven/xyz.urbanmatrix.mavlink/serialization@0.11.0?classifier=sources
 - pkg:maven/xyz.urbanmatrix.mavlink/serialization@0.6.2?classifier=sources
 - pkg:maven/xyz.urbanmatrix.mavlink/serialization@0.6.3?classifier=sources
 - pkg:maven/xyz.urbanmatrix.mavlink/serialization@0.7.0?classifier=sources
+- pkg:maven/xyz.urbanmatrix.mavlink/serialization@0.8.0?classifier=sources
+- pkg:maven/xyz.urbanmatrix.mavlink/serialization@0.9.0?classifier=sources

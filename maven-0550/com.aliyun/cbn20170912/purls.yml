@@ -18,3 +18,5 @@
 - pkg:maven/com.aliyun/cbn20170912@1.0.1?classifier=sources
 - pkg:maven/com.aliyun/cbn20170912@1.0.20
 - pkg:maven/com.aliyun/cbn20170912@1.0.20?classifier=sources
+- pkg:maven/com.aliyun/cbn20170912@1.0.21
+- pkg:maven/com.aliyun/cbn20170912@1.0.21?classifier=sources

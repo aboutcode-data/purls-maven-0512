@@ -66,6 +66,8 @@
 - pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@2.13.2?classifier=sources
 - pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@2.13.3
 - pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@2.13.3?classifier=sources
+- pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@2.13.4
+- pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@2.13.4?classifier=sources
 - pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@2.2.0
 - pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@2.2.0?classifier=sources
 - pkg:maven/com.sap.cloud.security.xsuaa/xsuaa-spring-boot-starter@2.3.0

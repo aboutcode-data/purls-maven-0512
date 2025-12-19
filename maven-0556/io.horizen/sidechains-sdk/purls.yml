@@ -32,3 +32,5 @@
 - pkg:maven/io.horizen/sidechains-sdk@0.4.2?classifier=sources
 - pkg:maven/io.horizen/sidechains-sdk@0.4.3
 - pkg:maven/io.horizen/sidechains-sdk@0.4.3?classifier=sources
+- pkg:maven/io.horizen/sidechains-sdk@0.5.0
+- pkg:maven/io.horizen/sidechains-sdk@0.5.0?classifier=sources

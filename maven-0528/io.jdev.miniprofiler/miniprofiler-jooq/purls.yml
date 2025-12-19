@@ -4,3 +4,4 @@
 - pkg:maven/io.jdev.miniprofiler/miniprofiler-jooq@0.8.2
 - pkg:maven/io.jdev.miniprofiler/miniprofiler-jooq@0.8.2?classifier=sources
 - pkg:maven/io.jdev.miniprofiler/miniprofiler-jooq@0.8?classifier=sources
+- pkg:maven/io.jdev.miniprofiler/miniprofiler-jooq@0.9?classifier=sources

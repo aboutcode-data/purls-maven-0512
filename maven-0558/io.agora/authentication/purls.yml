@@ -1,2 +1,6 @@
 - pkg:maven/io.agora/authentication@1.6.0
 - pkg:maven/io.agora/authentication@1.6.1
+- pkg:maven/io.agora/authentication@2.0.0
+- pkg:maven/io.agora/authentication@2.0.0-ci-test
+- pkg:maven/io.agora/authentication@2.0.0.1-ci-test
+- pkg:maven/io.agora/authentication@2.0.0.2-ci-test

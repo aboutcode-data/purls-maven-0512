@@ -16,6 +16,8 @@
 - pkg:maven/org.webjars.npm/twemoji@13.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/twemoji@13.1.0
 - pkg:maven/org.webjars.npm/twemoji@13.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/twemoji@14.0.2
+- pkg:maven/org.webjars.npm/twemoji@14.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/twemoji@2.1.0
 - pkg:maven/org.webjars.npm/twemoji@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/twemoji@2.2.0

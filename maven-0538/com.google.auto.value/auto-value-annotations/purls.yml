@@ -1,4 +1,6 @@
 - pkg:maven/com.google.auto.value/auto-value-annotations@1.10
+- pkg:maven/com.google.auto.value/auto-value-annotations@1.10.1
+- pkg:maven/com.google.auto.value/auto-value-annotations@1.10.1?classifier=sources
 - pkg:maven/com.google.auto.value/auto-value-annotations@1.10?classifier=sources
 - pkg:maven/com.google.auto.value/auto-value-annotations@1.6
 - pkg:maven/com.google.auto.value/auto-value-annotations@1.6.1

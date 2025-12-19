@@ -8,3 +8,5 @@
 - pkg:maven/org.glassfish.jsftemplating/jsftemplating@1.2.3?classifier=sources
 - pkg:maven/org.glassfish.jsftemplating/jsftemplating@3.0.0
 - pkg:maven/org.glassfish.jsftemplating/jsftemplating@3.0.0?classifier=sources
+- pkg:maven/org.glassfish.jsftemplating/jsftemplating@4.0.0
+- pkg:maven/org.glassfish.jsftemplating/jsftemplating@4.0.0?classifier=sources

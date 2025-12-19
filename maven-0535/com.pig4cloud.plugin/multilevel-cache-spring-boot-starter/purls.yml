@@ -16,3 +16,7 @@
 - pkg:maven/com.pig4cloud.plugin/multilevel-cache-spring-boot-starter@0.0.8?classifier=sources
 - pkg:maven/com.pig4cloud.plugin/multilevel-cache-spring-boot-starter@0.1.0
 - pkg:maven/com.pig4cloud.plugin/multilevel-cache-spring-boot-starter@0.1.0?classifier=sources
+- pkg:maven/com.pig4cloud.plugin/multilevel-cache-spring-boot-starter@1.0.0
+- pkg:maven/com.pig4cloud.plugin/multilevel-cache-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/com.pig4cloud.plugin/multilevel-cache-spring-boot-starter@1.0.1
+- pkg:maven/com.pig4cloud.plugin/multilevel-cache-spring-boot-starter@1.0.1?classifier=sources

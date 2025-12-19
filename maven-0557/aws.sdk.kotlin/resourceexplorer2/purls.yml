@@ -1,0 +1,2 @@
+- pkg:maven/aws.sdk.kotlin/resourceexplorer2@0.17.11-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/resourceexplorer2@0.17.12-beta?classifier=sources

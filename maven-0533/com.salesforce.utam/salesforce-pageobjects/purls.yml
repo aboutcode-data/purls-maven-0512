@@ -12,5 +12,7 @@
 - pkg:maven/com.salesforce.utam/salesforce-pageobjects@2.0.0?classifier=sources
 - pkg:maven/com.salesforce.utam/salesforce-pageobjects@2.1.0
 - pkg:maven/com.salesforce.utam/salesforce-pageobjects@2.1.0?classifier=sources
+- pkg:maven/com.salesforce.utam/salesforce-pageobjects@2.2.0
+- pkg:maven/com.salesforce.utam/salesforce-pageobjects@2.2.0?classifier=sources
 - pkg:maven/com.salesforce.utam/salesforce-pageobjects@v1.0.0-java
 - pkg:maven/com.salesforce.utam/salesforce-pageobjects@v1.0.0-java?classifier=sources

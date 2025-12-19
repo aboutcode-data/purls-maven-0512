@@ -1,2 +1,4 @@
 - pkg:maven/org.danbrough.kotlinx/kotlinx-datetime-androidnativearm32@0.3.2?classifier=sources
 - pkg:maven/org.danbrough.kotlinx/kotlinx-datetime-androidnativearm32@0.4.0a?classifier=sources
+- pkg:maven/org.danbrough.kotlinx/kotlinx-datetime-androidnativearm32@0.4.0c?classifier=sources
+- pkg:maven/org.danbrough.kotlinx/kotlinx-datetime-androidnativearm32@0.4.0d?classifier=sources

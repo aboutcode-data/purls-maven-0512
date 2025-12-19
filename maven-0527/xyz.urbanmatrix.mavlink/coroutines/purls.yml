@@ -1,0 +1,5 @@
+- pkg:maven/xyz.urbanmatrix.mavlink/coroutines@0.10.1-alpha?classifier=sources
+- pkg:maven/xyz.urbanmatrix.mavlink/coroutines@0.10.2-alpha?classifier=sources
+- pkg:maven/xyz.urbanmatrix.mavlink/coroutines@0.11.0?classifier=sources
+- pkg:maven/xyz.urbanmatrix.mavlink/coroutines@0.8.0?classifier=sources
+- pkg:maven/xyz.urbanmatrix.mavlink/coroutines@0.9.0?classifier=sources

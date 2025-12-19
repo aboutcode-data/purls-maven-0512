@@ -125,4 +125,14 @@
 - pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.3.0
 - pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.3.0-1-f60a92
 - pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.3.0-1-f60a92?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.3.0-2-05070e
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.3.0-2-05070e?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.3.0-3-c28b3a
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.3.0-3-c28b3a?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.3.0-4-f82a36
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.3.0-4-f82a36?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.3.0-5-4cb1f4
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.3.0-5-4cb1f4?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.3.0-6-775b45
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.3.0-6-775b45?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.7_2.13@0.3.0?classifier=sources

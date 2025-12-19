@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/apollographql__graphql-playground-html@1.6.29
+- pkg:maven/org.webjars.npm/apollographql__graphql-playground-html@1.6.29?classifier=sources

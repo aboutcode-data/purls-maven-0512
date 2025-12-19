@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/adm-zip@0.4.4?classifier=sources
 - pkg:maven/org.webjars.npm/adm-zip@0.4.7
 - pkg:maven/org.webjars.npm/adm-zip@0.4.7?classifier=sources
+- pkg:maven/org.webjars.npm/adm-zip@0.5.9
+- pkg:maven/org.webjars.npm/adm-zip@0.5.9?classifier=sources
