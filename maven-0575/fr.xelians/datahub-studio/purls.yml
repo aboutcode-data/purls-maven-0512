@@ -1,0 +1,2 @@
+- pkg:maven/fr.xelians/datahub-studio@1.4.1
+- pkg:maven/fr.xelians/datahub-studio@1.4.1?classifier=sources

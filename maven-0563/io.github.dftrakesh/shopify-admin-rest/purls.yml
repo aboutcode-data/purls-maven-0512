@@ -76,3 +76,11 @@
 - pkg:maven/io.github.dftrakesh/shopify-admin-rest@2022.6.9
 - pkg:maven/io.github.dftrakesh/shopify-admin-rest@2022.6.9?classifier=sources
 - pkg:maven/io.github.dftrakesh/shopify-admin-rest@2022.6?classifier=sources
+- pkg:maven/io.github.dftrakesh/shopify-admin-rest@2023.01.10
+- pkg:maven/io.github.dftrakesh/shopify-admin-rest@2023.01.10?classifier=sources
+- pkg:maven/io.github.dftrakesh/shopify-admin-rest@2023.01.11
+- pkg:maven/io.github.dftrakesh/shopify-admin-rest@2023.01.11?classifier=sources
+- pkg:maven/io.github.dftrakesh/shopify-admin-rest@2023.01.12
+- pkg:maven/io.github.dftrakesh/shopify-admin-rest@2023.01.12?classifier=sources
+- pkg:maven/io.github.dftrakesh/shopify-admin-rest@2023.01.14
+- pkg:maven/io.github.dftrakesh/shopify-admin-rest@2023.01.14?classifier=sources

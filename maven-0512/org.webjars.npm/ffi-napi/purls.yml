@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/ffi-napi@4.0.3
+- pkg:maven/org.webjars.npm/ffi-napi@4.0.3?classifier=sources

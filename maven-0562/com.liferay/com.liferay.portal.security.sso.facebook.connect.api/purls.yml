@@ -26,6 +26,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@1.1.10
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@1.1.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@1.1.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@1.1.11
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@1.1.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@1.1.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@1.1.12
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@1.1.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@1.1.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@1.1.13
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@1.1.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@1.1.13?classifier=sources-commercial
@@ -146,6 +152,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.13
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.14
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.15
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.15?classifier=sources-commercial
@@ -167,6 +176,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.20
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.21
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@3.0.3
@@ -203,6 +215,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.12
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.13
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.14
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.15
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.15?classifier=sources-commercial
@@ -230,6 +248,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.22
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.23
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.23?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.facebook.connect.api@4.0.3

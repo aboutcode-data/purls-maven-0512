@@ -59,6 +59,7 @@
 - pkg:maven/com.auth0/java-jwt@3.19.1?classifier=sources
 - pkg:maven/com.auth0/java-jwt@3.19.2?classifier=sources
 - pkg:maven/com.auth0/java-jwt@3.19.3?classifier=sources
+- pkg:maven/com.auth0/java-jwt@3.19.4?classifier=sources
 - pkg:maven/com.auth0/java-jwt@3.2.0
 - pkg:maven/com.auth0/java-jwt@3.2.0?classifier=sources
 - pkg:maven/com.auth0/java-jwt@3.3.0
@@ -88,3 +89,4 @@
 - pkg:maven/com.auth0/java-jwt@4.1.0?classifier=sources
 - pkg:maven/com.auth0/java-jwt@4.2.0?classifier=sources
 - pkg:maven/com.auth0/java-jwt@4.2.1?classifier=sources
+- pkg:maven/com.auth0/java-jwt@4.2.2?classifier=sources

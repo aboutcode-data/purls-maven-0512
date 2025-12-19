@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rsemlal/clickhouse4cats-core_2.13@0.1-test
+- pkg:maven/io.github.rsemlal/clickhouse4cats-core_2.13@0.1-test?classifier=sources

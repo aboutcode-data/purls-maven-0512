@@ -6,6 +6,10 @@
 - pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld-jackson@0.10.0?classifier=sources
 - pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld-jackson@0.10.1
 - pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld-jackson@0.10.1?classifier=sources
+- pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld-jackson@0.10.2
+- pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld-jackson@0.10.2?classifier=sources
+- pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld-jackson@0.11.0
+- pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld-jackson@0.11.0?classifier=sources
 - pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld-jackson@0.2.0
 - pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld-jackson@0.2.0?classifier=sources
 - pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld-jackson@0.2.1

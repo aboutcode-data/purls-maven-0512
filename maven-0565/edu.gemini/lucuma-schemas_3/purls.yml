@@ -28,3 +28,11 @@
 - pkg:maven/edu.gemini/lucuma-schemas_3@0.38.4?classifier=sources
 - pkg:maven/edu.gemini/lucuma-schemas_3@0.39.0
 - pkg:maven/edu.gemini/lucuma-schemas_3@0.39.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-schemas_3@0.39.1
+- pkg:maven/edu.gemini/lucuma-schemas_3@0.39.1?classifier=sources
+- pkg:maven/edu.gemini/lucuma-schemas_3@0.39.2
+- pkg:maven/edu.gemini/lucuma-schemas_3@0.39.2?classifier=sources
+- pkg:maven/edu.gemini/lucuma-schemas_3@0.40.0
+- pkg:maven/edu.gemini/lucuma-schemas_3@0.40.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-schemas_3@0.41.0
+- pkg:maven/edu.gemini/lucuma-schemas_3@0.41.0?classifier=sources

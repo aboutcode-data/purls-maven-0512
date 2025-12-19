@@ -46,3 +46,5 @@
 - pkg:maven/io.runon.cryptocurrency/cryptocurrency-exchanges@0.4.7?classifier=sources
 - pkg:maven/io.runon.cryptocurrency/cryptocurrency-exchanges@0.4.8
 - pkg:maven/io.runon.cryptocurrency/cryptocurrency-exchanges@0.4.8?classifier=sources
+- pkg:maven/io.runon.cryptocurrency/cryptocurrency-exchanges@0.4.9
+- pkg:maven/io.runon.cryptocurrency/cryptocurrency-exchanges@0.4.9?classifier=sources

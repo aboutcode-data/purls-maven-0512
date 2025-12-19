@@ -1,4 +1,6 @@
 - pkg:maven/cn.iosd/simple-starter-cloud@2022.1.0.0
 - pkg:maven/cn.iosd/simple-starter-cloud@2022.1.1.0
 - pkg:maven/cn.iosd/simple-starter-cloud@2022.1.2.0
+- pkg:maven/cn.iosd/simple-starter-cloud@2022.2.0.0
 - pkg:maven/cn.iosd/simple-starter-cloud@2023.1.0.0
+- pkg:maven/cn.iosd/simple-starter-cloud@2023.2.0.0

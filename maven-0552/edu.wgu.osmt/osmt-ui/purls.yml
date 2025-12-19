@@ -1,3 +1,7 @@
 - pkg:maven/edu.wgu.osmt/osmt-ui@2.0.0
 - pkg:maven/edu.wgu.osmt/osmt-ui@2.1.0
 - pkg:maven/edu.wgu.osmt/osmt-ui@2.2.0
+- pkg:maven/edu.wgu.osmt/osmt-ui@2.3.0
+- pkg:maven/edu.wgu.osmt/osmt-ui@2.4.0
+- pkg:maven/edu.wgu.osmt/osmt-ui@2.4.1
+- pkg:maven/edu.wgu.osmt/osmt-ui@2.4.2

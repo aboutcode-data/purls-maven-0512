@@ -2,6 +2,8 @@
 - pkg:maven/org.apache.arrow/flight-integration-tests@10.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/flight-integration-tests@10.0.1
 - pkg:maven/org.apache.arrow/flight-integration-tests@10.0.1?classifier=sources
+- pkg:maven/org.apache.arrow/flight-integration-tests@11.0.0
+- pkg:maven/org.apache.arrow/flight-integration-tests@11.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/flight-integration-tests@7.0.0
 - pkg:maven/org.apache.arrow/flight-integration-tests@7.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/flight-integration-tests@8.0.0

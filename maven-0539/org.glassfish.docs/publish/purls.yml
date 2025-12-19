@@ -1,2 +1,5 @@
 - pkg:maven/org.glassfish.docs/publish@5.1.0
 - pkg:maven/org.glassfish.docs/publish@5.1.0?classifier=sources
+- pkg:maven/org.glassfish.docs/publish@6.2.5
+- pkg:maven/org.glassfish.docs/publish@6.2.5?classifier=sources
+- pkg:maven/org.glassfish.docs/publish@7.0.0

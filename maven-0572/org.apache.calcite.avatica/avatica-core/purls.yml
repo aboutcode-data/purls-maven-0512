@@ -24,5 +24,7 @@
 - pkg:maven/org.apache.calcite.avatica/avatica-core@1.21.0?classifier=sources
 - pkg:maven/org.apache.calcite.avatica/avatica-core@1.22.0
 - pkg:maven/org.apache.calcite.avatica/avatica-core@1.22.0?classifier=sources
+- pkg:maven/org.apache.calcite.avatica/avatica-core@1.23.0
+- pkg:maven/org.apache.calcite.avatica/avatica-core@1.23.0?classifier=sources
 - pkg:maven/org.apache.calcite.avatica/avatica-core@1.9.0
 - pkg:maven/org.apache.calcite.avatica/avatica-core@1.9.0?classifier=sources

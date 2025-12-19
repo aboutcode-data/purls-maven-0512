@@ -1,0 +1,1 @@
+- pkg:maven/org.openrewrite/rewrite-java-test@7.35.0?classifier=sources

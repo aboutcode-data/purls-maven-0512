@@ -1,0 +1,1 @@
+- pkg:maven/org.wildfly.deployment/wildfly-deployment-transformer-kitchensink-ejb@1.0.0.Beta1?classifier=sources

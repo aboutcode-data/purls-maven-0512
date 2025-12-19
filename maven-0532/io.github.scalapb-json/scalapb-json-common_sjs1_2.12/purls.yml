@@ -26,3 +26,5 @@
 - pkg:maven/io.github.scalapb-json/scalapb-json-common_sjs1_2.12@0.8.7?classifier=sources
 - pkg:maven/io.github.scalapb-json/scalapb-json-common_sjs1_2.12@0.8.8
 - pkg:maven/io.github.scalapb-json/scalapb-json-common_sjs1_2.12@0.8.8?classifier=sources
+- pkg:maven/io.github.scalapb-json/scalapb-json-common_sjs1_2.12@0.8.9
+- pkg:maven/io.github.scalapb-json/scalapb-json-common_sjs1_2.12@0.8.9?classifier=sources

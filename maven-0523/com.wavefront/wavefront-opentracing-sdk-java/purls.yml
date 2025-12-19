@@ -72,3 +72,5 @@
 - pkg:maven/com.wavefront/wavefront-opentracing-sdk-java@2.2.3?classifier=sources
 - pkg:maven/com.wavefront/wavefront-opentracing-sdk-java@2.2.4
 - pkg:maven/com.wavefront/wavefront-opentracing-sdk-java@2.2.4?classifier=sources
+- pkg:maven/com.wavefront/wavefront-opentracing-sdk-java@2.2.5
+- pkg:maven/com.wavefront/wavefront-opentracing-sdk-java@2.2.5?classifier=sources

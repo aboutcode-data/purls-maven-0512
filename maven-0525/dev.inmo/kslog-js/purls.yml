@@ -15,3 +15,4 @@
 - pkg:maven/dev.inmo/kslog-js@0.5.2?classifier=sources
 - pkg:maven/dev.inmo/kslog-js@0.5.3?classifier=sources
 - pkg:maven/dev.inmo/kslog-js@0.5.4?classifier=sources
+- pkg:maven/dev.inmo/kslog-js@1.0.0?classifier=sources

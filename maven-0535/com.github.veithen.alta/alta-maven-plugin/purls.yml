@@ -28,3 +28,6 @@
 - pkg:maven/com.github.veithen.alta/alta-maven-plugin@0.7.1
 - pkg:maven/com.github.veithen.alta/alta-maven-plugin@0.7.1?classifier=source-release&type=zip
 - pkg:maven/com.github.veithen.alta/alta-maven-plugin@0.7.1?classifier=sources
+- pkg:maven/com.github.veithen.alta/alta-maven-plugin@0.7.2
+- pkg:maven/com.github.veithen.alta/alta-maven-plugin@0.7.2?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen.alta/alta-maven-plugin@0.7.2?classifier=sources

@@ -72,3 +72,5 @@
 - pkg:maven/cloud.piranha.http/piranha-http-grizzly@22.8.0?classifier=sources
 - pkg:maven/cloud.piranha.http/piranha-http-grizzly@22.9.0
 - pkg:maven/cloud.piranha.http/piranha-http-grizzly@22.9.0?classifier=sources
+- pkg:maven/cloud.piranha.http/piranha-http-grizzly@23.1.0
+- pkg:maven/cloud.piranha.http/piranha-http-grizzly@23.1.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/site.sorghum.feignless/feignless-solon-plugin@1.1.1
+- pkg:maven/site.sorghum.feignless/feignless-solon-plugin@1.1.1?classifier=sources
+- pkg:maven/site.sorghum.feignless/feignless-solon-plugin@1.1.2
+- pkg:maven/site.sorghum.feignless/feignless-solon-plugin@1.1.2?classifier=sources
+- pkg:maven/site.sorghum.feignless/feignless-solon-plugin@1.1.3
+- pkg:maven/site.sorghum.feignless/feignless-solon-plugin@1.1.3?classifier=sources

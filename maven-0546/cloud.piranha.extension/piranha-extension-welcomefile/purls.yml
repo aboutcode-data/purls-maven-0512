@@ -20,3 +20,5 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-welcomefile@22.8.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-welcomefile@22.9.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-welcomefile@22.9.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-welcomefile@23.1.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-welcomefile@23.1.0?classifier=sources

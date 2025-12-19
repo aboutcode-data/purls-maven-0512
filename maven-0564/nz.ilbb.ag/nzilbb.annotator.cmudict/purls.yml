@@ -1,0 +1,2 @@
+- pkg:maven/nz.ilbb.ag/nzilbb.annotator.cmudict@2.0.2
+- pkg:maven/nz.ilbb.ag/nzilbb.annotator.cmudict@2.0.2?classifier=sources

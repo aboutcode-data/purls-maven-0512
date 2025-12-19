@@ -2,3 +2,4 @@
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jersey-jakarta-server@7.37.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jersey-jakarta-server@7.38.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jersey-jakarta-server@7.39.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jersey-jakarta-server@7.40.0?classifier=sources

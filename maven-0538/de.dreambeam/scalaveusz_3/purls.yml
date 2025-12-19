@@ -1,0 +1,2 @@
+- pkg:maven/de.dreambeam/scalaveusz_3@0.8.1
+- pkg:maven/de.dreambeam/scalaveusz_3@0.8.1?classifier=sources

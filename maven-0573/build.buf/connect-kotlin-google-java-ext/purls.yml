@@ -1,0 +1,5 @@
+- pkg:maven/build.buf/connect-kotlin-google-java-ext@0.0.1-preview?classifier=sources
+- pkg:maven/build.buf/connect-kotlin-google-java-ext@0.0.2-preview?classifier=sources
+- pkg:maven/build.buf/connect-kotlin-google-java-ext@0.0.3-preview?classifier=sources
+- pkg:maven/build.buf/connect-kotlin-google-java-ext@0.0.4-preview?classifier=sources
+- pkg:maven/build.buf/connect-kotlin-google-java-ext@0.0.5-preview?classifier=sources

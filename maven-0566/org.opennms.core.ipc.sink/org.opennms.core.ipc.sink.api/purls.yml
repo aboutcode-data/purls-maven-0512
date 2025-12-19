@@ -1,0 +1,2 @@
+- pkg:maven/org.opennms.core.ipc.sink/org.opennms.core.ipc.sink.api@31.0.3
+- pkg:maven/org.opennms.core.ipc.sink/org.opennms.core.ipc.sink.api@31.0.3?classifier=sources

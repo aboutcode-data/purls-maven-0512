@@ -5,3 +5,5 @@
 - pkg:maven/com.pulumi/pagerduty@3.7.0-alpha.1663282311%2Bf5ccdd8b?classifier=sources
 - pkg:maven/com.pulumi/pagerduty@3.7.0-alpha.1663343434%2B3f15d71d?classifier=sources
 - pkg:maven/com.pulumi/pagerduty@3.7.0-alpha.1668645661%2B6b9da264?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.7.0-alpha.1673556279%2B80ee3daa?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.7.0-alpha.1675060899%2B89c4cc7a?classifier=sources

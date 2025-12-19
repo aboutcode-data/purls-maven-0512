@@ -1,1 +1,2 @@
 - pkg:maven/com.papiocloud/shared-library-test-framework@1.0.0?classifier=sources
+- pkg:maven/com.papiocloud/shared-library-test-framework@1.0.1?classifier=sources

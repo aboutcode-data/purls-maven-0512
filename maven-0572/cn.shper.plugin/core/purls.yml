@@ -1,3 +1,4 @@
 - pkg:maven/cn.shper.plugin/core@2.0.0?classifier=sources
 - pkg:maven/cn.shper.plugin/core@2.2.0?classifier=sources
 - pkg:maven/cn.shper.plugin/core@2.2.1?classifier=sources
+- pkg:maven/cn.shper.plugin/core@3.0.0?classifier=sources

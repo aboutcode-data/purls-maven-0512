@@ -1,0 +1,2 @@
+- pkg:maven/ch.galinet.xml/xsd-hierarchy@0.2
+- pkg:maven/ch.galinet.xml/xsd-hierarchy@0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.sections/sequence-demo-spring-boot-redis@1.0
+- pkg:maven/io.gitee.sections/sequence-demo-spring-boot-redis@1.0?classifier=sources

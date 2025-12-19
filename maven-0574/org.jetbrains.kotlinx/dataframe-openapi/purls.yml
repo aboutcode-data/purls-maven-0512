@@ -1,6 +1,16 @@
 - pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.10.0-dev-1330?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.10.0-dev-1332?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.10.0-dev-1334?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.10.0-dev-1335?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.10.0-dev-1336?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.10.0-dev-1338?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.10.0-dev-1340?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.10.0-dev-1347?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.10.0-dev-1353?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.10.0-dev-1355?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.10.0-dev-1364?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.10.0-dev-1366?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.10.0-dev-1369?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.9.0-RC1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.9.0-dev-1236-0.11.0.187?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-openapi@0.9.0-dev-1237-0.11.0.187?classifier=sources

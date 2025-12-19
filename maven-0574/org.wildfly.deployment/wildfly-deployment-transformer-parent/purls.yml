@@ -1,0 +1,1 @@
+- pkg:maven/org.wildfly.deployment/wildfly-deployment-transformer-parent@1.0.0.Beta1?classifier=source-release&type=zip

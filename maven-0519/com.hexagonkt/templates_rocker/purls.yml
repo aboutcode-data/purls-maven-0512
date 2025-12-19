@@ -1,0 +1,2 @@
+- pkg:maven/com.hexagonkt/templates_rocker@2.5.0?classifier=sources
+- pkg:maven/com.hexagonkt/templates_rocker@2.5.1?classifier=sources

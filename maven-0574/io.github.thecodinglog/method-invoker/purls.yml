@@ -11,3 +11,4 @@
 - pkg:maven/io.github.thecodinglog/method-invoker@0.2.4?classifier=sources
 - pkg:maven/io.github.thecodinglog/method-invoker@0.2.5?classifier=sources
 - pkg:maven/io.github.thecodinglog/method-invoker@0.2.6?classifier=sources
+- pkg:maven/io.github.thecodinglog/method-invoker@0.3.0?classifier=sources

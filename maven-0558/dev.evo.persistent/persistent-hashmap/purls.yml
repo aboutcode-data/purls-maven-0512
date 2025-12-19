@@ -1,1 +1,3 @@
 - pkg:maven/dev.evo.persistent/persistent-hashmap@0.0.7?classifier=sources
+- pkg:maven/dev.evo.persistent/persistent-hashmap@0.0.8?classifier=sources
+- pkg:maven/dev.evo.persistent/persistent-hashmap@0.0.9?classifier=sources

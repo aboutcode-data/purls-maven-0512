@@ -261,6 +261,8 @@
 - pkg:maven/com.vaadin/flow-component-demo-helpers@2.8.2?classifier=sources
 - pkg:maven/com.vaadin/flow-component-demo-helpers@2.8.3
 - pkg:maven/com.vaadin/flow-component-demo-helpers@2.8.3?classifier=sources
+- pkg:maven/com.vaadin/flow-component-demo-helpers@2.8.4
+- pkg:maven/com.vaadin/flow-component-demo-helpers@2.8.4?classifier=sources
 - pkg:maven/com.vaadin/flow-component-demo-helpers@3.0.0
 - pkg:maven/com.vaadin/flow-component-demo-helpers@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/flow-component-demo-helpers@3.0.1
@@ -408,6 +410,8 @@
 - pkg:maven/com.vaadin/flow-component-demo-helpers@9.0.23?classifier=sources
 - pkg:maven/com.vaadin/flow-component-demo-helpers@9.0.24
 - pkg:maven/com.vaadin/flow-component-demo-helpers@9.0.24?classifier=sources
+- pkg:maven/com.vaadin/flow-component-demo-helpers@9.0.25
+- pkg:maven/com.vaadin/flow-component-demo-helpers@9.0.25?classifier=sources
 - pkg:maven/com.vaadin/flow-component-demo-helpers@9.0.2?classifier=sources
 - pkg:maven/com.vaadin/flow-component-demo-helpers@9.0.3?classifier=sources
 - pkg:maven/com.vaadin/flow-component-demo-helpers@9.0.4

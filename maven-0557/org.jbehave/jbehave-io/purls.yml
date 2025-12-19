@@ -6,3 +6,5 @@
 - pkg:maven/org.jbehave/jbehave-io@4.8?classifier=sources
 - pkg:maven/org.jbehave/jbehave-io@5.0
 - pkg:maven/org.jbehave/jbehave-io@5.0?classifier=sources
+- pkg:maven/org.jbehave/jbehave-io@5.1
+- pkg:maven/org.jbehave/jbehave-io@5.1?classifier=sources

@@ -12,3 +12,11 @@
 - pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@5.0.23?type=war
 - pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@5.1.0?classifier=sources
 - pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@5.1.0?type=war
+- pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@6.0.0-M2?classifier=sources
+- pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@6.0.0-M2?type=war
+- pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@6.0.0-M3?classifier=sources
+- pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@6.0.0-M3?type=war
+- pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@6.0.0-RC1?classifier=sources
+- pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@6.0.0-RC1?type=war
+- pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@6.0.0-RC3?classifier=sources
+- pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@6.0.0-RC3?type=war

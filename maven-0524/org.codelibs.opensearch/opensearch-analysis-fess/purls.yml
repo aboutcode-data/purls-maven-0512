@@ -14,3 +14,5 @@
 - pkg:maven/org.codelibs.opensearch/opensearch-analysis-fess@2.3.0?type=zip
 - pkg:maven/org.codelibs.opensearch/opensearch-analysis-fess@2.4.0?classifier=sources
 - pkg:maven/org.codelibs.opensearch/opensearch-analysis-fess@2.4.0?type=zip
+- pkg:maven/org.codelibs.opensearch/opensearch-analysis-fess@2.5.0?classifier=sources
+- pkg:maven/org.codelibs.opensearch/opensearch-analysis-fess@2.5.0?type=zip

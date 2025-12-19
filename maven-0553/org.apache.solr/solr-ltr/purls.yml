@@ -102,3 +102,4 @@
 - pkg:maven/org.apache.solr/solr-ltr@8.9.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-ltr@9.0.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-ltr@9.1.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-ltr@9.1.1?classifier=sources

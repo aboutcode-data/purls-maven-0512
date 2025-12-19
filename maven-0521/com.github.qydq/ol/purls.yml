@@ -1,0 +1,3 @@
+- pkg:maven/com.github.qydq/ol@1.6.0?classifier=sources
+- pkg:maven/com.github.qydq/ol@1.7.0?classifier=sources
+- pkg:maven/com.github.qydq/ol@2.0.0?classifier=sources

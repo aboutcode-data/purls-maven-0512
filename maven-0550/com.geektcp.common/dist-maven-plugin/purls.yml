@@ -1,0 +1,2 @@
+- pkg:maven/com.geektcp.common/dist-maven-plugin@1.0.0.RELEASE
+- pkg:maven/com.geektcp.common/dist-maven-plugin@1.0.0.RELEASE?classifier=sources

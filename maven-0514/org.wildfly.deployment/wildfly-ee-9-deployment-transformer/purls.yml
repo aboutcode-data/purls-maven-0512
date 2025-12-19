@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.deployment/wildfly-ee-9-deployment-transformer@1.0.0.Beta1
+- pkg:maven/org.wildfly.deployment/wildfly-ee-9-deployment-transformer@1.0.0.Beta1?classifier=sources

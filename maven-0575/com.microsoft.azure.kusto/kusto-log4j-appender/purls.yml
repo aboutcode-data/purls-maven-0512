@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.kusto/kusto-log4j-appender@1.0.1
+- pkg:maven/com.microsoft.azure.kusto/kusto-log4j-appender@1.0.1?classifier=sources

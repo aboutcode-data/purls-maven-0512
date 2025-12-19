@@ -1,1 +1,2 @@
 - pkg:maven/com.mapxus.sdk/sdk-auth-jp@3.0.0?classifier=sources
+- pkg:maven/com.mapxus.sdk/sdk-auth-jp@4.0.1?classifier=sources

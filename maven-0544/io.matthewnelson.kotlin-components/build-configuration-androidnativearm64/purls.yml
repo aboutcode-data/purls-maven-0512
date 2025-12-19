@@ -1,0 +1,2 @@
+- pkg:maven/io.matthewnelson.kotlin-components/build-configuration-androidnativearm64@3.0.4?classifier=sources
+- pkg:maven/io.matthewnelson.kotlin-components/build-configuration-androidnativearm64@3.0.5?classifier=sources

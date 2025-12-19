@@ -58,6 +58,8 @@
 - pkg:maven/com.google.apis/google-api-services-recommender@v1-rev20220917-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-recommender@v1-rev20220924-2.0.0
 - pkg:maven/com.google.apis/google-api-services-recommender@v1-rev20220924-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-recommender@v1-rev20230108-2.0.0
+- pkg:maven/com.google.apis/google-api-services-recommender@v1-rev20230108-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-recommender@v1beta1-rev10-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-recommender@v1beta1-rev10-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-recommender@v1beta1-rev10-1.25.0
@@ -178,6 +180,8 @@
 - pkg:maven/com.google.apis/google-api-services-recommender@v1beta1-rev20220917-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-recommender@v1beta1-rev20220924-2.0.0
 - pkg:maven/com.google.apis/google-api-services-recommender@v1beta1-rev20220924-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-recommender@v1beta1-rev20230108-2.0.0
+- pkg:maven/com.google.apis/google-api-services-recommender@v1beta1-rev20230108-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-recommender@v1beta1-rev6-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-recommender@v1beta1-rev6-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-recommender@v1beta1-rev6-1.25.0

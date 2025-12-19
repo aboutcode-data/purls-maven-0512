@@ -14,3 +14,5 @@
 - pkg:maven/io.trino.tempto/tempto-core@189?classifier=sources
 - pkg:maven/io.trino.tempto/tempto-core@190
 - pkg:maven/io.trino.tempto/tempto-core@190?classifier=sources
+- pkg:maven/io.trino.tempto/tempto-core@191
+- pkg:maven/io.trino.tempto/tempto-core@191?classifier=sources

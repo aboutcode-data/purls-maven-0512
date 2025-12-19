@@ -1,2 +1,4 @@
 - pkg:maven/nl.42/api-key-authentication@1.0.0
 - pkg:maven/nl.42/api-key-authentication@1.0.0?classifier=sources
+- pkg:maven/nl.42/api-key-authentication@2.0.0
+- pkg:maven/nl.42/api-key-authentication@2.0.0?classifier=sources

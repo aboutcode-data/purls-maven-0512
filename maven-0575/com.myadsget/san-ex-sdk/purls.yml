@@ -1,6 +1,7 @@
 - pkg:maven/com.myadsget/san-ex-sdk@0.0.0.1?classifier=sources
 - pkg:maven/com.myadsget/san-ex-sdk@0.0.0.2?classifier=sources
 - pkg:maven/com.myadsget/san-ex-sdk@0.0.0.3?classifier=sources
+- pkg:maven/com.myadsget/san-ex-sdk@0.13.0.0-t1?classifier=sources
 - pkg:maven/com.myadsget/san-ex-sdk@0.3.10.0?classifier=sources
 - pkg:maven/com.myadsget/san-ex-sdk@0.3.10.11_vml_test1?classifier=sources
 - pkg:maven/com.myadsget/san-ex-sdk@0.3.10.11_vml_test2?classifier=sources
@@ -44,3 +45,12 @@
 - pkg:maven/com.myadsget/san-ex-sdk@3.12.7?classifier=sources
 - pkg:maven/com.myadsget/san-ex-sdk@3.12.8.0-beta?classifier=sources
 - pkg:maven/com.myadsget/san-ex-sdk@3.12.8.0?classifier=sources
+- pkg:maven/com.myadsget/san-ex-sdk@3.12.8.1-beta?classifier=sources
+- pkg:maven/com.myadsget/san-ex-sdk@3.12.8.1?classifier=sources
+- pkg:maven/com.myadsget/san-ex-sdk@3.12.8.2?classifier=sources
+- pkg:maven/com.myadsget/san-ex-sdk@3.13.0.7?classifier=sources
+- pkg:maven/com.myadsget/san-ex-sdk@3.13.0.8?classifier=sources
+- pkg:maven/com.myadsget/san-ex-sdk@3.13.0.9?classifier=sources
+- pkg:maven/com.myadsget/san-ex-sdk@3.13.1.1?classifier=sources
+- pkg:maven/com.myadsget/san-ex-sdk@3.13.1.2-alpha?classifier=sources
+- pkg:maven/com.myadsget/san-ex-sdk@3.13.8.0?classifier=sources

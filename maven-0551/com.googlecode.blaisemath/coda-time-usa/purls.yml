@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.blaisemath/coda-time-usa@0.5.4
+- pkg:maven/com.googlecode.blaisemath/coda-time-usa@0.5.4?classifier=sources

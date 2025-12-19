@@ -68,3 +68,5 @@
 - pkg:maven/org.jasig.portlet/CalendarPortlet@2.6.1?type=war
 - pkg:maven/org.jasig.portlet/CalendarPortlet@2.6.2?classifier=sources
 - pkg:maven/org.jasig.portlet/CalendarPortlet@2.6.2?type=war
+- pkg:maven/org.jasig.portlet/CalendarPortlet@2.7.0?classifier=sources
+- pkg:maven/org.jasig.portlet/CalendarPortlet@2.7.0?type=war

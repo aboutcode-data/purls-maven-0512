@@ -1,0 +1,2 @@
+- pkg:maven/org.pgpainless/external-sop@4.1.0?classifier=sources
+- pkg:maven/org.pgpainless/external-sop@4.1.1?classifier=sources

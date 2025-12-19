@@ -12,3 +12,5 @@
 - pkg:maven/com.github.fracpete/rsync4j-windows64@3.2.3-8?classifier=sources
 - pkg:maven/com.github.fracpete/rsync4j-windows64@3.2.3-9
 - pkg:maven/com.github.fracpete/rsync4j-windows64@3.2.3-9?classifier=sources
+- pkg:maven/com.github.fracpete/rsync4j-windows64@3.2.7-1
+- pkg:maven/com.github.fracpete/rsync4j-windows64@3.2.7-1?classifier=sources

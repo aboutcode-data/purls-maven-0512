@@ -266,6 +266,10 @@
 - pkg:maven/com.chargebee/chargebee-java@2.20.0?classifier=sources
 - pkg:maven/com.chargebee/chargebee-java@2.21.0
 - pkg:maven/com.chargebee/chargebee-java@2.21.0?classifier=sources
+- pkg:maven/com.chargebee/chargebee-java@2.22.0
+- pkg:maven/com.chargebee/chargebee-java@2.22.0?classifier=sources
+- pkg:maven/com.chargebee/chargebee-java@2.22.1
+- pkg:maven/com.chargebee/chargebee-java@2.22.1?classifier=sources
 - pkg:maven/com.chargebee/chargebee-java@2.3.0
 - pkg:maven/com.chargebee/chargebee-java@2.3.0?classifier=sources
 - pkg:maven/com.chargebee/chargebee-java@2.3.1
@@ -382,3 +386,7 @@
 - pkg:maven/com.chargebee/chargebee-java@3.0.0-beta.1
 - pkg:maven/com.chargebee/chargebee-java@3.0.0-beta.1?classifier=sources
 - pkg:maven/com.chargebee/chargebee-java@3.0.0?classifier=sources
+- pkg:maven/com.chargebee/chargebee-java@3.1.0
+- pkg:maven/com.chargebee/chargebee-java@3.1.0?classifier=sources
+- pkg:maven/com.chargebee/chargebee-java@3.1.1
+- pkg:maven/com.chargebee/chargebee-java@3.1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.nosqlbench/adapter-s4j@4.17.32
+- pkg:maven/io.nosqlbench/adapter-s4j@4.17.32?classifier=sources
+- pkg:maven/io.nosqlbench/adapter-s4j@5.17.0
+- pkg:maven/io.nosqlbench/adapter-s4j@5.17.0?classifier=sources
