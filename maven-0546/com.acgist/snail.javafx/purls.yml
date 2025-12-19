@@ -1,5 +1,7 @@
 - pkg:maven/com.acgist/snail.javafx@1.17.0
 - pkg:maven/com.acgist/snail.javafx@1.17.0?classifier=sources
+- pkg:maven/com.acgist/snail.javafx@1.17.1
+- pkg:maven/com.acgist/snail.javafx@1.17.1?classifier=sources
 - pkg:maven/com.acgist/snail.javafx@1.4.0
 - pkg:maven/com.acgist/snail.javafx@1.4.0?classifier=sources
 - pkg:maven/com.acgist/snail.javafx@1.4.1

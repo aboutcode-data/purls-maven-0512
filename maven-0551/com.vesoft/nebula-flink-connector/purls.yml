@@ -6,3 +6,5 @@
 - pkg:maven/com.vesoft/nebula-flink-connector@2.6.0?classifier=sources
 - pkg:maven/com.vesoft/nebula-flink-connector@2.6.1
 - pkg:maven/com.vesoft/nebula-flink-connector@2.6.1?classifier=sources
+- pkg:maven/com.vesoft/nebula-flink-connector@3.0.0
+- pkg:maven/com.vesoft/nebula-flink-connector@3.0.0?classifier=sources

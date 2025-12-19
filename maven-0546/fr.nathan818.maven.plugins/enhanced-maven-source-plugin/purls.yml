@@ -1,0 +1,2 @@
+- pkg:maven/fr.nathan818.maven.plugins/enhanced-maven-source-plugin@3.2.1.0
+- pkg:maven/fr.nathan818.maven.plugins/enhanced-maven-source-plugin@3.2.1.0?classifier=sources

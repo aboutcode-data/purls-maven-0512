@@ -1,1 +1,2 @@
 - pkg:maven/de.codecentric.mule.modules/csv-module@0.1.0?classifier=sources
+- pkg:maven/de.codecentric.mule.modules/csv-module@1.0.2?classifier=sources

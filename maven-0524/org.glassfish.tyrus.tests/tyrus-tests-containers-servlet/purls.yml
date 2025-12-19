@@ -1,0 +1,1 @@
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-containers-servlet@2.0.2?type=war

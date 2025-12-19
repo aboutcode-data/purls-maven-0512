@@ -1,0 +1,2 @@
+- pkg:maven/store.kalvan.platform/platform-admin-backend@1.0.0
+- pkg:maven/store.kalvan.platform/platform-admin-backend@1.0.0?classifier=sources

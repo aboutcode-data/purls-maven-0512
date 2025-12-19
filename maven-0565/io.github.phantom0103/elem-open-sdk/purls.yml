@@ -8,3 +8,5 @@
 - pkg:maven/io.github.phantom0103/elem-open-sdk@2.3.0?classifier=sources
 - pkg:maven/io.github.phantom0103/elem-open-sdk@2.4.0
 - pkg:maven/io.github.phantom0103/elem-open-sdk@2.4.0?classifier=sources
+- pkg:maven/io.github.phantom0103/elem-open-sdk@2.5.0
+- pkg:maven/io.github.phantom0103/elem-open-sdk@2.5.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.github.almasb/fxgl-controllerinput@11.16?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-controllerinput@11.17
 - pkg:maven/com.github.almasb/fxgl-controllerinput@11.17?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-controllerinput@17
+- pkg:maven/com.github.almasb/fxgl-controllerinput@17?classifier=sources

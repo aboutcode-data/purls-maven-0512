@@ -376,3 +376,5 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-extender-whiteboard@7.4.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-extender-whiteboard@8.0.0
 - pkg:maven/org.ops4j.pax.web/pax-web-extender-whiteboard@8.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-extender-whiteboard@8.0.1
+- pkg:maven/org.ops4j.pax.web/pax-web-extender-whiteboard@8.0.1?classifier=sources

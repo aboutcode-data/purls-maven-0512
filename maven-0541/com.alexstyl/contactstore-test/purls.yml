@@ -1,6 +1,14 @@
+- pkg:maven/com.alexstyl/contactstore-test@0.10.0?classifier=sources
+- pkg:maven/com.alexstyl/contactstore-test@0.11.0?classifier=sources
+- pkg:maven/com.alexstyl/contactstore-test@0.11.1?classifier=sources
+- pkg:maven/com.alexstyl/contactstore-test@0.12.0?classifier=sources
 - pkg:maven/com.alexstyl/contactstore-test@0.3.0?classifier=sources
 - pkg:maven/com.alexstyl/contactstore-test@0.3.1?classifier=sources
 - pkg:maven/com.alexstyl/contactstore-test@0.3.3?classifier=sources
 - pkg:maven/com.alexstyl/contactstore-test@0.4.0?classifier=sources
 - pkg:maven/com.alexstyl/contactstore-test@0.5.0?classifier=sources
 - pkg:maven/com.alexstyl/contactstore-test@0.6.0?classifier=sources
+- pkg:maven/com.alexstyl/contactstore-test@0.7.0?classifier=sources
+- pkg:maven/com.alexstyl/contactstore-test@0.7.1?classifier=sources
+- pkg:maven/com.alexstyl/contactstore-test@0.8.0?classifier=sources
+- pkg:maven/com.alexstyl/contactstore-test@0.9.0?classifier=sources

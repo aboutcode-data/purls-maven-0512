@@ -6,6 +6,8 @@
 - pkg:maven/com.yogcloud.tackfast/jetpack-common-datasource@1.0.15?classifier=sources
 - pkg:maven/com.yogcloud.tackfast/jetpack-common-datasource@1.0.16?classifier=sources
 - pkg:maven/com.yogcloud.tackfast/jetpack-common-datasource@1.0.17?classifier=sources
+- pkg:maven/com.yogcloud.tackfast/jetpack-common-datasource@1.0.19?classifier=sources
+- pkg:maven/com.yogcloud.tackfast/jetpack-common-datasource@1.0.20?classifier=sources
 - pkg:maven/com.yogcloud.tackfast/jetpack-common-datasource@1.0.6?classifier=sources
 - pkg:maven/com.yogcloud.tackfast/jetpack-common-datasource@1.0.7?classifier=sources
 - pkg:maven/com.yogcloud.tackfast/jetpack-common-datasource@1.0.8?classifier=sources

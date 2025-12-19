@@ -160,3 +160,7 @@
 - pkg:maven/com.artipie/http@v0.26?classifier=sources
 - pkg:maven/com.artipie/http@v1.0.1
 - pkg:maven/com.artipie/http@v1.0.1?classifier=sources
+- pkg:maven/com.artipie/http@v1.1.0
+- pkg:maven/com.artipie/http@v1.1.0?classifier=sources
+- pkg:maven/com.artipie/http@v1.1.1
+- pkg:maven/com.artipie/http@v1.1.1?classifier=sources

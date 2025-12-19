@@ -47,3 +47,4 @@
 - pkg:maven/org.litote.kmongo/kmongo-coroutine@4.2.8
 - pkg:maven/org.litote.kmongo/kmongo-coroutine@4.3.0
 - pkg:maven/org.litote.kmongo/kmongo-coroutine@4.4.0
+- pkg:maven/org.litote.kmongo/kmongo-coroutine@4.5.0

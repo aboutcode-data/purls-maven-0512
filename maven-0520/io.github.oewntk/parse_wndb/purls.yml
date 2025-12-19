@@ -1,0 +1,2 @@
+- pkg:maven/io.github.oewntk/parse_wndb@2.0.0
+- pkg:maven/io.github.oewntk/parse_wndb@2.0.0?classifier=sources

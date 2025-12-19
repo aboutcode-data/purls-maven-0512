@@ -1,1 +1,2 @@
 - pkg:maven/me.grishka.appkit/appkit@1.0?classifier=sources
+- pkg:maven/me.grishka.appkit/appkit@1.1?classifier=sources

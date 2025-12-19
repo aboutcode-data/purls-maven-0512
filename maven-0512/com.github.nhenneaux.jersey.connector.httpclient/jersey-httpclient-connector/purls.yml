@@ -21,6 +21,8 @@
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@0.2.1
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@0.2.10
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@0.2.10?classifier=sources
+- pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@0.2.11
+- pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@0.2.11?classifier=sources
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@0.2.1?classifier=sources
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@0.2.2
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@0.2.2?classifier=sources
@@ -36,6 +38,8 @@
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@0.2.7?classifier=sources
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@0.2.8
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@0.2.8?classifier=sources
+- pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@0.3.0
+- pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@0.3.0?classifier=sources
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.0.0
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.0.0?classifier=sources
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.0.1
@@ -45,6 +49,8 @@
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.0.12?classifier=sources
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.0.13
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.0.13?classifier=sources
+- pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.0.14
+- pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.0.14?classifier=sources
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.0.1?classifier=sources
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.0.2
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.0.2?classifier=sources
@@ -62,3 +68,5 @@
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.0.8?classifier=sources
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.0.9
 - pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.0.9?classifier=sources
+- pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.1.0
+- pkg:maven/com.github.nhenneaux.jersey.connector.httpclient/jersey-httpclient-connector@1.1.0?classifier=sources

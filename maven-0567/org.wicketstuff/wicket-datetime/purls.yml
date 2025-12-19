@@ -14,6 +14,8 @@
 - pkg:maven/org.wicketstuff/wicket-datetime@8.12.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-datetime@8.13.0
 - pkg:maven/org.wicketstuff/wicket-datetime@8.13.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-datetime@8.14.0
+- pkg:maven/org.wicketstuff/wicket-datetime@8.14.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-datetime@8.2.0
 - pkg:maven/org.wicketstuff/wicket-datetime@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-datetime@8.3.0
@@ -60,3 +62,5 @@
 - pkg:maven/org.wicketstuff/wicket-datetime@9.6.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-datetime@9.7.0
 - pkg:maven/org.wicketstuff/wicket-datetime@9.7.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-datetime@9.8.0
+- pkg:maven/org.wicketstuff/wicket-datetime@9.8.0?classifier=sources

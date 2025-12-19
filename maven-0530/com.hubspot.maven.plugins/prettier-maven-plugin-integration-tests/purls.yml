@@ -1,1 +1,2 @@
 - pkg:maven/com.hubspot.maven.plugins/prettier-maven-plugin-integration-tests@0.16
+- pkg:maven/com.hubspot.maven.plugins/prettier-maven-plugin-integration-tests@0.17

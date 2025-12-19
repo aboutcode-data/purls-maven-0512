@@ -4,3 +4,5 @@
 - pkg:maven/com.webengage/android-sdk@3.18.7?classifier=sources
 - pkg:maven/com.webengage/android-sdk@3.18.8?classifier=sources
 - pkg:maven/com.webengage/android-sdk@3.18.9?classifier=sources
+- pkg:maven/com.webengage/android-sdk@3.19.0?classifier=sources
+- pkg:maven/com.webengage/android-sdk@3.19.1?classifier=sources

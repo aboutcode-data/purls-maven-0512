@@ -1,2 +1,4 @@
 - pkg:maven/dev.struchkov.godfather/bot-core@0.0.1-RELEASE
 - pkg:maven/dev.struchkov.godfather/bot-core@0.0.1-RELEASE?classifier=sources
+- pkg:maven/dev.struchkov.godfather/bot-core@0.0.2
+- pkg:maven/dev.struchkov.godfather/bot-core@0.0.2?classifier=sources

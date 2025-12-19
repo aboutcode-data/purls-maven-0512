@@ -1,2 +1,4 @@
 - pkg:maven/io.metaloom.video/video4j@1.0.0
 - pkg:maven/io.metaloom.video/video4j@1.0.0?classifier=sources
+- pkg:maven/io.metaloom.video/video4j@1.1.0
+- pkg:maven/io.metaloom.video/video4j@1.1.0?classifier=sources

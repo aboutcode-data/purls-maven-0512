@@ -1,2 +1,6 @@
 - pkg:maven/com.immomo.momomedia/mediabase@momo5.0h.mediabase.2020-1109-1602?classifier=sources
 - pkg:maven/com.immomo.momomedia/mediabase@momo5.0h.mediabase.2020-1109-1602?type=aar
+- pkg:maven/com.immomo.momomedia/mediabase@momo5.0h.mediabase.2021-1229-1902?classifier=sources
+- pkg:maven/com.immomo.momomedia/mediabase@momo5.0h.mediabase.2021-1229-1902?type=aar
+- pkg:maven/com.immomo.momomedia/mediabase@momo5.0h.mediabase.2021-1229-1903?classifier=sources
+- pkg:maven/com.immomo.momomedia/mediabase@momo5.0h.mediabase.2021-1229-1903?type=aar

@@ -1,3 +1,4 @@
+- pkg:maven/com.itv/quartz4s-core_2.13@1.0.0
 - pkg:maven/com.itv/quartz4s-core_2.13@1.0.0-M4
 - pkg:maven/com.itv/quartz4s-core_2.13@1.0.0-M4?classifier=sources
 - pkg:maven/com.itv/quartz4s-core_2.13@1.0.0-RC1
@@ -6,3 +7,4 @@
 - pkg:maven/com.itv/quartz4s-core_2.13@1.0.0-RC2?classifier=sources
 - pkg:maven/com.itv/quartz4s-core_2.13@1.0.0-RC3
 - pkg:maven/com.itv/quartz4s-core_2.13@1.0.0-RC3?classifier=sources
+- pkg:maven/com.itv/quartz4s-core_2.13@1.0.0?classifier=sources

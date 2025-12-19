@@ -1,3 +1,10 @@
 - pkg:maven/com.agorapulse/micronaut-recurly@1.0.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-recurly@1.0.1?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-recurly@1.0.2?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-recurly@1.1.0-micronaut-1.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-recurly@1.1.0-micronaut-2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-recurly@1.1.1-micronaut-1.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-recurly@1.1.1-micronaut-2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-recurly@1.1.2-micronaut-1.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-recurly@1.1.2-micronaut-2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-recurly@1.1.2-micronaut-3.0?classifier=sources

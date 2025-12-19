@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/codemirror__stream-parser@0.19.4
+- pkg:maven/org.webjars.npm/codemirror__stream-parser@0.19.4?classifier=sources

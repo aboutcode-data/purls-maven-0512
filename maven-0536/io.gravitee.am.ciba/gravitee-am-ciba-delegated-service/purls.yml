@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.am.ciba/gravitee-am-ciba-delegated-service@3.15.0
+- pkg:maven/io.gravitee.am.ciba/gravitee-am-ciba-delegated-service@3.15.0?classifier=sources

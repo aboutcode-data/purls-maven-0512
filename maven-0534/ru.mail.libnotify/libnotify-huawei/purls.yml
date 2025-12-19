@@ -1,0 +1,2 @@
+- pkg:maven/ru.mail.libnotify/libnotify-huawei@0.2.10?classifier=sources
+- pkg:maven/ru.mail.libnotify/libnotify-huawei@0.2.11?classifier=sources

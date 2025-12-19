@@ -1,0 +1,2 @@
+- pkg:maven/org.gridkit.gridbeans/gridbeans-quickrun@0.2-rc2
+- pkg:maven/org.gridkit.gridbeans/gridbeans-quickrun@0.2-rc2?classifier=sources

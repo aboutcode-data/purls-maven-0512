@@ -44,3 +44,7 @@
 - pkg:maven/com.cognitect.aws/workspaces@811.2.934.0?classifier=sources
 - pkg:maven/com.cognitect.aws/workspaces@814.2.1008.0
 - pkg:maven/com.cognitect.aws/workspaces@814.2.1008.0?classifier=sources
+- pkg:maven/com.cognitect.aws/workspaces@814.2.1053.0
+- pkg:maven/com.cognitect.aws/workspaces@814.2.1053.0?classifier=sources
+- pkg:maven/com.cognitect.aws/workspaces@814.2.1066.0
+- pkg:maven/com.cognitect.aws/workspaces@814.2.1066.0?classifier=sources

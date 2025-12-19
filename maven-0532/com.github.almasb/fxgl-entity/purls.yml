@@ -34,3 +34,5 @@
 - pkg:maven/com.github.almasb/fxgl-entity@11.8?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-entity@11.9
 - pkg:maven/com.github.almasb/fxgl-entity@11.9?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-entity@17
+- pkg:maven/com.github.almasb/fxgl-entity@17?classifier=sources

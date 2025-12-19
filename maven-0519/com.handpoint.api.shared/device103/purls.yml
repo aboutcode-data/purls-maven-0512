@@ -38,3 +38,9 @@
 - pkg:maven/com.handpoint.api.shared/device103@6.4.1?type=aar
 - pkg:maven/com.handpoint.api.shared/device103@6.5.0?classifier=sources
 - pkg:maven/com.handpoint.api.shared/device103@6.5.0?type=aar
+- pkg:maven/com.handpoint.api.shared/device103@6.6.0?classifier=sources
+- pkg:maven/com.handpoint.api.shared/device103@6.6.0?type=aar
+- pkg:maven/com.handpoint.api.shared/device103@6.6.3?classifier=sources
+- pkg:maven/com.handpoint.api.shared/device103@6.6.3?type=aar
+- pkg:maven/com.handpoint.api.shared/device103@6.6.4?classifier=sources
+- pkg:maven/com.handpoint.api.shared/device103@6.6.4?type=aar

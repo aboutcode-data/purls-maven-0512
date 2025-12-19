@@ -1,4 +1,10 @@
 - pkg:maven/cn.entertech.android/uicomponentsdk@1.2.10?type=aar
+- pkg:maven/cn.entertech.android/uicomponentsdk@1.2.11?type=aar
+- pkg:maven/cn.entertech.android/uicomponentsdk@1.2.12?type=aar
+- pkg:maven/cn.entertech.android/uicomponentsdk@1.2.13?type=aar
+- pkg:maven/cn.entertech.android/uicomponentsdk@1.2.14?type=aar
+- pkg:maven/cn.entertech.android/uicomponentsdk@1.2.15?type=aar
+- pkg:maven/cn.entertech.android/uicomponentsdk@1.2.16?type=aar
 - pkg:maven/cn.entertech.android/uicomponentsdk@1.2.7?type=aar
 - pkg:maven/cn.entertech.android/uicomponentsdk@1.2.8?type=aar
 - pkg:maven/cn.entertech.android/uicomponentsdk@1.2.9?type=aar

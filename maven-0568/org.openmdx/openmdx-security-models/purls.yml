@@ -4,3 +4,4 @@
 - pkg:maven/org.openmdx/openmdx-security-models@2.17.7?classifier=sources
 - pkg:maven/org.openmdx/openmdx-security-models@2.17.8?classifier=sources
 - pkg:maven/org.openmdx/openmdx-security-models@2.17.9?classifier=sources
+- pkg:maven/org.openmdx/openmdx-security-models@2.18.0?classifier=sources

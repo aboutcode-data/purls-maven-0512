@@ -128,6 +128,10 @@
 - pkg:maven/org.kie.server/kie-server-services-swagger@7.62.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-services-swagger@7.63.0.Final
 - pkg:maven/org.kie.server/kie-server-services-swagger@7.63.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-services-swagger@7.64.0.Final
+- pkg:maven/org.kie.server/kie-server-services-swagger@7.64.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-services-swagger@7.65.0.Final
+- pkg:maven/org.kie.server/kie-server-services-swagger@7.65.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-services-swagger@7.7.0.Final
 - pkg:maven/org.kie.server/kie-server-services-swagger@7.7.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-services-swagger@7.8.0.Final

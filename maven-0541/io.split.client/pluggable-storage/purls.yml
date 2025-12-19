@@ -1,6 +1,8 @@
+- pkg:maven/io.split.client/pluggable-storage@1.0.0
 - pkg:maven/io.split.client/pluggable-storage@1.0.0-alpha
 - pkg:maven/io.split.client/pluggable-storage@1.0.0-alpha?classifier=sources
 - pkg:maven/io.split.client/pluggable-storage@1.0.0-beta
 - pkg:maven/io.split.client/pluggable-storage@1.0.0-beta?classifier=sources
 - pkg:maven/io.split.client/pluggable-storage@1.0.0-rc1
 - pkg:maven/io.split.client/pluggable-storage@1.0.0-rc1?classifier=sources
+- pkg:maven/io.split.client/pluggable-storage@1.0.0?classifier=sources

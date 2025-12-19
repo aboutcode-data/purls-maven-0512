@@ -171,6 +171,8 @@
 - pkg:maven/de.adorsys/hbci4j-adorsys@3.5.36?classifier=sources
 - pkg:maven/de.adorsys/hbci4j-adorsys@3.5.38
 - pkg:maven/de.adorsys/hbci4j-adorsys@3.5.38?classifier=sources
+- pkg:maven/de.adorsys/hbci4j-adorsys@3.5.39
+- pkg:maven/de.adorsys/hbci4j-adorsys@3.5.39?classifier=sources
 - pkg:maven/de.adorsys/hbci4j-adorsys@3.5.3?classifier=sources
 - pkg:maven/de.adorsys/hbci4j-adorsys@3.5.4
 - pkg:maven/de.adorsys/hbci4j-adorsys@3.5.4?classifier=sources

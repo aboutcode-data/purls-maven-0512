@@ -54,3 +54,5 @@
 - pkg:maven/com.github.nosan/embedded-cassandra-spring-boot-autoconfigure@4.0.7?classifier=sources
 - pkg:maven/com.github.nosan/embedded-cassandra-spring-boot-autoconfigure@4.0.8
 - pkg:maven/com.github.nosan/embedded-cassandra-spring-boot-autoconfigure@4.0.8?classifier=sources
+- pkg:maven/com.github.nosan/embedded-cassandra-spring-boot-autoconfigure@4.1.0
+- pkg:maven/com.github.nosan/embedded-cassandra-spring-boot-autoconfigure@4.1.0?classifier=sources

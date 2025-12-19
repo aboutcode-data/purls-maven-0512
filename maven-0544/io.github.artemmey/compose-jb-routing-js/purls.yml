@@ -3,3 +3,6 @@
 - pkg:maven/io.github.artemmey/compose-jb-routing-js@0.9.2-a1?classifier=sources
 - pkg:maven/io.github.artemmey/compose-jb-routing-js@0.9.2-a2?classifier=sources
 - pkg:maven/io.github.artemmey/compose-jb-routing-js@0.9.2?classifier=sources
+- pkg:maven/io.github.artemmey/compose-jb-routing-js@0.9.3?classifier=sources
+- pkg:maven/io.github.artemmey/compose-jb-routing-js@0.9.4?classifier=sources
+- pkg:maven/io.github.artemmey/compose-jb-routing-js@0.9.5?classifier=sources

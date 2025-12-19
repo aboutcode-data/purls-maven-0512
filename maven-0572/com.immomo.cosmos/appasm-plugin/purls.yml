@@ -1,0 +1,6 @@
+- pkg:maven/com.immomo.cosmos/appasm-plugin@0.9.4_20220111_1443
+- pkg:maven/com.immomo.cosmos/appasm-plugin@0.9.4_20220111_1443?classifier=sources
+- pkg:maven/com.immomo.cosmos/appasm-plugin@0.9.4_20220121_1706
+- pkg:maven/com.immomo.cosmos/appasm-plugin@0.9.4_20220121_1706?classifier=sources
+- pkg:maven/com.immomo.cosmos/appasm-plugin@0.9.4_20220121_1836
+- pkg:maven/com.immomo.cosmos/appasm-plugin@0.9.4_20220121_1836?classifier=sources

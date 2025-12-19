@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/unicode-match-property-ecmascript@1.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/unicode-match-property-ecmascript@1.0.4
 - pkg:maven/org.webjars.npm/unicode-match-property-ecmascript@1.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/unicode-match-property-ecmascript@2.0.0
+- pkg:maven/org.webjars.npm/unicode-match-property-ecmascript@2.0.0?classifier=sources

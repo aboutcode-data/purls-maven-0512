@@ -1,2 +1,10 @@
 - pkg:maven/org.ajoberstar.reckon/reckon-gradle@0.13.1-rc.3?classifier=sources
 - pkg:maven/org.ajoberstar.reckon/reckon-gradle@0.13.1?classifier=sources
+- pkg:maven/org.ajoberstar.reckon/reckon-gradle@0.13.2-rc.1?classifier=sources
+- pkg:maven/org.ajoberstar.reckon/reckon-gradle@0.13.2-rc.2?classifier=sources
+- pkg:maven/org.ajoberstar.reckon/reckon-gradle@0.13.2-rc.7?classifier=sources
+- pkg:maven/org.ajoberstar.reckon/reckon-gradle@0.13.2?classifier=sources
+- pkg:maven/org.ajoberstar.reckon/reckon-gradle@0.14.0-rc.1?classifier=sources
+- pkg:maven/org.ajoberstar.reckon/reckon-gradle@0.14.0?classifier=sources
+- pkg:maven/org.ajoberstar.reckon/reckon-gradle@0.15.0?classifier=sources
+- pkg:maven/org.ajoberstar.reckon/reckon-gradle@0.16.0?classifier=sources

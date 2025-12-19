@@ -12,3 +12,7 @@
 - pkg:maven/com.soywiz.korlibs/easy-kotlin-mpp-gradle-plugin@0.16.0?classifier=sources
 - pkg:maven/com.soywiz.korlibs/easy-kotlin-mpp-gradle-plugin@0.16.1?classifier=sources
 - pkg:maven/com.soywiz.korlibs/easy-kotlin-mpp-gradle-plugin@0.17.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs/easy-kotlin-mpp-gradle-plugin@0.18.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs/easy-kotlin-mpp-gradle-plugin@0.18.1?classifier=sources
+- pkg:maven/com.soywiz.korlibs/easy-kotlin-mpp-gradle-plugin@0.18.2?classifier=sources
+- pkg:maven/com.soywiz.korlibs/easy-kotlin-mpp-gradle-plugin@0.18.3?classifier=sources

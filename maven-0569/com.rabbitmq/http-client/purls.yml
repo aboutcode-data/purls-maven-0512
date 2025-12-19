@@ -56,3 +56,5 @@
 - pkg:maven/com.rabbitmq/http-client@3.8.0.RELEASE?classifier=sources
 - pkg:maven/com.rabbitmq/http-client@3.9.0.RELEASE
 - pkg:maven/com.rabbitmq/http-client@3.9.0.RELEASE?classifier=sources
+- pkg:maven/com.rabbitmq/http-client@4.0.0
+- pkg:maven/com.rabbitmq/http-client@4.0.0?classifier=sources

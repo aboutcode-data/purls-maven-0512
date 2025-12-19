@@ -100,5 +100,9 @@
 - pkg:maven/us.oyanglul/dhall-generic_2.12@0.3.66?classifier=sources
 - pkg:maven/us.oyanglul/dhall-generic_2.12@0.3.67
 - pkg:maven/us.oyanglul/dhall-generic_2.12@0.3.67?classifier=sources
+- pkg:maven/us.oyanglul/dhall-generic_2.12@0.3.73
+- pkg:maven/us.oyanglul/dhall-generic_2.12@0.3.73?classifier=sources
+- pkg:maven/us.oyanglul/dhall-generic_2.12@0.3.74
+- pkg:maven/us.oyanglul/dhall-generic_2.12@0.3.74?classifier=sources
 - pkg:maven/us.oyanglul/dhall-generic_2.12@398f3fe3
 - pkg:maven/us.oyanglul/dhall-generic_2.12@398f3fe3?classifier=sources

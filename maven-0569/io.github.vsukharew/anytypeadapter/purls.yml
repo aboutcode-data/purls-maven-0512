@@ -5,3 +5,4 @@
 - pkg:maven/io.github.vsukharew/anytypeadapter@1.0.9?classifier=sources
 - pkg:maven/io.github.vsukharew/anytypeadapter@1.2.0?classifier=sources
 - pkg:maven/io.github.vsukharew/anytypeadapter@2.0.0?classifier=sources
+- pkg:maven/io.github.vsukharew/anytypeadapter@2.1.0?classifier=sources

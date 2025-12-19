@@ -2,3 +2,4 @@
 - pkg:maven/com.twilio/live-player-android@1.0.0-preview15?classifier=sources
 - pkg:maven/com.twilio/live-player-android@1.0.0-preview16?classifier=sources
 - pkg:maven/com.twilio/live-player-android@1.0.0?classifier=sources
+- pkg:maven/com.twilio/live-player-android@1.0.1?classifier=sources

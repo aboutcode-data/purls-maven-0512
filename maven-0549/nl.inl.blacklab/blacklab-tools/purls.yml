@@ -1,0 +1,2 @@
+- pkg:maven/nl.inl.blacklab/blacklab-tools@2.2.0
+- pkg:maven/nl.inl.blacklab/blacklab-tools@2.2.0?classifier=sources

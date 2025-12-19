@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/meros@1.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/meros@1.1.4
 - pkg:maven/org.webjars.npm/meros@1.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/meros@1.2.0-next.4
+- pkg:maven/org.webjars.npm/meros@1.2.0-next.4?classifier=sources

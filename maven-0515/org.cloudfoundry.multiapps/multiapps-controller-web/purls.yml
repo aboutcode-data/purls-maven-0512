@@ -106,3 +106,7 @@
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-web@1.132.1?type=war
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-web@1.133.0?classifier=sources
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-web@1.133.0?type=war
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-web@1.134.0?classifier=sources
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-web@1.134.0?type=war
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-web@1.135.0?classifier=sources
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-web@1.135.0?type=war

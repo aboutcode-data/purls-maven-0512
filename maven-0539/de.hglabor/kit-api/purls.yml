@@ -1,2 +1,5 @@
 - pkg:maven/de.hglabor/kit-api@0.2.0
 - pkg:maven/de.hglabor/kit-api@0.2.0?classifier=sources
+- pkg:maven/de.hglabor/kit-api@1.17.1_LOCAL?classifier=sources
+- pkg:maven/de.hglabor/kit-api@1.17.1_v1?classifier=sources
+- pkg:maven/de.hglabor/kit-api@1.17.1_v2?classifier=sources

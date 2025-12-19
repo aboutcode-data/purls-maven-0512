@@ -5,3 +5,4 @@
 - pkg:maven/io.github.astrapi69/swing-components@5.7?classifier=sources
 - pkg:maven/io.github.astrapi69/swing-components@5.8?classifier=sources
 - pkg:maven/io.github.astrapi69/swing-components@5.9?classifier=sources
+- pkg:maven/io.github.astrapi69/swing-components@6?classifier=sources

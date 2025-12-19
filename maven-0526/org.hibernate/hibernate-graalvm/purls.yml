@@ -40,6 +40,7 @@
 - pkg:maven/org.hibernate/hibernate-graalvm@5.4.30.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-graalvm@5.4.31.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-graalvm@5.4.32.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-graalvm@5.4.33.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-graalvm@5.4.33?classifier=sources
 - pkg:maven/org.hibernate/hibernate-graalvm@5.5.0.Alpha1?classifier=sources
 - pkg:maven/org.hibernate/hibernate-graalvm@5.5.0.Beta1?classifier=sources
@@ -61,3 +62,5 @@
 - pkg:maven/org.hibernate/hibernate-graalvm@5.6.1.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-graalvm@5.6.2.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-graalvm@5.6.3.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-graalvm@5.6.4.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-graalvm@5.6.5.Final?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/top.wu2020/wu-easy-redis-listener@1.0.6
+- pkg:maven/top.wu2020/wu-easy-redis-listener@1.0.6?classifier=sources

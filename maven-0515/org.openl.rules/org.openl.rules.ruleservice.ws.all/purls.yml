@@ -31,3 +31,4 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.25.4?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.25.5?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.25.6?type=war
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.25.7?type=war

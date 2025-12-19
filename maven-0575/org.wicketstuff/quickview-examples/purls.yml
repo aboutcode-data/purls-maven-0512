@@ -6,6 +6,8 @@
 - pkg:maven/org.wicketstuff/quickview-examples@8.12.0?type=war
 - pkg:maven/org.wicketstuff/quickview-examples@8.13.0?classifier=sources
 - pkg:maven/org.wicketstuff/quickview-examples@8.13.0?type=war
+- pkg:maven/org.wicketstuff/quickview-examples@8.14.0?classifier=sources
+- pkg:maven/org.wicketstuff/quickview-examples@8.14.0?type=war
 - pkg:maven/org.wicketstuff/quickview-examples@8.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/quickview-examples@8.3.0?type=war
 - pkg:maven/org.wicketstuff/quickview-examples@8.4.0?classifier=sources
@@ -50,3 +52,5 @@
 - pkg:maven/org.wicketstuff/quickview-examples@9.6.0?type=war
 - pkg:maven/org.wicketstuff/quickview-examples@9.7.0?classifier=sources
 - pkg:maven/org.wicketstuff/quickview-examples@9.7.0?type=war
+- pkg:maven/org.wicketstuff/quickview-examples@9.8.0?classifier=sources
+- pkg:maven/org.wicketstuff/quickview-examples@9.8.0?type=war

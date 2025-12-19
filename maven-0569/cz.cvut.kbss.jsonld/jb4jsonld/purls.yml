@@ -50,3 +50,5 @@
 - pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld@0.8.7?classifier=sources
 - pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld@0.8.8
 - pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld@0.8.8?classifier=sources
+- pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld@0.8.9
+- pkg:maven/cz.cvut.kbss.jsonld/jb4jsonld@0.8.9?classifier=sources

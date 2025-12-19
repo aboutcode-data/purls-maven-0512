@@ -62,3 +62,5 @@
 - pkg:maven/com.github.nhenneaux.resilienthttpclient/single-host-httpclient@0.6.2?classifier=sources
 - pkg:maven/com.github.nhenneaux.resilienthttpclient/single-host-httpclient@0.6.3
 - pkg:maven/com.github.nhenneaux.resilienthttpclient/single-host-httpclient@0.6.3?classifier=sources
+- pkg:maven/com.github.nhenneaux.resilienthttpclient/single-host-httpclient@0.6.4
+- pkg:maven/com.github.nhenneaux.resilienthttpclient/single-host-httpclient@0.6.4?classifier=sources

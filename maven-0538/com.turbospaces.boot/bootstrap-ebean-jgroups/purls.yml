@@ -44,3 +44,9 @@
 - pkg:maven/com.turbospaces.boot/bootstrap-ebean-jgroups@1.0.35?classifier=sources
 - pkg:maven/com.turbospaces.boot/bootstrap-ebean-jgroups@1.0.36
 - pkg:maven/com.turbospaces.boot/bootstrap-ebean-jgroups@1.0.36?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-ebean-jgroups@1.0.38
+- pkg:maven/com.turbospaces.boot/bootstrap-ebean-jgroups@1.0.38?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-ebean-jgroups@1.0.39
+- pkg:maven/com.turbospaces.boot/bootstrap-ebean-jgroups@1.0.39?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-ebean-jgroups@1.0.40
+- pkg:maven/com.turbospaces.boot/bootstrap-ebean-jgroups@1.0.40?classifier=sources

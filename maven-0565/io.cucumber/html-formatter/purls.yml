@@ -22,6 +22,8 @@
 - pkg:maven/io.cucumber/html-formatter@16.0.1?classifier=sources
 - pkg:maven/io.cucumber/html-formatter@17.0.0
 - pkg:maven/io.cucumber/html-formatter@17.0.0?classifier=sources
+- pkg:maven/io.cucumber/html-formatter@18.0.0
+- pkg:maven/io.cucumber/html-formatter@18.0.0?classifier=sources
 - pkg:maven/io.cucumber/html-formatter@4.2.0
 - pkg:maven/io.cucumber/html-formatter@4.2.0?classifier=sources
 - pkg:maven/io.cucumber/html-formatter@4.3.0

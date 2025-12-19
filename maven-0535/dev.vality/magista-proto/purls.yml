@@ -1,0 +1,4 @@
+- pkg:maven/dev.vality/magista-proto@1.22-a79c146
+- pkg:maven/dev.vality/magista-proto@1.22-a79c146?classifier=sources
+- pkg:maven/dev.vality/magista-proto@1.24-7049d1b
+- pkg:maven/dev.vality/magista-proto@1.24-7049d1b?classifier=sources

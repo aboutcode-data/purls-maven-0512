@@ -1,0 +1,7 @@
+- pkg:maven/com.xenoamess.docker/dockerfile-maven-extension@1.4.20
+- pkg:maven/com.xenoamess.docker/dockerfile-maven-extension@1.4.21
+- pkg:maven/com.xenoamess.docker/dockerfile-maven-extension@1.4.21-fx1
+- pkg:maven/com.xenoamess.docker/dockerfile-maven-extension@1.4.22
+- pkg:maven/com.xenoamess.docker/dockerfile-maven-extension@1.4.23
+- pkg:maven/com.xenoamess.docker/dockerfile-maven-extension@1.4.24
+- pkg:maven/com.xenoamess.docker/dockerfile-maven-extension@1.4.24-beta1

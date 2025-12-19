@@ -1,0 +1,2 @@
+- pkg:maven/dev.vality/cds-proto@1.66-01353ce
+- pkg:maven/dev.vality/cds-proto@1.66-01353ce?classifier=sources

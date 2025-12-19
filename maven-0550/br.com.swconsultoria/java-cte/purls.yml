@@ -4,3 +4,5 @@
 - pkg:maven/br.com.swconsultoria/java-cte@3.00.6?classifier=sources
 - pkg:maven/br.com.swconsultoria/java-cte@3.00.7
 - pkg:maven/br.com.swconsultoria/java-cte@3.00.7?classifier=sources
+- pkg:maven/br.com.swconsultoria/java-cte@3.00.8
+- pkg:maven/br.com.swconsultoria/java-cte@3.00.8?classifier=sources
