@@ -148,6 +148,10 @@
 - pkg:maven/io.github.ahjohannessen/sec-tsc_2.13@0.25.3?classifier=sources
 - pkg:maven/io.github.ahjohannessen/sec-tsc_2.13@0.25.4
 - pkg:maven/io.github.ahjohannessen/sec-tsc_2.13@0.25.4?classifier=sources
+- pkg:maven/io.github.ahjohannessen/sec-tsc_2.13@0.25.5
+- pkg:maven/io.github.ahjohannessen/sec-tsc_2.13@0.25.5?classifier=sources
+- pkg:maven/io.github.ahjohannessen/sec-tsc_2.13@0.25.6
+- pkg:maven/io.github.ahjohannessen/sec-tsc_2.13@0.25.6?classifier=sources
 - pkg:maven/io.github.ahjohannessen/sec-tsc_2.13@0.5.0
 - pkg:maven/io.github.ahjohannessen/sec-tsc_2.13@0.5.0?classifier=sources
 - pkg:maven/io.github.ahjohannessen/sec-tsc_2.13@0.6.0

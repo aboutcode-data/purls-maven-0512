@@ -14,3 +14,4 @@
 - pkg:maven/org.sonarsource.xml/sonar-xml-plugin@2.6.0.3672?classifier=sources
 - pkg:maven/org.sonarsource.xml/sonar-xml-plugin@2.6.1.3686?classifier=sources
 - pkg:maven/org.sonarsource.xml/sonar-xml-plugin@2.7.0.3820?classifier=sources
+- pkg:maven/org.sonarsource.xml/sonar-xml-plugin@2.8.0.3982?classifier=sources

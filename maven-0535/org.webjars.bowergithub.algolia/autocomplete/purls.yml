@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.algolia/autocomplete@1.9.2
+- pkg:maven/org.webjars.bowergithub.algolia/autocomplete@1.9.2?classifier=sources

@@ -40,3 +40,4 @@
 - pkg:maven/org.asciidoctor/asciidoctorj-diagram@2.2.3?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-diagram@2.2.4?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-diagram@2.2.7?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-diagram@2.2.8?classifier=sources

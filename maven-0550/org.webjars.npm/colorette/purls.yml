@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/colorette@1.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/colorette@2.0.19
 - pkg:maven/org.webjars.npm/colorette@2.0.19?classifier=sources
+- pkg:maven/org.webjars.npm/colorette@2.0.20
+- pkg:maven/org.webjars.npm/colorette@2.0.20?classifier=sources

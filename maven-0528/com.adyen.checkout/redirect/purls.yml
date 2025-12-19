@@ -36,6 +36,7 @@
 - pkg:maven/com.adyen.checkout/redirect@4.1.0?classifier=sources
 - pkg:maven/com.adyen.checkout/redirect@4.1.1?classifier=sources
 - pkg:maven/com.adyen.checkout/redirect@4.10.0?classifier=sources
+- pkg:maven/com.adyen.checkout/redirect@4.11.0?classifier=sources
 - pkg:maven/com.adyen.checkout/redirect@4.2.0?classifier=sources
 - pkg:maven/com.adyen.checkout/redirect@4.3.0?classifier=sources
 - pkg:maven/com.adyen.checkout/redirect@4.4.0?classifier=sources
@@ -47,3 +48,4 @@
 - pkg:maven/com.adyen.checkout/redirect@4.8.0?classifier=sources
 - pkg:maven/com.adyen.checkout/redirect@4.9.0?classifier=sources
 - pkg:maven/com.adyen.checkout/redirect@4.9.1?classifier=sources
+- pkg:maven/com.adyen.checkout/redirect@5.0.0-alpha01?classifier=sources

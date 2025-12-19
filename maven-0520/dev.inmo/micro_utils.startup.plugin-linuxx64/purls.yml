@@ -1,0 +1,4 @@
+- pkg:maven/dev.inmo/micro_utils.startup.plugin-linuxx64@0.17.7?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.startup.plugin-linuxx64@0.17.8?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.startup.plugin-linuxx64@0.18.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.startup.plugin-linuxx64@0.18.1?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/org.lucee/aws-java-sdk-s3@1.12.192
 - pkg:maven/org.lucee/aws-java-sdk-s3@1.12.196
 - pkg:maven/org.lucee/aws-java-sdk-s3@1.12.347
+- pkg:maven/org.lucee/aws-java-sdk-s3@1.12.454
+- pkg:maven/org.lucee/aws-java-sdk-s3@1.12.455

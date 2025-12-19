@@ -1,0 +1,1 @@
+- pkg:maven/org.openrewrite.recipe/rewrite-static-analysis@1.0.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/io.gitee.wang_ming_yi/code_generator@0.0.3?classifier=sources
 - pkg:maven/io.gitee.wang_ming_yi/code_generator@0.0.5
 - pkg:maven/io.gitee.wang_ming_yi/code_generator@0.0.5?classifier=sources
+- pkg:maven/io.gitee.wang_ming_yi/code_generator@1.0.0
+- pkg:maven/io.gitee.wang_ming_yi/code_generator@1.0.0?classifier=sources

@@ -446,5 +446,11 @@
 - pkg:maven/com.liferay/com.liferay.account.service@2.0.94
 - pkg:maven/com.liferay/com.liferay.account.service@2.0.94?classifier=sources
 - pkg:maven/com.liferay/com.liferay.account.service@2.0.94?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.account.service@2.0.95
+- pkg:maven/com.liferay/com.liferay.account.service@2.0.95?classifier=sources
+- pkg:maven/com.liferay/com.liferay.account.service@2.0.95?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.account.service@2.0.96
+- pkg:maven/com.liferay/com.liferay.account.service@2.0.96?classifier=sources
+- pkg:maven/com.liferay/com.liferay.account.service@2.0.96?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.account.service@2.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.account.service@2.0.9?classifier=sources-commercial

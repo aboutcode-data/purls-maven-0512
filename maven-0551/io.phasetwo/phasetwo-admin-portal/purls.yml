@@ -1,0 +1,2 @@
+- pkg:maven/io.phasetwo/phasetwo-admin-portal@0.1
+- pkg:maven/io.phasetwo/phasetwo-admin-portal@0.1?classifier=sources

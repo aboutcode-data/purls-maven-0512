@@ -2,3 +2,5 @@
 - pkg:maven/io.gitee.antopen/simple-cache-spring-boot-starter@1.1.0?classifier=sources
 - pkg:maven/io.gitee.antopen/simple-cache-spring-boot-starter@1.1.1
 - pkg:maven/io.gitee.antopen/simple-cache-spring-boot-starter@1.1.1?classifier=sources
+- pkg:maven/io.gitee.antopen/simple-cache-spring-boot-starter@1.2.0
+- pkg:maven/io.gitee.antopen/simple-cache-spring-boot-starter@1.2.0?classifier=sources

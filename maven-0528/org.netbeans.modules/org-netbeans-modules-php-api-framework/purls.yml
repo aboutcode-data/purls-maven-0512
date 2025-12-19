@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-framework@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-framework@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-framework@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-framework@RELEASE180?classifier=sources

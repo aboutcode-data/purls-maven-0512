@@ -1,0 +1,2 @@
+- pkg:maven/uk.bot-by.ip-address/ipinfo-api@1.0.0
+- pkg:maven/uk.bot-by.ip-address/ipinfo-api@1.0.0?classifier=sources

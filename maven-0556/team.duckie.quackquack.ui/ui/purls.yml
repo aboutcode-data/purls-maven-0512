@@ -1,0 +1,7 @@
+- pkg:maven/team.duckie.quackquack.ui/ui@2.0.0-alpha01?classifier=sources
+- pkg:maven/team.duckie.quackquack.ui/ui@2.0.0-alpha02?classifier=sources
+- pkg:maven/team.duckie.quackquack.ui/ui@2.0.0-alpha03?classifier=sources
+- pkg:maven/team.duckie.quackquack.ui/ui@2.0.0-alpha04?classifier=sources
+- pkg:maven/team.duckie.quackquack.ui/ui@2.0.0-alpha05?classifier=sources
+- pkg:maven/team.duckie.quackquack.ui/ui@internal-2.0.0-test01?classifier=sources
+- pkg:maven/team.duckie.quackquack.ui/ui@internal-2.0.0-test02?classifier=sources

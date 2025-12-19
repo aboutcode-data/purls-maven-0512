@@ -132,6 +132,8 @@
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.9?type=war
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.1.0?classifier=sources
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.1.0?type=war
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.1.13?classifier=sources
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.1.13?type=war
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.1.1?classifier=sources
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.1.1?type=war
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.1.2?classifier=sources

@@ -94,3 +94,5 @@
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-client-multilang@2.4.7?classifier=sources
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-client-multilang@2.4.8
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-client-multilang@2.4.8?classifier=sources
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-client-multilang@2.5.0
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-client-multilang@2.5.0?classifier=sources

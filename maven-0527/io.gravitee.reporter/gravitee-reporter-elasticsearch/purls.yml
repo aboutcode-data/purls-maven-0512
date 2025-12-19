@@ -132,3 +132,4 @@
 - pkg:maven/io.gravitee.reporter/gravitee-reporter-elasticsearch@4.1.0-alpha.9?classifier=sources
 - pkg:maven/io.gravitee.reporter/gravitee-reporter-elasticsearch@4.1.0?classifier=sources
 - pkg:maven/io.gravitee.reporter/gravitee-reporter-elasticsearch@4.2.0?classifier=sources
+- pkg:maven/io.gravitee.reporter/gravitee-reporter-elasticsearch@4.2.1?classifier=sources

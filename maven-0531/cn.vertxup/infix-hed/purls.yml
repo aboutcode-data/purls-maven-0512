@@ -1,0 +1,2 @@
+- pkg:maven/cn.vertxup/infix-hed@0.9.0
+- pkg:maven/cn.vertxup/infix-hed@0.9.0?classifier=sources

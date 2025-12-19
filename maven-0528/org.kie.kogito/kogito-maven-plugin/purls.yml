@@ -132,6 +132,10 @@
 - pkg:maven/org.kie.kogito/kogito-maven-plugin@1.36.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-maven-plugin@1.37.0.Final
 - pkg:maven/org.kie.kogito/kogito-maven-plugin@1.37.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-maven-plugin@1.38.0.Final
+- pkg:maven/org.kie.kogito/kogito-maven-plugin@1.38.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-maven-plugin@1.39.0.Final
+- pkg:maven/org.kie.kogito/kogito-maven-plugin@1.39.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-maven-plugin@1.4.0.Final
 - pkg:maven/org.kie.kogito/kogito-maven-plugin@1.4.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-maven-plugin@1.4.1.Final

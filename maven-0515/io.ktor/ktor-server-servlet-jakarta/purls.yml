@@ -1,0 +1,1 @@
+- pkg:maven/io.ktor/ktor-server-servlet-jakarta@2.3.0?classifier=sources

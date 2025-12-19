@@ -1,2 +1,3 @@
 - pkg:maven/org.ow2.petals.samples.rest.edm/su-rest-edm-consume@1.1.0-1.0.0?classifier=sources
 - pkg:maven/org.ow2.petals.samples.rest.edm/su-rest-edm-consume@1.3.0-1.0.0?classifier=sources
+- pkg:maven/org.ow2.petals.samples.rest.edm/su-rest-edm-consume@2.4.0-1.0.0?classifier=sources

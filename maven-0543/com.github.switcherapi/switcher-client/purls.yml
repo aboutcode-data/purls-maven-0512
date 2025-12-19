@@ -38,3 +38,7 @@
 - pkg:maven/com.github.switcherapi/switcher-client@1.3.9?classifier=sources
 - pkg:maven/com.github.switcherapi/switcher-client@1.4.0
 - pkg:maven/com.github.switcherapi/switcher-client@1.4.0?classifier=sources
+- pkg:maven/com.github.switcherapi/switcher-client@2.0.0
+- pkg:maven/com.github.switcherapi/switcher-client@2.0.0?classifier=sources
+- pkg:maven/com.github.switcherapi/switcher-client@2.0.1
+- pkg:maven/com.github.switcherapi/switcher-client@2.0.1?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/org.openforis.collect.earth/collect-earth-app@1.15.05?classifier=sources
 - pkg:maven/org.openforis.collect.earth/collect-earth-app@1.15.08
 - pkg:maven/org.openforis.collect.earth/collect-earth-app@1.15.08?classifier=sources
+- pkg:maven/org.openforis.collect.earth/collect-earth-app@1.15.09
+- pkg:maven/org.openforis.collect.earth/collect-earth-app@1.15.09?classifier=sources

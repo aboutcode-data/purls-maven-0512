@@ -156,6 +156,10 @@
 - pkg:maven/io.sentry/sentry-android-okhttp@6.16.0?type=aar
 - pkg:maven/io.sentry/sentry-android-okhttp@6.17.0?classifier=sources
 - pkg:maven/io.sentry/sentry-android-okhttp@6.17.0?type=aar
+- pkg:maven/io.sentry/sentry-android-okhttp@6.18.0?classifier=sources
+- pkg:maven/io.sentry/sentry-android-okhttp@6.18.0?type=aar
+- pkg:maven/io.sentry/sentry-android-okhttp@6.18.1?classifier=sources
+- pkg:maven/io.sentry/sentry-android-okhttp@6.18.1?type=aar
 - pkg:maven/io.sentry/sentry-android-okhttp@6.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-android-okhttp@6.2.0?type=aar
 - pkg:maven/io.sentry/sentry-android-okhttp@6.2.1?classifier=sources

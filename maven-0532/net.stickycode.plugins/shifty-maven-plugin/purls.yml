@@ -1,5 +1,6 @@
 - pkg:maven/net.stickycode.plugins/shifty-maven-plugin@1.12
 - pkg:maven/net.stickycode.plugins/shifty-maven-plugin@1.12?classifier=sources
+- pkg:maven/net.stickycode.plugins/shifty-maven-plugin@1.17?classifier=sources
 - pkg:maven/net.stickycode.plugins/shifty-maven-plugin@1.2
 - pkg:maven/net.stickycode.plugins/shifty-maven-plugin@1.2?classifier=sources
 - pkg:maven/net.stickycode.plugins/shifty-maven-plugin@1.3

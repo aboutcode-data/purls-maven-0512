@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/fullcalendar__multimonth@6.1.4
 - pkg:maven/org.webjars.npm/fullcalendar__multimonth@6.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/fullcalendar__multimonth@6.1.7
+- pkg:maven/org.webjars.npm/fullcalendar__multimonth@6.1.7?classifier=sources

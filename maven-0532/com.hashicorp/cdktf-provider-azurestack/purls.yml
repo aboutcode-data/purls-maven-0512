@@ -18,3 +18,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-azurestack@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-azurestack@3.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-azurestack@3.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-azurestack@4.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-azurestack@4.0.0?classifier=sources

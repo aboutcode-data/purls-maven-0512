@@ -2,3 +2,5 @@
 - pkg:maven/org.tango-controls.atk/ATKWidget@9.3.28?classifier=sources
 - pkg:maven/org.tango-controls.atk/ATKWidget@9.3.31
 - pkg:maven/org.tango-controls.atk/ATKWidget@9.3.31?classifier=sources
+- pkg:maven/org.tango-controls.atk/ATKWidget@9.4.4
+- pkg:maven/org.tango-controls.atk/ATKWidget@9.4.4?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.codelibs.opensearch/opensearch-analysis-extension@2.5.0?type=zip
 - pkg:maven/org.codelibs.opensearch/opensearch-analysis-extension@2.6.0?classifier=sources
 - pkg:maven/org.codelibs.opensearch/opensearch-analysis-extension@2.6.0?type=zip
+- pkg:maven/org.codelibs.opensearch/opensearch-analysis-extension@2.7.0?classifier=sources
+- pkg:maven/org.codelibs.opensearch/opensearch-analysis-extension@2.7.0?type=zip

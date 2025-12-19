@@ -9,3 +9,7 @@
 - pkg:maven/com.pulumi/equinix-metal@3.3.0-alpha.1679413736%2B873dafd6?classifier=sources
 - pkg:maven/com.pulumi/equinix-metal@3.3.0-alpha.1680026644%2Bd11f11a4?classifier=sources
 - pkg:maven/com.pulumi/equinix-metal@3.3.0-alpha.1680908764%2Bcc3f760c?classifier=sources
+- pkg:maven/com.pulumi/equinix-metal@3.3.0-alpha.1681928580%2Bef2cdd57?classifier=sources
+- pkg:maven/com.pulumi/equinix-metal@3.3.0-alpha.1683265012%2B2eee6f40?classifier=sources
+- pkg:maven/com.pulumi/equinix-metal@3.3.0-alpha.1683351035%2B619fc3b5?classifier=sources
+- pkg:maven/com.pulumi/equinix-metal@3.3.0-alpha.1683610315%2Be0c4dd9b?classifier=sources

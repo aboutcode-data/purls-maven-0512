@@ -12,3 +12,5 @@
 - pkg:maven/me.kisoft/easybus-core@2.3.0?classifier=sources
 - pkg:maven/me.kisoft/easybus-core@2.4.0
 - pkg:maven/me.kisoft/easybus-core@2.4.0?classifier=sources
+- pkg:maven/me.kisoft/easybus-core@3.0.0
+- pkg:maven/me.kisoft/easybus-core@3.0.0?classifier=sources

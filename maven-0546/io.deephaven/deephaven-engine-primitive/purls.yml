@@ -1,1 +1,2 @@
 - pkg:maven/io.deephaven/deephaven-engine-primitive@0.23.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-engine-primitive@0.24.0?classifier=sources

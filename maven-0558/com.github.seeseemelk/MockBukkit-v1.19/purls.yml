@@ -98,6 +98,13 @@
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.144.5?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.145.0?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.145.1?classifier=sources
+- pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.145.2?classifier=sources
+- pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.146.0?classifier=sources
+- pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.146.1?classifier=sources
+- pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.146.2?classifier=sources
+- pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.147.0?classifier=sources
+- pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.147.1?classifier=sources
+- pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.147.2?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.28.0?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.29.0?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.30.0?classifier=sources
@@ -201,3 +208,5 @@
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.97.0?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.98.0?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@2.99.0?classifier=sources
+- pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@3.0.0?classifier=sources
+- pkg:maven/com.github.seeseemelk/MockBukkit-v1.19@3.1.0?classifier=sources

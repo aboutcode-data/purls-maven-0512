@@ -82,3 +82,5 @@
 - pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-55?classifier=sources
 - pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-57
 - pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-57?classifier=sources
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-62
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-62?classifier=sources

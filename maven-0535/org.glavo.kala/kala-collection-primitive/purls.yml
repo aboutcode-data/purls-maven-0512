@@ -23,3 +23,6 @@
 - pkg:maven/org.glavo.kala/kala-collection-primitive@0.62.0?classifier=sources
 - pkg:maven/org.glavo.kala/kala-collection-primitive@0.63.0?classifier=sources
 - pkg:maven/org.glavo.kala/kala-collection-primitive@0.64.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-collection-primitive@0.65.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-collection-primitive@0.66.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-collection-primitive@0.67.0?classifier=sources

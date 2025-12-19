@@ -54,3 +54,5 @@
 - pkg:maven/ai.tock/tock-nlp-build-model-worker-on-demand@22.9.4?classifier=sources
 - pkg:maven/ai.tock/tock-nlp-build-model-worker-on-demand@22.9.5
 - pkg:maven/ai.tock/tock-nlp-build-model-worker-on-demand@22.9.5?classifier=sources
+- pkg:maven/ai.tock/tock-nlp-build-model-worker-on-demand@23.3.0
+- pkg:maven/ai.tock/tock-nlp-build-model-worker-on-demand@23.3.0?classifier=sources

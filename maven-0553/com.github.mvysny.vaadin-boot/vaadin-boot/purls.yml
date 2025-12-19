@@ -3,7 +3,9 @@
 - pkg:maven/com.github.mvysny.vaadin-boot/vaadin-boot@10.2?classifier=sources
 - pkg:maven/com.github.mvysny.vaadin-boot/vaadin-boot@10.3?classifier=sources
 - pkg:maven/com.github.mvysny.vaadin-boot/vaadin-boot@10.4?classifier=sources
+- pkg:maven/com.github.mvysny.vaadin-boot/vaadin-boot@10.5?classifier=sources
 - pkg:maven/com.github.mvysny.vaadin-boot/vaadin-boot@11.0-rc2?classifier=sources
 - pkg:maven/com.github.mvysny.vaadin-boot/vaadin-boot@11.0?classifier=sources
 - pkg:maven/com.github.mvysny.vaadin-boot/vaadin-boot@11.1?classifier=sources
 - pkg:maven/com.github.mvysny.vaadin-boot/vaadin-boot@11.2?classifier=sources
+- pkg:maven/com.github.mvysny.vaadin-boot/vaadin-boot@11.3?classifier=sources

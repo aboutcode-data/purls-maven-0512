@@ -52,3 +52,4 @@
 - pkg:maven/com.dua3.fx/fx-icons@0.24.0?classifier=sources
 - pkg:maven/com.dua3.fx/fx-icons@0.25.0-M2?classifier=sources
 - pkg:maven/com.dua3.fx/fx-icons@0.25.0?classifier=sources
+- pkg:maven/com.dua3.fx/fx-icons@0.26.0?classifier=sources

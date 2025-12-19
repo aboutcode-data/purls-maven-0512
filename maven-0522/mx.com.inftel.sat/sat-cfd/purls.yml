@@ -1,3 +1,4 @@
 - pkg:maven/mx.com.inftel.sat/sat-cfd@2022.03.24?classifier=sources
 - pkg:maven/mx.com.inftel.sat/sat-cfd@2022.04.04?classifier=sources
 - pkg:maven/mx.com.inftel.sat/sat-cfd@2022.06.28?classifier=sources
+- pkg:maven/mx.com.inftel.sat/sat-cfd@2023.04.25?classifier=sources

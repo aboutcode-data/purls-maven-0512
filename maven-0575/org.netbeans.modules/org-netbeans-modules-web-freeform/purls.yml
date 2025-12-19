@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-freeform@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-freeform@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-freeform@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-freeform@RELEASE180?classifier=sources

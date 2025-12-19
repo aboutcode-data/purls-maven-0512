@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.ratis/ratis-shell@2.4.1?classifier=sources
 - pkg:maven/org.apache.ratis/ratis-shell@2.5.0
 - pkg:maven/org.apache.ratis/ratis-shell@2.5.0?classifier=sources
+- pkg:maven/org.apache.ratis/ratis-shell@2.5.1
+- pkg:maven/org.apache.ratis/ratis-shell@2.5.1?classifier=sources

@@ -33,3 +33,4 @@
 - pkg:maven/com.solutionappliance/samsgqueue@1.0.9?classifier=sources
 - pkg:maven/com.solutionappliance/samsgqueue@1.1.0?classifier=sources
 - pkg:maven/com.solutionappliance/samsgqueue@3.0.0?classifier=sources
+- pkg:maven/com.solutionappliance/samsgqueue@3.0.1?classifier=sources

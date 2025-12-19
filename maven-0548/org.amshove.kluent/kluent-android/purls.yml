@@ -14,3 +14,4 @@
 - pkg:maven/org.amshove.kluent/kluent-android@1.70?classifier=sources
 - pkg:maven/org.amshove.kluent/kluent-android@1.71?classifier=sources
 - pkg:maven/org.amshove.kluent/kluent-android@1.72?classifier=sources
+- pkg:maven/org.amshove.kluent/kluent-android@1.73?classifier=sources

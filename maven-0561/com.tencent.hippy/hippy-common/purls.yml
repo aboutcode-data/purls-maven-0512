@@ -18,3 +18,4 @@
 - pkg:maven/com.tencent.hippy/hippy-common@2.16.0?classifier=sources
 - pkg:maven/com.tencent.hippy/hippy-common@2.16.1?classifier=sources
 - pkg:maven/com.tencent.hippy/hippy-common@2.16.2?classifier=sources
+- pkg:maven/com.tencent.hippy/hippy-common@2.16.3?classifier=sources

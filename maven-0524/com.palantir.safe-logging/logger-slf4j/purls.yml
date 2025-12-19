@@ -12,3 +12,5 @@
 - pkg:maven/com.palantir.safe-logging/logger-slf4j@3.0.0?classifier=sources
 - pkg:maven/com.palantir.safe-logging/logger-slf4j@3.1.0?classifier=sources
 - pkg:maven/com.palantir.safe-logging/logger-slf4j@3.2.0?classifier=sources
+- pkg:maven/com.palantir.safe-logging/logger-slf4j@3.3.0?classifier=sources
+- pkg:maven/com.palantir.safe-logging/logger-slf4j@3.4.0?classifier=sources

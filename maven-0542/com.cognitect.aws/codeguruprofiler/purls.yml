@@ -12,3 +12,5 @@
 - pkg:maven/com.cognitect.aws/codeguruprofiler@811.2.865.0?classifier=sources
 - pkg:maven/com.cognitect.aws/codeguruprofiler@821.2.1107.0
 - pkg:maven/com.cognitect.aws/codeguruprofiler@821.2.1107.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codeguruprofiler@847.2.1365.0
+- pkg:maven/com.cognitect.aws/codeguruprofiler@847.2.1365.0?classifier=sources

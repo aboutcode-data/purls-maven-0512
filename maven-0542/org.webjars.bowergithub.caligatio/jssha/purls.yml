@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.caligatio/jssha@2.3.1
 - pkg:maven/org.webjars.bowergithub.caligatio/jssha@2.3.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.caligatio/jssha@3.3.0
+- pkg:maven/org.webjars.bowergithub.caligatio/jssha@3.3.0?classifier=sources

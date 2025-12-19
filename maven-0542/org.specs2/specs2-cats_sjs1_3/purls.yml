@@ -20,3 +20,5 @@
 - pkg:maven/org.specs2/specs2-cats_sjs1_3@4.19.0?classifier=sources
 - pkg:maven/org.specs2/specs2-cats_sjs1_3@4.19.2
 - pkg:maven/org.specs2/specs2-cats_sjs1_3@4.19.2?classifier=sources
+- pkg:maven/org.specs2/specs2-cats_sjs1_3@4.20.0
+- pkg:maven/org.specs2/specs2-cats_sjs1_3@4.20.0?classifier=sources

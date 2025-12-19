@@ -26,3 +26,9 @@
 - pkg:maven/io.trino/trino-benchmark-queries@412?classifier=sources
 - pkg:maven/io.trino/trino-benchmark-queries@413
 - pkg:maven/io.trino/trino-benchmark-queries@413?classifier=sources
+- pkg:maven/io.trino/trino-benchmark-queries@414
+- pkg:maven/io.trino/trino-benchmark-queries@414?classifier=sources
+- pkg:maven/io.trino/trino-benchmark-queries@415
+- pkg:maven/io.trino/trino-benchmark-queries@415?classifier=sources
+- pkg:maven/io.trino/trino-benchmark-queries@416
+- pkg:maven/io.trino/trino-benchmark-queries@416?classifier=sources

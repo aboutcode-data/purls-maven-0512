@@ -12,3 +12,5 @@
 - pkg:maven/ru.playa.keycloak/keycloak-kafka-provider@1.0.7?classifier=sources
 - pkg:maven/ru.playa.keycloak/keycloak-kafka-provider@1.0.8
 - pkg:maven/ru.playa.keycloak/keycloak-kafka-provider@1.0.8?classifier=sources
+- pkg:maven/ru.playa.keycloak/keycloak-kafka-provider@21.1.1
+- pkg:maven/ru.playa.keycloak/keycloak-kafka-provider@21.1.1?classifier=sources

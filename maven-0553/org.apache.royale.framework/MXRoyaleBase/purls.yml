@@ -1,1 +1,2 @@
+- pkg:maven/org.apache.royale.framework/MXRoyaleBase@0.9.10?classifier=sources
 - pkg:maven/org.apache.royale.framework/MXRoyaleBase@0.9.9?classifier=sources

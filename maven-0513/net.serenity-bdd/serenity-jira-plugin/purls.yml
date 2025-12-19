@@ -36,3 +36,7 @@
 - pkg:maven/net.serenity-bdd/serenity-jira-plugin@3.6.22?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-jira-plugin@3.6.23
 - pkg:maven/net.serenity-bdd/serenity-jira-plugin@3.6.23?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jira-plugin@3.7.0
+- pkg:maven/net.serenity-bdd/serenity-jira-plugin@3.7.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jira-plugin@3.7.1
+- pkg:maven/net.serenity-bdd/serenity-jira-plugin@3.7.1?classifier=sources

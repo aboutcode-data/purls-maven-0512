@@ -111,3 +111,7 @@
 - pkg:maven/org.pepstock/charba@6.3-gwt
 - pkg:maven/org.pepstock/charba@6.3-gwt?classifier=sources
 - pkg:maven/org.pepstock/charba@6.3?classifier=sources
+- pkg:maven/org.pepstock/charba@6.4
+- pkg:maven/org.pepstock/charba@6.4-gwt
+- pkg:maven/org.pepstock/charba@6.4-gwt?classifier=sources
+- pkg:maven/org.pepstock/charba@6.4?classifier=sources

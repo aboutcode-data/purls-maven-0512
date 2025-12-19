@@ -108,6 +108,16 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.29?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.30
 - pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.30?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.36
+- pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.36?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.39
+- pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.39?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.40
+- pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.40?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.41
+- pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.41?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.42
+- pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.42?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.8
 - pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.8?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-twc@1.8.9

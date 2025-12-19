@@ -51,6 +51,8 @@
 - pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.3.5-alpha.5?classifier=sources
 - pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.3.5?classifier=sources
 - pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.4.0-alpha.1
+- pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.4.0-alpha.10
+- pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.4.0-alpha.10?classifier=sources
 - pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.4.0-alpha.1?classifier=sources
 - pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.4.0-alpha.2
 - pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.4.0-alpha.2?classifier=sources
@@ -66,3 +68,5 @@
 - pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.4.0-alpha.7?classifier=sources
 - pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.4.0-alpha.8
 - pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.4.0-alpha.8?classifier=sources
+- pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.4.0-alpha.9
+- pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.4.0-alpha.9?classifier=sources
