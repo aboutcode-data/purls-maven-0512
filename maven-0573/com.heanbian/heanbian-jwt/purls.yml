@@ -18,5 +18,9 @@
 - pkg:maven/com.heanbian/heanbian-jwt@13.5
 - pkg:maven/com.heanbian/heanbian-jwt@13.5?classifier=sources
 - pkg:maven/com.heanbian/heanbian-jwt@13?classifier=sources
+- pkg:maven/com.heanbian/heanbian-jwt@14
+- pkg:maven/com.heanbian/heanbian-jwt@14.1
+- pkg:maven/com.heanbian/heanbian-jwt@14.1?classifier=sources
+- pkg:maven/com.heanbian/heanbian-jwt@14?classifier=sources
 - pkg:maven/com.heanbian/heanbian-jwt@20200807
 - pkg:maven/com.heanbian/heanbian-jwt@20200807?classifier=sources

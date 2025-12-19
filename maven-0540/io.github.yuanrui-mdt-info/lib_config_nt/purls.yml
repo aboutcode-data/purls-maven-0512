@@ -6,3 +6,5 @@
 - pkg:maven/io.github.yuanrui-mdt-info/lib_config_nt@1.0.5?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/lib_config_nt@1.0.8?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/lib_config_nt@1.1.0?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/lib_config_nt@1.2.0?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/lib_config_nt@1.2.1?type=aar

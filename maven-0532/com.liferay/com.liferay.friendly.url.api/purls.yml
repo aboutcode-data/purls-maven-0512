@@ -58,6 +58,11 @@
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@1.0.9
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@1.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@1.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.friendly.url.api@1.1.0
+- pkg:maven/com.liferay/com.liferay.friendly.url.api@1.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.friendly.url.api@1.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.friendly.url.api@1.1.1
+- pkg:maven/com.liferay/com.liferay.friendly.url.api@1.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@2.0.0?classifier=sources-commercial
@@ -103,6 +108,11 @@
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@2.2.0
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@2.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@2.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.friendly.url.api@2.3.0
+- pkg:maven/com.liferay/com.liferay.friendly.url.api@2.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.friendly.url.api@2.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.friendly.url.api@2.3.1
+- pkg:maven/com.liferay/com.liferay.friendly.url.api@2.3.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@3.0.0?classifier=sources-commercial
@@ -157,6 +167,8 @@
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@3.6.0
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@3.6.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@3.6.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.friendly.url.api@3.6.1
+- pkg:maven/com.liferay/com.liferay.friendly.url.api@3.6.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@4.0.0
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.friendly.url.api@4.0.0?classifier=sources-commercial

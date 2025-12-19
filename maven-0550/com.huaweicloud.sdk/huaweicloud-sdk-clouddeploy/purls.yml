@@ -183,6 +183,8 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-clouddeploy@3.1.41?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-clouddeploy@3.1.42
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-clouddeploy@3.1.42?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-clouddeploy@3.1.43
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-clouddeploy@3.1.43?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-clouddeploy@3.1.4?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-clouddeploy@3.1.5
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-clouddeploy@3.1.5?classifier=sources

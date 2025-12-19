@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/final-form@4.18.7?classifier=sources
 - pkg:maven/org.webjars.npm/final-form@4.20.2
 - pkg:maven/org.webjars.npm/final-form@4.20.2?classifier=sources
+- pkg:maven/org.webjars.npm/final-form@4.20.9
+- pkg:maven/org.webjars.npm/final-form@4.20.9?classifier=sources

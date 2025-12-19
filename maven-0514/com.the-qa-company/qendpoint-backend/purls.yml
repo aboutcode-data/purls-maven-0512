@@ -1,2 +1,6 @@
 - pkg:maven/com.the-qa-company/qendpoint-backend@1.12.0
 - pkg:maven/com.the-qa-company/qendpoint-backend@1.12.0?classifier=sources
+- pkg:maven/com.the-qa-company/qendpoint-backend@1.13.0
+- pkg:maven/com.the-qa-company/qendpoint-backend@1.13.0?classifier=sources
+- pkg:maven/com.the-qa-company/qendpoint-backend@1.13.1
+- pkg:maven/com.the-qa-company/qendpoint-backend@1.13.1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-java-http-client@1.25.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-java-http-client@1.26.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-java-http-client@1.27.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-java-http-client@1.28.0-alpha?classifier=sources

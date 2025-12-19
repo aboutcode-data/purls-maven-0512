@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/atlaskit__modal-dialog@12.6.2
+- pkg:maven/org.webjars.npm/atlaskit__modal-dialog@12.6.2?classifier=sources
+- pkg:maven/org.webjars.npm/atlaskit__modal-dialog@12.6.4
+- pkg:maven/org.webjars.npm/atlaskit__modal-dialog@12.6.4?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-interceptors-core@4.0.10?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-interceptors-core@4.0.8?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-interceptors-core@4.0.9?classifier=sources

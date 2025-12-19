@@ -6,3 +6,5 @@
 - pkg:maven/tech.deepdreams/payslip-events@0.0.4-RELEASE?classifier=sources
 - pkg:maven/tech.deepdreams/payslip-events@0.0.6-RELEASE
 - pkg:maven/tech.deepdreams/payslip-events@0.0.6-RELEASE?classifier=sources
+- pkg:maven/tech.deepdreams/payslip-events@0.0.7-RELEASE
+- pkg:maven/tech.deepdreams/payslip-events@0.0.7-RELEASE?classifier=sources

@@ -46,3 +46,4 @@
 - pkg:maven/org.camunda.bpm.springboot.project/qa-plugins-spin-dataformat-all@7.19.0-alpha5
 - pkg:maven/org.camunda.bpm.springboot.project/qa-plugins-spin-dataformat-all@7.20.0-alpha1
 - pkg:maven/org.camunda.bpm.springboot.project/qa-plugins-spin-dataformat-all@7.20.0-alpha2
+- pkg:maven/org.camunda.bpm.springboot.project/qa-plugins-spin-dataformat-all@7.20.0-alpha3

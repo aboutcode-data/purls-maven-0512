@@ -138,3 +138,5 @@
 - pkg:maven/com.cognitect.aws/ssm@845.2.1345.0?classifier=sources
 - pkg:maven/com.cognitect.aws/ssm@847.2.1365.0
 - pkg:maven/com.cognitect.aws/ssm@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ssm@848.2.1413.0
+- pkg:maven/com.cognitect.aws/ssm@848.2.1413.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/uk.dansiviter.cdi-repos/cdi-repos-processor@0.1.0
+- pkg:maven/uk.dansiviter.cdi-repos/cdi-repos-processor@0.1.0?classifier=sources

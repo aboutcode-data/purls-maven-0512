@@ -5,6 +5,11 @@
 - pkg:maven/cn.iosd/simple-starter-cloud@2022.3.2.0
 - pkg:maven/cn.iosd/simple-starter-cloud@2022.3.3.0
 - pkg:maven/cn.iosd/simple-starter-cloud@2022.3.4.0
+- pkg:maven/cn.iosd/simple-starter-cloud@2022.3.5.0
+- pkg:maven/cn.iosd/simple-starter-cloud@2022.3.5.1
+- pkg:maven/cn.iosd/simple-starter-cloud@2022.3.5.2
+- pkg:maven/cn.iosd/simple-starter-cloud@2022.4.0.0
+- pkg:maven/cn.iosd/simple-starter-cloud@2022.4.1.0
 - pkg:maven/cn.iosd/simple-starter-cloud@2023.1.0.0
 - pkg:maven/cn.iosd/simple-starter-cloud@2023.2.0.0
 - pkg:maven/cn.iosd/simple-starter-cloud@2023.2.1.0
@@ -17,3 +22,8 @@
 - pkg:maven/cn.iosd/simple-starter-cloud@2023.3.2.1
 - pkg:maven/cn.iosd/simple-starter-cloud@2023.3.3.0
 - pkg:maven/cn.iosd/simple-starter-cloud@2023.3.4.0
+- pkg:maven/cn.iosd/simple-starter-cloud@2023.3.5.0
+- pkg:maven/cn.iosd/simple-starter-cloud@2023.3.5.1
+- pkg:maven/cn.iosd/simple-starter-cloud@2023.3.5.2
+- pkg:maven/cn.iosd/simple-starter-cloud@2023.4.0.0
+- pkg:maven/cn.iosd/simple-starter-cloud@2023.4.1.0

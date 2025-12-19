@@ -1,0 +1,2 @@
+- pkg:maven/fr.insee.pogues/pogues-model@1.0.5
+- pkg:maven/fr.insee.pogues/pogues-model@1.0.5?classifier=sources

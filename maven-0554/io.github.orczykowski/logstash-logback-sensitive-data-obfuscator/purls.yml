@@ -1,0 +1,2 @@
+- pkg:maven/io.github.orczykowski/logstash-logback-sensitive-data-obfuscator@1.0.0
+- pkg:maven/io.github.orczykowski/logstash-logback-sensitive-data-obfuscator@1.0.0?classifier=sources

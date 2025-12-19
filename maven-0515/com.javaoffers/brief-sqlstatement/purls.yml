@@ -1,0 +1,2 @@
+- pkg:maven/com.javaoffers/brief-sqlstatement@3.6.2
+- pkg:maven/com.javaoffers/brief-sqlstatement@3.6.2?classifier=sources

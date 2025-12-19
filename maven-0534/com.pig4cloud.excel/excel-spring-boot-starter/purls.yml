@@ -54,3 +54,7 @@
 - pkg:maven/com.pig4cloud.excel/excel-spring-boot-starter@1.2.7?classifier=sources
 - pkg:maven/com.pig4cloud.excel/excel-spring-boot-starter@3.0.0
 - pkg:maven/com.pig4cloud.excel/excel-spring-boot-starter@3.0.0?classifier=sources
+- pkg:maven/com.pig4cloud.excel/excel-spring-boot-starter@3.1.0
+- pkg:maven/com.pig4cloud.excel/excel-spring-boot-starter@3.1.0?classifier=sources
+- pkg:maven/com.pig4cloud.excel/excel-spring-boot-starter@3.1.1-snapshot
+- pkg:maven/com.pig4cloud.excel/excel-spring-boot-starter@3.1.1-snapshot?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.inpefess/tptp-grpc@0.0.8?classifier=sources
+- pkg:maven/io.github.inpefess/tptp-grpc@0.0.9?classifier=sources

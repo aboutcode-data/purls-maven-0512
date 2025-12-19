@@ -4,3 +4,9 @@
 - pkg:maven/com.io7m.medrina/com.io7m.medrina.documentation@0.0.2?type=zip
 - pkg:maven/com.io7m.medrina/com.io7m.medrina.documentation@0.0.3?classifier=sources
 - pkg:maven/com.io7m.medrina/com.io7m.medrina.documentation@0.0.3?type=zip
+- pkg:maven/com.io7m.medrina/com.io7m.medrina.documentation@1.0.0-beta0001?classifier=sources
+- pkg:maven/com.io7m.medrina/com.io7m.medrina.documentation@1.0.0-beta0001?type=zip
+- pkg:maven/com.io7m.medrina/com.io7m.medrina.documentation@1.0.0-beta0002?classifier=sources
+- pkg:maven/com.io7m.medrina/com.io7m.medrina.documentation@1.0.0-beta0002?type=zip
+- pkg:maven/com.io7m.medrina/com.io7m.medrina.documentation@1.0.0-beta0003?classifier=sources
+- pkg:maven/com.io7m.medrina/com.io7m.medrina.documentation@1.0.0-beta0003?type=zip

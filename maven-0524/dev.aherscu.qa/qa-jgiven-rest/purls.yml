@@ -1,0 +1,2 @@
+- pkg:maven/dev.aherscu.qa/qa-jgiven-rest@0.0.26
+- pkg:maven/dev.aherscu.qa/qa-jgiven-rest@0.0.26?classifier=sources

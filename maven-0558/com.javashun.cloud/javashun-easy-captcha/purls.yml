@@ -1,0 +1,2 @@
+- pkg:maven/com.javashun.cloud/javashun-easy-captcha@2.0.0
+- pkg:maven/com.javashun.cloud/javashun-easy-captcha@2.0.0?classifier=sources

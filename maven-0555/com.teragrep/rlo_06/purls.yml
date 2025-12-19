@@ -2,3 +2,5 @@
 - pkg:maven/com.teragrep/rlo_06@4.0.2?classifier=sources
 - pkg:maven/com.teragrep/rlo_06@4.1.0
 - pkg:maven/com.teragrep/rlo_06@4.1.0?classifier=sources
+- pkg:maven/com.teragrep/rlo_06@4.3.0
+- pkg:maven/com.teragrep/rlo_06@4.3.0?classifier=sources

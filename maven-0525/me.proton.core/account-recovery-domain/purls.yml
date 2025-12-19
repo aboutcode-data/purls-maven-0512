@@ -1,2 +1,5 @@
 - pkg:maven/me.proton.core/account-recovery-domain@11.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-recovery-domain@12.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-domain@13.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-domain@13.0.1?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-domain@14.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/dev.blitzcraft/blitz-containers@1.0.0?classifier=sources
+- pkg:maven/dev.blitzcraft/blitz-containers@2.0.0?classifier=sources

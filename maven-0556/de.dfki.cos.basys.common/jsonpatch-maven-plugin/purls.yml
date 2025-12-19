@@ -1,0 +1,2 @@
+- pkg:maven/de.dfki.cos.basys.common/jsonpatch-maven-plugin@0.5.0
+- pkg:maven/de.dfki.cos.basys.common/jsonpatch-maven-plugin@0.5.0?classifier=sources

@@ -66,3 +66,5 @@
 - pkg:maven/org.apache.jena/jena-fuseki-war@4.7.0?type=war
 - pkg:maven/org.apache.jena/jena-fuseki-war@4.8.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-fuseki-war@4.8.0?type=war
+- pkg:maven/org.apache.jena/jena-fuseki-war@4.9.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-fuseki-war@4.9.0?type=war

@@ -22,3 +22,5 @@
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-api@0.9.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-api@1.0.0
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-api@1.0.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-api@2.0.0
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-api@2.0.0?classifier=sources

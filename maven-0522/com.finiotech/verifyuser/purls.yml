@@ -21,7 +21,10 @@
 - pkg:maven/com.finiotech/verifyuser@1.0.28?classifier=sources
 - pkg:maven/com.finiotech/verifyuser@1.0.29?classifier=sources
 - pkg:maven/com.finiotech/verifyuser@1.0.2?classifier=sources
+- pkg:maven/com.finiotech/verifyuser@1.0.30-fpv1.0-temp?classifier=sources
+- pkg:maven/com.finiotech/verifyuser@1.0.30-fpv1.0?classifier=sources
 - pkg:maven/com.finiotech/verifyuser@1.0.30?classifier=sources
+- pkg:maven/com.finiotech/verifyuser@1.0.31?classifier=sources
 - pkg:maven/com.finiotech/verifyuser@1.0.3?classifier=sources
 - pkg:maven/com.finiotech/verifyuser@1.0.4?classifier=sources
 - pkg:maven/com.finiotech/verifyuser@1.0.5?classifier=sources

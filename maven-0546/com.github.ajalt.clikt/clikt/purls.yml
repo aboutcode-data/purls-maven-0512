@@ -6,3 +6,8 @@
 - pkg:maven/com.github.ajalt.clikt/clikt@3.5.0?classifier=sources
 - pkg:maven/com.github.ajalt.clikt/clikt@3.5.1?classifier=sources
 - pkg:maven/com.github.ajalt.clikt/clikt@3.5.2?classifier=sources
+- pkg:maven/com.github.ajalt.clikt/clikt@3.5.3?classifier=sources
+- pkg:maven/com.github.ajalt.clikt/clikt@3.5.4?classifier=sources
+- pkg:maven/com.github.ajalt.clikt/clikt@4.0.0-RC?classifier=sources
+- pkg:maven/com.github.ajalt.clikt/clikt@4.0.0?classifier=sources
+- pkg:maven/com.github.ajalt.clikt/clikt@4.1.0?classifier=sources

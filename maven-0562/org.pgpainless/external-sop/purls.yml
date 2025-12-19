@@ -4,3 +4,4 @@
 - pkg:maven/org.pgpainless/external-sop@5.0.1?classifier=sources
 - pkg:maven/org.pgpainless/external-sop@6.0.0?classifier=sources
 - pkg:maven/org.pgpainless/external-sop@6.1.0?classifier=sources
+- pkg:maven/org.pgpainless/external-sop@7.0.0?classifier=sources

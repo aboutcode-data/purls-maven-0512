@@ -1,0 +1,2 @@
+- pkg:maven/edu.gemini/gsp-graphql-sql_sjs1_3@0.13.0
+- pkg:maven/edu.gemini/gsp-graphql-sql_sjs1_3@0.13.0?classifier=sources

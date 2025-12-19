@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jitendrakumar2006.demo7/publish-artifacts@0.0.7
+- pkg:maven/io.github.jitendrakumar2006.demo7/publish-artifacts@0.0.7?classifier=sources

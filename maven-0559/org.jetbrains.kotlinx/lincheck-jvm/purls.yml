@@ -9,4 +9,10 @@
 - pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.18?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.19?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.20?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.21-IDEA-PLUGIN-1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.21-IDEA-PLUGIN-2?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.21-IDEA-PLUGIN?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.21?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.22?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.23-IDEA-PLUGIN?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.23?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.6.Final
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.6.Final?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.6a.Final
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.6a.Final?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/com.mx.path-facilities/store-vault@4.0.0-rc.3?classifier=sources
 - pkg:maven/com.mx.path-facilities/store-vault@4.0.0?classifier=sources
 - pkg:maven/com.mx.path-facilities/store-vault@4.1.0-rc.0?classifier=sources
+- pkg:maven/com.mx.path-facilities/store-vault@5.0.0?classifier=sources

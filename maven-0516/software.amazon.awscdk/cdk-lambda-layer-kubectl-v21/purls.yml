@@ -22,3 +22,5 @@
 - pkg:maven/software.amazon.awscdk/cdk-lambda-layer-kubectl-v21@0.0.8?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-lambda-layer-kubectl-v21@0.0.9
 - pkg:maven/software.amazon.awscdk/cdk-lambda-layer-kubectl-v21@0.0.9?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-kubectl-v21@2.0.0
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-kubectl-v21@2.0.0?classifier=sources

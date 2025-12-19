@@ -62,6 +62,8 @@
 - pkg:maven/org.wololo/flatgeobuf@3.25.0?classifier=sources
 - pkg:maven/org.wololo/flatgeobuf@3.26.0
 - pkg:maven/org.wololo/flatgeobuf@3.26.0?classifier=sources
+- pkg:maven/org.wololo/flatgeobuf@3.26.1
+- pkg:maven/org.wololo/flatgeobuf@3.26.1?classifier=sources
 - pkg:maven/org.wololo/flatgeobuf@3.3.0
 - pkg:maven/org.wololo/flatgeobuf@3.3.0?classifier=sources
 - pkg:maven/org.wololo/flatgeobuf@3.4.0

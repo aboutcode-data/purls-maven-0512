@@ -19,3 +19,6 @@
 - pkg:maven/com.testsigma/testsigma-java-sdk@1.0.9_beta_1?classifier=sources
 - pkg:maven/com.testsigma/testsigma-java-sdk@1.1.0_beta_1?classifier=sources
 - pkg:maven/com.testsigma/testsigma-java-sdk@1.2.0.beta_selenium4_1?classifier=sources
+- pkg:maven/com.testsigma/testsigma-java-sdk@1.2.0_cloud_1?classifier=sources
+- pkg:maven/com.testsigma/testsigma-java-sdk@1.2.1?classifier=sources
+- pkg:maven/com.testsigma/testsigma-java-sdk@1.2.1_cloud?classifier=sources

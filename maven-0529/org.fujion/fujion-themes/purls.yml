@@ -48,3 +48,5 @@
 - pkg:maven/org.fujion/fujion-themes@2.2.1?classifier=sources
 - pkg:maven/org.fujion/fujion-themes@3.0.0
 - pkg:maven/org.fujion/fujion-themes@3.0.0?classifier=sources
+- pkg:maven/org.fujion/fujion-themes@3.1.0
+- pkg:maven/org.fujion/fujion-themes@3.1.0?classifier=sources

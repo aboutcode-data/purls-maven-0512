@@ -1,0 +1,2 @@
+- pkg:maven/de.hatoka.neuralnetwork/neuralnetwork@1.0.1?classifier=sources
+- pkg:maven/de.hatoka.neuralnetwork/neuralnetwork@2.0.0?classifier=sources

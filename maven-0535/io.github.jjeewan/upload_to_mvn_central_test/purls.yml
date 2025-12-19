@@ -1,0 +1,8 @@
+- pkg:maven/io.github.jjeewan/upload_to_mvn_central_test@0.1.13
+- pkg:maven/io.github.jjeewan/upload_to_mvn_central_test@0.1.13?classifier=sources
+- pkg:maven/io.github.jjeewan/upload_to_mvn_central_test@0.1.14
+- pkg:maven/io.github.jjeewan/upload_to_mvn_central_test@0.1.14?classifier=sources
+- pkg:maven/io.github.jjeewan/upload_to_mvn_central_test@0.1.8
+- pkg:maven/io.github.jjeewan/upload_to_mvn_central_test@0.1.8?classifier=sources
+- pkg:maven/io.github.jjeewan/upload_to_mvn_central_test@0.1.9
+- pkg:maven/io.github.jjeewan/upload_to_mvn_central_test@0.1.9?classifier=sources

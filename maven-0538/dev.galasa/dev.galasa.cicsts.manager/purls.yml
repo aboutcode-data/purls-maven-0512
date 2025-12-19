@@ -17,6 +17,7 @@
 - pkg:maven/dev.galasa/dev.galasa.cicsts.manager@0.24.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.cicsts.manager@0.25.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.cicsts.manager@0.26.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.cicsts.manager@0.28.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.cicsts.manager@0.5.0
 - pkg:maven/dev.galasa/dev.galasa.cicsts.manager@0.5.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.cicsts.manager@0.6.0

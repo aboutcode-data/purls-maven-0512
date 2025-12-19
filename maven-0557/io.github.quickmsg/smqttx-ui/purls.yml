@@ -1,5 +1,6 @@
 - pkg:maven/io.github.quickmsg/smqttx-ui@2.0.0
 - pkg:maven/io.github.quickmsg/smqttx-ui@2.0.1
+- pkg:maven/io.github.quickmsg/smqttx-ui@2.0.10
 - pkg:maven/io.github.quickmsg/smqttx-ui@2.0.2
 - pkg:maven/io.github.quickmsg/smqttx-ui@2.0.3
 - pkg:maven/io.github.quickmsg/smqttx-ui@2.0.4

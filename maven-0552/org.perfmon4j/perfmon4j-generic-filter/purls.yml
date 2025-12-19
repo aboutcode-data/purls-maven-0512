@@ -1,0 +1,2 @@
+- pkg:maven/org.perfmon4j/perfmon4j-generic-filter@2.0.0-BETA1
+- pkg:maven/org.perfmon4j/perfmon4j-generic-filter@2.0.0-BETA1?classifier=sources

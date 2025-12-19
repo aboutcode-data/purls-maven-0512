@@ -25,3 +25,4 @@
 - pkg:maven/org.mnode.ical4j/ical4j-vcard@2.0.0-alpha5?classifier=sources
 - pkg:maven/org.mnode.ical4j/ical4j-vcard@2.0.0-alpha6?classifier=sources
 - pkg:maven/org.mnode.ical4j/ical4j-vcard@2.0.0-alpha7?classifier=sources
+- pkg:maven/org.mnode.ical4j/ical4j-vcard@2.0.0-alpha8?classifier=sources

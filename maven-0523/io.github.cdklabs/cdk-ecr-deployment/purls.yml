@@ -38,6 +38,8 @@
 - pkg:maven/io.github.cdklabs/cdk-ecr-deployment@2.5.28?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-ecr-deployment@2.5.29
 - pkg:maven/io.github.cdklabs/cdk-ecr-deployment@2.5.29?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-ecr-deployment@2.5.30
+- pkg:maven/io.github.cdklabs/cdk-ecr-deployment@2.5.30?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-ecr-deployment@2.5.7
 - pkg:maven/io.github.cdklabs/cdk-ecr-deployment@2.5.7?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-ecr-deployment@2.5.8

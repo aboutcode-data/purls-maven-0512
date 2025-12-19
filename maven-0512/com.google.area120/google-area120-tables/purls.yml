@@ -48,6 +48,14 @@
 - pkg:maven/com.google.area120/google-area120-tables@0.21.0?classifier=sources
 - pkg:maven/com.google.area120/google-area120-tables@0.22.0
 - pkg:maven/com.google.area120/google-area120-tables@0.22.0?classifier=sources
+- pkg:maven/com.google.area120/google-area120-tables@0.23.0
+- pkg:maven/com.google.area120/google-area120-tables@0.23.0?classifier=sources
+- pkg:maven/com.google.area120/google-area120-tables@0.24.0
+- pkg:maven/com.google.area120/google-area120-tables@0.24.0?classifier=sources
+- pkg:maven/com.google.area120/google-area120-tables@0.25.0
+- pkg:maven/com.google.area120/google-area120-tables@0.25.0?classifier=sources
+- pkg:maven/com.google.area120/google-area120-tables@0.26.0
+- pkg:maven/com.google.area120/google-area120-tables@0.26.0?classifier=sources
 - pkg:maven/com.google.area120/google-area120-tables@0.3.0
 - pkg:maven/com.google.area120/google-area120-tables@0.3.0?classifier=sources
 - pkg:maven/com.google.area120/google-area120-tables@0.3.1

@@ -1,0 +1,2 @@
+- pkg:maven/com.mobius-software.pcap/hadoop-pcap-lib@1.1-2
+- pkg:maven/com.mobius-software.pcap/hadoop-pcap-lib@1.1-2?classifier=sources

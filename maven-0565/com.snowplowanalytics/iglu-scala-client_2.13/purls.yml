@@ -80,6 +80,10 @@
 - pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@1.4.0-M5
 - pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@1.4.0-M5?classifier=sources
 - pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@1.4.0?classifier=sources
+- pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@1.5.0
+- pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@1.5.0-M1
+- pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@1.5.0-M1?classifier=sources
+- pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@1.5.0?classifier=sources
 - pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@2.0.0
 - pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@2.0.0-M1
 - pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@2.0.0-M1?classifier=sources
@@ -114,3 +118,5 @@
 - pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@3.0.0-M4
 - pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@3.0.0-M4?classifier=sources
 - pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@3.0.0?classifier=sources
+- pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@3.1.0
+- pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@3.1.0?classifier=sources
