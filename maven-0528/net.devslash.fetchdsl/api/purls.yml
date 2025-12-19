@@ -21,3 +21,5 @@
 - pkg:maven/net.devslash.fetchdsl/api@0.22.0?classifier=sources
 - pkg:maven/net.devslash.fetchdsl/api@0.22.1?classifier=sources
 - pkg:maven/net.devslash.fetchdsl/api@0.23.0?classifier=sources
+- pkg:maven/net.devslash.fetchdsl/api@0.24.0?classifier=sources
+- pkg:maven/net.devslash.fetchdsl/api@0.24.1?classifier=sources

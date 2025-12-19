@@ -32,3 +32,5 @@
 - pkg:maven/com.pwrdrvr.microapps/releaseappcdk@0.4.6?classifier=sources
 - pkg:maven/com.pwrdrvr.microapps/releaseappcdk@0.4.7
 - pkg:maven/com.pwrdrvr.microapps/releaseappcdk@0.4.7?classifier=sources
+- pkg:maven/com.pwrdrvr.microapps/releaseappcdk@0.5.3
+- pkg:maven/com.pwrdrvr.microapps/releaseappcdk@0.5.3?classifier=sources

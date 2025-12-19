@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-languages@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-languages@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-languages@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-languages@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-languages@RELEASE90?classifier=sources

@@ -145,6 +145,13 @@
 - pkg:maven/org.openrewrite/rewrite-java-8@7.34.2?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-8@7.34.3?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-8@7.35.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-8@7.36.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-8@7.36.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-8@7.37.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-8@7.37.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-8@7.37.2?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-8@7.37.3?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-8@7.38.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-8@7.4.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-8@7.5.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-8@7.6.0?classifier=sources

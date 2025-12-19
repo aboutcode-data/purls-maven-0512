@@ -1,0 +1,6 @@
+- pkg:maven/io.bitbucket.chandrakant-idea/ossrh-sample@1.1.0?classifier=sources
+- pkg:maven/io.bitbucket.chandrakant-idea/ossrh-sample@1.2.3?classifier=sources
+- pkg:maven/io.bitbucket.chandrakant-idea/ossrh-sample@1.2.7?classifier=sources
+- pkg:maven/io.bitbucket.chandrakant-idea/ossrh-sample@2.0.0?classifier=sources
+- pkg:maven/io.bitbucket.chandrakant-idea/ossrh-sample@3.0.0?classifier=sources
+- pkg:maven/io.bitbucket.chandrakant-idea/ossrh-sample@5.0.0?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/io.github.fern-api/lago@0.0.10?classifier=sources
 - pkg:maven/io.github.fern-api/lago@0.0.8?classifier=sources
 - pkg:maven/io.github.fern-api/lago@0.0.9?classifier=sources
+- pkg:maven/io.github.fern-api/lago@0.1.0?classifier=sources

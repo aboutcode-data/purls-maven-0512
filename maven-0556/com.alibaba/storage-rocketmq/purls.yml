@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba/storage-rocketmq@0.2
+- pkg:maven/com.alibaba/storage-rocketmq@0.2?classifier=sources

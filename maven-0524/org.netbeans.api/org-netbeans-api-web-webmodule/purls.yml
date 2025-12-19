@@ -15,3 +15,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-web-webmodule@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-web-webmodule@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-web-webmodule@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-web-webmodule@RELEASE170?classifier=sources

@@ -72,3 +72,5 @@
 - pkg:maven/de.hilling.junit.cdi/test-jsf-war@4.0.1?type=war
 - pkg:maven/de.hilling.junit.cdi/test-jsf-war@4.1.0?classifier=sources
 - pkg:maven/de.hilling.junit.cdi/test-jsf-war@4.1.0?type=war
+- pkg:maven/de.hilling.junit.cdi/test-jsf-war@4.2.0?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/test-jsf-war@4.2.0?type=war

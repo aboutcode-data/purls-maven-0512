@@ -171,3 +171,5 @@
 - pkg:maven/org.dspace/dspace-api@7.3?classifier=sources
 - pkg:maven/org.dspace/dspace-api@7.4
 - pkg:maven/org.dspace/dspace-api@7.4?classifier=sources
+- pkg:maven/org.dspace/dspace-api@7.5
+- pkg:maven/org.dspace/dspace-api@7.5?classifier=sources

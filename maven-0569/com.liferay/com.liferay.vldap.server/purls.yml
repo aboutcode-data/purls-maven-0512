@@ -7,6 +7,9 @@
 - pkg:maven/com.liferay/com.liferay.vldap.server@1.0.17
 - pkg:maven/com.liferay/com.liferay.vldap.server@1.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.vldap.server@1.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.vldap.server@1.0.19
+- pkg:maven/com.liferay/com.liferay.vldap.server@1.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.vldap.server@1.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.vldap.server@2.0.17
 - pkg:maven/com.liferay/com.liferay.vldap.server@2.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.vldap.server@2.0.17?classifier=sources-commercial
@@ -19,6 +22,9 @@
 - pkg:maven/com.liferay/com.liferay.vldap.server@2.0.20
 - pkg:maven/com.liferay/com.liferay.vldap.server@2.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.vldap.server@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.vldap.server@2.0.21
+- pkg:maven/com.liferay/com.liferay.vldap.server@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.vldap.server@2.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.16
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.16?classifier=sources-commercial
@@ -34,6 +40,9 @@
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.20
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.vldap.server@3.0.21
+- pkg:maven/com.liferay/com.liferay.vldap.server@3.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.vldap.server@3.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.9
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.9?classifier=sources-commercial

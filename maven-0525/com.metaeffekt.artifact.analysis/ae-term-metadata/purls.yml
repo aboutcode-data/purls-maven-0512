@@ -49,6 +49,10 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.52.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.53.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.54.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.55.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.56.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.57.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.58.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.6.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.7.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-term-metadata@0.8.0

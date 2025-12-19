@@ -23,3 +23,5 @@
 - pkg:maven/com.ninja-squad/springmockk@3.1.1?classifier=sources
 - pkg:maven/com.ninja-squad/springmockk@3.1.2?classifier=sources
 - pkg:maven/com.ninja-squad/springmockk@4.0.0?classifier=sources
+- pkg:maven/com.ninja-squad/springmockk@4.0.1?classifier=sources
+- pkg:maven/com.ninja-squad/springmockk@4.0.2?classifier=sources

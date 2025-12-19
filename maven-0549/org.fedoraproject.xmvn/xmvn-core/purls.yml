@@ -2,3 +2,9 @@
 - pkg:maven/org.fedoraproject.xmvn/xmvn-core@3.0.0?classifier=sources
 - pkg:maven/org.fedoraproject.xmvn/xmvn-core@3.1.0
 - pkg:maven/org.fedoraproject.xmvn/xmvn-core@3.1.0?classifier=sources
+- pkg:maven/org.fedoraproject.xmvn/xmvn-core@4.0.0
+- pkg:maven/org.fedoraproject.xmvn/xmvn-core@4.0.0?classifier=sources
+- pkg:maven/org.fedoraproject.xmvn/xmvn-core@4.1.0
+- pkg:maven/org.fedoraproject.xmvn/xmvn-core@4.1.0?classifier=sources
+- pkg:maven/org.fedoraproject.xmvn/xmvn-core@4.2.0
+- pkg:maven/org.fedoraproject.xmvn/xmvn-core@4.2.0?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-compat-v1@11.1.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-compat-v1@11.2.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-compat-v1@12.0.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-compat-v1@12.1.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-compat-v1@13.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-compat-v1@4.1.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-compat-v1@5.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-compat-v1@5.1.0?classifier=sources

@@ -53,3 +53,6 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.6.3-20230207
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.6.3-20230208
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.6.3-20230209
+- pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.6.3-20230215
+- pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.6.3-20230222
+- pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.6.3-20230308

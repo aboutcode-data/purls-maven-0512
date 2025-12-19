@@ -8,3 +8,5 @@
 - pkg:maven/com.github.katjahahn/portex_2.12@3.0.4?classifier=sources
 - pkg:maven/com.github.katjahahn/portex_2.12@4.0.0
 - pkg:maven/com.github.katjahahn/portex_2.12@4.0.0?classifier=sources
+- pkg:maven/com.github.katjahahn/portex_2.12@4.0.1
+- pkg:maven/com.github.katjahahn/portex_2.12@4.0.1?classifier=sources

@@ -108,8 +108,16 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.25.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.26.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.26.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.27.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.27.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.28.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.28.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.29.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.29.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.3.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.3.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.30.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.30.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.4.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.4.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.5.0
@@ -122,6 +130,10 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.8.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.9.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@14.9.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@15.0.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@15.0.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@15.1.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@15.1.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@2.0.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@2.0.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@2.0.1

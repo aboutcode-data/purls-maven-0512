@@ -1,0 +1,2 @@
+- pkg:maven/net.ivoah/vial_3@0.3.1
+- pkg:maven/net.ivoah/vial_3@0.3.1?classifier=sources

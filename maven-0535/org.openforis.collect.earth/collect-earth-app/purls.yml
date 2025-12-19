@@ -40,3 +40,7 @@
 - pkg:maven/org.openforis.collect.earth/collect-earth-app@1.14.8?classifier=sources
 - pkg:maven/org.openforis.collect.earth/collect-earth-app@1.14.9
 - pkg:maven/org.openforis.collect.earth/collect-earth-app@1.14.9?classifier=sources
+- pkg:maven/org.openforis.collect.earth/collect-earth-app@1.15.02
+- pkg:maven/org.openforis.collect.earth/collect-earth-app@1.15.02?classifier=sources
+- pkg:maven/org.openforis.collect.earth/collect-earth-app@1.15.03
+- pkg:maven/org.openforis.collect.earth/collect-earth-app@1.15.03?classifier=sources

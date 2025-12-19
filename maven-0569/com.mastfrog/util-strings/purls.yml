@@ -78,3 +78,9 @@
 - pkg:maven/com.mastfrog/util-strings@2.9.4.1
 - pkg:maven/com.mastfrog/util-strings@2.9.4.1?classifier=sources
 - pkg:maven/com.mastfrog/util-strings@2.9.4?classifier=sources
+- pkg:maven/com.mastfrog/util-strings@2.9.5
+- pkg:maven/com.mastfrog/util-strings@2.9.5?classifier=sources
+- pkg:maven/com.mastfrog/util-strings@2.9.6
+- pkg:maven/com.mastfrog/util-strings@2.9.6?classifier=sources
+- pkg:maven/com.mastfrog/util-strings@2.9.7
+- pkg:maven/com.mastfrog/util-strings@2.9.7?classifier=sources

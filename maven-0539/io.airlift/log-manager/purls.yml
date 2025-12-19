@@ -302,3 +302,7 @@
 - pkg:maven/io.airlift/log-manager@222?classifier=sources
 - pkg:maven/io.airlift/log-manager@223
 - pkg:maven/io.airlift/log-manager@223?classifier=sources
+- pkg:maven/io.airlift/log-manager@224
+- pkg:maven/io.airlift/log-manager@224?classifier=sources
+- pkg:maven/io.airlift/log-manager@225
+- pkg:maven/io.airlift/log-manager@225?classifier=sources

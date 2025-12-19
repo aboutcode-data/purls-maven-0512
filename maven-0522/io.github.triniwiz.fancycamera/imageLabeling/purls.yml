@@ -2,3 +2,5 @@
 - pkg:maven/io.github.triniwiz.fancycamera/imageLabeling@1.0.0-alpha.3?classifier=sources
 - pkg:maven/io.github.triniwiz.fancycamera/imageLabeling@1.0.0-alpha.4?classifier=sources
 - pkg:maven/io.github.triniwiz.fancycamera/imageLabeling@1.0.0-alpha0?type=aar
+- pkg:maven/io.github.triniwiz.fancycamera/imageLabeling@1.0.0?classifier=sources
+- pkg:maven/io.github.triniwiz.fancycamera/imageLabeling@1.0.1?classifier=sources

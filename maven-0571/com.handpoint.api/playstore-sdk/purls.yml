@@ -52,3 +52,5 @@
 - pkg:maven/com.handpoint.api/playstore-sdk@7.0.1?type=aar
 - pkg:maven/com.handpoint.api/playstore-sdk@7.0.2?classifier=sources
 - pkg:maven/com.handpoint.api/playstore-sdk@7.0.2?type=aar
+- pkg:maven/com.handpoint.api/playstore-sdk@7.1001.0?classifier=sources
+- pkg:maven/com.handpoint.api/playstore-sdk@7.1001.0?type=aar

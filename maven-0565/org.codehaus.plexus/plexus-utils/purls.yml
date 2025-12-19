@@ -150,3 +150,6 @@
 - pkg:maven/org.codehaus.plexus/plexus-utils@3.5.0
 - pkg:maven/org.codehaus.plexus/plexus-utils@3.5.0?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus-utils@3.5.0?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-utils@3.5.1
+- pkg:maven/org.codehaus.plexus/plexus-utils@3.5.1?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.plexus/plexus-utils@3.5.1?classifier=sources

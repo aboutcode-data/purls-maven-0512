@@ -53,3 +53,5 @@
 - pkg:maven/dev.enro/enro-processor@2.0.0-alpha09?classifier=sources
 - pkg:maven/dev.enro/enro-processor@2.0.0-alpha10?classifier=sources
 - pkg:maven/dev.enro/enro-processor@2.0.0-alpha11?classifier=sources
+- pkg:maven/dev.enro/enro-processor@2.0.0-alpha12?classifier=sources
+- pkg:maven/dev.enro/enro-processor@2.0.0-alpha14?classifier=sources

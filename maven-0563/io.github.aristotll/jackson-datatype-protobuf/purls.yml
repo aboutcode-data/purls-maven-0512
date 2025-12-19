@@ -1,0 +1,2 @@
+- pkg:maven/io.github.aristotll/jackson-datatype-protobuf@0.9.12
+- pkg:maven/io.github.aristotll/jackson-datatype-protobuf@0.9.12?classifier=sources

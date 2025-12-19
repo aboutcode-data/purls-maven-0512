@@ -8,3 +8,9 @@
 - pkg:maven/com.github.losizm/little-sql_3@4.0.0?classifier=sources
 - pkg:maven/com.github.losizm/little-sql_3@5.0.0
 - pkg:maven/com.github.losizm/little-sql_3@5.0.0?classifier=sources
+- pkg:maven/com.github.losizm/little-sql_3@6.0.0
+- pkg:maven/com.github.losizm/little-sql_3@6.0.0?classifier=sources
+- pkg:maven/com.github.losizm/little-sql_3@7.0.0
+- pkg:maven/com.github.losizm/little-sql_3@7.0.0?classifier=sources
+- pkg:maven/com.github.losizm/little-sql_3@8.0.0
+- pkg:maven/com.github.losizm/little-sql_3@8.0.0?classifier=sources

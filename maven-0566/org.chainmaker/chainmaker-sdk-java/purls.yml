@@ -4,3 +4,4 @@
 - pkg:maven/org.chainmaker/chainmaker-sdk-java@2.1.0?classifier=sources
 - pkg:maven/org.chainmaker/chainmaker-sdk-java@2.2.0?classifier=sources
 - pkg:maven/org.chainmaker/chainmaker-sdk-java@2.3.0?classifier=sources
+- pkg:maven/org.chainmaker/chainmaker-sdk-java@2.3.1?classifier=sources

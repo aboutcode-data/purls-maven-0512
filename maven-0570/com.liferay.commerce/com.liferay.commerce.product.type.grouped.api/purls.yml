@@ -217,3 +217,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.grouped.api@9.0.1
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.grouped.api@9.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.grouped.api@9.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.grouped.api@9.1.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.grouped.api@9.1.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.grouped.api@9.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.grouped.api@9.2.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.grouped.api@9.2.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.grouped.api@9.2.0?classifier=sources-commercial

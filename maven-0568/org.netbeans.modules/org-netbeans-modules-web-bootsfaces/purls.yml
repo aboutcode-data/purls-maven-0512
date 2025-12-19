@@ -6,3 +6,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-bootsfaces@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-bootsfaces@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-bootsfaces@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-bootsfaces@RELEASE170?classifier=sources

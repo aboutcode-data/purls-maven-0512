@@ -8,3 +8,5 @@
 - pkg:maven/nl.42/max-login-attempts-spring-boot-starter@1.2.1?classifier=sources
 - pkg:maven/nl.42/max-login-attempts-spring-boot-starter@1.2.2
 - pkg:maven/nl.42/max-login-attempts-spring-boot-starter@1.2.2?classifier=sources
+- pkg:maven/nl.42/max-login-attempts-spring-boot-starter@2.0.0
+- pkg:maven/nl.42/max-login-attempts-spring-boot-starter@2.0.0?classifier=sources

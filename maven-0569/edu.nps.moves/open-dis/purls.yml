@@ -2,3 +2,5 @@
 - pkg:maven/edu.nps.moves/open-dis@4.08?classifier=sources
 - pkg:maven/edu.nps.moves/open-dis@5.0
 - pkg:maven/edu.nps.moves/open-dis@5.0?classifier=sources
+- pkg:maven/edu.nps.moves/open-dis@5.1
+- pkg:maven/edu.nps.moves/open-dis@5.1?classifier=sources

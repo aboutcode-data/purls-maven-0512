@@ -1,0 +1,2 @@
+- pkg:maven/com.purpblue/spring-boot2-pbwired-java8@1.4.0
+- pkg:maven/com.purpblue/spring-boot2-pbwired-java8@1.4.0?classifier=sources

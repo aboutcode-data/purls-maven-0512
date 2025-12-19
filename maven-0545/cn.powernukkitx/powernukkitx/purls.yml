@@ -36,5 +36,9 @@
 - pkg:maven/cn.powernukkitx/powernukkitx@1.19.50-r3?classifier=sources
 - pkg:maven/cn.powernukkitx/powernukkitx@1.19.60-r1
 - pkg:maven/cn.powernukkitx/powernukkitx@1.19.60-r1?classifier=sources
+- pkg:maven/cn.powernukkitx/powernukkitx@1.19.62-r1
+- pkg:maven/cn.powernukkitx/powernukkitx@1.19.62-r1?classifier=sources
+- pkg:maven/cn.powernukkitx/powernukkitx@1.19.63-r1
+- pkg:maven/cn.powernukkitx/powernukkitx@1.19.63-r1?classifier=sources
 - pkg:maven/cn.powernukkitx/powernukkitx@1.6.0.0-PNX
 - pkg:maven/cn.powernukkitx/powernukkitx@1.6.0.0-PNX?classifier=sources

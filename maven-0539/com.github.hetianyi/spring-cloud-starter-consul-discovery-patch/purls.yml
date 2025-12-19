@@ -1,2 +1,4 @@
 - pkg:maven/com.github.hetianyi/spring-cloud-starter-consul-discovery-patch@1.0.0
 - pkg:maven/com.github.hetianyi/spring-cloud-starter-consul-discovery-patch@1.0.0?classifier=sources
+- pkg:maven/com.github.hetianyi/spring-cloud-starter-consul-discovery-patch@2.7.2.1
+- pkg:maven/com.github.hetianyi/spring-cloud-starter-consul-discovery-patch@2.7.2.1?classifier=sources

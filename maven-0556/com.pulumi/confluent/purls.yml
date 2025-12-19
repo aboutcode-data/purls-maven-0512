@@ -1,3 +1,4 @@
 - pkg:maven/com.pulumi/confluent@0.2.3-alpha.1668657401%2Ba5c98661?classifier=sources
 - pkg:maven/com.pulumi/confluent@0.2.3-alpha.1673416149%2B73521455?classifier=sources
 - pkg:maven/com.pulumi/confluent@0.2.3-alpha.1673555826%2Bbb82dd24?classifier=sources
+- pkg:maven/com.pulumi/confluent@0.2.3-alpha.1677782051%2B24afaf49?classifier=sources

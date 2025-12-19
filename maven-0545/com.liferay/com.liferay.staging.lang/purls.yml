@@ -453,6 +453,9 @@
 - pkg:maven/com.liferay/com.liferay.staging.lang@3.0.86
 - pkg:maven/com.liferay/com.liferay.staging.lang@3.0.86?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@3.0.86?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.lang@3.0.87
+- pkg:maven/com.liferay/com.liferay.staging.lang@3.0.87?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.lang@3.0.87?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.lang@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@3.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.lang@3.0.9

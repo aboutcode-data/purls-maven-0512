@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.kyuubi/kyuubi-extension-spark-jdbc-dialect_2.12@1.7.0
+- pkg:maven/org.apache.kyuubi/kyuubi-extension-spark-jdbc-dialect_2.12@1.7.0?classifier=sources

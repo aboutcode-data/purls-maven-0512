@@ -1,1 +1,2 @@
 - pkg:maven/org.umlg/sqlg-gremlin-server@2.1.6
+- pkg:maven/org.umlg/sqlg-gremlin-server@3.0.0

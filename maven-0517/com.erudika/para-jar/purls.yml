@@ -116,3 +116,5 @@
 - pkg:maven/com.erudika/para-jar@1.47.2?classifier=sources
 - pkg:maven/com.erudika/para-jar@1.48.0
 - pkg:maven/com.erudika/para-jar@1.48.0?classifier=sources
+- pkg:maven/com.erudika/para-jar@1.48.1
+- pkg:maven/com.erudika/para-jar@1.48.1?classifier=sources

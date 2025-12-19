@@ -4,6 +4,7 @@
 - pkg:maven/org.opencadc/cadc-uws-server@1.2.13?classifier=sources
 - pkg:maven/org.opencadc/cadc-uws-server@1.2.14?classifier=sources
 - pkg:maven/org.opencadc/cadc-uws-server@1.2.15?classifier=sources
+- pkg:maven/org.opencadc/cadc-uws-server@1.2.16?classifier=sources
 - pkg:maven/org.opencadc/cadc-uws-server@1.2.7?classifier=sources
 - pkg:maven/org.opencadc/cadc-uws-server@1.2.8?classifier=sources
 - pkg:maven/org.opencadc/cadc-uws-server@1.2.9?classifier=sources

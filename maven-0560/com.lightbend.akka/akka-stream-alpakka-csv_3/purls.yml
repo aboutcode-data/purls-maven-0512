@@ -1,0 +1,2 @@
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-csv_3@5.1.0-M1
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-csv_3@5.1.0-M1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.http4k/http4k-connect-kafka-http-proxy@3.29.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-kafka-http-proxy@3.29.1.0?classifier=sources

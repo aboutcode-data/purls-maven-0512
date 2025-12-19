@@ -104,3 +104,11 @@
 - pkg:maven/io.trino/trino-server-dev@405?classifier=sources
 - pkg:maven/io.trino/trino-server-dev@406
 - pkg:maven/io.trino/trino-server-dev@406?classifier=sources
+- pkg:maven/io.trino/trino-server-dev@407
+- pkg:maven/io.trino/trino-server-dev@407?classifier=sources
+- pkg:maven/io.trino/trino-server-dev@408
+- pkg:maven/io.trino/trino-server-dev@408?classifier=sources
+- pkg:maven/io.trino/trino-server-dev@409
+- pkg:maven/io.trino/trino-server-dev@409?classifier=sources
+- pkg:maven/io.trino/trino-server-dev@410
+- pkg:maven/io.trino/trino-server-dev@410?classifier=sources

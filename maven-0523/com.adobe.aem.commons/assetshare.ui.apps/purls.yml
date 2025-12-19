@@ -9,3 +9,4 @@
 - pkg:maven/com.adobe.aem.commons/assetshare.ui.apps@2.4.8?classifier=sources
 - pkg:maven/com.adobe.aem.commons/assetshare.ui.apps@2.5.0?classifier=sources
 - pkg:maven/com.adobe.aem.commons/assetshare.ui.apps@2.5.2?classifier=sources
+- pkg:maven/com.adobe.aem.commons/assetshare.ui.apps@2.5.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jackzhou0/libjson@1.0.4
+- pkg:maven/io.github.jackzhou0/libjson@1.0.4?classifier=sources

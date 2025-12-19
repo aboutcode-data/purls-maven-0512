@@ -172,6 +172,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.53.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.54.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.54.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.55.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.55.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.56.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.56.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.6.0-beta
 - pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.6.0-beta?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4beta1@0.7.0-beta

@@ -7,3 +7,15 @@
 - pkg:maven/com.pulumi/pagerduty@3.7.0-alpha.1668645661%2B6b9da264?classifier=sources
 - pkg:maven/com.pulumi/pagerduty@3.7.0-alpha.1673556279%2B80ee3daa?classifier=sources
 - pkg:maven/com.pulumi/pagerduty@3.7.0-alpha.1675060899%2B89c4cc7a?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.7.0-alpha.1676318236%2Bff421ce4?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.7.0?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.8.0-alpha.1676587276%2Bcaa3d740?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.8.0-alpha.1676587681%2B448f0bb6?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.8.0-alpha.1677511994%2Ba1ace957?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.8.0-alpha.1677574508%2B241c1777?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.8.0?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.8.1?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.9.0-alpha.1677786789%2Bcc29356d?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.9.0-alpha.1677794098%2Baadd7a8a?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.9.0-alpha.1678132338%2Ba133027a?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@3.9.0-alpha.1678231019%2B93c08d80?classifier=sources

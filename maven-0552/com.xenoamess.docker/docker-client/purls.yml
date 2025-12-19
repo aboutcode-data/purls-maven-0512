@@ -22,3 +22,5 @@
 - pkg:maven/com.xenoamess.docker/docker-client@8.18.2?classifier=sources
 - pkg:maven/com.xenoamess.docker/docker-client@8.18.3
 - pkg:maven/com.xenoamess.docker/docker-client@8.18.3?classifier=sources
+- pkg:maven/com.xenoamess.docker/docker-client@8.18.4
+- pkg:maven/com.xenoamess.docker/docker-client@8.18.4?classifier=sources

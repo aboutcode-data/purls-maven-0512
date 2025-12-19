@@ -34,3 +34,5 @@
 - pkg:maven/com.centit.support/centit-utils@2.3.2007?classifier=sources
 - pkg:maven/com.centit.support/centit-utils@2.3.2101
 - pkg:maven/com.centit.support/centit-utils@2.3.2101?classifier=sources
+- pkg:maven/com.centit.support/centit-utils@5.3.2302
+- pkg:maven/com.centit.support/centit-utils@5.3.2302?classifier=sources

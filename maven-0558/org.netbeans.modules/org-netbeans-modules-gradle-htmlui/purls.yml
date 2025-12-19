@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-htmlui@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-htmlui@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-htmlui@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-htmlui@RELEASE170?classifier=sources

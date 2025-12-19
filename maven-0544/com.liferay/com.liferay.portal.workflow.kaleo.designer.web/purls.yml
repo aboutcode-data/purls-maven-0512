@@ -88,6 +88,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@3.1.46
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@3.1.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@3.1.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@3.1.47
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@3.1.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@3.1.47?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@3.1.48
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@3.1.48?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@3.1.48?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@4.0.28
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@4.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@4.0.28?classifier=sources-commercial
@@ -160,6 +166,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@4.0.51
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@4.0.51?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@4.0.51?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@4.0.52
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@4.0.52?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@4.0.52?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.0
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.0?classifier=sources-commercial
@@ -434,5 +443,14 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.95
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.95?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.95?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.96
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.96?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.96?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.97
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.97?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.97?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.98
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.98?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.98?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.web@5.0.9?classifier=sources-commercial

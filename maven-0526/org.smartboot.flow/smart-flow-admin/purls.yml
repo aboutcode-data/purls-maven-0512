@@ -1,0 +1,2 @@
+- pkg:maven/org.smartboot.flow/smart-flow-admin@1.0.7
+- pkg:maven/org.smartboot.flow/smart-flow-admin@1.0.7?classifier=sources

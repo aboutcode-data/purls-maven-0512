@@ -87,6 +87,8 @@
 - pkg:maven/org.dhatim/fastexcel-reader@0.14.16?classifier=sources
 - pkg:maven/org.dhatim/fastexcel-reader@0.14.17
 - pkg:maven/org.dhatim/fastexcel-reader@0.14.17?classifier=sources
+- pkg:maven/org.dhatim/fastexcel-reader@0.14.18
+- pkg:maven/org.dhatim/fastexcel-reader@0.14.18?classifier=sources
 - pkg:maven/org.dhatim/fastexcel-reader@0.14.1?classifier=sources
 - pkg:maven/org.dhatim/fastexcel-reader@0.14.2
 - pkg:maven/org.dhatim/fastexcel-reader@0.14.2?classifier=sources
@@ -94,6 +96,12 @@
 - pkg:maven/org.dhatim/fastexcel-reader@0.14.3?classifier=sources
 - pkg:maven/org.dhatim/fastexcel-reader@0.14.4
 - pkg:maven/org.dhatim/fastexcel-reader@0.14.4?classifier=sources
+- pkg:maven/org.dhatim/fastexcel-reader@0.15.0
+- pkg:maven/org.dhatim/fastexcel-reader@0.15.0?classifier=sources
+- pkg:maven/org.dhatim/fastexcel-reader@0.15.1
+- pkg:maven/org.dhatim/fastexcel-reader@0.15.1?classifier=sources
+- pkg:maven/org.dhatim/fastexcel-reader@0.15.2
+- pkg:maven/org.dhatim/fastexcel-reader@0.15.2?classifier=sources
 - pkg:maven/org.dhatim/fastexcel-reader@0.9.1
 - pkg:maven/org.dhatim/fastexcel-reader@0.9.10
 - pkg:maven/org.dhatim/fastexcel-reader@0.9.10?classifier=sources

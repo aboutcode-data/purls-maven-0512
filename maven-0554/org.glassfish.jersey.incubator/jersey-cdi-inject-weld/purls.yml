@@ -6,6 +6,8 @@
 - pkg:maven/org.glassfish.jersey.incubator/jersey-cdi-inject-weld@2.37?classifier=sources
 - pkg:maven/org.glassfish.jersey.incubator/jersey-cdi-inject-weld@2.38
 - pkg:maven/org.glassfish.jersey.incubator/jersey-cdi-inject-weld@2.38?classifier=sources
+- pkg:maven/org.glassfish.jersey.incubator/jersey-cdi-inject-weld@2.39
+- pkg:maven/org.glassfish.jersey.incubator/jersey-cdi-inject-weld@2.39?classifier=sources
 - pkg:maven/org.glassfish.jersey.incubator/jersey-cdi-inject-weld@3.0.3
 - pkg:maven/org.glassfish.jersey.incubator/jersey-cdi-inject-weld@3.0.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.incubator/jersey-cdi-inject-weld@3.0.4

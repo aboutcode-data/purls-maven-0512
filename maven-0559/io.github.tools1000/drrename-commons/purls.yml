@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tools1000/drrename-commons@0.0.5
+- pkg:maven/io.github.tools1000/drrename-commons@0.0.5?classifier=sources

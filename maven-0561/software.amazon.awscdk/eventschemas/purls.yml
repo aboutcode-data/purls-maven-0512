@@ -214,6 +214,14 @@
 - pkg:maven/software.amazon.awscdk/eventschemas@1.192.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/eventschemas@1.193.0
 - pkg:maven/software.amazon.awscdk/eventschemas@1.193.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/eventschemas@1.194.0
+- pkg:maven/software.amazon.awscdk/eventschemas@1.194.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/eventschemas@1.195.0
+- pkg:maven/software.amazon.awscdk/eventschemas@1.195.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/eventschemas@1.196.0
+- pkg:maven/software.amazon.awscdk/eventschemas@1.196.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/eventschemas@1.197.0
+- pkg:maven/software.amazon.awscdk/eventschemas@1.197.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/eventschemas@1.20.0
 - pkg:maven/software.amazon.awscdk/eventschemas@1.20.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/eventschemas@1.21.0

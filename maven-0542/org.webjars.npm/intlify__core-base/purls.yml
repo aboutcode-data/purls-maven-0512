@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/intlify__core-base@9.0.0-rc.9
 - pkg:maven/org.webjars.npm/intlify__core-base@9.0.0-rc.9?classifier=sources
+- pkg:maven/org.webjars.npm/intlify__core-base@9.2.2
+- pkg:maven/org.webjars.npm/intlify__core-base@9.2.2?classifier=sources

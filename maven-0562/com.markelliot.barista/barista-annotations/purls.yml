@@ -25,8 +25,12 @@
 - pkg:maven/com.markelliot.barista/barista-annotations@0.34.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-annotations@0.35.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-annotations@0.36.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-annotations@0.37.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-annotations@0.39.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-annotations@0.4.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-annotations@0.4.1?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-annotations@0.40.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-annotations@0.41.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-annotations@0.5.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-annotations@0.5.1?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-annotations@0.5.2?classifier=sources

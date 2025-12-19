@@ -1,5 +1,9 @@
 - pkg:maven/at.favre.lib/bcrypt@0.1.0
 - pkg:maven/at.favre.lib/bcrypt@0.1.0?classifier=sources
+- pkg:maven/at.favre.lib/bcrypt@0.10.1
+- pkg:maven/at.favre.lib/bcrypt@0.10.1?classifier=sources
+- pkg:maven/at.favre.lib/bcrypt@0.10.2
+- pkg:maven/at.favre.lib/bcrypt@0.10.2?classifier=sources
 - pkg:maven/at.favre.lib/bcrypt@0.2.0
 - pkg:maven/at.favre.lib/bcrypt@0.2.0?classifier=sources
 - pkg:maven/at.favre.lib/bcrypt@0.3.0

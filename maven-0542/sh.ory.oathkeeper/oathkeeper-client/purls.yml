@@ -58,3 +58,5 @@
 - pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.39.2?classifier=sources
 - pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.39.4
 - pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.39.4?classifier=sources
+- pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.40.2
+- pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.40.2?classifier=sources

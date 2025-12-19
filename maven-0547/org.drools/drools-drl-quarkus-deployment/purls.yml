@@ -32,3 +32,7 @@
 - pkg:maven/org.drools/drools-drl-quarkus-deployment@8.32.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-drl-quarkus-deployment@8.33.0.Final
 - pkg:maven/org.drools/drools-drl-quarkus-deployment@8.33.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-drl-quarkus-deployment@8.34.0.Final
+- pkg:maven/org.drools/drools-drl-quarkus-deployment@8.34.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-drl-quarkus-deployment@8.35.0.Final
+- pkg:maven/org.drools/drools-drl-quarkus-deployment@8.35.0.Final?classifier=sources

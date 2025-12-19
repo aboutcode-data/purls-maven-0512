@@ -1,0 +1,2 @@
+- pkg:maven/com.pkware.filesystem/file-attribute-caching@1.0.0?classifier=sources
+- pkg:maven/com.pkware.filesystem/file-attribute-caching@1.0.1?classifier=sources

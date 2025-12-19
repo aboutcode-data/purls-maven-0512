@@ -148,3 +148,5 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.baseline@6.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.baseline@6.0.7
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.baseline@6.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.baseline@7.0.0
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.baseline@7.0.0?classifier=sources

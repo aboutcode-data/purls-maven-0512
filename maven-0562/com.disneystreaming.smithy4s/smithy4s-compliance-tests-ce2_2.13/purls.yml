@@ -1,6 +1,12 @@
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-compliance-tests-ce2_2.13@0.17.0-11-3359289
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-compliance-tests-ce2_2.13@0.17.0-11-3359289?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-compliance-tests-ce2_2.13@0.17.0-128-d970888
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-compliance-tests-ce2_2.13@0.17.0-128-d970888?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-compliance-tests-ce2_2.13@0.17.0-225-fc68d1b
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-compliance-tests-ce2_2.13@0.17.0-225-fc68d1b?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-compliance-tests-ce2_2.13@0.17.2
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-compliance-tests-ce2_2.13@0.17.2?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-compliance-tests-ce2_2.13@0.17.3
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-compliance-tests-ce2_2.13@0.17.3?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-compliance-tests-ce2_2.13@0.17.4
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-compliance-tests-ce2_2.13@0.17.4?classifier=sources

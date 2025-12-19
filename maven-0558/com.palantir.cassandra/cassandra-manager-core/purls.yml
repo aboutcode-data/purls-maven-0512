@@ -154,3 +154,10 @@
 - pkg:maven/com.palantir.cassandra/cassandra-manager-core@0.55.0-rc1?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-manager-core@0.55.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-manager-core@0.56.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-manager-core@0.57.0-rc1?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-manager-core@0.57.0-rc2?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-manager-core@0.57.0-rc3?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-manager-core@0.57.0-rc4?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-manager-core@0.57.0-rc5?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-manager-core@0.57.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-manager-core@0.58.0-rc1?classifier=sources

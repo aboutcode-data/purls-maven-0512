@@ -40,6 +40,8 @@
 - pkg:maven/com.facebook.android/facebook-share@15.1.0?type=aar
 - pkg:maven/com.facebook.android/facebook-share@15.2.0?classifier=sources
 - pkg:maven/com.facebook.android/facebook-share@15.2.0?type=aar
+- pkg:maven/com.facebook.android/facebook-share@16.0.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-share@16.0.0?type=aar
 - pkg:maven/com.facebook.android/facebook-share@4.27.0?classifier=sources
 - pkg:maven/com.facebook.android/facebook-share@4.27.0?type=aar
 - pkg:maven/com.facebook.android/facebook-share@4.28.0?classifier=sources
