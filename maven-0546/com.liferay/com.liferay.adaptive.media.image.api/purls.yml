@@ -94,6 +94,12 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@11.1.0
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@11.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@11.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@11.2.0
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@11.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@11.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@11.3.0
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@11.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@11.3.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@2.0.0?classifier=sources-commercial
@@ -265,6 +271,12 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@4.7.0
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@4.7.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@4.7.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@4.8.0
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@4.8.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@4.8.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@4.9.0
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@4.9.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@4.9.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@5.0.0
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.image.api@5.0.0?classifier=sources-commercial

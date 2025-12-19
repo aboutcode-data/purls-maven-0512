@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fasterTool/data-genius-common-datasource@0.0.1
+- pkg:maven/io.github.fasterTool/data-genius-common-datasource@0.0.1?classifier=sources

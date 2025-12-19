@@ -1,8 +1,13 @@
+- pkg:maven/io.github.open-coap/coap-mbedtls@0.1.0-unknown?classifier=sources
 - pkg:maven/io.github.open-coap/coap-mbedtls@6.10.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-mbedtls@6.10.1?classifier=sources
 - pkg:maven/io.github.open-coap/coap-mbedtls@6.11.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-mbedtls@6.12.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-mbedtls@6.13.0?classifier=sources
+- pkg:maven/io.github.open-coap/coap-mbedtls@6.14.0?classifier=sources
+- pkg:maven/io.github.open-coap/coap-mbedtls@6.14.1?classifier=sources
+- pkg:maven/io.github.open-coap/coap-mbedtls@6.15.0?classifier=sources
+- pkg:maven/io.github.open-coap/coap-mbedtls@6.16.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-mbedtls@6.8.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-mbedtls@6.9.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-mbedtls@6.9.1?classifier=sources

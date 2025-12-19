@@ -1,0 +1,2 @@
+- pkg:maven/no.nordicsemi.android.common/permissions-internet@1.7.0?classifier=sources
+- pkg:maven/no.nordicsemi.android.common/permissions-internet@1.7.1?classifier=sources

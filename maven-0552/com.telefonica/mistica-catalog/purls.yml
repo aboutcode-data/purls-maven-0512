@@ -69,3 +69,7 @@
 - pkg:maven/com.telefonica/mistica-catalog@8.4.0?classifier=sources
 - pkg:maven/com.telefonica/mistica-catalog@8.5.0?classifier=sources
 - pkg:maven/com.telefonica/mistica-catalog@8.6.0?classifier=sources
+- pkg:maven/com.telefonica/mistica-catalog@8.7.0?classifier=sources
+- pkg:maven/com.telefonica/mistica-catalog@8.7.1?classifier=sources
+- pkg:maven/com.telefonica/mistica-catalog@8.7.2?classifier=sources
+- pkg:maven/com.telefonica/mistica-catalog@9.0.0?classifier=sources

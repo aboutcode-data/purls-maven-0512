@@ -37,6 +37,8 @@
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-runtime@0.0.37?classifier=sources
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-runtime@0.0.38
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-runtime@0.0.38?classifier=sources
+- pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-runtime@0.0.39
+- pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-runtime@0.0.39?classifier=sources
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-runtime@0.0.3?classifier=sources
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-runtime@0.0.4?classifier=sources
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-runtime@0.0.5?classifier=sources

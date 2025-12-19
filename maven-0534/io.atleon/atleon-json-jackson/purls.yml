@@ -1,0 +1,2 @@
+- pkg:maven/io.atleon/atleon-json-jackson@0.17.0
+- pkg:maven/io.atleon/atleon-json-jackson@0.17.0?classifier=sources

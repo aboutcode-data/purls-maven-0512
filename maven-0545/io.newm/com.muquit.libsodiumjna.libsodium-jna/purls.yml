@@ -1,2 +1,4 @@
 - pkg:maven/io.newm/com.muquit.libsodiumjna.libsodium-jna@1.1.0-NEWM
 - pkg:maven/io.newm/com.muquit.libsodiumjna.libsodium-jna@1.1.0-NEWM?classifier=sources
+- pkg:maven/io.newm/com.muquit.libsodiumjna.libsodium-jna@1.2.0-NEWM
+- pkg:maven/io.newm/com.muquit.libsodiumjna.libsodium-jna@1.2.0-NEWM?classifier=sources

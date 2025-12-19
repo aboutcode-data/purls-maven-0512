@@ -1,0 +1,2 @@
+- pkg:maven/org.http4k/http4k-contract-jsonschema@5.2.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-contract-jsonschema@5.2.1.0?classifier=sources

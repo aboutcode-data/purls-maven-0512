@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/github-organizations-secret@1.1.0-alpha.7
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/github-organizations-secret@1.1.0-alpha.7?classifier=sources

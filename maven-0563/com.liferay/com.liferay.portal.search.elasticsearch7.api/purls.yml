@@ -310,6 +310,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@5.2.5
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@5.2.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@5.2.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@5.2.6
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@5.2.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@5.2.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@5.2.7
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@5.2.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@5.2.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@6.0.0
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@6.0.0?classifier=sources-commercial
@@ -358,3 +364,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@7.0.0
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@7.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@7.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@7.1.0
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@7.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.api@7.1.0?classifier=sources-commercial

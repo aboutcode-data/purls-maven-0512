@@ -1,1 +1,3 @@
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-watchosdevicearm64@1.0.0-ALPHA-10-kotlin-1.9.0-Beta?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-watchosdevicearm64@1.0.0-ALPHA-10?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-watchosdevicearm64@1.0.0-ALPHA-9?classifier=sources

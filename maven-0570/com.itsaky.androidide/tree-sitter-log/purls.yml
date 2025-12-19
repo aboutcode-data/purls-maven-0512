@@ -1,1 +1,2 @@
 - pkg:maven/com.itsaky.androidide/tree-sitter-log@2.0.0?classifier=sources
+- pkg:maven/com.itsaky.androidide/tree-sitter-log@3.0.0?classifier=sources

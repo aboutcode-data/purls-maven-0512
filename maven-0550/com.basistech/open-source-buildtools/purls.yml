@@ -10,3 +10,5 @@
 - pkg:maven/com.basistech/open-source-buildtools@5.0.0?classifier=sources
 - pkg:maven/com.basistech/open-source-buildtools@6.0.0
 - pkg:maven/com.basistech/open-source-buildtools@6.0.0?classifier=sources
+- pkg:maven/com.basistech/open-source-buildtools@7.0.0
+- pkg:maven/com.basistech/open-source-buildtools@7.0.0?classifier=sources

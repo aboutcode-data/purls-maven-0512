@@ -51,3 +51,7 @@
 - pkg:maven/org.http4k/http4k-connect-google-analytics-ua-fake@3.41.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-google-analytics-ua-fake@3.42.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-google-analytics-ua-fake@3.42.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-google-analytics-ua-fake@3.43.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-google-analytics-ua-fake@3.43.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-google-analytics-ua-fake@5.0.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-google-analytics-ua-fake@5.0.1.0?classifier=sources

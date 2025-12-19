@@ -1,0 +1,4 @@
+- pkg:maven/dev.parodos/move2kube@v1.0.0
+- pkg:maven/dev.parodos/move2kube@v1.0.0?classifier=sources
+- pkg:maven/dev.parodos/move2kube@v1.0.3
+- pkg:maven/dev.parodos/move2kube@v1.0.3?classifier=sources

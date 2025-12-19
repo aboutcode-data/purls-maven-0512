@@ -10,6 +10,7 @@
 - pkg:maven/com.groupcdg/pitest-bitbucket-lib@1.0.0
 - pkg:maven/com.groupcdg/pitest-bitbucket-lib@1.0.1
 - pkg:maven/com.groupcdg/pitest-bitbucket-lib@1.0.10
+- pkg:maven/com.groupcdg/pitest-bitbucket-lib@1.0.11
 - pkg:maven/com.groupcdg/pitest-bitbucket-lib@1.0.2
 - pkg:maven/com.groupcdg/pitest-bitbucket-lib@1.0.3
 - pkg:maven/com.groupcdg/pitest-bitbucket-lib@1.0.4

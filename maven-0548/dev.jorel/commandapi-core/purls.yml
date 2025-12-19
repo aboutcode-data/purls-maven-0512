@@ -40,3 +40,5 @@
 - pkg:maven/dev.jorel/commandapi-core@8.8.0?classifier=sources
 - pkg:maven/dev.jorel/commandapi-core@9.0.0
 - pkg:maven/dev.jorel/commandapi-core@9.0.0?classifier=sources
+- pkg:maven/dev.jorel/commandapi-core@9.0.1
+- pkg:maven/dev.jorel/commandapi-core@9.0.1?classifier=sources

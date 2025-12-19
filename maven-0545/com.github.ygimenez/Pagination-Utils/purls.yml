@@ -40,3 +40,5 @@
 - pkg:maven/com.github.ygimenez/Pagination-Utils@4.0.2?classifier=sources
 - pkg:maven/com.github.ygimenez/Pagination-Utils@4.0.2b
 - pkg:maven/com.github.ygimenez/Pagination-Utils@4.0.2b?classifier=sources
+- pkg:maven/com.github.ygimenez/Pagination-Utils@4.0.3
+- pkg:maven/com.github.ygimenez/Pagination-Utils@4.0.3?classifier=sources

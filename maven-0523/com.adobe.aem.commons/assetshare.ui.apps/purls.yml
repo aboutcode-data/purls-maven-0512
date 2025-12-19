@@ -11,3 +11,7 @@
 - pkg:maven/com.adobe.aem.commons/assetshare.ui.apps@2.5.2?classifier=sources
 - pkg:maven/com.adobe.aem.commons/assetshare.ui.apps@2.5.4?classifier=sources
 - pkg:maven/com.adobe.aem.commons/assetshare.ui.apps@2.5.6?classifier=sources
+- pkg:maven/com.adobe.aem.commons/assetshare.ui.apps@2.6.0?classifier=sources
+- pkg:maven/com.adobe.aem.commons/assetshare.ui.apps@2.6.2?classifier=sources
+- pkg:maven/com.adobe.aem.commons/assetshare.ui.apps@2.6.4?classifier=sources
+- pkg:maven/com.adobe.aem.commons/assetshare.ui.apps@2.6.6?classifier=sources

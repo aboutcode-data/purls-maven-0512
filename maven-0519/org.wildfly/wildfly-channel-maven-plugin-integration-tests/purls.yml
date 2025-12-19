@@ -1,3 +1,4 @@
+- pkg:maven/org.wildfly/wildfly-channel-maven-plugin-integration-tests@1.0.0
 - pkg:maven/org.wildfly/wildfly-channel-maven-plugin-integration-tests@1.0.0.Alpha1
 - pkg:maven/org.wildfly/wildfly-channel-maven-plugin-integration-tests@1.0.0.Alpha10
 - pkg:maven/org.wildfly/wildfly-channel-maven-plugin-integration-tests@1.0.0.Alpha2

@@ -71,3 +71,6 @@
 - pkg:maven/com.corundumstudio.socketio/netty-socketio@1.7.8?classifier=sources
 - pkg:maven/com.corundumstudio.socketio/netty-socketio@1.7.9
 - pkg:maven/com.corundumstudio.socketio/netty-socketio@1.7.9?classifier=sources
+- pkg:maven/com.corundumstudio.socketio/netty-socketio@2.0.0?classifier=sources
+- pkg:maven/com.corundumstudio.socketio/netty-socketio@2.0.1?classifier=sources
+- pkg:maven/com.corundumstudio.socketio/netty-socketio@2.0.2?classifier=sources

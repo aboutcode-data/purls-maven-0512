@@ -82,3 +82,5 @@
 - pkg:maven/com.gerritforge/events-broker@3.7.0-rc2?classifier=sources
 - pkg:maven/com.gerritforge/events-broker@3.7.2
 - pkg:maven/com.gerritforge/events-broker@3.7.2?classifier=sources
+- pkg:maven/com.gerritforge/events-broker@3.8.0-rc5
+- pkg:maven/com.gerritforge/events-broker@3.8.0-rc5?classifier=sources

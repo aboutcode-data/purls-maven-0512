@@ -28,6 +28,8 @@
 - pkg:maven/io.vitess/vitess-example@15.0.0?classifier=sources
 - pkg:maven/io.vitess/vitess-example@16.0.0
 - pkg:maven/io.vitess/vitess-example@16.0.0?classifier=sources
+- pkg:maven/io.vitess/vitess-example@17.0.0
+- pkg:maven/io.vitess/vitess-example@17.0.0?classifier=sources
 - pkg:maven/io.vitess/vitess-example@2.1.0
 - pkg:maven/io.vitess/vitess-example@2.1.0-rc.1
 - pkg:maven/io.vitess/vitess-example@2.1.0-rc.1?classifier=sources

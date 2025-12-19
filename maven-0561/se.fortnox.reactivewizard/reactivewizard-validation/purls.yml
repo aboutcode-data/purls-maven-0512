@@ -168,6 +168,10 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@21.1.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@21.2.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@21.2.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@21.3.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@21.3.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@21.4.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@21.4.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@3.0.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@3.0.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@3.1.0

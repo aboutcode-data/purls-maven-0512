@@ -10,3 +10,4 @@
 - pkg:maven/org.asciidoctor/asciidoctorj-arquillian-extension@2.5.7?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-arquillian-extension@2.5.8?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-arquillian-extension@2.5.9?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-arquillian-extension@3.0.0-alpha.1?classifier=sources

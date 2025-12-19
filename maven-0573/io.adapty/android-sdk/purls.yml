@@ -1,3 +1,4 @@
 - pkg:maven/io.adapty/android-sdk@2.4.1?classifier=sources
 - pkg:maven/io.adapty/android-sdk@2.4.2?classifier=sources
 - pkg:maven/io.adapty/android-sdk@2.4.3?classifier=sources
+- pkg:maven/io.adapty/android-sdk@2.5.0-billing5-beta1?classifier=sources

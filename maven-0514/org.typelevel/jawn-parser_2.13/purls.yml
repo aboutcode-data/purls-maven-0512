@@ -36,3 +36,5 @@
 - pkg:maven/org.typelevel/jawn-parser_2.13@1.4.0?classifier=sources
 - pkg:maven/org.typelevel/jawn-parser_2.13@1.5.0
 - pkg:maven/org.typelevel/jawn-parser_2.13@1.5.0?classifier=sources
+- pkg:maven/org.typelevel/jawn-parser_2.13@1.5.1
+- pkg:maven/org.typelevel/jawn-parser_2.13@1.5.1?classifier=sources

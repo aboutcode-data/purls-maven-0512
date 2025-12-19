@@ -180,6 +180,8 @@
 - pkg:maven/org.typelevel/cats-parse_3@0.3-8-fe27c69?classifier=sources
 - pkg:maven/org.typelevel/cats-parse_3@0.3-9-b39d315
 - pkg:maven/org.typelevel/cats-parse_3@0.3-9-b39d315?classifier=sources
+- pkg:maven/org.typelevel/cats-parse_3@0.3.10
+- pkg:maven/org.typelevel/cats-parse_3@0.3.10?classifier=sources
 - pkg:maven/org.typelevel/cats-parse_3@0.3.4
 - pkg:maven/org.typelevel/cats-parse_3@0.3.4?classifier=sources
 - pkg:maven/org.typelevel/cats-parse_3@0.3.5

@@ -139,6 +139,10 @@
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-spring-boot-starter@1.8.0
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-spring-boot-starter@1.8.0?classifier=sources
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-spring-boot-starter@1.8.1
+- pkg:maven/com.aliyun.schedulerx/schedulerx2-spring-boot-starter@1.8.10
+- pkg:maven/com.aliyun.schedulerx/schedulerx2-spring-boot-starter@1.8.10?classifier=sources
+- pkg:maven/com.aliyun.schedulerx/schedulerx2-spring-boot-starter@1.8.11
+- pkg:maven/com.aliyun.schedulerx/schedulerx2-spring-boot-starter@1.8.11?classifier=sources
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-spring-boot-starter@1.8.1?classifier=sources
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-spring-boot-starter@1.8.2
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-spring-boot-starter@1.8.2?classifier=sources

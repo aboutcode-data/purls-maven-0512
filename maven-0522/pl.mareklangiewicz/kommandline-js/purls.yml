@@ -2,3 +2,4 @@
 - pkg:maven/pl.mareklangiewicz/kommandline-js@0.0.09?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kommandline-js@0.0.10?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kommandline-js@0.0.11?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kommandline-js@0.0.15?classifier=sources

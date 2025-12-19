@@ -78,6 +78,8 @@
 - pkg:maven/org.opencastproject/opencast-engage-theodul-plugin-tab-slidetext@13.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-engage-theodul-plugin-tab-slidetext@13.6
 - pkg:maven/org.opencastproject/opencast-engage-theodul-plugin-tab-slidetext@13.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-engage-theodul-plugin-tab-slidetext@13.7
+- pkg:maven/org.opencastproject/opencast-engage-theodul-plugin-tab-slidetext@13.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-engage-theodul-plugin-tab-slidetext@6.6
 - pkg:maven/org.opencastproject/opencast-engage-theodul-plugin-tab-slidetext@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-engage-theodul-plugin-tab-slidetext@7.2

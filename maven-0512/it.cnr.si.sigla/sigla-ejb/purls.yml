@@ -274,6 +274,10 @@
 - pkg:maven/it.cnr.si.sigla/sigla-ejb@6.5.30?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-ejb@6.5.31?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-ejb@6.5.32?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-ejb@6.5.33?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-ejb@6.5.34?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-ejb@6.5.35?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-ejb@6.5.36?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-ejb@6.5.3?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-ejb@6.5.4?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-ejb@6.5.5?classifier=sources

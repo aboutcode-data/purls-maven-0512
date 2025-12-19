@@ -1,0 +1,4 @@
+- pkg:maven/me.lemonypancakes.actionbarapi/actionbarapi-v1_9_R2@4.0.0
+- pkg:maven/me.lemonypancakes.actionbarapi/actionbarapi-v1_9_R2@4.0.0?classifier=sources
+- pkg:maven/me.lemonypancakes.actionbarapi/actionbarapi-v1_9_R2@5.0.0
+- pkg:maven/me.lemonypancakes.actionbarapi/actionbarapi-v1_9_R2@5.0.0?classifier=sources

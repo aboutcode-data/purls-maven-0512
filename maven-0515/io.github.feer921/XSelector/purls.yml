@@ -1,2 +1,4 @@
 - pkg:maven/io.github.feer921/XSelector@1.1-kotlin16?classifier=sources
 - pkg:maven/io.github.feer921/XSelector@1.1?classifier=sources
+- pkg:maven/io.github.feer921/XSelector@1.2-kotlin16?classifier=sources
+- pkg:maven/io.github.feer921/XSelector@1.2?classifier=sources

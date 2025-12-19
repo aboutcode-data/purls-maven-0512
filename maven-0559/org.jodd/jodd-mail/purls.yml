@@ -128,3 +128,4 @@
 - pkg:maven/org.jodd/jodd-mail@6.0.3?classifier=sources
 - pkg:maven/org.jodd/jodd-mail@6.0.4?classifier=sources
 - pkg:maven/org.jodd/jodd-mail@6.0.5?classifier=sources
+- pkg:maven/org.jodd/jodd-mail@7.0.0?classifier=sources

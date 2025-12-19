@@ -12,3 +12,5 @@
 - pkg:maven/net.sf.smc/main@7.4.0?classifier=sources
 - pkg:maven/net.sf.smc/main@7.5.0
 - pkg:maven/net.sf.smc/main@7.5.0?classifier=sources
+- pkg:maven/net.sf.smc/main@7.6.0
+- pkg:maven/net.sf.smc/main@7.6.0?classifier=sources

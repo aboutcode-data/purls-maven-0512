@@ -119,6 +119,9 @@
 - pkg:maven/com.liferay/com.liferay.external.reference.service@3.0.16
 - pkg:maven/com.liferay/com.liferay.external.reference.service@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.external.reference.service@3.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.external.reference.service@3.0.17
+- pkg:maven/com.liferay/com.liferay.external.reference.service@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.external.reference.service@3.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.external.reference.service@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.external.reference.service@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.external.reference.service@3.0.2
@@ -158,6 +161,9 @@
 - pkg:maven/com.liferay/com.liferay.external.reference.service@4.0.12
 - pkg:maven/com.liferay/com.liferay.external.reference.service@4.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.external.reference.service@4.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.external.reference.service@4.0.13
+- pkg:maven/com.liferay/com.liferay.external.reference.service@4.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.external.reference.service@4.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.external.reference.service@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.external.reference.service@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.external.reference.service@4.0.2

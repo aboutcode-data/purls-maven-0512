@@ -1,0 +1,7 @@
+- pkg:maven/io.github.afalabarce/jetpackcompose-admob@1.0.0?classifier=sources
+- pkg:maven/io.github.afalabarce/jetpackcompose-admob@1.5.3?classifier=sources
+- pkg:maven/io.github.afalabarce/jetpackcompose-admob@1.5.4?classifier=sources
+- pkg:maven/io.github.afalabarce/jetpackcompose-admob@1.5.5?classifier=sources
+- pkg:maven/io.github.afalabarce/jetpackcompose-admob@1.5.8?classifier=sources
+- pkg:maven/io.github.afalabarce/jetpackcompose-admob@1.6.4?classifier=sources
+- pkg:maven/io.github.afalabarce/jetpackcompose-admob@1.7.4?classifier=sources

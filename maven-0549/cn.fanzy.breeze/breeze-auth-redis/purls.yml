@@ -11,3 +11,4 @@
 - pkg:maven/cn.fanzy.breeze/breeze-auth-redis@2.1.5
 - pkg:maven/cn.fanzy.breeze/breeze-auth-redis@2.1.6
 - pkg:maven/cn.fanzy.breeze/breeze-auth-redis@2.1.7
+- pkg:maven/cn.fanzy.breeze/breeze-auth-redis@2.2.3

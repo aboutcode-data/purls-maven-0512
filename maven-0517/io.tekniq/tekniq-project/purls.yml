@@ -15,6 +15,8 @@
 - pkg:maven/io.tekniq/tekniq-project@0.18.0?classifier=sources
 - pkg:maven/io.tekniq/tekniq-project@0.18.1?classifier=sources
 - pkg:maven/io.tekniq/tekniq-project@0.18.2?classifier=sources
+- pkg:maven/io.tekniq/tekniq-project@0.18.3?classifier=sources
+- pkg:maven/io.tekniq/tekniq-project@0.18.4?classifier=sources
 - pkg:maven/io.tekniq/tekniq-project@0.2
 - pkg:maven/io.tekniq/tekniq-project@0.2?classifier=sources
 - pkg:maven/io.tekniq/tekniq-project@0.3

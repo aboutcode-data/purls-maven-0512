@@ -14,3 +14,4 @@
 - pkg:maven/com.microsoft.azure/azure-appservice-maven-plugin-lib@1.27.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-appservice-maven-plugin-lib@1.28.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-appservice-maven-plugin-lib@1.29.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-appservice-maven-plugin-lib@1.30.0?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.dspace/dspace-server-webapp@7.4?type=war
 - pkg:maven/org.dspace/dspace-server-webapp@7.5?classifier=sources
 - pkg:maven/org.dspace/dspace-server-webapp@7.5?type=war
+- pkg:maven/org.dspace/dspace-server-webapp@7.6?classifier=sources
+- pkg:maven/org.dspace/dspace-server-webapp@7.6?type=war
