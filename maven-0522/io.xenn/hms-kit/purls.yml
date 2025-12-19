@@ -1,3 +1,4 @@
 - pkg:maven/io.xenn/hms-kit@1.0.0?type=aar
 - pkg:maven/io.xenn/hms-kit@1.0.1?type=aar
 - pkg:maven/io.xenn/hms-kit@1.0.2?type=aar
+- pkg:maven/io.xenn/hms-kit@1.0.4?type=aar

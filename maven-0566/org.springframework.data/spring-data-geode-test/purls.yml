@@ -58,7 +58,13 @@
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.1.0-PASCAL?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.1.1-PASCAL
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.1.1-PASCAL?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.1.2
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.1.2-PASCAL
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.1.2-PASCAL?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.1.2?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.2.0-Q
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.2.0-Q?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.2.1-Q
 - pkg:maven/org.springframework.data/spring-data-geode-test@0.2.1-Q?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.2.2-Q
+- pkg:maven/org.springframework.data/spring-data-geode-test@0.2.2-Q?classifier=sources

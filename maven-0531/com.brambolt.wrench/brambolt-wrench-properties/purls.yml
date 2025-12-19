@@ -3,3 +3,4 @@
 - pkg:maven/com.brambolt.wrench/brambolt-wrench-properties@2021.11.23-5123?classifier=sources
 - pkg:maven/com.brambolt.wrench/brambolt-wrench-properties@2021.12.03-5135?classifier=sources
 - pkg:maven/com.brambolt.wrench/brambolt-wrench-properties@2021.12.07-5139?classifier=sources
+- pkg:maven/com.brambolt.wrench/brambolt-wrench-properties@2022.02.22-6022?classifier=sources

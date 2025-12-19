@@ -144,5 +144,7 @@
 - pkg:maven/com.ibanity.apis/ibanity-java@6.0.20220207101407?classifier=sources
 - pkg:maven/com.ibanity.apis/ibanity-java@6.0.20220207104905
 - pkg:maven/com.ibanity.apis/ibanity-java@6.0.20220207104905?classifier=sources
+- pkg:maven/com.ibanity.apis/ibanity-java@6.0.20220303130807
+- pkg:maven/com.ibanity.apis/ibanity-java@6.0.20220303130807?classifier=sources
 - pkg:maven/com.ibanity.apis/ibanity-java@ibanity-java-1.1.20180605145337
 - pkg:maven/com.ibanity.apis/ibanity-java@ibanity-java-1.1.20180605145337?classifier=sources

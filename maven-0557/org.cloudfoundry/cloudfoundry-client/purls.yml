@@ -206,3 +206,5 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@5.5.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@5.6.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client@5.6.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@5.7.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client@5.7.0.RELEASE?classifier=sources

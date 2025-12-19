@@ -96,6 +96,8 @@
 - pkg:maven/com.github.paulcwarren/spring-content-fs@1.2.7?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-content-fs@2.0.0
 - pkg:maven/com.github.paulcwarren/spring-content-fs@2.0.0?classifier=sources
+- pkg:maven/com.github.paulcwarren/spring-content-fs@2.1.0
+- pkg:maven/com.github.paulcwarren/spring-content-fs@2.1.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-content-fs@v1.2.0
 - pkg:maven/com.github.paulcwarren/spring-content-fs@v1.2.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-content-fs@v1.2.3

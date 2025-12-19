@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-code-analysis@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-code-analysis@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-code-analysis@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-code-analysis@RELEASE130?classifier=sources

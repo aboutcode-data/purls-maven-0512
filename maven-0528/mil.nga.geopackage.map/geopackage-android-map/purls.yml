@@ -46,3 +46,4 @@
 - pkg:maven/mil.nga.geopackage.map/geopackage-android-map@6.1.2?classifier=sources
 - pkg:maven/mil.nga.geopackage.map/geopackage-android-map@6.1.3?classifier=sources
 - pkg:maven/mil.nga.geopackage.map/geopackage-android-map@6.2.0?classifier=sources
+- pkg:maven/mil.nga.geopackage.map/geopackage-android-map@6.2.1?classifier=sources

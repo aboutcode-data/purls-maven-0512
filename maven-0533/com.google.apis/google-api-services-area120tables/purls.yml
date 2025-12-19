@@ -32,3 +32,5 @@
 - pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20210923-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20211007-1.32.1
 - pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20211007-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20220319-1.32.1
+- pkg:maven/com.google.apis/google-api-services-area120tables@v1alpha1-rev20220319-1.32.1?classifier=sources

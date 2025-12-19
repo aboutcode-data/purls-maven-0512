@@ -77,6 +77,12 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.0
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.0?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.1
+- pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.10
+- pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.10?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.11
+- pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.11?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.12
+- pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.12?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.1?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.2
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.2?classifier=sources
@@ -92,3 +98,5 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.7?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.8
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.8?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.9
+- pkg:maven/nl.basjes.parse.useragent/yauaa-beam@6.9?classifier=sources

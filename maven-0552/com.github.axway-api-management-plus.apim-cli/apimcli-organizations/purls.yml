@@ -1,3 +1,7 @@
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-organizations@1.10.0
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-organizations@1.10.0?classifier=sources
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-organizations@1.10.1
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-organizations@1.10.1?classifier=sources
 - pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-organizations@1.2.0
 - pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-organizations@1.2.0?classifier=sources
 - pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-organizations@1.2.1
@@ -49,3 +53,5 @@
 - pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-organizations@1.7.1?classifier=sources
 - pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-organizations@1.8.0
 - pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-organizations@1.8.0?classifier=sources
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-organizations@1.9.0
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-organizations@1.9.0?classifier=sources

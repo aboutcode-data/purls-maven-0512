@@ -1,0 +1,2 @@
+- pkg:maven/cn.herodotus.engine/assistant-sdk-json@2.7.0.Beta3
+- pkg:maven/cn.herodotus.engine/assistant-sdk-json@2.7.0.Beta3?classifier=sources

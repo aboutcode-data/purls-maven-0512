@@ -1,0 +1,2 @@
+- pkg:maven/io.toolisticon.jackson.module/jackson-avro-module@0.1.2
+- pkg:maven/io.toolisticon.jackson.module/jackson-avro-module@0.1.2?classifier=sources

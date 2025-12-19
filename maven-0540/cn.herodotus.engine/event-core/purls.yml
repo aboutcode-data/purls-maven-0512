@@ -1,0 +1,2 @@
+- pkg:maven/cn.herodotus.engine/event-core@2.7.0.Beta3
+- pkg:maven/cn.herodotus.engine/event-core@2.7.0.Beta3?classifier=sources

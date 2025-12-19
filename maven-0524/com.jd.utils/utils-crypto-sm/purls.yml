@@ -10,3 +10,5 @@
 - pkg:maven/com.jd.utils/utils-crypto-sm@2.2.0.RELEASE?classifier=sources
 - pkg:maven/com.jd.utils/utils-crypto-sm@2.2.1.RELEASE
 - pkg:maven/com.jd.utils/utils-crypto-sm@2.2.1.RELEASE?classifier=sources
+- pkg:maven/com.jd.utils/utils-crypto-sm@2.2.2.RELEASE
+- pkg:maven/com.jd.utils/utils-crypto-sm@2.2.2.RELEASE?classifier=sources

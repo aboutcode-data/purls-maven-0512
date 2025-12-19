@@ -334,3 +334,5 @@
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@3.1.899?classifier=sources
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@3.1.913
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@3.1.913?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@3.1.929
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-maven-plugin@3.1.929?classifier=sources

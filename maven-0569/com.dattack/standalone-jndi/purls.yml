@@ -8,3 +8,5 @@
 - pkg:maven/com.dattack/standalone-jndi@0.4.1
 - pkg:maven/com.dattack/standalone-jndi@0.4.1?classifier=sources
 - pkg:maven/com.dattack/standalone-jndi@0.4?classifier=sources
+- pkg:maven/com.dattack/standalone-jndi@0.5
+- pkg:maven/com.dattack/standalone-jndi@0.5?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/app.freel/locationfetcher@8.0.0-alpha07?classifier=sources
 - pkg:maven/app.freel/locationfetcher@8.0.0-alpha08?classifier=sources
 - pkg:maven/app.freel/locationfetcher@8.0.0?classifier=sources
+- pkg:maven/app.freel/locationfetcher@8.1.0?classifier=sources
+- pkg:maven/app.freel/locationfetcher@8.1.1?classifier=sources

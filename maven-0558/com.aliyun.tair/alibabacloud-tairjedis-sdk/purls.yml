@@ -16,3 +16,7 @@
 - pkg:maven/com.aliyun.tair/alibabacloud-tairjedis-sdk@1.8.0?classifier=sources
 - pkg:maven/com.aliyun.tair/alibabacloud-tairjedis-sdk@1.9.0
 - pkg:maven/com.aliyun.tair/alibabacloud-tairjedis-sdk@1.9.0?classifier=sources
+- pkg:maven/com.aliyun.tair/alibabacloud-tairjedis-sdk@2.0.0
+- pkg:maven/com.aliyun.tair/alibabacloud-tairjedis-sdk@2.0.0?classifier=sources
+- pkg:maven/com.aliyun.tair/alibabacloud-tairjedis-sdk@2.1.0
+- pkg:maven/com.aliyun.tair/alibabacloud-tairjedis-sdk@2.1.0?classifier=sources

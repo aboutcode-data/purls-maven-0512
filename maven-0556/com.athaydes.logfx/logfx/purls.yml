@@ -7,3 +7,4 @@
 - pkg:maven/com.athaydes.logfx/logfx@1.0-RC10?classifier=sources
 - pkg:maven/com.athaydes.logfx/logfx@1.0-RC2?classifier=sources
 - pkg:maven/com.athaydes.logfx/logfx@1.0-RC3?classifier=sources
+- pkg:maven/com.athaydes.logfx/logfx@1.0?classifier=sources

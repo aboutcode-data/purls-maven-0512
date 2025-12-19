@@ -28,3 +28,4 @@
 - pkg:maven/org.apache.jackrabbit.vault/jackrabbit-filevault@3.5.4?classifier=src&type=zip
 - pkg:maven/org.apache.jackrabbit.vault/jackrabbit-filevault@3.5.6?classifier=src&type=zip
 - pkg:maven/org.apache.jackrabbit.vault/jackrabbit-filevault@3.5.8?classifier=src&type=zip
+- pkg:maven/org.apache.jackrabbit.vault/jackrabbit-filevault@3.6.0?classifier=src&type=zip

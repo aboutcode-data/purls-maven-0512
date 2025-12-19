@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/algolia__cache-in-memory@4.12.1
+- pkg:maven/org.webjars.npm/algolia__cache-in-memory@4.12.1?classifier=sources

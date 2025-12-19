@@ -1,0 +1,4 @@
+- pkg:maven/fish.focus.uvms.spatial/spatial-module@2.2.11?classifier=sources
+- pkg:maven/fish.focus.uvms.spatial/spatial-module@2.2.11?type=war
+- pkg:maven/fish.focus.uvms.spatial/spatial-module@2.2.12?classifier=sources
+- pkg:maven/fish.focus.uvms.spatial/spatial-module@2.2.12?type=war

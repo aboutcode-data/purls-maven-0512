@@ -28,3 +28,6 @@
 - pkg:maven/io.github.hylexus.jt/jt-808-server-support@1.0.9-RELEASE?classifier=sources
 - pkg:maven/io.github.hylexus.jt/jt-808-server-support@2.0.0-RELEASE
 - pkg:maven/io.github.hylexus.jt/jt-808-server-support@2.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.hylexus.jt/jt-808-server-support@2.0.1-RELEASE
+- pkg:maven/io.github.hylexus.jt/jt-808-server-support@2.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.hylexus.jt/jt-808-server-support@2.0.2-rc1?classifier=sources

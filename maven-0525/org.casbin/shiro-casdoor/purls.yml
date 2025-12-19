@@ -1,0 +1,2 @@
+- pkg:maven/org.casbin/shiro-casdoor@1.0.0
+- pkg:maven/org.casbin/shiro-casdoor@1.0.0?classifier=sources

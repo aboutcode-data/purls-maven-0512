@@ -49,6 +49,8 @@
 - pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.production@1.13.10?classifier=sources
 - pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.production@1.13.11
 - pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.production@1.13.11?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.production@1.13.12
+- pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.production@1.13.12?classifier=sources
 - pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.production@1.13.1?classifier=sources
 - pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.production@1.13.2
 - pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.production@1.13.2?classifier=sources

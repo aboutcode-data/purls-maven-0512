@@ -1,0 +1,4 @@
+- pkg:maven/com.amido.stacks.modules/stacks-core-api@1.0.0
+- pkg:maven/com.amido.stacks.modules/stacks-core-api@1.0.0.47-RELEASE
+- pkg:maven/com.amido.stacks.modules/stacks-core-api@1.0.0.47-RELEASE?classifier=sources
+- pkg:maven/com.amido.stacks.modules/stacks-core-api@1.0.0?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/org.ajoberstar.reckon/reckon-gradle@0.14.0?classifier=sources
 - pkg:maven/org.ajoberstar.reckon/reckon-gradle@0.15.0?classifier=sources
 - pkg:maven/org.ajoberstar.reckon/reckon-gradle@0.16.0?classifier=sources
+- pkg:maven/org.ajoberstar.reckon/reckon-gradle@0.16.1?classifier=sources

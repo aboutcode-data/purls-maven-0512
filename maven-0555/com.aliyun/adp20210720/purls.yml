@@ -2,6 +2,10 @@
 - pkg:maven/com.aliyun/adp20210720@1.0.0?classifier=sources
 - pkg:maven/com.aliyun/adp20210720@1.0.1
 - pkg:maven/com.aliyun/adp20210720@1.0.1?classifier=sources
+- pkg:maven/com.aliyun/adp20210720@1.0.6-hotfix
+- pkg:maven/com.aliyun/adp20210720@1.0.6-hotfix?classifier=sources
+- pkg:maven/com.aliyun/adp20210720@1.0.7
+- pkg:maven/com.aliyun/adp20210720@1.0.7?classifier=sources
 - pkg:maven/com.aliyun/adp20210720@v1.0.2
 - pkg:maven/com.aliyun/adp20210720@v1.0.2?classifier=sources
 - pkg:maven/com.aliyun/adp20210720@v1.0.3

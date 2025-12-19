@@ -100,3 +100,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-sleuth@3.0.4
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-sleuth@3.0.5
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-sleuth@3.1.0
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-sleuth@3.1.1

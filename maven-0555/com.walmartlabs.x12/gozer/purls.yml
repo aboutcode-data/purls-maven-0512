@@ -14,3 +14,4 @@
 - pkg:maven/com.walmartlabs.x12/gozer@0.3.0.M8?classifier=sources
 - pkg:maven/com.walmartlabs.x12/gozer@0.3.0?classifier=sources
 - pkg:maven/com.walmartlabs.x12/gozer@0.3.1?classifier=sources
+- pkg:maven/com.walmartlabs.x12/gozer@0.3.2?classifier=sources

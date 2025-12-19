@@ -10,3 +10,9 @@
 - pkg:maven/io.github.ChivoxSupport/vox-sdk@2.2.26%2B2.0.10?classifier=sources
 - pkg:maven/io.github.ChivoxSupport/vox-sdk@2.2.26%2B2.0.9
 - pkg:maven/io.github.ChivoxSupport/vox-sdk@2.2.26%2B2.0.9?classifier=sources
+- pkg:maven/io.github.ChivoxSupport/vox-sdk@2.2.26%2B2.1.0
+- pkg:maven/io.github.ChivoxSupport/vox-sdk@2.2.26%2B2.1.0?classifier=sources
+- pkg:maven/io.github.ChivoxSupport/vox-sdk@2.2.26%2B3.0.0
+- pkg:maven/io.github.ChivoxSupport/vox-sdk@2.2.26%2B3.0.0?classifier=sources
+- pkg:maven/io.github.ChivoxSupport/vox-sdk@test2.2.26%2B2.0.10
+- pkg:maven/io.github.ChivoxSupport/vox-sdk@test2.2.26%2B2.0.10?classifier=sources

@@ -20,3 +20,7 @@
 - pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-reflections@1.8.2?classifier=sources
 - pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-reflections@1.8.3
 - pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-reflections@1.8.3?classifier=sources
+- pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-reflections@1.8.4
+- pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-reflections@1.8.4?classifier=sources
+- pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-reflections@1.8.5
+- pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-reflections@1.8.5?classifier=sources

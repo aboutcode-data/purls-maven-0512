@@ -90,3 +90,5 @@
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-runtime-native@2.7.3.slf4jvaadin2?classifier=sources
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-runtime-native@2.7.3.slf4jvaadin3
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-runtime-native@2.7.3.slf4jvaadin3?classifier=sources
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-runtime-native@2.7.3.slf4jvaadin4
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-runtime-native@2.7.3.slf4jvaadin4?classifier=sources

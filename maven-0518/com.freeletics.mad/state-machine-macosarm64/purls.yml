@@ -12,5 +12,14 @@
 - pkg:maven/com.freeletics.mad/state-machine-macosarm64@0.3.0-alpha16?classifier=sources
 - pkg:maven/com.freeletics.mad/state-machine-macosarm64@0.3.0-alpha17?classifier=sources
 - pkg:maven/com.freeletics.mad/state-machine-macosarm64@0.3.0-alpha18?classifier=sources
+- pkg:maven/com.freeletics.mad/state-machine-macosarm64@0.3.0-alpha19-2?classifier=sources
 - pkg:maven/com.freeletics.mad/state-machine-macosarm64@0.3.0-alpha19?classifier=sources
 - pkg:maven/com.freeletics.mad/state-machine-macosarm64@0.3.0-alpha20?classifier=sources
+- pkg:maven/com.freeletics.mad/state-machine-macosarm64@0.3.0-alpha21?classifier=sources
+- pkg:maven/com.freeletics.mad/state-machine-macosarm64@0.3.0-alpha22?classifier=sources
+- pkg:maven/com.freeletics.mad/state-machine-macosarm64@0.3.0-alpha23?classifier=sources
+- pkg:maven/com.freeletics.mad/state-machine-macosarm64@0.3.0-alpha24?classifier=sources
+- pkg:maven/com.freeletics.mad/state-machine-macosarm64@0.3.0-alpha25?classifier=sources
+- pkg:maven/com.freeletics.mad/state-machine-macosarm64@0.3.0-alpha26?classifier=sources
+- pkg:maven/com.freeletics.mad/state-machine-macosarm64@0.3.0-alpha27?classifier=sources
+- pkg:maven/com.freeletics.mad/state-machine-macosarm64@0.3.0-alpha28?classifier=sources

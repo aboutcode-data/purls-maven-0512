@@ -20,3 +20,4 @@
 - pkg:maven/com.coolerfall/android-http-download-manager@1.6.2?type=aar
 - pkg:maven/com.coolerfall/android-http-download-manager@1.6.3?classifier=sources
 - pkg:maven/com.coolerfall/android-http-download-manager@1.6.3?type=aar
+- pkg:maven/com.coolerfall/android-http-download-manager@2.0.0?classifier=sources

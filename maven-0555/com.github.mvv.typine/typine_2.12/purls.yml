@@ -4,3 +4,5 @@
 - pkg:maven/com.github.mvv.typine/typine_2.12@0.1-M2?classifier=sources
 - pkg:maven/com.github.mvv.typine/typine_2.12@0.1-M3
 - pkg:maven/com.github.mvv.typine/typine_2.12@0.1-M3?classifier=sources
+- pkg:maven/com.github.mvv.typine/typine_2.12@0.1-M4
+- pkg:maven/com.github.mvv.typine/typine_2.12@0.1-M4?classifier=sources

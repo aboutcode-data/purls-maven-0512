@@ -178,3 +178,5 @@
 - pkg:maven/com.gu/content-api-models-json_2.12@17.3.0-beta.2
 - pkg:maven/com.gu/content-api-models-json_2.12@17.3.0-beta.2?classifier=sources
 - pkg:maven/com.gu/content-api-models-json_2.12@17.3.0?classifier=sources
+- pkg:maven/com.gu/content-api-models-json_2.12@17.4.0-beta.0
+- pkg:maven/com.gu/content-api-models-json_2.12@17.4.0-beta.0?classifier=sources

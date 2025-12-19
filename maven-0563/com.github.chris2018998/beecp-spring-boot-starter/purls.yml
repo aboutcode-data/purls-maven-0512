@@ -46,3 +46,5 @@
 - pkg:maven/com.github.chris2018998/beecp-spring-boot-starter@1.6.3?classifier=sources
 - pkg:maven/com.github.chris2018998/beecp-spring-boot-starter@1.6.4
 - pkg:maven/com.github.chris2018998/beecp-spring-boot-starter@1.6.4?classifier=sources
+- pkg:maven/com.github.chris2018998/beecp-spring-boot-starter@1.6.5
+- pkg:maven/com.github.chris2018998/beecp-spring-boot-starter@1.6.5?classifier=sources

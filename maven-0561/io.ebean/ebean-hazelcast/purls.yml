@@ -10,6 +10,10 @@
 - pkg:maven/io.ebean/ebean-hazelcast@12.1.1?classifier=sources
 - pkg:maven/io.ebean/ebean-hazelcast@12.11.0
 - pkg:maven/io.ebean/ebean-hazelcast@12.11.0?classifier=sources
+- pkg:maven/io.ebean/ebean-hazelcast@12.12.0
+- pkg:maven/io.ebean/ebean-hazelcast@12.12.0?classifier=sources
+- pkg:maven/io.ebean/ebean-hazelcast@12.12.1
+- pkg:maven/io.ebean/ebean-hazelcast@12.12.1?classifier=sources
 - pkg:maven/io.ebean/ebean-hazelcast@12.4.1
 - pkg:maven/io.ebean/ebean-hazelcast@12.4.1?classifier=sources
 - pkg:maven/io.ebean/ebean-hazelcast@12.6.1

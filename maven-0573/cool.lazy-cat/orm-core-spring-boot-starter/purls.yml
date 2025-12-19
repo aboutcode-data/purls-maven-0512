@@ -4,3 +4,7 @@
 - pkg:maven/cool.lazy-cat/orm-core-spring-boot-starter@1.0.0?classifier=sources
 - pkg:maven/cool.lazy-cat/orm-core-spring-boot-starter@2.0.0
 - pkg:maven/cool.lazy-cat/orm-core-spring-boot-starter@2.0.0?classifier=sources
+- pkg:maven/cool.lazy-cat/orm-core-spring-boot-starter@2.1.0
+- pkg:maven/cool.lazy-cat/orm-core-spring-boot-starter@2.1.0?classifier=sources
+- pkg:maven/cool.lazy-cat/orm-core-spring-boot-starter@2.2.0
+- pkg:maven/cool.lazy-cat/orm-core-spring-boot-starter@2.2.0?classifier=sources

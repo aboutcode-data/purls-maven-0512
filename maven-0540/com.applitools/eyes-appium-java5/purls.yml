@@ -1,0 +1,2 @@
+- pkg:maven/com.applitools/eyes-appium-java5@5.0.2
+- pkg:maven/com.applitools/eyes-appium-java5@5.0.2?classifier=sources

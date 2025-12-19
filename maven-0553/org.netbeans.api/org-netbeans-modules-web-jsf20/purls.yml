@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-web-jsf20@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-web-jsf20@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-web-jsf20@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-web-jsf20@RELEASE130?classifier=sources

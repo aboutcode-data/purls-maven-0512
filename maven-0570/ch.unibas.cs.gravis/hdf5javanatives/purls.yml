@@ -1,0 +1,2 @@
+- pkg:maven/ch.unibas.cs.gravis/hdf5javanatives@0.1.0
+- pkg:maven/ch.unibas.cs.gravis/hdf5javanatives@0.1.0?classifier=sources

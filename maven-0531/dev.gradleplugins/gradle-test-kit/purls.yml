@@ -78,3 +78,5 @@
 - pkg:maven/dev.gradleplugins/gradle-test-kit@7.3.2?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-test-kit@7.3.3?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-test-kit@7.3?classifier=sources
+- pkg:maven/dev.gradleplugins/gradle-test-kit@7.4.1?classifier=sources
+- pkg:maven/dev.gradleplugins/gradle-test-kit@7.4?classifier=sources

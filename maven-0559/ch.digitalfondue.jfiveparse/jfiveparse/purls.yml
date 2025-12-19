@@ -1,5 +1,7 @@
 - pkg:maven/ch.digitalfondue.jfiveparse/jfiveparse@0.1.1
 - pkg:maven/ch.digitalfondue.jfiveparse/jfiveparse@0.1.1?classifier=sources
+- pkg:maven/ch.digitalfondue.jfiveparse/jfiveparse@0.10.0
+- pkg:maven/ch.digitalfondue.jfiveparse/jfiveparse@0.10.0?classifier=sources
 - pkg:maven/ch.digitalfondue.jfiveparse/jfiveparse@0.2.0
 - pkg:maven/ch.digitalfondue.jfiveparse/jfiveparse@0.2.0?classifier=sources
 - pkg:maven/ch.digitalfondue.jfiveparse/jfiveparse@0.3.0

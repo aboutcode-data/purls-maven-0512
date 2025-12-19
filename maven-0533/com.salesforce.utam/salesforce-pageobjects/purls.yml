@@ -1,0 +1,2 @@
+- pkg:maven/com.salesforce.utam/salesforce-pageobjects@0.0.1-alpha
+- pkg:maven/com.salesforce.utam/salesforce-pageobjects@0.0.1-alpha?classifier=sources

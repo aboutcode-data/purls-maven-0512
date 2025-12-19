@@ -1,2 +1,6 @@
 - pkg:maven/dev.vality/skipper-proto@1.1-57f84d6
 - pkg:maven/dev.vality/skipper-proto@1.1-57f84d6?classifier=sources
+- pkg:maven/dev.vality/skipper-proto@1.2-dd522c9
+- pkg:maven/dev.vality/skipper-proto@1.2-dd522c9?classifier=sources
+- pkg:maven/dev.vality/skipper-proto@1.3-2b4b8b9
+- pkg:maven/dev.vality/skipper-proto@1.3-2b4b8b9?classifier=sources

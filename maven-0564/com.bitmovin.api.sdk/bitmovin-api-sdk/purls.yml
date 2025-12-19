@@ -10,6 +10,16 @@
 - pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.103.0?classifier=sources
 - pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.104.0
 - pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.104.0?classifier=sources
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.105.0
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.105.0?classifier=sources
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.106.0
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.106.0?classifier=sources
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.107.0
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.107.0?classifier=sources
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.108.0
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.108.0?classifier=sources
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.109.0
+- pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.109.0?classifier=sources
 - pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.12.0-alpha-1
 - pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.12.0-alpha-1?classifier=sources
 - pkg:maven/com.bitmovin.api.sdk/bitmovin-api-sdk@1.13.0-alpha-0

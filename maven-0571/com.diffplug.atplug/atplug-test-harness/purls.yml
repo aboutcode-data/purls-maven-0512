@@ -1,0 +1,2 @@
+- pkg:maven/com.diffplug.atplug/atplug-test-harness@0.1.0?classifier=sources
+- pkg:maven/com.diffplug.atplug/atplug-test-harness@0.1.1?classifier=sources

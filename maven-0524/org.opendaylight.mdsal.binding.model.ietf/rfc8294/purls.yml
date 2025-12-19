@@ -85,3 +85,4 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294@8.0.4
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294@8.0.5
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294@8.0.9
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294@9.0.0

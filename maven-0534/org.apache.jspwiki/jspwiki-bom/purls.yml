@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.jspwiki/jspwiki-bom@2.11.2
+- pkg:maven/org.apache.jspwiki/jspwiki-bom@2.11.2?classifier=sources

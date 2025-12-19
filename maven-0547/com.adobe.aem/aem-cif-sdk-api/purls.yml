@@ -26,3 +26,5 @@
 - pkg:maven/com.adobe.aem/aem-cif-sdk-api@2021.11.18.00?classifier=sources
 - pkg:maven/com.adobe.aem/aem-cif-sdk-api@2022.01.20.00
 - pkg:maven/com.adobe.aem/aem-cif-sdk-api@2022.01.20.00?classifier=sources
+- pkg:maven/com.adobe.aem/aem-cif-sdk-api@2022.02.24.00
+- pkg:maven/com.adobe.aem/aem-cif-sdk-api@2022.02.24.00?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/ru.yoomoney.gradle.plugins/check-dependencies-plugin@7.2.1?classifier=sources
 - pkg:maven/ru.yoomoney.gradle.plugins/check-dependencies-plugin@7.3.0?classifier=sources
 - pkg:maven/ru.yoomoney.gradle.plugins/check-dependencies-plugin@7.4.0?classifier=sources
+- pkg:maven/ru.yoomoney.gradle.plugins/check-dependencies-plugin@8.0.0?classifier=sources
+- pkg:maven/ru.yoomoney.gradle.plugins/check-dependencies-plugin@8.1.0?classifier=sources

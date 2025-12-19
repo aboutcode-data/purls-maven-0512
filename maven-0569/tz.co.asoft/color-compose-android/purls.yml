@@ -7,3 +7,6 @@
 - pkg:maven/tz.co.asoft/color-compose-android@0.2.23?classifier=sources
 - pkg:maven/tz.co.asoft/color-compose-android@0.2.25?classifier=sources
 - pkg:maven/tz.co.asoft/color-compose-android@0.2.26?classifier=sources
+- pkg:maven/tz.co.asoft/color-compose-android@0.2.27?classifier=sources
+- pkg:maven/tz.co.asoft/color-compose-android@0.2.28?classifier=sources
+- pkg:maven/tz.co.asoft/color-compose-android@0.2.29?classifier=sources

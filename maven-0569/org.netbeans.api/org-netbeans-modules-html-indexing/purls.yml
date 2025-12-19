@@ -3,3 +3,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-html-indexing@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-html-indexing@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-html-indexing@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-html-indexing@RELEASE130?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.mock-server/mockserver-spring-test-listener@5.11.2?classifier=sources
 - pkg:maven/org.mock-server/mockserver-spring-test-listener@5.12.0
 - pkg:maven/org.mock-server/mockserver-spring-test-listener@5.12.0?classifier=sources
+- pkg:maven/org.mock-server/mockserver-spring-test-listener@5.13.0
+- pkg:maven/org.mock-server/mockserver-spring-test-listener@5.13.0?classifier=sources

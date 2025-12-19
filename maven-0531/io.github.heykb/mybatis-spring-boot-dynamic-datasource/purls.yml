@@ -1,0 +1,2 @@
+- pkg:maven/io.github.heykb/mybatis-spring-boot-dynamic-datasource@3.0.0
+- pkg:maven/io.github.heykb/mybatis-spring-boot-dynamic-datasource@3.0.0?classifier=sources
