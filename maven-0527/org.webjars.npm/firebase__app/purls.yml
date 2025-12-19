@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/firebase__app@0.4.19?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__app@0.6.14
 - pkg:maven/org.webjars.npm/firebase__app@0.6.14?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__app@0.7.20
+- pkg:maven/org.webjars.npm/firebase__app@0.7.20?classifier=sources

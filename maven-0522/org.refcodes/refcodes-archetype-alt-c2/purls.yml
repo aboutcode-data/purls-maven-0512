@@ -5,3 +5,4 @@
 - pkg:maven/org.refcodes/refcodes-archetype-alt-c2@2.2.0?classifier=sources
 - pkg:maven/org.refcodes/refcodes-archetype-alt-c2@2.2.1?classifier=sources
 - pkg:maven/org.refcodes/refcodes-archetype-alt-c2@2.2.2?classifier=sources
+- pkg:maven/org.refcodes/refcodes-archetype-alt-c2@3.0.0?classifier=sources

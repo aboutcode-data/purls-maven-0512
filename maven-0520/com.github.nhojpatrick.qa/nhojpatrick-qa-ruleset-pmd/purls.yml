@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nhojpatrick.qa/nhojpatrick-qa-ruleset-pmd@1.1.0
+- pkg:maven/com.github.nhojpatrick.qa/nhojpatrick-qa-ruleset-pmd@1.1.0?classifier=sources

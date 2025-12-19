@@ -80,3 +80,5 @@
 - pkg:maven/org.refcodes/refcodes-checkerboard-ext-javafx-chess@2.2.1?classifier=sources
 - pkg:maven/org.refcodes/refcodes-checkerboard-ext-javafx-chess@2.2.2
 - pkg:maven/org.refcodes/refcodes-checkerboard-ext-javafx-chess@2.2.2?classifier=sources
+- pkg:maven/org.refcodes/refcodes-checkerboard-ext-javafx-chess@3.0.0
+- pkg:maven/org.refcodes/refcodes-checkerboard-ext-javafx-chess@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.phoebus/service-archive-engine@4.6.7
+- pkg:maven/org.phoebus/service-archive-engine@4.6.7?classifier=sources

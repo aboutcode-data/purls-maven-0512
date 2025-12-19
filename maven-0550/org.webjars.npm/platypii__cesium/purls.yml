@@ -32,3 +32,7 @@
 - pkg:maven/org.webjars.npm/platypii__cesium@1.90.0?classifier=sources
 - pkg:maven/org.webjars.npm/platypii__cesium@1.91.0
 - pkg:maven/org.webjars.npm/platypii__cesium@1.91.0?classifier=sources
+- pkg:maven/org.webjars.npm/platypii__cesium@1.92.0
+- pkg:maven/org.webjars.npm/platypii__cesium@1.92.0?classifier=sources
+- pkg:maven/org.webjars.npm/platypii__cesium@1.93.0
+- pkg:maven/org.webjars.npm/platypii__cesium@1.93.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/de.wenzlaff.twbibel/de.wenzlaff.twbibel@0.0.7?classifier=sources
 - pkg:maven/de.wenzlaff.twbibel/de.wenzlaff.twbibel@0.0.9
 - pkg:maven/de.wenzlaff.twbibel/de.wenzlaff.twbibel@0.0.9?classifier=sources
+- pkg:maven/de.wenzlaff.twbibel/de.wenzlaff.twbibel@0.1.0
+- pkg:maven/de.wenzlaff.twbibel/de.wenzlaff.twbibel@0.1.0?classifier=sources

@@ -20,3 +20,7 @@
 - pkg:maven/dev.vality/magista-proto@1.34-2ec22d8?classifier=sources
 - pkg:maven/dev.vality/magista-proto@1.35-f1a4bc0
 - pkg:maven/dev.vality/magista-proto@1.35-f1a4bc0?classifier=sources
+- pkg:maven/dev.vality/magista-proto@1.36-9f37374
+- pkg:maven/dev.vality/magista-proto@1.36-9f37374?classifier=sources
+- pkg:maven/dev.vality/magista-proto@1.37-ba389d1
+- pkg:maven/dev.vality/magista-proto@1.37-ba389d1?classifier=sources

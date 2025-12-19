@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.macwire/util_sjs1_3@2.5.7
+- pkg:maven/com.softwaremill.macwire/util_sjs1_3@2.5.7?classifier=sources

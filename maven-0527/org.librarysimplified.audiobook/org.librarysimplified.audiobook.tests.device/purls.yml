@@ -24,3 +24,4 @@
 - pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.tests.device@6.4.0?classifier=sources
 - pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.tests.device@6.5.0?classifier=sources
 - pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.tests.device@6.6.0?classifier=sources
+- pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.tests.device@7.1.0?classifier=sources

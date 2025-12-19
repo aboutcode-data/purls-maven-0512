@@ -1,2 +1,4 @@
 - pkg:maven/top.andoudou/swagger2-core@1.0.0
 - pkg:maven/top.andoudou/swagger2-core@1.0.0?classifier=sources
+- pkg:maven/top.andoudou/swagger2-core@1.0.1
+- pkg:maven/top.andoudou/swagger2-core@1.0.1?classifier=sources

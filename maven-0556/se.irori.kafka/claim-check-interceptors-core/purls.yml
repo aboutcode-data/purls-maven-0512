@@ -1,0 +1,2 @@
+- pkg:maven/se.irori.kafka/claim-check-interceptors-core@0.7.0
+- pkg:maven/se.irori.kafka/claim-check-interceptors-core@0.7.0?classifier=sources

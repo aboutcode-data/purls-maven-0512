@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@2.5.0
+- pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@2.5.0?classifier=sources

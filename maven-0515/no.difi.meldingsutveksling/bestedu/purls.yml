@@ -18,3 +18,17 @@
 - pkg:maven/no.difi.meldingsutveksling/bestedu@2.3.2?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/bestedu@2.4.0
 - pkg:maven/no.difi.meldingsutveksling/bestedu@2.4.0?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/bestedu@2.4.1
+- pkg:maven/no.difi.meldingsutveksling/bestedu@2.4.1?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/bestedu@2.5.0
+- pkg:maven/no.difi.meldingsutveksling/bestedu@2.5.0?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/bestedu@2.5.1
+- pkg:maven/no.difi.meldingsutveksling/bestedu@2.5.1?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/bestedu@2.6.0
+- pkg:maven/no.difi.meldingsutveksling/bestedu@2.6.0?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/bestedu@2.6.1
+- pkg:maven/no.difi.meldingsutveksling/bestedu@2.6.1?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/bestedu@2.6.2
+- pkg:maven/no.difi.meldingsutveksling/bestedu@2.6.2?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/bestedu@2.7.0
+- pkg:maven/no.difi.meldingsutveksling/bestedu@2.7.0?classifier=sources

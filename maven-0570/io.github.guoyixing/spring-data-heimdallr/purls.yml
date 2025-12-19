@@ -1,0 +1,2 @@
+- pkg:maven/io.github.guoyixing/spring-data-heimdallr@0.2
+- pkg:maven/io.github.guoyixing/spring-data-heimdallr@0.2?classifier=sources

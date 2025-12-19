@@ -1,0 +1,4 @@
+- pkg:maven/com.alibaba.lindorm/lindorm-search-sql-plugin@8.10.1.4
+- pkg:maven/com.alibaba.lindorm/lindorm-search-sql-plugin@8.10.1.4?classifier=sources
+- pkg:maven/com.alibaba.lindorm/lindorm-search-sql-plugin@8.10.1.5
+- pkg:maven/com.alibaba.lindorm/lindorm-search-sql-plugin@8.10.1.5?classifier=sources

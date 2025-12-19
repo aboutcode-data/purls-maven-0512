@@ -14,3 +14,4 @@
 - pkg:maven/com.adobe.target/target-java-sdk@2.1.6?classifier=sources
 - pkg:maven/com.adobe.target/target-java-sdk@2.2.0?classifier=sources
 - pkg:maven/com.adobe.target/target-java-sdk@2.2.1?classifier=sources
+- pkg:maven/com.adobe.target/target-java-sdk@2.2.2?classifier=sources

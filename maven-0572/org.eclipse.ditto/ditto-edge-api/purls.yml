@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.ditto/ditto-edge-api@2.4.0
+- pkg:maven/org.eclipse.ditto/ditto-edge-api@2.4.0?classifier=sources

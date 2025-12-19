@@ -1,0 +1,2 @@
+- pkg:maven/io.github.msaf9/package@1.0.0
+- pkg:maven/io.github.msaf9/package@1.0.0?classifier=sources

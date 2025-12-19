@@ -21,3 +21,5 @@
 - pkg:maven/com.kount/kount-ris-sdk@7.3.9?classifier=sources
 - pkg:maven/com.kount/kount-ris-sdk@7.4.0
 - pkg:maven/com.kount/kount-ris-sdk@7.4.0?classifier=sources
+- pkg:maven/com.kount/kount-ris-sdk@7.5.0
+- pkg:maven/com.kount/kount-ris-sdk@7.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.ifinalframework.data/final-data-jdbc@1.3.0
+- pkg:maven/org.ifinalframework.data/final-data-jdbc@1.3.0?classifier=sources

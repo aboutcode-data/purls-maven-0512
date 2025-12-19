@@ -1,0 +1,1 @@
+- pkg:maven/aws.smithy.kotlin/aws-signing-crt-jvm@0.9.0?classifier=sources

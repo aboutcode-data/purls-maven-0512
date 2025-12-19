@@ -1,1 +1,2 @@
 - pkg:maven/uk.gov.ida/gradle-gatling-plugin@1.5-13?classifier=sources
+- pkg:maven/uk.gov.ida/gradle-gatling-plugin@1.5-14?classifier=sources

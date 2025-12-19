@@ -44,6 +44,10 @@
 - pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.38.22-beta.1?classifier=sources
 - pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.38.23-beta.1
 - pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.38.23-beta.1?classifier=sources
+- pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.38.24-beta.1
+- pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.38.24-beta.1?classifier=sources
+- pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.38.25-beta.1
+- pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.38.25-beta.1?classifier=sources
 - pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.38.4-beta.1
 - pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.38.4-beta.1?classifier=sources
 - pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.38.5-beta.1

@@ -15,3 +15,5 @@
 - pkg:maven/org.apache.skywalking/prometheus-fetcher-plugin@8.9.0?classifier=sources
 - pkg:maven/org.apache.skywalking/prometheus-fetcher-plugin@8.9.1
 - pkg:maven/org.apache.skywalking/prometheus-fetcher-plugin@8.9.1?classifier=sources
+- pkg:maven/org.apache.skywalking/prometheus-fetcher-plugin@9.0.0
+- pkg:maven/org.apache.skywalking/prometheus-fetcher-plugin@9.0.0?classifier=sources

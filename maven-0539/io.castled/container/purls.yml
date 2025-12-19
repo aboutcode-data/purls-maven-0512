@@ -210,7 +210,13 @@
 - pkg:maven/io.castled/container@0.2.86-alpha?classifier=sources
 - pkg:maven/io.castled/container@0.2.87-alpha
 - pkg:maven/io.castled/container@0.2.87-alpha?classifier=sources
+- pkg:maven/io.castled/container@0.2.88-alpha
+- pkg:maven/io.castled/container@0.2.88-alpha?classifier=sources
+- pkg:maven/io.castled/container@0.2.89-alpha
+- pkg:maven/io.castled/container@0.2.89-alpha?classifier=sources
 - pkg:maven/io.castled/container@0.2.9-alpha
 - pkg:maven/io.castled/container@0.2.9-alpha?classifier=sources
+- pkg:maven/io.castled/container@0.2.90-alpha
+- pkg:maven/io.castled/container@0.2.90-alpha?classifier=sources
 - pkg:maven/io.castled/container@1.0.0
 - pkg:maven/io.castled/container@1.0.0?classifier=sources

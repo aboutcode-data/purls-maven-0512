@@ -13,3 +13,4 @@
 - pkg:maven/com.yoc.visx.sdk/google-custom-events@1.6.2.0?classifier=sources
 - pkg:maven/com.yoc.visx.sdk/google-custom-events@1.7.0.0?classifier=sources
 - pkg:maven/com.yoc.visx.sdk/google-custom-events@2.0.0.0?classifier=sources
+- pkg:maven/com.yoc.visx.sdk/google-custom-events@2.1.0.0?classifier=sources

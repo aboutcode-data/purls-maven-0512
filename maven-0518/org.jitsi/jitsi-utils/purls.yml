@@ -10,6 +10,10 @@
 - pkg:maven/org.jitsi/jitsi-utils@1.0-111-g8ea4491?classifier=sources
 - pkg:maven/org.jitsi/jitsi-utils@1.0-112-gd92472a
 - pkg:maven/org.jitsi/jitsi-utils@1.0-112-gd92472a?classifier=sources
+- pkg:maven/org.jitsi/jitsi-utils@1.0-113-g8b75d53
+- pkg:maven/org.jitsi/jitsi-utils@1.0-113-g8b75d53?classifier=sources
+- pkg:maven/org.jitsi/jitsi-utils@1.0-114-g43815ed
+- pkg:maven/org.jitsi/jitsi-utils@1.0-114-g43815ed?classifier=sources
 - pkg:maven/org.jitsi/jitsi-utils@1.0-67-g4032ab6
 - pkg:maven/org.jitsi/jitsi-utils@1.0-67-g4032ab6?classifier=sources
 - pkg:maven/org.jitsi/jitsi-utils@1.0-68-g41ff78f

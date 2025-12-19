@@ -42,6 +42,8 @@
 - pkg:maven/io.zipkin.brave/brave-instrumentation-rpc@5.13.6?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-rpc@5.13.7
 - pkg:maven/io.zipkin.brave/brave-instrumentation-rpc@5.13.7?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-rpc@5.13.8
+- pkg:maven/io.zipkin.brave/brave-instrumentation-rpc@5.13.8?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-rpc@5.8.0
 - pkg:maven/io.zipkin.brave/brave-instrumentation-rpc@5.8.0?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-rpc@5.9.0

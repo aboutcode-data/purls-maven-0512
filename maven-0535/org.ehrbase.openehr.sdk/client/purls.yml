@@ -1,4 +1,8 @@
 - pkg:maven/org.ehrbase.openehr.sdk/client@1.17.0
 - pkg:maven/org.ehrbase.openehr.sdk/client@1.17.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr.sdk/client@1.18.0
+- pkg:maven/org.ehrbase.openehr.sdk/client@1.18.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr.sdk/client@1.19.0
+- pkg:maven/org.ehrbase.openehr.sdk/client@1.19.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr.sdk/client@1.6.0
 - pkg:maven/org.ehrbase.openehr.sdk/client@1.6.0?classifier=sources

@@ -68,3 +68,4 @@
 - pkg:maven/org.apache.tapestry/tapestry-jpa@5.7.3?classifier=sources
 - pkg:maven/org.apache.tapestry/tapestry-jpa@5.8.0
 - pkg:maven/org.apache.tapestry/tapestry-jpa@5.8.0?classifier=sources
+- pkg:maven/org.apache.tapestry/tapestry-jpa@5.8.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vscode-languageserver@6.0.0-next.9
+- pkg:maven/org.webjars.npm/vscode-languageserver@6.0.0-next.9?classifier=sources

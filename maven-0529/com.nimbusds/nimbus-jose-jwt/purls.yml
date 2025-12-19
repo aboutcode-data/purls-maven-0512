@@ -439,7 +439,11 @@
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.20
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.20?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.21
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@9.21.1
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@9.21.1?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.21?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@9.22
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@9.22?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.2?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.3
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.3?classifier=sources

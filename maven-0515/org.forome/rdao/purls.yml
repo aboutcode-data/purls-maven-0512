@@ -1,0 +1,2 @@
+- pkg:maven/org.forome/rdao@1.13.2
+- pkg:maven/org.forome/rdao@1.13.2?classifier=sources

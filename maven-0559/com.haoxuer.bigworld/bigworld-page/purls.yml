@@ -4,3 +4,5 @@
 - pkg:maven/com.haoxuer.bigworld/bigworld-page@3.3.13-20220115?classifier=sources
 - pkg:maven/com.haoxuer.bigworld/bigworld-page@3.3.14-20220307
 - pkg:maven/com.haoxuer.bigworld/bigworld-page@3.3.14-20220307?classifier=sources
+- pkg:maven/com.haoxuer.bigworld/bigworld-page@3.3.16-20220327
+- pkg:maven/com.haoxuer.bigworld/bigworld-page@3.3.16-20220327?classifier=sources

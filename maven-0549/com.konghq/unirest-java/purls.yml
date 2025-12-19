@@ -120,6 +120,8 @@
 - pkg:maven/com.konghq/unirest-java@3.13.6?classifier=sources
 - pkg:maven/com.konghq/unirest-java@3.13.7
 - pkg:maven/com.konghq/unirest-java@3.13.7?classifier=sources
+- pkg:maven/com.konghq/unirest-java@3.13.8
+- pkg:maven/com.konghq/unirest-java@3.13.8?classifier=sources
 - pkg:maven/com.konghq/unirest-java@3.2.00
 - pkg:maven/com.konghq/unirest-java@3.2.00?classifier=sources
 - pkg:maven/com.konghq/unirest-java@3.3.00

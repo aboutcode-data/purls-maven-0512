@@ -1,0 +1,2 @@
+- pkg:maven/com.yahoo.vespa/http-client@7.580.54
+- pkg:maven/com.yahoo.vespa/http-client@7.580.54?classifier=sources

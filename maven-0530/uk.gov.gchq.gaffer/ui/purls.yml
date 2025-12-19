@@ -105,3 +105,4 @@
 - pkg:maven/uk.gov.gchq.gaffer/ui@1.9.1?type=war
 - pkg:maven/uk.gov.gchq.gaffer/ui@1.9.2?type=war
 - pkg:maven/uk.gov.gchq.gaffer/ui@2.0.0-alpha-0.1?type=war
+- pkg:maven/uk.gov.gchq.gaffer/ui@2.0.0-alpha-0.2?type=war

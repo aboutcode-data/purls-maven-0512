@@ -1,0 +1,2 @@
+- pkg:maven/cn.atomtool/atomtool-captcha@1.0.0
+- pkg:maven/cn.atomtool/atomtool-captcha@1.0.0?classifier=sources

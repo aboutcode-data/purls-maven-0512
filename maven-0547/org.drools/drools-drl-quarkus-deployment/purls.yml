@@ -1,0 +1,4 @@
+- pkg:maven/org.drools/drools-drl-quarkus-deployment@8.20.0.Beta
+- pkg:maven/org.drools/drools-drl-quarkus-deployment@8.20.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-drl-quarkus-deployment@8.21.0.Beta
+- pkg:maven/org.drools/drools-drl-quarkus-deployment@8.21.0.Beta?classifier=sources

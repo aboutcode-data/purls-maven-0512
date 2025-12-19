@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-azure-core-http-client-vertx@2.8.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-azure-core-http-client-vertx@2.8.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-azure-core-http-client-vertx@2.9.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-azure-core-http-client-vertx@2.9.0?classifier=sources

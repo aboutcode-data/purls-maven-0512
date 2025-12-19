@@ -1,0 +1,1 @@
+- pkg:maven/io.kestra.plugin/plugin-debezium-sqlserver@0.4.1?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/net.ltgt.gwt.maven/gwt-maven-plugin@1.0-rc-9?classifier=sources
 - pkg:maven/net.ltgt.gwt.maven/gwt-maven-plugin@1.0.0
 - pkg:maven/net.ltgt.gwt.maven/gwt-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/net.ltgt.gwt.maven/gwt-maven-plugin@1.0.1
+- pkg:maven/net.ltgt.gwt.maven/gwt-maven-plugin@1.0.1?classifier=sources

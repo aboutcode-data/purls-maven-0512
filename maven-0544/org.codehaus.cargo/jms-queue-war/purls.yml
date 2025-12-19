@@ -1,5 +1,7 @@
 - pkg:maven/org.codehaus.cargo/jms-queue-war@1.9.10?classifier=sources
 - pkg:maven/org.codehaus.cargo/jms-queue-war@1.9.10?type=war
+- pkg:maven/org.codehaus.cargo/jms-queue-war@1.9.11?classifier=sources
+- pkg:maven/org.codehaus.cargo/jms-queue-war@1.9.11?type=war
 - pkg:maven/org.codehaus.cargo/jms-queue-war@1.9.2?classifier=sources
 - pkg:maven/org.codehaus.cargo/jms-queue-war@1.9.2?type=war
 - pkg:maven/org.codehaus.cargo/jms-queue-war@1.9.3?classifier=sources

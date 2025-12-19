@@ -30,3 +30,13 @@
 - pkg:maven/berlin.yuna/nats-server-junit@0.0.31?classifier=sources
 - pkg:maven/berlin.yuna/nats-server-junit@0.0.32
 - pkg:maven/berlin.yuna/nats-server-junit@0.0.32?classifier=sources
+- pkg:maven/berlin.yuna/nats-server-junit@0.0.33
+- pkg:maven/berlin.yuna/nats-server-junit@0.0.33?classifier=sources
+- pkg:maven/berlin.yuna/nats-server-junit@0.0.34
+- pkg:maven/berlin.yuna/nats-server-junit@0.0.34?classifier=sources
+- pkg:maven/berlin.yuna/nats-server-junit@0.0.35
+- pkg:maven/berlin.yuna/nats-server-junit@0.0.35?classifier=sources
+- pkg:maven/berlin.yuna/nats-server-junit@0.0.36
+- pkg:maven/berlin.yuna/nats-server-junit@0.0.36?classifier=sources
+- pkg:maven/berlin.yuna/nats-server-junit@0.0.37
+- pkg:maven/berlin.yuna/nats-server-junit@0.0.37?classifier=sources

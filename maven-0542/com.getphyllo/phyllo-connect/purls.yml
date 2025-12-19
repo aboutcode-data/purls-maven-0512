@@ -16,5 +16,9 @@
 - pkg:maven/com.getphyllo/phyllo-connect@0.1.14?type=aar
 - pkg:maven/com.getphyllo/phyllo-connect@0.1.15?classifier=sources
 - pkg:maven/com.getphyllo/phyllo-connect@0.1.15?type=aar
+- pkg:maven/com.getphyllo/phyllo-connect@0.1.16?classifier=sources
+- pkg:maven/com.getphyllo/phyllo-connect@0.1.16?type=aar
+- pkg:maven/com.getphyllo/phyllo-connect@0.1.17?classifier=sources
+- pkg:maven/com.getphyllo/phyllo-connect@0.1.17?type=aar
 - pkg:maven/com.getphyllo/phyllo-connect@0.1.9?classifier=sources
 - pkg:maven/com.getphyllo/phyllo-connect@0.1.9?type=aar

@@ -1,2 +1,3 @@
 - pkg:maven/name.mlopatkin.bitbucket/gradle-plugin@0.5-rc3?classifier=sources
 - pkg:maven/name.mlopatkin.bitbucket/gradle-plugin@0.5-rc4?classifier=sources
+- pkg:maven/name.mlopatkin.bitbucket/gradle-plugin@0.5?classifier=sources

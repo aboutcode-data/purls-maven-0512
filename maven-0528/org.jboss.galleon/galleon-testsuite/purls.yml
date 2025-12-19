@@ -41,3 +41,4 @@
 - pkg:maven/org.jboss.galleon/galleon-testsuite@4.2.6.Final
 - pkg:maven/org.jboss.galleon/galleon-testsuite@4.2.7.Final
 - pkg:maven/org.jboss.galleon/galleon-testsuite@4.2.8.Final
+- pkg:maven/org.jboss.galleon/galleon-testsuite@5.0.0.Final
