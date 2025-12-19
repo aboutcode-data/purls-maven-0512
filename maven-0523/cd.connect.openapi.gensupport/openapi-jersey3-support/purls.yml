@@ -6,3 +6,5 @@
 - pkg:maven/cd.connect.openapi.gensupport/openapi-jersey3-support@2.3?classifier=sources
 - pkg:maven/cd.connect.openapi.gensupport/openapi-jersey3-support@2.4
 - pkg:maven/cd.connect.openapi.gensupport/openapi-jersey3-support@2.4?classifier=sources
+- pkg:maven/cd.connect.openapi.gensupport/openapi-jersey3-support@2.5
+- pkg:maven/cd.connect.openapi.gensupport/openapi-jersey3-support@2.5?classifier=sources

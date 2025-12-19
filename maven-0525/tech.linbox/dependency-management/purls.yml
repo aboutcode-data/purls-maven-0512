@@ -2,3 +2,5 @@
 - pkg:maven/tech.linbox/dependency-management@1.0.2?classifier=sources
 - pkg:maven/tech.linbox/dependency-management@1.0.3?classifier=sources
 - pkg:maven/tech.linbox/dependency-management@1.0.4?classifier=sources
+- pkg:maven/tech.linbox/dependency-management@2.1.0?classifier=sources
+- pkg:maven/tech.linbox/dependency-management@2.1.1?classifier=sources

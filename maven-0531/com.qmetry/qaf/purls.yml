@@ -53,3 +53,5 @@
 - pkg:maven/com.qmetry/qaf@3.1.0b2
 - pkg:maven/com.qmetry/qaf@3.1.0b2?classifier=sources
 - pkg:maven/com.qmetry/qaf@3.1.0b?classifier=sources
+- pkg:maven/com.qmetry/qaf@3.2.0b
+- pkg:maven/com.qmetry/qaf@3.2.0b?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/edu.gemini/lucuma-schemas_3@0.37.1?classifier=sources
 - pkg:maven/edu.gemini/lucuma-schemas_3@0.37.2
 - pkg:maven/edu.gemini/lucuma-schemas_3@0.37.2?classifier=sources
+- pkg:maven/edu.gemini/lucuma-schemas_3@0.37.3
+- pkg:maven/edu.gemini/lucuma-schemas_3@0.37.3?classifier=sources
+- pkg:maven/edu.gemini/lucuma-schemas_3@0.37.4
+- pkg:maven/edu.gemini/lucuma-schemas_3@0.37.4?classifier=sources

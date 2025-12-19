@@ -1,0 +1,2 @@
+- pkg:maven/io.mosip/mimoto@1.2.0.1-B1
+- pkg:maven/io.mosip/mimoto@1.2.0.1-B1?classifier=sources

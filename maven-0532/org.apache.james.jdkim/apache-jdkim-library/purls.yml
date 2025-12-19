@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.james.jdkim/apache-jdkim-library@0.2
 - pkg:maven/org.apache.james.jdkim/apache-jdkim-library@0.2?classifier=sources
+- pkg:maven/org.apache.james.jdkim/apache-jdkim-library@0.3
+- pkg:maven/org.apache.james.jdkim/apache-jdkim-library@0.3?classifier=sources

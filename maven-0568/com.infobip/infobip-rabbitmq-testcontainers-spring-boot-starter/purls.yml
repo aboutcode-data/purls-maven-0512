@@ -1,0 +1,2 @@
+- pkg:maven/com.infobip/infobip-rabbitmq-testcontainers-spring-boot-starter@3.5.1
+- pkg:maven/com.infobip/infobip-rabbitmq-testcontainers-spring-boot-starter@3.5.1?classifier=sources

@@ -72,5 +72,15 @@
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.1?type=aar
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.2?classifier=sources
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.2?type=aar
+- pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.3.b?classifier=sources
+- pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.3.b?type=aar
+- pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.3.c?classifier=sources
+- pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.3.c?type=aar
+- pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.3.x?classifier=sources
+- pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.3.x?type=aar
+- pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.3.y?classifier=sources
+- pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.3.y?type=aar
+- pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.3.z?classifier=sources
+- pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.3.z?type=aar
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.3?classifier=sources
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.8.3?type=aar

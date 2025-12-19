@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/inspector2@821.2.1107.0?classifier=sources
 - pkg:maven/com.cognitect.aws/inspector2@822.2.1181.0
 - pkg:maven/com.cognitect.aws/inspector2@822.2.1181.0?classifier=sources
+- pkg:maven/com.cognitect.aws/inspector2@823.2.1216.0
+- pkg:maven/com.cognitect.aws/inspector2@823.2.1216.0?classifier=sources

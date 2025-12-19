@@ -16,3 +16,5 @@
 - pkg:maven/com.gitlab.samarkand-nomad/nomad-envoy-cli@1.45.0?classifier=sources
 - pkg:maven/com.gitlab.samarkand-nomad/nomad-envoy-cli@1.46.0
 - pkg:maven/com.gitlab.samarkand-nomad/nomad-envoy-cli@1.46.0?classifier=sources
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-envoy-cli@1.46.1
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-envoy-cli@1.46.1?classifier=sources

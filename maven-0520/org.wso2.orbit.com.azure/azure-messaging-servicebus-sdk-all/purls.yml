@@ -1,3 +1,4 @@
+- pkg:maven/org.wso2.orbit.com.azure/azure-messaging-servicebus-sdk-all@7.11.0.wso2v1
 - pkg:maven/org.wso2.orbit.com.azure/azure-messaging-servicebus-sdk-all@7.3.0.wso2v1
 - pkg:maven/org.wso2.orbit.com.azure/azure-messaging-servicebus-sdk-all@7.3.0.wso2v2
 - pkg:maven/org.wso2.orbit.com.azure/azure-messaging-servicebus-sdk-all@7.3.0.wso2v3

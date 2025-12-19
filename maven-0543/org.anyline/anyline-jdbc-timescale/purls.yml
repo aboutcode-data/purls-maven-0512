@@ -1,0 +1,6 @@
+- pkg:maven/org.anyline/anyline-jdbc-timescale@8.5.7-20220922
+- pkg:maven/org.anyline/anyline-jdbc-timescale@8.5.7-20220922?classifier=sources
+- pkg:maven/org.anyline/anyline-jdbc-timescale@8.5.7-20220927
+- pkg:maven/org.anyline/anyline-jdbc-timescale@8.5.7-20220927?classifier=sources
+- pkg:maven/org.anyline/anyline-jdbc-timescale@8.5.7-20220928
+- pkg:maven/org.anyline/anyline-jdbc-timescale@8.5.7-20220928?classifier=sources

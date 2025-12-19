@@ -1,2 +1,4 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-ldc@1.12.15
 - pkg:maven/com.antgroup.antchain.openapi/openapi-ldc@1.12.15?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ldc@1.12.83
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ldc@1.12.83?classifier=sources

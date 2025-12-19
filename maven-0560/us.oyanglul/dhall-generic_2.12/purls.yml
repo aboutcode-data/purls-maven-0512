@@ -128,5 +128,7 @@
 - pkg:maven/us.oyanglul/dhall-generic_2.12@0.3.87?classifier=sources
 - pkg:maven/us.oyanglul/dhall-generic_2.12@0.3.88
 - pkg:maven/us.oyanglul/dhall-generic_2.12@0.3.88?classifier=sources
+- pkg:maven/us.oyanglul/dhall-generic_2.12@0.3.89
+- pkg:maven/us.oyanglul/dhall-generic_2.12@0.3.89?classifier=sources
 - pkg:maven/us.oyanglul/dhall-generic_2.12@398f3fe3
 - pkg:maven/us.oyanglul/dhall-generic_2.12@398f3fe3?classifier=sources

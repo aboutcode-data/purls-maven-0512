@@ -226,3 +226,11 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-kms-v1@0.97.3?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-kms-v1@0.97.4
 - pkg:maven/com.google.api.grpc/proto-google-cloud-kms-v1@0.97.4?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-kms-v1@0.97.6
+- pkg:maven/com.google.api.grpc/proto-google-cloud-kms-v1@0.97.6?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-kms-v1@0.97.7
+- pkg:maven/com.google.api.grpc/proto-google-cloud-kms-v1@0.97.7?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-kms-v1@0.97.8
+- pkg:maven/com.google.api.grpc/proto-google-cloud-kms-v1@0.97.8?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-kms-v1@0.98.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-kms-v1@0.98.0?classifier=sources

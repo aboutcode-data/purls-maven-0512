@@ -1,2 +1,4 @@
+- pkg:maven/org.ovirt.engine.api/metamodel-doctool@1.3.10
+- pkg:maven/org.ovirt.engine.api/metamodel-doctool@1.3.10?classifier=sources
 - pkg:maven/org.ovirt.engine.api/metamodel-doctool@1.3.9
 - pkg:maven/org.ovirt.engine.api/metamodel-doctool@1.3.9?classifier=sources

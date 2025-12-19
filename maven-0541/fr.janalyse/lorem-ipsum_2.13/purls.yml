@@ -14,3 +14,5 @@
 - pkg:maven/fr.janalyse/lorem-ipsum_2.13@1.0.2?classifier=sources
 - pkg:maven/fr.janalyse/lorem-ipsum_2.13@1.0.3
 - pkg:maven/fr.janalyse/lorem-ipsum_2.13@1.0.3?classifier=sources
+- pkg:maven/fr.janalyse/lorem-ipsum_2.13@1.0.4
+- pkg:maven/fr.janalyse/lorem-ipsum_2.13@1.0.4?classifier=sources

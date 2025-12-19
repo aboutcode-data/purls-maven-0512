@@ -61,3 +61,4 @@
 - pkg:maven/com.hack23.sonar/sonar-cloudformation-plugin@3.0.6?classifier=sources
 - pkg:maven/com.hack23.sonar/sonar-cloudformation-plugin@3.0.7?classifier=sources
 - pkg:maven/com.hack23.sonar/sonar-cloudformation-plugin@3.0.8?classifier=sources
+- pkg:maven/com.hack23.sonar/sonar-cloudformation-plugin@3.0.9?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/io.github.nsk90/kstatemachine@0.12.0?classifier=sources
 - pkg:maven/io.github.nsk90/kstatemachine@0.13.0?classifier=sources
 - pkg:maven/io.github.nsk90/kstatemachine@0.14.0?classifier=sources
+- pkg:maven/io.github.nsk90/kstatemachine@0.15.0?classifier=sources
+- pkg:maven/io.github.nsk90/kstatemachine@0.16.0?classifier=sources
 - pkg:maven/io.github.nsk90/kstatemachine@0.9.3?classifier=sources
 - pkg:maven/io.github.nsk90/kstatemachine@0.9.4?classifier=sources
 - pkg:maven/io.github.nsk90/kstatemachine@0.9.5?classifier=sources

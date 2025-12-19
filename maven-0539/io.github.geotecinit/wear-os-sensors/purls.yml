@@ -1,1 +1,2 @@
 - pkg:maven/io.github.geotecinit/wear-os-sensors@1.0.0?classifier=sources
+- pkg:maven/io.github.geotecinit/wear-os-sensors@1.1.0?classifier=sources

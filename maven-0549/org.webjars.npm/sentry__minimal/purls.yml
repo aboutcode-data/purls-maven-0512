@@ -6,5 +6,7 @@
 - pkg:maven/org.webjars.npm/sentry__minimal@5.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/sentry__minimal@5.6.1
 - pkg:maven/org.webjars.npm/sentry__minimal@5.6.1?classifier=sources
+- pkg:maven/org.webjars.npm/sentry__minimal@6.19.7
+- pkg:maven/org.webjars.npm/sentry__minimal@6.19.7?classifier=sources
 - pkg:maven/org.webjars.npm/sentry__minimal@6.2.3
 - pkg:maven/org.webjars.npm/sentry__minimal@6.2.3?classifier=sources

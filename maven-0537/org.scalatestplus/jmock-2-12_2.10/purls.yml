@@ -10,3 +10,5 @@
 - pkg:maven/org.scalatestplus/jmock-2-12_2.10@3.2.12.0?classifier=sources
 - pkg:maven/org.scalatestplus/jmock-2-12_2.10@3.2.13.0
 - pkg:maven/org.scalatestplus/jmock-2-12_2.10@3.2.13.0?classifier=sources
+- pkg:maven/org.scalatestplus/jmock-2-12_2.10@3.2.14.0
+- pkg:maven/org.scalatestplus/jmock-2-12_2.10@3.2.14.0?classifier=sources

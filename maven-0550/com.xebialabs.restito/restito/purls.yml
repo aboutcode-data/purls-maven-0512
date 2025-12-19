@@ -38,3 +38,4 @@
 - pkg:maven/com.xebialabs.restito/restito@0.9.5?classifier=sources
 - pkg:maven/com.xebialabs.restito/restito@1.0.0?classifier=sources
 - pkg:maven/com.xebialabs.restito/restito@1.0.1?classifier=sources
+- pkg:maven/com.xebialabs.restito/restito@1.1.0?classifier=sources

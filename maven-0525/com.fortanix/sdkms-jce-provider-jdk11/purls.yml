@@ -1,0 +1,2 @@
+- pkg:maven/com.fortanix/sdkms-jce-provider-jdk11@4.11.2116
+- pkg:maven/com.fortanix/sdkms-jce-provider-jdk11@4.11.2116?classifier=sources

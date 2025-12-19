@@ -1,0 +1,2 @@
+- pkg:maven/io.github.timwspence/cats-stm-docs_2.13@0.13.2
+- pkg:maven/io.github.timwspence/cats-stm-docs_2.13@0.13.2?classifier=sources

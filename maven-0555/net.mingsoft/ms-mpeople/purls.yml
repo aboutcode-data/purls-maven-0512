@@ -56,6 +56,8 @@
 - pkg:maven/net.mingsoft/ms-mpeople@1.0.9?classifier=sources
 - pkg:maven/net.mingsoft/ms-mpeople@2.1.13
 - pkg:maven/net.mingsoft/ms-mpeople@2.1.13?classifier=sources
+- pkg:maven/net.mingsoft/ms-mpeople@2.1.14
+- pkg:maven/net.mingsoft/ms-mpeople@2.1.14?classifier=sources
 - pkg:maven/net.mingsoft/ms-mpeople@2.1.5
 - pkg:maven/net.mingsoft/ms-mpeople@2.1.5?classifier=sources
 - pkg:maven/net.mingsoft/ms-mpeople@2.1.7

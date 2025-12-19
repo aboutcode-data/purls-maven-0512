@@ -1,0 +1,2 @@
+- pkg:maven/com.tambapps.http/garcon@1.0
+- pkg:maven/com.tambapps.http/garcon@1.0?classifier=sources

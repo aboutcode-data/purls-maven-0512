@@ -74,6 +74,8 @@
 - pkg:maven/org.webjars.npm/babel__runtime@7.18.9?classifier=sources
 - pkg:maven/org.webjars.npm/babel__runtime@7.19.0
 - pkg:maven/org.webjars.npm/babel__runtime@7.19.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel__runtime@7.19.4
+- pkg:maven/org.webjars.npm/babel__runtime@7.19.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__runtime@7.2.0
 - pkg:maven/org.webjars.npm/babel__runtime@7.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__runtime@7.3.1

@@ -90,5 +90,9 @@
 - pkg:maven/com.computablefacts/nona@3.8?classifier=sources
 - pkg:maven/com.computablefacts/nona@3.9
 - pkg:maven/com.computablefacts/nona@3.9?classifier=sources
+- pkg:maven/com.computablefacts/nona@4.0
+- pkg:maven/com.computablefacts/nona@4.0?classifier=sources
+- pkg:maven/com.computablefacts/nona@4.1
+- pkg:maven/com.computablefacts/nona@4.1?classifier=sources
 - pkg:maven/com.computablefacts/nona@ls
 - pkg:maven/com.computablefacts/nona@ls?classifier=sources

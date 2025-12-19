@@ -2,6 +2,8 @@
 - pkg:maven/com.github.plokhotnyuk.rtree2d/rtree2d-core_3@0.11.10?classifier=sources
 - pkg:maven/com.github.plokhotnyuk.rtree2d/rtree2d-core_3@0.11.11
 - pkg:maven/com.github.plokhotnyuk.rtree2d/rtree2d-core_3@0.11.11?classifier=sources
+- pkg:maven/com.github.plokhotnyuk.rtree2d/rtree2d-core_3@0.11.12
+- pkg:maven/com.github.plokhotnyuk.rtree2d/rtree2d-core_3@0.11.12?classifier=sources
 - pkg:maven/com.github.plokhotnyuk.rtree2d/rtree2d-core_3@0.11.6
 - pkg:maven/com.github.plokhotnyuk.rtree2d/rtree2d-core_3@0.11.6?classifier=sources
 - pkg:maven/com.github.plokhotnyuk.rtree2d/rtree2d-core_3@0.11.7

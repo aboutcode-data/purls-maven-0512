@@ -24,10 +24,17 @@
 - pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.12
 - pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.13
 - pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.14
+- pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.15
+- pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.16
+- pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.17
+- pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.19
 - pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.2
+- pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.22
 - pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.3
 - pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.4
 - pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.5
+- pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.51
+- pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.52
 - pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.6
 - pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.7
 - pkg:maven/io.resys.hdes/hdes-composer-ui@3.130.8

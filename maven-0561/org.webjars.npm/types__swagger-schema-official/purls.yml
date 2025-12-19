@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/types__swagger-schema-official@2.0.22
+- pkg:maven/org.webjars.npm/types__swagger-schema-official@2.0.22?classifier=sources

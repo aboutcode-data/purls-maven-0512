@@ -37,6 +37,8 @@
 - pkg:maven/io.github.openfeign/feign-soap@11.0
 - pkg:maven/io.github.openfeign/feign-soap@11.0?classifier=sources
 - pkg:maven/io.github.openfeign/feign-soap@11.1
+- pkg:maven/io.github.openfeign/feign-soap@11.10
+- pkg:maven/io.github.openfeign/feign-soap@11.10?classifier=sources
 - pkg:maven/io.github.openfeign/feign-soap@11.1?classifier=sources
 - pkg:maven/io.github.openfeign/feign-soap@11.2
 - pkg:maven/io.github.openfeign/feign-soap@11.2?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.docstr/gwt-gradle-plugin@1.1.21?classifier=sources
+- pkg:maven/org.docstr/gwt-gradle-plugin@1.1.22?classifier=sources

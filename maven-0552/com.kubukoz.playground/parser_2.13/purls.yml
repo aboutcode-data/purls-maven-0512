@@ -1,0 +1,2 @@
+- pkg:maven/com.kubukoz.playground/parser_2.13@0.5.2
+- pkg:maven/com.kubukoz.playground/parser_2.13@0.5.2?classifier=sources

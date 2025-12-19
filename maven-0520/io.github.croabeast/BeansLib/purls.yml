@@ -14,3 +14,5 @@
 - pkg:maven/io.github.croabeast/BeansLib@1.2.8
 - pkg:maven/io.github.croabeast/BeansLib@1.2.8?classifier=sources
 - pkg:maven/io.github.croabeast/BeansLib@1.2?classifier=sources
+- pkg:maven/io.github.croabeast/BeansLib@1.3-PRE-1
+- pkg:maven/io.github.croabeast/BeansLib@1.3-PRE-1?classifier=sources

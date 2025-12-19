@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/openapi-data-validator@2.0.44
+- pkg:maven/org.webjars.npm/openapi-data-validator@2.0.44?classifier=sources

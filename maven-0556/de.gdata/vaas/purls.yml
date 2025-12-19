@@ -1,0 +1,4 @@
+- pkg:maven/de.gdata/vaas@0.0.0?classifier=sources
+- pkg:maven/de.gdata/vaas@1.0.2?classifier=sources
+- pkg:maven/de.gdata/vaas@1.0.3?classifier=sources
+- pkg:maven/de.gdata/vaas@1.1.0?classifier=sources

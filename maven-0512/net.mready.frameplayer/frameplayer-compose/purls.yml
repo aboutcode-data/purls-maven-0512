@@ -1,0 +1,3 @@
+- pkg:maven/net.mready.frameplayer/frameplayer-compose@1.0.0-alpha09?classifier=sources
+- pkg:maven/net.mready.frameplayer/frameplayer-compose@1.0.0-alpha10?classifier=sources
+- pkg:maven/net.mready.frameplayer/frameplayer-compose@1.0.0-alpha11?classifier=sources

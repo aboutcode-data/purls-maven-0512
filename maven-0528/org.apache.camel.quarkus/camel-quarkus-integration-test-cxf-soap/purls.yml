@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-cxf-soap@2.12.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-cxf-soap@2.12.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-cxf-soap@2.13.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-cxf-soap@2.13.0?classifier=sources

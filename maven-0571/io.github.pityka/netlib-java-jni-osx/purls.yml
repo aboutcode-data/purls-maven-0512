@@ -1,0 +1,6 @@
+- pkg:maven/io.github.pityka/netlib-java-jni-osx@0.0.0%2B503-f89f3b2e%2B20221014-2214
+- pkg:maven/io.github.pityka/netlib-java-jni-osx@0.0.0%2B503-f89f3b2e%2B20221014-2214?classifier=sources
+- pkg:maven/io.github.pityka/netlib-java-jni-osx@0.0.0%2B503-f89f3b2e%2B20221015-0818
+- pkg:maven/io.github.pityka/netlib-java-jni-osx@0.0.0%2B503-f89f3b2e%2B20221015-0818?classifier=sources
+- pkg:maven/io.github.pityka/netlib-java-jni-osx@0.1.0
+- pkg:maven/io.github.pityka/netlib-java-jni-osx@0.1.0?classifier=sources

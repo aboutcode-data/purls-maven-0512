@@ -86,3 +86,5 @@
 - pkg:maven/cn.hiboot.mcn/mvc-swagger2@2.7.2?classifier=sources
 - pkg:maven/cn.hiboot.mcn/mvc-swagger2@2.7.3
 - pkg:maven/cn.hiboot.mcn/mvc-swagger2@2.7.3?classifier=sources
+- pkg:maven/cn.hiboot.mcn/mvc-swagger2@2.7.4
+- pkg:maven/cn.hiboot.mcn/mvc-swagger2@2.7.4?classifier=sources

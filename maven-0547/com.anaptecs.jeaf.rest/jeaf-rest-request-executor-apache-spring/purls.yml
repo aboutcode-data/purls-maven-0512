@@ -1,0 +1,2 @@
+- pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-request-executor-apache-spring@1.6.1-RC02
+- pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-request-executor-apache-spring@1.6.1-RC02?classifier=sources

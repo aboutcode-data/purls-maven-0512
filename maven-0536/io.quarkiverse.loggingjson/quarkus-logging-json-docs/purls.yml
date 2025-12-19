@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.loggingjson/quarkus-logging-json-docs@2.0.0
+- pkg:maven/io.quarkiverse.loggingjson/quarkus-logging-json-docs@2.0.0?classifier=sources

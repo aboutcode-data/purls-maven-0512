@@ -46,6 +46,7 @@
 - pkg:maven/io.undertow/undertow-parent@2.2.17.Final?classifier=source-release&type=zip
 - pkg:maven/io.undertow/undertow-parent@2.2.18.Final?classifier=source-release&type=zip
 - pkg:maven/io.undertow/undertow-parent@2.2.2.Final?classifier=source-release&type=zip
+- pkg:maven/io.undertow/undertow-parent@2.2.20.Final?classifier=source-release&type=zip
 - pkg:maven/io.undertow/undertow-parent@2.2.3.Final?classifier=source-release&type=zip
 - pkg:maven/io.undertow/undertow-parent@2.2.4.Final?classifier=source-release&type=zip
 - pkg:maven/io.undertow/undertow-parent@2.2.5.Final?classifier=source-release&type=zip
@@ -55,3 +56,5 @@
 - pkg:maven/io.undertow/undertow-parent@2.2.9.Final?classifier=source-release&type=zip
 - pkg:maven/io.undertow/undertow-parent@2.3.0.Alpha1?classifier=source-release&type=zip
 - pkg:maven/io.undertow/undertow-parent@2.3.0.Alpha2?classifier=source-release&type=zip
+- pkg:maven/io.undertow/undertow-parent@2.3.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/io.undertow/undertow-parent@2.3.0.Final?classifier=source-release&type=zip

@@ -58,3 +58,5 @@
 - pkg:maven/com.manydesigns/demo-tt@5.3.1?type=war
 - pkg:maven/com.manydesigns/demo-tt@5.3.2?classifier=sources
 - pkg:maven/com.manydesigns/demo-tt@5.3.2?type=war
+- pkg:maven/com.manydesigns/demo-tt@5.3.3?classifier=sources
+- pkg:maven/com.manydesigns/demo-tt@5.3.3?type=war

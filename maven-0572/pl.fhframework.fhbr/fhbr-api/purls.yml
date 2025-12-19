@@ -1,0 +1,2 @@
+- pkg:maven/pl.fhframework.fhbr/fhbr-api@4.10.3
+- pkg:maven/pl.fhframework.fhbr/fhbr-api@4.10.3?classifier=sources

@@ -104,6 +104,10 @@
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.4?type=war
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.51?classifier=sources
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.51?type=war
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.52?classifier=sources
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.52?type=war
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.53?classifier=sources
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.53?type=war
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.5?classifier=sources
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.5?type=war
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.6?classifier=sources

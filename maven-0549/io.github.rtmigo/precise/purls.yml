@@ -1,0 +1,8 @@
+- pkg:maven/io.github.rtmigo/precise@0.0.0%2B9?classifier=sources
+- pkg:maven/io.github.rtmigo/precise@0.1.0-dev18?classifier=sources
+- pkg:maven/io.github.rtmigo/precise@0.1.0-dev20?classifier=sources
+- pkg:maven/io.github.rtmigo/precise@0.1.0-dev22?classifier=sources
+- pkg:maven/io.github.rtmigo/precise@0.1.0-dev23?classifier=sources
+- pkg:maven/io.github.rtmigo/precise@0.1.0-dev4?classifier=sources
+- pkg:maven/io.github.rtmigo/precise@0.1.0-dev8?classifier=sources
+- pkg:maven/io.github.rtmigo/precise@0.1.0-dev9?classifier=sources
