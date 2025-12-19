@@ -40,6 +40,7 @@
 - pkg:maven/com.karumi/shot-core@5.12.2?classifier=sources
 - pkg:maven/com.karumi/shot-core@5.13.0?classifier=sources
 - pkg:maven/com.karumi/shot-core@5.14.0?classifier=sources
+- pkg:maven/com.karumi/shot-core@5.14.1?classifier=sources
 - pkg:maven/com.karumi/shot-core@5.2.0
 - pkg:maven/com.karumi/shot-core@5.2.0?classifier=sources
 - pkg:maven/com.karumi/shot-core@5.2.1

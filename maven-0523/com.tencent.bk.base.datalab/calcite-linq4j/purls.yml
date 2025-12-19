@@ -6,3 +6,5 @@
 - pkg:maven/com.tencent.bk.base.datalab/calcite-linq4j@1.21.0-bkbase.3?classifier=sources
 - pkg:maven/com.tencent.bk.base.datalab/calcite-linq4j@1.21.0-bkbase.4
 - pkg:maven/com.tencent.bk.base.datalab/calcite-linq4j@1.21.0-bkbase.4?classifier=sources
+- pkg:maven/com.tencent.bk.base.datalab/calcite-linq4j@1.21.0-bkbase.5
+- pkg:maven/com.tencent.bk.base.datalab/calcite-linq4j@1.21.0-bkbase.5?classifier=sources

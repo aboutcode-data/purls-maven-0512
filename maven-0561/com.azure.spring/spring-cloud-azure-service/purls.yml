@@ -6,3 +6,7 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-service@4.0.0-beta.3
 - pkg:maven/com.azure.spring/spring-cloud-azure-service@4.0.0-beta.3?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-service@4.0.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-service@4.1.0
+- pkg:maven/com.azure.spring/spring-cloud-azure-service@4.1.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-service@4.2.0
+- pkg:maven/com.azure.spring/spring-cloud-azure-service@4.2.0?classifier=sources

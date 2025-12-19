@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/filesize@6.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/filesize@8.0.7
 - pkg:maven/org.webjars.npm/filesize@8.0.7?classifier=sources
+- pkg:maven/org.webjars.npm/filesize@9.0.1
+- pkg:maven/org.webjars.npm/filesize@9.0.1?classifier=sources

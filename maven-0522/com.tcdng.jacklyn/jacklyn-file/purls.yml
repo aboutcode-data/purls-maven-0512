@@ -14,3 +14,5 @@
 - pkg:maven/com.tcdng.jacklyn/jacklyn-file@1.1.4?classifier=sources
 - pkg:maven/com.tcdng.jacklyn/jacklyn-file@2.0.0
 - pkg:maven/com.tcdng.jacklyn/jacklyn-file@2.0.0?classifier=sources
+- pkg:maven/com.tcdng.jacklyn/jacklyn-file@2.0.1
+- pkg:maven/com.tcdng.jacklyn/jacklyn-file@2.0.1?classifier=sources

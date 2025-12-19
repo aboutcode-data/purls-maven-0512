@@ -10,3 +10,5 @@
 - pkg:maven/com.adobe.aem.guides/aem-guides-wknd.it.tests@1.0.0?classifier=sources
 - pkg:maven/com.adobe.aem.guides/aem-guides-wknd.it.tests@1.1.0
 - pkg:maven/com.adobe.aem.guides/aem-guides-wknd.it.tests@1.1.0?classifier=sources
+- pkg:maven/com.adobe.aem.guides/aem-guides-wknd.it.tests@2.0.0
+- pkg:maven/com.adobe.aem.guides/aem-guides-wknd.it.tests@2.0.0?classifier=sources

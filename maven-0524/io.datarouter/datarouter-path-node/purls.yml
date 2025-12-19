@@ -24,6 +24,8 @@
 - pkg:maven/io.datarouter/datarouter-path-node@0.0.111?classifier=sources
 - pkg:maven/io.datarouter/datarouter-path-node@0.0.113
 - pkg:maven/io.datarouter/datarouter-path-node@0.0.113?classifier=sources
+- pkg:maven/io.datarouter/datarouter-path-node@0.0.114
+- pkg:maven/io.datarouter/datarouter-path-node@0.0.114?classifier=sources
 - pkg:maven/io.datarouter/datarouter-path-node@0.0.36
 - pkg:maven/io.datarouter/datarouter-path-node@0.0.36?classifier=sources
 - pkg:maven/io.datarouter/datarouter-path-node@0.0.37

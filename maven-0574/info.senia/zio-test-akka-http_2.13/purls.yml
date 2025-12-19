@@ -11,6 +11,8 @@
 - pkg:maven/info.senia/zio-test-akka-http_2.13@1.0.0
 - pkg:maven/info.senia/zio-test-akka-http_2.13@1.0.0?classifier=sources
 - pkg:maven/info.senia/zio-test-akka-http_2.13@1.0.1
+- pkg:maven/info.senia/zio-test-akka-http_2.13@1.0.15
+- pkg:maven/info.senia/zio-test-akka-http_2.13@1.0.15?classifier=sources
 - pkg:maven/info.senia/zio-test-akka-http_2.13@1.0.1?classifier=sources
 - pkg:maven/info.senia/zio-test-akka-http_2.13@1.0.2
 - pkg:maven/info.senia/zio-test-akka-http_2.13@1.0.2?classifier=sources
@@ -26,3 +28,5 @@
 - pkg:maven/info.senia/zio-test-akka-http_2.13@2.0.0-RC3?classifier=sources
 - pkg:maven/info.senia/zio-test-akka-http_2.13@2.0.0-RC5
 - pkg:maven/info.senia/zio-test-akka-http_2.13@2.0.0-RC5?classifier=sources
+- pkg:maven/info.senia/zio-test-akka-http_2.13@2.0.0-RC6
+- pkg:maven/info.senia/zio-test-akka-http_2.13@2.0.0-RC6?classifier=sources

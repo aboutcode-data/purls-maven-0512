@@ -18,3 +18,4 @@
 - pkg:maven/com.softicar.platform/platform-demo-module@17.0.3?classifier=sources
 - pkg:maven/com.softicar.platform/platform-demo-module@18.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-demo-module@18.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-demo-module@18.0.2?classifier=sources

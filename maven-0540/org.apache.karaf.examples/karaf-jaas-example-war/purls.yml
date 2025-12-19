@@ -10,6 +10,8 @@
 - pkg:maven/org.apache.karaf.examples/karaf-jaas-example-war@4.2.14?type=war
 - pkg:maven/org.apache.karaf.examples/karaf-jaas-example-war@4.2.15?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-jaas-example-war@4.2.15?type=war
+- pkg:maven/org.apache.karaf.examples/karaf-jaas-example-war@4.2.16?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-jaas-example-war@4.2.16?type=war
 - pkg:maven/org.apache.karaf.examples/karaf-jaas-example-war@4.2.8?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-jaas-example-war@4.2.8?type=war
 - pkg:maven/org.apache.karaf.examples/karaf-jaas-example-war@4.2.9?classifier=sources

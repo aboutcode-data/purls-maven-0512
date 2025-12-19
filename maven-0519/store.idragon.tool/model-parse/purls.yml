@@ -1,0 +1,2 @@
+- pkg:maven/store.idragon.tool/model-parse@0.0.6-RELEASE
+- pkg:maven/store.idragon.tool/model-parse@0.0.6-RELEASE?classifier=sources

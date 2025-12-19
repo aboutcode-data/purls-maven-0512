@@ -1,0 +1,2 @@
+- pkg:maven/com.scoperetail.commons/commons-cassandra-config@0.4
+- pkg:maven/com.scoperetail.commons/commons-cassandra-config@0.4?classifier=sources

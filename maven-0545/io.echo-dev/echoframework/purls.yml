@@ -1,1 +1,2 @@
 - pkg:maven/io.echo-dev/echoframework@5.2?classifier=sources
+- pkg:maven/io.echo-dev/echoframework@6.0.0?classifier=sources

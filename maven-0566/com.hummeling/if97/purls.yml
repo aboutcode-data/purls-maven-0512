@@ -10,3 +10,5 @@
 - pkg:maven/com.hummeling/if97@1.0.5
 - pkg:maven/com.hummeling/if97@1.0.5?classifier=sources
 - pkg:maven/com.hummeling/if97@1.0?classifier=sources
+- pkg:maven/com.hummeling/if97@2.0.0
+- pkg:maven/com.hummeling/if97@2.0.0?classifier=sources

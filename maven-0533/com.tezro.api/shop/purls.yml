@@ -1,2 +1,3 @@
+- pkg:maven/com.tezro.api/shop@1.0.0-beta01?classifier=sources
 - pkg:maven/com.tezro.api/shop@1.0.0?classifier=sources
 - pkg:maven/com.tezro.api/shop@1.0.1?classifier=sources

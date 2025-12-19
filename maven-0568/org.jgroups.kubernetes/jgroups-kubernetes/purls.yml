@@ -50,3 +50,5 @@
 - pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@1.0.9.Final?classifier=sources
 - pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@2.0.0.Final
 - pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@2.0.0.Final?classifier=sources
+- pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@2.0.1.Final
+- pkg:maven/org.jgroups.kubernetes/jgroups-kubernetes@2.0.1.Final?classifier=sources

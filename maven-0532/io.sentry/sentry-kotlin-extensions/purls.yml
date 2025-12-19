@@ -88,6 +88,9 @@
 - pkg:maven/io.sentry/sentry-kotlin-extensions@5.7.2?classifier=sources
 - pkg:maven/io.sentry/sentry-kotlin-extensions@5.7.3
 - pkg:maven/io.sentry/sentry-kotlin-extensions@5.7.3?classifier=sources
+- pkg:maven/io.sentry/sentry-kotlin-extensions@5.7.4
+- pkg:maven/io.sentry/sentry-kotlin-extensions@5.7.4?classifier=sources
+- pkg:maven/io.sentry/sentry-kotlin-extensions@6.0.0
 - pkg:maven/io.sentry/sentry-kotlin-extensions@6.0.0-alpha.1
 - pkg:maven/io.sentry/sentry-kotlin-extensions@6.0.0-alpha.1?classifier=sources
 - pkg:maven/io.sentry/sentry-kotlin-extensions@6.0.0-alpha.2
@@ -104,3 +107,16 @@
 - pkg:maven/io.sentry/sentry-kotlin-extensions@6.0.0-beta.1?classifier=sources
 - pkg:maven/io.sentry/sentry-kotlin-extensions@6.0.0-beta.2
 - pkg:maven/io.sentry/sentry-kotlin-extensions@6.0.0-beta.2?classifier=sources
+- pkg:maven/io.sentry/sentry-kotlin-extensions@6.0.0-beta.3
+- pkg:maven/io.sentry/sentry-kotlin-extensions@6.0.0-beta.3?classifier=sources
+- pkg:maven/io.sentry/sentry-kotlin-extensions@6.0.0-beta.4
+- pkg:maven/io.sentry/sentry-kotlin-extensions@6.0.0-beta.4?classifier=sources
+- pkg:maven/io.sentry/sentry-kotlin-extensions@6.0.0-rc.1
+- pkg:maven/io.sentry/sentry-kotlin-extensions@6.0.0-rc.1?classifier=sources
+- pkg:maven/io.sentry/sentry-kotlin-extensions@6.0.0?classifier=sources
+- pkg:maven/io.sentry/sentry-kotlin-extensions@6.1.0
+- pkg:maven/io.sentry/sentry-kotlin-extensions@6.1.0?classifier=sources
+- pkg:maven/io.sentry/sentry-kotlin-extensions@6.1.1
+- pkg:maven/io.sentry/sentry-kotlin-extensions@6.1.1?classifier=sources
+- pkg:maven/io.sentry/sentry-kotlin-extensions@6.1.2
+- pkg:maven/io.sentry/sentry-kotlin-extensions@6.1.2?classifier=sources

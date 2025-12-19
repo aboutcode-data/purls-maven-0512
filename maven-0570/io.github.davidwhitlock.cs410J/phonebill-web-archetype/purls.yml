@@ -4,3 +4,5 @@
 - pkg:maven/io.github.davidwhitlock.cs410J/phonebill-web-archetype@2021.2.0?classifier=sources
 - pkg:maven/io.github.davidwhitlock.cs410J/phonebill-web-archetype@2021.3.0?classifier=sources
 - pkg:maven/io.github.davidwhitlock.cs410J/phonebill-web-archetype@2022.0.0?classifier=sources
+- pkg:maven/io.github.davidwhitlock.cs410J/phonebill-web-archetype@2022.1.0?classifier=sources
+- pkg:maven/io.github.davidwhitlock.cs410J/phonebill-web-archetype@2022.2.0?classifier=sources

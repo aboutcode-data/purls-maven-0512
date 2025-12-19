@@ -1,0 +1,2 @@
+- pkg:maven/org.bitcoindevkit/bdk-android@0.6.0?classifier=sources
+- pkg:maven/org.bitcoindevkit/bdk-android@0.7.0?classifier=sources

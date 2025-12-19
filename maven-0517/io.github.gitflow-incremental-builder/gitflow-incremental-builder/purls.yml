@@ -1,2 +1,6 @@
 - pkg:maven/io.github.gitflow-incremental-builder/gitflow-incremental-builder@4.0.0
 - pkg:maven/io.github.gitflow-incremental-builder/gitflow-incremental-builder@4.0.0?classifier=sources
+- pkg:maven/io.github.gitflow-incremental-builder/gitflow-incremental-builder@4.1.0
+- pkg:maven/io.github.gitflow-incremental-builder/gitflow-incremental-builder@4.1.0?classifier=sources
+- pkg:maven/io.github.gitflow-incremental-builder/gitflow-incremental-builder@4.1.1
+- pkg:maven/io.github.gitflow-incremental-builder/gitflow-incremental-builder@4.1.1?classifier=sources

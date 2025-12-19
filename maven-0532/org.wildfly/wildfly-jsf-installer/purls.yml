@@ -142,6 +142,8 @@
 - pkg:maven/org.wildfly/wildfly-jsf-installer@26.1.0.Beta1?type=zip
 - pkg:maven/org.wildfly/wildfly-jsf-installer@26.1.0.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-jsf-installer@26.1.0.Final?type=zip
+- pkg:maven/org.wildfly/wildfly-jsf-installer@26.1.1.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-jsf-installer@26.1.1.Final?type=zip
 - pkg:maven/org.wildfly/wildfly-jsf-installer@27.0.0.Alpha1?classifier=sources
 - pkg:maven/org.wildfly/wildfly-jsf-installer@27.0.0.Alpha1?type=zip
 - pkg:maven/org.wildfly/wildfly-jsf-installer@8.0.0.Beta1?classifier=sources

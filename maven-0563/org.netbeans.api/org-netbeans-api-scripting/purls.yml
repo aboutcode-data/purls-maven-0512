@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-scripting@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-scripting@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-scripting@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-scripting@RELEASE140?classifier=sources

@@ -15,6 +15,7 @@
 - pkg:maven/org.apache.camel.karaf/karaf@3.14.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.karaf/karaf@3.15.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.karaf/karaf@3.16.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.karaf/karaf@3.17.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.karaf/karaf@3.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.karaf/karaf@3.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.karaf/karaf@3.4.0?classifier=source-release&type=zip

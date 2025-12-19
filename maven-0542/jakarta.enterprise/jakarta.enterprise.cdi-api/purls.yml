@@ -36,3 +36,4 @@
 - pkg:maven/jakarta.enterprise/jakarta.enterprise.cdi-api@4.0.0.Beta3
 - pkg:maven/jakarta.enterprise/jakarta.enterprise.cdi-api@4.0.0.Beta3?classifier=sources
 - pkg:maven/jakarta.enterprise/jakarta.enterprise.cdi-api@4.0.0?classifier=sources
+- pkg:maven/jakarta.enterprise/jakarta.enterprise.cdi-api@4.0.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cloud-oracle@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-cloud-oracle@RELEASE140?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/fish.payara.ecosystem.jaxrs/rest-ssl-configuration@1.0.1
+- pkg:maven/fish.payara.ecosystem.jaxrs/rest-ssl-configuration@1.0.1?classifier=sources
+- pkg:maven/fish.payara.ecosystem.jaxrs/rest-ssl-configuration@1.1.1
+- pkg:maven/fish.payara.ecosystem.jaxrs/rest-ssl-configuration@1.1.1?classifier=sources
+- pkg:maven/fish.payara.ecosystem.jaxrs/rest-ssl-configuration@1.2.1
+- pkg:maven/fish.payara.ecosystem.jaxrs/rest-ssl-configuration@1.2.1?classifier=sources

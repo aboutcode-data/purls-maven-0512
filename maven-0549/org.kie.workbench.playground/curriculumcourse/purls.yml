@@ -77,5 +77,6 @@
 - pkg:maven/org.kie.workbench.playground/curriculumcourse@7.68.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/curriculumcourse@7.69.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/curriculumcourse@7.7.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/curriculumcourse@7.70.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/curriculumcourse@7.8.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/curriculumcourse@7.9.0.Final?classifier=sources

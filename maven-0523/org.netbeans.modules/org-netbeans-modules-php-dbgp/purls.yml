@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-dbgp@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-dbgp@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-dbgp@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-dbgp@RELEASE140?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.odpi.egeria/egeria-connector-xtdb@3.6?classifier=sources
 - pkg:maven/org.odpi.egeria/egeria-connector-xtdb@3.8
 - pkg:maven/org.odpi.egeria/egeria-connector-xtdb@3.8?classifier=sources
+- pkg:maven/org.odpi.egeria/egeria-connector-xtdb@3.9
+- pkg:maven/org.odpi.egeria/egeria-connector-xtdb@3.9?classifier=sources

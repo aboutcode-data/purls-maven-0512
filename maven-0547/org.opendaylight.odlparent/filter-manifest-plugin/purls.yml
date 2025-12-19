@@ -3,6 +3,8 @@
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@10.0.1?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@10.0.2
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@10.0.2?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@11.0.0
+- pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@11.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@3.1.6
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@3.1.6?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@3.1.7
@@ -136,6 +138,7 @@
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@9.0.13?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@9.0.14
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@9.0.14?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@9.0.15?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@9.0.1?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@9.0.2
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@9.0.2?classifier=sources

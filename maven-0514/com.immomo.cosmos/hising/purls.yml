@@ -1,2 +1,5 @@
 - pkg:maven/com.immomo.cosmos/hising@1.0.0_04120814?classifier=sources
 - pkg:maven/com.immomo.cosmos/hising@1.0.0_04120814?type=aar
+- pkg:maven/com.immomo.cosmos/hising@1.0.0_05262027?classifier=sources
+- pkg:maven/com.immomo.cosmos/hising@1.0.0_05271536?classifier=sources
+- pkg:maven/com.immomo.cosmos/hising@1.0.0_06131622?classifier=sources

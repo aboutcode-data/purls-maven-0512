@@ -1,0 +1,2 @@
+- pkg:maven/io.github.open-accelerators/letterof-credit-common@1.0.2
+- pkg:maven/io.github.open-accelerators/letterof-credit-common@1.0.2?classifier=sources

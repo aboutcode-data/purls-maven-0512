@@ -1,0 +1,2 @@
+- pkg:maven/com.nutanix.example/hellonutanixworld@v0.0.12
+- pkg:maven/com.nutanix.example/hellonutanixworld@v0.0.12?classifier=sources

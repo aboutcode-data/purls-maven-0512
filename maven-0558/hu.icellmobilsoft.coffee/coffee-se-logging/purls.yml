@@ -1,5 +1,7 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-se-logging@1.1.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-se-logging@1.1.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-se-logging@1.10.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-se-logging@1.10.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-se-logging@1.2.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-se-logging@1.2.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-se-logging@1.2.1

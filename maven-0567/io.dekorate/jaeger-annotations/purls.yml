@@ -160,6 +160,8 @@
 - pkg:maven/io.dekorate/jaeger-annotations@2.1.3?classifier=sources
 - pkg:maven/io.dekorate/jaeger-annotations@2.1.4
 - pkg:maven/io.dekorate/jaeger-annotations@2.1.4?classifier=sources
+- pkg:maven/io.dekorate/jaeger-annotations@2.10.0
+- pkg:maven/io.dekorate/jaeger-annotations@2.10.0?classifier=sources
 - pkg:maven/io.dekorate/jaeger-annotations@2.2.0
 - pkg:maven/io.dekorate/jaeger-annotations@2.2.0?classifier=sources
 - pkg:maven/io.dekorate/jaeger-annotations@2.2.1

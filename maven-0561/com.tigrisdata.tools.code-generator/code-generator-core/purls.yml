@@ -1,3 +1,5 @@
+- pkg:maven/com.tigrisdata.tools.code-generator/code-generator-core@1.0.0-alpha.10
+- pkg:maven/com.tigrisdata.tools.code-generator/code-generator-core@1.0.0-alpha.10?classifier=sources
 - pkg:maven/com.tigrisdata.tools.code-generator/code-generator-core@1.0.0-alpha.4
 - pkg:maven/com.tigrisdata.tools.code-generator/code-generator-core@1.0.0-alpha.4?classifier=sources
 - pkg:maven/com.tigrisdata.tools.code-generator/code-generator-core@1.0.0-alpha.5

@@ -97,3 +97,4 @@
 - pkg:maven/com.linecorp.bot/line-bot-spring-boot@4.7.0
 - pkg:maven/com.linecorp.bot/line-bot-spring-boot@4.7.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-spring-boot@4.8.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-spring-boot@4.9.0?classifier=sources

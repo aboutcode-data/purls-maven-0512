@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-guards@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-guards@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-guards@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-guards@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-guards@RELEASE90?classifier=sources

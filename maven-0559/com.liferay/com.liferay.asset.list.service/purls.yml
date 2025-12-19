@@ -335,6 +335,12 @@
 - pkg:maven/com.liferay/com.liferay.asset.list.service@2.0.53
 - pkg:maven/com.liferay/com.liferay.asset.list.service@2.0.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.list.service@2.0.53?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.list.service@2.0.54
+- pkg:maven/com.liferay/com.liferay.asset.list.service@2.0.54?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.list.service@2.0.54?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.list.service@2.0.55
+- pkg:maven/com.liferay/com.liferay.asset.list.service@2.0.55?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.list.service@2.0.55?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.list.service@2.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.list.service@2.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.list.service@2.0.6
@@ -428,6 +434,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.list.service@3.0.32
 - pkg:maven/com.liferay/com.liferay.asset.list.service@3.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.list.service@3.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.list.service@3.0.33
+- pkg:maven/com.liferay/com.liferay.asset.list.service@3.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.list.service@3.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.list.service@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.list.service@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.list.service@3.0.4

@@ -76,3 +76,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.2.8?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.2.9
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.2.9?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.3.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.3.0?classifier=sources

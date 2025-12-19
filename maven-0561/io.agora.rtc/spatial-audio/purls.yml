@@ -1,1 +1,5 @@
+- pkg:maven/io.agora.rtc/spatial-audio@3.6.3?type=aar
+- pkg:maven/io.agora.rtc/spatial-audio@3.7.0.1?type=aar
+- pkg:maven/io.agora.rtc/spatial-audio@3.7.0.2?type=aar
+- pkg:maven/io.agora.rtc/spatial-audio@3.7.0.3?type=aar
 - pkg:maven/io.agora.rtc/spatial-audio@3.7.0?type=aar

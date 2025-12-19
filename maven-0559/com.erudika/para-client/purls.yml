@@ -183,6 +183,8 @@
 - pkg:maven/com.erudika/para-client@1.45.0
 - pkg:maven/com.erudika/para-client@1.45.0?classifier=sources
 - pkg:maven/com.erudika/para-client@1.45.1
+- pkg:maven/com.erudika/para-client@1.45.10
+- pkg:maven/com.erudika/para-client@1.45.10?classifier=sources
 - pkg:maven/com.erudika/para-client@1.45.1?classifier=sources
 - pkg:maven/com.erudika/para-client@1.45.2
 - pkg:maven/com.erudika/para-client@1.45.2?classifier=sources
@@ -200,3 +202,5 @@
 - pkg:maven/com.erudika/para-client@1.45.8?classifier=sources
 - pkg:maven/com.erudika/para-client@1.45.9
 - pkg:maven/com.erudika/para-client@1.45.9?classifier=sources
+- pkg:maven/com.erudika/para-client@1.46.0
+- pkg:maven/com.erudika/para-client@1.46.0?classifier=sources

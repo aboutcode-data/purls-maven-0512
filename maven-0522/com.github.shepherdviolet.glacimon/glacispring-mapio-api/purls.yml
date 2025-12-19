@@ -1,0 +1,2 @@
+- pkg:maven/com.github.shepherdviolet.glacimon/glacispring-mapio-api@2022.1.0?classifier=sources
+- pkg:maven/com.github.shepherdviolet.glacimon/glacispring-mapio-api@2022.1.1?classifier=sources

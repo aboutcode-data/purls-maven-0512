@@ -16,3 +16,5 @@
 - pkg:maven/com.wizzdi/flexicore-boot-security-bearer-jwt@1.0.7?classifier=sources
 - pkg:maven/com.wizzdi/flexicore-boot-security-bearer-jwt@1.1.0
 - pkg:maven/com.wizzdi/flexicore-boot-security-bearer-jwt@1.1.0?classifier=sources
+- pkg:maven/com.wizzdi/flexicore-boot-security-bearer-jwt@1.1.1
+- pkg:maven/com.wizzdi/flexicore-boot-security-bearer-jwt@1.1.1?classifier=sources

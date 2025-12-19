@@ -92,6 +92,12 @@
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.43?type=war
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.44?classifier=sources
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.44?type=war
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.45?classifier=sources
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.45?type=war
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.46?classifier=sources
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.46?type=war
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.48?classifier=sources
+- pkg:maven/com.yahoo.bard/fili-generic-example@1.0.48?type=war
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.4?classifier=sources
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.4?type=war
 - pkg:maven/com.yahoo.bard/fili-generic-example@1.0.5?classifier=sources

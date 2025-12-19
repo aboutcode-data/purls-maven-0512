@@ -1,0 +1,3 @@
+- pkg:maven/io.github.tabilzad/ktor-docs-plugin-gradle@0.1.50-alpha?classifier=sources
+- pkg:maven/io.github.tabilzad/ktor-docs-plugin-gradle@0.1.51-alpha?classifier=sources
+- pkg:maven/io.github.tabilzad/ktor-docs-plugin-gradle@0.1.60-alpha?classifier=sources

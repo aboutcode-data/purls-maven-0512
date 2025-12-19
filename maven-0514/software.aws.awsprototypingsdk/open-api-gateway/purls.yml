@@ -1,0 +1,14 @@
+- pkg:maven/software.aws.awsprototypingsdk/open-api-gateway@0.0.92
+- pkg:maven/software.aws.awsprototypingsdk/open-api-gateway@0.0.92?classifier=sources
+- pkg:maven/software.aws.awsprototypingsdk/open-api-gateway@0.0.93
+- pkg:maven/software.aws.awsprototypingsdk/open-api-gateway@0.0.93?classifier=sources
+- pkg:maven/software.aws.awsprototypingsdk/open-api-gateway@0.0.94
+- pkg:maven/software.aws.awsprototypingsdk/open-api-gateway@0.0.94?classifier=sources
+- pkg:maven/software.aws.awsprototypingsdk/open-api-gateway@0.0.95
+- pkg:maven/software.aws.awsprototypingsdk/open-api-gateway@0.0.95?classifier=sources
+- pkg:maven/software.aws.awsprototypingsdk/open-api-gateway@0.0.96
+- pkg:maven/software.aws.awsprototypingsdk/open-api-gateway@0.0.96?classifier=sources
+- pkg:maven/software.aws.awsprototypingsdk/open-api-gateway@0.1.0
+- pkg:maven/software.aws.awsprototypingsdk/open-api-gateway@0.1.0?classifier=sources
+- pkg:maven/software.aws.awsprototypingsdk/open-api-gateway@0.2.0
+- pkg:maven/software.aws.awsprototypingsdk/open-api-gateway@0.2.0?classifier=sources

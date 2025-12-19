@@ -37,6 +37,8 @@
 - pkg:maven/com.blazebit/blaze-expression-core-impl@1.0.0-Alpha29
 - pkg:maven/com.blazebit/blaze-expression-core-impl@1.0.0-Alpha29?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-core-impl@1.0.0-Alpha3
+- pkg:maven/com.blazebit/blaze-expression-core-impl@1.0.0-Alpha31
+- pkg:maven/com.blazebit/blaze-expression-core-impl@1.0.0-Alpha31?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-core-impl@1.0.0-Alpha3?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-core-impl@1.0.0-Alpha4
 - pkg:maven/com.blazebit/blaze-expression-core-impl@1.0.0-Alpha4?classifier=sources

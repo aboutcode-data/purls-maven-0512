@@ -61,3 +61,4 @@
 - pkg:maven/org.sonarsource.javascript/sonar-javascript-plugin@9.1.0.17747?classifier=sources
 - pkg:maven/org.sonarsource.javascript/sonar-javascript-plugin@9.1.1.17782?classifier=sources
 - pkg:maven/org.sonarsource.javascript/sonar-javascript-plugin@9.2.0.17876?classifier=sources
+- pkg:maven/org.sonarsource.javascript/sonar-javascript-plugin@9.3.0.18033?classifier=sources

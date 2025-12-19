@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/restructure@0.5.4
 - pkg:maven/org.webjars.npm/restructure@0.5.4?classifier=sources
+- pkg:maven/org.webjars.npm/restructure@2.0.1
+- pkg:maven/org.webjars.npm/restructure@2.0.1?classifier=sources

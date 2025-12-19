@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson@RELEASE90?classifier=sources

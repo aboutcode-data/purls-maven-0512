@@ -1,0 +1,2 @@
+- pkg:maven/de.simpleworks.staf/kafka-module@0.120
+- pkg:maven/de.simpleworks.staf/kafka-module@0.120?classifier=sources

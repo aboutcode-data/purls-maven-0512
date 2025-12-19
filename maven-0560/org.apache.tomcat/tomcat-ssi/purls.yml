@@ -26,6 +26,8 @@
 - pkg:maven/org.apache.tomcat/tomcat-ssi@10.0.17?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-ssi@10.0.18?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-ssi@10.0.20?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-ssi@10.0.21?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-ssi@10.0.22?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-ssi@10.0.2?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-ssi@10.0.4?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-ssi@10.0.5?classifier=sources
@@ -36,6 +38,8 @@
 - pkg:maven/org.apache.tomcat/tomcat-ssi@10.1.0-M11?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-ssi@10.1.0-M12?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-ssi@10.1.0-M14?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-ssi@10.1.0-M15?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-ssi@10.1.0-M16?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-ssi@10.1.0-M1?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-ssi@10.1.0-M2?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-ssi@10.1.0-M4?classifier=sources
@@ -79,3 +83,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-ssi@9.0.59?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-ssi@9.0.60?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-ssi@9.0.62?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-ssi@9.0.63?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-ssi@9.0.64?classifier=sources

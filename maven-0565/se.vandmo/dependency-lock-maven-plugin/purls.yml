@@ -1,5 +1,7 @@
 - pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.0.1
 - pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.0.1?classifier=sources
+- pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.0.78f56707b3a1d639c8e769bba1686587e9a89564
+- pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.0.78f56707b3a1d639c8e769bba1686587e9a89564?classifier=sources
 - pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.10
 - pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.10?classifier=sources
 - pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.11

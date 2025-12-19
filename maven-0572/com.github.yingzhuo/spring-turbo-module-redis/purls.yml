@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yingzhuo/spring-turbo-module-redis@1.0.15
+- pkg:maven/com.github.yingzhuo/spring-turbo-module-redis@1.0.15?classifier=sources
