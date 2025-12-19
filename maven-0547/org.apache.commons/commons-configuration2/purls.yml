@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.commons/commons-configuration2@2.6?classifier=sources
 - pkg:maven/org.apache.commons/commons-configuration2@2.7
 - pkg:maven/org.apache.commons/commons-configuration2@2.7?classifier=sources
+- pkg:maven/org.apache.commons/commons-configuration2@2.8.0
+- pkg:maven/org.apache.commons/commons-configuration2@2.8.0?classifier=sources

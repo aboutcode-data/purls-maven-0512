@@ -6,3 +6,4 @@
 - pkg:maven/us.ihmc/ihmc-robot-data-logger-test@0.23.0?classifier=sources
 - pkg:maven/us.ihmc/ihmc-robot-data-logger-test@0.23.2?classifier=sources
 - pkg:maven/us.ihmc/ihmc-robot-data-logger-test@17-0.23.2?classifier=sources
+- pkg:maven/us.ihmc/ihmc-robot-data-logger-test@17-0.23.3?classifier=sources

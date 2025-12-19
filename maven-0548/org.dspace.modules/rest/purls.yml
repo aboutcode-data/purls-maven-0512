@@ -16,6 +16,7 @@
 - pkg:maven/org.dspace.modules/rest@5.0-rc3?type=war
 - pkg:maven/org.dspace.modules/rest@5.0?type=war
 - pkg:maven/org.dspace.modules/rest@5.10?type=war
+- pkg:maven/org.dspace.modules/rest@5.11?type=war
 - pkg:maven/org.dspace.modules/rest@5.1?type=war
 - pkg:maven/org.dspace.modules/rest@5.2?type=war
 - pkg:maven/org.dspace.modules/rest@5.3?type=war
@@ -33,6 +34,7 @@
 - pkg:maven/org.dspace.modules/rest@6.1?type=war
 - pkg:maven/org.dspace.modules/rest@6.2?type=war
 - pkg:maven/org.dspace.modules/rest@6.3?type=war
+- pkg:maven/org.dspace.modules/rest@6.4?type=war
 - pkg:maven/org.dspace.modules/rest@7.0-beta1?type=war
 - pkg:maven/org.dspace.modules/rest@7.0-beta2.1?type=war
 - pkg:maven/org.dspace.modules/rest@7.0-beta2?type=war
@@ -44,3 +46,4 @@
 - pkg:maven/org.dspace.modules/rest@7.1?type=war
 - pkg:maven/org.dspace.modules/rest@7.2.1?type=war
 - pkg:maven/org.dspace.modules/rest@7.2?type=war
+- pkg:maven/org.dspace.modules/rest@7.3?type=war

@@ -1,4 +1,10 @@
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.0?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.10
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.10.android
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.10.android?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.10.graal
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.10.graal?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.10?classifier=sources
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.1?classifier=sources
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.2.android?classifier=sources
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.2.graal?classifier=sources
@@ -30,3 +36,15 @@
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.7.graal
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.7.graal?classifier=sources
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.7?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.8
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.8.android
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.8.android?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.8.graal
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.8.graal?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.8?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.9
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.9.android
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.9.android?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.9.graal
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.9.graal?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.9?classifier=sources

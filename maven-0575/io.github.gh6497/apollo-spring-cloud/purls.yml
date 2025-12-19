@@ -1,2 +1,4 @@
 - pkg:maven/io.github.gh6497/apollo-spring-cloud@1.0
 - pkg:maven/io.github.gh6497/apollo-spring-cloud@1.0?classifier=sources
+- pkg:maven/io.github.gh6497/apollo-spring-cloud@1.1.0
+- pkg:maven/io.github.gh6497/apollo-spring-cloud@1.1.0?classifier=sources

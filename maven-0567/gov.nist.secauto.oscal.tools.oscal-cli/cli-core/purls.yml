@@ -1,0 +1,2 @@
+- pkg:maven/gov.nist.secauto.oscal.tools.oscal-cli/cli-core@0.1.1
+- pkg:maven/gov.nist.secauto.oscal.tools.oscal-cli/cli-core@0.1.1?classifier=sources

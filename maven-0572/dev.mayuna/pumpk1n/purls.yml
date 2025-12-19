@@ -1,0 +1,2 @@
+- pkg:maven/dev.mayuna/pumpk1n@1.0?classifier=sources
+- pkg:maven/dev.mayuna/pumpk1n@1.1?classifier=sources

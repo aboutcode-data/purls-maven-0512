@@ -1,0 +1,2 @@
+- pkg:maven/io.github.julystars/mvvm@1.0.6?classifier=sources
+- pkg:maven/io.github.julystars/mvvm@1.0.7?classifier=sources

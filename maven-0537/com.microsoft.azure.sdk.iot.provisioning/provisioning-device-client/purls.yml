@@ -58,3 +58,5 @@
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-device-client@2.0.0-preview-002
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-device-client@2.0.0-preview-002?classifier=sources
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-device-client@2.0.0?classifier=sources
+- pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-device-client@2.0.1
+- pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-device-client@2.0.1?classifier=sources

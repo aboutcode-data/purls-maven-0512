@@ -7,3 +7,5 @@
 - pkg:maven/com.aallam.openai/openai-core-js@1.0.0?classifier=sources
 - pkg:maven/com.aallam.openai/openai-core-js@1.1.0?classifier=sources
 - pkg:maven/com.aallam.openai/openai-core-js@1.2.0?classifier=sources
+- pkg:maven/com.aallam.openai/openai-core-js@2.0.0-beta01?classifier=sources
+- pkg:maven/com.aallam.openai/openai-core-js@2.0.0-beta02?classifier=sources

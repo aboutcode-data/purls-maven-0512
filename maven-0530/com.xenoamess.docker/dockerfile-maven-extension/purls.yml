@@ -5,3 +5,4 @@
 - pkg:maven/com.xenoamess.docker/dockerfile-maven-extension@1.4.23
 - pkg:maven/com.xenoamess.docker/dockerfile-maven-extension@1.4.24
 - pkg:maven/com.xenoamess.docker/dockerfile-maven-extension@1.4.24-beta1
+- pkg:maven/com.xenoamess.docker/dockerfile-maven-extension@1.4.25

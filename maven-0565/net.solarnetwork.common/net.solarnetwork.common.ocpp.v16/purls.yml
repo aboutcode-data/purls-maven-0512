@@ -1,0 +1,2 @@
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.ocpp.v16@2.0.2
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.ocpp.v16@2.0.2?classifier=sources

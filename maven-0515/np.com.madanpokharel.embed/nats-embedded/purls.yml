@@ -8,3 +8,9 @@
 - pkg:maven/np.com.madanpokharel.embed/nats-embedded@1.1.1?classifier=sources
 - pkg:maven/np.com.madanpokharel.embed/nats-embedded@1.1.2
 - pkg:maven/np.com.madanpokharel.embed/nats-embedded@1.1.2?classifier=sources
+- pkg:maven/np.com.madanpokharel.embed/nats-embedded@1.1.3
+- pkg:maven/np.com.madanpokharel.embed/nats-embedded@1.1.3?classifier=sources
+- pkg:maven/np.com.madanpokharel.embed/nats-embedded@2.0.0
+- pkg:maven/np.com.madanpokharel.embed/nats-embedded@2.0.0?classifier=sources
+- pkg:maven/np.com.madanpokharel.embed/nats-embedded@2.1.0
+- pkg:maven/np.com.madanpokharel.embed/nats-embedded@2.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.mbus@1.0.2
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.mbus@1.0.2?classifier=sources

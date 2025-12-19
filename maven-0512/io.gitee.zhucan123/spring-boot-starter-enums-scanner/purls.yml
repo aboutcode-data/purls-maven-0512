@@ -6,3 +6,7 @@
 - pkg:maven/io.gitee.zhucan123/spring-boot-starter-enums-scanner@1.0.3-RELEASE?classifier=sources
 - pkg:maven/io.gitee.zhucan123/spring-boot-starter-enums-scanner@1.0.5-RELEASE
 - pkg:maven/io.gitee.zhucan123/spring-boot-starter-enums-scanner@1.0.5-RELEASE?classifier=sources
+- pkg:maven/io.gitee.zhucan123/spring-boot-starter-enums-scanner@1.0.9-RELEASE
+- pkg:maven/io.gitee.zhucan123/spring-boot-starter-enums-scanner@1.0.9-RELEASE?classifier=sources
+- pkg:maven/io.gitee.zhucan123/spring-boot-starter-enums-scanner@1.1.0-RELEASE
+- pkg:maven/io.gitee.zhucan123/spring-boot-starter-enums-scanner@1.1.0-RELEASE?classifier=sources

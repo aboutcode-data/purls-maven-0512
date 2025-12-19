@@ -1,0 +1,2 @@
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.ocpp@1.1.2
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.ocpp@1.1.2?classifier=sources

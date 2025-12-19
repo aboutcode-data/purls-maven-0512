@@ -15,6 +15,7 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@2.0.0-M2
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@2.1.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@2.10.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@2.11.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@2.2.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@2.2.1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@2.3.0
@@ -23,6 +24,7 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@2.6.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@2.7.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@2.7.1
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@2.7.2
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@2.8.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@2.8.0-M1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@2.9.0

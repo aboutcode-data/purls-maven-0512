@@ -1,2 +1,4 @@
 - pkg:maven/com.tcashcroft/xwing-lib@0.0.1-PRERELEASE
 - pkg:maven/com.tcashcroft/xwing-lib@0.0.1-PRERELEASE?classifier=sources
+- pkg:maven/com.tcashcroft/xwing-lib@0.0.2-PRERELEASE
+- pkg:maven/com.tcashcroft/xwing-lib@0.0.2-PRERELEASE?classifier=sources

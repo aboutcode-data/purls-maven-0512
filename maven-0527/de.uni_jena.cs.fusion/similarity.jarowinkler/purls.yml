@@ -4,3 +4,5 @@
 - pkg:maven/de.uni_jena.cs.fusion/similarity.jarowinkler@1.0.0?classifier=sources
 - pkg:maven/de.uni_jena.cs.fusion/similarity.jarowinkler@1.0.1
 - pkg:maven/de.uni_jena.cs.fusion/similarity.jarowinkler@1.0.1?classifier=sources
+- pkg:maven/de.uni_jena.cs.fusion/similarity.jarowinkler@1.1.0
+- pkg:maven/de.uni_jena.cs.fusion/similarity.jarowinkler@1.1.0?classifier=sources

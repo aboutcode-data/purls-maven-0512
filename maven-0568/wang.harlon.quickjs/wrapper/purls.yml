@@ -12,6 +12,13 @@
 - pkg:maven/wang.harlon.quickjs/wrapper@0.0.21?classifier=sources
 - pkg:maven/wang.harlon.quickjs/wrapper@0.0.22?classifier=sources
 - pkg:maven/wang.harlon.quickjs/wrapper@0.0.23?classifier=sources
+- pkg:maven/wang.harlon.quickjs/wrapper@0.0.24-alpha-1?classifier=sources
+- pkg:maven/wang.harlon.quickjs/wrapper@0.0.24-alpha-2?classifier=sources
+- pkg:maven/wang.harlon.quickjs/wrapper@0.0.24-alpha-3?classifier=sources
+- pkg:maven/wang.harlon.quickjs/wrapper@0.0.24-alpha-4?classifier=sources
+- pkg:maven/wang.harlon.quickjs/wrapper@0.0.24?classifier=sources
+- pkg:maven/wang.harlon.quickjs/wrapper@0.0.25-alpha-1?classifier=sources
+- pkg:maven/wang.harlon.quickjs/wrapper@0.0.25-alpha-2?classifier=sources
 - pkg:maven/wang.harlon.quickjs/wrapper@0.0.2?classifier=sources
 - pkg:maven/wang.harlon.quickjs/wrapper@0.0.3?classifier=sources
 - pkg:maven/wang.harlon.quickjs/wrapper@0.0.4?classifier=sources
@@ -20,3 +27,7 @@
 - pkg:maven/wang.harlon.quickjs/wrapper@0.0.7?classifier=sources
 - pkg:maven/wang.harlon.quickjs/wrapper@0.0.8?classifier=sources
 - pkg:maven/wang.harlon.quickjs/wrapper@0.0.9?classifier=sources
+- pkg:maven/wang.harlon.quickjs/wrapper@0.1.0-alpha-1?classifier=sources
+- pkg:maven/wang.harlon.quickjs/wrapper@0.1.0-alpha-2?classifier=sources
+- pkg:maven/wang.harlon.quickjs/wrapper@0.1.0-alpha-3?classifier=sources
+- pkg:maven/wang.harlon.quickjs/wrapper@0.1.0?classifier=sources

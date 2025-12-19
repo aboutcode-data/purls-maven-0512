@@ -1,5 +1,9 @@
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-rest-constants@1.10.0
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-rest-constants@1.10.0?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-rest-constants@1.11.0
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-rest-constants@1.11.0?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-rest-constants@1.11.1
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-rest-constants@1.11.1?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-rest-constants@1.6.0
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-rest-constants@1.6.0?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-rest-constants@1.7.0

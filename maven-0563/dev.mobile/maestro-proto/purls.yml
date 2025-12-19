@@ -1,0 +1,2 @@
+- pkg:maven/dev.mobile/maestro-proto@1.0.0?classifier=sources
+- pkg:maven/dev.mobile/maestro-proto@1.1.0?classifier=sources

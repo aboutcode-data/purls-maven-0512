@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jquery-textcomplete@1.8.5
+- pkg:maven/org.webjars.npm/jquery-textcomplete@1.8.5?classifier=sources

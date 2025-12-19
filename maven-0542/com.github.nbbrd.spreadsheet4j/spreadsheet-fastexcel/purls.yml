@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nbbrd.spreadsheet4j/spreadsheet-fastexcel@2.5.1
+- pkg:maven/com.github.nbbrd.spreadsheet4j/spreadsheet-fastexcel@2.5.1?classifier=sources

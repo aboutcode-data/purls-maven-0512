@@ -28,3 +28,4 @@
 - pkg:maven/io.neba/io.neba.neba-delivery-aem@5.1.5?classifier=sources
 - pkg:maven/io.neba/io.neba.neba-delivery-aem@5.2.0?classifier=sources
 - pkg:maven/io.neba/io.neba.neba-delivery-aem@5.2.1?classifier=sources
+- pkg:maven/io.neba/io.neba.neba-delivery-aem@5.2.2?classifier=sources

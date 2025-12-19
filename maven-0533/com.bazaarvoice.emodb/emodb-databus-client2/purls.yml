@@ -14,5 +14,9 @@
 - pkg:maven/com.bazaarvoice.emodb/emodb-databus-client2@6.5.16?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-databus-client2@6.5.17
 - pkg:maven/com.bazaarvoice.emodb/emodb-databus-client2@6.5.17?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-databus-client2@6.5.22
+- pkg:maven/com.bazaarvoice.emodb/emodb-databus-client2@6.5.22.2
+- pkg:maven/com.bazaarvoice.emodb/emodb-databus-client2@6.5.22.2?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-databus-client2@6.5.22?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-databus-client2@6.5.9
 - pkg:maven/com.bazaarvoice.emodb/emodb-databus-client2@6.5.9?classifier=sources

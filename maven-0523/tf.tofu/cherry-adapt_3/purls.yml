@@ -1,0 +1,2 @@
+- pkg:maven/tf.tofu/cherry-adapt_3@0.0.8
+- pkg:maven/tf.tofu/cherry-adapt_3@0.0.8?classifier=sources

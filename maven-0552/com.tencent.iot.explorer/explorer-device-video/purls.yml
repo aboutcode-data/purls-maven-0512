@@ -1,4 +1,5 @@
 - pkg:maven/com.tencent.iot.explorer/explorer-device-video@3.3.10?classifier=sources
 - pkg:maven/com.tencent.iot.explorer/explorer-device-video@3.3.11?classifier=sources
 - pkg:maven/com.tencent.iot.explorer/explorer-device-video@3.3.12?classifier=sources
+- pkg:maven/com.tencent.iot.explorer/explorer-device-video@3.3.13?classifier=sources
 - pkg:maven/com.tencent.iot.explorer/explorer-device-video@3.3.9?classifier=sources

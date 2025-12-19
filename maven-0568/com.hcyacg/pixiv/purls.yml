@@ -1,3 +1,4 @@
 - pkg:maven/com.hcyacg/pixiv@1.6.6?classifier=sources
 - pkg:maven/com.hcyacg/pixiv@1.6.7?classifier=sources
 - pkg:maven/com.hcyacg/pixiv@1.6.8?classifier=sources
+- pkg:maven/com.hcyacg/pixiv@1.7.4?classifier=sources

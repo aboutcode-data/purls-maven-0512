@@ -1,3 +1,4 @@
+- pkg:maven/com.google.gwt/gwt-codeserver@2.10.0
 - pkg:maven/com.google.gwt/gwt-codeserver@2.5.0
 - pkg:maven/com.google.gwt/gwt-codeserver@2.5.0-rc1
 - pkg:maven/com.google.gwt/gwt-codeserver@2.5.0-rc1?classifier=sources

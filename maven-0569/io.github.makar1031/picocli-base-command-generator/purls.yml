@@ -1,0 +1,2 @@
+- pkg:maven/io.github.makar1031/picocli-base-command-generator@1.0.0
+- pkg:maven/io.github.makar1031/picocli-base-command-generator@1.0.0?classifier=sources

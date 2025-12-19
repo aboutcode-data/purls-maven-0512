@@ -210,6 +210,8 @@
 - pkg:maven/com.ibeetl/beetl@3.1.7.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/beetl@3.1.8.RELEASE
 - pkg:maven/com.ibeetl/beetl@3.1.8.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/beetl@3.10.0.Antlr4.5-RELEASE
+- pkg:maven/com.ibeetl/beetl@3.10.0.Antlr4.5-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/beetl@3.10.0.RELEASE
 - pkg:maven/com.ibeetl/beetl@3.10.0.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/beetl@3.2.0.RELEASE

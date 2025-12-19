@@ -88,3 +88,5 @@
 - pkg:maven/org.flywaydb.enterprise/flyway-gcp-spanner@8.5.8-beta?classifier=sources
 - pkg:maven/org.flywaydb.enterprise/flyway-gcp-spanner@8.5.9-beta
 - pkg:maven/org.flywaydb.enterprise/flyway-gcp-spanner@8.5.9-beta?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-gcp-spanner@9.0.0-beta
+- pkg:maven/org.flywaydb.enterprise/flyway-gcp-spanner@9.0.0-beta?classifier=sources

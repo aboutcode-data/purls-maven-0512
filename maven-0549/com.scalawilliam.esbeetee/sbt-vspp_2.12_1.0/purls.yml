@@ -1,0 +1,2 @@
+- pkg:maven/com.scalawilliam.esbeetee/sbt-vspp_2.12_1.0@0.4.11
+- pkg:maven/com.scalawilliam.esbeetee/sbt-vspp_2.12_1.0@0.4.11?classifier=sources

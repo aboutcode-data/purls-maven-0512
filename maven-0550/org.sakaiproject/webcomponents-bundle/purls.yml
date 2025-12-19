@@ -20,3 +20,5 @@
 - pkg:maven/org.sakaiproject/webcomponents-bundle@21.3?classifier=sources
 - pkg:maven/org.sakaiproject/webcomponents-bundle@22.0
 - pkg:maven/org.sakaiproject/webcomponents-bundle@22.0?classifier=sources
+- pkg:maven/org.sakaiproject/webcomponents-bundle@22.1
+- pkg:maven/org.sakaiproject/webcomponents-bundle@22.1?classifier=sources

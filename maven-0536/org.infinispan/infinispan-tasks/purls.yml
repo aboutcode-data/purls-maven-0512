@@ -184,6 +184,8 @@
 - pkg:maven/org.infinispan/infinispan-tasks@14.0.0.Dev02?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tasks@14.0.0.Dev03
 - pkg:maven/org.infinispan/infinispan-tasks@14.0.0.Dev03?classifier=sources
+- pkg:maven/org.infinispan/infinispan-tasks@14.0.0.Dev04
+- pkg:maven/org.infinispan/infinispan-tasks@14.0.0.Dev04?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tasks@8.1.0.Final
 - pkg:maven/org.infinispan/infinispan-tasks@8.1.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tasks@8.1.1.Final

@@ -98,3 +98,13 @@
 - pkg:maven/org.flywaydb/flyway-community-db-support@8.5.8?classifier=sources
 - pkg:maven/org.flywaydb/flyway-community-db-support@8.5.9
 - pkg:maven/org.flywaydb/flyway-community-db-support@8.5.9?classifier=sources
+- pkg:maven/org.flywaydb/flyway-community-db-support@9.0.0
+- pkg:maven/org.flywaydb/flyway-community-db-support@9.0.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-community-db-support@9.0.1
+- pkg:maven/org.flywaydb/flyway-community-db-support@9.0.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-community-db-support@9.0.2
+- pkg:maven/org.flywaydb/flyway-community-db-support@9.0.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-community-db-support@9.0.3
+- pkg:maven/org.flywaydb/flyway-community-db-support@9.0.3?classifier=sources
+- pkg:maven/org.flywaydb/flyway-community-db-support@9.0.4
+- pkg:maven/org.flywaydb/flyway-community-db-support@9.0.4?classifier=sources

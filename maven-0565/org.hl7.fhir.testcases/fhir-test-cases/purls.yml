@@ -6,6 +6,8 @@
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@0.0.4
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.100
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.101
+- pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.102
+- pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.103
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.14
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.15
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.1.16

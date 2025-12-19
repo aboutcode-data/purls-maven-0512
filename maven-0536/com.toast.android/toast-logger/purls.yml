@@ -70,3 +70,4 @@
 - pkg:maven/com.toast.android/toast-logger@0.31.0?type=aar
 - pkg:maven/com.toast.android/toast-logger@0.31.1?type=aar
 - pkg:maven/com.toast.android/toast-logger@0.9.0?type=aar
+- pkg:maven/com.toast.android/toast-logger@1.0.0?type=aar

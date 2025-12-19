@@ -30,6 +30,15 @@
 - pkg:maven/io.github.turansky.kfc/kfc-react@5.37.0?classifier=sources
 - pkg:maven/io.github.turansky.kfc/kfc-react@5.4.0?classifier=sources
 - pkg:maven/io.github.turansky.kfc/kfc-react@5.40.0?classifier=sources
+- pkg:maven/io.github.turansky.kfc/kfc-react@5.40.1?classifier=sources
+- pkg:maven/io.github.turansky.kfc/kfc-react@5.40.2?classifier=sources
+- pkg:maven/io.github.turansky.kfc/kfc-react@5.40.3?classifier=sources
+- pkg:maven/io.github.turansky.kfc/kfc-react@5.40.4?classifier=sources
+- pkg:maven/io.github.turansky.kfc/kfc-react@5.41.0?classifier=sources
+- pkg:maven/io.github.turansky.kfc/kfc-react@5.42.0?classifier=sources
+- pkg:maven/io.github.turansky.kfc/kfc-react@5.43.0?classifier=sources
+- pkg:maven/io.github.turansky.kfc/kfc-react@5.44.0?classifier=sources
+- pkg:maven/io.github.turansky.kfc/kfc-react@5.45.0?classifier=sources
 - pkg:maven/io.github.turansky.kfc/kfc-react@5.5.0?classifier=sources
 - pkg:maven/io.github.turansky.kfc/kfc-react@5.6.0?classifier=sources
 - pkg:maven/io.github.turansky.kfc/kfc-react@5.6.1?classifier=sources

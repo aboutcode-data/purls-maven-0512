@@ -1,3 +1,4 @@
 - pkg:maven/com.tunjid.treenav/treenav-jvm@0.0.0-alpha01?classifier=sources
 - pkg:maven/com.tunjid.treenav/treenav-jvm@0.0.2?classifier=sources
 - pkg:maven/com.tunjid.treenav/treenav-jvm@0.0.3?classifier=sources
+- pkg:maven/com.tunjid.treenav/treenav-jvm@0.0.4?classifier=sources
