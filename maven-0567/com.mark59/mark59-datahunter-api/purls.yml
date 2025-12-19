@@ -20,3 +20,5 @@
 - pkg:maven/com.mark59/mark59-datahunter-api@5.3?classifier=sources
 - pkg:maven/com.mark59/mark59-datahunter-api@5.4
 - pkg:maven/com.mark59/mark59-datahunter-api@5.4?classifier=sources
+- pkg:maven/com.mark59/mark59-datahunter-api@5.5
+- pkg:maven/com.mark59/mark59-datahunter-api@5.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.camunda.community.client/camunda-7-cdi-adapter@0.0.2
+- pkg:maven/org.camunda.community.client/camunda-7-cdi-adapter@0.0.2?classifier=sources

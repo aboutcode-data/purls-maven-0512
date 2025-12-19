@@ -68,3 +68,9 @@
 - pkg:maven/com.myzlab.ksearch.springboot.jdbc/k@2.4.4-alpha?classifier=sources
 - pkg:maven/com.myzlab.ksearch.springboot.jdbc/k@2.4.5-alpha
 - pkg:maven/com.myzlab.ksearch.springboot.jdbc/k@2.4.5-alpha?classifier=sources
+- pkg:maven/com.myzlab.ksearch.springboot.jdbc/k@2.4.6-alpha
+- pkg:maven/com.myzlab.ksearch.springboot.jdbc/k@2.4.6-alpha?classifier=sources
+- pkg:maven/com.myzlab.ksearch.springboot.jdbc/k@2.4.7-alpha
+- pkg:maven/com.myzlab.ksearch.springboot.jdbc/k@2.4.7-alpha?classifier=sources
+- pkg:maven/com.myzlab.ksearch.springboot.jdbc/k@2.4.8-alpha
+- pkg:maven/com.myzlab.ksearch.springboot.jdbc/k@2.4.8-alpha?classifier=sources

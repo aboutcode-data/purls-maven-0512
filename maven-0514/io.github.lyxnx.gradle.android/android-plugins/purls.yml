@@ -1,0 +1,4 @@
+- pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.08.11?classifier=sources
+- pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.08.12?classifier=sources
+- pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.08.19?classifier=sources
+- pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.08.24?classifier=sources

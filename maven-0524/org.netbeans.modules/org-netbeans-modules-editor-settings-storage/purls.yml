@@ -18,4 +18,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-settings-storage@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-settings-storage@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-settings-storage@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-settings-storage@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-settings-storage@RELEASE90?classifier=sources

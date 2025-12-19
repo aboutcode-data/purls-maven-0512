@@ -6,3 +6,5 @@
 - pkg:maven/com.dmetasoul/lakesoul-common@2.2.0?classifier=sources
 - pkg:maven/com.dmetasoul/lakesoul-common@2.3.0
 - pkg:maven/com.dmetasoul/lakesoul-common@2.3.0?classifier=sources
+- pkg:maven/com.dmetasoul/lakesoul-common@2.3.1
+- pkg:maven/com.dmetasoul/lakesoul-common@2.3.1?classifier=sources

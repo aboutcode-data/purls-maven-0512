@@ -1,0 +1,2 @@
+- pkg:maven/org.scorexfoundation/sc_sjs1_2.13@5.0.10
+- pkg:maven/org.scorexfoundation/sc_sjs1_2.13@5.0.10?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.trino.coral/coral@2.0.153-1
+- pkg:maven/io.trino.coral/coral@2.0.153-1?classifier=sources

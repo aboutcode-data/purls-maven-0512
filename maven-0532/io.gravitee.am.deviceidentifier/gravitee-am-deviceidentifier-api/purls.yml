@@ -200,3 +200,5 @@
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@3.21.2?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@3.21.4
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@3.21.4?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.0.0
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.0.0?classifier=sources

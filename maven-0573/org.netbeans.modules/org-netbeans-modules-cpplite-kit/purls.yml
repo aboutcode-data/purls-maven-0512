@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cpplite-kit@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cpplite-kit@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cpplite-kit@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-cpplite-kit@RELEASE190?classifier=sources

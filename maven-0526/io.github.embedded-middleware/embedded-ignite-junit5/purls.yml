@@ -1,0 +1,4 @@
+- pkg:maven/io.github.embedded-middleware/embedded-ignite-junit5@0.0.3
+- pkg:maven/io.github.embedded-middleware/embedded-ignite-junit5@0.0.3?classifier=sources
+- pkg:maven/io.github.embedded-middleware/embedded-ignite-junit5@2.11.1.0
+- pkg:maven/io.github.embedded-middleware/embedded-ignite-junit5@2.11.1.0?classifier=sources

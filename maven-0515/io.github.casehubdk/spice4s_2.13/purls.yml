@@ -1,0 +1,2 @@
+- pkg:maven/io.github.casehubdk/spice4s_2.13@0.0.2
+- pkg:maven/io.github.casehubdk/spice4s_2.13@0.0.2?classifier=sources

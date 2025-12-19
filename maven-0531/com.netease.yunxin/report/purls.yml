@@ -8,3 +8,5 @@
 - pkg:maven/com.netease.yunxin/report@2.2.0?type=aar
 - pkg:maven/com.netease.yunxin/report@2.3.0?type=aar
 - pkg:maven/com.netease.yunxin/report@2.4.0?type=aar
+- pkg:maven/com.netease.yunxin/report@2.5.0?type=aar
+- pkg:maven/com.netease.yunxin/report@2.5.1?type=aar

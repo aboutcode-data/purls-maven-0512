@@ -60,3 +60,7 @@
 - pkg:maven/cn.vonce/vonce-sqlbean-android@1.2.0-beta4?classifier=sources
 - pkg:maven/cn.vonce/vonce-sqlbean-android@1.2.0-beta7
 - pkg:maven/cn.vonce/vonce-sqlbean-android@1.2.0-beta7?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-android@1.2.0-beta8
+- pkg:maven/cn.vonce/vonce-sqlbean-android@1.2.0-beta8?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-android@1.2.0-beta9
+- pkg:maven/cn.vonce/vonce-sqlbean-android@1.2.0-beta9?classifier=sources

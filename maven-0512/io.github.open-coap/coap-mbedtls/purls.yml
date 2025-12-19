@@ -9,6 +9,9 @@
 - pkg:maven/io.github.open-coap/coap-mbedtls@6.15.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-mbedtls@6.16.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-mbedtls@6.16.1?classifier=sources
+- pkg:maven/io.github.open-coap/coap-mbedtls@6.16.2?classifier=sources
+- pkg:maven/io.github.open-coap/coap-mbedtls@6.17.0?classifier=sources
+- pkg:maven/io.github.open-coap/coap-mbedtls@6.17.1?classifier=sources
 - pkg:maven/io.github.open-coap/coap-mbedtls@6.8.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-mbedtls@6.9.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-mbedtls@6.9.1?classifier=sources

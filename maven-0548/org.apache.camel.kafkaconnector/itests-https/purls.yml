@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.camel.kafkaconnector/itests-https@3.19.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/itests-https@3.20.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/itests-https@3.20.3?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/itests-https@3.20.6?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/itests-https@3.21.0?classifier=sources

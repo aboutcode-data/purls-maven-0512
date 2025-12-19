@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-kotlin@3.0.0-M1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-kotlin@3.0.0-M2
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-kotlin@3.0.0-RC1
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-kotlin@3.0.0-RC2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-kotlin@3.2.0

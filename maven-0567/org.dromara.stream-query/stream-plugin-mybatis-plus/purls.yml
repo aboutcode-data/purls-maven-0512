@@ -22,3 +22,5 @@
 - pkg:maven/org.dromara.stream-query/stream-plugin-mybatis-plus@1.9.0?classifier=sources
 - pkg:maven/org.dromara.stream-query/stream-plugin-mybatis-plus@1.9.1
 - pkg:maven/org.dromara.stream-query/stream-plugin-mybatis-plus@1.9.1?classifier=sources
+- pkg:maven/org.dromara.stream-query/stream-plugin-mybatis-plus@2.0.0-alpha%2B001
+- pkg:maven/org.dromara.stream-query/stream-plugin-mybatis-plus@2.0.0-alpha%2B001?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/com.hcl.commerce/commerce-search-processors@9.1.13.0
+- pkg:maven/com.hcl.commerce/commerce-search-processors@9.1.13.0?classifier=sources
+- pkg:maven/com.hcl.commerce/commerce-search-processors@9.1.13.1
+- pkg:maven/com.hcl.commerce/commerce-search-processors@9.1.13.1?classifier=sources
+- pkg:maven/com.hcl.commerce/commerce-search-processors@9.1.13.2

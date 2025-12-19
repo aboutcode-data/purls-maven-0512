@@ -1,3 +1,5 @@
 - pkg:maven/io.eventuate.tram.sagas/orders-and-customers-spring-reactive@0.19.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.tram.sagas/orders-and-customers-spring-reactive@0.20.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.tram.sagas/orders-and-customers-spring-reactive@0.21.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.tram.sagas/orders-and-customers-spring-reactive@0.22.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.tram.sagas/orders-and-customers-spring-reactive@0.23.0.RELEASE?classifier=sources

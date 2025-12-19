@@ -1,0 +1,2 @@
+- pkg:maven/io.github.g42cloud-sdk/g42cloud-sdk-sms@0.0.9-beta
+- pkg:maven/io.github.g42cloud-sdk/g42cloud-sdk-sms@0.0.9-beta?classifier=sources

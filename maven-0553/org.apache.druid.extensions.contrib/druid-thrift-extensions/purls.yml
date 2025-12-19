@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.druid.extensions.contrib/druid-thrift-extensions@25.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions.contrib/druid-thrift-extensions@26.0.0
 - pkg:maven/org.apache.druid.extensions.contrib/druid-thrift-extensions@26.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions.contrib/druid-thrift-extensions@27.0.0
+- pkg:maven/org.apache.druid.extensions.contrib/druid-thrift-extensions@27.0.0?classifier=sources

@@ -19,6 +19,7 @@
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy-symbol-processor@1.0.0-alpha.26?classifier=sources
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy-symbol-processor@1.0.0-alpha.27?classifier=sources
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy-symbol-processor@1.0.0-alpha.28?classifier=sources
+- pkg:maven/com.dzikoysk.sqiffy/sqiffy-symbol-processor@1.0.0-alpha.29?classifier=sources
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy-symbol-processor@1.0.0-alpha.2?classifier=sources
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy-symbol-processor@1.0.0-alpha.3?classifier=sources
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy-symbol-processor@1.0.0-alpha.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun/broadscope-bailian-sdk-java@1.1.4
+- pkg:maven/com.aliyun/broadscope-bailian-sdk-java@1.1.4?classifier=sources
+- pkg:maven/com.aliyun/broadscope-bailian-sdk-java@1.1.6
+- pkg:maven/com.aliyun/broadscope-bailian-sdk-java@1.1.6?classifier=sources

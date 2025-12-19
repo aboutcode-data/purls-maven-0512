@@ -1,2 +1,4 @@
 - pkg:maven/pathwaycommons/chilay-sbgn@3.0.0
 - pkg:maven/pathwaycommons/chilay-sbgn@3.0.0?classifier=sources
+- pkg:maven/pathwaycommons/chilay-sbgn@3.1.0
+- pkg:maven/pathwaycommons/chilay-sbgn@3.1.0?classifier=sources

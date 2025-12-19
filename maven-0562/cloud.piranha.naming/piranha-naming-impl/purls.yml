@@ -48,3 +48,5 @@
 - pkg:maven/cloud.piranha.naming/piranha-naming-impl@23.6.0?classifier=sources
 - pkg:maven/cloud.piranha.naming/piranha-naming-impl@23.7.0
 - pkg:maven/cloud.piranha.naming/piranha-naming-impl@23.7.0?classifier=sources
+- pkg:maven/cloud.piranha.naming/piranha-naming-impl@23.8.0
+- pkg:maven/cloud.piranha.naming/piranha-naming-impl@23.8.0?classifier=sources

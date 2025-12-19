@@ -9,3 +9,4 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-resource-providers@1.26.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-resource-providers@1.27.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-resource-providers@1.28.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-resource-providers@1.29.0-alpha?classifier=sources

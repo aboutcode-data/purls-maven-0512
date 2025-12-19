@@ -16,3 +16,4 @@
 - pkg:maven/name.remal.gradle-plugins.test-source-sets/test-source-sets@3.0.2?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.test-source-sets/test-source-sets@3.0.3?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.test-source-sets/test-source-sets@4.0.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.test-source-sets/test-source-sets@4.0.1?classifier=sources

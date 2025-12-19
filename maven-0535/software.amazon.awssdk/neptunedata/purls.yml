@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awssdk/neptunedata@2.20.138
+- pkg:maven/software.amazon.awssdk/neptunedata@2.20.138?classifier=sources
+- pkg:maven/software.amazon.awssdk/neptunedata@2.20.139
+- pkg:maven/software.amazon.awssdk/neptunedata@2.20.139?classifier=sources
+- pkg:maven/software.amazon.awssdk/neptunedata@2.20.140
+- pkg:maven/software.amazon.awssdk/neptunedata@2.20.140?classifier=sources

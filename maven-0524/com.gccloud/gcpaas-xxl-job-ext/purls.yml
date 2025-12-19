@@ -4,3 +4,9 @@
 - pkg:maven/com.gccloud/gcpaas-xxl-job-ext@1.0.0.2023071001.Alpha?classifier=sources
 - pkg:maven/com.gccloud/gcpaas-xxl-job-ext@1.0.0.2023072101.Alpha
 - pkg:maven/com.gccloud/gcpaas-xxl-job-ext@1.0.0.2023072101.Alpha?classifier=sources
+- pkg:maven/com.gccloud/gcpaas-xxl-job-ext@1.0.0.2023072601.Alpha
+- pkg:maven/com.gccloud/gcpaas-xxl-job-ext@1.0.0.2023072601.Alpha?classifier=sources
+- pkg:maven/com.gccloud/gcpaas-xxl-job-ext@1.0.0.2023072701.Alpha
+- pkg:maven/com.gccloud/gcpaas-xxl-job-ext@1.0.0.2023072701.Alpha?classifier=sources
+- pkg:maven/com.gccloud/gcpaas-xxl-job-ext@1.0.0.2023080801.Alpha
+- pkg:maven/com.gccloud/gcpaas-xxl-job-ext@1.0.0.2023080801.Alpha?classifier=sources

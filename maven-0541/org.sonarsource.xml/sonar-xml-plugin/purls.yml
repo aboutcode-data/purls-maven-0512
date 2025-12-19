@@ -7,6 +7,7 @@
 - pkg:maven/org.sonarsource.xml/sonar-xml-plugin@2.0.0.2003?classifier=sources
 - pkg:maven/org.sonarsource.xml/sonar-xml-plugin@2.0.1.2020?classifier=sources
 - pkg:maven/org.sonarsource.xml/sonar-xml-plugin@2.1.0.2861?classifier=sources
+- pkg:maven/org.sonarsource.xml/sonar-xml-plugin@2.10.0.4108?classifier=sources
 - pkg:maven/org.sonarsource.xml/sonar-xml-plugin@2.2.0.2973?classifier=sources
 - pkg:maven/org.sonarsource.xml/sonar-xml-plugin@2.3.0.3155?classifier=sources
 - pkg:maven/org.sonarsource.xml/sonar-xml-plugin@2.4.0.3273?classifier=sources

@@ -30,6 +30,8 @@
 - pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-spring@2.10.0?classifier=sources
 - pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-spring@2.10.2
 - pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-spring@2.10.2?classifier=sources
+- pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-spring@2.10.3
+- pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-spring@2.10.3?classifier=sources
 - pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-spring@2.7.3
 - pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-spring@2.7.3?classifier=sources
 - pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-spring@2.7.4

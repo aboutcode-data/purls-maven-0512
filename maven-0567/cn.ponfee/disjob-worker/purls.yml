@@ -1,2 +1,6 @@
 - pkg:maven/cn.ponfee/disjob-worker@1.12
 - pkg:maven/cn.ponfee/disjob-worker@1.12?classifier=sources
+- pkg:maven/cn.ponfee/disjob-worker@2.0.0
+- pkg:maven/cn.ponfee/disjob-worker@2.0.0?classifier=sources
+- pkg:maven/cn.ponfee/disjob-worker@2.0.1
+- pkg:maven/cn.ponfee/disjob-worker@2.0.1?classifier=sources

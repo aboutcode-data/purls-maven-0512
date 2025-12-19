@@ -16,3 +16,13 @@
 - pkg:maven/com.github.bogdanovmn.cmdline/cmdline-app@2.1.3?classifier=sources
 - pkg:maven/com.github.bogdanovmn.cmdline/cmdline-app@2.2.0
 - pkg:maven/com.github.bogdanovmn.cmdline/cmdline-app@2.2.0?classifier=sources
+- pkg:maven/com.github.bogdanovmn.cmdline/cmdline-app@2.3.0
+- pkg:maven/com.github.bogdanovmn.cmdline/cmdline-app@2.3.0?classifier=sources
+- pkg:maven/com.github.bogdanovmn.cmdline/cmdline-app@3.0.0
+- pkg:maven/com.github.bogdanovmn.cmdline/cmdline-app@3.0.0?classifier=sources
+- pkg:maven/com.github.bogdanovmn.cmdline/cmdline-app@3.1.0
+- pkg:maven/com.github.bogdanovmn.cmdline/cmdline-app@3.1.0?classifier=sources
+- pkg:maven/com.github.bogdanovmn.cmdline/cmdline-app@3.1.1
+- pkg:maven/com.github.bogdanovmn.cmdline/cmdline-app@3.1.1.relocation
+- pkg:maven/com.github.bogdanovmn.cmdline/cmdline-app@3.1.1.relocation?classifier=sources
+- pkg:maven/com.github.bogdanovmn.cmdline/cmdline-app@3.1.1?classifier=sources

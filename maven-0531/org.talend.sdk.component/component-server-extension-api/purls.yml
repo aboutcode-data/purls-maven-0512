@@ -218,5 +218,7 @@
 - pkg:maven/org.talend.sdk.component/component-server-extension-api@1.58.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server-extension-api@1.59.0
 - pkg:maven/org.talend.sdk.component/component-server-extension-api@1.59.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-extension-api@1.60.0
+- pkg:maven/org.talend.sdk.component/component-server-extension-api@1.60.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server-extension-api@10.57.0
 - pkg:maven/org.talend.sdk.component/component-server-extension-api@10.57.0?classifier=sources

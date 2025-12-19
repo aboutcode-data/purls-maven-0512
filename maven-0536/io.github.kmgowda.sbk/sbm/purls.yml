@@ -3,3 +3,4 @@
 - pkg:maven/io.github.kmgowda.sbk/sbm@3.0-pre1?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/sbm@3.0?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/sbm@3.1?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/sbm@4.0?classifier=sources

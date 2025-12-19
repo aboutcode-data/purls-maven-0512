@@ -1,3 +1,4 @@
 - pkg:maven/com.baidubce.mediasdk/videocache@3.0.0?type=aar
 - pkg:maven/com.baidubce.mediasdk/videocache@3.5.0?type=aar
 - pkg:maven/com.baidubce.mediasdk/videocache@3.6.0?type=aar
+- pkg:maven/com.baidubce.mediasdk/videocache@3.7.0?type=aar

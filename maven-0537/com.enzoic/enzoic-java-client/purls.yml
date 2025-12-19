@@ -14,3 +14,5 @@
 - pkg:maven/com.enzoic/enzoic-java-client@3.4.0?classifier=sources
 - pkg:maven/com.enzoic/enzoic-java-client@3.5.0
 - pkg:maven/com.enzoic/enzoic-java-client@3.5.0?classifier=sources
+- pkg:maven/com.enzoic/enzoic-java-client@3.6.0
+- pkg:maven/com.enzoic/enzoic-java-client@3.6.0?classifier=sources

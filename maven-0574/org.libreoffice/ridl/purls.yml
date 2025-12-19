@@ -222,3 +222,7 @@
 - pkg:maven/org.libreoffice/ridl@7.5.2?classifier=sources
 - pkg:maven/org.libreoffice/ridl@7.5.3
 - pkg:maven/org.libreoffice/ridl@7.5.3?classifier=sources
+- pkg:maven/org.libreoffice/ridl@7.5.4
+- pkg:maven/org.libreoffice/ridl@7.5.4?classifier=sources
+- pkg:maven/org.libreoffice/ridl@7.6.0
+- pkg:maven/org.libreoffice/ridl@7.6.0?classifier=sources

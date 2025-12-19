@@ -1,0 +1,4 @@
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-metrics-impl@1.14.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-metrics-impl@1.14.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-metrics-impl@2.1.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-metrics-impl@2.1.0?classifier=sources

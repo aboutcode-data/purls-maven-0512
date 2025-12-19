@@ -18,4 +18,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form-refactoring@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form-refactoring@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form-refactoring@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-form-refactoring@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form-refactoring@RELEASE90?classifier=sources

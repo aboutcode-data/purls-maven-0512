@@ -156,3 +156,5 @@
 - pkg:maven/io.netty/netty-dev-tools@4.1.93.Final
 - pkg:maven/io.netty/netty-dev-tools@4.1.94.Final
 - pkg:maven/io.netty/netty-dev-tools@4.1.95.Final
+- pkg:maven/io.netty/netty-dev-tools@4.1.96.Final
+- pkg:maven/io.netty/netty-dev-tools@4.1.97.Final

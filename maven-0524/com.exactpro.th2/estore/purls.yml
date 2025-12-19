@@ -1,0 +1,2 @@
+- pkg:maven/com.exactpro.th2/estore@5.1.0-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/estore@5.2.0-dev?classifier=sources

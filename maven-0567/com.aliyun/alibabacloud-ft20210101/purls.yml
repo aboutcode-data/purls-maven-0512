@@ -1,3 +1,5 @@
+- pkg:maven/com.aliyun/alibabacloud-ft20210101@1.0.0
+- pkg:maven/com.aliyun/alibabacloud-ft20210101@1.0.0?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ft20210101@1.0.10
 - pkg:maven/com.aliyun/alibabacloud-ft20210101@1.0.10?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ft20210101@1.0.11

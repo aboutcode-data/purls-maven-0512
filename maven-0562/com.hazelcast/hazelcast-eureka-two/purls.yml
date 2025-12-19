@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast/hazelcast-eureka-two@3.0.0
+- pkg:maven/com.hazelcast/hazelcast-eureka-two@3.0.0?classifier=sources

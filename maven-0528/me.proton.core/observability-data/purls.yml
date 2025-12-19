@@ -14,6 +14,10 @@
 - pkg:maven/me.proton.core/observability-data@13.0.0?classifier=sources
 - pkg:maven/me.proton.core/observability-data@13.0.1?classifier=sources
 - pkg:maven/me.proton.core/observability-data@14.0.0?classifier=sources
+- pkg:maven/me.proton.core/observability-data@14.0.1?classifier=sources
+- pkg:maven/me.proton.core/observability-data@14.1.0?classifier=sources
+- pkg:maven/me.proton.core/observability-data@15.0.0?classifier=sources
+- pkg:maven/me.proton.core/observability-data@15.1.0?classifier=sources
 - pkg:maven/me.proton.core/observability-data@9.10.0?classifier=sources
 - pkg:maven/me.proton.core/observability-data@9.10.1?classifier=sources
 - pkg:maven/me.proton.core/observability-data@9.11.0?classifier=sources

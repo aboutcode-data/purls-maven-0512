@@ -1,0 +1,1 @@
+- pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint-bom@3.3.8?classifier=sources

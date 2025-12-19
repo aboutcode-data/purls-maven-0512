@@ -1,0 +1,2 @@
+- pkg:maven/com.openmobilehub.android/storage-api-drive-gms@1.0.6-beta?classifier=sources
+- pkg:maven/com.openmobilehub.android/storage-api-drive-gms@1.0.7-beta?classifier=sources

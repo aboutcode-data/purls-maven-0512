@@ -1,0 +1,2 @@
+- pkg:maven/com.r3.corda.lib.tokens/tokens-contracts@1.2.5
+- pkg:maven/com.r3.corda.lib.tokens/tokens-contracts@1.2.5?classifier=sources

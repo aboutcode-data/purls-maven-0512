@@ -124,3 +124,5 @@
 - pkg:maven/org.jfrog.buildinfo/build-info-api@2.41.2?classifier=sources
 - pkg:maven/org.jfrog.buildinfo/build-info-api@2.41.3
 - pkg:maven/org.jfrog.buildinfo/build-info-api@2.41.3?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-api@2.41.4
+- pkg:maven/org.jfrog.buildinfo/build-info-api@2.41.4?classifier=sources
