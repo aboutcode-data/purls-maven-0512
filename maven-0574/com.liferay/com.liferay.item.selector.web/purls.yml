@@ -147,6 +147,7 @@
 - pkg:maven/com.liferay/com.liferay.item.selector.web@3.0.43
 - pkg:maven/com.liferay/com.liferay.item.selector.web@3.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.web@3.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.item.selector.web@3.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.web@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.web@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.item.selector.web@3.0.5
@@ -267,6 +268,7 @@
 - pkg:maven/com.liferay/com.liferay.item.selector.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.item.selector.web@4.0.4
 - pkg:maven/com.liferay/com.liferay.item.selector.web@4.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.item.selector.web@4.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.web@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.web@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.item.selector.web@4.0.5
@@ -389,6 +391,7 @@
 - pkg:maven/com.liferay/com.liferay.item.selector.web@5.0.4
 - pkg:maven/com.liferay/com.liferay.item.selector.web@5.0.40
 - pkg:maven/com.liferay/com.liferay.item.selector.web@5.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.item.selector.web@5.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.web@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.web@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.item.selector.web@5.0.5
@@ -526,6 +529,7 @@
 - pkg:maven/com.liferay/com.liferay.item.selector.web@6.0.44?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.item.selector.web@6.0.45
 - pkg:maven/com.liferay/com.liferay.item.selector.web@6.0.45?classifier=sources
+- pkg:maven/com.liferay/com.liferay.item.selector.web@6.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.web@6.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.web@6.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.item.selector.web@6.0.5
@@ -670,6 +674,7 @@
 - pkg:maven/com.liferay/com.liferay.item.selector.web@7.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.web@7.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.item.selector.web@7.0.5
+- pkg:maven/com.liferay/com.liferay.item.selector.web@7.0.50?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.web@7.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.web@7.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.item.selector.web@7.0.6

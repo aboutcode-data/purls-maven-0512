@@ -2,3 +2,5 @@
 - pkg:maven/hu.icellmobilsoft.wdc/wdc-calculator-core-dto@1.1.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.wdc/wdc-calculator-core-dto@1.2.0
 - pkg:maven/hu.icellmobilsoft.wdc/wdc-calculator-core-dto@1.2.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.wdc/wdc-calculator-core-dto@1.3.0
+- pkg:maven/hu.icellmobilsoft.wdc/wdc-calculator-core-dto@1.3.0?classifier=sources

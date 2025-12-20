@@ -198,3 +198,5 @@
 - pkg:maven/org.apache.karaf.jaas/org.apache.karaf.jaas.command@4.4.3?classifier=sources
 - pkg:maven/org.apache.karaf.jaas/org.apache.karaf.jaas.command@4.4.4
 - pkg:maven/org.apache.karaf.jaas/org.apache.karaf.jaas.command@4.4.4?classifier=sources
+- pkg:maven/org.apache.karaf.jaas/org.apache.karaf.jaas.command@4.4.5
+- pkg:maven/org.apache.karaf.jaas/org.apache.karaf.jaas.command@4.4.5?classifier=sources

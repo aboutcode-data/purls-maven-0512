@@ -1,0 +1,6 @@
+- pkg:maven/org.qaddict/qaddict-validation@0.5-BETA
+- pkg:maven/org.qaddict/qaddict-validation@0.5-BETA?classifier=sources
+- pkg:maven/org.qaddict/qaddict-validation@0.6-BETA
+- pkg:maven/org.qaddict/qaddict-validation@0.6-BETA?classifier=sources
+- pkg:maven/org.qaddict/qaddict-validation@0.7-BETA
+- pkg:maven/org.qaddict/qaddict-validation@0.7-BETA?classifier=sources

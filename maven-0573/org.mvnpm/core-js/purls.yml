@@ -25,3 +25,4 @@
 - pkg:maven/org.mvnpm/core-js@3.33.2?classifier=sources
 - pkg:maven/org.mvnpm/core-js@3.33.3?classifier=sources
 - pkg:maven/org.mvnpm/core-js@3.34.0?classifier=sources
+- pkg:maven/org.mvnpm/core-js@3.35.0?classifier=sources

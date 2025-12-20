@@ -3,3 +3,4 @@
 - pkg:maven/com.dua3.cabe/cabe-annotations@1.0.0-RC6?classifier=sources
 - pkg:maven/com.dua3.cabe/cabe-annotations@1.0.0-RC7?classifier=sources
 - pkg:maven/com.dua3.cabe/cabe-annotations@1.0.0?classifier=sources
+- pkg:maven/com.dua3.cabe/cabe-annotations@2.0?classifier=sources

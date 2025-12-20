@@ -18,3 +18,5 @@
 - pkg:maven/org.mojoz/mojoz_2.13@4.2.0?classifier=sources
 - pkg:maven/org.mojoz/mojoz_2.13@5.0.0
 - pkg:maven/org.mojoz/mojoz_2.13@5.0.0?classifier=sources
+- pkg:maven/org.mojoz/mojoz_2.13@5.1.0
+- pkg:maven/org.mojoz/mojoz_2.13@5.1.0?classifier=sources

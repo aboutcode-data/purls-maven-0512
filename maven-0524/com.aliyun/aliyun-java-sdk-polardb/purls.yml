@@ -125,6 +125,12 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-polardb@1.8.42?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-polardb@1.8.43
 - pkg:maven/com.aliyun/aliyun-java-sdk-polardb@1.8.43?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardb@1.8.44
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardb@1.8.44?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardb@1.8.45
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardb@1.8.45?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardb@1.8.46
+- pkg:maven/com.aliyun/aliyun-java-sdk-polardb@1.8.46?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-polardb@1.8.4?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-polardb@1.8.5
 - pkg:maven/com.aliyun/aliyun-java-sdk-polardb@1.8.5?classifier=sources

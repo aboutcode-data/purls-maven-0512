@@ -113,6 +113,7 @@
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@2.0.37
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@2.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@2.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.my.sites.web@2.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@2.0.4
@@ -196,6 +197,7 @@
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@3.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@3.0.28
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@3.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.my.sites.web@3.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@3.0.3
@@ -324,6 +326,7 @@
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@4.0.4
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@4.0.40
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@4.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.my.sites.web@4.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@4.0.5
@@ -435,6 +438,7 @@
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@5.0.37
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@5.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@5.0.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.my.sites.web@5.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@5.0.4
@@ -540,6 +544,7 @@
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@6.0.34
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@6.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@6.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.my.sites.web@6.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@6.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@6.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.my.sites.web@6.0.4

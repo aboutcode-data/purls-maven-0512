@@ -1,6 +1,10 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/ctrlx-reporter@1.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/ctrlx-reporter@1.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/ctrlx-reporter@1.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/ctrlx-reporter@10.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/ctrlx-reporter@11.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/ctrlx-reporter@12.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/ctrlx-reporter@13.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/ctrlx-reporter@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/ctrlx-reporter@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/ctrlx-reporter@4.0.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/swagger-editor-dist@4.10.2?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-editor-dist@4.11.2
 - pkg:maven/org.webjars.npm/swagger-editor-dist@4.11.2?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-editor-dist@4.12.1
+- pkg:maven/org.webjars.npm/swagger-editor-dist@4.12.1?classifier=sources

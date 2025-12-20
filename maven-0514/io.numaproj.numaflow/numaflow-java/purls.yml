@@ -20,3 +20,5 @@
 - pkg:maven/io.numaproj.numaflow/numaflow-java@0.5.5?classifier=sources
 - pkg:maven/io.numaproj.numaflow/numaflow-java@0.5.6
 - pkg:maven/io.numaproj.numaflow/numaflow-java@0.5.6?classifier=sources
+- pkg:maven/io.numaproj.numaflow/numaflow-java@0.6.0
+- pkg:maven/io.numaproj.numaflow/numaflow-java@0.6.0?classifier=sources

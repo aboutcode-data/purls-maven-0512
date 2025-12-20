@@ -1,1 +1,2 @@
 - pkg:maven/io.dingodb.expr/dingo-expr-json@0.7.0?classifier=sources
+- pkg:maven/io.dingodb.expr/dingo-expr-json@0.7.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.eotsevych/select2-java-selenium@1.0
+- pkg:maven/io.github.eotsevych/select2-java-selenium@1.0?classifier=sources
+- pkg:maven/io.github.eotsevych/select2-java-selenium@1.1.4
+- pkg:maven/io.github.eotsevych/select2-java-selenium@1.1.4?classifier=sources

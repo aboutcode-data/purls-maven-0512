@@ -85,6 +85,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.taglib@2.2.22
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.taglib@2.2.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.taglib@2.2.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.taglib@2.2.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.taglib@2.2.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.taglib@2.2.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.taglib@2.2.3

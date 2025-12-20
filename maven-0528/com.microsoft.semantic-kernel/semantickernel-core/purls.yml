@@ -1,4 +1,5 @@
 - pkg:maven/com.microsoft.semantic-kernel/semantickernel-core@0.2.11-alpha?classifier=sources
+- pkg:maven/com.microsoft.semantic-kernel/semantickernel-core@0.2.13-alpha?classifier=sources
 - pkg:maven/com.microsoft.semantic-kernel/semantickernel-core@0.2.6-alpha?classifier=sources
 - pkg:maven/com.microsoft.semantic-kernel/semantickernel-core@0.2.7-alpha?classifier=sources
 - pkg:maven/com.microsoft.semantic-kernel/semantickernel-core@0.2.8-alpha?classifier=sources

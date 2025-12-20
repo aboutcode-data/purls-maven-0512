@@ -65,6 +65,7 @@
 - pkg:maven/com.liferay/com.liferay.asset.display.web@1.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.display.web@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.display.web@1.0.3
+- pkg:maven/com.liferay/com.liferay.asset.display.web@1.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.display.web@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.display.web@1.0.4
 - pkg:maven/com.liferay/com.liferay.asset.display.web@1.0.4?classifier=sources
@@ -122,6 +123,7 @@
 - pkg:maven/com.liferay/com.liferay.asset.display.web@2.0.2
 - pkg:maven/com.liferay/com.liferay.asset.display.web@2.0.20
 - pkg:maven/com.liferay/com.liferay.asset.display.web@2.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.display.web@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.display.web@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.display.web@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.display.web@2.0.3
@@ -190,6 +192,7 @@
 - pkg:maven/com.liferay/com.liferay.asset.display.web@3.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.display.web@3.0.22
 - pkg:maven/com.liferay/com.liferay.asset.display.web@3.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.display.web@3.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.display.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.display.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.display.web@3.0.3
@@ -259,6 +262,7 @@
 - pkg:maven/com.liferay/com.liferay.asset.display.web@4.0.22
 - pkg:maven/com.liferay/com.liferay.asset.display.web@4.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.display.web@4.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.display.web@4.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.display.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.display.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.display.web@4.0.3

@@ -1,3 +1,5 @@
+- pkg:maven/me.effegi/speedy-spotless-maven-plugin@0.1.10
+- pkg:maven/me.effegi/speedy-spotless-maven-plugin@0.1.10?classifier=sources
 - pkg:maven/me.effegi/speedy-spotless-maven-plugin@0.1.7
 - pkg:maven/me.effegi/speedy-spotless-maven-plugin@0.1.7?classifier=sources
 - pkg:maven/me.effegi/speedy-spotless-maven-plugin@0.1.8

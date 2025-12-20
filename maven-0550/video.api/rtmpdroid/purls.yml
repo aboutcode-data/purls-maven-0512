@@ -1,0 +1,4 @@
+- pkg:maven/video.api/rtmpdroid@1.2.0-packed?classifier=sources
+- pkg:maven/video.api/rtmpdroid@1.2.0?classifier=sources
+- pkg:maven/video.api/rtmpdroid@1.2.1-packed?classifier=sources
+- pkg:maven/video.api/rtmpdroid@1.2.1?classifier=sources

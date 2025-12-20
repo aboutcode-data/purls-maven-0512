@@ -1024,3 +1024,7 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.913?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.915
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.915?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.918
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.918?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.936
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.936?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/me.2bab/scratchpaper@3.1.0?classifier=sources
 - pkg:maven/me.2bab/scratchpaper@3.2.0?classifier=sources
 - pkg:maven/me.2bab/scratchpaper@3.2.1?classifier=sources
+- pkg:maven/me.2bab/scratchpaper@3.3.0?classifier=sources

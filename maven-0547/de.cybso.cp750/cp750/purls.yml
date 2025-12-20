@@ -1,0 +1,2 @@
+- pkg:maven/de.cybso.cp750/cp750@0.1?classifier=sources
+- pkg:maven/de.cybso.cp750/cp750@0.2?classifier=sources

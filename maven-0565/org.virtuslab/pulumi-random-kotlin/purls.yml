@@ -4,4 +4,5 @@
 - pkg:maven/org.virtuslab/pulumi-random-kotlin@4.13.3.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-random-kotlin@4.13.4.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-random-kotlin@4.14.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-random-kotlin@4.15.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-random-kotlin@4.9.0.0-alpha.1659029910%2Be3dd1924?classifier=sources

@@ -33,4 +33,5 @@
 - pkg:maven/org.bdware.sc/cp@1.9.7?classifier=sources
 - pkg:maven/org.bdware.sc/cp@1.9.91?classifier=sources
 - pkg:maven/org.bdware.sc/cp@1.9.95?classifier=sources
+- pkg:maven/org.bdware.sc/cp@1.9.96?classifier=sources
 - pkg:maven/org.bdware.sc/cp@1.9.9?classifier=sources

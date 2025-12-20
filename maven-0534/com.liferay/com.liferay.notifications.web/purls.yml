@@ -210,6 +210,7 @@
 - pkg:maven/com.liferay/com.liferay.notifications.web@1.0.79?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.notifications.web@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notifications.web@1.0.8
+- pkg:maven/com.liferay/com.liferay.notifications.web@1.0.80?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notifications.web@1.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notifications.web@1.0.9
 - pkg:maven/com.liferay/com.liferay.notifications.web@1.0.9?classifier=sources
@@ -339,6 +340,7 @@
 - pkg:maven/com.liferay/com.liferay.notifications.web@2.0.46?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.notifications.web@2.0.47
 - pkg:maven/com.liferay/com.liferay.notifications.web@2.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.notifications.web@2.0.48?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notifications.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notifications.web@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.notifications.web@2.0.5
@@ -491,6 +493,7 @@
 - pkg:maven/com.liferay/com.liferay.notifications.web@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notifications.web@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.notifications.web@3.0.5
+- pkg:maven/com.liferay/com.liferay.notifications.web@3.0.50?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notifications.web@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notifications.web@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.notifications.web@3.0.6
@@ -610,6 +613,7 @@
 - pkg:maven/com.liferay/com.liferay.notifications.web@4.0.4
 - pkg:maven/com.liferay/com.liferay.notifications.web@4.0.40
 - pkg:maven/com.liferay/com.liferay.notifications.web@4.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.notifications.web@4.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notifications.web@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notifications.web@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.notifications.web@4.0.5
@@ -755,6 +759,7 @@
 - pkg:maven/com.liferay/com.liferay.notifications.web@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.notifications.web@5.0.5
 - pkg:maven/com.liferay/com.liferay.notifications.web@5.0.50?classifier=sources
+- pkg:maven/com.liferay/com.liferay.notifications.web@5.0.51?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notifications.web@5.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notifications.web@5.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.notifications.web@5.0.6

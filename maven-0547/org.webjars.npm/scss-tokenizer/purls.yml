@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/scss-tokenizer@0.2.3
 - pkg:maven/org.webjars.npm/scss-tokenizer@0.2.3?classifier=sources
+- pkg:maven/org.webjars.npm/scss-tokenizer@0.4.3
+- pkg:maven/org.webjars.npm/scss-tokenizer@0.4.3?classifier=sources

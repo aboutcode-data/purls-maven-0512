@@ -1,0 +1,2 @@
+- pkg:maven/com.dispalt.redux/tagless-redux-encoder-pekko_2.13@0.4.0
+- pkg:maven/com.dispalt.redux/tagless-redux-encoder-pekko_2.13@0.4.0?classifier=sources

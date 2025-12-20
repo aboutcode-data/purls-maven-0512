@@ -16,3 +16,5 @@
 - pkg:maven/net.quasardb/kinesis@3.13.7?classifier=sources
 - pkg:maven/net.quasardb/kinesis@3.14.0
 - pkg:maven/net.quasardb/kinesis@3.14.0?classifier=sources
+- pkg:maven/net.quasardb/kinesis@3.14.1
+- pkg:maven/net.quasardb/kinesis@3.14.1?classifier=sources

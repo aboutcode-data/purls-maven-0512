@@ -160,3 +160,5 @@
 - pkg:maven/com.ardikars.pcap/pcap-common@1.4.2?classifier=sources
 - pkg:maven/com.ardikars.pcap/pcap-common@1.5.0
 - pkg:maven/com.ardikars.pcap/pcap-common@1.5.0?classifier=sources
+- pkg:maven/com.ardikars.pcap/pcap-common@1.5.1
+- pkg:maven/com.ardikars.pcap/pcap-common@1.5.1?classifier=sources

@@ -242,3 +242,5 @@
 - pkg:maven/io.sentry/sentry-kotlin-extensions@7.0.0-rc.2
 - pkg:maven/io.sentry/sentry-kotlin-extensions@7.0.0-rc.2?classifier=sources
 - pkg:maven/io.sentry/sentry-kotlin-extensions@7.0.0?classifier=sources
+- pkg:maven/io.sentry/sentry-kotlin-extensions@7.1.0
+- pkg:maven/io.sentry/sentry-kotlin-extensions@7.1.0?classifier=sources

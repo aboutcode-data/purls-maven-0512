@@ -2,6 +2,7 @@
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-containers-servlet@2.0.3?type=war
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-containers-servlet@2.0.4?type=war
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-containers-servlet@2.0.5?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-containers-servlet@2.0.6?type=war
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-containers-servlet@2.1.0-M1?type=war
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-containers-servlet@2.1.0-M2?type=war
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-containers-servlet@2.1.0-M4?type=war
@@ -10,3 +11,4 @@
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-containers-servlet@2.1.2?type=war
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-containers-servlet@2.1.3?type=war
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-containers-servlet@2.1.4?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-containers-servlet@2.1.5?type=war

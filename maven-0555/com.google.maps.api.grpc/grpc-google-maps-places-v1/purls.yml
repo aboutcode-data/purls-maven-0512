@@ -1,0 +1,2 @@
+- pkg:maven/com.google.maps.api.grpc/grpc-google-maps-places-v1@0.2.0
+- pkg:maven/com.google.maps.api.grpc/grpc-google-maps-places-v1@0.2.0?classifier=sources

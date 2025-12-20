@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.tomee.bom/tomee-plume@9.1.0?classifier=sources
 - pkg:maven/org.apache.tomee.bom/tomee-plume@9.1.1
 - pkg:maven/org.apache.tomee.bom/tomee-plume@9.1.1?classifier=sources
+- pkg:maven/org.apache.tomee.bom/tomee-plume@9.1.2
+- pkg:maven/org.apache.tomee.bom/tomee-plume@9.1.2?classifier=sources

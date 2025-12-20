@@ -465,3 +465,5 @@
 - pkg:maven/io.quarkus/quarkus-elytron-security-common-deployment@3.6.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-elytron-security-common-deployment@3.6.3
 - pkg:maven/io.quarkus/quarkus-elytron-security-common-deployment@3.6.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-elytron-security-common-deployment@3.6.4
+- pkg:maven/io.quarkus/quarkus-elytron-security-common-deployment@3.6.4?classifier=sources

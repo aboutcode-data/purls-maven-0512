@@ -1,0 +1,4 @@
+- pkg:maven/org.jline/jansi-core@3.25.0
+- pkg:maven/org.jline/jansi-core@3.25.0?classifier=sources
+- pkg:maven/org.jline/jansi-core@3.25.1
+- pkg:maven/org.jline/jansi-core@3.25.1?classifier=sources

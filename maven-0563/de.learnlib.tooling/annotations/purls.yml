@@ -1,0 +1,2 @@
+- pkg:maven/de.learnlib.tooling/annotations@0.1
+- pkg:maven/de.learnlib.tooling/annotations@0.1?classifier=sources

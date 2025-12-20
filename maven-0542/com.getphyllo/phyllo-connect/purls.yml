@@ -38,3 +38,5 @@
 - pkg:maven/com.getphyllo/phyllo-connect@0.3.2?type=aar
 - pkg:maven/com.getphyllo/phyllo-connect@0.3.3?classifier=sources
 - pkg:maven/com.getphyllo/phyllo-connect@0.3.3?type=aar
+- pkg:maven/com.getphyllo/phyllo-connect@0.3.4?classifier=sources
+- pkg:maven/com.getphyllo/phyllo-connect@0.3.4?type=aar

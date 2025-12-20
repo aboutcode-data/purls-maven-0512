@@ -7,3 +7,5 @@
 - pkg:maven/io.adapty/android-sdk@2.6.2?classifier=sources
 - pkg:maven/io.adapty/android-sdk@2.7.0?classifier=sources
 - pkg:maven/io.adapty/android-sdk@2.8.0?classifier=sources
+- pkg:maven/io.adapty/android-sdk@2.9.0?classifier=sources
+- pkg:maven/io.adapty/android-sdk@2.9.1?classifier=sources

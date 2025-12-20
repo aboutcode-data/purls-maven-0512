@@ -1,0 +1,2 @@
+- pkg:maven/net.isger/velocity@1.7
+- pkg:maven/net.isger/velocity@1.7?classifier=sources

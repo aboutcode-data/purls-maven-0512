@@ -21,6 +21,8 @@
 - pkg:maven/de.tototec/de.tobiasroeser.mill.spring.boot.worker_mill0.10_2.13@0.0.1-12-fd89f9?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.spring.boot.worker_mill0.10_2.13@0.0.1-13-adc0ff
 - pkg:maven/de.tototec/de.tobiasroeser.mill.spring.boot.worker_mill0.10_2.13@0.0.1-13-adc0ff?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.spring.boot.worker_mill0.10_2.13@0.0.1-16-6afabf
+- pkg:maven/de.tototec/de.tobiasroeser.mill.spring.boot.worker_mill0.10_2.13@0.0.1-16-6afabf?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.spring.boot.worker_mill0.10_2.13@0.0.1-2-966ef8
 - pkg:maven/de.tototec/de.tobiasroeser.mill.spring.boot.worker_mill0.10_2.13@0.0.1-2-966ef8?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.spring.boot.worker_mill0.10_2.13@0.0.1-3-a936c7

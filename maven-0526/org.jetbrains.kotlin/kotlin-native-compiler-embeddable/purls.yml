@@ -1,0 +1,2 @@
+- pkg:maven/org.jetbrains.kotlin/kotlin-native-compiler-embeddable@2.0.0-Beta2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-native-compiler-embeddable@2.0.0-Beta3?classifier=sources

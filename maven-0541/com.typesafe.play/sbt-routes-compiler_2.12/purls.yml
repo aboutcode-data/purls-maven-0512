@@ -168,3 +168,5 @@
 - pkg:maven/com.typesafe.play/sbt-routes-compiler_2.12@2.9.0-RC3
 - pkg:maven/com.typesafe.play/sbt-routes-compiler_2.12@2.9.0-RC3?classifier=sources
 - pkg:maven/com.typesafe.play/sbt-routes-compiler_2.12@2.9.0?classifier=sources
+- pkg:maven/com.typesafe.play/sbt-routes-compiler_2.12@2.9.1
+- pkg:maven/com.typesafe.play/sbt-routes-compiler_2.12@2.9.1?classifier=sources

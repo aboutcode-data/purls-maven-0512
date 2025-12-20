@@ -1,0 +1,3 @@
+- pkg:maven/me.saket.filesize/filesize@1.0.0?classifier=sources
+- pkg:maven/me.saket.filesize/filesize@1.1.0?classifier=sources
+- pkg:maven/me.saket.filesize/filesize@1.2.0?classifier=sources

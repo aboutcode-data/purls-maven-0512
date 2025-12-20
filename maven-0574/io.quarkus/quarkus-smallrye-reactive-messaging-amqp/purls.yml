@@ -500,3 +500,5 @@
 - pkg:maven/io.quarkus/quarkus-smallrye-reactive-messaging-amqp@3.6.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-smallrye-reactive-messaging-amqp@3.6.3
 - pkg:maven/io.quarkus/quarkus-smallrye-reactive-messaging-amqp@3.6.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-smallrye-reactive-messaging-amqp@3.6.4
+- pkg:maven/io.quarkus/quarkus-smallrye-reactive-messaging-amqp@3.6.4?classifier=sources

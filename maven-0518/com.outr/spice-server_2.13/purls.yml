@@ -98,3 +98,9 @@
 - pkg:maven/com.outr/spice-server_2.13@0.1.9?classifier=sources
 - pkg:maven/com.outr/spice-server_2.13@0.2.0
 - pkg:maven/com.outr/spice-server_2.13@0.2.0?classifier=sources
+- pkg:maven/com.outr/spice-server_2.13@0.3.0
+- pkg:maven/com.outr/spice-server_2.13@0.3.0?classifier=sources
+- pkg:maven/com.outr/spice-server_2.13@0.4.0
+- pkg:maven/com.outr/spice-server_2.13@0.4.0?classifier=sources
+- pkg:maven/com.outr/spice-server_2.13@0.4.1
+- pkg:maven/com.outr/spice-server_2.13@0.4.1?classifier=sources

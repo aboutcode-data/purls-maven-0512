@@ -160,3 +160,5 @@
 - pkg:maven/io.trino/trino-server-dev@433?classifier=sources
 - pkg:maven/io.trino/trino-server-dev@434
 - pkg:maven/io.trino/trino-server-dev@434?classifier=sources
+- pkg:maven/io.trino/trino-server-dev@435
+- pkg:maven/io.trino/trino-server-dev@435?classifier=sources

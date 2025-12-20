@@ -18,3 +18,7 @@
 - pkg:maven/com.pighand/pighand-framework-spring@1.2.3?classifier=sources
 - pkg:maven/com.pighand/pighand-framework-spring@2.0.0-bate.1.20231121
 - pkg:maven/com.pighand/pighand-framework-spring@2.0.0-bate.1.20231121?classifier=sources
+- pkg:maven/com.pighand/pighand-framework-spring@2.0.0-bate.1.20231210
+- pkg:maven/com.pighand/pighand-framework-spring@2.0.0-bate.1.20231210?classifier=sources
+- pkg:maven/com.pighand/pighand-framework-spring@2.0.0-bate.1.20231229
+- pkg:maven/com.pighand/pighand-framework-spring@2.0.0-bate.1.20231229?classifier=sources

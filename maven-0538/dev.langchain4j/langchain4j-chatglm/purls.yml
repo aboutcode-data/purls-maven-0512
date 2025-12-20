@@ -1,0 +1,2 @@
+- pkg:maven/dev.langchain4j/langchain4j-chatglm@0.25.0
+- pkg:maven/dev.langchain4j/langchain4j-chatglm@0.25.0?classifier=sources

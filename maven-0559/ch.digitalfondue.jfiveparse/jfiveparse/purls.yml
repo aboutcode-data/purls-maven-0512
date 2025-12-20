@@ -36,3 +36,5 @@
 - pkg:maven/ch.digitalfondue.jfiveparse/jfiveparse@0.9.0?classifier=sources
 - pkg:maven/ch.digitalfondue.jfiveparse/jfiveparse@1.0.0
 - pkg:maven/ch.digitalfondue.jfiveparse/jfiveparse@1.0.0?classifier=sources
+- pkg:maven/ch.digitalfondue.jfiveparse/jfiveparse@1.0.1
+- pkg:maven/ch.digitalfondue.jfiveparse/jfiveparse@1.0.1?classifier=sources

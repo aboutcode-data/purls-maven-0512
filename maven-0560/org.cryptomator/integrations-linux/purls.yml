@@ -44,3 +44,5 @@
 - pkg:maven/org.cryptomator/integrations-linux@1.4.0-beta2
 - pkg:maven/org.cryptomator/integrations-linux@1.4.0-beta2?classifier=sources
 - pkg:maven/org.cryptomator/integrations-linux@1.4.0?classifier=sources
+- pkg:maven/org.cryptomator/integrations-linux@1.4.1
+- pkg:maven/org.cryptomator/integrations-linux@1.4.1?classifier=sources

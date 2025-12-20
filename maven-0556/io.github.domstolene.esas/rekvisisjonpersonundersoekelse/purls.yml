@@ -1,12 +1,20 @@
+- pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@01122023.6bab310
+- pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@04122023.c3c54aa
+- pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@05122023.8beffb4
+- pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@06122023.39603c1
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@07112023.2804bfd
+- pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@08122023.2998ab6
+- pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@08122023.6a82b59
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@09112023.a42051b
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@09112023.bf8eaf9
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@09112023.d1e6333
+- pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@12122023.262f23b
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@13102023.058a3e8
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@13102023.a114aeb
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@13102023.b0aaa6b
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@17102023.c1096fe
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@18102023.84f0299
+- pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@20122023.35f1ccf
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@21112023.261c569
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@22112023.0d5990c
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@22112023.4d56606
@@ -14,3 +22,6 @@
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@23102023.c1dd36a
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@23112023.fabc69e
 - pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@24102023.c0a697a
+- pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@29112023.5d51bfa
+- pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@30112023.85a0f5d
+- pkg:maven/io.github.domstolene.esas/rekvisisjonpersonundersoekelse@30112023.d5aedab

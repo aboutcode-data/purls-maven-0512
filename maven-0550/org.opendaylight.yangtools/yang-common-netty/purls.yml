@@ -21,6 +21,11 @@
 - pkg:maven/org.opendaylight.yangtools/yang-common-netty@11.0.3?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-common-netty@11.0.4
 - pkg:maven/org.opendaylight.yangtools/yang-common-netty@11.0.4?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-common-netty@11.0.5
+- pkg:maven/org.opendaylight.yangtools/yang-common-netty@11.0.5?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-common-netty@12.0.0?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-common-netty@13.0.0?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-common-netty@13.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-common-netty@4.0.10
 - pkg:maven/org.opendaylight.yangtools/yang-common-netty@4.0.10?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-common-netty@4.0.11
