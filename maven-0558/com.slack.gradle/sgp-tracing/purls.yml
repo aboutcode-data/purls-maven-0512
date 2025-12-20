@@ -32,3 +32,6 @@
 - pkg:maven/com.slack.gradle/sgp-tracing@0.15.7?classifier=sources
 - pkg:maven/com.slack.gradle/sgp-tracing@0.15.8?classifier=sources
 - pkg:maven/com.slack.gradle/sgp-tracing@0.15.9?classifier=sources
+- pkg:maven/com.slack.gradle/sgp-tracing@0.16.0?classifier=sources
+- pkg:maven/com.slack.gradle/sgp-tracing@0.16.1?classifier=sources
+- pkg:maven/com.slack.gradle/sgp-tracing@0.16.2?classifier=sources

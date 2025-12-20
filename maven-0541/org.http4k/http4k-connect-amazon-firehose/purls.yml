@@ -6,6 +6,9 @@
 - pkg:maven/org.http4k/http4k-connect-amazon-firehose@5.1.6.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-firehose@5.1.6.1?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-firehose@5.1.6.2?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-firehose@5.10.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-firehose@5.10.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-firehose@5.11.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-firehose@5.2.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-firehose@5.2.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-firehose@5.2.3.0?classifier=sources
@@ -34,3 +37,4 @@
 - pkg:maven/org.http4k/http4k-connect-amazon-firehose@5.6.9.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-firehose@5.7.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-firehose@5.8.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-firehose@5.9.0.0?classifier=sources

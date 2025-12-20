@@ -19,3 +19,6 @@
 - pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.24?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.25?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.26?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.27?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.28.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lincheck-jvm@2.28?classifier=sources

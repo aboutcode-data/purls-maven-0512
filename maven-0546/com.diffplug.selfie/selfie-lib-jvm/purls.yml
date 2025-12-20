@@ -10,3 +10,4 @@
 - pkg:maven/com.diffplug.selfie/selfie-lib-jvm@1.2.0?classifier=sources
 - pkg:maven/com.diffplug.selfie/selfie-lib-jvm@2.0.0?classifier=sources
 - pkg:maven/com.diffplug.selfie/selfie-lib-jvm@2.0.1?classifier=sources
+- pkg:maven/com.diffplug.selfie/selfie-lib-jvm@2.0.2?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/org.moeaframework/jmetal-plugin@6.0.1?classifier=sources
 - pkg:maven/org.moeaframework/jmetal-plugin@6.1.0?classifier=sources
 - pkg:maven/org.moeaframework/jmetal-plugin@6.2.0?classifier=sources
+- pkg:maven/org.moeaframework/jmetal-plugin@6.2.1?classifier=sources

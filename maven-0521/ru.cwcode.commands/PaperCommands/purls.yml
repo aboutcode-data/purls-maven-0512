@@ -1,0 +1,2 @@
+- pkg:maven/ru.cwcode.commands/PaperCommands@1.1.1
+- pkg:maven/ru.cwcode.commands/PaperCommands@1.1.1?classifier=sources

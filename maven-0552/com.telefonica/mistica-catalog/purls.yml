@@ -9,6 +9,7 @@
 - pkg:maven/com.telefonica/mistica-catalog@11.2.0?classifier=sources
 - pkg:maven/com.telefonica/mistica-catalog@11.2.1?classifier=sources
 - pkg:maven/com.telefonica/mistica-catalog@11.2.2?classifier=sources
+- pkg:maven/com.telefonica/mistica-catalog@11.3.2?classifier=sources
 - pkg:maven/com.telefonica/mistica-catalog@2.0.3?classifier=sources
 - pkg:maven/com.telefonica/mistica-catalog@2.0.4?classifier=sources
 - pkg:maven/com.telefonica/mistica-catalog@2.1.0?classifier=sources

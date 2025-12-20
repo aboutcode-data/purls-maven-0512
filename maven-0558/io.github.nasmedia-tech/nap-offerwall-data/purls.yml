@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nasmedia-tech/nap-offerwall-data@0.0.21?classifier=sources
+- pkg:maven/io.github.nasmedia-tech/nap-offerwall-data@0?classifier=sources

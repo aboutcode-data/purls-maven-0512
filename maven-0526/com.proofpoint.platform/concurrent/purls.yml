@@ -442,3 +442,5 @@
 - pkg:maven/com.proofpoint.platform/concurrent@3.18?classifier=sources
 - pkg:maven/com.proofpoint.platform/concurrent@3.20
 - pkg:maven/com.proofpoint.platform/concurrent@3.20?classifier=sources
+- pkg:maven/com.proofpoint.platform/concurrent@3.21
+- pkg:maven/com.proofpoint.platform/concurrent@3.21?classifier=sources

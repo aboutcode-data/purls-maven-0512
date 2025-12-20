@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/linkify-it@3.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/linkify-it@4.0.1
 - pkg:maven/org.webjars.npm/linkify-it@4.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/linkify-it@5.0.0
+- pkg:maven/org.webjars.npm/linkify-it@5.0.0?classifier=sources

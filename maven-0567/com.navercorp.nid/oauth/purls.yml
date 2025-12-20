@@ -11,3 +11,4 @@
 - pkg:maven/com.navercorp.nid/oauth@5.7.0?classifier=sources
 - pkg:maven/com.navercorp.nid/oauth@5.8.0?classifier=sources
 - pkg:maven/com.navercorp.nid/oauth@5.9.0?classifier=sources
+- pkg:maven/com.navercorp.nid/oauth@5.9.1?classifier=sources

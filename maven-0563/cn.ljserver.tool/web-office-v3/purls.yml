@@ -1,0 +1,2 @@
+- pkg:maven/cn.ljserver.tool/web-office-v3@1.0.0-RELEASE
+- pkg:maven/cn.ljserver.tool/web-office-v3@1.0.0-RELEASE?classifier=sources

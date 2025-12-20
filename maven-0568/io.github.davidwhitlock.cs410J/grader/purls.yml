@@ -30,3 +30,5 @@
 - pkg:maven/io.github.davidwhitlock.cs410J/grader@2023.1.0?classifier=sources
 - pkg:maven/io.github.davidwhitlock.cs410J/grader@2024.0.0
 - pkg:maven/io.github.davidwhitlock.cs410J/grader@2024.0.0?classifier=sources
+- pkg:maven/io.github.davidwhitlock.cs410J/grader@2024.0.1
+- pkg:maven/io.github.davidwhitlock.cs410J/grader@2024.0.1?classifier=sources

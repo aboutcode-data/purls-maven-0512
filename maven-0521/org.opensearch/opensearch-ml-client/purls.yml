@@ -22,6 +22,7 @@
 - pkg:maven/org.opensearch/opensearch-ml-client@2.11.0.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ml-client@2.11.1.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ml-client@2.12.0.0?classifier=sources
+- pkg:maven/org.opensearch/opensearch-ml-client@2.13.0.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ml-client@2.2.0.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ml-client@2.2.1.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ml-client@2.3.0.0?classifier=sources

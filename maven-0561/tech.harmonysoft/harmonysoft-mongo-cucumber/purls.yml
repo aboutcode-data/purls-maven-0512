@@ -1,6 +1,7 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@1.100.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@1.102.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@1.103.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@1.105.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@1.28.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@1.29.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@1.30.0?classifier=sources
@@ -63,3 +64,9 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@1.97.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@1.98.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@1.99.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@2.0.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@2.3.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@2.4.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@3.0.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@3.1.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-cucumber@3.2.0?classifier=sources

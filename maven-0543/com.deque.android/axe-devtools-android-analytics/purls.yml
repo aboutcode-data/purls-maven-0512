@@ -5,3 +5,4 @@
 - pkg:maven/com.deque.android/axe-devtools-android-analytics@5.0.0?classifier=sources
 - pkg:maven/com.deque.android/axe-devtools-android-analytics@5.1.0?classifier=sources
 - pkg:maven/com.deque.android/axe-devtools-android-analytics@5.2.0?classifier=sources
+- pkg:maven/com.deque.android/axe-devtools-android-analytics@5.3.0?classifier=sources

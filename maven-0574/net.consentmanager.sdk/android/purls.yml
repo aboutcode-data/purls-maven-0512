@@ -28,3 +28,6 @@
 - pkg:maven/net.consentmanager.sdk/android@2.3.2?classifier=sources
 - pkg:maven/net.consentmanager.sdk/android@2.3.3-ktx-1.7?classifier=sources
 - pkg:maven/net.consentmanager.sdk/android@2.3.3?classifier=sources
+- pkg:maven/net.consentmanager.sdk/android@2.3.4-ktx-1.7?classifier=sources
+- pkg:maven/net.consentmanager.sdk/android@2.3.5-ktx-1.7?classifier=sources
+- pkg:maven/net.consentmanager.sdk/android@2.4.0?classifier=sources

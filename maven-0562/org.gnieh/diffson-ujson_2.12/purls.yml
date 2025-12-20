@@ -1,0 +1,2 @@
+- pkg:maven/org.gnieh/diffson-ujson_2.12@4.6.0
+- pkg:maven/org.gnieh/diffson-ujson_2.12@4.6.0?classifier=sources

@@ -3856,6 +3856,10 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@5.25.687?type=war
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@5.25.694?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@5.25.694?type=war
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@5.25.697?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@5.25.697?type=war
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@5.25.698?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@5.25.698?type=war
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@5.25.6?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@5.25.6?type=war
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@5.25.77?classifier=sources
@@ -4522,6 +4526,16 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@6.0.8?type=war
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@6.0.9?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@6.0.9?type=war
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.105?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.105?type=war
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.106?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.106?type=war
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.107?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.107?type=war
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.109?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.109?type=war
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.110?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.110?type=war
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.28?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.28?type=war
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.29?classifier=sources
@@ -4568,3 +4582,7 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.82?type=war
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.83?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.0.83?type=war
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.1.7?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.1.7?type=war
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.1.8?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.entitlement.endpoint@7.1.8?type=war

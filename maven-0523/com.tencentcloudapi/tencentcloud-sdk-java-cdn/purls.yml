@@ -1020,3 +1020,7 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.954?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.977
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.977?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.980
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.980?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.984
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.984?classifier=sources

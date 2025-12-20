@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/avocado-zio-query_sjs1_3@0.2.0
+- pkg:maven/org.virtuslab/avocado-zio-query_sjs1_3@0.2.0?classifier=sources

@@ -46,6 +46,7 @@
 - pkg:maven/com.liferay/com.liferay.fragment.renderer.collection.filter.impl@1.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.renderer.collection.filter.impl@1.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.renderer.collection.filter.impl@1.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.renderer.collection.filter.impl@1.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.renderer.collection.filter.impl@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.renderer.collection.filter.impl@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.renderer.collection.filter.impl@1.0.3

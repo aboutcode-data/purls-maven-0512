@@ -191,3 +191,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-datastore@3.65.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-datastore@3.66.0-02
 - pkg:maven/org.sonatype.nexus/nexus-datastore@3.66.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-datastore@3.67.0-03
+- pkg:maven/org.sonatype.nexus/nexus-datastore@3.67.0-03?classifier=sources

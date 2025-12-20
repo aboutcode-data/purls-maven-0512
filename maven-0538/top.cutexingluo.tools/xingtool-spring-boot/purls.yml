@@ -6,3 +6,5 @@
 - pkg:maven/top.cutexingluo.tools/xingtool-spring-boot@1.0.2?classifier=sources
 - pkg:maven/top.cutexingluo.tools/xingtool-spring-boot@1.0.3
 - pkg:maven/top.cutexingluo.tools/xingtool-spring-boot@1.0.3?classifier=sources
+- pkg:maven/top.cutexingluo.tools/xingtool-spring-boot@1.0.4
+- pkg:maven/top.cutexingluo.tools/xingtool-spring-boot@1.0.4?classifier=sources

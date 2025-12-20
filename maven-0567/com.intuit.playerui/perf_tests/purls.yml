@@ -2,3 +2,5 @@
 - pkg:maven/com.intuit.playerui/perf_tests@0.7.0?classifier=sources
 - pkg:maven/com.intuit.playerui/perf_tests@0.7.1
 - pkg:maven/com.intuit.playerui/perf_tests@0.7.1?classifier=sources
+- pkg:maven/com.intuit.playerui/perf_tests@0.7.2
+- pkg:maven/com.intuit.playerui/perf_tests@0.7.2?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/com.sebastianneubauer.jsontree/jsontree@1.0.1?classifier=sources
 - pkg:maven/com.sebastianneubauer.jsontree/jsontree@2.0.0?classifier=sources
 - pkg:maven/com.sebastianneubauer.jsontree/jsontree@2.1.0?classifier=sources
+- pkg:maven/com.sebastianneubauer.jsontree/jsontree@2.1.1?classifier=sources

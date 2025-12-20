@@ -58,3 +58,7 @@
 - pkg:maven/org.webjars.npm/ol@8.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/ol@8.2.0
 - pkg:maven/org.webjars.npm/ol@8.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/ol@9.0.0
+- pkg:maven/org.webjars.npm/ol@9.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/ol@9.1.0
+- pkg:maven/org.webjars.npm/ol@9.1.0?classifier=sources

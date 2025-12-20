@@ -66,6 +66,12 @@
 - pkg:maven/com.palantir.baseline/baseline-null-away@5.41.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-null-away@5.42.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-null-away@5.43.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@5.44.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@5.45.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@5.46.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@5.47.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@5.48.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@5.49.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-null-away@5.5.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-null-away@5.6.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-null-away@5.7.0?classifier=sources

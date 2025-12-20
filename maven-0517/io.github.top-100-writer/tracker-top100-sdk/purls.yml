@@ -21,6 +21,8 @@
 - pkg:maven/io.github.top-100-writer/tracker-top100-sdk@1.2.0?classifier=sources
 - pkg:maven/io.github.top-100-writer/tracker-top100-sdk@1.2.10?classifier=sources
 - pkg:maven/io.github.top-100-writer/tracker-top100-sdk@1.2.11?classifier=sources
+- pkg:maven/io.github.top-100-writer/tracker-top100-sdk@1.2.12?classifier=sources
+- pkg:maven/io.github.top-100-writer/tracker-top100-sdk@1.2.14?classifier=sources
 - pkg:maven/io.github.top-100-writer/tracker-top100-sdk@1.2.1?classifier=sources
 - pkg:maven/io.github.top-100-writer/tracker-top100-sdk@1.2.2?classifier=sources
 - pkg:maven/io.github.top-100-writer/tracker-top100-sdk@1.2.3?classifier=sources

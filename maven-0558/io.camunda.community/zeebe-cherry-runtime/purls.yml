@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda.community/zeebe-cherry-runtime@3.0.4
+- pkg:maven/io.camunda.community/zeebe-cherry-runtime@3.0.4?classifier=sources

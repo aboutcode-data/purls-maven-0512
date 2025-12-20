@@ -28,3 +28,4 @@
 - pkg:maven/com.testsigma/testsigma-java-sdk@1.2.4_cloud?classifier=sources
 - pkg:maven/com.testsigma/testsigma-java-sdk@1.2.5_cloud?classifier=sources
 - pkg:maven/com.testsigma/testsigma-java-sdk@1.2.6_cloud?classifier=sources
+- pkg:maven/com.testsigma/testsigma-java-sdk@1.2.8_cloud?classifier=sources

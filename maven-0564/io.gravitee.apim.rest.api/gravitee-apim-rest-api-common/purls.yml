@@ -1,0 +1,6 @@
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-common@4.3.0
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-common@4.3.0-alpha.2
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-common@4.3.0-alpha.2?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-common@4.3.0?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-common@4.3.1
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-common@4.3.1?classifier=sources

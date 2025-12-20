@@ -2,3 +2,4 @@
 - pkg:maven/io.github.1c-syntax/mdclasses@0.12.0-rc.6?classifier=sources
 - pkg:maven/io.github.1c-syntax/mdclasses@0.12.0?classifier=sources
 - pkg:maven/io.github.1c-syntax/mdclasses@0.13.0-rc.1?classifier=sources
+- pkg:maven/io.github.1c-syntax/mdclasses@0.13.0-rc.2?classifier=sources

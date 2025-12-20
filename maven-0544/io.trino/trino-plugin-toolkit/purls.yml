@@ -176,3 +176,11 @@
 - pkg:maven/io.trino/trino-plugin-toolkit@439?classifier=sources
 - pkg:maven/io.trino/trino-plugin-toolkit@440
 - pkg:maven/io.trino/trino-plugin-toolkit@440?classifier=sources
+- pkg:maven/io.trino/trino-plugin-toolkit@441
+- pkg:maven/io.trino/trino-plugin-toolkit@441?classifier=sources
+- pkg:maven/io.trino/trino-plugin-toolkit@442
+- pkg:maven/io.trino/trino-plugin-toolkit@442?classifier=sources
+- pkg:maven/io.trino/trino-plugin-toolkit@443
+- pkg:maven/io.trino/trino-plugin-toolkit@443?classifier=sources
+- pkg:maven/io.trino/trino-plugin-toolkit@444
+- pkg:maven/io.trino/trino-plugin-toolkit@444?classifier=sources

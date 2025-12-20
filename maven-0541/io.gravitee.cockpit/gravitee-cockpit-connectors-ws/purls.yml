@@ -54,3 +54,15 @@
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@4.0.3?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@4.0.4?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@4.0.5?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@4.0.6?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@4.0.7?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@4.0.8?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@5.0.0?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@5.0.1?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@5.0.2?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@5.0.3?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@5.0.4?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@5.0.5?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@5.0.6?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@5.0.7?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-ws@5.0.8?classifier=sources

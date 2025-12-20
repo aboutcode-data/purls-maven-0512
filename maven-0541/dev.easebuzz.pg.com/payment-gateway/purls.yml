@@ -1,0 +1,2 @@
+- pkg:maven/dev.easebuzz.pg.com/payment-gateway@0.1?classifier=sources
+- pkg:maven/dev.easebuzz.pg.com/payment-gateway@0.2?classifier=sources

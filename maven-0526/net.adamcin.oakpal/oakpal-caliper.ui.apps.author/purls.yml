@@ -1,3 +1,4 @@
 - pkg:maven/net.adamcin.oakpal/oakpal-caliper.ui.apps.author@2.2.0?classifier=sources
 - pkg:maven/net.adamcin.oakpal/oakpal-caliper.ui.apps.author@2.2.1?classifier=sources
 - pkg:maven/net.adamcin.oakpal/oakpal-caliper.ui.apps.author@2.2.2?classifier=sources
+- pkg:maven/net.adamcin.oakpal/oakpal-caliper.ui.apps.author@2.3.0?classifier=sources

@@ -24,5 +24,7 @@
 - pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.9.1?type=zip
 - pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.9.2?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.9.2?type=zip
+- pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.9.3?classifier=sources
+- pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.9.3?type=zip
 - pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.9?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.9?type=zip

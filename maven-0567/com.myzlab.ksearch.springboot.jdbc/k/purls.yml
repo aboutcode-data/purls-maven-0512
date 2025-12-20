@@ -92,3 +92,5 @@
 - pkg:maven/com.myzlab.ksearch.springboot.jdbc/k@2.4.9-alpha?classifier=sources
 - pkg:maven/com.myzlab.ksearch.springboot.jdbc/k@2.5.0-alpha
 - pkg:maven/com.myzlab.ksearch.springboot.jdbc/k@2.5.0-alpha?classifier=sources
+- pkg:maven/com.myzlab.ksearch.springboot.jdbc/k@2.5.1-alpha
+- pkg:maven/com.myzlab.ksearch.springboot.jdbc/k@2.5.1-alpha?classifier=sources

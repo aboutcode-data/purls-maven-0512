@@ -9,4 +9,6 @@
 - pkg:maven/cc.kkon/tomcat-embed-gmssl@9.0.63.x.4?classifier=sources
 - pkg:maven/cc.kkon/tomcat-embed-gmssl@9.0.63.x.5
 - pkg:maven/cc.kkon/tomcat-embed-gmssl@9.0.63.x.5?classifier=sources
+- pkg:maven/cc.kkon/tomcat-embed-gmssl@9.0.63.x.6
+- pkg:maven/cc.kkon/tomcat-embed-gmssl@9.0.63.x.6?classifier=sources
 - pkg:maven/cc.kkon/tomcat-embed-gmssl@9.0.63.x?classifier=sources

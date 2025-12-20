@@ -4,3 +4,4 @@
 - pkg:maven/im.conversations.webrtc/webrtc-android@117.1.0?classifier=sources
 - pkg:maven/im.conversations.webrtc/webrtc-android@118.0.0?classifier=sources
 - pkg:maven/im.conversations.webrtc/webrtc-android@119.0.0?classifier=sources
+- pkg:maven/im.conversations.webrtc/webrtc-android@119.0.1?classifier=sources

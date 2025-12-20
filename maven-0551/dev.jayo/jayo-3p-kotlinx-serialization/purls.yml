@@ -1,3 +1,4 @@
 - pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha.1?classifier=sources
 - pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha.2?classifier=sources
 - pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha.3?classifier=sources
+- pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha.4?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/ru.kontur.mobile.visualfsm/visualfsm-core-iossimulatorarm64@1.4.0?classifier=sources
 - pkg:maven/ru.kontur.mobile.visualfsm/visualfsm-core-iossimulatorarm64@1.5.0?classifier=sources
 - pkg:maven/ru.kontur.mobile.visualfsm/visualfsm-core-iossimulatorarm64@1.5.1?classifier=sources
+- pkg:maven/ru.kontur.mobile.visualfsm/visualfsm-core-iossimulatorarm64@2.0.0?classifier=sources

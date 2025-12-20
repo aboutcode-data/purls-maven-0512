@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.oauth2.grant.rest/identity.oauth2.grant.auth.rest.handler@1.0.1
+- pkg:maven/org.wso2.carbon.identity.oauth2.grant.rest/identity.oauth2.grant.auth.rest.handler@1.0.1?classifier=sources

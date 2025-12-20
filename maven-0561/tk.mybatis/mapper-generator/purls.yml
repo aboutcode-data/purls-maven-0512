@@ -34,3 +34,5 @@
 - pkg:maven/tk.mybatis/mapper-generator@4.2.2?classifier=sources
 - pkg:maven/tk.mybatis/mapper-generator@4.2.3
 - pkg:maven/tk.mybatis/mapper-generator@4.2.3?classifier=sources
+- pkg:maven/tk.mybatis/mapper-generator@4.3.0
+- pkg:maven/tk.mybatis/mapper-generator@4.3.0?classifier=sources

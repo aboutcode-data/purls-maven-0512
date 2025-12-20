@@ -1,0 +1,2 @@
+- pkg:maven/com.worldline-solutions.connect/connect-sdk-java@7.0.0
+- pkg:maven/com.worldline-solutions.connect/connect-sdk-java@7.0.0?classifier=sources

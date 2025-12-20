@@ -1,0 +1,4 @@
+- pkg:maven/xyz.990904.jcrud/jcrud@1.0.0-fixed?classifier=sources
+- pkg:maven/xyz.990904.jcrud/jcrud@1.0.0?classifier=sources
+- pkg:maven/xyz.990904.jcrud/jcrud@1.0.1-fixed?classifier=sources
+- pkg:maven/xyz.990904.jcrud/jcrud@1.0.1?classifier=sources

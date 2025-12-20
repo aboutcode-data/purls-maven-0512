@@ -1,1 +1,2 @@
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-hibernate-reactive-oracle-free@2.4.0?classifier=sources
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-hibernate-reactive-oracle-free@2.5.0?classifier=sources

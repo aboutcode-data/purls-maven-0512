@@ -1,0 +1,1 @@
+- pkg:maven/io.nstream/nstream-store-cassandra@4.7.10?classifier=sources

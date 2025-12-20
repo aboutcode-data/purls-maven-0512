@@ -50,3 +50,4 @@
 - pkg:maven/com.adamratzman/spotify-api-kotlin-android@4.0.2?classifier=sources
 - pkg:maven/com.adamratzman/spotify-api-kotlin-android@4.0.3?classifier=sources
 - pkg:maven/com.adamratzman/spotify-api-kotlin-android@4.1.0?classifier=sources
+- pkg:maven/com.adamratzman/spotify-api-kotlin-android@4.1.1?classifier=sources

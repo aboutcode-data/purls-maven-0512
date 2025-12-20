@@ -1,0 +1,6 @@
+- pkg:maven/org.anyline/anyline-data-graph@8.7.1-20240329
+- pkg:maven/org.anyline/anyline-data-graph@8.7.1-20240329?classifier=sources
+- pkg:maven/org.anyline/anyline-data-graph@8.7.1-jdk17-20240329
+- pkg:maven/org.anyline/anyline-data-graph@8.7.1-jdk17-20240329?classifier=sources
+- pkg:maven/org.anyline/anyline-data-graph@8.7.1-jdk21-20240329
+- pkg:maven/org.anyline/anyline-data-graph@8.7.1-jdk21-20240329?classifier=sources
