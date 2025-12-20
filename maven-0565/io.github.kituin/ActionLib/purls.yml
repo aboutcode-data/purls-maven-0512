@@ -1,0 +1,16 @@
+- pkg:maven/io.github.kituin/ActionLib@0.1.0-1.16.5-fabric?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@0.2.0-1.16.5-fabric?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@0.5.0-1.16.5-fabric?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@0.6.0-fabric?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@0.6.1-fabric?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@0.6.2-forge?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@0.6.3-fabric?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@0.6.3-forge?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@0.6.4-forge?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@0.9.1-forge?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@0.9.2-forge?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@0.9.3-forge?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@0.9.4-forge?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@1.0.1-fabric?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@1.0.2-forge?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@1.0.3-forge?classifier=sources

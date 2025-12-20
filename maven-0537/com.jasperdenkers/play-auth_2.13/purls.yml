@@ -8,3 +8,5 @@
 - pkg:maven/com.jasperdenkers/play-auth_2.13@0.5.3?classifier=sources
 - pkg:maven/com.jasperdenkers/play-auth_2.13@0.5.4
 - pkg:maven/com.jasperdenkers/play-auth_2.13@0.5.4?classifier=sources
+- pkg:maven/com.jasperdenkers/play-auth_2.13@0.6.0
+- pkg:maven/com.jasperdenkers/play-auth_2.13@0.6.0?classifier=sources

@@ -27,3 +27,4 @@
 - pkg:maven/com.craxiom/network-survey-messaging@0.7.0?classifier=sources
 - pkg:maven/com.craxiom/network-survey-messaging@0.8.0?classifier=sources
 - pkg:maven/com.craxiom/network-survey-messaging@0.9.0?classifier=sources
+- pkg:maven/com.craxiom/network-survey-messaging@1.0.0?classifier=sources

@@ -72,5 +72,9 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-diagram-pure@5.0.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-diagram-pure@5.0.1
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-diagram-pure@5.0.1?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-diagram-pure@5.1.0
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-diagram-pure@5.1.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-diagram-pure@5.1.1
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-diagram-pure@5.1.1?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-diagram-pure@legend-pure-4.5.8
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-diagram-pure@legend-pure-4.5.8?classifier=sources

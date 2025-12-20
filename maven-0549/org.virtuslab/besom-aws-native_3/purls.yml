@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-aws-native_3@0.95.0-core.0.2
+- pkg:maven/org.virtuslab/besom-aws-native_3@0.95.0-core.0.2?classifier=sources

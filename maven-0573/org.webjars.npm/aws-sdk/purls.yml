@@ -4,6 +4,8 @@
 - pkg:maven/org.webjars.npm/aws-sdk@2.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/aws-sdk@2.1109.0
 - pkg:maven/org.webjars.npm/aws-sdk@2.1109.0?classifier=sources
+- pkg:maven/org.webjars.npm/aws-sdk@2.1549.0
+- pkg:maven/org.webjars.npm/aws-sdk@2.1549.0?classifier=sources
 - pkg:maven/org.webjars.npm/aws-sdk@2.200.0
 - pkg:maven/org.webjars.npm/aws-sdk@2.200.0?classifier=sources
 - pkg:maven/org.webjars.npm/aws-sdk@2.212.1

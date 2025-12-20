@@ -50,3 +50,8 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@5.15.4-pre.688?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@5.15.4-pre.689?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@5.15.5-pre.690?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@5.15.6-pre.691?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@5.15.7-pre.692?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@5.15.7-pre.693?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@5.15.7-pre.694?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@5.15.7-pre.695?classifier=sources

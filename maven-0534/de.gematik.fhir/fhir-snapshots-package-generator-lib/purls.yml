@@ -1,0 +1,4 @@
+- pkg:maven/de.gematik.fhir/fhir-snapshots-package-generator-lib@0.2.1
+- pkg:maven/de.gematik.fhir/fhir-snapshots-package-generator-lib@0.2.1?classifier=sources
+- pkg:maven/de.gematik.fhir/fhir-snapshots-package-generator-lib@0.3.0
+- pkg:maven/de.gematik.fhir/fhir-snapshots-package-generator-lib@0.3.0?classifier=sources

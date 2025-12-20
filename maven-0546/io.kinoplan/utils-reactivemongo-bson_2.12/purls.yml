@@ -1,0 +1,2 @@
+- pkg:maven/io.kinoplan/utils-reactivemongo-bson_2.12@0.0.35
+- pkg:maven/io.kinoplan/utils-reactivemongo-bson_2.12@0.0.35?classifier=sources

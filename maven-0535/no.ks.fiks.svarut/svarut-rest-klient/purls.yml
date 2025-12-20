@@ -20,3 +20,5 @@
 - pkg:maven/no.ks.fiks.svarut/svarut-rest-klient@3.0.0?classifier=sources
 - pkg:maven/no.ks.fiks.svarut/svarut-rest-klient@4.0.0
 - pkg:maven/no.ks.fiks.svarut/svarut-rest-klient@4.0.0?classifier=sources
+- pkg:maven/no.ks.fiks.svarut/svarut-rest-klient@4.1.0
+- pkg:maven/no.ks.fiks.svarut/svarut-rest-klient@4.1.0?classifier=sources

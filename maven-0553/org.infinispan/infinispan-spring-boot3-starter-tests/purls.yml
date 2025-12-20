@@ -11,6 +11,8 @@
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-tests@14.0.20.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-tests@14.0.21.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-tests@14.0.22.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot3-starter-tests@14.0.23.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot3-starter-tests@14.0.24.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-tests@14.0.7.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-tests@14.0.8.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-tests@14.0.9.Final
@@ -21,3 +23,4 @@
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-tests@15.0.0.Dev05
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-tests@15.0.0.Dev06
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-tests@15.0.0.Dev07
+- pkg:maven/org.infinispan/infinispan-spring-boot3-starter-tests@15.0.0.Dev08

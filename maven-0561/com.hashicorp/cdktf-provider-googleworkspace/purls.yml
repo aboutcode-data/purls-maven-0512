@@ -28,3 +28,7 @@
 - pkg:maven/com.hashicorp/cdktf-provider-googleworkspace@6.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-googleworkspace@7.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-googleworkspace@7.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-googleworkspace@8.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-googleworkspace@8.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-googleworkspace@8.0.1
+- pkg:maven/com.hashicorp/cdktf-provider-googleworkspace@8.0.1?classifier=sources

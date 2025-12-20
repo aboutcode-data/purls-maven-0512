@@ -20,3 +20,4 @@
 - pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-extras-docs@3.2.0
 - pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-extras-docs@3.2.0.CR1
 - pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-extras-docs@3.3.0
+- pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-extras-docs@4.0.0

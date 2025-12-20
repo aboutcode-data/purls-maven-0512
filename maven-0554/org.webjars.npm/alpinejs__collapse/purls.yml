@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/alpinejs__collapse@3.13.1?classifier=sources
 - pkg:maven/org.webjars.npm/alpinejs__collapse@3.13.3
 - pkg:maven/org.webjars.npm/alpinejs__collapse@3.13.3?classifier=sources
+- pkg:maven/org.webjars.npm/alpinejs__collapse@3.13.5
+- pkg:maven/org.webjars.npm/alpinejs__collapse@3.13.5?classifier=sources

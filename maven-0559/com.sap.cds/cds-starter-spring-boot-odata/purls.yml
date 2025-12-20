@@ -87,3 +87,5 @@
 - pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@2.4.0
 - pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@2.4.1
 - pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@2.5.0
+- pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@2.6.0
+- pkg:maven/com.sap.cds/cds-starter-spring-boot-odata@2.6.1

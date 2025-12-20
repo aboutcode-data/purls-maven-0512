@@ -30,5 +30,7 @@
 - pkg:maven/com.heanbian/heanbian-jwt@17.1?classifier=sources
 - pkg:maven/com.heanbian/heanbian-jwt@18.1
 - pkg:maven/com.heanbian/heanbian-jwt@18.1?classifier=sources
+- pkg:maven/com.heanbian/heanbian-jwt@19.1
+- pkg:maven/com.heanbian/heanbian-jwt@19.1?classifier=sources
 - pkg:maven/com.heanbian/heanbian-jwt@20200807
 - pkg:maven/com.heanbian/heanbian-jwt@20200807?classifier=sources

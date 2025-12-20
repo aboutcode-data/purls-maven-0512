@@ -2,3 +2,4 @@
 - pkg:maven/io.github.lambdaprime/jros2messages@2.0?classifier=sources
 - pkg:maven/io.github.lambdaprime/jros2messages@3.0?classifier=sources
 - pkg:maven/io.github.lambdaprime/jros2messages@4.0?classifier=sources
+- pkg:maven/io.github.lambdaprime/jros2messages@5.0?classifier=sources

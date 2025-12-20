@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-test-ws-rm-server-jvm@2.7.1
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-test-ws-rm-server-jvm@2.7.1?classifier=sources

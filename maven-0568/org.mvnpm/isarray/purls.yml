@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/isarray@1.0.0?classifier=sources
 - pkg:maven/org.mvnpm/isarray@2.0.5?classifier=sources

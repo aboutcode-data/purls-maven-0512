@@ -8,3 +8,4 @@
 - pkg:maven/edu.wgu.osmt/osmt-ui@2.5.0
 - pkg:maven/edu.wgu.osmt/osmt-ui@2.5.1
 - pkg:maven/edu.wgu.osmt/osmt-ui@2.5.2
+- pkg:maven/edu.wgu.osmt/osmt-ui@3.0.0

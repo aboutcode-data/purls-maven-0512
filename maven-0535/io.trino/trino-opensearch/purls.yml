@@ -1,0 +1,3 @@
+- pkg:maven/io.trino/trino-opensearch@436?classifier=sources
+- pkg:maven/io.trino/trino-opensearch@437?classifier=sources
+- pkg:maven/io.trino/trino-opensearch@438?classifier=sources

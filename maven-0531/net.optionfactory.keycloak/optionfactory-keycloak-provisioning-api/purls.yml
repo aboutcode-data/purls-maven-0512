@@ -82,3 +82,5 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-provisioning-api@4.6?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-provisioning-api@5.0
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-provisioning-api@5.0?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-provisioning-api@5.1
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-provisioning-api@5.1?classifier=sources

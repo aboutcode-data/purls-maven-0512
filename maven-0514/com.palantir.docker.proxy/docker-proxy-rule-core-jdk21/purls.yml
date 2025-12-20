@@ -1,0 +1,2 @@
+- pkg:maven/com.palantir.docker.proxy/docker-proxy-rule-core-jdk21@1.10.0?classifier=sources
+- pkg:maven/com.palantir.docker.proxy/docker-proxy-rule-core-jdk21@1.11.0?classifier=sources

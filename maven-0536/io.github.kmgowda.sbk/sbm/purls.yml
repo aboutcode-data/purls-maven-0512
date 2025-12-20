@@ -8,3 +8,4 @@
 - pkg:maven/io.github.kmgowda.sbk/sbm@4.2?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/sbm@5.0-pre?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/sbm@5.0?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/sbm@5.1?classifier=sources

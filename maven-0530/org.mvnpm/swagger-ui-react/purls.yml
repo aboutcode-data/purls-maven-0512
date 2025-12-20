@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/swagger-ui-react@5.11.0?classifier=sources
+- pkg:maven/org.mvnpm/swagger-ui-react@5.11.2?classifier=sources

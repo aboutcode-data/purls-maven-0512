@@ -82,3 +82,5 @@
 - pkg:maven/com.buschmais.jqassistant/plugin-rules@2.0.8?classifier=sources
 - pkg:maven/com.buschmais.jqassistant/plugin-rules@2.0.9
 - pkg:maven/com.buschmais.jqassistant/plugin-rules@2.0.9?classifier=sources
+- pkg:maven/com.buschmais.jqassistant/plugin-rules@2.1.0-M1
+- pkg:maven/com.buschmais.jqassistant/plugin-rules@2.1.0-M1?classifier=sources

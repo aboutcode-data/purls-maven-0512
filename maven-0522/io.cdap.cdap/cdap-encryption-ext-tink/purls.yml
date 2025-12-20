@@ -1,0 +1,2 @@
+- pkg:maven/io.cdap.cdap/cdap-encryption-ext-tink@6.10.0
+- pkg:maven/io.cdap.cdap/cdap-encryption-ext-tink@6.10.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/ch.codeblock.qrinvoice.documents/qrinvoice-documents@1.16?classifier=sources
 - pkg:maven/ch.codeblock.qrinvoice.documents/qrinvoice-documents@1.17
 - pkg:maven/ch.codeblock.qrinvoice.documents/qrinvoice-documents@1.17?classifier=sources
+- pkg:maven/ch.codeblock.qrinvoice.documents/qrinvoice-documents@1.19
+- pkg:maven/ch.codeblock.qrinvoice.documents/qrinvoice-documents@1.19?classifier=sources

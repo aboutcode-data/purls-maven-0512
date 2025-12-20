@@ -75,6 +75,8 @@
 - pkg:maven/com.cloudinary/cloudinary-core@1.35.0?classifier=sources
 - pkg:maven/com.cloudinary/cloudinary-core@1.36.0
 - pkg:maven/com.cloudinary/cloudinary-core@1.36.0?classifier=sources
+- pkg:maven/com.cloudinary/cloudinary-core@1.37.0
+- pkg:maven/com.cloudinary/cloudinary-core@1.37.0?classifier=sources
 - pkg:maven/com.cloudinary/cloudinary-core@1.4.0
 - pkg:maven/com.cloudinary/cloudinary-core@1.4.0?classifier=sources
 - pkg:maven/com.cloudinary/cloudinary-core@1.4.1

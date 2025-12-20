@@ -70,3 +70,9 @@
 - pkg:maven/io.trino/trino-benchmark-queries@434?classifier=sources
 - pkg:maven/io.trino/trino-benchmark-queries@435
 - pkg:maven/io.trino/trino-benchmark-queries@435?classifier=sources
+- pkg:maven/io.trino/trino-benchmark-queries@436
+- pkg:maven/io.trino/trino-benchmark-queries@436?classifier=sources
+- pkg:maven/io.trino/trino-benchmark-queries@437
+- pkg:maven/io.trino/trino-benchmark-queries@437?classifier=sources
+- pkg:maven/io.trino/trino-benchmark-queries@438
+- pkg:maven/io.trino/trino-benchmark-queries@438?classifier=sources

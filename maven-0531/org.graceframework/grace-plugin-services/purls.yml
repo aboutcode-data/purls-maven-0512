@@ -10,3 +10,6 @@
 - pkg:maven/org.graceframework/grace-plugin-services@2022.0.3?classifier=sources
 - pkg:maven/org.graceframework/grace-plugin-services@2022.0.4?classifier=sources
 - pkg:maven/org.graceframework/grace-plugin-services@2022.0.5?classifier=sources
+- pkg:maven/org.graceframework/grace-plugin-services@2022.1.0-RC1?classifier=sources
+- pkg:maven/org.graceframework/grace-plugin-services@2022.1.0?classifier=sources
+- pkg:maven/org.graceframework/grace-plugin-services@2023.0.0-M1?classifier=sources

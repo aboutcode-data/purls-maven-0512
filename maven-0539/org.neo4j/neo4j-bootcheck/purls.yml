@@ -20,6 +20,8 @@
 - pkg:maven/org.neo4j/neo4j-bootcheck@4.4.28?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bootcheck@4.4.29
 - pkg:maven/org.neo4j/neo4j-bootcheck@4.4.29?classifier=sources
+- pkg:maven/org.neo4j/neo4j-bootcheck@4.4.30
+- pkg:maven/org.neo4j/neo4j-bootcheck@4.4.30?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bootcheck@5.1.0
 - pkg:maven/org.neo4j/neo4j-bootcheck@5.1.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bootcheck@5.10.0

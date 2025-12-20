@@ -15,4 +15,8 @@
 - pkg:maven/live.100ms/room-kit@1.1.6?classifier=sources
 - pkg:maven/live.100ms/room-kit@1.1.7?classifier=sources
 - pkg:maven/live.100ms/room-kit@1.1.8?classifier=sources
+- pkg:maven/live.100ms/room-kit@1.1.91?classifier=sources
+- pkg:maven/live.100ms/room-kit@1.1.92?classifier=sources
+- pkg:maven/live.100ms/room-kit@1.1.93?classifier=sources
+- pkg:maven/live.100ms/room-kit@1.1.94?classifier=sources
 - pkg:maven/live.100ms/room-kit@1.1.9?classifier=sources

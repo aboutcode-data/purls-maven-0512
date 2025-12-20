@@ -26,3 +26,5 @@
 - pkg:maven/com.displee/rs-cache-library@6.9-RC2
 - pkg:maven/com.displee/rs-cache-library@6.9-RC2?classifier=sources
 - pkg:maven/com.displee/rs-cache-library@6.9?classifier=sources
+- pkg:maven/com.displee/rs-cache-library@7.0?classifier=sources
+- pkg:maven/com.displee/rs-cache-library@7.1.0?classifier=sources

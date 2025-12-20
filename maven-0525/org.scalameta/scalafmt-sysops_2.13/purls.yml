@@ -86,3 +86,5 @@
 - pkg:maven/org.scalameta/scalafmt-sysops_2.13@3.7.8?classifier=sources
 - pkg:maven/org.scalameta/scalafmt-sysops_2.13@3.7.9
 - pkg:maven/org.scalameta/scalafmt-sysops_2.13@3.7.9?classifier=sources
+- pkg:maven/org.scalameta/scalafmt-sysops_2.13@3.8.0
+- pkg:maven/org.scalameta/scalafmt-sysops_2.13@3.8.0?classifier=sources

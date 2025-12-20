@@ -38,6 +38,7 @@
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M9
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0-M9?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.0.0?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.1.0
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.1.0-M1
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.1.0-M1?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.1.0-M2
@@ -56,6 +57,9 @@
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.1.0-M6?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.1.0-M7
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.1.0-M7?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.1.0?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.1.1
+- pkg:maven/ch.epfl.scala/bsp4s_2.12@2.1.1?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.2.0-M1
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.2.0-M1.alpha
 - pkg:maven/ch.epfl.scala/bsp4s_2.12@2.2.0-M1.alpha?classifier=sources

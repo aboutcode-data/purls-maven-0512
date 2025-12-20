@@ -1,0 +1,4 @@
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-store-pure@5.1.0
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-store-pure@5.1.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-store-pure@5.1.1
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-dsl-store-pure@5.1.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.ashampoo/xmpcore-wasm-js@0.3?classifier=sources
+- pkg:maven/com.ashampoo/xmpcore-wasm-js@1.0.0?classifier=sources

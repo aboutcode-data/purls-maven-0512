@@ -38,3 +38,5 @@
 - pkg:maven/io.cucumber/tag-expressions@5.0.6?classifier=sources
 - pkg:maven/io.cucumber/tag-expressions@6.0.0
 - pkg:maven/io.cucumber/tag-expressions@6.0.0?classifier=sources
+- pkg:maven/io.cucumber/tag-expressions@6.1.0
+- pkg:maven/io.cucumber/tag-expressions@6.1.0?classifier=sources

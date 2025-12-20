@@ -1,0 +1,2 @@
+- pkg:maven/cn.spatiotemporal/spatiotemporal-commons-register@1.0.0-RELEASE
+- pkg:maven/cn.spatiotemporal/spatiotemporal-commons-register@1.0.0-RELEASE?classifier=sources

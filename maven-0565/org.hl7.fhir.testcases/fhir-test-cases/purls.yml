@@ -189,6 +189,8 @@
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.4.24
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.4.25
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.4.26
+- pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.4.27
+- pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.4.28
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.4.3
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.4.4
 - pkg:maven/org.hl7.fhir.testcases/fhir-test-cases@1.4.5

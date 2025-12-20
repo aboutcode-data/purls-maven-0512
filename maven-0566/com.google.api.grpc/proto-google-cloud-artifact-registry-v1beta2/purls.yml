@@ -66,6 +66,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.36.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.37.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.37.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.38.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.38.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.39.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.39.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.4.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.4.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.4.1
@@ -74,6 +78,8 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.4.2?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.4.3
 - pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.4.3?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.40.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.40.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.5.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.5.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-artifact-registry-v1beta2@0.6.0

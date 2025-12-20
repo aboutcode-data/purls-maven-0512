@@ -212,3 +212,9 @@
 - pkg:maven/org.wildfly.core/wildfly-jar-runtime@23.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-jar-runtime@23.0.1.Final
 - pkg:maven/org.wildfly.core/wildfly-jar-runtime@23.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-jar-runtime@23.0.2.Final
+- pkg:maven/org.wildfly.core/wildfly-jar-runtime@23.0.2.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-jar-runtime@23.0.3.Final
+- pkg:maven/org.wildfly.core/wildfly-jar-runtime@23.0.3.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-jar-runtime@24.0.0.Beta1
+- pkg:maven/org.wildfly.core/wildfly-jar-runtime@24.0.0.Beta1?classifier=sources

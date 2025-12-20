@@ -127,6 +127,10 @@
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.43?classifier=sources
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.44
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.44?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.45
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.45?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.46
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.46?classifier=sources
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.4?classifier=sources
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.5
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension@2.0.5.android

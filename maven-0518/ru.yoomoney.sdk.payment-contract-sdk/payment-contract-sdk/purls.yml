@@ -3,3 +3,5 @@
 - pkg:maven/ru.yoomoney.sdk.payment-contract-sdk/payment-contract-sdk@0.2.0?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.payment-contract-sdk/payment-contract-sdk@0.3.0?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.payment-contract-sdk/payment-contract-sdk@0.3.2?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.payment-contract-sdk/payment-contract-sdk@0.3.3?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.payment-contract-sdk/payment-contract-sdk@0.3.4?classifier=sources

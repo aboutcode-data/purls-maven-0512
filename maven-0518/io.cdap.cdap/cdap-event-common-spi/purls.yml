@@ -1,0 +1,2 @@
+- pkg:maven/io.cdap.cdap/cdap-event-common-spi@6.10.0
+- pkg:maven/io.cdap.cdap/cdap-event-common-spi@6.10.0?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.finos.timebase-ce/timebase-computations-api@6.1.16?classifier=sources
 - pkg:maven/org.finos.timebase-ce/timebase-computations-api@6.1.17?classifier=sources
 - pkg:maven/org.finos.timebase-ce/timebase-computations-api@6.1.21?classifier=sources
+- pkg:maven/org.finos.timebase-ce/timebase-computations-api@6.1.22?classifier=sources

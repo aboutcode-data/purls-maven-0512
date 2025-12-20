@@ -82,3 +82,6 @@
 - pkg:maven/io.trino/trino-jmx@433?classifier=sources
 - pkg:maven/io.trino/trino-jmx@434?classifier=sources
 - pkg:maven/io.trino/trino-jmx@435?classifier=sources
+- pkg:maven/io.trino/trino-jmx@436?classifier=sources
+- pkg:maven/io.trino/trino-jmx@437?classifier=sources
+- pkg:maven/io.trino/trino-jmx@438?classifier=sources

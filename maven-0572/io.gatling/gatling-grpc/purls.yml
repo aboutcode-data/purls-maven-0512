@@ -1,0 +1,2 @@
+- pkg:maven/io.gatling/gatling-grpc@3.10.3
+- pkg:maven/io.gatling/gatling-grpc@3.10.3?classifier=sources
