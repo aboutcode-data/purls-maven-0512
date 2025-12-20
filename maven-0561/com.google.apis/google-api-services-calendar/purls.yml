@@ -992,6 +992,8 @@
 - pkg:maven/com.google.apis/google-api-services-calendar@v3-rev20240906-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-calendar@v3-rev20240927-2.0.0
 - pkg:maven/com.google.apis/google-api-services-calendar@v3-rev20240927-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-calendar@v3-rev20241101-2.0.0
+- pkg:maven/com.google.apis/google-api-services-calendar@v3-rev20241101-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-calendar@v3-rev203-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-calendar@v3-rev203-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-calendar@v3-rev203-1.20.0

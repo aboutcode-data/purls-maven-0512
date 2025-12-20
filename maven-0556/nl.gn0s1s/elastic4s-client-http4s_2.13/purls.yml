@@ -1,0 +1,2 @@
+- pkg:maven/nl.gn0s1s/elastic4s-client-http4s_2.13@8.15.4
+- pkg:maven/nl.gn0s1s/elastic4s-client-http4s_2.13@8.15.4?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/nl.gn0s1s/elastic4s-core_3@8.15.2?classifier=sources
 - pkg:maven/nl.gn0s1s/elastic4s-core_3@8.15.3
 - pkg:maven/nl.gn0s1s/elastic4s-core_3@8.15.3?classifier=sources
+- pkg:maven/nl.gn0s1s/elastic4s-core_3@8.15.4
+- pkg:maven/nl.gn0s1s/elastic4s-core_3@8.15.4?classifier=sources

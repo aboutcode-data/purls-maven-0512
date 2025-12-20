@@ -75,3 +75,7 @@
 - pkg:maven/com.igaworks.ssp/IgawAdPopcornSSP@3.6.3?classifier=sources
 - pkg:maven/com.igaworks.ssp/IgawAdPopcornSSP@3.6.4?classifier=sources
 - pkg:maven/com.igaworks.ssp/IgawAdPopcornSSP@3.6.5?classifier=sources
+- pkg:maven/com.igaworks.ssp/IgawAdPopcornSSP@3.6.6?classifier=sources
+- pkg:maven/com.igaworks.ssp/IgawAdPopcornSSP@3.6.7?classifier=sources
+- pkg:maven/com.igaworks.ssp/IgawAdPopcornSSP@3.6.8?classifier=sources
+- pkg:maven/com.igaworks.ssp/IgawAdPopcornSSP@3.6.9?classifier=sources

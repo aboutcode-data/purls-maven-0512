@@ -1,0 +1,2 @@
+- pkg:maven/cloud.anypoint/mule-aichain-connector@1.0.0?classifier=sources
+- pkg:maven/cloud.anypoint/mule-aichain-connector@1.2.0?classifier=sources

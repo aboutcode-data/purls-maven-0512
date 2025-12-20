@@ -1,0 +1,4 @@
+- pkg:maven/com.kitakkun.kondition/compiler-k2@2.0.0-0.1.0-alpha01?classifier=sources
+- pkg:maven/com.kitakkun.kondition/compiler-k2@2.0.10-0.1.0-alpha01?classifier=sources
+- pkg:maven/com.kitakkun.kondition/compiler-k2@2.0.20-0.1.0-alpha01?classifier=sources
+- pkg:maven/com.kitakkun.kondition/compiler-k2@2.0.21-0.1.0-alpha01?classifier=sources

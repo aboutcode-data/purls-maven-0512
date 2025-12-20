@@ -71,6 +71,9 @@
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-watsonx-deployment@0.20.3
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-watsonx-deployment@0.20.3?classifier=sources
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-watsonx-deployment@0.21.0.CR1?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-watsonx-deployment@0.21.0.CR3?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-watsonx-deployment@0.21.0.CR4?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-watsonx-deployment@0.21.0?classifier=sources
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-watsonx-deployment@0.7.1
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-watsonx-deployment@0.7.1?classifier=sources
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-watsonx-deployment@0.8.0

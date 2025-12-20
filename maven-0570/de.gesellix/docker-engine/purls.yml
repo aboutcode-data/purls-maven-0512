@@ -86,3 +86,4 @@
 - pkg:maven/de.gesellix/docker-engine@2024-09-15T15-25-00?classifier=sources
 - pkg:maven/de.gesellix/docker-engine@2024-09-15T18-35-00?classifier=sources
 - pkg:maven/de.gesellix/docker-engine@2024-09-15T20-35-00?classifier=sources
+- pkg:maven/de.gesellix/docker-engine@2024-11-05T20-15-00?classifier=sources

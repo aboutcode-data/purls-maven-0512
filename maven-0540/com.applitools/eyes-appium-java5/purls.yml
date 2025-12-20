@@ -184,5 +184,11 @@
 - pkg:maven/com.applitools/eyes-appium-java5@5.68.3?classifier=sources
 - pkg:maven/com.applitools/eyes-appium-java5@5.69.0
 - pkg:maven/com.applitools/eyes-appium-java5@5.69.0?classifier=sources
+- pkg:maven/com.applitools/eyes-appium-java5@5.70.0
+- pkg:maven/com.applitools/eyes-appium-java5@5.70.0?classifier=sources
+- pkg:maven/com.applitools/eyes-appium-java5@5.71.0
+- pkg:maven/com.applitools/eyes-appium-java5@5.71.0?classifier=sources
+- pkg:maven/com.applitools/eyes-appium-java5@5.72.0
+- pkg:maven/com.applitools/eyes-appium-java5@5.72.0?classifier=sources
 - pkg:maven/com.applitools/eyes-appium-java5@5.8.0
 - pkg:maven/com.applitools/eyes-appium-java5@5.8.0?classifier=sources

@@ -99,3 +99,7 @@
 - pkg:maven/com.palantir.baseline/baseline-null-away@5.72.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-null-away@5.8.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-null-away@5.9.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@6.0.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@6.1.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@6.2.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@6.3.0?classifier=sources

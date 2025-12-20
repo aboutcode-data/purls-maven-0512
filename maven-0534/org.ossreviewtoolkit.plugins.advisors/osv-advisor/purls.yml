@@ -45,6 +45,12 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@36.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@39.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@40.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@40.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@41.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@42.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@6.1.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@7.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.codat/lending@1.0.0?classifier=sources
 - pkg:maven/io.codat/lending@1.1.0?classifier=sources
+- pkg:maven/io.codat/lending@2.0.0?classifier=sources
+- pkg:maven/io.codat/lending@3.0.0?classifier=sources

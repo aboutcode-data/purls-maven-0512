@@ -7,4 +7,7 @@
 - pkg:maven/io.crossplane.compositefunctions/crossplane-function-base@1.17.0-beta?classifier=sources
 - pkg:maven/io.crossplane.compositefunctions/crossplane-function-base@1.17.0-charlie?classifier=sources
 - pkg:maven/io.crossplane.compositefunctions/crossplane-function-base@1.17.0-delta?classifier=sources
+- pkg:maven/io.crossplane.compositefunctions/crossplane-function-base@1.18-beta?classifier=sources
+- pkg:maven/io.crossplane.compositefunctions/crossplane-function-base@1.18.0-alpha?classifier=sources
+- pkg:maven/io.crossplane.compositefunctions/crossplane-function-base@1.18.0-charlie?classifier=sources
 - pkg:maven/io.crossplane.compositefunctions/crossplane-function-base@v1.15.0-echo?classifier=sources

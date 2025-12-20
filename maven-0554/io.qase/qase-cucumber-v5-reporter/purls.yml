@@ -1,2 +1,4 @@
 - pkg:maven/io.qase/qase-cucumber-v5-reporter@4.0.0
 - pkg:maven/io.qase/qase-cucumber-v5-reporter@4.0.0?classifier=sources
+- pkg:maven/io.qase/qase-cucumber-v5-reporter@4.0.2
+- pkg:maven/io.qase/qase-cucumber-v5-reporter@4.0.2?classifier=sources

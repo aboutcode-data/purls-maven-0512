@@ -1,1 +1,2 @@
 - pkg:maven/io.allurx/blur@4.0.0?classifier=sources
+- pkg:maven/io.allurx/blur@4.1.0?classifier=sources

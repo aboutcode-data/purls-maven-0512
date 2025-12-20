@@ -1,2 +1,3 @@
 - pkg:maven/nl.jacobras/compose-action-menu-iossimulatorarm64@2.0.0?classifier=sources
 - pkg:maven/nl.jacobras/compose-action-menu-iossimulatorarm64@3.0.0?classifier=sources
+- pkg:maven/nl.jacobras/compose-action-menu-iossimulatorarm64@3.0.1?classifier=sources

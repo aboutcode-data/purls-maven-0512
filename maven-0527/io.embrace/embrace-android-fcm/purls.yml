@@ -18,6 +18,7 @@
 - pkg:maven/io.embrace/embrace-android-fcm@6.12.1?classifier=sources
 - pkg:maven/io.embrace/embrace-android-fcm@6.12.2?classifier=sources
 - pkg:maven/io.embrace/embrace-android-fcm@6.13.0?classifier=sources
+- pkg:maven/io.embrace/embrace-android-fcm@6.14.0?classifier=sources
 - pkg:maven/io.embrace/embrace-android-fcm@6.2.0?classifier=sources
 - pkg:maven/io.embrace/embrace-android-fcm@6.2.1?classifier=sources
 - pkg:maven/io.embrace/embrace-android-fcm@6.3.0?classifier=sources

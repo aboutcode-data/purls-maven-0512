@@ -6,6 +6,8 @@
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-ztis@5.12.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-ztis@5.13.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-ztis@5.13.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-ztis@5.14.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-ztis@5.14.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-ztis@5.7.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-ztis@5.7.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-ztis@5.8.0

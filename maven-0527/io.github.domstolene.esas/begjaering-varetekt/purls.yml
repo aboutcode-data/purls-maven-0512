@@ -65,6 +65,8 @@
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@11092024.15fecc6
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@11092024.5a9c25b
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@11092024.edb564b
+- pkg:maven/io.github.domstolene.esas/begjaering-varetekt@11112024.41ad4f1
+- pkg:maven/io.github.domstolene.esas/begjaering-varetekt@11112024.af01eb6
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@12022024.7cee216
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@12082024.bb73262
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@12102023.c90582a
@@ -86,6 +88,7 @@
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@15022024.faf2540
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@15052023.b28468e
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@15102024.ecced1e
+- pkg:maven/io.github.domstolene.esas/begjaering-varetekt@15112024.e51ff1f
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@16012023.7c21726
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@16042024.d56562f
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@16062023.1c0910c
@@ -102,14 +105,18 @@
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@19062023.e4353e5
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@19092023.1cc0f0f
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@19092024.0c0807a
+- pkg:maven/io.github.domstolene.esas/begjaering-varetekt@19112024.98a84a7
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@20012023.69fe65f
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@20062024.78f779c
+- pkg:maven/io.github.domstolene.esas/begjaering-varetekt@20112024.ce52f8a
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@20122023.35f1ccf
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@21032023.09a921e
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@21042023.604620e
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@21082024.6cda64b
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@21102024.b2718ac
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@21112023.261c569
+- pkg:maven/io.github.domstolene.esas/begjaering-varetekt@21112024.4797352
+- pkg:maven/io.github.domstolene.esas/begjaering-varetekt@21112024.ce4178a
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@22012024.35a6312
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@22012024.9b4d3bf
 - pkg:maven/io.github.domstolene.esas/begjaering-varetekt@22052023.4e63f60

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.intfish123/nacos-consul-adapter@0.0.5.M2?classifier=sources
+- pkg:maven/io.github.intfish123/nacos-consul-adapter@0.0.5.M3?classifier=sources

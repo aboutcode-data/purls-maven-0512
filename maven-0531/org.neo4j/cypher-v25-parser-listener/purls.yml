@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j/cypher-v25-parser-listener@5.25.1
+- pkg:maven/org.neo4j/cypher-v25-parser-listener@5.25.1?classifier=sources

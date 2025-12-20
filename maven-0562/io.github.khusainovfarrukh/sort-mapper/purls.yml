@@ -1,0 +1,6 @@
+- pkg:maven/io.github.khusainovfarrukh/sort-mapper@0.0.1-alpha1?classifier=sources
+- pkg:maven/io.github.khusainovfarrukh/sort-mapper@0.0.1-rc1?classifier=sources
+- pkg:maven/io.github.khusainovfarrukh/sort-mapper@0.0.1-rc2?classifier=sources
+- pkg:maven/io.github.khusainovfarrukh/sort-mapper@0.0.1-rc3?classifier=sources
+- pkg:maven/io.github.khusainovfarrukh/sort-mapper@0.0.1-test?classifier=sources
+- pkg:maven/io.github.khusainovfarrukh/sort-mapper@0.0.1?classifier=sources

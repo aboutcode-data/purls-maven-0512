@@ -1,2 +1,6 @@
 - pkg:maven/com.github.cafapi.ssl/caf-ssl-dropwizard@1.0.0-13
 - pkg:maven/com.github.cafapi.ssl/caf-ssl-dropwizard@1.0.0-13?classifier=sources
+- pkg:maven/com.github.cafapi.ssl/caf-ssl-dropwizard@1.1.0-56
+- pkg:maven/com.github.cafapi.ssl/caf-ssl-dropwizard@1.1.0-56?classifier=sources
+- pkg:maven/com.github.cafapi.ssl/caf-ssl-dropwizard@1.2.0-62
+- pkg:maven/com.github.cafapi.ssl/caf-ssl-dropwizard@1.2.0-62?classifier=sources

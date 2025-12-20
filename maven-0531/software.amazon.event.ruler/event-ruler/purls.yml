@@ -35,3 +35,5 @@
 - pkg:maven/software.amazon.event.ruler/event-ruler@1.7.6?classifier=sources
 - pkg:maven/software.amazon.event.ruler/event-ruler@1.8.0
 - pkg:maven/software.amazon.event.ruler/event-ruler@1.8.0?classifier=sources
+- pkg:maven/software.amazon.event.ruler/event-ruler@1.8.1
+- pkg:maven/software.amazon.event.ruler/event-ruler@1.8.1?classifier=sources

@@ -1,5 +1,8 @@
 - pkg:maven/com.optimetriks.unio.compose/tags@0.0.2?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/tags@0.0.3?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/tags@12?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/tags@17?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/tags@18?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/tags@4?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/tags@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/tags@7?classifier=sources

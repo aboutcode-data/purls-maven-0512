@@ -16,3 +16,5 @@
 - pkg:maven/com.flowlogix.archetypes/starter@36?classifier=sources
 - pkg:maven/com.flowlogix.archetypes/starter@37?classifier=sources
 - pkg:maven/com.flowlogix.archetypes/starter@38?classifier=sources
+- pkg:maven/com.flowlogix.archetypes/starter@39?classifier=sources
+- pkg:maven/com.flowlogix.archetypes/starter@40?classifier=sources

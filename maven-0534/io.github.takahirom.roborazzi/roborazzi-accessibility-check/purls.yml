@@ -1,0 +1,2 @@
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-accessibility-check@1.33.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-accessibility-check@1.34.0?classifier=sources

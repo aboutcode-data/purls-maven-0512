@@ -1,1 +1,2 @@
 - pkg:maven/com.pexip.sdk/sdk-infinity-jvm@0.16.0?classifier=sources
+- pkg:maven/com.pexip.sdk/sdk-infinity-jvm@0.17.0?classifier=sources

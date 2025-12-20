@@ -36,6 +36,7 @@
 - pkg:maven/io.avaje/avaje-inject-aop@10.4-javax
 - pkg:maven/io.avaje/avaje-inject-aop@10.4-javax?classifier=sources
 - pkg:maven/io.avaje/avaje-inject-aop@10.4?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-aop@10.5
 - pkg:maven/io.avaje/avaje-inject-aop@10.5-RC1
 - pkg:maven/io.avaje/avaje-inject-aop@10.5-RC1?classifier=sources
 - pkg:maven/io.avaje/avaje-inject-aop@10.5-RC2
@@ -44,3 +45,12 @@
 - pkg:maven/io.avaje/avaje-inject-aop@10.5-RC3?classifier=sources
 - pkg:maven/io.avaje/avaje-inject-aop@10.5-RC4
 - pkg:maven/io.avaje/avaje-inject-aop@10.5-RC4?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-aop@10.5-RC5
+- pkg:maven/io.avaje/avaje-inject-aop@10.5-RC5?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-aop@10.5-RC6
+- pkg:maven/io.avaje/avaje-inject-aop@10.5-RC6?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-aop@10.5?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-aop@10.6
+- pkg:maven/io.avaje/avaje-inject-aop@10.6-javax
+- pkg:maven/io.avaje/avaje-inject-aop@10.6-javax?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-aop@10.6?classifier=sources

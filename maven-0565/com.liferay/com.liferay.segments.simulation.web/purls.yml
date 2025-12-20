@@ -231,6 +231,7 @@
 - pkg:maven/com.liferay/com.liferay.segments.simulation.web@3.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.simulation.web@3.0.56?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.simulation.web@3.0.57?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.simulation.web@3.0.58?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.simulation.web@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.simulation.web@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.simulation.web@3.0.6

@@ -27,3 +27,4 @@
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.audioengine@13.0.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.audioengine@14.0.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.audioengine@15.0.0?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.audioengine@16.0.0?classifier=sources

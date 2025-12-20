@@ -97,6 +97,10 @@
 - pkg:maven/com.fimtra/clearconnect@3.16.1
 - pkg:maven/com.fimtra/clearconnect@3.16.1-b
 - pkg:maven/com.fimtra/clearconnect@3.16.1-b?classifier=sources
+- pkg:maven/com.fimtra/clearconnect@3.16.1-c?classifier=sources
+- pkg:maven/com.fimtra/clearconnect@3.16.1-d?classifier=sources
+- pkg:maven/com.fimtra/clearconnect@3.16.1-e?classifier=sources
+- pkg:maven/com.fimtra/clearconnect@3.16.1-f?classifier=sources
 - pkg:maven/com.fimtra/clearconnect@3.16.1?classifier=sources
 - pkg:maven/com.fimtra/clearconnect@3.16.2
 - pkg:maven/com.fimtra/clearconnect@3.16.2?classifier=sources

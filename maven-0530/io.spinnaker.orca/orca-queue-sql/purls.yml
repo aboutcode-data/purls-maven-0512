@@ -76,3 +76,4 @@
 - pkg:maven/io.spinnaker.orca/orca-queue-sql@8.54.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-sql@8.55.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-sql@8.56.0?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-queue-sql@8.57.0?classifier=sources

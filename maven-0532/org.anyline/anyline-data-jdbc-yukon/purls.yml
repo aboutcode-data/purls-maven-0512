@@ -28,6 +28,10 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-yukon@8.7.2-20241022?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-yukon@8.7.2-20241025
 - pkg:maven/org.anyline/anyline-data-jdbc-yukon@8.7.2-20241025?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-yukon@8.7.2-20241107
+- pkg:maven/org.anyline/anyline-data-jdbc-yukon@8.7.2-20241107?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-yukon@8.7.2-20241120
+- pkg:maven/org.anyline/anyline-data-jdbc-yukon@8.7.2-20241120?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-yukon@8.7.2-jdk11-20240911
 - pkg:maven/org.anyline/anyline-data-jdbc-yukon@8.7.2-jdk11-20240911?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-yukon@8.7.2-jdk11-20240912

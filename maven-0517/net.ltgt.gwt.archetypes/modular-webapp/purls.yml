@@ -9,5 +9,7 @@
 - pkg:maven/net.ltgt.gwt.archetypes/modular-webapp@2022.4.28?classifier=sources
 - pkg:maven/net.ltgt.gwt.archetypes/modular-webapp@2023.3.4?classifier=sources
 - pkg:maven/net.ltgt.gwt.archetypes/modular-webapp@2024.1.24?classifier=sources
+- pkg:maven/net.ltgt.gwt.archetypes/modular-webapp@2024.10.31?classifier=sources
+- pkg:maven/net.ltgt.gwt.archetypes/modular-webapp@2024.11.13?classifier=sources
 - pkg:maven/net.ltgt.gwt.archetypes/modular-webapp@2024.2.11?classifier=sources
 - pkg:maven/net.ltgt.gwt.archetypes/modular-webapp@2024.2.5?classifier=sources

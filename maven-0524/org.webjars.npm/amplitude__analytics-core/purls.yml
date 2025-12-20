@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars.npm/amplitude__analytics-core@0.10.1
 - pkg:maven/org.webjars.npm/amplitude__analytics-core@0.10.1?classifier=sources
 - pkg:maven/org.webjars.npm/amplitude__analytics-core@2.5.0
+- pkg:maven/org.webjars.npm/amplitude__analytics-core@2.5.4

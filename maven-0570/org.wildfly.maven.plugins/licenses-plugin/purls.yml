@@ -22,3 +22,6 @@
 - pkg:maven/org.wildfly.maven.plugins/licenses-plugin@2.4.1.Final
 - pkg:maven/org.wildfly.maven.plugins/licenses-plugin@2.4.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.maven.plugins/licenses-plugin@2.4.1.Final?classifier=sources
+- pkg:maven/org.wildfly.maven.plugins/licenses-plugin@2.4.2.Final
+- pkg:maven/org.wildfly.maven.plugins/licenses-plugin@2.4.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.maven.plugins/licenses-plugin@2.4.2.Final?classifier=sources

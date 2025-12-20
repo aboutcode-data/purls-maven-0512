@@ -35,3 +35,5 @@
 - pkg:maven/io.jexxa.common/common-adapters@2.0.6?classifier=sources
 - pkg:maven/io.jexxa.common/common-adapters@2.1.0
 - pkg:maven/io.jexxa.common/common-adapters@2.1.0?classifier=sources
+- pkg:maven/io.jexxa.common/common-adapters@2.1.1
+- pkg:maven/io.jexxa.common/common-adapters@2.1.1?classifier=sources

@@ -224,3 +224,5 @@
 - pkg:maven/org.opendaylight.controller/odl-jolokia-osgi@9.0.4
 - pkg:maven/org.opendaylight.controller/odl-jolokia-osgi@9.0.4?classifier=sources
 - pkg:maven/org.opendaylight.controller/odl-jolokia-osgi@9.0.5?classifier=sources
+- pkg:maven/org.opendaylight.controller/odl-jolokia-osgi@9.0.6
+- pkg:maven/org.opendaylight.controller/odl-jolokia-osgi@9.0.6?classifier=sources

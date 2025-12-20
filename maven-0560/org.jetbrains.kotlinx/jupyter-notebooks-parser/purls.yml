@@ -1,1 +1,4 @@
 - pkg:maven/org.jetbrains.kotlinx/jupyter-notebooks-parser@0.1.0-dev-1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/jupyter-notebooks-parser@0.2.0-dev-10?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/jupyter-notebooks-parser@0.2.0-dev-6?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/jupyter-notebooks-parser@0.2.0-dev-7?classifier=sources

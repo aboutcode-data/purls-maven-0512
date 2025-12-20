@@ -1,0 +1,3 @@
+- pkg:maven/com.browarski.kotlinfixture/fixture@0.0.1?classifier=sources
+- pkg:maven/com.browarski.kotlinfixture/fixture@1.0.0?classifier=sources
+- pkg:maven/com.browarski.kotlinfixture/fixture@1.0.1?classifier=sources

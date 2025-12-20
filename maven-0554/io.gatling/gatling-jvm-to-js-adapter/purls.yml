@@ -22,3 +22,9 @@
 - pkg:maven/io.gatling/gatling-jvm-to-js-adapter@3.11.7?classifier=sources
 - pkg:maven/io.gatling/gatling-jvm-to-js-adapter@3.12.0
 - pkg:maven/io.gatling/gatling-jvm-to-js-adapter@3.12.0?classifier=sources
+- pkg:maven/io.gatling/gatling-jvm-to-js-adapter@3.13.1
+- pkg:maven/io.gatling/gatling-jvm-to-js-adapter@3.13.103
+- pkg:maven/io.gatling/gatling-jvm-to-js-adapter@3.13.103?classifier=sources
+- pkg:maven/io.gatling/gatling-jvm-to-js-adapter@3.13.1?classifier=sources
+- pkg:maven/io.gatling/gatling-jvm-to-js-adapter@3.13.2
+- pkg:maven/io.gatling/gatling-jvm-to-js-adapter@3.13.2?classifier=sources

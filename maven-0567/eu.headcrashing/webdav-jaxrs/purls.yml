@@ -1,0 +1,2 @@
+- pkg:maven/eu.headcrashing/webdav-jaxrs@2-quipsysearchalpha1
+- pkg:maven/eu.headcrashing/webdav-jaxrs@2-quipsysearchalpha1?classifier=sources

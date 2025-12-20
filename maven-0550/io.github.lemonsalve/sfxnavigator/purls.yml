@@ -1,0 +1,8 @@
+- pkg:maven/io.github.lemonsalve/sfxnavigator@0.0.1-BETA?classifier=sources
+- pkg:maven/io.github.lemonsalve/sfxnavigator@0.0.2-BETA?classifier=sources
+- pkg:maven/io.github.lemonsalve/sfxnavigator@0.0.3-BETA?classifier=sources
+- pkg:maven/io.github.lemonsalve/sfxnavigator@0.0.4-BETA?classifier=sources
+- pkg:maven/io.github.lemonsalve/sfxnavigator@0.0.5-BETA?classifier=sources
+- pkg:maven/io.github.lemonsalve/sfxnavigator@0.0.6-BETA?classifier=sources
+- pkg:maven/io.github.lemonsalve/sfxnavigator@0.0.7-BETA?classifier=sources
+- pkg:maven/io.github.lemonsalve/sfxnavigator@0.0.8-BETA?classifier=sources

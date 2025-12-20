@@ -36,3 +36,5 @@
 - pkg:maven/be.yildiz-games/common-configuration@1.3.6?classifier=sources
 - pkg:maven/be.yildiz-games/common-configuration@1.4.0
 - pkg:maven/be.yildiz-games/common-configuration@1.4.0?classifier=sources
+- pkg:maven/be.yildiz-games/common-configuration@1.5.0
+- pkg:maven/be.yildiz-games/common-configuration@1.5.0?classifier=sources

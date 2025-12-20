@@ -8,3 +8,5 @@
 - pkg:maven/us.ihmc/ihmc-trajectory-optimization@0.14.0-240126?classifier=sources
 - pkg:maven/us.ihmc/ihmc-trajectory-optimization@0.14.1?classifier=sources
 - pkg:maven/us.ihmc/ihmc-trajectory-optimization@0.14.2?classifier=sources
+- pkg:maven/us.ihmc/ihmc-trajectory-optimization@0.14.3?classifier=sources
+- pkg:maven/us.ihmc/ihmc-trajectory-optimization@0.15.0?classifier=sources

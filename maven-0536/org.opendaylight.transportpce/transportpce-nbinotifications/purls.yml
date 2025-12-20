@@ -1,6 +1,7 @@
 - pkg:maven/org.opendaylight.transportpce/transportpce-nbinotifications@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-nbinotifications@10.0.1
 - pkg:maven/org.opendaylight.transportpce/transportpce-nbinotifications@10.0.1?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/transportpce-nbinotifications@10.1.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-nbinotifications@3.0.0
 - pkg:maven/org.opendaylight.transportpce/transportpce-nbinotifications@3.0.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-nbinotifications@3.1.0

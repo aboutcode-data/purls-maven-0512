@@ -1,0 +1,2 @@
+- pkg:maven/io.dataspray/dataspray-client@0.0.2
+- pkg:maven/io.dataspray/dataspray-client@0.0.2?classifier=sources

@@ -50,7 +50,11 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/gitlab-reporter@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/gitlab-reporter@36.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/gitlab-reporter@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/gitlab-reporter@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/gitlab-reporter@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/gitlab-reporter@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/gitlab-reporter@40.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/gitlab-reporter@40.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/gitlab-reporter@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/gitlab-reporter@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/gitlab-reporter@6.0.0?classifier=sources

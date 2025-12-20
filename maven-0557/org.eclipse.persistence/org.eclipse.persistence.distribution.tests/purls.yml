@@ -66,3 +66,5 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.distribution.tests@5.0.0-B02?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.distribution.tests@5.0.0-B03
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.distribution.tests@5.0.0-B03?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.distribution.tests@5.0.0-B04
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.distribution.tests@5.0.0-B04?classifier=sources

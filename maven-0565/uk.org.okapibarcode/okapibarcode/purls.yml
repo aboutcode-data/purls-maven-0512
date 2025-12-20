@@ -63,3 +63,4 @@
 - pkg:maven/uk.org.okapibarcode/okapibarcode@0.4.6?classifier=sources
 - pkg:maven/uk.org.okapibarcode/okapibarcode@0.4.7?classifier=sources
 - pkg:maven/uk.org.okapibarcode/okapibarcode@0.4.8?classifier=sources
+- pkg:maven/uk.org.okapibarcode/okapibarcode@0.4.9?classifier=sources

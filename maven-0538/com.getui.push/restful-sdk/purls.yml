@@ -44,3 +44,5 @@
 - pkg:maven/com.getui.push/restful-sdk@1.0.4.0?classifier=sources
 - pkg:maven/com.getui.push/restful-sdk@1.0.5.0
 - pkg:maven/com.getui.push/restful-sdk@1.0.5.0?classifier=sources
+- pkg:maven/com.getui.push/restful-sdk@1.0.6.0
+- pkg:maven/com.getui.push/restful-sdk@1.0.6.0?classifier=sources

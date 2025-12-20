@@ -157,6 +157,9 @@
 - pkg:maven/io.spinnaker.kork/kork-telemetry@7.240.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-telemetry@7.241.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-telemetry@7.242.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-telemetry@7.243.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-telemetry@7.244.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-telemetry@7.245.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-telemetry@7.92.2?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-telemetry@7.92.4?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-telemetry@7.92.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cloud.piranha.extension/piranha-extension-fileupload@24.11.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-fileupload@24.11.0?classifier=sources

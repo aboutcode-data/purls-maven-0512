@@ -456,6 +456,8 @@
 - pkg:maven/com.chargebee/chargebee-java@3.24.0?classifier=sources
 - pkg:maven/com.chargebee/chargebee-java@3.25.0
 - pkg:maven/com.chargebee/chargebee-java@3.25.0?classifier=sources
+- pkg:maven/com.chargebee/chargebee-java@3.26.0
+- pkg:maven/com.chargebee/chargebee-java@3.26.0?classifier=sources
 - pkg:maven/com.chargebee/chargebee-java@3.3.0
 - pkg:maven/com.chargebee/chargebee-java@3.3.0?classifier=sources
 - pkg:maven/com.chargebee/chargebee-java@3.4.0

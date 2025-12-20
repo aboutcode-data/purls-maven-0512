@@ -48,6 +48,7 @@
 - pkg:maven/com.prowidesoftware/pw-iso20022@SRU2024-10.2.1?classifier=sources
 - pkg:maven/com.prowidesoftware/pw-iso20022@SRU2024-10.2.2?classifier=sources
 - pkg:maven/com.prowidesoftware/pw-iso20022@SRU2024-10.2.3?classifier=sources
+- pkg:maven/com.prowidesoftware/pw-iso20022@SRU2024-10.2.4?classifier=sources
 - pkg:maven/com.prowidesoftware/pw-iso20022@SRU2024-9.5.0?classifier=sources
 - pkg:maven/com.prowidesoftware/pw-iso20022@SRU2024-9.5.1?classifier=sources
 - pkg:maven/com.prowidesoftware/pw-iso20022@SRU2024-9.5.2?classifier=sources
