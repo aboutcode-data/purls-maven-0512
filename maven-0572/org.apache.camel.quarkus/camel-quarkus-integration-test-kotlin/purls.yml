@@ -45,3 +45,4 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-kotlin@3.5.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-kotlin@3.6.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-kotlin@3.7.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-kotlin@3.8.0

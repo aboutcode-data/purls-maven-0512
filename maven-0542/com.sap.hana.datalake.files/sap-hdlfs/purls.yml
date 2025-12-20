@@ -9,3 +9,7 @@
 - pkg:maven/com.sap.hana.datalake.files/sap-hdlfs@1.2.1?classifier=sources
 - pkg:maven/com.sap.hana.datalake.files/sap-hdlfs@1.2.5
 - pkg:maven/com.sap.hana.datalake.files/sap-hdlfs@1.2.5?classifier=sources
+- pkg:maven/com.sap.hana.datalake.files/sap-hdlfs@2.0.27
+- pkg:maven/com.sap.hana.datalake.files/sap-hdlfs@2.0.27?classifier=sources
+- pkg:maven/com.sap.hana.datalake.files/sap-hdlfs@3.0.3
+- pkg:maven/com.sap.hana.datalake.files/sap-hdlfs@3.0.3?classifier=sources

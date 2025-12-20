@@ -20,3 +20,5 @@
 - pkg:maven/com.google.ortools/ortools-java@9.7.2996?classifier=sources
 - pkg:maven/com.google.ortools/ortools-java@9.8.3296
 - pkg:maven/com.google.ortools/ortools-java@9.8.3296?classifier=sources
+- pkg:maven/com.google.ortools/ortools-java@9.9.3963
+- pkg:maven/com.google.ortools/ortools-java@9.9.3963?classifier=sources

@@ -32,6 +32,10 @@
 - pkg:maven/com.google.maps.api.grpc/grpc-google-maps-addressvalidation-v1@0.28.0?classifier=sources
 - pkg:maven/com.google.maps.api.grpc/grpc-google-maps-addressvalidation-v1@0.29.0
 - pkg:maven/com.google.maps.api.grpc/grpc-google-maps-addressvalidation-v1@0.29.0?classifier=sources
+- pkg:maven/com.google.maps.api.grpc/grpc-google-maps-addressvalidation-v1@0.30.0
+- pkg:maven/com.google.maps.api.grpc/grpc-google-maps-addressvalidation-v1@0.30.0?classifier=sources
+- pkg:maven/com.google.maps.api.grpc/grpc-google-maps-addressvalidation-v1@0.31.0
+- pkg:maven/com.google.maps.api.grpc/grpc-google-maps-addressvalidation-v1@0.31.0?classifier=sources
 - pkg:maven/com.google.maps.api.grpc/grpc-google-maps-addressvalidation-v1@0.6.0
 - pkg:maven/com.google.maps.api.grpc/grpc-google-maps-addressvalidation-v1@0.6.0?classifier=sources
 - pkg:maven/com.google.maps.api.grpc/grpc-google-maps-addressvalidation-v1@0.7.0

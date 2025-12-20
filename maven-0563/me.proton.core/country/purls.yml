@@ -47,6 +47,7 @@
 - pkg:maven/me.proton.core/country@18.2.2?classifier=sources
 - pkg:maven/me.proton.core/country@18.2.3?classifier=sources
 - pkg:maven/me.proton.core/country@18.2.4?classifier=sources
+- pkg:maven/me.proton.core/country@18.2.5?classifier=sources
 - pkg:maven/me.proton.core/country@18.3.0?classifier=sources
 - pkg:maven/me.proton.core/country@18.4.0?classifier=sources
 - pkg:maven/me.proton.core/country@18.4.1?classifier=sources
@@ -55,6 +56,9 @@
 - pkg:maven/me.proton.core/country@19.1.0?classifier=sources
 - pkg:maven/me.proton.core/country@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/country@2.0.0?classifier=sources
+- pkg:maven/me.proton.core/country@20.0.0?classifier=sources
+- pkg:maven/me.proton.core/country@21.0.0?classifier=sources
+- pkg:maven/me.proton.core/country@21.1.0?classifier=sources
 - pkg:maven/me.proton.core/country@3.0.0?classifier=sources
 - pkg:maven/me.proton.core/country@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/country@4.1.0?classifier=sources

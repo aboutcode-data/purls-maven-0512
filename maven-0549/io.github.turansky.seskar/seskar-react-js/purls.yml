@@ -41,4 +41,7 @@
 - pkg:maven/io.github.turansky.seskar/seskar-react-js@2.3.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-react-js@2.32.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-react-js@2.4.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-react-js@2.40.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-react-js@2.41.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-react-js@2.42.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-react-js@2.5.0?classifier=sources

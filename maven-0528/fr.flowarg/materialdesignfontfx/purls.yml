@@ -2,3 +2,4 @@
 - pkg:maven/fr.flowarg/materialdesignfontfx@7.2.96-1?classifier=sources
 - pkg:maven/fr.flowarg/materialdesignfontfx@7.2.96-2?classifier=sources
 - pkg:maven/fr.flowarg/materialdesignfontfx@7.3.67-0?classifier=sources
+- pkg:maven/fr.flowarg/materialdesignfontfx@7.4.47-0?classifier=sources

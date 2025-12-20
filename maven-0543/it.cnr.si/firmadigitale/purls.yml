@@ -8,3 +8,5 @@
 - pkg:maven/it.cnr.si/firmadigitale@1.17?classifier=sources
 - pkg:maven/it.cnr.si/firmadigitale@1.18
 - pkg:maven/it.cnr.si/firmadigitale@1.18?classifier=sources
+- pkg:maven/it.cnr.si/firmadigitale@2.0
+- pkg:maven/it.cnr.si/firmadigitale@2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kijuky/enumeratum-scalikejdbc42_3@1.7.3.2
+- pkg:maven/io.github.kijuky/enumeratum-scalikejdbc42_3@1.7.3.2?classifier=sources

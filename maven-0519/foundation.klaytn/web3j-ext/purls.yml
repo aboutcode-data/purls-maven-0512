@@ -8,3 +8,4 @@
 - pkg:maven/foundation.klaytn/web3j-ext@v0.9.8?classifier=sources
 - pkg:maven/foundation.klaytn/web3j-ext@v0.9.9?classifier=sources
 - pkg:maven/foundation.klaytn/web3j-ext@v1.0.0?classifier=sources
+- pkg:maven/foundation.klaytn/web3j-ext@v1.0.1?classifier=sources

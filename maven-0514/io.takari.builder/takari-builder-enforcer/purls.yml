@@ -3,3 +3,4 @@
 - pkg:maven/io.takari.builder/takari-builder-enforcer@0.20.7?classifier=sources
 - pkg:maven/io.takari.builder/takari-builder-enforcer@0.20.9?classifier=sources
 - pkg:maven/io.takari.builder/takari-builder-enforcer@1.0.0?classifier=sources
+- pkg:maven/io.takari.builder/takari-builder-enforcer@1.0.1?classifier=sources

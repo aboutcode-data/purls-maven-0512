@@ -1,3 +1,4 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.dxp.theme.contributor@1.0.22
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.dxp.theme.contributor@1.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.dxp.theme.contributor@1.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.dxp.theme.contributor@1.0.23?classifier=sources

@@ -47,3 +47,4 @@
 - pkg:maven/com.apollographql.federation/federation-graphql-java-support@4.2.0?classifier=sources
 - pkg:maven/com.apollographql.federation/federation-graphql-java-support@4.3.0?classifier=sources
 - pkg:maven/com.apollographql.federation/federation-graphql-java-support@4.4.0?classifier=sources
+- pkg:maven/com.apollographql.federation/federation-graphql-java-support@4.4.1?classifier=sources

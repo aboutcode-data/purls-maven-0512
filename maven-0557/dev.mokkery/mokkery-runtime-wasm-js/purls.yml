@@ -1,0 +1,6 @@
+- pkg:maven/dev.mokkery/mokkery-runtime-wasm-js@1.9.20-1.4.0?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-runtime-wasm-js@1.9.21-1.4.0?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-runtime-wasm-js@1.9.22-1.4.0?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-runtime-wasm-js@1.9.22-1.5.0?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-runtime-wasm-js@1.9.23-1.5.0?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-runtime-wasm-js@2.0.0-Beta1?classifier=sources

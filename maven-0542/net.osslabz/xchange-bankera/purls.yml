@@ -1,0 +1,2 @@
+- pkg:maven/net.osslabz/xchange-bankera@5.1.2.2
+- pkg:maven/net.osslabz/xchange-bankera@5.1.2.2?classifier=sources

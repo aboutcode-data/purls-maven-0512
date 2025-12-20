@@ -64,3 +64,4 @@
 - pkg:maven/com.karumi/shot-core@5.9.0
 - pkg:maven/com.karumi/shot-core@5.9.0?classifier=sources
 - pkg:maven/com.karumi/shot-core@6.0.0?classifier=sources
+- pkg:maven/com.karumi/shot-core@6.1.0?classifier=sources

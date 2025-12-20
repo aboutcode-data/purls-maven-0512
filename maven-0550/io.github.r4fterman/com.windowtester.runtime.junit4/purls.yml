@@ -1,0 +1,2 @@
+- pkg:maven/io.github.r4fterman/com.windowtester.runtime.junit4@4.13.2
+- pkg:maven/io.github.r4fterman/com.windowtester.runtime.junit4@4.13.2?classifier=sources

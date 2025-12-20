@@ -1,0 +1,2 @@
+- pkg:maven/net.osslabz/xchange-coinone@5.1.2.2
+- pkg:maven/net.osslabz/xchange-coinone@5.1.2.2?classifier=sources

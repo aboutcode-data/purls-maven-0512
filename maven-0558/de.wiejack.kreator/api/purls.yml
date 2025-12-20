@@ -5,3 +5,4 @@
 - pkg:maven/de.wiejack.kreator/api@0.9.4?classifier=sources
 - pkg:maven/de.wiejack.kreator/api@0.9.5?classifier=sources
 - pkg:maven/de.wiejack.kreator/api@0.9.6?classifier=sources
+- pkg:maven/de.wiejack.kreator/api@0.9.7?classifier=sources

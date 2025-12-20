@@ -535,3 +535,5 @@
 - pkg:maven/org.javers/javers-persistence-mongo@7.3.5?classifier=sources
 - pkg:maven/org.javers/javers-persistence-mongo@7.3.6?classifier=sources
 - pkg:maven/org.javers/javers-persistence-mongo@7.3.7?classifier=sources
+- pkg:maven/org.javers/javers-persistence-mongo@7.3.8?classifier=sources
+- pkg:maven/org.javers/javers-persistence-mongo@7.4.0?classifier=sources

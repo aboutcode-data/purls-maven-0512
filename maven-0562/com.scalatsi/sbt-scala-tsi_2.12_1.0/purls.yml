@@ -1,0 +1,2 @@
+- pkg:maven/com.scalatsi/sbt-scala-tsi_2.12_1.0@0.8.3
+- pkg:maven/com.scalatsi/sbt-scala-tsi_2.12_1.0@0.8.3?classifier=sources

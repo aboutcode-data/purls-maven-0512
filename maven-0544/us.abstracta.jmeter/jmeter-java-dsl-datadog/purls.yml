@@ -36,3 +36,5 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-datadog@1.25.3
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-datadog@1.25.3?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-datadog@1.25?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-datadog@1.26
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-datadog@1.26?classifier=sources

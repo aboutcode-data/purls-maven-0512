@@ -12,5 +12,10 @@
 - pkg:maven/io.github.kituin/ActionLib@0.9.3-forge?classifier=sources
 - pkg:maven/io.github.kituin/ActionLib@0.9.4-forge?classifier=sources
 - pkg:maven/io.github.kituin/ActionLib@1.0.1-fabric?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@1.0.2-fabric?classifier=sources
 - pkg:maven/io.github.kituin/ActionLib@1.0.2-forge?classifier=sources
 - pkg:maven/io.github.kituin/ActionLib@1.0.3-forge?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@1.0.4-forge?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@1.6.1-neoforge?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@1.9.1-neoforge?classifier=sources
+- pkg:maven/io.github.kituin/ActionLib@1.9.2-neoforge?classifier=sources

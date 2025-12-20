@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/microsoft__applicationinsights-dependencies-js@2.8.17
+- pkg:maven/org.webjars.npm/microsoft__applicationinsights-dependencies-js@2.8.17?classifier=sources

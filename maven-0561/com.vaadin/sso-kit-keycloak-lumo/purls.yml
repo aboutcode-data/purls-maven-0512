@@ -30,3 +30,5 @@
 - pkg:maven/com.vaadin/sso-kit-keycloak-lumo@2.2.1?classifier=sources
 - pkg:maven/com.vaadin/sso-kit-keycloak-lumo@2.3.0
 - pkg:maven/com.vaadin/sso-kit-keycloak-lumo@2.3.0?classifier=sources
+- pkg:maven/com.vaadin/sso-kit-keycloak-lumo@2.3.1
+- pkg:maven/com.vaadin/sso-kit-keycloak-lumo@2.3.1?classifier=sources

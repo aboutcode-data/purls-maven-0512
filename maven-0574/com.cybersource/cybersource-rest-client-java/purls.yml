@@ -113,6 +113,8 @@
 - pkg:maven/com.cybersource/cybersource-rest-client-java@0.0.60?classifier=sources
 - pkg:maven/com.cybersource/cybersource-rest-client-java@0.0.61
 - pkg:maven/com.cybersource/cybersource-rest-client-java@0.0.61?classifier=sources
+- pkg:maven/com.cybersource/cybersource-rest-client-java@0.0.62
+- pkg:maven/com.cybersource/cybersource-rest-client-java@0.0.62?classifier=sources
 - pkg:maven/com.cybersource/cybersource-rest-client-java@0.0.6?classifier=sources
 - pkg:maven/com.cybersource/cybersource-rest-client-java@0.0.7
 - pkg:maven/com.cybersource/cybersource-rest-client-java@0.0.7?classifier=sources

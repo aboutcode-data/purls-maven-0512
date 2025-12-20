@@ -18,3 +18,5 @@
 - pkg:maven/com.cognitect.aws/identitystore@845.2.1359.0?classifier=sources
 - pkg:maven/com.cognitect.aws/identitystore@847.2.1365.0
 - pkg:maven/com.cognitect.aws/identitystore@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/identitystore@857.2.1574.0
+- pkg:maven/com.cognitect.aws/identitystore@857.2.1574.0?classifier=sources

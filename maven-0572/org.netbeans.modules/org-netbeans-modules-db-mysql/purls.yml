@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-mysql@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-mysql@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-mysql@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-db-mysql@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-mysql@RELEASE90?classifier=sources

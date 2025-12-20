@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.streams/streams-persist-cassandra@0.5.1
 - pkg:maven/org.apache.streams/streams-persist-cassandra@0.6.0
 - pkg:maven/org.apache.streams/streams-persist-cassandra@0.6.1
+- pkg:maven/org.apache.streams/streams-persist-cassandra@0.7.0

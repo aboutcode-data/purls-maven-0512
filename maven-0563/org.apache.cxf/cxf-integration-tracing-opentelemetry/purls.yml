@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.cxf/cxf-integration-tracing-opentelemetry@3.6.2?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-integration-tracing-opentelemetry@4.0.3
 - pkg:maven/org.apache.cxf/cxf-integration-tracing-opentelemetry@4.0.3?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-integration-tracing-opentelemetry@4.0.4
+- pkg:maven/org.apache.cxf/cxf-integration-tracing-opentelemetry@4.0.4?classifier=sources

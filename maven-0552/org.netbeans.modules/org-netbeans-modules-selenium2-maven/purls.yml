@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-maven@RELEASE90?classifier=sources

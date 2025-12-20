@@ -60,3 +60,5 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-se-logging@2.4.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-se-logging@2.5.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-se-logging@2.5.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-se-logging@2.6.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-se-logging@2.6.0?classifier=sources

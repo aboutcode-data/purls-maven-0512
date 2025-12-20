@@ -176,6 +176,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@5.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@5.0.18
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@5.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@5.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@5.0.2
@@ -252,6 +253,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@6.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@6.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@6.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@6.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@6.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.impl@6.0.3

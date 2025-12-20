@@ -30,6 +30,8 @@
 - pkg:maven/tech.powerjob/powerjob-common@4.3.7?classifier=sources
 - pkg:maven/tech.powerjob/powerjob-common@4.3.8
 - pkg:maven/tech.powerjob/powerjob-common@4.3.8?classifier=sources
+- pkg:maven/tech.powerjob/powerjob-common@4.3.9
+- pkg:maven/tech.powerjob/powerjob-common@4.3.9?classifier=sources
 - pkg:maven/tech.powerjob/powerjob-common@5.0.0-beta
 - pkg:maven/tech.powerjob/powerjob-common@5.0.0-beta2
 - pkg:maven/tech.powerjob/powerjob-common@5.0.0-beta2?classifier=sources

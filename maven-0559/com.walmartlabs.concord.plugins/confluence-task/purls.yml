@@ -45,3 +45,4 @@
 - pkg:maven/com.walmartlabs.concord.plugins/confluence-task@1.48.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/confluence-task@1.49.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/confluence-task@2.0.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/confluence-task@2.0.1?classifier=sources

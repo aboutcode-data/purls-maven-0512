@@ -1,3 +1,4 @@
 - pkg:maven/org.amshove.natural/natparse@0.10?classifier=sources
 - pkg:maven/org.amshove.natural/natparse@0.12?classifier=sources
+- pkg:maven/org.amshove.natural/natparse@0.13?classifier=sources
 - pkg:maven/org.amshove.natural/natparse@0.9?classifier=sources

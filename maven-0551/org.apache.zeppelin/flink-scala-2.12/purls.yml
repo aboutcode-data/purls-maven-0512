@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.zeppelin/flink-scala-2.12@0.10.0?classifier=sources
 - pkg:maven/org.apache.zeppelin/flink-scala-2.12@0.10.1
 - pkg:maven/org.apache.zeppelin/flink-scala-2.12@0.10.1?classifier=sources
+- pkg:maven/org.apache.zeppelin/flink-scala-2.12@0.11.0
+- pkg:maven/org.apache.zeppelin/flink-scala-2.12@0.11.0?classifier=sources

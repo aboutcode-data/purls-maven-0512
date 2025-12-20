@@ -1,0 +1,4 @@
+- pkg:maven/dev.mongocamp/mongocamp-plugin-requestlogging_2.13@1.5.10
+- pkg:maven/dev.mongocamp/mongocamp-plugin-requestlogging_2.13@1.5.10?classifier=sources
+- pkg:maven/dev.mongocamp/mongocamp-plugin-requestlogging_2.13@1.5.9
+- pkg:maven/dev.mongocamp/mongocamp-plugin-requestlogging_2.13@1.5.9?classifier=sources

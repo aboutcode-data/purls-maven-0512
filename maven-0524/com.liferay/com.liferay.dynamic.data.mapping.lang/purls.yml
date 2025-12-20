@@ -109,6 +109,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@2.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@2.0.42?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@2.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@2.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@2.0.5
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@2.0.5?classifier=sources
@@ -403,6 +404,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@3.0.93?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@3.0.94?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@3.0.95?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@3.0.96?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@3.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@4.0.0
@@ -689,6 +691,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@4.0.94?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@4.0.95?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@4.0.96?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@4.0.97?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@4.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@4.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@5.0.0
@@ -815,6 +818,9 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@5.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@5.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@5.0.14
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@5.0.140?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@5.0.141?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@5.0.142?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@5.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@5.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.lang@5.0.15

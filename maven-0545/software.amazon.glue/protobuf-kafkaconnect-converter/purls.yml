@@ -14,3 +14,5 @@
 - pkg:maven/software.amazon.glue/protobuf-kafkaconnect-converter@1.1.17?classifier=sources
 - pkg:maven/software.amazon.glue/protobuf-kafkaconnect-converter@1.1.18
 - pkg:maven/software.amazon.glue/protobuf-kafkaconnect-converter@1.1.18?classifier=sources
+- pkg:maven/software.amazon.glue/protobuf-kafkaconnect-converter@1.1.19
+- pkg:maven/software.amazon.glue/protobuf-kafkaconnect-converter@1.1.19?classifier=sources

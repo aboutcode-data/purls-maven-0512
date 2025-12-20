@@ -261,6 +261,10 @@
 - pkg:maven/org.kill-bill.billing/killbill-platform-test@0.41.5?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-test@0.41.6
 - pkg:maven/org.kill-bill.billing/killbill-platform-test@0.41.6?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-platform-test@0.41.7
+- pkg:maven/org.kill-bill.billing/killbill-platform-test@0.41.7?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-platform-test@0.41.8
+- pkg:maven/org.kill-bill.billing/killbill-platform-test@0.41.8?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-test@0.4?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-test@0.5
 - pkg:maven/org.kill-bill.billing/killbill-platform-test@0.5?classifier=sources

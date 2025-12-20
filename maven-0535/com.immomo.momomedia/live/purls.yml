@@ -230,3 +230,5 @@
 - pkg:maven/com.immomo.momomedia/live@2.3.1-202401041437?type=aar
 - pkg:maven/com.immomo.momomedia/live@2.3.1-202401081600?classifier=sources
 - pkg:maven/com.immomo.momomedia/live@2.3.1-202401081600?type=aar
+- pkg:maven/com.immomo.momomedia/live@2.3.1-202401121843?classifier=sources
+- pkg:maven/com.immomo.momomedia/live@2.3.1-202401121843?type=aar

@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-progress-nb@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-progress-nb@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-progress-nb@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-progress-nb@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-progress-nb@RELEASE90?classifier=sources

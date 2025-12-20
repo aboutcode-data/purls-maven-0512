@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-subversion@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-subversion@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-subversion@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-subversion@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-subversion@RELEASE90?classifier=sources

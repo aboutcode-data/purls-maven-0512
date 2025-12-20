@@ -902,6 +902,7 @@
 - pkg:maven/com.liferay/com.liferay.journal.web@3.0.133?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.web@3.0.134?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.web@3.0.135?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.web@3.0.136?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.web@3.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.web@3.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.web@3.0.14
@@ -1290,6 +1291,7 @@
 - pkg:maven/com.liferay/com.liferay.journal.web@4.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.web@4.0.13
 - pkg:maven/com.liferay/com.liferay.journal.web@4.0.130?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.web@4.0.131?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.web@4.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.web@4.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.web@4.0.14
@@ -1755,6 +1757,8 @@
 - pkg:maven/com.liferay/com.liferay.journal.web@5.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.web@5.0.16
 - pkg:maven/com.liferay/com.liferay.journal.web@5.0.160?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.web@5.0.161?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.web@5.0.162?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.web@5.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.web@5.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.web@5.0.17

@@ -1,1 +1,2 @@
 - pkg:maven/io.eqoty.kryptools/bech32-watchosarm32@0.5.0?classifier=sources
+- pkg:maven/io.eqoty.kryptools/bech32-watchosarm32@0.6.1?classifier=sources

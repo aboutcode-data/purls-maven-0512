@@ -1,6 +1,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.dao.db@1.0.17
 - pkg:maven/com.liferay/com.liferay.portal.dao.db@1.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.dao.db@1.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.dao.db@1.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.dao.db@2.0.10
 - pkg:maven/com.liferay/com.liferay.portal.dao.db@2.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.dao.db@2.0.10?classifier=sources-commercial
@@ -100,6 +101,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.dao.db@5.0.3
 - pkg:maven/com.liferay/com.liferay.portal.dao.db@5.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.dao.db@5.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.dao.db@5.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.dao.db@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.dao.db@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.dao.db@5.0.4

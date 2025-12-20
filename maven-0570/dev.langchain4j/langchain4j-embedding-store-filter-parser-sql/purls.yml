@@ -1,0 +1,2 @@
+- pkg:maven/dev.langchain4j/langchain4j-embedding-store-filter-parser-sql@0.28.0
+- pkg:maven/dev.langchain4j/langchain4j-embedding-store-filter-parser-sql@0.28.0?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/com.ngrok/ngrok-jetty@0.5.0?classifier=sources
 - pkg:maven/com.ngrok/ngrok-jetty@0.6.0
 - pkg:maven/com.ngrok/ngrok-jetty@0.6.0?classifier=sources
+- pkg:maven/com.ngrok/ngrok-jetty@1.0.0
+- pkg:maven/com.ngrok/ngrok-jetty@1.0.0?classifier=sources

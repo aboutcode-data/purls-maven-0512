@@ -2,3 +2,6 @@
 - pkg:maven/io.github.mirrerror/discordutils@4.8.1-final?classifier=sources
 - pkg:maven/io.github.mirrerror/discordutils@4.8.1?classifier=sources
 - pkg:maven/io.github.mirrerror/discordutils@4.8?classifier=sources
+- pkg:maven/io.github.mirrerror/discordutils@4.9?classifier=sources
+- pkg:maven/io.github.mirrerror/discordutils@5.0.1?classifier=sources
+- pkg:maven/io.github.mirrerror/discordutils@5.0?classifier=sources

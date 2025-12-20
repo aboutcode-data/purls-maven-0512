@@ -1,0 +1,2 @@
+- pkg:maven/org.smartboot.mqtt/smart-mqtt-test@0.36
+- pkg:maven/org.smartboot.mqtt/smart-mqtt-test@0.36?classifier=sources

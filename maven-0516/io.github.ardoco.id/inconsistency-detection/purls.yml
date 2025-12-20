@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ardoco.id/inconsistency-detection@1.0.0
+- pkg:maven/io.github.ardoco.id/inconsistency-detection@1.0.0?classifier=sources
