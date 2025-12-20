@@ -458,3 +458,4 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.taglib@6.1.6
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.taglib@6.1.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.taglib@6.1.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.taglib@6.1.8?classifier=sources

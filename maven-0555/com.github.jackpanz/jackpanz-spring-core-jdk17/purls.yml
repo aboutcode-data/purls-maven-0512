@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jackpanz/jackpanz-spring-core-jdk17@1.0.26
+- pkg:maven/com.github.jackpanz/jackpanz-spring-core-jdk17@1.0.26?classifier=sources

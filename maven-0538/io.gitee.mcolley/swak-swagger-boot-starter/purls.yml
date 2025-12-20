@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.mcolley/swak-swagger-boot-starter@2.2.0
+- pkg:maven/io.gitee.mcolley/swak-swagger-boot-starter@2.2.0?classifier=sources

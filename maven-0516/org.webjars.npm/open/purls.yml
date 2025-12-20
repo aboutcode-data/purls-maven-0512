@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/open@7.4.2?classifier=sources
 - pkg:maven/org.webjars.npm/open@8.4.0
 - pkg:maven/org.webjars.npm/open@8.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/open@9.1.0
+- pkg:maven/org.webjars.npm/open@9.1.0?classifier=sources

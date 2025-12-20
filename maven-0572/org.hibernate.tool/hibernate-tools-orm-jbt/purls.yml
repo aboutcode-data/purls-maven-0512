@@ -1,3 +1,11 @@
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.10.Final
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.10.Final?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.11.Final
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.11.Final?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.12.Final
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.12.Final?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.13.Final
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.13.Final?classifier=sources
 - pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.6.Final
 - pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.6.Final?classifier=sources
 - pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.6a.Final
@@ -6,7 +14,11 @@
 - pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.7.Final?classifier=sources
 - pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.8.Final
 - pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.8.Final?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.9.Final
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.2.9.Final?classifier=sources
 - pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.3.0.CR1
 - pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.3.0.CR1?classifier=sources
 - pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.3.0.Final
 - pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.3.0.Final?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.3.1.Final
+- pkg:maven/org.hibernate.tool/hibernate-tools-orm-jbt@6.3.1.Final?classifier=sources

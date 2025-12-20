@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.shiro/shiro-jcache@1.12.0
 - pkg:maven/org.apache.shiro/shiro-jcache@1.12.0?classifier=sources
+- pkg:maven/org.apache.shiro/shiro-jcache@1.13.0
+- pkg:maven/org.apache.shiro/shiro-jcache@1.13.0?classifier=sources
 - pkg:maven/org.apache.shiro/shiro-jcache@2.0.0-alpha-1
 - pkg:maven/org.apache.shiro/shiro-jcache@2.0.0-alpha-1?classifier=sources
 - pkg:maven/org.apache.shiro/shiro-jcache@2.0.0-alpha-2

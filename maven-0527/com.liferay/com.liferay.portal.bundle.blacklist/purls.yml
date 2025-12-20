@@ -91,3 +91,4 @@
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist@1.1.9
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist@1.1.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist@1.1.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist@4.0.21?classifier=sources

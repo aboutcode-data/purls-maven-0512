@@ -18,3 +18,5 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@3.9?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@4.0
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@4.0?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@4.1
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-web-provider@2024.0.0
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-web-provider@2024.0.0?classifier=sources

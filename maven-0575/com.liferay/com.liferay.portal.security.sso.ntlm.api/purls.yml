@@ -266,6 +266,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.ntlm.api@4.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.ntlm.api@4.0.25
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.ntlm.api@4.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.ntlm.api@4.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.ntlm.api@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.ntlm.api@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.ntlm.api@4.0.3

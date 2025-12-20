@@ -14,3 +14,8 @@
 - pkg:maven/org.openrewrite/rewrite-polyglot@1.6.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-polyglot@1.6.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-polyglot@1.7.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-polyglot@1.7.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-polyglot@1.8.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-polyglot@1.8.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-polyglot@1.8.2?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-polyglot@1.8.3?classifier=sources

@@ -156,6 +156,8 @@
 - pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@2.39?type=war
 - pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@2.40?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@2.40?type=war
+- pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@2.41?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@2.41?type=war
 - pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@2.5.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@2.5.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@2.5.1?type=war
@@ -193,6 +195,8 @@
 - pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@3.0.10?type=war
 - pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@3.0.11?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@3.0.11?type=war
+- pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@3.0.12?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@3.0.12?type=war
 - pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@3.0.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@3.0.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/servlet3-webapp@3.0.1?type=war

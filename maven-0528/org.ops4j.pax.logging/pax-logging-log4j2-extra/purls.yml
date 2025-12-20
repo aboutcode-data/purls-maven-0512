@@ -68,6 +68,8 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-log4j2-extra@1.12.6?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-log4j2-extra@1.12.7
 - pkg:maven/org.ops4j.pax.logging/pax-logging-log4j2-extra@1.12.7?classifier=sources
+- pkg:maven/org.ops4j.pax.logging/pax-logging-log4j2-extra@1.12.8
+- pkg:maven/org.ops4j.pax.logging/pax-logging-log4j2-extra@1.12.8?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-log4j2-extra@2.0.0
 - pkg:maven/org.ops4j.pax.logging/pax-logging-log4j2-extra@2.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-log4j2-extra@2.0.1
@@ -128,3 +130,5 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-log4j2-extra@2.2.3?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-log4j2-extra@2.2.4
 - pkg:maven/org.ops4j.pax.logging/pax-logging-log4j2-extra@2.2.4?classifier=sources
+- pkg:maven/org.ops4j.pax.logging/pax-logging-log4j2-extra@2.2.5
+- pkg:maven/org.ops4j.pax.logging/pax-logging-log4j2-extra@2.2.5?classifier=sources

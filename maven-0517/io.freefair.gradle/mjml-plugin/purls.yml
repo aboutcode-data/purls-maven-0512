@@ -1,1 +1,2 @@
 - pkg:maven/io.freefair.gradle/mjml-plugin@8.3?classifier=sources
+- pkg:maven/io.freefair.gradle/mjml-plugin@8.4?classifier=sources

@@ -196,6 +196,10 @@
 - pkg:maven/cn.authing/java-core@4.3.76?classifier=sources
 - pkg:maven/cn.authing/java-core@4.3.77
 - pkg:maven/cn.authing/java-core@4.3.77?classifier=sources
+- pkg:maven/cn.authing/java-core@4.3.78
+- pkg:maven/cn.authing/java-core@4.3.78?classifier=sources
+- pkg:maven/cn.authing/java-core@4.3.79
+- pkg:maven/cn.authing/java-core@4.3.79?classifier=sources
 - pkg:maven/cn.authing/java-core@4.3.7?classifier=sources
 - pkg:maven/cn.authing/java-core@4.3.8
 - pkg:maven/cn.authing/java-core@4.3.8?classifier=sources

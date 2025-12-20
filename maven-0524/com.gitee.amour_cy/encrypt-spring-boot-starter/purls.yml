@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.amour_cy/encrypt-spring-boot-starter@0.1
+- pkg:maven/com.gitee.amour_cy/encrypt-spring-boot-starter@0.1?classifier=sources

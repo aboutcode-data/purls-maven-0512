@@ -1,2 +1,6 @@
 - pkg:maven/io.github.casehubdk/spice4s_2.13@0.0.2
+- pkg:maven/io.github.casehubdk/spice4s_2.13@0.0.2-24-05d1667
+- pkg:maven/io.github.casehubdk/spice4s_2.13@0.0.2-24-05d1667?classifier=sources
+- pkg:maven/io.github.casehubdk/spice4s_2.13@0.0.2-25-7ad1a53
+- pkg:maven/io.github.casehubdk/spice4s_2.13@0.0.2-25-7ad1a53?classifier=sources
 - pkg:maven/io.github.casehubdk/spice4s_2.13@0.0.2?classifier=sources

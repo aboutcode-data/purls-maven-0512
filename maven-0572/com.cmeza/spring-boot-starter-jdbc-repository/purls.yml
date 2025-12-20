@@ -1,2 +1,4 @@
 - pkg:maven/com.cmeza/spring-boot-starter-jdbc-repository@1.0.0
 - pkg:maven/com.cmeza/spring-boot-starter-jdbc-repository@1.0.0?classifier=sources
+- pkg:maven/com.cmeza/spring-boot-starter-jdbc-repository@1.0.1
+- pkg:maven/com.cmeza/spring-boot-starter-jdbc-repository@1.0.1?classifier=sources

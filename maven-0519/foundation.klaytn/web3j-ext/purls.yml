@@ -2,3 +2,4 @@
 - pkg:maven/foundation.klaytn/web3j-ext@v0.9.2?classifier=sources
 - pkg:maven/foundation.klaytn/web3j-ext@v0.9.3?classifier=sources
 - pkg:maven/foundation.klaytn/web3j-ext@v0.9.4?classifier=sources
+- pkg:maven/foundation.klaytn/web3j-ext@v0.9.5?classifier=sources

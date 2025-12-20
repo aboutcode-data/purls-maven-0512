@@ -4,3 +4,5 @@
 - pkg:maven/io.starburst.errorprone/error-prone-checks@3?classifier=sources
 - pkg:maven/io.starburst.errorprone/error-prone-checks@4
 - pkg:maven/io.starburst.errorprone/error-prone-checks@4?classifier=sources
+- pkg:maven/io.starburst.errorprone/error-prone-checks@5
+- pkg:maven/io.starburst.errorprone/error-prone-checks@5?classifier=sources

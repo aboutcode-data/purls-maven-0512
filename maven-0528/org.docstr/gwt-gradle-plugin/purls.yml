@@ -6,3 +6,4 @@
 - pkg:maven/org.docstr/gwt-gradle-plugin@1.1.27?classifier=sources
 - pkg:maven/org.docstr/gwt-gradle-plugin@1.1.28?classifier=sources
 - pkg:maven/org.docstr/gwt-gradle-plugin@1.1.29?classifier=sources
+- pkg:maven/org.docstr/gwt-gradle-plugin@1.1.30?classifier=sources

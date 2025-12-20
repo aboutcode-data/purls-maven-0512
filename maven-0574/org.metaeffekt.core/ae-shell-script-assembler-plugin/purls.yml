@@ -1,0 +1,2 @@
+- pkg:maven/org.metaeffekt.core/ae-shell-script-assembler-plugin@0.95.0
+- pkg:maven/org.metaeffekt.core/ae-shell-script-assembler-plugin@0.95.0?classifier=sources

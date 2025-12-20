@@ -1,4 +1,5 @@
 - pkg:maven/com.prismacampaigns.sdk/PrismaSDK-Android@1.1.10?type=aar
+- pkg:maven/com.prismacampaigns.sdk/PrismaSDK-Android@1.1.11?type=aar
 - pkg:maven/com.prismacampaigns.sdk/PrismaSDK-Android@1.1.2?type=aar
 - pkg:maven/com.prismacampaigns.sdk/PrismaSDK-Android@1.1.3?type=aar
 - pkg:maven/com.prismacampaigns.sdk/PrismaSDK-Android@1.1.4?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/com.hncfx/abi@4.9.4
+- pkg:maven/com.hncfx/abi@4.9.4.fix_01
+- pkg:maven/com.hncfx/abi@4.9.4.fix_01?classifier=sources
+- pkg:maven/com.hncfx/abi@4.9.4?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/com.disneystreaming.smithy/aws-iotanalytics-spec@2023.02.10?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/aws-iotanalytics-spec@2023.09.22
 - pkg:maven/com.disneystreaming.smithy/aws-iotanalytics-spec@2023.09.22?classifier=sources
+- pkg:maven/com.disneystreaming.smithy/aws-iotanalytics-spec@2023.14.24
+- pkg:maven/com.disneystreaming.smithy/aws-iotanalytics-spec@2023.14.24?classifier=sources
+- pkg:maven/com.disneystreaming.smithy/aws-iotanalytics-spec@2023.23.30
+- pkg:maven/com.disneystreaming.smithy/aws-iotanalytics-spec@2023.23.30?classifier=sources

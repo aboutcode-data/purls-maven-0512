@@ -66,6 +66,7 @@
 - pkg:maven/com.intuit.karate/karate-robot@1.4.0.RC3
 - pkg:maven/com.intuit.karate/karate-robot@1.4.0.RC3?classifier=sources
 - pkg:maven/com.intuit.karate/karate-robot@1.4.0?classifier=sources
+- pkg:maven/com.intuit.karate/karate-robot@1.4.1
 - pkg:maven/com.intuit.karate/karate-robot@1.4.1.RC1
 - pkg:maven/com.intuit.karate/karate-robot@1.4.1.RC1?classifier=sources
 - pkg:maven/com.intuit.karate/karate-robot@1.4.1.RC2
@@ -74,3 +75,6 @@
 - pkg:maven/com.intuit.karate/karate-robot@1.4.1.RC3?classifier=sources
 - pkg:maven/com.intuit.karate/karate-robot@1.4.1.RC4
 - pkg:maven/com.intuit.karate/karate-robot@1.4.1.RC4?classifier=sources
+- pkg:maven/com.intuit.karate/karate-robot@1.4.1.RC5
+- pkg:maven/com.intuit.karate/karate-robot@1.4.1.RC5?classifier=sources
+- pkg:maven/com.intuit.karate/karate-robot@1.4.1?classifier=sources

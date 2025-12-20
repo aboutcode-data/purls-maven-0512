@@ -12,3 +12,9 @@
 - pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.09.17?classifier=sources
 - pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.09.20?classifier=sources
 - pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.09.29?classifier=sources
+- pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.10.05?classifier=sources
+- pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.10.06?classifier=sources
+- pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.10.19?classifier=sources
+- pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.10.25?classifier=sources
+- pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.10.30?classifier=sources
+- pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.11.03?classifier=sources

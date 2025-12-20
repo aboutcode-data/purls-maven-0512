@@ -16,6 +16,7 @@
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-mssql@1.2.3?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-mssql@1.2.4?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-mssql@1.2.5?classifier=sources
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-mssql@1.2.6?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-mssql@2.0.0-M10?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-mssql@2.0.0-M12?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-mssql@2.0.0-M13?classifier=sources
@@ -29,3 +30,4 @@
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-mssql@2.0.0-M8?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-mssql@2.0.0-M9?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-mssql@2.0.0?classifier=sources
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-mssql@2.1.0?classifier=sources

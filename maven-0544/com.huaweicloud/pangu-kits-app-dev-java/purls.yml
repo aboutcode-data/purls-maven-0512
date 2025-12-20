@@ -1,1 +1,3 @@
 - pkg:maven/com.huaweicloud/pangu-kits-app-dev-java@1.4.0?classifier=sources
+- pkg:maven/com.huaweicloud/pangu-kits-app-dev-java@1.4.3?classifier=sources
+- pkg:maven/com.huaweicloud/pangu-kits-app-dev-java@1.5.0?classifier=sources

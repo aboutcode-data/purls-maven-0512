@@ -5,4 +5,6 @@
 - pkg:maven/de.larsgrefer.sass/sass-embedded-spring6@3.0.2?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-spring6@3.1.0?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-spring6@3.2.0?classifier=sources
+- pkg:maven/de.larsgrefer.sass/sass-embedded-spring6@3.3.0?classifier=sources
+- pkg:maven/de.larsgrefer.sass/sass-embedded-spring6@3.3.1?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-spring6@unspecified?classifier=sources

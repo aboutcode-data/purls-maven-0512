@@ -176,3 +176,7 @@
 - pkg:maven/nl.vpro.shared/vpro-shared-jackson2@3.5.4?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-jackson2@4.0.0
 - pkg:maven/nl.vpro.shared/vpro-shared-jackson2@4.0.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-jackson2@4.1.0
+- pkg:maven/nl.vpro.shared/vpro-shared-jackson2@4.1.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-jackson2@4.1.1
+- pkg:maven/nl.vpro.shared/vpro-shared-jackson2@4.1.1?classifier=sources

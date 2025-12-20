@@ -3,4 +3,8 @@
 - pkg:maven/net.consentmanager.sdk/android@1.7.2?classifier=sources
 - pkg:maven/net.consentmanager.sdk/android@1.7.31?classifier=sources
 - pkg:maven/net.consentmanager.sdk/android@1.7.32?classifier=sources
+- pkg:maven/net.consentmanager.sdk/android@1.7.33-inno?classifier=sources
+- pkg:maven/net.consentmanager.sdk/android@1.7.33?classifier=sources
+- pkg:maven/net.consentmanager.sdk/android@1.7.34-unity?classifier=sources
+- pkg:maven/net.consentmanager.sdk/android@1.7.34?classifier=sources
 - pkg:maven/net.consentmanager.sdk/android@1.7.3?classifier=sources

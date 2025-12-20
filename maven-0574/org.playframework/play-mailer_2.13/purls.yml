@@ -1,0 +1,2 @@
+- pkg:maven/org.playframework/play-mailer_2.13@10.0.0
+- pkg:maven/org.playframework/play-mailer_2.13@10.0.0?classifier=sources

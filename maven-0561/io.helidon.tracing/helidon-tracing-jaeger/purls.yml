@@ -106,6 +106,8 @@
 - pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@2.6.2?classifier=sources
 - pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@2.6.3
 - pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@2.6.3?classifier=sources
+- pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@2.6.4
+- pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@2.6.4?classifier=sources
 - pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@3.0.0
 - pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@3.0.0-M1
 - pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@3.0.0-M1?classifier=sources
@@ -132,6 +134,8 @@
 - pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@3.2.1?classifier=sources
 - pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@3.2.2
 - pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@3.2.2?classifier=sources
+- pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@3.2.3
+- pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@3.2.3?classifier=sources
 - pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@4.0.0-ALPHA1
 - pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@4.0.0-ALPHA1?classifier=sources
 - pkg:maven/io.helidon.tracing/helidon-tracing-jaeger@4.0.0-ALPHA2

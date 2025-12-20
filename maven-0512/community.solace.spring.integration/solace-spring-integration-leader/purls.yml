@@ -12,3 +12,5 @@
 - pkg:maven/community.solace.spring.integration/solace-spring-integration-leader@1.2.0?classifier=sources
 - pkg:maven/community.solace.spring.integration/solace-spring-integration-leader@1.2.1
 - pkg:maven/community.solace.spring.integration/solace-spring-integration-leader@1.2.1?classifier=sources
+- pkg:maven/community.solace.spring.integration/solace-spring-integration-leader@1.2.2
+- pkg:maven/community.solace.spring.integration/solace-spring-integration-leader@1.2.2?classifier=sources

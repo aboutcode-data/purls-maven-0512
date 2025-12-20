@@ -1,0 +1,1 @@
+- pkg:maven/io.github.rieske.cdc/postgres-cdc@0.0.1?classifier=sources

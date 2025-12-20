@@ -26,3 +26,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-salesforce@5.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-salesforce@6.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-salesforce@6.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-salesforce@7.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-salesforce@7.0.0?classifier=sources

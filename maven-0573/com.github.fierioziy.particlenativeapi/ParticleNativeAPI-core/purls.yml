@@ -14,3 +14,5 @@
 - pkg:maven/com.github.fierioziy.particlenativeapi/ParticleNativeAPI-core@3.3.2?classifier=sources
 - pkg:maven/com.github.fierioziy.particlenativeapi/ParticleNativeAPI-core@4.0.0
 - pkg:maven/com.github.fierioziy.particlenativeapi/ParticleNativeAPI-core@4.0.0?classifier=sources
+- pkg:maven/com.github.fierioziy.particlenativeapi/ParticleNativeAPI-core@4.1.0
+- pkg:maven/com.github.fierioziy.particlenativeapi/ParticleNativeAPI-core@4.1.0?classifier=sources

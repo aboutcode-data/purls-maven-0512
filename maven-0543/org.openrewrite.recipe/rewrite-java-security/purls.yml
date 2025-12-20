@@ -33,3 +33,5 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-java-security@2.0.2?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-java-security@2.0.3?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-java-security@2.0.4?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-java-security@2.0.5?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-java-security@2.0.6?classifier=sources

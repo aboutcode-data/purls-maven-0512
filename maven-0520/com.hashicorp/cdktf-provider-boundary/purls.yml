@@ -46,3 +46,7 @@
 - pkg:maven/com.hashicorp/cdktf-provider-boundary@6.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-boundary@7.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-boundary@7.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-boundary@7.0.1
+- pkg:maven/com.hashicorp/cdktf-provider-boundary@7.0.1?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-boundary@8.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-boundary@8.0.0?classifier=sources

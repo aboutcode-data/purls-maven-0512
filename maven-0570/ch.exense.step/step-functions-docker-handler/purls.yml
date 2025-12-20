@@ -1,0 +1,4 @@
+- pkg:maven/ch.exense.step/step-functions-docker-handler@3.23.0
+- pkg:maven/ch.exense.step/step-functions-docker-handler@3.23.0?classifier=sources
+- pkg:maven/ch.exense.step/step-functions-docker-handler@3.24.0
+- pkg:maven/ch.exense.step/step-functions-docker-handler@3.24.0?classifier=sources

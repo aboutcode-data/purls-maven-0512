@@ -2,3 +2,4 @@
 - pkg:maven/com.bugsnag/bugsnag-android-performance@0.1.8?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-android-performance@1.0.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-android-performance@1.1.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-performance@1.1.1?classifier=sources

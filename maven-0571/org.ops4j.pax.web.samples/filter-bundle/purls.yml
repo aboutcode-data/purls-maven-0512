@@ -1,0 +1,4 @@
+- pkg:maven/org.ops4j.pax.web.samples/filter-bundle@8.0.24
+- pkg:maven/org.ops4j.pax.web.samples/filter-bundle@8.0.24?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/filter-bundle@9.0.13
+- pkg:maven/org.ops4j.pax.web.samples/filter-bundle@9.0.13?classifier=sources

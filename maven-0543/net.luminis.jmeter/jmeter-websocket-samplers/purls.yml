@@ -13,4 +13,5 @@
 - pkg:maven/net.luminis.jmeter/jmeter-websocket-samplers@1.2.7?classifier=sources
 - pkg:maven/net.luminis.jmeter/jmeter-websocket-samplers@1.2.8
 - pkg:maven/net.luminis.jmeter/jmeter-websocket-samplers@1.2.8?classifier=sources
+- pkg:maven/net.luminis.jmeter/jmeter-websocket-samplers@1.2.9?classifier=sources
 - pkg:maven/net.luminis.jmeter/jmeter-websocket-samplers@1.2?classifier=sources

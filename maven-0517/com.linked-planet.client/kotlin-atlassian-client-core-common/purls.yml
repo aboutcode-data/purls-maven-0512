@@ -1,0 +1,6 @@
+- pkg:maven/com.linked-planet.client/kotlin-atlassian-client-core-common@0.13.00
+- pkg:maven/com.linked-planet.client/kotlin-atlassian-client-core-common@0.13.00?classifier=sources
+- pkg:maven/com.linked-planet.client/kotlin-atlassian-client-core-common@0.13.1
+- pkg:maven/com.linked-planet.client/kotlin-atlassian-client-core-common@0.13.1?classifier=sources
+- pkg:maven/com.linked-planet.client/kotlin-atlassian-client-core-common@0.13.2
+- pkg:maven/com.linked-planet.client/kotlin-atlassian-client-core-common@0.13.2?classifier=sources
