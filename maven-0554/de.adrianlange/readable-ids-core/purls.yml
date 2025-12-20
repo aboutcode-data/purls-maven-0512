@@ -1,0 +1,2 @@
+- pkg:maven/de.adrianlange/readable-ids-core@0.0.1
+- pkg:maven/de.adrianlange/readable-ids-core@0.0.1?classifier=sources

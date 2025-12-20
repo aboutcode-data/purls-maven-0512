@@ -2,3 +2,4 @@
 - pkg:maven/dev.mccue/urlparameters@0.0.2?classifier=sources
 - pkg:maven/dev.mccue/urlparameters@0.1.0?classifier=sources
 - pkg:maven/dev.mccue/urlparameters@0.2.0?classifier=sources
+- pkg:maven/dev.mccue/urlparameters@2024.01.05?classifier=sources

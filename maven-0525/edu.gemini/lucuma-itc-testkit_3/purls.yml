@@ -60,6 +60,8 @@
 - pkg:maven/edu.gemini/lucuma-itc-testkit_3@0.21.7?classifier=sources
 - pkg:maven/edu.gemini/lucuma-itc-testkit_3@0.21.8
 - pkg:maven/edu.gemini/lucuma-itc-testkit_3@0.21.8?classifier=sources
+- pkg:maven/edu.gemini/lucuma-itc-testkit_3@0.21.9
+- pkg:maven/edu.gemini/lucuma-itc-testkit_3@0.21.9?classifier=sources
 - pkg:maven/edu.gemini/lucuma-itc-testkit_3@0.7.0
 - pkg:maven/edu.gemini/lucuma-itc-testkit_3@0.7.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-itc-testkit_3@0.7.1

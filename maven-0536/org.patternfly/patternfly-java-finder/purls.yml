@@ -1,2 +1,4 @@
 - pkg:maven/org.patternfly/patternfly-java-finder@0.2.0
 - pkg:maven/org.patternfly/patternfly-java-finder@0.2.1
+- pkg:maven/org.patternfly/patternfly-java-finder@0.2.2
+- pkg:maven/org.patternfly/patternfly-java-finder@0.2.4?classifier=sources

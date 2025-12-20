@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/cesium__widgets@4.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/cesium__widgets@4.3.0
 - pkg:maven/org.webjars.npm/cesium__widgets@4.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/cesium__widgets@6.0.0

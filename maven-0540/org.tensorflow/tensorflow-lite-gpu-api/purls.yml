@@ -5,3 +5,4 @@
 - pkg:maven/org.tensorflow/tensorflow-lite-gpu-api@2.13.0?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite-gpu-api@2.14.0?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite-gpu-api@2.15.0?type=aar
+- pkg:maven/org.tensorflow/tensorflow-lite-gpu-api@2.16.1?type=aar

@@ -11,6 +11,7 @@
 - pkg:maven/com.github.nagyesta.file-barj/file-barj-core@0.13.3?classifier=sources
 - pkg:maven/com.github.nagyesta.file-barj/file-barj-core@0.14.0?classifier=sources
 - pkg:maven/com.github.nagyesta.file-barj/file-barj-core@0.14.22?classifier=sources
+- pkg:maven/com.github.nagyesta.file-barj/file-barj-core@0.14.50?classifier=sources
 - pkg:maven/com.github.nagyesta.file-barj/file-barj-core@0.2.0?classifier=sources
 - pkg:maven/com.github.nagyesta.file-barj/file-barj-core@0.3.0?classifier=sources
 - pkg:maven/com.github.nagyesta.file-barj/file-barj-core@0.3.1?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/es.weso/srdf_3@0.1.122?classifier=sources
 - pkg:maven/es.weso/srdf_3@0.1.124
 - pkg:maven/es.weso/srdf_3@0.1.124?classifier=sources
+- pkg:maven/es.weso/srdf_3@0.1.125
+- pkg:maven/es.weso/srdf_3@0.1.125?classifier=sources

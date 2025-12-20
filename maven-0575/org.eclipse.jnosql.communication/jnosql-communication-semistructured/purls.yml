@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jnosql.communication/jnosql-communication-semistructured@1.1.1-RC1
+- pkg:maven/org.eclipse.jnosql.communication/jnosql-communication-semistructured@1.1.1-RC1?classifier=sources

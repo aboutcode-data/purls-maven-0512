@@ -1,2 +1,4 @@
 - pkg:maven/org.opentcs/opentcs-impl-configuration-gestalt@5.13.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-impl-configuration-gestalt@5.14.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-impl-configuration-gestalt@5.15.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-impl-configuration-gestalt@5.16.0?classifier=sources

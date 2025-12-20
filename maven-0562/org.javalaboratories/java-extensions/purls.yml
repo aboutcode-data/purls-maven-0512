@@ -32,3 +32,7 @@
 - pkg:maven/org.javalaboratories/java-extensions@1.1.9.1-RELEASE?classifier=sources
 - pkg:maven/org.javalaboratories/java-extensions@1.1.9.3-RELEASE
 - pkg:maven/org.javalaboratories/java-extensions@1.1.9.3-RELEASE?classifier=sources
+- pkg:maven/org.javalaboratories/java-extensions@2.0.0.0-RELEASE
+- pkg:maven/org.javalaboratories/java-extensions@2.0.0.0-RELEASE?classifier=sources
+- pkg:maven/org.javalaboratories/java-extensions@2.0.1.0-RELEASE
+- pkg:maven/org.javalaboratories/java-extensions@2.0.1.0-RELEASE?classifier=sources

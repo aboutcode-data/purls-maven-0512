@@ -1,0 +1,4 @@
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.audioengine@13.0.0-beta0003?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.audioengine@13.0.0-beta0004?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.audioengine@13.0.0-beta0005?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.audioengine@13.0.0-beta0006?classifier=sources

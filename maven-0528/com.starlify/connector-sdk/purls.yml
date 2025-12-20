@@ -3,3 +3,4 @@
 - pkg:maven/com.starlify/connector-sdk@0.0.1-BETA3?classifier=sources
 - pkg:maven/com.starlify/connector-sdk@0.1.0?classifier=sources
 - pkg:maven/com.starlify/connector-sdk@0.2.0?classifier=sources
+- pkg:maven/com.starlify/connector-sdk@0.3.0?classifier=sources

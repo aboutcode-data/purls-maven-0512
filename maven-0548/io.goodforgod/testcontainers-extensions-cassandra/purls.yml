@@ -1,3 +1,5 @@
+- pkg:maven/io.goodforgod/testcontainers-extensions-cassandra@0.10.0?classifier=sources
+- pkg:maven/io.goodforgod/testcontainers-extensions-cassandra@0.10.1?classifier=sources
 - pkg:maven/io.goodforgod/testcontainers-extensions-cassandra@0.4.0?classifier=sources
 - pkg:maven/io.goodforgod/testcontainers-extensions-cassandra@0.4.1?classifier=sources
 - pkg:maven/io.goodforgod/testcontainers-extensions-cassandra@0.4.2?classifier=sources

@@ -60,6 +60,8 @@
 - pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@3.2.6?classifier=sources
 - pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@3.2.7
 - pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@3.2.7?classifier=sources
+- pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@3.2.8
+- pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@3.2.8?classifier=sources
 - pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@4.0.0
 - pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@4.0.0-ALPHA4
 - pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@4.0.0-ALPHA4?classifier=sources
@@ -90,3 +92,5 @@
 - pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@4.0.6?classifier=sources
 - pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@4.0.7
 - pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@4.0.7?classifier=sources
+- pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@4.0.8
+- pkg:maven/io.helidon.integrations.oci.sdk/helidon-integrations-oci-sdk-cdi@4.0.8?classifier=sources

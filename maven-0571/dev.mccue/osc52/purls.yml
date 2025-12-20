@@ -1,1 +1,2 @@
 - pkg:maven/dev.mccue/osc52@0.1.0?classifier=sources
+- pkg:maven/dev.mccue/osc52@2023.06.20?classifier=sources

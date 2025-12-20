@@ -1,0 +1,2 @@
+- pkg:maven/com.george-n/hawthorne-annotation-processor@1.0.0
+- pkg:maven/com.george-n/hawthorne-annotation-processor@1.0.0?classifier=sources

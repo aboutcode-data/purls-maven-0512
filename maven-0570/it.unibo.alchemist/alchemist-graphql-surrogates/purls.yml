@@ -39,3 +39,14 @@
 - pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@33.0.5?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@33.0.6?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@33.0.7?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@33.0.8?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@33.1.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@33.1.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@33.1.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@34.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@34.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@34.0.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@34.0.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@34.0.4?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@34.0.5?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@34.0.6?classifier=sources

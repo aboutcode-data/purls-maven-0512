@@ -1,2 +1,6 @@
 - pkg:maven/org.evolvis.tartools.maven-parent/lib@3.0
+- pkg:maven/org.evolvis.tartools.maven-parent/lib@3.0.990
+- pkg:maven/org.evolvis.tartools.maven-parent/lib@3.0.990?classifier=sources
 - pkg:maven/org.evolvis.tartools.maven-parent/lib@3.0?classifier=sources
+- pkg:maven/org.evolvis.tartools.maven-parent/lib@3.1
+- pkg:maven/org.evolvis.tartools.maven-parent/lib@3.1?classifier=sources

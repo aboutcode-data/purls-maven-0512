@@ -60,6 +60,8 @@
 - pkg:maven/org.finos.cdm/tests@5.0.1
 - pkg:maven/org.finos.cdm/tests@5.0.2
 - pkg:maven/org.finos.cdm/tests@5.1.0
+- pkg:maven/org.finos.cdm/tests@5.10.0
+- pkg:maven/org.finos.cdm/tests@5.11.0
 - pkg:maven/org.finos.cdm/tests@5.2.0
 - pkg:maven/org.finos.cdm/tests@5.3.2
 - pkg:maven/org.finos.cdm/tests@5.4.0
@@ -68,6 +70,7 @@
 - pkg:maven/org.finos.cdm/tests@5.7.0
 - pkg:maven/org.finos.cdm/tests@5.8.0
 - pkg:maven/org.finos.cdm/tests@5.9.0
+- pkg:maven/org.finos.cdm/tests@5.9.1
 - pkg:maven/org.finos.cdm/tests@6.0.0-dev.0
 - pkg:maven/org.finos.cdm/tests@6.0.0-dev.10
 - pkg:maven/org.finos.cdm/tests@6.0.0-dev.11
@@ -91,7 +94,17 @@
 - pkg:maven/org.finos.cdm/tests@6.0.0-dev.3
 - pkg:maven/org.finos.cdm/tests@6.0.0-dev.30
 - pkg:maven/org.finos.cdm/tests@6.0.0-dev.31
+- pkg:maven/org.finos.cdm/tests@6.0.0-dev.32
+- pkg:maven/org.finos.cdm/tests@6.0.0-dev.33
+- pkg:maven/org.finos.cdm/tests@6.0.0-dev.34
+- pkg:maven/org.finos.cdm/tests@6.0.0-dev.35
+- pkg:maven/org.finos.cdm/tests@6.0.0-dev.36
+- pkg:maven/org.finos.cdm/tests@6.0.0-dev.37
+- pkg:maven/org.finos.cdm/tests@6.0.0-dev.38
+- pkg:maven/org.finos.cdm/tests@6.0.0-dev.39
 - pkg:maven/org.finos.cdm/tests@6.0.0-dev.4
+- pkg:maven/org.finos.cdm/tests@6.0.0-dev.40
+- pkg:maven/org.finos.cdm/tests@6.0.0-dev.41
 - pkg:maven/org.finos.cdm/tests@6.0.0-dev.5
 - pkg:maven/org.finos.cdm/tests@6.0.0-dev.8
 - pkg:maven/org.finos.cdm/tests@6.0.0-dev.9

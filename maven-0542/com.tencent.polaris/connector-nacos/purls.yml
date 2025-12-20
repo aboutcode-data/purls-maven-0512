@@ -68,3 +68,5 @@
 - pkg:maven/com.tencent.polaris/connector-nacos@1.15.2?classifier=sources
 - pkg:maven/com.tencent.polaris/connector-nacos@1.15.3
 - pkg:maven/com.tencent.polaris/connector-nacos@1.15.3?classifier=sources
+- pkg:maven/com.tencent.polaris/connector-nacos@1.15.4
+- pkg:maven/com.tencent.polaris/connector-nacos@1.15.4?classifier=sources

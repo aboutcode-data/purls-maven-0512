@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.netbeans.utilities/nb-shared@1.4?classifier=sources
 - pkg:maven/org.apache.netbeans.utilities/nb-shared@14.0
 - pkg:maven/org.apache.netbeans.utilities/nb-shared@14.0?classifier=sources
+- pkg:maven/org.apache.netbeans.utilities/nb-shared@14.1
+- pkg:maven/org.apache.netbeans.utilities/nb-shared@14.1?classifier=sources

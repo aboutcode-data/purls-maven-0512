@@ -72,3 +72,5 @@
 - pkg:maven/dev.zio/zio-config-derivation_3@4.0.0?classifier=sources
 - pkg:maven/dev.zio/zio-config-derivation_3@4.0.1
 - pkg:maven/dev.zio/zio-config-derivation_3@4.0.1?classifier=sources
+- pkg:maven/dev.zio/zio-config-derivation_3@4.0.2
+- pkg:maven/dev.zio/zio-config-derivation_3@4.0.2?classifier=sources

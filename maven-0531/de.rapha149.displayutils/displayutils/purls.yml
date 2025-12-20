@@ -1,3 +1,4 @@
 - pkg:maven/de.rapha149.displayutils/displayutils@1.0?classifier=sources
 - pkg:maven/de.rapha149.displayutils/displayutils@1.1.1?classifier=sources
 - pkg:maven/de.rapha149.displayutils/displayutils@1.1?classifier=sources
+- pkg:maven/de.rapha149.displayutils/displayutils@1.2.0?classifier=sources

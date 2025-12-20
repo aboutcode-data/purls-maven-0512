@@ -147,6 +147,8 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-bean-validation@2.41?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-bean-validation@2.42
 - pkg:maven/org.glassfish.jersey.ext/jersey-bean-validation@2.42?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-bean-validation@2.43
+- pkg:maven/org.glassfish.jersey.ext/jersey-bean-validation@2.43?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-bean-validation@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-bean-validation@2.5
 - pkg:maven/org.glassfish.jersey.ext/jersey-bean-validation@2.5.1

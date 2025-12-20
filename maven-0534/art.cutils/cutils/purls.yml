@@ -92,3 +92,5 @@
 - pkg:maven/art.cutils/cutils@2.6.8?classifier=sources
 - pkg:maven/art.cutils/cutils@2.6.9
 - pkg:maven/art.cutils/cutils@2.6.9?classifier=sources
+- pkg:maven/art.cutils/cutils@2.7.0
+- pkg:maven/art.cutils/cutils@2.7.0?classifier=sources

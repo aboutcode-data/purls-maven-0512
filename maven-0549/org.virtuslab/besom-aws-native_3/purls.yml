@@ -1,2 +1,6 @@
+- pkg:maven/org.virtuslab/besom-aws-native_3@0.101.0-core.0.3
+- pkg:maven/org.virtuslab/besom-aws-native_3@0.101.0-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-aws-native_3@0.102.0-core.0.3
+- pkg:maven/org.virtuslab/besom-aws-native_3@0.102.0-core.0.3?classifier=sources
 - pkg:maven/org.virtuslab/besom-aws-native_3@0.95.0-core.0.2
 - pkg:maven/org.virtuslab/besom-aws-native_3@0.95.0-core.0.2?classifier=sources

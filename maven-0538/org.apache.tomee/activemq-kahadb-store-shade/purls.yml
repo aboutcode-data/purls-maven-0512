@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.tomee/activemq-kahadb-store-shade@9.1.1?classifier=sources
 - pkg:maven/org.apache.tomee/activemq-kahadb-store-shade@9.1.2
 - pkg:maven/org.apache.tomee/activemq-kahadb-store-shade@9.1.2?classifier=sources
+- pkg:maven/org.apache.tomee/activemq-kahadb-store-shade@9.1.3
+- pkg:maven/org.apache.tomee/activemq-kahadb-store-shade@9.1.3?classifier=sources

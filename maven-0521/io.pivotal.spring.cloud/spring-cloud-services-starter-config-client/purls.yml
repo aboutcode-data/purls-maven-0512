@@ -42,3 +42,4 @@
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-config-client@4.0.5?classifier=sources
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-config-client@4.1.0?classifier=sources
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-config-client@4.1.1?classifier=sources
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-starter-config-client@4.1.2?classifier=sources

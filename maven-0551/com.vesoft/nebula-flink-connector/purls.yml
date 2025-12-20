@@ -14,3 +14,5 @@
 - pkg:maven/com.vesoft/nebula-flink-connector@3.5.0?classifier=sources
 - pkg:maven/com.vesoft/nebula-flink-connector@3.7.0-auth
 - pkg:maven/com.vesoft/nebula-flink-connector@3.7.0-auth?classifier=sources
+- pkg:maven/com.vesoft/nebula-flink-connector@3.8.0
+- pkg:maven/com.vesoft/nebula-flink-connector@3.8.0?classifier=sources

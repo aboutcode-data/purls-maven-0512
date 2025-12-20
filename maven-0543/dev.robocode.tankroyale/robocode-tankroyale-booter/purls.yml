@@ -8,3 +8,4 @@
 - pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-booter@0.22.0?classifier=sources
 - pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-booter@0.22.1?classifier=sources
 - pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-booter@0.22.2?classifier=sources
+- pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-booter@0.23.0?classifier=sources

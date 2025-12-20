@@ -36,6 +36,8 @@
 - pkg:maven/com.yomahub/liteflow-script-graaljs@2.11.4.2
 - pkg:maven/com.yomahub/liteflow-script-graaljs@2.11.4.2?classifier=sources
 - pkg:maven/com.yomahub/liteflow-script-graaljs@2.11.4?classifier=sources
+- pkg:maven/com.yomahub/liteflow-script-graaljs@2.12.0
+- pkg:maven/com.yomahub/liteflow-script-graaljs@2.12.0?classifier=sources
 - pkg:maven/com.yomahub/liteflow-script-graaljs@2.9.4
 - pkg:maven/com.yomahub/liteflow-script-graaljs@2.9.4?classifier=sources
 - pkg:maven/com.yomahub/liteflow-script-graaljs@2.9.5

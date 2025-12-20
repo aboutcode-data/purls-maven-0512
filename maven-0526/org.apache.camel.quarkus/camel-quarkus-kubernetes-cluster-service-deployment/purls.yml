@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-kubernetes-cluster-service-deployment@3.10.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-kubernetes-cluster-service-deployment@3.10.0?classifier=sources

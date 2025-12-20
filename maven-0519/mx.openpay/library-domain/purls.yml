@@ -1,6 +1,10 @@
+- pkg:maven/mx.openpay/library-domain@1.0.10?classifier=sources
+- pkg:maven/mx.openpay/library-domain@1.0.11?classifier=sources
+- pkg:maven/mx.openpay/library-domain@1.0.12?classifier=sources
 - pkg:maven/mx.openpay/library-domain@1.0.4?classifier=sources
 - pkg:maven/mx.openpay/library-domain@1.0.5?classifier=sources
 - pkg:maven/mx.openpay/library-domain@1.0.6?classifier=sources
 - pkg:maven/mx.openpay/library-domain@1.0.7?classifier=sources
 - pkg:maven/mx.openpay/library-domain@1.0.8?classifier=sources
+- pkg:maven/mx.openpay/library-domain@1.0.9?classifier=sources
 - pkg:maven/mx.openpay/library-domain@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.gatling/gatling-jvm-to-js-adapter@0.1.1
+- pkg:maven/io.gatling/gatling-jvm-to-js-adapter@0.1.1?classifier=sources

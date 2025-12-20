@@ -14,3 +14,5 @@
 - pkg:maven/ba.sake/hepek-zio_3@0.26.0?classifier=sources
 - pkg:maven/ba.sake/hepek-zio_3@0.27.0
 - pkg:maven/ba.sake/hepek-zio_3@0.27.0?classifier=sources
+- pkg:maven/ba.sake/hepek-zio_3@0.28.0
+- pkg:maven/ba.sake/hepek-zio_3@0.28.0?classifier=sources

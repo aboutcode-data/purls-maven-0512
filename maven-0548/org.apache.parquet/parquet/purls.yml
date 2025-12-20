@@ -9,6 +9,7 @@
 - pkg:maven/org.apache.parquet/parquet@1.12.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.parquet/parquet@1.13.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.parquet/parquet@1.13.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.parquet/parquet@1.14.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.parquet/parquet@1.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.parquet/parquet@1.8.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.parquet/parquet@1.8.1?classifier=source-release&type=zip

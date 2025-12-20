@@ -21,3 +21,5 @@
 - pkg:maven/com.dua3.utility/utility-logging-log4j@12.1.0?classifier=sources
 - pkg:maven/com.dua3.utility/utility-logging-log4j@12.1.1?classifier=sources
 - pkg:maven/com.dua3.utility/utility-logging-log4j@12.1.2?classifier=sources
+- pkg:maven/com.dua3.utility/utility-logging-log4j@12.2.1?classifier=sources
+- pkg:maven/com.dua3.utility/utility-logging-log4j@12.2?classifier=sources

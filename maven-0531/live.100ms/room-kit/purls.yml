@@ -26,3 +26,5 @@
 - pkg:maven/live.100ms/room-kit@1.1.99?classifier=sources
 - pkg:maven/live.100ms/room-kit@1.1.9?classifier=sources
 - pkg:maven/live.100ms/room-kit@1.2.0?classifier=sources
+- pkg:maven/live.100ms/room-kit@1.2.11?classifier=sources
+- pkg:maven/live.100ms/room-kit@1.2.1?classifier=sources

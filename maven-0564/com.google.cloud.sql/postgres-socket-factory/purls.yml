@@ -56,6 +56,8 @@
 - pkg:maven/com.google.cloud.sql/postgres-socket-factory@1.17.0?classifier=sources
 - pkg:maven/com.google.cloud.sql/postgres-socket-factory@1.17.1
 - pkg:maven/com.google.cloud.sql/postgres-socket-factory@1.17.1?classifier=sources
+- pkg:maven/com.google.cloud.sql/postgres-socket-factory@1.18.0
+- pkg:maven/com.google.cloud.sql/postgres-socket-factory@1.18.0?classifier=sources
 - pkg:maven/com.google.cloud.sql/postgres-socket-factory@1.2.0
 - pkg:maven/com.google.cloud.sql/postgres-socket-factory@1.2.0?classifier=sources
 - pkg:maven/com.google.cloud.sql/postgres-socket-factory@1.2.1?classifier=sources

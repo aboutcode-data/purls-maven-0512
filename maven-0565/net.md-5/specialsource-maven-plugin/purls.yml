@@ -18,3 +18,5 @@
 - pkg:maven/net.md-5/specialsource-maven-plugin@2.0.1?classifier=sources
 - pkg:maven/net.md-5/specialsource-maven-plugin@2.0.2
 - pkg:maven/net.md-5/specialsource-maven-plugin@2.0.2?classifier=sources
+- pkg:maven/net.md-5/specialsource-maven-plugin@2.0.3
+- pkg:maven/net.md-5/specialsource-maven-plugin@2.0.3?classifier=sources

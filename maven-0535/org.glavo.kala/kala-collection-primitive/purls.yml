@@ -28,3 +28,5 @@
 - pkg:maven/org.glavo.kala/kala-collection-primitive@0.67.0?classifier=sources
 - pkg:maven/org.glavo.kala/kala-collection-primitive@0.69.0?classifier=sources
 - pkg:maven/org.glavo.kala/kala-collection-primitive@0.70.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-collection-primitive@0.71.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-collection-primitive@0.72.0?classifier=sources

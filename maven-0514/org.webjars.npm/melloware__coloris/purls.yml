@@ -42,6 +42,8 @@
 - pkg:maven/org.webjars.npm/melloware__coloris@0.22.0?classifier=sources
 - pkg:maven/org.webjars.npm/melloware__coloris@0.23.0
 - pkg:maven/org.webjars.npm/melloware__coloris@0.23.0?classifier=sources
+- pkg:maven/org.webjars.npm/melloware__coloris@0.24.0
+- pkg:maven/org.webjars.npm/melloware__coloris@0.24.0?classifier=sources
 - pkg:maven/org.webjars.npm/melloware__coloris@0.6.0
 - pkg:maven/org.webjars.npm/melloware__coloris@0.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/melloware__coloris@0.7.0

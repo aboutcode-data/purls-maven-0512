@@ -44,3 +44,5 @@
 - pkg:maven/se.vandmo/dependency-lock-maven-plugin@1.0.2
 - pkg:maven/se.vandmo/dependency-lock-maven-plugin@1.0.2?classifier=sources
 - pkg:maven/se.vandmo/dependency-lock-maven-plugin@1.0?classifier=sources
+- pkg:maven/se.vandmo/dependency-lock-maven-plugin@1.1.0
+- pkg:maven/se.vandmo/dependency-lock-maven-plugin@1.1.0?classifier=sources

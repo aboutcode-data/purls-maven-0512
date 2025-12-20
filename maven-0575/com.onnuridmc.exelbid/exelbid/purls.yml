@@ -114,5 +114,8 @@
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.9.5?type=aar
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.9.6?classifier=sources
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.9.6?type=aar
+- pkg:maven/com.onnuridmc.exelbid/exelbid@1.9.7.a?classifier=sources
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.9.7?classifier=sources
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.9.7?type=aar
+- pkg:maven/com.onnuridmc.exelbid/exelbid@1.9.8.1?classifier=sources
+- pkg:maven/com.onnuridmc.exelbid/exelbid@1.9.8?classifier=sources

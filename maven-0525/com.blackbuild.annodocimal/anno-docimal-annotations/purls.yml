@@ -1,5 +1,12 @@
 - pkg:maven/com.blackbuild.annodocimal/anno-docimal-annotations@0.1.0-rc.10?classifier=sources
 - pkg:maven/com.blackbuild.annodocimal/anno-docimal-annotations@0.1.0-rc.11?classifier=sources
+- pkg:maven/com.blackbuild.annodocimal/anno-docimal-annotations@0.1.0-rc.12?classifier=sources
+- pkg:maven/com.blackbuild.annodocimal/anno-docimal-annotations@0.1.0-rc.13?classifier=sources
+- pkg:maven/com.blackbuild.annodocimal/anno-docimal-annotations@0.1.0-rc.14?classifier=sources
+- pkg:maven/com.blackbuild.annodocimal/anno-docimal-annotations@0.1.0-rc.15?classifier=sources
+- pkg:maven/com.blackbuild.annodocimal/anno-docimal-annotations@0.1.0-rc.16?classifier=sources
+- pkg:maven/com.blackbuild.annodocimal/anno-docimal-annotations@0.1.0-rc.17?classifier=sources
+- pkg:maven/com.blackbuild.annodocimal/anno-docimal-annotations@0.1.0-rc.18?classifier=sources
 - pkg:maven/com.blackbuild.annodocimal/anno-docimal-annotations@0.1.0-rc.2?classifier=sources
 - pkg:maven/com.blackbuild.annodocimal/anno-docimal-annotations@0.1.0-rc.3?classifier=sources
 - pkg:maven/com.blackbuild.annodocimal/anno-docimal-annotations@0.1.0-rc.4?classifier=sources

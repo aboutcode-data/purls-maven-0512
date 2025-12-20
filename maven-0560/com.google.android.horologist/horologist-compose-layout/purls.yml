@@ -100,6 +100,7 @@
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.5.24?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.5.25?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.5.26?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-compose-layout@0.5.27?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.5.2?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.5.3?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.5.4?classifier=sources
@@ -109,6 +110,7 @@
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.5.8?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.5.9?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.6.0?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-compose-layout@0.6.10?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.6.1?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.6.2?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.6.3?classifier=sources
@@ -117,3 +119,4 @@
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.6.6?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.6.7?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.6.8?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-compose-layout@0.6.9?classifier=sources

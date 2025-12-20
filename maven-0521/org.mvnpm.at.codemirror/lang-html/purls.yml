@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.codemirror/lang-html@6.4.8?classifier=sources
+- pkg:maven/org.mvnpm.at.codemirror/lang-html@6.4.9?classifier=sources

@@ -43,3 +43,6 @@
 - pkg:maven/org.apache.opendal/opendal-java@0.45.1
 - pkg:maven/org.apache.opendal/opendal-java@0.45.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.opendal/opendal-java@0.45.1?classifier=sources
+- pkg:maven/org.apache.opendal/opendal-java@0.45.2
+- pkg:maven/org.apache.opendal/opendal-java@0.45.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.opendal/opendal-java@0.45.2?classifier=sources

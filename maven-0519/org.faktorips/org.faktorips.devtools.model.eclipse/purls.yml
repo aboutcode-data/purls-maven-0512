@@ -7,6 +7,7 @@
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@22.12.16.release?classifier=sources
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@22.12.17.release?classifier=sources
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@22.12.18.release?classifier=sources
+- pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@22.12.19.release?classifier=sources
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@22.12.2.release?classifier=sources
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@22.12.3.release?classifier=sources
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@22.12.4.release?classifier=sources
@@ -31,6 +32,8 @@
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@23.6.0.release?classifier=sources
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@23.6.1.release
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@23.6.1.release?classifier=sources
+- pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@23.6.10.release
+- pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@23.6.10.release?classifier=sources
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@23.6.2.release
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@23.6.2.release?classifier=sources
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@23.6.3.release
@@ -73,3 +76,9 @@
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@24.1.6.release?classifier=sources
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@24.1.7.release
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@24.1.7.release?classifier=sources
+- pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@24.1.8.release
+- pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@24.1.8.release?classifier=sources
+- pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@24.1.9.release
+- pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@24.1.9.release?classifier=sources
+- pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@24.7.0.a20240423-01
+- pkg:maven/org.faktorips/org.faktorips.devtools.model.eclipse@24.7.0.a20240423-01?classifier=sources
