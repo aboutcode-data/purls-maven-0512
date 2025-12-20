@@ -18,3 +18,5 @@
 - pkg:maven/cn.jiguang.sdk.ad.adapter/beizi@4.90.4.36.11081?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.adapter/beizi@4.90.4.36.11121?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.adapter/beizi@4.90.4.36.11121?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/beizi@4.90.4.36.11122?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/beizi@4.90.4.36.11122?type=aar

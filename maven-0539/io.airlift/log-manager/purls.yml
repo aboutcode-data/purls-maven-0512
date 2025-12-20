@@ -404,3 +404,7 @@
 - pkg:maven/io.airlift/log-manager@291?classifier=sources
 - pkg:maven/io.airlift/log-manager@292?classifier=sources
 - pkg:maven/io.airlift/log-manager@293?classifier=sources
+- pkg:maven/io.airlift/log-manager@294?classifier=sources
+- pkg:maven/io.airlift/log-manager@295?classifier=sources
+- pkg:maven/io.airlift/log-manager@296?classifier=sources
+- pkg:maven/io.airlift/log-manager@297?classifier=sources

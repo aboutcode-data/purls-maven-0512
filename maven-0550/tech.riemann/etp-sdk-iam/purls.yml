@@ -7,4 +7,5 @@
 - pkg:maven/tech.riemann/etp-sdk-iam@3.4.0-20241208?classifier=sources
 - pkg:maven/tech.riemann/etp-sdk-iam@3.4.0?classifier=sources
 - pkg:maven/tech.riemann/etp-sdk-iam@3.4.1-20241220?classifier=sources
+- pkg:maven/tech.riemann/etp-sdk-iam@3.4.1-20250114?classifier=sources
 - pkg:maven/tech.riemann/etp-sdk-iam@3.4.1?classifier=sources

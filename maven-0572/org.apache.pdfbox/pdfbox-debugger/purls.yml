@@ -57,6 +57,8 @@
 - pkg:maven/org.apache.pdfbox/pdfbox-debugger@2.0.31?classifier=sources
 - pkg:maven/org.apache.pdfbox/pdfbox-debugger@2.0.32
 - pkg:maven/org.apache.pdfbox/pdfbox-debugger@2.0.32?classifier=sources
+- pkg:maven/org.apache.pdfbox/pdfbox-debugger@2.0.33
+- pkg:maven/org.apache.pdfbox/pdfbox-debugger@2.0.33?classifier=sources
 - pkg:maven/org.apache.pdfbox/pdfbox-debugger@2.0.3?classifier=sources
 - pkg:maven/org.apache.pdfbox/pdfbox-debugger@2.0.4
 - pkg:maven/org.apache.pdfbox/pdfbox-debugger@2.0.4?classifier=sources
@@ -86,3 +88,5 @@
 - pkg:maven/org.apache.pdfbox/pdfbox-debugger@3.0.2?classifier=sources
 - pkg:maven/org.apache.pdfbox/pdfbox-debugger@3.0.3
 - pkg:maven/org.apache.pdfbox/pdfbox-debugger@3.0.3?classifier=sources
+- pkg:maven/org.apache.pdfbox/pdfbox-debugger@3.0.4
+- pkg:maven/org.apache.pdfbox/pdfbox-debugger@3.0.4?classifier=sources

@@ -113,4 +113,12 @@
 - pkg:maven/com.lihaoyi/mill-runner-client@0.12.3-75-c2bc74?classifier=sources
 - pkg:maven/com.lihaoyi/mill-runner-client@0.12.3?classifier=sources
 - pkg:maven/com.lihaoyi/mill-runner-client@0.12.4
+- pkg:maven/com.lihaoyi/mill-runner-client@0.12.4-23-2ff492
+- pkg:maven/com.lihaoyi/mill-runner-client@0.12.4-23-2ff492?classifier=sources
+- pkg:maven/com.lihaoyi/mill-runner-client@0.12.4-44-b46c73
+- pkg:maven/com.lihaoyi/mill-runner-client@0.12.4-44-b46c73?classifier=sources
 - pkg:maven/com.lihaoyi/mill-runner-client@0.12.4?classifier=sources
+- pkg:maven/com.lihaoyi/mill-runner-client@0.12.5
+- pkg:maven/com.lihaoyi/mill-runner-client@0.12.5-46-bbcc16
+- pkg:maven/com.lihaoyi/mill-runner-client@0.12.5-46-bbcc16?classifier=sources
+- pkg:maven/com.lihaoyi/mill-runner-client@0.12.5?classifier=sources

@@ -30,3 +30,4 @@
 - pkg:maven/org.httpobjects/httpobjects@1.0.0.pre4?classifier=sources
 - pkg:maven/org.httpobjects/httpobjects@1.0.0.pre5?classifier=sources
 - pkg:maven/org.httpobjects/httpobjects@1.0.0.pre6?classifier=sources
+- pkg:maven/org.httpobjects/httpobjects@1.0.0.pre7?classifier=sources

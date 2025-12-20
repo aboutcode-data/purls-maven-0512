@@ -42,3 +42,4 @@
 - pkg:maven/org.komapper/komapper-dialect-oracle-r2dbc@3.1.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-oracle-r2dbc@4.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-oracle-r2dbc@5.0.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-oracle-r2dbc@5.1.0?classifier=sources

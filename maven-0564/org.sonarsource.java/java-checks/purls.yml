@@ -194,3 +194,4 @@
 - pkg:maven/org.sonarsource.java/java-checks@8.6.0.37351?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks@8.7.0.37452?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks@8.8.0.37665?classifier=sources
+- pkg:maven/org.sonarsource.java/java-checks@8.9.0.37768?classifier=sources

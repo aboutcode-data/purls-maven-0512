@@ -104,6 +104,7 @@
 - pkg:maven/com.microsoft.azure/azure-toolkit-springcloud-lib@0.5.0
 - pkg:maven/com.microsoft.azure/azure-toolkit-springcloud-lib@0.5.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-toolkit-springcloud-lib@0.50.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-springcloud-lib@0.51.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-toolkit-springcloud-lib@0.6.0
 - pkg:maven/com.microsoft.azure/azure-toolkit-springcloud-lib@0.6.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-toolkit-springcloud-lib@0.7.0

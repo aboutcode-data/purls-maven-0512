@@ -45,6 +45,9 @@
 - pkg:maven/com.telefonica/mistica-catalog@16.1.0-snapshot?classifier=sources
 - pkg:maven/com.telefonica/mistica-catalog@16.1.0?classifier=sources
 - pkg:maven/com.telefonica/mistica-catalog@16.2.0?classifier=sources
+- pkg:maven/com.telefonica/mistica-catalog@17.0.0?classifier=sources
+- pkg:maven/com.telefonica/mistica-catalog@17.1.0?classifier=sources
+- pkg:maven/com.telefonica/mistica-catalog@18.0.0?classifier=sources
 - pkg:maven/com.telefonica/mistica-catalog@2.0.3?classifier=sources
 - pkg:maven/com.telefonica/mistica-catalog@2.0.4?classifier=sources
 - pkg:maven/com.telefonica/mistica-catalog@2.1.0?classifier=sources

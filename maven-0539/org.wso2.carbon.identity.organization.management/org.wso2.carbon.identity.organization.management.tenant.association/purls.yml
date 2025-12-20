@@ -244,3 +244,15 @@
 - pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.48?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.49
 - pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.49?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.63
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.63?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.64
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.64?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.65
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.65?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.66
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.66?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.67
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.67?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.68
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.management.tenant.association@1.4.68?classifier=sources

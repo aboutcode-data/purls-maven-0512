@@ -12,3 +12,11 @@
 - pkg:maven/com.fluxtion/serverlibrary-jsonserialiser@0.1.28?classifier=sources
 - pkg:maven/com.fluxtion/serverlibrary-jsonserialiser@0.1.29
 - pkg:maven/com.fluxtion/serverlibrary-jsonserialiser@0.1.29?classifier=sources
+- pkg:maven/com.fluxtion/serverlibrary-jsonserialiser@0.1.31
+- pkg:maven/com.fluxtion/serverlibrary-jsonserialiser@0.1.31?classifier=sources
+- pkg:maven/com.fluxtion/serverlibrary-jsonserialiser@0.1.32
+- pkg:maven/com.fluxtion/serverlibrary-jsonserialiser@0.1.32?classifier=sources
+- pkg:maven/com.fluxtion/serverlibrary-jsonserialiser@0.1.35
+- pkg:maven/com.fluxtion/serverlibrary-jsonserialiser@0.1.35?classifier=sources
+- pkg:maven/com.fluxtion/serverlibrary-jsonserialiser@0.1.36
+- pkg:maven/com.fluxtion/serverlibrary-jsonserialiser@0.1.36?classifier=sources

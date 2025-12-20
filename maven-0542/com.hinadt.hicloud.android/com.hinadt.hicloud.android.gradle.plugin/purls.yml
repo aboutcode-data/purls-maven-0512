@@ -1,3 +1,4 @@
 - pkg:maven/com.hinadt.hicloud.android/com.hinadt.hicloud.android.gradle.plugin@2.0.0?classifier=sources
 - pkg:maven/com.hinadt.hicloud.android/com.hinadt.hicloud.android.gradle.plugin@4.0.1?classifier=sources
 - pkg:maven/com.hinadt.hicloud.android/com.hinadt.hicloud.android.gradle.plugin@4.0.2?classifier=sources
+- pkg:maven/com.hinadt.hicloud.android/com.hinadt.hicloud.android.gradle.plugin@4.0.3?classifier=sources

@@ -13,3 +13,4 @@
 - pkg:maven/net.ltgt.gwt.archetypes/modular-webapp@2024.11.13?classifier=sources
 - pkg:maven/net.ltgt.gwt.archetypes/modular-webapp@2024.2.11?classifier=sources
 - pkg:maven/net.ltgt.gwt.archetypes/modular-webapp@2024.2.5?classifier=sources
+- pkg:maven/net.ltgt.gwt.archetypes/modular-webapp@2025.1.2?classifier=sources

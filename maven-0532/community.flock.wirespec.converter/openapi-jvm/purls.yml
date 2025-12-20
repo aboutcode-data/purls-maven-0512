@@ -10,6 +10,8 @@
 - pkg:maven/community.flock.wirespec.converter/openapi-jvm@0.10.20?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-jvm@0.10.21?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-jvm@0.10.22?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/openapi-jvm@0.10.24?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/openapi-jvm@0.10.25?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-jvm@0.10.3?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-jvm@0.10.4?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-jvm@0.10.5?classifier=sources

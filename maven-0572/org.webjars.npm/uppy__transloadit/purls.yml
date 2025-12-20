@@ -16,6 +16,7 @@
 - pkg:maven/org.webjars.npm/uppy__transloadit@1.6.9?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__transloadit@2.0.0-alpha.0
 - pkg:maven/org.webjars.npm/uppy__transloadit@2.0.0-alpha.0?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__transloadit@2.3.7
 - pkg:maven/org.webjars.npm/uppy__transloadit@3.0.0-beta.5
 - pkg:maven/org.webjars.npm/uppy__transloadit@3.0.0-beta.5?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__transloadit@3.1.0

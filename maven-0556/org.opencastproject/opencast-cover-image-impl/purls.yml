@@ -162,6 +162,8 @@
 - pkg:maven/org.opencastproject/opencast-cover-image-impl@16.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-cover-image-impl@16.7
 - pkg:maven/org.opencastproject/opencast-cover-image-impl@16.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-cover-image-impl@16.8
+- pkg:maven/org.opencastproject/opencast-cover-image-impl@16.8?classifier=sources
 - pkg:maven/org.opencastproject/opencast-cover-image-impl@6.6
 - pkg:maven/org.opencastproject/opencast-cover-image-impl@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-cover-image-impl@7.2

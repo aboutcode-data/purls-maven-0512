@@ -1,4 +1,5 @@
 - pkg:maven/com.usetada.wallet.core/tada-wallet-kit-iosarm64@0.0.11?classifier=sources
+- pkg:maven/com.usetada.wallet.core/tada-wallet-kit-iosarm64@0.0.12?classifier=sources
 - pkg:maven/com.usetada.wallet.core/tada-wallet-kit-iosarm64@0.0.4?classifier=sources
 - pkg:maven/com.usetada.wallet.core/tada-wallet-kit-iosarm64@0.0.6?classifier=sources
 - pkg:maven/com.usetada.wallet.core/tada-wallet-kit-iosarm64@0.0.7?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/com.gccloud/gc-starter-plugins-report-service@2.2.1.RELEASE?classifier=sources
 - pkg:maven/com.gccloud/gc-starter-plugins-report-service@2.2.2.RELEASE
 - pkg:maven/com.gccloud/gc-starter-plugins-report-service@2.2.2.RELEASE?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-plugins-report-service@2.3.5.RELEASE
+- pkg:maven/com.gccloud/gc-starter-plugins-report-service@2.3.5.RELEASE?classifier=sources

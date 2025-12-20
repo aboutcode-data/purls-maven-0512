@@ -1,3 +1,4 @@
 - pkg:maven/org.xmlobjects/classindex@3.11.1?classifier=sources
 - pkg:maven/org.xmlobjects/classindex@3.12.0?classifier=sources
 - pkg:maven/org.xmlobjects/classindex@3.13.0?classifier=sources
+- pkg:maven/org.xmlobjects/classindex@3.13.1?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/org.apache.fulcrum/fulcrum-upload@1.0.5?classifier=sources
 - pkg:maven/org.apache.fulcrum/fulcrum-upload@1.0.5?classifier=src&type=tar.gz
 - pkg:maven/org.apache.fulcrum/fulcrum-upload@1.0.5?classifier=src&type=zip
+- pkg:maven/org.apache.fulcrum/fulcrum-upload@2.0.0
+- pkg:maven/org.apache.fulcrum/fulcrum-upload@2.0.0?classifier=sources
+- pkg:maven/org.apache.fulcrum/fulcrum-upload@2.0.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.fulcrum/fulcrum-upload@2.0.0?classifier=src&type=zip

@@ -24,6 +24,10 @@
 - pkg:maven/io.get-coursier/coursier-launcher-native_0.4_2.13@2.1.21?classifier=sources
 - pkg:maven/io.get-coursier/coursier-launcher-native_0.4_2.13@2.1.22
 - pkg:maven/io.get-coursier/coursier-launcher-native_0.4_2.13@2.1.22?classifier=sources
+- pkg:maven/io.get-coursier/coursier-launcher-native_0.4_2.13@2.1.23
+- pkg:maven/io.get-coursier/coursier-launcher-native_0.4_2.13@2.1.23?classifier=sources
+- pkg:maven/io.get-coursier/coursier-launcher-native_0.4_2.13@2.1.24
+- pkg:maven/io.get-coursier/coursier-launcher-native_0.4_2.13@2.1.24?classifier=sources
 - pkg:maven/io.get-coursier/coursier-launcher-native_0.4_2.13@2.1.7
 - pkg:maven/io.get-coursier/coursier-launcher-native_0.4_2.13@2.1.7?classifier=sources
 - pkg:maven/io.get-coursier/coursier-launcher-native_0.4_2.13@2.1.8

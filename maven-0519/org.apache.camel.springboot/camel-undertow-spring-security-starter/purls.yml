@@ -106,6 +106,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@3.22.1?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@3.22.2
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@3.22.2?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@3.22.3
+- pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@3.22.3?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@3.3.0
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@3.4.0
@@ -184,6 +186,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.4.3?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.4.4
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.4.4?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.4.5
+- pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.4.5?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.5.0
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.5.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.6.0
@@ -196,5 +200,7 @@
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.8.1?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.8.2
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.8.2?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.8.3
+- pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.8.3?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.9.0
 - pkg:maven/org.apache.camel.springboot/camel-undertow-spring-security-starter@4.9.0?classifier=sources

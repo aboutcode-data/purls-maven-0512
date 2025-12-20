@@ -1,1 +1,2 @@
 - pkg:maven/com.lucendar/lucendar-common@2.0.0?classifier=sources
+- pkg:maven/com.lucendar/lucendar-common@2.2.0?classifier=sources

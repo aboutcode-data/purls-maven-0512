@@ -3,3 +3,4 @@
 - pkg:maven/org.kie.j2cl.tools.processors/annotations@0.7.0?classifier=sources
 - pkg:maven/org.kie.j2cl.tools.processors/annotations@0.8.0
 - pkg:maven/org.kie.j2cl.tools.processors/annotations@0.8.0?classifier=sources
+- pkg:maven/org.kie.j2cl.tools.processors/annotations@0.8.1?classifier=sources

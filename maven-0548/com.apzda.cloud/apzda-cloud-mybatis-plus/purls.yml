@@ -1,0 +1,2 @@
+- pkg:maven/com.apzda.cloud/apzda-cloud-mybatis-plus@1.2.22
+- pkg:maven/com.apzda.cloud/apzda-cloud-mybatis-plus@1.2.22?classifier=sources

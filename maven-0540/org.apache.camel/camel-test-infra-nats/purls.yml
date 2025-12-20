@@ -106,6 +106,8 @@
 - pkg:maven/org.apache.camel/camel-test-infra-nats@3.22.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-nats@3.22.2
 - pkg:maven/org.apache.camel/camel-test-infra-nats@3.22.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-nats@3.22.3
+- pkg:maven/org.apache.camel/camel-test-infra-nats@3.22.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-nats@3.7.0
 - pkg:maven/org.apache.camel/camel-test-infra-nats@3.7.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-nats@3.7.1
@@ -166,6 +168,8 @@
 - pkg:maven/org.apache.camel/camel-test-infra-nats@4.4.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-nats@4.4.4
 - pkg:maven/org.apache.camel/camel-test-infra-nats@4.4.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-nats@4.4.5
+- pkg:maven/org.apache.camel/camel-test-infra-nats@4.4.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-nats@4.5.0
 - pkg:maven/org.apache.camel/camel-test-infra-nats@4.5.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-nats@4.6.0
@@ -178,5 +182,7 @@
 - pkg:maven/org.apache.camel/camel-test-infra-nats@4.8.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-nats@4.8.2
 - pkg:maven/org.apache.camel/camel-test-infra-nats@4.8.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-nats@4.8.3
+- pkg:maven/org.apache.camel/camel-test-infra-nats@4.8.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-nats@4.9.0
 - pkg:maven/org.apache.camel/camel-test-infra-nats@4.9.0?classifier=sources

@@ -41,3 +41,4 @@
 - pkg:maven/org.springframework/spring-core-test@6.1.9?classifier=sources
 - pkg:maven/org.springframework/spring-core-test@6.2.0?classifier=sources
 - pkg:maven/org.springframework/spring-core-test@6.2.1?classifier=sources
+- pkg:maven/org.springframework/spring-core-test@6.2.2?classifier=sources

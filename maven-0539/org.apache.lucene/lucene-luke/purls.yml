@@ -1,4 +1,5 @@
 - pkg:maven/org.apache.lucene/lucene-luke@10.0.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-luke@10.1.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-luke@9.0.0
 - pkg:maven/org.apache.lucene/lucene-luke@9.0.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-luke@9.1.0

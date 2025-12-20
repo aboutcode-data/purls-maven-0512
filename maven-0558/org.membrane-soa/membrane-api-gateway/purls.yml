@@ -32,3 +32,5 @@
 - pkg:maven/org.membrane-soa/membrane-api-gateway@5.7.3?type=zip
 - pkg:maven/org.membrane-soa/membrane-api-gateway@5.7.4?classifier=sources
 - pkg:maven/org.membrane-soa/membrane-api-gateway@5.7.4?type=zip
+- pkg:maven/org.membrane-soa/membrane-api-gateway@5.8.0?classifier=sources
+- pkg:maven/org.membrane-soa/membrane-api-gateway@5.8.0?type=zip

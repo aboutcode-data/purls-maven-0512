@@ -495,3 +495,4 @@
 - pkg:maven/com.palantir.dialogue/dialogue-target@4.5.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-target@4.6.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-target@4.7.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-target@4.8.0-rc1?classifier=sources

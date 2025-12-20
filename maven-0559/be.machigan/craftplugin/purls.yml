@@ -1,0 +1,12 @@
+- pkg:maven/be.machigan/craftplugin@1.0.0-a.10?classifier=sources
+- pkg:maven/be.machigan/craftplugin@1.0.0-a.11?classifier=sources
+- pkg:maven/be.machigan/craftplugin@1.0.0-a.12?classifier=sources
+- pkg:maven/be.machigan/craftplugin@1.0.0-a.1?classifier=sources
+- pkg:maven/be.machigan/craftplugin@1.0.0-a.2?classifier=sources
+- pkg:maven/be.machigan/craftplugin@1.0.0-a.3?classifier=sources
+- pkg:maven/be.machigan/craftplugin@1.0.0-a.4?classifier=sources
+- pkg:maven/be.machigan/craftplugin@1.0.0-a.5?classifier=sources
+- pkg:maven/be.machigan/craftplugin@1.0.0-a.6?classifier=sources
+- pkg:maven/be.machigan/craftplugin@1.0.0-a.7?classifier=sources
+- pkg:maven/be.machigan/craftplugin@1.0.0-a.8?classifier=sources
+- pkg:maven/be.machigan/craftplugin@1.0.0-a.9?classifier=sources

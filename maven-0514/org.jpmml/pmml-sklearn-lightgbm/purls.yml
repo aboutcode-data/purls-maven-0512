@@ -130,3 +130,5 @@
 - pkg:maven/org.jpmml/pmml-sklearn-lightgbm@1.8.7?classifier=sources
 - pkg:maven/org.jpmml/pmml-sklearn-lightgbm@1.8.8
 - pkg:maven/org.jpmml/pmml-sklearn-lightgbm@1.8.8?classifier=sources
+- pkg:maven/org.jpmml/pmml-sklearn-lightgbm@1.8.9
+- pkg:maven/org.jpmml/pmml-sklearn-lightgbm@1.8.9?classifier=sources

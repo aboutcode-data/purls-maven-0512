@@ -14,3 +14,8 @@
 - pkg:maven/org.comixedproject/comixed-release@2.2.2-1
 - pkg:maven/org.comixedproject/comixed-release@2.2.3-1
 - pkg:maven/org.comixedproject/comixed-release@2.2.4-1
+- pkg:maven/org.comixedproject/comixed-release@2.2.5-1
+- pkg:maven/org.comixedproject/comixed-release@2.3.0
+- pkg:maven/org.comixedproject/comixed-release@2.3.1
+- pkg:maven/org.comixedproject/comixed-release@2.3.2
+- pkg:maven/org.comixedproject/comixed-release@2.3.3

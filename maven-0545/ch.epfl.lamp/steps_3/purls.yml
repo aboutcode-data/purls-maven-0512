@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.lamp/steps_3@0.1.0-RC1
+- pkg:maven/ch.epfl.lamp/steps_3@0.1.0-RC1?classifier=sources

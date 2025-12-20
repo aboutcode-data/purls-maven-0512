@@ -1,3 +1,4 @@
 - pkg:maven/io.github.stoyan-vuchev/squircle-shape-wasm-js@2.0.10?classifier=sources
 - pkg:maven/io.github.stoyan-vuchev/squircle-shape-wasm-js@2.1.0?classifier=sources
 - pkg:maven/io.github.stoyan-vuchev/squircle-shape-wasm-js@3.0.0?classifier=sources
+- pkg:maven/io.github.stoyan-vuchev/squircle-shape-wasm-js@3.0.1?classifier=sources

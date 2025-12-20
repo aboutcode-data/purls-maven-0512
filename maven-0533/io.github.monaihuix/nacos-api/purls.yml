@@ -1,0 +1,2 @@
+- pkg:maven/io.github.monaihuix/nacos-api@2.4.3-Apex?classifier=sources
+- pkg:maven/io.github.monaihuix/nacos-api@2.4.3?classifier=sources

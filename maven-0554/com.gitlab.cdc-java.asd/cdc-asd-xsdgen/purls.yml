@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-xsdgen@0.21.0
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-xsdgen@0.21.0?classifier=sources

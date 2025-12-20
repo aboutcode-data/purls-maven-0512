@@ -38,3 +38,5 @@
 - pkg:maven/com.pighand/pighand-framework-spring@2.0.0-bate.2.20240730?classifier=sources
 - pkg:maven/com.pighand/pighand-framework-spring@2.0.0-bate.2.20241125
 - pkg:maven/com.pighand/pighand-framework-spring@2.0.0-bate.2.20241125?classifier=sources
+- pkg:maven/com.pighand/pighand-framework-spring@2.0.0-bate.2.20250103
+- pkg:maven/com.pighand/pighand-framework-spring@2.0.0-bate.2.20250103?classifier=sources

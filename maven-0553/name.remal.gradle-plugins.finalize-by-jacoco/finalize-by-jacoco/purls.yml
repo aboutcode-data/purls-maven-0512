@@ -5,3 +5,5 @@
 - pkg:maven/name.remal.gradle-plugins.finalize-by-jacoco/finalize-by-jacoco@1.0.3?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.finalize-by-jacoco/finalize-by-jacoco@1.0.4?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.finalize-by-jacoco/finalize-by-jacoco@1.0.5?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.finalize-by-jacoco/finalize-by-jacoco@1.0.6?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.finalize-by-jacoco/finalize-by-jacoco@2.0.0?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/org.ops4j.pax.web.samples/filter-bundle@8.0.28?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/filter-bundle@8.0.29
 - pkg:maven/org.ops4j.pax.web.samples/filter-bundle@8.0.29?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/filter-bundle@8.0.30
+- pkg:maven/org.ops4j.pax.web.samples/filter-bundle@8.0.30?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/filter-bundle@9.0.13
 - pkg:maven/org.ops4j.pax.web.samples/filter-bundle@9.0.13?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/filter-bundle@9.0.14
@@ -22,3 +24,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/filter-bundle@9.0.17?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/filter-bundle@9.0.18
 - pkg:maven/org.ops4j.pax.web.samples/filter-bundle@9.0.18?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/filter-bundle@9.0.19
+- pkg:maven/org.ops4j.pax.web.samples/filter-bundle@9.0.19?classifier=sources

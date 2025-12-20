@@ -1,2 +1,4 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-epicyro@24.12.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-epicyro@24.12.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-epicyro@25.1.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-epicyro@25.1.0?classifier=sources

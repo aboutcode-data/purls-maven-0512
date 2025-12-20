@@ -1,6 +1,9 @@
 - pkg:maven/com.mybatis-flex/mybatis-flex-spring-boot3-starter@1.10.0
 - pkg:maven/com.mybatis-flex/mybatis-flex-spring-boot3-starter@1.10.1
 - pkg:maven/com.mybatis-flex/mybatis-flex-spring-boot3-starter@1.10.2
+- pkg:maven/com.mybatis-flex/mybatis-flex-spring-boot3-starter@1.10.3
+- pkg:maven/com.mybatis-flex/mybatis-flex-spring-boot3-starter@1.10.4
+- pkg:maven/com.mybatis-flex/mybatis-flex-spring-boot3-starter@1.10.5
 - pkg:maven/com.mybatis-flex/mybatis-flex-spring-boot3-starter@1.7.7
 - pkg:maven/com.mybatis-flex/mybatis-flex-spring-boot3-starter@1.7.8
 - pkg:maven/com.mybatis-flex/mybatis-flex-spring-boot3-starter@1.7.9

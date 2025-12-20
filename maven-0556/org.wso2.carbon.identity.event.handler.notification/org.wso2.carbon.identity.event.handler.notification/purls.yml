@@ -219,6 +219,8 @@
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.identity.event.handler.notification@1.9.2
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.identity.event.handler.notification@1.9.2?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.identity.event.handler.notification@1.9.3
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.identity.event.handler.notification@1.9.33
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.identity.event.handler.notification@1.9.33?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.identity.event.handler.notification@1.9.3?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.identity.event.handler.notification@1.9.4
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.identity.event.handler.notification@1.9.4?classifier=sources

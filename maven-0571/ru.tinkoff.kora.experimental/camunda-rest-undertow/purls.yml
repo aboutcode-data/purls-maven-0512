@@ -6,4 +6,5 @@
 - pkg:maven/ru.tinkoff.kora.experimental/camunda-rest-undertow@1.1.15?classifier=sources
 - pkg:maven/ru.tinkoff.kora.experimental/camunda-rest-undertow@1.1.16?classifier=sources
 - pkg:maven/ru.tinkoff.kora.experimental/camunda-rest-undertow@1.1.17?classifier=sources
+- pkg:maven/ru.tinkoff.kora.experimental/camunda-rest-undertow@1.1.18?classifier=sources
 - pkg:maven/ru.tinkoff.kora.experimental/camunda-rest-undertow@1.1.9?classifier=sources

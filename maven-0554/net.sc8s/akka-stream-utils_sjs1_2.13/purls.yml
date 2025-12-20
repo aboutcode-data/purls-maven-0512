@@ -1,3 +1,5 @@
+- pkg:maven/net.sc8s/akka-stream-utils_sjs1_2.13@0.100.0
+- pkg:maven/net.sc8s/akka-stream-utils_sjs1_2.13@0.100.0?classifier=sources
 - pkg:maven/net.sc8s/akka-stream-utils_sjs1_2.13@0.36.0
 - pkg:maven/net.sc8s/akka-stream-utils_sjs1_2.13@0.36.0?classifier=sources
 - pkg:maven/net.sc8s/akka-stream-utils_sjs1_2.13@0.37.0
@@ -140,3 +142,7 @@
 - pkg:maven/net.sc8s/akka-stream-utils_sjs1_2.13@0.96.0?classifier=sources
 - pkg:maven/net.sc8s/akka-stream-utils_sjs1_2.13@0.97.0
 - pkg:maven/net.sc8s/akka-stream-utils_sjs1_2.13@0.97.0?classifier=sources
+- pkg:maven/net.sc8s/akka-stream-utils_sjs1_2.13@0.98.0
+- pkg:maven/net.sc8s/akka-stream-utils_sjs1_2.13@0.98.0?classifier=sources
+- pkg:maven/net.sc8s/akka-stream-utils_sjs1_2.13@0.99.0
+- pkg:maven/net.sc8s/akka-stream-utils_sjs1_2.13@0.99.0?classifier=sources

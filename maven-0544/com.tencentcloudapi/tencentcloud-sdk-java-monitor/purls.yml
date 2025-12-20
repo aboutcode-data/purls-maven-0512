@@ -52,6 +52,16 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.1146?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.1160
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.1160?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.1166
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.1166?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.1175
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.1175?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.1176
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.1176?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.1182
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.1182?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.1184
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.1184?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.179
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-monitor@3.1.180

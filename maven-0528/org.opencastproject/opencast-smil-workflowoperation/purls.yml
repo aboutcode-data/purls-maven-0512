@@ -162,6 +162,8 @@
 - pkg:maven/org.opencastproject/opencast-smil-workflowoperation@16.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-smil-workflowoperation@16.7
 - pkg:maven/org.opencastproject/opencast-smil-workflowoperation@16.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-smil-workflowoperation@16.8
+- pkg:maven/org.opencastproject/opencast-smil-workflowoperation@16.8?classifier=sources
 - pkg:maven/org.opencastproject/opencast-smil-workflowoperation@9.10
 - pkg:maven/org.opencastproject/opencast-smil-workflowoperation@9.10?classifier=sources
 - pkg:maven/org.opencastproject/opencast-smil-workflowoperation@9.11

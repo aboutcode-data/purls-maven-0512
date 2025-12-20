@@ -1,2 +1,4 @@
+- pkg:maven/run.mone/log@1.6.1-jdk21
+- pkg:maven/run.mone/log@1.6.1-jdk21?classifier=sources
 - pkg:maven/run.mone/log@1.7-jdk21
 - pkg:maven/run.mone/log@1.7-jdk21?classifier=sources

@@ -33,3 +33,4 @@
 - pkg:maven/org.mnode.ical4j/ical4j-vcard@2.0.0-rc1?classifier=sources
 - pkg:maven/org.mnode.ical4j/ical4j-vcard@2.0.0-rc2?classifier=sources
 - pkg:maven/org.mnode.ical4j/ical4j-vcard@2.0.0?classifier=sources
+- pkg:maven/org.mnode.ical4j/ical4j-vcard@2.0.1?classifier=sources

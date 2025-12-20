@@ -84,3 +84,5 @@
 - pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-showcase@5.0.6?type=war
 - pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-showcase@5.0.7?classifier=sources
 - pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-showcase@5.0.7?type=war
+- pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-showcase@6.0.0?classifier=sources
+- pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-showcase@6.0.0?type=war

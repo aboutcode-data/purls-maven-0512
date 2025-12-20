@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-persistence-mongodb-jdk8@1.0.34
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-persistence-mongodb-jdk8@1.0.34?classifier=sources

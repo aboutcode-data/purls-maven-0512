@@ -40,3 +40,5 @@
 - pkg:maven/com.ibeetl/beetl-default-antlr4.9-support@3.17.0.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/beetl-default-antlr4.9-support@3.18.0.RELEASE
 - pkg:maven/com.ibeetl/beetl-default-antlr4.9-support@3.18.0.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/beetl-default-antlr4.9-support@3.19.0.RELEASE
+- pkg:maven/com.ibeetl/beetl-default-antlr4.9-support@3.19.0.RELEASE?classifier=sources

@@ -38,3 +38,7 @@
 - pkg:maven/io.debezium/debezium-microbenchmark-engine@3.0.4.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-microbenchmark-engine@3.0.5.Final
 - pkg:maven/io.debezium/debezium-microbenchmark-engine@3.0.5.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-microbenchmark-engine@3.0.6.Final
+- pkg:maven/io.debezium/debezium-microbenchmark-engine@3.0.6.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-microbenchmark-engine@3.0.7.Final
+- pkg:maven/io.debezium/debezium-microbenchmark-engine@3.0.7.Final?classifier=sources

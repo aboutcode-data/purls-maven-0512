@@ -61,3 +61,4 @@
 - pkg:maven/org.komapper/komapper-dialect-h2@3.1.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-h2@4.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-h2@5.0.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-h2@5.1.0?classifier=sources

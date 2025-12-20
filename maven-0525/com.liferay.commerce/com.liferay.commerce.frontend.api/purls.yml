@@ -127,6 +127,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.api@2.0.1
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.api@2.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.api@2.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.api@20.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.api@3.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.api@3.0.0?classifier=sources-commercial

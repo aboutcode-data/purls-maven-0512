@@ -1,0 +1,2 @@
+- pkg:maven/com.marklogic/flux-embedding-model-azure-open-ai@1.2.0?classifier=sources
+- pkg:maven/com.marklogic/flux-embedding-model-azure-open-ai@1.2.1?classifier=sources

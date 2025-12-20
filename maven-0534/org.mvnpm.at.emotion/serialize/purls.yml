@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.emotion/serialize@1.1.4?classifier=sources
+- pkg:maven/org.mvnpm.at.emotion/serialize@1.3.3?classifier=sources
