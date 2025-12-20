@@ -541,6 +541,7 @@
 - pkg:maven/org.janusgraph/janusgraph-bigtable@1.0.1-20240913-070554.d4a3a5b
 - pkg:maven/org.janusgraph/janusgraph-bigtable@1.0.1-20240913-070624.c957689
 - pkg:maven/org.janusgraph/janusgraph-bigtable@1.0.1-20240917-072843.4cec993
+- pkg:maven/org.janusgraph/janusgraph-bigtable@1.0.1-20240927-183331.c6107eb
 - pkg:maven/org.janusgraph/janusgraph-bigtable@1.1.0-20231025-183335.6232a7c
 - pkg:maven/org.janusgraph/janusgraph-bigtable@1.1.0-20231027-015303.09d49b2
 - pkg:maven/org.janusgraph/janusgraph-bigtable@1.1.0-20231103-151124.2dc3a12
@@ -728,3 +729,4 @@
 - pkg:maven/org.janusgraph/janusgraph-bigtable@1.1.0-20240911-072359.3a4da27
 - pkg:maven/org.janusgraph/janusgraph-bigtable@1.1.0-20240912-094806.0374c06
 - pkg:maven/org.janusgraph/janusgraph-bigtable@1.1.0-20240913-070941.4a576f6
+- pkg:maven/org.janusgraph/janusgraph-bigtable@1.1.0-20240927-111508.73232fe

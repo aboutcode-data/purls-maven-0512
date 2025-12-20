@@ -26,3 +26,5 @@
 - pkg:maven/com.alibaba/dns-cache-manipulator-tool@1.8.1?type=zip
 - pkg:maven/com.alibaba/dns-cache-manipulator-tool@1.8.2?classifier=sources
 - pkg:maven/com.alibaba/dns-cache-manipulator-tool@1.8.2?type=zip
+- pkg:maven/com.alibaba/dns-cache-manipulator-tool@1.8.3?classifier=sources
+- pkg:maven/com.alibaba/dns-cache-manipulator-tool@1.8.3?type=zip

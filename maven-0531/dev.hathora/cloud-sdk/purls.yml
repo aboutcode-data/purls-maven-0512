@@ -1,0 +1,4 @@
+- pkg:maven/dev.hathora/cloud-sdk@2.10.0?classifier=sources
+- pkg:maven/dev.hathora/cloud-sdk@2.9.13?classifier=sources
+- pkg:maven/dev.hathora/cloud-sdk@2.9.14?classifier=sources
+- pkg:maven/dev.hathora/cloud-sdk@2.9.15?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.circe/refned_sjs1_2.13@0.15.0
+- pkg:maven/io.circe/refned_sjs1_2.13@0.15.0?classifier=sources

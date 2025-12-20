@@ -68,3 +68,5 @@
 - pkg:maven/network.mysterium/provider-mobile-node@1.29.23?type=aar
 - pkg:maven/network.mysterium/provider-mobile-node@1.29.2?classifier=sources
 - pkg:maven/network.mysterium/provider-mobile-node@1.29.2?type=aar
+- pkg:maven/network.mysterium/provider-mobile-node@1.30.3?classifier=sources
+- pkg:maven/network.mysterium/provider-mobile-node@1.30.3?type=aar

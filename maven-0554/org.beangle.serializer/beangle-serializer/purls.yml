@@ -2,5 +2,7 @@
 - pkg:maven/org.beangle.serializer/beangle-serializer@0.1.10?classifier=sources
 - pkg:maven/org.beangle.serializer/beangle-serializer@0.1.11
 - pkg:maven/org.beangle.serializer/beangle-serializer@0.1.11?classifier=sources
+- pkg:maven/org.beangle.serializer/beangle-serializer@0.1.12
+- pkg:maven/org.beangle.serializer/beangle-serializer@0.1.12?classifier=sources
 - pkg:maven/org.beangle.serializer/beangle-serializer@0.1.9
 - pkg:maven/org.beangle.serializer/beangle-serializer@0.1.9?classifier=sources

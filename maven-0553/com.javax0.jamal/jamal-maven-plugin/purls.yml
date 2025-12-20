@@ -73,3 +73,4 @@
 - pkg:maven/com.javax0.jamal/jamal-maven-plugin@2.6.0
 - pkg:maven/com.javax0.jamal/jamal-maven-plugin@2.7.0
 - pkg:maven/com.javax0.jamal/jamal-maven-plugin@2.8.0
+- pkg:maven/com.javax0.jamal/jamal-maven-plugin@2.8.1

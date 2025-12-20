@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars.npm/package-json-from-dist@1.0.0
+- pkg:maven/org.webjars.npm/package-json-from-dist@1.0.1

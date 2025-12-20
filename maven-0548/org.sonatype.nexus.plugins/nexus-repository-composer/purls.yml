@@ -54,3 +54,5 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-composer@0.0.9?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-composer@0.1.4
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-composer@0.1.4?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-composer@0.1.5
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-composer@0.1.5?classifier=sources

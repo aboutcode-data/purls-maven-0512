@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seata/seata-metrics-api@2.1.0
+- pkg:maven/org.apache.seata/seata-metrics-api@2.1.0?classifier=sources

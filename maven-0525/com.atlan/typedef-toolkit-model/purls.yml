@@ -20,3 +20,6 @@
 - pkg:maven/com.atlan/typedef-toolkit-model@1.12.9?classifier=sources
 - pkg:maven/com.atlan/typedef-toolkit-model@1.13.0?classifier=sources
 - pkg:maven/com.atlan/typedef-toolkit-model@1.14.0?classifier=sources
+- pkg:maven/com.atlan/typedef-toolkit-model@2.0.0?classifier=sources
+- pkg:maven/com.atlan/typedef-toolkit-model@2.0.1?classifier=sources
+- pkg:maven/com.atlan/typedef-toolkit-model@2.1.0?classifier=sources

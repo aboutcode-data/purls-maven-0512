@@ -14,3 +14,5 @@
 - pkg:maven/com.power4j.tile/tile-concept@1.5.0?classifier=sources
 - pkg:maven/com.power4j.tile/tile-concept@1.5.1
 - pkg:maven/com.power4j.tile/tile-concept@1.5.1?classifier=sources
+- pkg:maven/com.power4j.tile/tile-concept@1.6.2
+- pkg:maven/com.power4j.tile/tile-concept@1.6.2?classifier=sources

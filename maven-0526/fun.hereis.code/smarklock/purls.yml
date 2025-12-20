@@ -1,0 +1,2 @@
+- pkg:maven/fun.hereis.code/smarklock@1.0
+- pkg:maven/fun.hereis.code/smarklock@1.0?classifier=sources

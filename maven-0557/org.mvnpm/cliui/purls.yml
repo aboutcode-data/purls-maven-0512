@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/cliui@6.0.0?classifier=sources
 - pkg:maven/org.mvnpm/cliui@8.0.1?classifier=sources

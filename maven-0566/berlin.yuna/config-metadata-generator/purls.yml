@@ -124,6 +124,8 @@
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.15
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.150
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.150?classifier=sources
+- pkg:maven/berlin.yuna/config-metadata-generator@0.6.151
+- pkg:maven/berlin.yuna/config-metadata-generator@0.6.151?classifier=sources
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.15?classifier=sources
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.16
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.16?classifier=sources

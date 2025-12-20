@@ -9,5 +9,9 @@
 - pkg:maven/io.github.sswroom/util@0.3.20240531?classifier=sources
 - pkg:maven/io.github.sswroom/util@0.3.20240620?classifier=sources
 - pkg:maven/io.github.sswroom/util@0.3.20240711?classifier=sources
+- pkg:maven/io.github.sswroom/util@0.3.20240925?classifier=sources
 - pkg:maven/io.github.sswroom/util@0.4.20240805?classifier=sources
 - pkg:maven/io.github.sswroom/util@0.4.20240816?classifier=sources
+- pkg:maven/io.github.sswroom/util@0.4.20240913?classifier=sources
+- pkg:maven/io.github.sswroom/util@0.4.20240917?classifier=sources
+- pkg:maven/io.github.sswroom/util@0.4.20240923?classifier=sources

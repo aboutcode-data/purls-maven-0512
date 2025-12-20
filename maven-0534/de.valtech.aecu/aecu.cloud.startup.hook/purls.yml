@@ -14,3 +14,5 @@
 - pkg:maven/de.valtech.aecu/aecu.cloud.startup.hook@6.5.0?classifier=sources
 - pkg:maven/de.valtech.aecu/aecu.cloud.startup.hook@6.5.1
 - pkg:maven/de.valtech.aecu/aecu.cloud.startup.hook@6.5.1?classifier=sources
+- pkg:maven/de.valtech.aecu/aecu.cloud.startup.hook@6.5.2
+- pkg:maven/de.valtech.aecu/aecu.cloud.startup.hook@6.5.2?classifier=sources

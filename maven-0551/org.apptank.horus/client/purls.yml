@@ -1,1 +1,3 @@
 - pkg:maven/org.apptank.horus/client@0.1.0?classifier=sources
+- pkg:maven/org.apptank.horus/client@0.1.4?classifier=sources
+- pkg:maven/org.apptank.horus/client@0.1.5?classifier=sources

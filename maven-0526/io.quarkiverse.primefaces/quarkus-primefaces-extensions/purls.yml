@@ -54,3 +54,5 @@
 - pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-extensions@3.14.3?classifier=sources
 - pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-extensions@3.14.4
 - pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-extensions@3.14.4?classifier=sources
+- pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-extensions@3.14.5
+- pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-extensions@3.14.5?classifier=sources

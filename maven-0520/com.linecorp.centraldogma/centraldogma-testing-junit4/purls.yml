@@ -111,3 +111,4 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-testing-junit4@0.68.0?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-testing-junit4@0.69.0?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-testing-junit4@0.69.1?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-testing-junit4@0.70.0?classifier=sources

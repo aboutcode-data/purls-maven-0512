@@ -250,3 +250,5 @@
 - pkg:maven/org.wildfly.core/wildfly-jar-runtime@26.0.0.Beta3?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-jar-runtime@26.0.0.Beta4
 - pkg:maven/org.wildfly.core/wildfly-jar-runtime@26.0.0.Beta4?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-jar-runtime@26.0.0.Beta5
+- pkg:maven/org.wildfly.core/wildfly-jar-runtime@26.0.0.Beta5?classifier=sources

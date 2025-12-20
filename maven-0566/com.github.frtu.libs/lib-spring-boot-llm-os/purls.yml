@@ -1,0 +1,2 @@
+- pkg:maven/com.github.frtu.libs/lib-spring-boot-llm-os@2.0.4
+- pkg:maven/com.github.frtu.libs/lib-spring-boot-llm-os@2.0.4?classifier=sources

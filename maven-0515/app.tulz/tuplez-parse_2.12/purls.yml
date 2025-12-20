@@ -1,2 +1,4 @@
 - pkg:maven/app.tulz/tuplez-parse_2.12@0.3.0
 - pkg:maven/app.tulz/tuplez-parse_2.12@0.3.0?classifier=sources
+- pkg:maven/app.tulz/tuplez-parse_2.12@0.4.0
+- pkg:maven/app.tulz/tuplez-parse_2.12@0.4.0?classifier=sources

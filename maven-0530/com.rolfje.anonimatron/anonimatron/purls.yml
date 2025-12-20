@@ -14,5 +14,7 @@
 - pkg:maven/com.rolfje.anonimatron/anonimatron@1.14?classifier=sources
 - pkg:maven/com.rolfje.anonimatron/anonimatron@1.15
 - pkg:maven/com.rolfje.anonimatron/anonimatron@1.15?classifier=sources
+- pkg:maven/com.rolfje.anonimatron/anonimatron@1.16
+- pkg:maven/com.rolfje.anonimatron/anonimatron@1.16?classifier=sources
 - pkg:maven/com.rolfje.anonimatron/anonimatron@1.9.3
 - pkg:maven/com.rolfje.anonimatron/anonimatron@1.9.3?classifier=sources

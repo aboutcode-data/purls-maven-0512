@@ -107,5 +107,7 @@
 - pkg:maven/com.adobe.cq/core.wcm.components.extensions.amp@2.25.4?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.extensions.amp@2.26.0
 - pkg:maven/com.adobe.cq/core.wcm.components.extensions.amp@2.26.0?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.extensions.amp@2.27.0
+- pkg:maven/com.adobe.cq/core.wcm.components.extensions.amp@2.27.0?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.extensions.amp@2.8.1-SNAPSHOT-20200410121300
 - pkg:maven/com.adobe.cq/core.wcm.components.extensions.amp@2.8.1-SNAPSHOT-20200410121300?classifier=sources

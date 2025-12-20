@@ -168,6 +168,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.49.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.5.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.5.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.50.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.50.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.52.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.52.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.6.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-talent-v4@2.7.0

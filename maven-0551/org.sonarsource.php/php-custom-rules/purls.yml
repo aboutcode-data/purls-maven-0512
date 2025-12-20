@@ -5,3 +5,4 @@
 - pkg:maven/org.sonarsource.php/php-custom-rules@3.36.0.11813?classifier=sources
 - pkg:maven/org.sonarsource.php/php-custom-rules@3.37.0.12079?classifier=sources
 - pkg:maven/org.sonarsource.php/php-custom-rules@3.37.0.12086?classifier=sources
+- pkg:maven/org.sonarsource.php/php-custom-rules@3.38.0.12239?classifier=sources

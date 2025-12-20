@@ -463,3 +463,5 @@
 - pkg:maven/org.apache.camel/camel-bindy@4.6.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-bindy@4.7.0
 - pkg:maven/org.apache.camel/camel-bindy@4.7.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-bindy@4.8.0
+- pkg:maven/org.apache.camel/camel-bindy@4.8.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.github.xiashuai-mr/post-processing-spring-boot-autoconfigure@1.0.0-SNAPSHOTS
+- pkg:maven/com.github.xiashuai-mr/post-processing-spring-boot-autoconfigure@1.0.0-SNAPSHOTS?classifier=sources
+- pkg:maven/com.github.xiashuai-mr/post-processing-spring-boot-autoconfigure@1.0.1-SNAPSHOTS
+- pkg:maven/com.github.xiashuai-mr/post-processing-spring-boot-autoconfigure@1.0.1-SNAPSHOTS?classifier=sources
+- pkg:maven/com.github.xiashuai-mr/post-processing-spring-boot-autoconfigure@1.0.2-SNAPSHOTS
+- pkg:maven/com.github.xiashuai-mr/post-processing-spring-boot-autoconfigure@1.0.2-SNAPSHOTS?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/io.split.client/pluggable-storage@2.0.0?classifier=sources
 - pkg:maven/io.split.client/pluggable-storage@2.1.0
 - pkg:maven/io.split.client/pluggable-storage@2.1.0?classifier=sources
+- pkg:maven/io.split.client/pluggable-storage@4.13.0-rc3
+- pkg:maven/io.split.client/pluggable-storage@4.13.0-rc3?classifier=sources

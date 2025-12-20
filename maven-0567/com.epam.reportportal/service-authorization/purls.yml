@@ -11,6 +11,7 @@
 - pkg:maven/com.epam.reportportal/service-authorization@5.1.0?classifier=sources
 - pkg:maven/com.epam.reportportal/service-authorization@5.11.0?classifier=sources
 - pkg:maven/com.epam.reportportal/service-authorization@5.11.1?classifier=sources
+- pkg:maven/com.epam.reportportal/service-authorization@5.12.0?classifier=sources
 - pkg:maven/com.epam.reportportal/service-authorization@5.2.0?classifier=sources
 - pkg:maven/com.epam.reportportal/service-authorization@5.2.1?classifier=sources
 - pkg:maven/com.epam.reportportal/service-authorization@5.2.3?classifier=sources

@@ -37,6 +37,7 @@
 - pkg:maven/com.finiotech/verifyuser@1.1.0?classifier=sources
 - pkg:maven/com.finiotech/verifyuser@1.1.10?classifier=sources
 - pkg:maven/com.finiotech/verifyuser@1.1.15?classifier=sources
+- pkg:maven/com.finiotech/verifyuser@1.1.16.10?classifier=sources
 - pkg:maven/com.finiotech/verifyuser@1.1.16.1?classifier=sources
 - pkg:maven/com.finiotech/verifyuser@1.1.16.2?classifier=sources
 - pkg:maven/com.finiotech/verifyuser@1.1.16.3?classifier=sources

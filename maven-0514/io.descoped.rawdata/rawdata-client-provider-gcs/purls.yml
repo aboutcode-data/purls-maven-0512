@@ -1,0 +1,2 @@
+- pkg:maven/io.descoped.rawdata/rawdata-client-provider-gcs@2.0.0
+- pkg:maven/io.descoped.rawdata/rawdata-client-provider-gcs@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fr.janalyse/zwords-word-generator_3@2.0.2
+- pkg:maven/fr.janalyse/zwords-word-generator_3@2.0.2?classifier=sources

@@ -18,3 +18,7 @@
 - pkg:maven/com.ethlo.clackshack/clackshack@3.1.0?classifier=sources
 - pkg:maven/com.ethlo.clackshack/clackshack@3.2.0
 - pkg:maven/com.ethlo.clackshack/clackshack@3.2.0?classifier=sources
+- pkg:maven/com.ethlo.clackshack/clackshack@4.0.0
+- pkg:maven/com.ethlo.clackshack/clackshack@4.0.0?classifier=sources
+- pkg:maven/com.ethlo.clackshack/clackshack@4.0.1
+- pkg:maven/com.ethlo.clackshack/clackshack@4.0.1?classifier=sources

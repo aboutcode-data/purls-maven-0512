@@ -64,3 +64,5 @@
 - pkg:maven/software.amazon.awsconstructs/openapigatewaylambda@2.69.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/openapigatewaylambda@2.70.0
 - pkg:maven/software.amazon.awsconstructs/openapigatewaylambda@2.70.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/openapigatewaylambda@2.71.0
+- pkg:maven/software.amazon.awsconstructs/openapigatewaylambda@2.71.0?classifier=sources

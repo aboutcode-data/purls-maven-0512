@@ -200,3 +200,7 @@
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-test-generation@0.173.1?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-test-generation@0.173.2
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-test-generation@0.173.2?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-test-generation@0.174.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-test-generation@0.174.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-test-generation@0.175.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-test-generation@0.175.0?classifier=sources

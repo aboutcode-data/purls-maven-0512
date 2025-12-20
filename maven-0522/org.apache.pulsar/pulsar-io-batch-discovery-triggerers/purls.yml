@@ -102,3 +102,5 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-batch-discovery-triggerers@3.3.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-batch-discovery-triggerers@3.3.1
 - pkg:maven/org.apache.pulsar/pulsar-io-batch-discovery-triggerers@3.3.1?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-batch-discovery-triggerers@4.0.0-preview.1
+- pkg:maven/org.apache.pulsar/pulsar-io-batch-discovery-triggerers@4.0.0-preview.1?classifier=sources
