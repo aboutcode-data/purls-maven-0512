@@ -1,1 +1,5 @@
 - pkg:maven/co.amity.android/amity-video-publisher@5.35.0?classifier=sources
+- pkg:maven/co.amity.android/amity-video-publisher@6.43.0?classifier=sources
+- pkg:maven/co.amity.android/amity-video-publisher@6.44.0?classifier=sources
+- pkg:maven/co.amity.android/amity-video-publisher@6.45.0-alpha02?classifier=sources
+- pkg:maven/co.amity.android/amity-video-publisher@6.45.0.-alpha02?classifier=sources

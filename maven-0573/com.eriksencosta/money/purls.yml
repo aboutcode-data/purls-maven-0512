@@ -1,0 +1,2 @@
+- pkg:maven/com.eriksencosta/money@0.1.0-snapshot?classifier=sources
+- pkg:maven/com.eriksencosta/money@0.1.0?classifier=sources

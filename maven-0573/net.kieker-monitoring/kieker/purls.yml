@@ -22,3 +22,4 @@
 - pkg:maven/net.kieker-monitoring/kieker@1.9
 - pkg:maven/net.kieker-monitoring/kieker@1.9?classifier=sources
 - pkg:maven/net.kieker-monitoring/kieker@2.0.0?classifier=sources
+- pkg:maven/net.kieker-monitoring/kieker@2.0.1?classifier=sources

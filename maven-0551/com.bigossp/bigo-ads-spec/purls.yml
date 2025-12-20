@@ -21,3 +21,4 @@
 - pkg:maven/com.bigossp/bigo-ads-spec@4.9.1?type=aar
 - pkg:maven/com.bigossp/bigo-ads-spec@5.0.0?type=aar
 - pkg:maven/com.bigossp/bigo-ads-spec@5.0.1?type=aar
+- pkg:maven/com.bigossp/bigo-ads-spec@5.0.2?type=aar

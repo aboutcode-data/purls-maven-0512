@@ -4,3 +4,9 @@
 - pkg:maven/org.jitsi/jicoco@1.1-140-g8f45a9f?classifier=sources
 - pkg:maven/org.jitsi/jicoco@1.1-141-g30ec741
 - pkg:maven/org.jitsi/jicoco@1.1-141-g30ec741?classifier=sources
+- pkg:maven/org.jitsi/jicoco@1.1-142-gfed0320
+- pkg:maven/org.jitsi/jicoco@1.1-142-gfed0320?classifier=sources
+- pkg:maven/org.jitsi/jicoco@1.1-143-g175c44b
+- pkg:maven/org.jitsi/jicoco@1.1-143-g175c44b?classifier=sources
+- pkg:maven/org.jitsi/jicoco@1.1-144-ga2c5ec1
+- pkg:maven/org.jitsi/jicoco@1.1-144-ga2c5ec1?classifier=sources

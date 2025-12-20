@@ -106,3 +106,8 @@
 - pkg:maven/io.trino/trino-mysql@457?classifier=sources
 - pkg:maven/io.trino/trino-mysql@458?classifier=sources
 - pkg:maven/io.trino/trino-mysql@459?classifier=sources
+- pkg:maven/io.trino/trino-mysql@460?classifier=sources
+- pkg:maven/io.trino/trino-mysql@461?classifier=sources
+- pkg:maven/io.trino/trino-mysql@462?classifier=sources
+- pkg:maven/io.trino/trino-mysql@463?classifier=sources
+- pkg:maven/io.trino/trino-mysql@464?classifier=sources

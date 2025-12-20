@@ -2,3 +2,7 @@
 - pkg:maven/io.github.pedro-bachiega/easy-nfc@0.0.1-rc02?classifier=sources
 - pkg:maven/io.github.pedro-bachiega/easy-nfc@0.0.1-rc03?classifier=sources
 - pkg:maven/io.github.pedro-bachiega/easy-nfc@0.0.1-rc04?classifier=sources
+- pkg:maven/io.github.pedro-bachiega/easy-nfc@0.0.1-rc05?classifier=sources
+- pkg:maven/io.github.pedro-bachiega/easy-nfc@0.0.1-rc06?classifier=sources
+- pkg:maven/io.github.pedro-bachiega/easy-nfc@0.0.1-rc07?classifier=sources
+- pkg:maven/io.github.pedro-bachiega/easy-nfc@0.0.1-rc08?classifier=sources

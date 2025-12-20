@@ -130,6 +130,8 @@
 - pkg:maven/com.google.cloud/google-cloud-managed-identities@1.49.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-managed-identities@1.5.0
 - pkg:maven/com.google.cloud/google-cloud-managed-identities@1.5.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-managed-identities@1.50.0
+- pkg:maven/com.google.cloud/google-cloud-managed-identities@1.50.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-managed-identities@1.6.0
 - pkg:maven/com.google.cloud/google-cloud-managed-identities@1.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-managed-identities@1.7.0

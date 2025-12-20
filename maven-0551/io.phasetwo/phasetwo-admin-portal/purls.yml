@@ -49,6 +49,10 @@
 - pkg:maven/io.phasetwo/phasetwo-admin-portal@0.31?classifier=sources
 - pkg:maven/io.phasetwo/phasetwo-admin-portal@0.32
 - pkg:maven/io.phasetwo/phasetwo-admin-portal@0.32?classifier=sources
+- pkg:maven/io.phasetwo/phasetwo-admin-portal@0.33
+- pkg:maven/io.phasetwo/phasetwo-admin-portal@0.33?classifier=sources
+- pkg:maven/io.phasetwo/phasetwo-admin-portal@0.34
+- pkg:maven/io.phasetwo/phasetwo-admin-portal@0.34?classifier=sources
 - pkg:maven/io.phasetwo/phasetwo-admin-portal@0.3?classifier=sources
 - pkg:maven/io.phasetwo/phasetwo-admin-portal@0.5
 - pkg:maven/io.phasetwo/phasetwo-admin-portal@0.5?classifier=sources

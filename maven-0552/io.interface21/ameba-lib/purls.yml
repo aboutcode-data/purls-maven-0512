@@ -28,5 +28,7 @@
 - pkg:maven/io.interface21/ameba-lib@3.0?classifier=sources
 - pkg:maven/io.interface21/ameba-lib@3.1
 - pkg:maven/io.interface21/ameba-lib@3.1?classifier=sources
+- pkg:maven/io.interface21/ameba-lib@4.0
 - pkg:maven/io.interface21/ameba-lib@4.0-M2
 - pkg:maven/io.interface21/ameba-lib@4.0-M2?classifier=sources
+- pkg:maven/io.interface21/ameba-lib@4.0?classifier=sources

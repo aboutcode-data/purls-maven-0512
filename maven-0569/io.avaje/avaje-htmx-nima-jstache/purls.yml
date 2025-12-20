@@ -4,3 +4,5 @@
 - pkg:maven/io.avaje/avaje-htmx-nima-jstache@2.8-RC2?classifier=sources
 - pkg:maven/io.avaje/avaje-htmx-nima-jstache@2.8-RC3
 - pkg:maven/io.avaje/avaje-htmx-nima-jstache@2.8-RC3?classifier=sources
+- pkg:maven/io.avaje/avaje-htmx-nima-jstache@2.8-RC4
+- pkg:maven/io.avaje/avaje-htmx-nima-jstache@2.8-RC4?classifier=sources

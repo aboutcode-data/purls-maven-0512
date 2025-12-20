@@ -1,0 +1,2 @@
+- pkg:maven/br.com.grosz/jdbc-resources@0.0.2?classifier=sources
+- pkg:maven/br.com.grosz/jdbc-resources@0.0.3?classifier=sources

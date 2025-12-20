@@ -16,3 +16,5 @@
 - pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-booter@0.24.2?classifier=sources
 - pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-booter@0.24.3?classifier=sources
 - pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-booter@0.24.4?classifier=sources
+- pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-booter@0.25.0?classifier=sources
+- pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-booter@0.26.0?classifier=sources

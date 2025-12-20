@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/vega-view-transforms@4.5.8?classifier=sources
 - pkg:maven/org.webjars.npm/vega-view-transforms@4.5.9
 - pkg:maven/org.webjars.npm/vega-view-transforms@4.5.9?classifier=sources
+- pkg:maven/org.webjars.npm/vega-view-transforms@4.6.0

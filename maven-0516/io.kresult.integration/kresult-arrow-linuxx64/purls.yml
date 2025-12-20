@@ -1,0 +1,2 @@
+- pkg:maven/io.kresult.integration/kresult-arrow-linuxx64@0.4.0?classifier=sources
+- pkg:maven/io.kresult.integration/kresult-arrow-linuxx64@0.4.1?classifier=sources

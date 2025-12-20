@@ -4,3 +4,4 @@
 - pkg:maven/org.hisp.dhis.integration.camel/camel-archetype-dhis2@1.0.3?classifier=sources
 - pkg:maven/org.hisp.dhis.integration.camel/camel-archetype-dhis2@1.0.4?classifier=sources
 - pkg:maven/org.hisp.dhis.integration.camel/camel-archetype-dhis2@2.0.0?classifier=sources
+- pkg:maven/org.hisp.dhis.integration.camel/camel-archetype-dhis2@2.0.1?classifier=sources

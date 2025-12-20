@@ -8,3 +8,5 @@
 - pkg:maven/ru.cwcode.commands/PaperCommands@1.3.2?classifier=sources
 - pkg:maven/ru.cwcode.commands/PaperCommands@1.3.4
 - pkg:maven/ru.cwcode.commands/PaperCommands@1.3.4?classifier=sources
+- pkg:maven/ru.cwcode.commands/PaperCommands@1.4.0
+- pkg:maven/ru.cwcode.commands/PaperCommands@1.4.0?classifier=sources

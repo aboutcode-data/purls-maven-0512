@@ -2,3 +2,9 @@
 - pkg:maven/io.digiexpress/spring-app@1.1.2?classifier=sources
 - pkg:maven/io.digiexpress/spring-app@1.1.3
 - pkg:maven/io.digiexpress/spring-app@1.1.3?classifier=sources
+- pkg:maven/io.digiexpress/spring-app@4.278.119
+- pkg:maven/io.digiexpress/spring-app@4.278.119?classifier=sources
+- pkg:maven/io.digiexpress/spring-app@4.278.120
+- pkg:maven/io.digiexpress/spring-app@4.278.120?classifier=sources
+- pkg:maven/io.digiexpress/spring-app@4.278.121
+- pkg:maven/io.digiexpress/spring-app@4.278.121?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/com.nordstrom.ui-tools/local-grid-hub@1.9.4?classifier=sources
 - pkg:maven/com.nordstrom.ui-tools/local-grid-hub@2.0.0
 - pkg:maven/com.nordstrom.ui-tools/local-grid-hub@2.0.0?classifier=sources
+- pkg:maven/com.nordstrom.ui-tools/local-grid-hub@2.0.1
+- pkg:maven/com.nordstrom.ui-tools/local-grid-hub@2.0.1?classifier=sources

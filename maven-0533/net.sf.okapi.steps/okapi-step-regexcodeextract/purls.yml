@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.okapi.steps/okapi-step-regexcodeextract@1.46.0
 - pkg:maven/net.sf.okapi.steps/okapi-step-regexcodeextract@1.46.0?classifier=sources
+- pkg:maven/net.sf.okapi.steps/okapi-step-regexcodeextract@1.47.0
+- pkg:maven/net.sf.okapi.steps/okapi-step-regexcodeextract@1.47.0?classifier=sources

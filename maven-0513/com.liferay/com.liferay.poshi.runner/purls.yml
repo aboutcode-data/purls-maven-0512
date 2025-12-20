@@ -1176,6 +1176,7 @@
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.490?classifier=sources
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.491?classifier=sources
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.492?classifier=sources
+- pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.493?classifier=sources
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.49?classifier=sources
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.5
 - pkg:maven/com.liferay/com.liferay.poshi.runner@1.0.50

@@ -17,3 +17,4 @@
 - pkg:maven/nl.littlerobots.vcu/plugin@0.8.2?classifier=sources
 - pkg:maven/nl.littlerobots.vcu/plugin@0.8.3?classifier=sources
 - pkg:maven/nl.littlerobots.vcu/plugin@0.8.4?classifier=sources
+- pkg:maven/nl.littlerobots.vcu/plugin@0.8.5?classifier=sources

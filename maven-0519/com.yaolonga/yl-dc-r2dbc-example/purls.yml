@@ -1,0 +1,3 @@
+- pkg:maven/com.yaolonga/yl-dc-r2dbc-example@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.yaolonga/yl-dc-r2dbc-example@1.1.0-RELEASE?classifier=sources
+- pkg:maven/com.yaolonga/yl-dc-r2dbc-example@1.1.1-RELEASE?classifier=sources

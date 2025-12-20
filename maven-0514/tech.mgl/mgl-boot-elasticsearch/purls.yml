@@ -1,2 +1,4 @@
 - pkg:maven/tech.mgl/mgl-boot-elasticsearch@2024.6.21
 - pkg:maven/tech.mgl/mgl-boot-elasticsearch@2024.6.21?classifier=sources
+- pkg:maven/tech.mgl/mgl-boot-elasticsearch@2024.9.1
+- pkg:maven/tech.mgl/mgl-boot-elasticsearch@2024.9.1?classifier=sources

@@ -8,5 +8,7 @@
 - pkg:maven/com.kmwllc/lucille-pinecone@0.2.3?classifier=sources
 - pkg:maven/com.kmwllc/lucille-pinecone@0.3.0
 - pkg:maven/com.kmwllc/lucille-pinecone@0.3.0?classifier=sources
+- pkg:maven/com.kmwllc/lucille-pinecone@0.4.0
+- pkg:maven/com.kmwllc/lucille-pinecone@0.4.0?classifier=sources
 - pkg:maven/com.kmwllc/lucille-pinecone@v0.2.4
 - pkg:maven/com.kmwllc/lucille-pinecone@v0.2.4?classifier=sources

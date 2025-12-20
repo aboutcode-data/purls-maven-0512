@@ -214,3 +214,5 @@
 - pkg:maven/org.cryptomator/cryptofs@2.7.0-beta1
 - pkg:maven/org.cryptomator/cryptofs@2.7.0-beta1?classifier=sources
 - pkg:maven/org.cryptomator/cryptofs@2.7.0?classifier=sources
+- pkg:maven/org.cryptomator/cryptofs@2.7.1-beta1
+- pkg:maven/org.cryptomator/cryptofs@2.7.1-beta1?classifier=sources

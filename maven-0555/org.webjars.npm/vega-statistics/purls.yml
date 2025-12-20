@@ -14,3 +14,4 @@
 - pkg:maven/org.webjars.npm/vega-statistics@1.7.9?classifier=sources
 - pkg:maven/org.webjars.npm/vega-statistics@1.8.0
 - pkg:maven/org.webjars.npm/vega-statistics@1.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/vega-statistics@1.9.0

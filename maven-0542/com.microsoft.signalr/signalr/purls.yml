@@ -138,6 +138,7 @@
 - pkg:maven/com.microsoft.signalr/signalr@6.0.31?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@6.0.32?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@6.0.33?classifier=sources
+- pkg:maven/com.microsoft.signalr/signalr@6.0.35?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@6.0.3?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@6.0.4?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@6.0.5?classifier=sources
@@ -184,6 +185,7 @@
 - pkg:maven/com.microsoft.signalr/signalr@8.0.0-rc.1.23421.29?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@8.0.0-rc.2.23480.2?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@8.0.0?classifier=sources
+- pkg:maven/com.microsoft.signalr/signalr@8.0.10?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@8.0.1?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@8.0.2?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@8.0.3?classifier=sources
@@ -200,3 +202,4 @@
 - pkg:maven/com.microsoft.signalr/signalr@9.0.0-preview.6.24328.4?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@9.0.0-preview.7.24406.2?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@9.0.0-rc.1.24452.1?classifier=sources
+- pkg:maven/com.microsoft.signalr/signalr@9.0.0-rc.2.24474.3?classifier=sources

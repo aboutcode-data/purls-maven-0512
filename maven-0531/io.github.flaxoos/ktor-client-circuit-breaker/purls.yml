@@ -5,3 +5,4 @@
 - pkg:maven/io.github.flaxoos/ktor-client-circuit-breaker@1.2.7a?classifier=sources
 - pkg:maven/io.github.flaxoos/ktor-client-circuit-breaker@1.2.8?classifier=sources
 - pkg:maven/io.github.flaxoos/ktor-client-circuit-breaker@1.2.9?classifier=sources
+- pkg:maven/io.github.flaxoos/ktor-client-circuit-breaker@2.0.0?classifier=sources

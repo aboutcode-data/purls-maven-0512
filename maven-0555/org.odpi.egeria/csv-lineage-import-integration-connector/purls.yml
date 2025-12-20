@@ -1,1 +1,2 @@
 - pkg:maven/org.odpi.egeria/csv-lineage-import-integration-connector@5.0?classifier=sources
+- pkg:maven/org.odpi.egeria/csv-lineage-import-integration-connector@5.1?classifier=sources

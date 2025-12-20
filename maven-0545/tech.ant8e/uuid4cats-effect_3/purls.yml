@@ -12,3 +12,5 @@
 - pkg:maven/tech.ant8e/uuid4cats-effect_3@0.4.0?classifier=sources
 - pkg:maven/tech.ant8e/uuid4cats-effect_3@0.5.0
 - pkg:maven/tech.ant8e/uuid4cats-effect_3@0.5.0?classifier=sources
+- pkg:maven/tech.ant8e/uuid4cats-effect_3@0.5.1
+- pkg:maven/tech.ant8e/uuid4cats-effect_3@0.5.1?classifier=sources

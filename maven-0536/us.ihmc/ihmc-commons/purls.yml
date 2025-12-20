@@ -3,3 +3,4 @@
 - pkg:maven/us.ihmc/ihmc-commons@0.30.6?classifier=sources
 - pkg:maven/us.ihmc/ihmc-commons@0.31.0?classifier=sources
 - pkg:maven/us.ihmc/ihmc-commons@0.32.0?classifier=sources
+- pkg:maven/us.ihmc/ihmc-commons@0.33.0?classifier=sources

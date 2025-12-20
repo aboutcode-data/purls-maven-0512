@@ -1,0 +1,6 @@
+- pkg:maven/io.quarkiverse.playpen/integration-tests@0.4
+- pkg:maven/io.quarkiverse.playpen/integration-tests@0.5
+- pkg:maven/io.quarkiverse.playpen/integration-tests@0.6
+- pkg:maven/io.quarkiverse.playpen/integration-tests@0.7
+- pkg:maven/io.quarkiverse.playpen/integration-tests@0.9
+- pkg:maven/io.quarkiverse.playpen/integration-tests@0.9.1

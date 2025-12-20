@@ -40,3 +40,5 @@
 - pkg:maven/io.agodadev/scala-test-metrics_2.12@0.1.70?classifier=sources
 - pkg:maven/io.agodadev/scala-test-metrics_2.12@0.1.72
 - pkg:maven/io.agodadev/scala-test-metrics_2.12@0.1.72?classifier=sources
+- pkg:maven/io.agodadev/scala-test-metrics_2.12@0.1.74
+- pkg:maven/io.agodadev/scala-test-metrics_2.12@0.1.74?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/com.caoccao.javet/swc4j@0.8.0?classifier=sources
 - pkg:maven/com.caoccao.javet/swc4j@0.9.0?classifier=sources
 - pkg:maven/com.caoccao.javet/swc4j@1.0.0?classifier=sources
+- pkg:maven/com.caoccao.javet/swc4j@1.1.0?classifier=sources

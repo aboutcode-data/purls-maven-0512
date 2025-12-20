@@ -14,3 +14,9 @@
 - pkg:maven/com.adobe.campaign.tests/log-parser@1.0.8.2
 - pkg:maven/com.adobe.campaign.tests/log-parser@1.0.8.2?classifier=sources
 - pkg:maven/com.adobe.campaign.tests/log-parser@1.0.8?classifier=sources
+- pkg:maven/com.adobe.campaign.tests/log-parser@1.11.0
+- pkg:maven/com.adobe.campaign.tests/log-parser@1.11.0?classifier=sources
+- pkg:maven/com.adobe.campaign.tests/log-parser@1.11.1
+- pkg:maven/com.adobe.campaign.tests/log-parser@1.11.1?classifier=sources
+- pkg:maven/com.adobe.campaign.tests/log-parser@1.11.2
+- pkg:maven/com.adobe.campaign.tests/log-parser@1.11.2?classifier=sources

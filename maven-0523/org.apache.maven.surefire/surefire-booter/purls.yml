@@ -120,3 +120,5 @@
 - pkg:maven/org.apache.maven.surefire/surefire-booter@3.4.0?classifier=sources
 - pkg:maven/org.apache.maven.surefire/surefire-booter@3.5.0
 - pkg:maven/org.apache.maven.surefire/surefire-booter@3.5.0?classifier=sources
+- pkg:maven/org.apache.maven.surefire/surefire-booter@3.5.1
+- pkg:maven/org.apache.maven.surefire/surefire-booter@3.5.1?classifier=sources

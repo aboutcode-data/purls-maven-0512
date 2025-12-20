@@ -3,3 +3,4 @@
 - pkg:maven/org.webjars.npm/alpinejs__intersect@3.13.3?classifier=sources
 - pkg:maven/org.webjars.npm/alpinejs__intersect@3.14.0
 - pkg:maven/org.webjars.npm/alpinejs__intersect@3.14.1
+- pkg:maven/org.webjars.npm/alpinejs__intersect@3.14.3

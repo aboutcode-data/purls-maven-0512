@@ -134,3 +134,4 @@
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.7.0-alpha?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.7.1-alpha?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-compose-layout@0.7.2-alpha?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-compose-layout@0.7.3-alpha?classifier=sources

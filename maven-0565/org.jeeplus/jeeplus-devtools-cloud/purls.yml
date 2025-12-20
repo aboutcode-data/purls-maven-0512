@@ -3,4 +3,5 @@
 - pkg:maven/org.jeeplus/jeeplus-devtools-cloud@9.13?classifier=sources
 - pkg:maven/org.jeeplus/jeeplus-devtools-cloud@9.15?classifier=sources
 - pkg:maven/org.jeeplus/jeeplus-devtools-cloud@9.16?classifier=sources
+- pkg:maven/org.jeeplus/jeeplus-devtools-cloud@9.17?classifier=sources
 - pkg:maven/org.jeeplus/jeeplus-devtools-cloud@9.1?classifier=sources

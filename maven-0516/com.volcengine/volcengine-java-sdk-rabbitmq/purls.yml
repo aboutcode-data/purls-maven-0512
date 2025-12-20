@@ -1,0 +1,2 @@
+- pkg:maven/com.volcengine/volcengine-java-sdk-rabbitmq@0.1.134
+- pkg:maven/com.volcengine/volcengine-java-sdk-rabbitmq@0.1.134?classifier=sources

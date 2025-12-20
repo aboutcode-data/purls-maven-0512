@@ -108,6 +108,8 @@
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udb@1.2.31-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udb@1.2.32-release
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udb@1.2.32-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-udb@1.2.33-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-udb@1.2.33-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udb@1.2.4-release
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udb@1.2.4-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udb@1.2.5-release

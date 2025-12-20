@@ -1,2 +1,4 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-testcontainers@5.15.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-testcontainers@5.16.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-testcontainers@5.17.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-testcontainers@5.17.1?classifier=sources

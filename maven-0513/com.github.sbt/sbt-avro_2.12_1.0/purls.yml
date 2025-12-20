@@ -6,3 +6,5 @@
 - pkg:maven/com.github.sbt/sbt-avro_2.12_1.0@3.4.4?classifier=sources
 - pkg:maven/com.github.sbt/sbt-avro_2.12_1.0@3.5.0
 - pkg:maven/com.github.sbt/sbt-avro_2.12_1.0@3.5.0?classifier=sources
+- pkg:maven/com.github.sbt/sbt-avro_2.12_1.0@3.5.1
+- pkg:maven/com.github.sbt/sbt-avro_2.12_1.0@3.5.1?classifier=sources

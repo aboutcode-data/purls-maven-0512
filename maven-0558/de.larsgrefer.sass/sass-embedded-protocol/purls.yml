@@ -59,4 +59,6 @@
 - pkg:maven/de.larsgrefer.sass/sass-embedded-protocol@3.5.1?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-protocol@3.6.0?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-protocol@3.7.1?classifier=sources
+- pkg:maven/de.larsgrefer.sass/sass-embedded-protocol@3.7.2?classifier=sources
+- pkg:maven/de.larsgrefer.sass/sass-embedded-protocol@4.0.0-m1?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-protocol@unspecified?classifier=sources

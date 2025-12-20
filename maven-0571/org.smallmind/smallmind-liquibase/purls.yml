@@ -256,3 +256,5 @@
 - pkg:maven/org.smallmind/smallmind-liquibase@5.8.0?classifier=sources
 - pkg:maven/org.smallmind/smallmind-liquibase@5.9.0
 - pkg:maven/org.smallmind/smallmind-liquibase@5.9.0?classifier=sources
+- pkg:maven/org.smallmind/smallmind-liquibase@6.0.0
+- pkg:maven/org.smallmind/smallmind-liquibase@6.0.0?classifier=sources

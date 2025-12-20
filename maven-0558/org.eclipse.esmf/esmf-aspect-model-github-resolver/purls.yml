@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.esmf/esmf-aspect-model-github-resolver@2.9.6
+- pkg:maven/org.eclipse.esmf/esmf-aspect-model-github-resolver@2.9.6?classifier=sources

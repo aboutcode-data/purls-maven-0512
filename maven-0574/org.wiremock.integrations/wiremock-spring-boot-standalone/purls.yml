@@ -1,0 +1,2 @@
+- pkg:maven/org.wiremock.integrations/wiremock-spring-boot-standalone@2.2.0?classifier=sources
+- pkg:maven/org.wiremock.integrations/wiremock-spring-boot-standalone@next?classifier=sources

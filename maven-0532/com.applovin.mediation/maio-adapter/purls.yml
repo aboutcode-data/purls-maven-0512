@@ -8,3 +8,4 @@
 - pkg:maven/com.applovin.mediation/maio-adapter@1.1.16.1?type=aar
 - pkg:maven/com.applovin.mediation/maio-adapter@1.1.16.2?classifier=sources
 - pkg:maven/com.applovin.mediation/maio-adapter@1.1.16.3?classifier=sources
+- pkg:maven/com.applovin.mediation/maio-adapter@2.0.0.0?classifier=sources
