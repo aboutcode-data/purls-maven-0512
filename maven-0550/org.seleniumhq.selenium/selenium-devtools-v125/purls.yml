@@ -1,0 +1,2 @@
+- pkg:maven/org.seleniumhq.selenium/selenium-devtools-v125@4.21.0
+- pkg:maven/org.seleniumhq.selenium/selenium-devtools-v125@4.21.0?classifier=sources

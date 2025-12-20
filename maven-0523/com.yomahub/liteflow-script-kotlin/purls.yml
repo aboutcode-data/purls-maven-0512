@@ -1,0 +1,2 @@
+- pkg:maven/com.yomahub/liteflow-script-kotlin@2.12.1
+- pkg:maven/com.yomahub/liteflow-script-kotlin@2.12.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.jordond.connectivity/connectivity-http-jvm@0.1.0?classifier=sources
+- pkg:maven/dev.jordond.connectivity/connectivity-http-jvm@1.0.0?classifier=sources

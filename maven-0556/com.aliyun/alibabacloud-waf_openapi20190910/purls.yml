@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/alibabacloud-waf_openapi20190910@0.0.1
+- pkg:maven/com.aliyun/alibabacloud-waf_openapi20190910@0.0.1?classifier=sources

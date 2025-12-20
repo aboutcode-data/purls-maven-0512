@@ -256,6 +256,12 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@24.1.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@24.2.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@24.2.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@24.3.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@24.3.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@24.4.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@24.4.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@24.5.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@24.5.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@3.0.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@3.0.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-validation@3.1.0

@@ -2,3 +2,4 @@
 - pkg:maven/net.ideahut/ideahut-springboot-3x@0.0.2?classifier=sources
 - pkg:maven/net.ideahut/ideahut-springboot-3x@0.0.3?classifier=sources
 - pkg:maven/net.ideahut/ideahut-springboot-3x@1.0.0?classifier=sources
+- pkg:maven/net.ideahut/ideahut-springboot-3x@2.0.0?classifier=sources

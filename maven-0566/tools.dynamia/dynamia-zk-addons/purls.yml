@@ -1,0 +1,2 @@
+- pkg:maven/tools.dynamia/dynamia-zk-addons@1.0.0
+- pkg:maven/tools.dynamia/dynamia-zk-addons@1.0.0?classifier=sources

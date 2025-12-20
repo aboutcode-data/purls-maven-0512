@@ -1,3 +1,7 @@
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-trp@3.1.1031
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-trp@3.1.1031?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-trp@3.1.1036
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-trp@3.1.1036?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-trp@3.1.525
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-trp@3.1.525?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-trp@3.1.526

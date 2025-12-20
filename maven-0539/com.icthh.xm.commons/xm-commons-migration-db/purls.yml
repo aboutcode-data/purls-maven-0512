@@ -277,6 +277,8 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-migration-db@2.3.17?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-migration-db@2.3.18
 - pkg:maven/com.icthh.xm.commons/xm-commons-migration-db@2.3.18?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-migration-db@2.3.19
+- pkg:maven/com.icthh.xm.commons/xm-commons-migration-db@2.3.19?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-migration-db@2.3.1?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-migration-db@2.3.2
 - pkg:maven/com.icthh.xm.commons/xm-commons-migration-db@2.3.2?classifier=sources
@@ -312,5 +314,6 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-migration-db@3.2.0?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-migration-db@3.2.1?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-migration-db@3.2.2?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-migration-db@3.2.3?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-migration-db@4.0.3?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-migration-db@4.0.4?classifier=sources

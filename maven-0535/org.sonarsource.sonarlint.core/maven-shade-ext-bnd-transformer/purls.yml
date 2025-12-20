@@ -1,0 +1,1 @@
+- pkg:maven/org.sonarsource.sonarlint.core/maven-shade-ext-bnd-transformer@10.2.0.78029?classifier=sources

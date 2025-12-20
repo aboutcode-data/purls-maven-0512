@@ -1,0 +1,2 @@
+- pkg:maven/com.github.javaclub/addons@1.0.1
+- pkg:maven/com.github.javaclub/addons@1.0.1?classifier=sources

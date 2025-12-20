@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-web-webmodule@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-web-webmodule@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-web-webmodule@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-web-webmodule@RELEASE220?classifier=sources

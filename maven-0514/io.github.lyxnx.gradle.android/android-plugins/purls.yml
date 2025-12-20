@@ -1,6 +1,8 @@
 - pkg:maven/io.github.lyxnx.gradle.android/android-plugins@1.0.1?classifier=sources
 - pkg:maven/io.github.lyxnx.gradle.android/android-plugins@1.1.0?classifier=sources
 - pkg:maven/io.github.lyxnx.gradle.android/android-plugins@1.1.1?classifier=sources
+- pkg:maven/io.github.lyxnx.gradle.android/android-plugins@1.2.0?classifier=sources
+- pkg:maven/io.github.lyxnx.gradle.android/android-plugins@1.3.0?classifier=sources
 - pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.08.11?classifier=sources
 - pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.08.12?classifier=sources
 - pkg:maven/io.github.lyxnx.gradle.android/android-plugins@2023.08.19?classifier=sources

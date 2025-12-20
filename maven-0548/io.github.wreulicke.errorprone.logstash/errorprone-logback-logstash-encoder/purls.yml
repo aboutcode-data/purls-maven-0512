@@ -1,0 +1,1 @@
+- pkg:maven/io.github.wreulicke.errorprone.logstash/errorprone-logback-logstash-encoder@0.0.1?classifier=sources

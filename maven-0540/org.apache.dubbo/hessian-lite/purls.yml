@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.dubbo/hessian-lite@4.0.0
+- pkg:maven/org.apache.dubbo/hessian-lite@4.0.0?classifier=sources

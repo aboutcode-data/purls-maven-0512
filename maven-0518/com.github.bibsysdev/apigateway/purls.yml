@@ -224,8 +224,12 @@
 - pkg:maven/com.github.bibsysdev/apigateway@1.38.3?classifier=sources
 - pkg:maven/com.github.bibsysdev/apigateway@1.39.0?classifier=sources
 - pkg:maven/com.github.bibsysdev/apigateway@1.39.1?classifier=sources
+- pkg:maven/com.github.bibsysdev/apigateway@1.39.2?classifier=sources
+- pkg:maven/com.github.bibsysdev/apigateway@1.39.3?classifier=sources
+- pkg:maven/com.github.bibsysdev/apigateway@1.39.4?classifier=sources
 - pkg:maven/com.github.bibsysdev/apigateway@1.4.0?classifier=sources
 - pkg:maven/com.github.bibsysdev/apigateway@1.4.1?classifier=sources
+- pkg:maven/com.github.bibsysdev/apigateway@1.40.0?classifier=sources
 - pkg:maven/com.github.bibsysdev/apigateway@1.5.0?classifier=sources
 - pkg:maven/com.github.bibsysdev/apigateway@1.5.10?classifier=sources
 - pkg:maven/com.github.bibsysdev/apigateway@1.5.11?classifier=sources

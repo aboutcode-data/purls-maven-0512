@@ -10,6 +10,8 @@
 - pkg:maven/org.springframework/spring-core-test@6.0.18?classifier=sources
 - pkg:maven/org.springframework/spring-core-test@6.0.19?classifier=sources
 - pkg:maven/org.springframework/spring-core-test@6.0.1?classifier=sources
+- pkg:maven/org.springframework/spring-core-test@6.0.20?classifier=sources
+- pkg:maven/org.springframework/spring-core-test@6.0.21?classifier=sources
 - pkg:maven/org.springframework/spring-core-test@6.0.2?classifier=sources
 - pkg:maven/org.springframework/spring-core-test@6.0.3?classifier=sources
 - pkg:maven/org.springframework/spring-core-test@6.0.4?classifier=sources
@@ -25,3 +27,5 @@
 - pkg:maven/org.springframework/spring-core-test@6.1.4?classifier=sources
 - pkg:maven/org.springframework/spring-core-test@6.1.5?classifier=sources
 - pkg:maven/org.springframework/spring-core-test@6.1.6?classifier=sources
+- pkg:maven/org.springframework/spring-core-test@6.1.7?classifier=sources
+- pkg:maven/org.springframework/spring-core-test@6.1.8?classifier=sources

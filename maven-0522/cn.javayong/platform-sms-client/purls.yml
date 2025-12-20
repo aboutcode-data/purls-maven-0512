@@ -1,0 +1,2 @@
+- pkg:maven/cn.javayong/platform-sms-client@0.5.0
+- pkg:maven/cn.javayong/platform-sms-client@0.5.0?classifier=sources

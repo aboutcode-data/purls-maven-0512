@@ -17,4 +17,12 @@
 - pkg:maven/de.tototec/de.tototec.utils.functional@2.2.0
 - pkg:maven/de.tototec/de.tototec.utils.functional@2.2.0?classifier=sources
 - pkg:maven/de.tototec/de.tototec.utils.functional@2.3.0
+- pkg:maven/de.tototec/de.tototec.utils.functional@2.3.0-1-14db82
+- pkg:maven/de.tototec/de.tototec.utils.functional@2.3.0-1-14db82?classifier=sources
+- pkg:maven/de.tototec/de.tototec.utils.functional@2.3.0-2-eb473c
+- pkg:maven/de.tototec/de.tototec.utils.functional@2.3.0-2-eb473c?classifier=sources
+- pkg:maven/de.tototec/de.tototec.utils.functional@2.3.0-3-004de0
+- pkg:maven/de.tototec/de.tototec.utils.functional@2.3.0-3-004de0?classifier=sources
+- pkg:maven/de.tototec/de.tototec.utils.functional@2.3.0-5-22209c
+- pkg:maven/de.tototec/de.tototec.utils.functional@2.3.0-5-22209c?classifier=sources
 - pkg:maven/de.tototec/de.tototec.utils.functional@2.3.0?classifier=sources

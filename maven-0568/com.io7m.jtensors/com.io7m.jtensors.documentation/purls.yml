@@ -1,5 +1,7 @@
 - pkg:maven/com.io7m.jtensors/com.io7m.jtensors.documentation@10.0.0?classifier=sources
 - pkg:maven/com.io7m.jtensors/com.io7m.jtensors.documentation@10.0.0?type=zip
+- pkg:maven/com.io7m.jtensors/com.io7m.jtensors.documentation@11.0.0?classifier=sources
+- pkg:maven/com.io7m.jtensors/com.io7m.jtensors.documentation@11.0.0?type=zip
 - pkg:maven/com.io7m.jtensors/com.io7m.jtensors.documentation@8.0.0-beta0001?classifier=sources
 - pkg:maven/com.io7m.jtensors/com.io7m.jtensors.documentation@8.0.0-beta0001?type=zip
 - pkg:maven/com.io7m.jtensors/com.io7m.jtensors.documentation@8.0.0-beta0002?classifier=sources

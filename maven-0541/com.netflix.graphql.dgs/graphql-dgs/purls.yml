@@ -136,3 +136,6 @@
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs@8.5.7?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs@8.5.8?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs@8.6.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs@8.6.1?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs@8.7.1?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs@9.0.0?classifier=sources

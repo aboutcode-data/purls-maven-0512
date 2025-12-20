@@ -70,3 +70,4 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.27.4?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.27.5?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.27.6?type=war
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.all@5.27.7?type=war

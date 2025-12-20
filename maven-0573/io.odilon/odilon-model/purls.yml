@@ -1,0 +1,2 @@
+- pkg:maven/io.odilon/odilon-model@1.6-beta
+- pkg:maven/io.odilon/odilon-model@1.6-beta?classifier=sources

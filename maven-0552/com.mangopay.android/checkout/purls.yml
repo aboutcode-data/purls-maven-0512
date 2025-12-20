@@ -1,0 +1,2 @@
+- pkg:maven/com.mangopay.android/checkout@1.0.4-beta.1?classifier=sources
+- pkg:maven/com.mangopay.android/checkout@1.0.4?classifier=sources

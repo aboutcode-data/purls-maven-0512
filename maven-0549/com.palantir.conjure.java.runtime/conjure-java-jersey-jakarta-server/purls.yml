@@ -33,6 +33,9 @@
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jersey-jakarta-server@7.68.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jersey-jakarta-server@8.0.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jersey-jakarta-server@8.1.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jersey-jakarta-server@8.10.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jersey-jakarta-server@8.11.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jersey-jakarta-server@8.12.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jersey-jakarta-server@8.2.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jersey-jakarta-server@8.3.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jersey-jakarta-server@8.4.0?classifier=sources

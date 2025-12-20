@@ -36,3 +36,5 @@
 - pkg:maven/one.edee.oss/babylon-maven-plugin@2024.7.3?classifier=sources
 - pkg:maven/one.edee.oss/babylon-maven-plugin@2024.8.0
 - pkg:maven/one.edee.oss/babylon-maven-plugin@2024.8.0?classifier=sources
+- pkg:maven/one.edee.oss/babylon-maven-plugin@2024.9.0
+- pkg:maven/one.edee.oss/babylon-maven-plugin@2024.9.0?classifier=sources

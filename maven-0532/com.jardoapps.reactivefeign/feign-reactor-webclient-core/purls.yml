@@ -1,0 +1,2 @@
+- pkg:maven/com.jardoapps.reactivefeign/feign-reactor-webclient-core@4.1.0
+- pkg:maven/com.jardoapps.reactivefeign/feign-reactor-webclient-core@4.1.0?classifier=sources

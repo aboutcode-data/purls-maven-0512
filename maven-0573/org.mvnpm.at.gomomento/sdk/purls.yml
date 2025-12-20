@@ -48,3 +48,6 @@
 - pkg:maven/org.mvnpm.at.gomomento/sdk@1.82.0?classifier=sources
 - pkg:maven/org.mvnpm.at.gomomento/sdk@1.83.0?classifier=sources
 - pkg:maven/org.mvnpm.at.gomomento/sdk@1.84.0?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk@1.85.0?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk@1.86.0?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk@1.87.0?classifier=sources

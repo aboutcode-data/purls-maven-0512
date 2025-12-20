@@ -1,0 +1,2 @@
+- pkg:maven/com.fab1an/kotlin-json-stream-linuxarm64@1.2.0?classifier=sources
+- pkg:maven/com.fab1an/kotlin-json-stream-linuxarm64@1.2.1?classifier=sources

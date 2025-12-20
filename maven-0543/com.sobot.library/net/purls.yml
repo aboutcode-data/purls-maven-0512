@@ -40,3 +40,7 @@
 - pkg:maven/com.sobot.library/net@1.2.4?type=aar
 - pkg:maven/com.sobot.library/net@1.2.5?classifier=sources
 - pkg:maven/com.sobot.library/net@1.2.5?type=aar
+- pkg:maven/com.sobot.library/net@1.2.6?classifier=sources
+- pkg:maven/com.sobot.library/net@1.2.6?type=aar
+- pkg:maven/com.sobot.library/net@1.2.7?classifier=sources
+- pkg:maven/com.sobot.library/net@1.2.7?type=aar

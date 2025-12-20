@@ -1,0 +1,2 @@
+- pkg:maven/com.vfunction.openrewrite.quarkus/rewrite-quarkus@0.0.1-VFUNCTION
+- pkg:maven/com.vfunction.openrewrite.quarkus/rewrite-quarkus@0.0.1-VFUNCTION?classifier=sources

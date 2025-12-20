@@ -14,4 +14,5 @@
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-iosx64@0.1.23?classifier=sources
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-iosx64@0.1.24?classifier=sources
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-iosx64@0.1.25?classifier=sources
+- pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-iosx64@0.1.26?classifier=sources
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-iosx64@0.1.8-dev15%2Bfaf98d1?classifier=sources

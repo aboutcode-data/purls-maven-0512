@@ -1,1 +1,2 @@
+- pkg:maven/io.github.bonede/tree-sitter-fennel@master-a?classifier=sources
 - pkg:maven/io.github.bonede/tree-sitter-fennel@master?classifier=sources

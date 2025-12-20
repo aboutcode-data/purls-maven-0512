@@ -15,6 +15,8 @@
 - pkg:maven/com.hubspot.slack/slack-base@1.15.0?classifier=sources
 - pkg:maven/com.hubspot.slack/slack-base@1.15.1
 - pkg:maven/com.hubspot.slack/slack-base@1.15.1?classifier=sources
+- pkg:maven/com.hubspot.slack/slack-base@1.16.0
+- pkg:maven/com.hubspot.slack/slack-base@1.16.0?classifier=sources
 - pkg:maven/com.hubspot.slack/slack-base@1.1?classifier=sources
 - pkg:maven/com.hubspot.slack/slack-base@1.2
 - pkg:maven/com.hubspot.slack/slack-base@1.2?classifier=sources

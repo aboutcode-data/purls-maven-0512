@@ -28,3 +28,5 @@
 - pkg:maven/io.zipkin.aws/zipkin-module-aws@1.2.3?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-module-aws@1.2.4
 - pkg:maven/io.zipkin.aws/zipkin-module-aws@1.2.4?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-module-aws@1.2.5
+- pkg:maven/io.zipkin.aws/zipkin-module-aws@1.2.5?classifier=sources

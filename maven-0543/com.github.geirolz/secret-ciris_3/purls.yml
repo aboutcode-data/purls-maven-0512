@@ -1,3 +1,5 @@
+- pkg:maven/com.github.geirolz/secret-ciris_3@0.0.10
+- pkg:maven/com.github.geirolz/secret-ciris_3@0.0.10?classifier=sources
 - pkg:maven/com.github.geirolz/secret-ciris_3@0.0.2
 - pkg:maven/com.github.geirolz/secret-ciris_3@0.0.2?classifier=sources
 - pkg:maven/com.github.geirolz/secret-ciris_3@0.0.3

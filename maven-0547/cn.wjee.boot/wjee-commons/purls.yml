@@ -1,4 +1,6 @@
 - pkg:maven/cn.wjee.boot/wjee-commons@2.6.3.0
 - pkg:maven/cn.wjee.boot/wjee-commons@2.6.3.0?classifier=sources
+- pkg:maven/cn.wjee.boot/wjee-commons@2.7.18-1.0.0
+- pkg:maven/cn.wjee.boot/wjee-commons@2.7.18-1.0.0?classifier=sources
 - pkg:maven/cn.wjee.boot/wjee-commons@2.7.18.1
 - pkg:maven/cn.wjee.boot/wjee-commons@2.7.18.1?classifier=sources

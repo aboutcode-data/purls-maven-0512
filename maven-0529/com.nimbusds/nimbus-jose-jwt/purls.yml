@@ -517,6 +517,12 @@
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.38-rc5?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.38?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.39
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@9.39.1
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@9.39.1?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@9.39.2
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@9.39.2?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@9.39.3
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@9.39.3?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.39?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.3?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.4
@@ -524,6 +530,8 @@
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.4.1?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.4.2
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.4.2?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@9.40
+- pkg:maven/com.nimbusds/nimbus-jose-jwt@9.40?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.4?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.5
 - pkg:maven/com.nimbusds/nimbus-jose-jwt@9.5?classifier=sources

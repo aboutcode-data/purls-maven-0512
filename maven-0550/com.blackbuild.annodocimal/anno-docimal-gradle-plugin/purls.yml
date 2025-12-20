@@ -7,6 +7,11 @@
 - pkg:maven/com.blackbuild.annodocimal/anno-docimal-gradle-plugin@0.1.0-rc.16?classifier=sources
 - pkg:maven/com.blackbuild.annodocimal/anno-docimal-gradle-plugin@0.1.0-rc.17?classifier=sources
 - pkg:maven/com.blackbuild.annodocimal/anno-docimal-gradle-plugin@0.1.0-rc.18?classifier=sources
+- pkg:maven/com.blackbuild.annodocimal/anno-docimal-gradle-plugin@0.1.0-rc.19?classifier=sources
+- pkg:maven/com.blackbuild.annodocimal/anno-docimal-gradle-plugin@0.1.0-rc.20?classifier=sources
+- pkg:maven/com.blackbuild.annodocimal/anno-docimal-gradle-plugin@0.1.0-rc.21?classifier=sources
+- pkg:maven/com.blackbuild.annodocimal/anno-docimal-gradle-plugin@0.1.0-rc.22?classifier=sources
+- pkg:maven/com.blackbuild.annodocimal/anno-docimal-gradle-plugin@0.1.0-rc.23?classifier=sources
 - pkg:maven/com.blackbuild.annodocimal/anno-docimal-gradle-plugin@0.1.0-rc.2?classifier=sources
 - pkg:maven/com.blackbuild.annodocimal/anno-docimal-gradle-plugin@0.1.0-rc.3?classifier=sources
 - pkg:maven/com.blackbuild.annodocimal/anno-docimal-gradle-plugin@0.1.0-rc.4?classifier=sources

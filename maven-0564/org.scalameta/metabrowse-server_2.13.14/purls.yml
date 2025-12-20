@@ -1,0 +1,2 @@
+- pkg:maven/org.scalameta/metabrowse-server_2.13.14@0.2.13
+- pkg:maven/org.scalameta/metabrowse-server_2.13.14@0.2.13?classifier=sources

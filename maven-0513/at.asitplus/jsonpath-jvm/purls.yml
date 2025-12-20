@@ -1,0 +1,3 @@
+- pkg:maven/at.asitplus/jsonpath-jvm@1.0.0?classifier=sources
+- pkg:maven/at.asitplus/jsonpath-jvm@2.0.0?classifier=sources
+- pkg:maven/at.asitplus/jsonpath-jvm@2.1.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/cn.dev33/sa-token-redisson-jackson2@1.36.0?classifier=sources
 - pkg:maven/cn.dev33/sa-token-redisson-jackson2@1.37.0
 - pkg:maven/cn.dev33/sa-token-redisson-jackson2@1.37.0?classifier=sources
+- pkg:maven/cn.dev33/sa-token-redisson-jackson2@1.38.0
+- pkg:maven/cn.dev33/sa-token-redisson-jackson2@1.38.0?classifier=sources

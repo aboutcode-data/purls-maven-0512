@@ -1,1 +1,2 @@
 - pkg:maven/network.chaintech/sdp-ssp-compose-multiplatform-iosx64@1.0.0?classifier=sources
+- pkg:maven/network.chaintech/sdp-ssp-compose-multiplatform-iosx64@1.0.1?classifier=sources

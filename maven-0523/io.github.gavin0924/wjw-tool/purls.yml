@@ -1,0 +1,2 @@
+- pkg:maven/io.github.gavin0924/wjw-tool@1.0.0?classifier=sources
+- pkg:maven/io.github.gavin0924/wjw-tool@1.0.1?classifier=sources

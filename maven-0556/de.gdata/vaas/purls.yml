@@ -28,3 +28,4 @@
 - pkg:maven/de.gdata/vaas@6.4.2?classifier=sources
 - pkg:maven/de.gdata/vaas@7.0.0?classifier=sources
 - pkg:maven/de.gdata/vaas@8.0.0?classifier=sources
+- pkg:maven/de.gdata/vaas@8.1.0?classifier=sources

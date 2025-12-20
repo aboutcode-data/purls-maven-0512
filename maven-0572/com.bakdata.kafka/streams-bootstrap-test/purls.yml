@@ -7,3 +7,10 @@
 - pkg:maven/com.bakdata.kafka/streams-bootstrap-test@2.16.1?classifier=sources
 - pkg:maven/com.bakdata.kafka/streams-bootstrap-test@2.17.0?classifier=sources
 - pkg:maven/com.bakdata.kafka/streams-bootstrap-test@2.18.0?classifier=sources
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-test@2.18.1?classifier=sources
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-test@2.19.0?classifier=sources
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-test@2.19.1?classifier=sources
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-test@2.19.2?classifier=sources
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-test@2.20.0?classifier=sources
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-test@2.20.1?classifier=sources
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-test@2.21.0?classifier=sources

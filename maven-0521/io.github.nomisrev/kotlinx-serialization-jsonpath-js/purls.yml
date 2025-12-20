@@ -1,3 +1,4 @@
 - pkg:maven/io.github.nomisrev/kotlinx-serialization-jsonpath-js@0.1.0?classifier=sources
 - pkg:maven/io.github.nomisrev/kotlinx-serialization-jsonpath-js@0.2.0?classifier=sources
 - pkg:maven/io.github.nomisrev/kotlinx-serialization-jsonpath-js@1.0.0?classifier=sources
+- pkg:maven/io.github.nomisrev/kotlinx-serialization-jsonpath-js@2.0.0-alpha.1?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-dark@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-dark@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-dark@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-dark@RELEASE220?classifier=sources
