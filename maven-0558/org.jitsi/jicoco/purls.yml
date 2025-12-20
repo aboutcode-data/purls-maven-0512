@@ -16,3 +16,7 @@
 - pkg:maven/org.jitsi/jicoco@1.1-146-g96ed31f?classifier=sources
 - pkg:maven/org.jitsi/jicoco@1.1-147-g37c605c
 - pkg:maven/org.jitsi/jicoco@1.1-147-g37c605c?classifier=sources
+- pkg:maven/org.jitsi/jicoco@1.1-148-g3afa2ac
+- pkg:maven/org.jitsi/jicoco@1.1-148-g3afa2ac?classifier=sources
+- pkg:maven/org.jitsi/jicoco@1.1-149-g9a9091d
+- pkg:maven/org.jitsi/jicoco@1.1-149-g9a9091d?classifier=sources

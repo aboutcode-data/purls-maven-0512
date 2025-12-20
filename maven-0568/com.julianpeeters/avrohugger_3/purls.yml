@@ -8,3 +8,5 @@
 - pkg:maven/com.julianpeeters/avrohugger_3@2.8.3?classifier=sources
 - pkg:maven/com.julianpeeters/avrohugger_3@2.8.4
 - pkg:maven/com.julianpeeters/avrohugger_3@2.8.4?classifier=sources
+- pkg:maven/com.julianpeeters/avrohugger_3@2.9.0
+- pkg:maven/com.julianpeeters/avrohugger_3@2.9.0?classifier=sources

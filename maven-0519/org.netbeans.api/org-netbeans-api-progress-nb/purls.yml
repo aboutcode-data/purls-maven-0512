@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-progress-nb@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-progress-nb@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-progress-nb@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-progress-nb@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-progress-nb@RELEASE90?classifier=sources

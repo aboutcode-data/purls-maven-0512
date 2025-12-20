@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.ozone/ozone-s3gateway@1.2.1
 - pkg:maven/org.apache.ozone/ozone-s3gateway@1.3.0
 - pkg:maven/org.apache.ozone/ozone-s3gateway@1.4.0
+- pkg:maven/org.apache.ozone/ozone-s3gateway@1.4.1

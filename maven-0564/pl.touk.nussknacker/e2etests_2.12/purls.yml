@@ -22,3 +22,5 @@
 - pkg:maven/pl.touk.nussknacker/e2etests_2.12@1.18.0-RC2
 - pkg:maven/pl.touk.nussknacker/e2etests_2.12@1.18.0-RC2?classifier=sources
 - pkg:maven/pl.touk.nussknacker/e2etests_2.12@1.18.0?classifier=sources
+- pkg:maven/pl.touk.nussknacker/e2etests_2.12@1.18.1
+- pkg:maven/pl.touk.nussknacker/e2etests_2.12@1.18.1?classifier=sources

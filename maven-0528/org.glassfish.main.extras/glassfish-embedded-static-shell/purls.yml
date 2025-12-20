@@ -87,6 +87,8 @@
 - pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell@7.0.19?classifier=sources
 - pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell@7.0.1?classifier=sources
 - pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell@7.0.2
+- pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell@7.0.20
+- pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell@7.0.20?classifier=sources
 - pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell@7.0.2?classifier=sources
 - pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell@7.0.3
 - pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell@7.0.3?classifier=sources
@@ -122,3 +124,5 @@
 - pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell@8.0.0-M7?classifier=sources
 - pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell@8.0.0-M8
 - pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell@8.0.0-M8?classifier=sources
+- pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell@8.0.0-M9
+- pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell@8.0.0-M9?classifier=sources

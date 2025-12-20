@@ -48,3 +48,5 @@
 - pkg:maven/com.jdcloud.sdk/vm@1.5.2?classifier=sources
 - pkg:maven/com.jdcloud.sdk/vm@1.5.9
 - pkg:maven/com.jdcloud.sdk/vm@1.5.9?classifier=sources
+- pkg:maven/com.jdcloud.sdk/vm@1.6.1
+- pkg:maven/com.jdcloud.sdk/vm@1.6.1?classifier=sources

@@ -28,6 +28,16 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.1145?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.1147
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.1147?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.1150
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.1150?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.1151
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.1151?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.1152
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.1152?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.1153
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.1153?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.1164
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.1164?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.179
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-billing@3.1.180

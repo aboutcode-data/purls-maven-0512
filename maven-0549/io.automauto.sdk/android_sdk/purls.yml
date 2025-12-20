@@ -1,1 +1,4 @@
 - pkg:maven/io.automauto.sdk/android_sdk@0.2.0?type=aar
+- pkg:maven/io.automauto.sdk/android_sdk@0.2.1?type=aar
+- pkg:maven/io.automauto.sdk/android_sdk@0.2.2?type=aar
+- pkg:maven/io.automauto.sdk/android_sdk@0.3.0?type=aar

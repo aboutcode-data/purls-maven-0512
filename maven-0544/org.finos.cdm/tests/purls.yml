@@ -161,4 +161,6 @@
 - pkg:maven/org.finos.cdm/tests@6.0.0-dev.85
 - pkg:maven/org.finos.cdm/tests@6.0.0-dev.86
 - pkg:maven/org.finos.cdm/tests@6.0.0-dev.87
+- pkg:maven/org.finos.cdm/tests@6.0.0-dev.88
+- pkg:maven/org.finos.cdm/tests@6.0.0-dev.89
 - pkg:maven/org.finos.cdm/tests@6.0.0-dev.9

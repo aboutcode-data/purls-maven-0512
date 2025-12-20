@@ -462,6 +462,9 @@
 - pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.0.8?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.0.9?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.0?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.100?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.101?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.102?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.10?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.11?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.12?classifier=sources
@@ -550,4 +553,12 @@
 - pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.8?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.90?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.91?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.92?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.93?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.94?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.95?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.96?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.97?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.98?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.99?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/react-testing-library@6.1.9?classifier=sources

@@ -298,3 +298,12 @@
 - pkg:maven/com.immomo.momomedia/live@2.3.1-202411181940?type=aar
 - pkg:maven/com.immomo.momomedia/live@2.3.1-202411231704?classifier=sources
 - pkg:maven/com.immomo.momomedia/live@2.3.1-202411231704?type=aar
+- pkg:maven/com.immomo.momomedia/live@2.3.1-202412021420?classifier=sources
+- pkg:maven/com.immomo.momomedia/live@2.3.1-202412021420?type=aar
+- pkg:maven/com.immomo.momomedia/live@2.3.1-202412021704?classifier=sources
+- pkg:maven/com.immomo.momomedia/live@2.3.1-202412021704?type=aar
+- pkg:maven/com.immomo.momomedia/live@2.3.1-202412051940?classifier=sources
+- pkg:maven/com.immomo.momomedia/live@2.3.1-202412051941?classifier=sources
+- pkg:maven/com.immomo.momomedia/live@2.3.1-202412051941?type=aar
+- pkg:maven/com.immomo.momomedia/live@2.3.1-202412171041?classifier=sources
+- pkg:maven/com.immomo.momomedia/live@2.3.1-202412171041?type=aar

@@ -4,3 +4,4 @@
 - pkg:maven/de.kaiserpfalz-edv.commons/kp-commons-spring@4.0.3?classifier=sources
 - pkg:maven/de.kaiserpfalz-edv.commons/kp-commons-spring@4.0.4?classifier=sources
 - pkg:maven/de.kaiserpfalz-edv.commons/kp-commons-spring@4.0.5?classifier=sources
+- pkg:maven/de.kaiserpfalz-edv.commons/kp-commons-spring@4.0.6?classifier=sources

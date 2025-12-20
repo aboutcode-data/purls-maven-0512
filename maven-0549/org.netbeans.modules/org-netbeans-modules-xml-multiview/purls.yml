@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-multiview@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-multiview@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-multiview@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-multiview@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-multiview@RELEASE90?classifier=sources

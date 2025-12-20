@@ -1,4 +1,6 @@
+- pkg:maven/com.nutanix.api/dataprotection-java-client@4.0.1
 - pkg:maven/com.nutanix.api/dataprotection-java-client@4.0.1-alpha-4
 - pkg:maven/com.nutanix.api/dataprotection-java-client@4.0.1-alpha-4?classifier=sources
 - pkg:maven/com.nutanix.api/dataprotection-java-client@4.0.1-beta-1
 - pkg:maven/com.nutanix.api/dataprotection-java-client@4.0.1-beta-1?classifier=sources
+- pkg:maven/com.nutanix.api/dataprotection-java-client@4.0.1?classifier=sources

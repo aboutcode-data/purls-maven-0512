@@ -96,3 +96,4 @@
 - pkg:maven/com.facebook.fresco/drawee@3.2.0?classifier=sources
 - pkg:maven/com.facebook.fresco/drawee@3.3.0?classifier=sources
 - pkg:maven/com.facebook.fresco/drawee@3.4.0?classifier=sources
+- pkg:maven/com.facebook.fresco/drawee@3.5.0?classifier=sources

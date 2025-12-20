@@ -5,3 +5,7 @@
 - pkg:maven/io.github.vitebc/kmp-yandex-ads-iosarm64@0.1-Alpha07?classifier=sources
 - pkg:maven/io.github.vitebc/kmp-yandex-ads-iosarm64@0.1-Alpha08?classifier=sources
 - pkg:maven/io.github.vitebc/kmp-yandex-ads-iosarm64@0.1-Alpha09?classifier=sources
+- pkg:maven/io.github.vitebc/kmp-yandex-ads-iosarm64@0.1-Alpha10?classifier=sources
+- pkg:maven/io.github.vitebc/kmp-yandex-ads-iosarm64@0.1-Alpha11?classifier=sources
+- pkg:maven/io.github.vitebc/kmp-yandex-ads-iosarm64@0.1-Alpha12?classifier=sources
+- pkg:maven/io.github.vitebc/kmp-yandex-ads-iosarm64@0.1-Alpha13?classifier=sources

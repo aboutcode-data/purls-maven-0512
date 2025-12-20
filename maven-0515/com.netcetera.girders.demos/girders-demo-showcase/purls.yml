@@ -34,3 +34,5 @@
 - pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@6.3.0?type=war
 - pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@6.4.0?classifier=sources
 - pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@6.4.0?type=war
+- pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@6.5.0?classifier=sources
+- pkg:maven/com.netcetera.girders.demos/girders-demo-showcase@6.5.0?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.flowcommerce/metrics-datadog@1.1.15?classifier=sources
+- pkg:maven/io.github.flowcommerce/metrics-datadog@3.0.0?classifier=sources

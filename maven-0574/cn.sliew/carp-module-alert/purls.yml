@@ -8,3 +8,6 @@
 - pkg:maven/cn.sliew/carp-module-alert@0.0.13?classifier=sources
 - pkg:maven/cn.sliew/carp-module-alert@0.0.14
 - pkg:maven/cn.sliew/carp-module-alert@0.0.14?classifier=sources
+- pkg:maven/cn.sliew/carp-module-alert@0.0.19?classifier=sources
+- pkg:maven/cn.sliew/carp-module-alert@0.0.20?classifier=sources
+- pkg:maven/cn.sliew/carp-module-alert@0.0.22?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/io.github.text2confl/text2confl-confluence-model@0.16.5
 - pkg:maven/io.github.text2confl/text2confl-confluence-model@0.16.5?classifier=sources
+- pkg:maven/io.github.text2confl/text2confl-confluence-model@0.16.6
+- pkg:maven/io.github.text2confl/text2confl-confluence-model@0.16.6?classifier=sources
 - pkg:maven/io.github.text2confl/text2confl-confluence-model@16.0.3
 - pkg:maven/io.github.text2confl/text2confl-confluence-model@16.0.3?classifier=sources
 - pkg:maven/io.github.text2confl/text2confl-confluence-model@16.0.4

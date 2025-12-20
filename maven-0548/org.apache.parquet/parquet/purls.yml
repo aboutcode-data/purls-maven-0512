@@ -14,6 +14,7 @@
 - pkg:maven/org.apache.parquet/parquet@1.14.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.parquet/parquet@1.14.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.parquet/parquet@1.14.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.parquet/parquet@1.15.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.parquet/parquet@1.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.parquet/parquet@1.8.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.parquet/parquet@1.8.1?classifier=source-release&type=zip

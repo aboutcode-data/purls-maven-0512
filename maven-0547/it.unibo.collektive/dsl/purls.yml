@@ -30,6 +30,10 @@
 - pkg:maven/it.unibo.collektive/dsl@10.8.0?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl@10.9.0?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl@11.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl@11.0.1?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl@11.0.2?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl@11.1.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl@11.1.1?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl@2.0.0?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl@2.0.1?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl@2.1.0?classifier=sources

@@ -18,6 +18,7 @@
 - pkg:maven/dev.galasa/dev.galasa.docker.manager@0.31.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.docker.manager@0.32.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.docker.manager@0.34.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.docker.manager@0.38.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.docker.manager@0.4.0
 - pkg:maven/dev.galasa/dev.galasa.docker.manager@0.4.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.docker.manager@0.5.0

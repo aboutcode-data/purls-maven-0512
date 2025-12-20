@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-freeform@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-freeform@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-freeform@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-freeform@RELEASE240?classifier=sources

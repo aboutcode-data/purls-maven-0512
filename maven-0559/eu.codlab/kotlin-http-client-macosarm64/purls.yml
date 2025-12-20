@@ -1,1 +1,2 @@
 - pkg:maven/eu.codlab/kotlin-http-client-macosarm64@1.15.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-http-client-macosarm64@1.16.0?classifier=sources

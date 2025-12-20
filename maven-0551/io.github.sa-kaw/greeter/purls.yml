@@ -1,0 +1,7 @@
+- pkg:maven/io.github.sa-kaw/greeter@1.0.0-rc.0?classifier=sources
+- pkg:maven/io.github.sa-kaw/greeter@1.0.0-rc.1?classifier=sources
+- pkg:maven/io.github.sa-kaw/greeter@1.0.0-rc.2?classifier=sources
+- pkg:maven/io.github.sa-kaw/greeter@1.0.0-rc.3?classifier=sources
+- pkg:maven/io.github.sa-kaw/greeter@1.0.0?classifier=sources
+- pkg:maven/io.github.sa-kaw/greeter@1.0.1-rc.0-1-g7e117d7?classifier=sources
+- pkg:maven/io.github.sa-kaw/greeter@1.0.1-rc.0?classifier=sources

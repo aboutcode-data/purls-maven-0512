@@ -8,3 +8,5 @@
 - pkg:maven/de.rub.nds.tls.scanner/tls-server-scanner@5.4.1-anvil?classifier=sources
 - pkg:maven/de.rub.nds.tls.scanner/tls-server-scanner@6.1.0
 - pkg:maven/de.rub.nds.tls.scanner/tls-server-scanner@6.1.0?classifier=sources
+- pkg:maven/de.rub.nds.tls.scanner/tls-server-scanner@6.1.5
+- pkg:maven/de.rub.nds.tls.scanner/tls-server-scanner@6.1.5?classifier=sources

@@ -57,6 +57,11 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/notifier-command@40.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/notifier-command@41.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/notifier-command@42.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/notifier-command@42.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/notifier-command@43.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/notifier-command@43.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/notifier-command@43.0.2?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/notifier-command@44.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/notifier-command@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/notifier-command@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/notifier-command@6.0.0?classifier=sources

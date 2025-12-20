@@ -1,3 +1,5 @@
+- pkg:maven/org.kie/kie-dmn-model@10.0.0
+- pkg:maven/org.kie/kie-dmn-model@10.0.0?classifier=sources
 - pkg:maven/org.kie/kie-dmn-model@7.0.0.Beta3
 - pkg:maven/org.kie/kie-dmn-model@7.0.0.Beta3?classifier=sources
 - pkg:maven/org.kie/kie-dmn-model@7.0.0.Beta4

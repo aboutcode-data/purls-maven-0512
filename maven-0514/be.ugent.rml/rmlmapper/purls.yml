@@ -44,3 +44,5 @@
 - pkg:maven/be.ugent.rml/rmlmapper@7.1.0?classifier=sources
 - pkg:maven/be.ugent.rml/rmlmapper@7.1.2
 - pkg:maven/be.ugent.rml/rmlmapper@7.1.2?classifier=sources
+- pkg:maven/be.ugent.rml/rmlmapper@7.2.0
+- pkg:maven/be.ugent.rml/rmlmapper@7.2.0?classifier=sources

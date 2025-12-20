@@ -1,0 +1,4 @@
+- pkg:maven/it.unibo.scafi/scafi-core_3@1.4.0
+- pkg:maven/it.unibo.scafi/scafi-core_3@1.4.0?classifier=sources
+- pkg:maven/it.unibo.scafi/scafi-core_3@1.5.0
+- pkg:maven/it.unibo.scafi/scafi-core_3@1.5.0?classifier=sources

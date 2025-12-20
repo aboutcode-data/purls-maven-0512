@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-messaging-common@3.17.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-messaging-common@3.17.0?classifier=sources

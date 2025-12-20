@@ -1,0 +1,2 @@
+- pkg:maven/org.nasdanika.models.bootstrap/gen@2024.11.0
+- pkg:maven/org.nasdanika.models.bootstrap/gen@2024.11.0?classifier=sources

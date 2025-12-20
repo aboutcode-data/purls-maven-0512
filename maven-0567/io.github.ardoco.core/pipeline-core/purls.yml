@@ -52,3 +52,5 @@
 - pkg:maven/io.github.ardoco.core/pipeline-core@0.37.0?classifier=sources
 - pkg:maven/io.github.ardoco.core/pipeline-core@1.0.0
 - pkg:maven/io.github.ardoco.core/pipeline-core@1.0.0?classifier=sources
+- pkg:maven/io.github.ardoco.core/pipeline-core@1.1.0
+- pkg:maven/io.github.ardoco.core/pipeline-core@1.1.0?classifier=sources

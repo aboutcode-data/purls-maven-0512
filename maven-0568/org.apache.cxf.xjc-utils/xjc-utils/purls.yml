@@ -24,3 +24,4 @@
 - pkg:maven/org.apache.cxf.xjc-utils/xjc-utils@4.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.cxf.xjc-utils/xjc-utils@4.0.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.cxf.xjc-utils/xjc-utils@4.0.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.cxf.xjc-utils/xjc-utils@4.1.0?classifier=source-release&type=zip

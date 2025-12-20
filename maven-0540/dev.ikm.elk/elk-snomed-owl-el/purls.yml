@@ -1,0 +1,2 @@
+- pkg:maven/dev.ikm.elk/elk-snomed-owl-el@0.36.0
+- pkg:maven/dev.ikm.elk/elk-snomed-owl-el@0.36.0?classifier=sources

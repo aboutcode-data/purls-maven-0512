@@ -1,0 +1,2 @@
+- pkg:maven/io.javaoperatorsdk/sample-controller-namespace-deletion@5.0.0-beta1
+- pkg:maven/io.javaoperatorsdk/sample-controller-namespace-deletion@5.0.0-beta1?classifier=sources

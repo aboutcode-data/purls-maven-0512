@@ -2,6 +2,8 @@
 - pkg:maven/com.javiersc.kotlin/kopy-runtime@0.10.0%2B2.0.20?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kopy-runtime@0.11.0%2B2.0.20?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kopy-runtime@0.12.0%2B2.0.21?classifier=sources
+- pkg:maven/com.javiersc.kotlin/kopy-runtime@0.13.0%2B2.1.0?classifier=sources
+- pkg:maven/com.javiersc.kotlin/kopy-runtime@0.13.1%2B2.1.0?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kopy-runtime@0.2.0%2B2.0.10?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kopy-runtime@0.3.0%2B2.0.20?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kopy-runtime@0.4.0%2B2.0.20?classifier=sources

@@ -501,6 +501,8 @@
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.2.22?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.2.23
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.2.23?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.2.24
+- pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.2.24?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.2.2?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.2.3
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.2.3?classifier=sources
@@ -539,6 +541,8 @@
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.3.17?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.3.18
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.3.18?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.3.19
+- pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.3.19?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.3.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.3.2
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.3.2?classifier=sources
@@ -569,6 +573,8 @@
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.4.13?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.4.14
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.4.14?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.4.15
+- pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.4.15?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.4.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.4.2
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.4.2?classifier=sources
@@ -596,3 +602,5 @@
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.5.2?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.5.3
 - pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.5.3?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.5.4
+- pkg:maven/io.gravitee.apim.rest.api.portal/gravitee-apim-rest-api-portal-rest@4.5.4?classifier=sources

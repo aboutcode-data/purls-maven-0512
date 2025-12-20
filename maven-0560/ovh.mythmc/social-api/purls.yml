@@ -1,2 +1,4 @@
+- pkg:maven/ovh.mythmc/social-api@0.3.1?classifier=sources
 - pkg:maven/ovh.mythmc/social-api@v0.2.0b?classifier=sources
 - pkg:maven/ovh.mythmc/social-api@v0.2.0c?classifier=sources
+- pkg:maven/ovh.mythmc/social-api@v0.3.0b?classifier=sources

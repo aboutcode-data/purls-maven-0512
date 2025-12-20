@@ -2,6 +2,10 @@
 - pkg:maven/org.tango-controls.atk/beaninfo-maven-plugin@9.3.28?classifier=sources
 - pkg:maven/org.tango-controls.atk/beaninfo-maven-plugin@9.3.31
 - pkg:maven/org.tango-controls.atk/beaninfo-maven-plugin@9.3.31?classifier=sources
+- pkg:maven/org.tango-controls.atk/beaninfo-maven-plugin@9.4.10
+- pkg:maven/org.tango-controls.atk/beaninfo-maven-plugin@9.4.10?classifier=sources
+- pkg:maven/org.tango-controls.atk/beaninfo-maven-plugin@9.4.11
+- pkg:maven/org.tango-controls.atk/beaninfo-maven-plugin@9.4.11?classifier=sources
 - pkg:maven/org.tango-controls.atk/beaninfo-maven-plugin@9.4.4
 - pkg:maven/org.tango-controls.atk/beaninfo-maven-plugin@9.4.4?classifier=sources
 - pkg:maven/org.tango-controls.atk/beaninfo-maven-plugin@9.4.5

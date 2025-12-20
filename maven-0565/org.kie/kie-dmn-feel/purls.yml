@@ -1,3 +1,5 @@
+- pkg:maven/org.kie/kie-dmn-feel@10.0.0
+- pkg:maven/org.kie/kie-dmn-feel@10.0.0?classifier=sources
 - pkg:maven/org.kie/kie-dmn-feel@7.0.0.Beta3
 - pkg:maven/org.kie/kie-dmn-feel@7.0.0.Beta3?classifier=sources
 - pkg:maven/org.kie/kie-dmn-feel@7.0.0.Beta4

@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cpplite-kit@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cpplite-kit@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cpplite-kit@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-cpplite-kit@RELEASE240?classifier=sources

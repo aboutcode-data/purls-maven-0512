@@ -22,3 +22,5 @@
 - pkg:maven/dev.logchange.hofund/hofund-spring-boot-autoconfigure@2.2.0?classifier=sources
 - pkg:maven/dev.logchange.hofund/hofund-spring-boot-autoconfigure@2.3.0
 - pkg:maven/dev.logchange.hofund/hofund-spring-boot-autoconfigure@2.3.0?classifier=sources
+- pkg:maven/dev.logchange.hofund/hofund-spring-boot-autoconfigure@2.4.0
+- pkg:maven/dev.logchange.hofund/hofund-spring-boot-autoconfigure@2.4.0?classifier=sources

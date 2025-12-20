@@ -1,4 +1,6 @@
 - pkg:maven/org.nasdanika.models.gitlab/cli@2024.10.0
 - pkg:maven/org.nasdanika.models.gitlab/cli@2024.10.0?classifier=sources
+- pkg:maven/org.nasdanika.models.gitlab/cli@2024.11.0
+- pkg:maven/org.nasdanika.models.gitlab/cli@2024.11.0?classifier=sources
 - pkg:maven/org.nasdanika.models.gitlab/cli@2024.8.0
 - pkg:maven/org.nasdanika.models.gitlab/cli@2024.8.0?classifier=sources

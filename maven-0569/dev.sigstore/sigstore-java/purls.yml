@@ -12,3 +12,4 @@
 - pkg:maven/dev.sigstore/sigstore-java@0.9.0?classifier=sources
 - pkg:maven/dev.sigstore/sigstore-java@1.0.0?classifier=sources
 - pkg:maven/dev.sigstore/sigstore-java@1.1.0?classifier=sources
+- pkg:maven/dev.sigstore/sigstore-java@1.2.0?classifier=sources

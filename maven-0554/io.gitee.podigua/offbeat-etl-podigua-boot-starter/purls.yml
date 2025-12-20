@@ -4,3 +4,4 @@
 - pkg:maven/io.gitee.podigua/offbeat-etl-podigua-boot-starter@1.0.4?classifier=sources
 - pkg:maven/io.gitee.podigua/offbeat-etl-podigua-boot-starter@1.0.7?classifier=sources
 - pkg:maven/io.gitee.podigua/offbeat-etl-podigua-boot-starter@1.0.8?classifier=sources
+- pkg:maven/io.gitee.podigua/offbeat-etl-podigua-boot-starter@1.0.9?classifier=sources

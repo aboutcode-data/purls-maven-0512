@@ -1,2 +1,6 @@
 - pkg:maven/com.gu/fapiclient_core_3@12.1.1-PREVIEW.add-etag-caching-support.2024-10-31T1659.23b11d9e
 - pkg:maven/com.gu/fapiclient_core_3@12.1.1-PREVIEW.add-etag-caching-support.2024-10-31T1659.23b11d9e?classifier=sources
+- pkg:maven/com.gu/fapiclient_core_3@13.1.1-PREVIEW.add-etag-caching-support.2024-12-13T1538.9cf190cd
+- pkg:maven/com.gu/fapiclient_core_3@13.1.1-PREVIEW.add-etag-caching-support.2024-12-13T1538.9cf190cd?classifier=sources
+- pkg:maven/com.gu/fapiclient_core_3@13.1.1-PREVIEW.add-etag-caching-support.2024-12-13T1851.9f8c191c
+- pkg:maven/com.gu/fapiclient_core_3@13.1.1-PREVIEW.add-etag-caching-support.2024-12-13T1851.9f8c191c?classifier=sources

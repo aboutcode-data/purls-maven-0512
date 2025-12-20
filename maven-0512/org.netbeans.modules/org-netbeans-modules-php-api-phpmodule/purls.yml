@@ -23,3 +23,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-phpmodule@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-phpmodule@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-phpmodule@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-phpmodule@RELEASE240?classifier=sources

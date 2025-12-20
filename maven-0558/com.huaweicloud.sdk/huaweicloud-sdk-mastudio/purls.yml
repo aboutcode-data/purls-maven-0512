@@ -1,0 +1,10 @@
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-mastudio@3.1.124
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-mastudio@3.1.124?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-mastudio@3.1.125
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-mastudio@3.1.125?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-mastudio@3.1.126
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-mastudio@3.1.126?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-mastudio@3.1.127
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-mastudio@3.1.127?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-mastudio@3.1.128
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-mastudio@3.1.128?classifier=sources

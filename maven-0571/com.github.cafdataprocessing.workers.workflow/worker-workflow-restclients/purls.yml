@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cafdataprocessing.workers.workflow/worker-workflow-restclients@8.0.0-1512
+- pkg:maven/com.github.cafdataprocessing.workers.workflow/worker-workflow-restclients@8.0.0-1512?classifier=sources

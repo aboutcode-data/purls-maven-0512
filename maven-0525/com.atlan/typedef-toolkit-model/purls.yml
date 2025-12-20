@@ -36,3 +36,10 @@
 - pkg:maven/com.atlan/typedef-toolkit-model@2.3.2?classifier=sources
 - pkg:maven/com.atlan/typedef-toolkit-model@3.0.0?classifier=sources
 - pkg:maven/com.atlan/typedef-toolkit-model@3.0.1?classifier=sources
+- pkg:maven/com.atlan/typedef-toolkit-model@3.1.1?classifier=sources
+- pkg:maven/com.atlan/typedef-toolkit-model@3.1.2?classifier=sources
+- pkg:maven/com.atlan/typedef-toolkit-model@4.0.0?classifier=sources
+- pkg:maven/com.atlan/typedef-toolkit-model@4.0.1?classifier=sources
+- pkg:maven/com.atlan/typedef-toolkit-model@4.0.2?classifier=sources
+- pkg:maven/com.atlan/typedef-toolkit-model@4.0.3?classifier=sources
+- pkg:maven/com.atlan/typedef-toolkit-model@4.1.0?classifier=sources

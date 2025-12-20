@@ -237,3 +237,5 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracle@5.0.0-B03?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracle@5.0.0-B04
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracle@5.0.0-B04?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracle@5.0.0-B05
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracle@5.0.0-B05?classifier=sources

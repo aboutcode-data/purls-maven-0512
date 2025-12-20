@@ -88,3 +88,5 @@
 - pkg:maven/com.fincity.nocode/kirun-java@3.6.1?classifier=sources
 - pkg:maven/com.fincity.nocode/kirun-java@3.7.1
 - pkg:maven/com.fincity.nocode/kirun-java@3.7.1?classifier=sources
+- pkg:maven/com.fincity.nocode/kirun-java@3.7.2
+- pkg:maven/com.fincity.nocode/kirun-java@3.7.2?classifier=sources
