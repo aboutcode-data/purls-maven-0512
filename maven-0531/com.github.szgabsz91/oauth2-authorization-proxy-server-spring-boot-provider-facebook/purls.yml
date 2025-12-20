@@ -1,1 +1,2 @@
 - pkg:maven/com.github.szgabsz91/oauth2-authorization-proxy-server-spring-boot-provider-facebook@1.0.0?classifier=sources
+- pkg:maven/com.github.szgabsz91/oauth2-authorization-proxy-server-spring-boot-provider-facebook@1.0.1?classifier=sources

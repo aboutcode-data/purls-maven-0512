@@ -98,6 +98,8 @@
 - pkg:maven/org.opencastproject/opencast-rest-test-environment@14.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-rest-test-environment@14.3
 - pkg:maven/org.opencastproject/opencast-rest-test-environment@14.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-rest-test-environment@14.5
+- pkg:maven/org.opencastproject/opencast-rest-test-environment@14.5?classifier=sources
 - pkg:maven/org.opencastproject/opencast-rest-test-environment@7.2
 - pkg:maven/org.opencastproject/opencast-rest-test-environment@7.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-rest-test-environment@7.3

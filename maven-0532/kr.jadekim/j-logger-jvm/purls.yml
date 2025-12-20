@@ -1,5 +1,6 @@
 - pkg:maven/kr.jadekim/j-logger-jvm@2.0.0-rc1?classifier=sources
 - pkg:maven/kr.jadekim/j-logger-jvm@2.0.0?classifier=sources
+- pkg:maven/kr.jadekim/j-logger-jvm@2.0.10?classifier=sources
 - pkg:maven/kr.jadekim/j-logger-jvm@2.0.1?classifier=sources
 - pkg:maven/kr.jadekim/j-logger-jvm@2.0.2?classifier=sources
 - pkg:maven/kr.jadekim/j-logger-jvm@2.0.3-alpha1?classifier=sources
@@ -11,3 +12,5 @@
 - pkg:maven/kr.jadekim/j-logger-jvm@2.0.5?classifier=sources
 - pkg:maven/kr.jadekim/j-logger-jvm@2.0.6-alpha2?classifier=sources
 - pkg:maven/kr.jadekim/j-logger-jvm@2.0.7?classifier=sources
+- pkg:maven/kr.jadekim/j-logger-jvm@2.0.8?classifier=sources
+- pkg:maven/kr.jadekim/j-logger-jvm@2.0.9?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.amido.stacks.modules/stacks-core-cqrs@1.0.0?classifier=sources
 - pkg:maven/com.amido.stacks.modules/stacks-core-cqrs@2.0.0.2-RELEASE
 - pkg:maven/com.amido.stacks.modules/stacks-core-cqrs@2.0.0.2-RELEASE?classifier=sources
+- pkg:maven/com.amido.stacks.modules/stacks-core-cqrs@2.0.1.2-RELEASE
+- pkg:maven/com.amido.stacks.modules/stacks-core-cqrs@2.0.1.2-RELEASE?classifier=sources

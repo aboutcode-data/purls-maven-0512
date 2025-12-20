@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-guards@RELEASE90?classifier=sources

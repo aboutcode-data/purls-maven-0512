@@ -18,6 +18,8 @@
 - pkg:maven/com.helger/phoss-directory-publisher@0.12.2?type=war
 - pkg:maven/com.helger/phoss-directory-publisher@0.12.3?classifier=sources
 - pkg:maven/com.helger/phoss-directory-publisher@0.12.3?type=war
+- pkg:maven/com.helger/phoss-directory-publisher@0.13.0?classifier=sources
+- pkg:maven/com.helger/phoss-directory-publisher@0.13.0?type=war
 - pkg:maven/com.helger/phoss-directory-publisher@0.8.0?classifier=sources
 - pkg:maven/com.helger/phoss-directory-publisher@0.8.0?type=war
 - pkg:maven/com.helger/phoss-directory-publisher@0.8.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/atlaskit__app-provider@0.4.0
+- pkg:maven/org.webjars.npm/atlaskit__app-provider@0.4.0?classifier=sources

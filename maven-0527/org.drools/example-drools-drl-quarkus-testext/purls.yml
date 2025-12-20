@@ -1,0 +1,2 @@
+- pkg:maven/org.drools/example-drools-drl-quarkus-testext@8.40.1.Final
+- pkg:maven/org.drools/example-drools-drl-quarkus-testext@8.40.1.Final?classifier=sources

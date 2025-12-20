@@ -1,0 +1,6 @@
+- pkg:maven/tech.fanlinglong.common/local-build-time-maven-plugin@0.0.1
+- pkg:maven/tech.fanlinglong.common/local-build-time-maven-plugin@0.0.1?classifier=sources
+- pkg:maven/tech.fanlinglong.common/local-build-time-maven-plugin@1.0.0
+- pkg:maven/tech.fanlinglong.common/local-build-time-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/tech.fanlinglong.common/local-build-time-maven-plugin@1.0.1
+- pkg:maven/tech.fanlinglong.common/local-build-time-maven-plugin@1.0.1?classifier=sources

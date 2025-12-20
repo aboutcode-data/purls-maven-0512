@@ -38,6 +38,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-functions-v2@2.30.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-functions-v2@2.31.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-functions-v2@2.31.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-functions-v2@2.32.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-functions-v2@2.32.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-functions-v2@2.5.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-functions-v2@2.5.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-functions-v2@2.5.2

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/morphdom@1.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/morphdom@2.3.1
 - pkg:maven/org.webjars.npm/morphdom@2.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/morphdom@2.7.1
+- pkg:maven/org.webjars.npm/morphdom@2.7.1?classifier=sources

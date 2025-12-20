@@ -40,7 +40,10 @@
 - pkg:maven/no.priv.bang.oldalbum/docker@1.9.15
 - pkg:maven/no.priv.bang.oldalbum/docker@1.9.16
 - pkg:maven/no.priv.bang.oldalbum/docker@1.9.17
+- pkg:maven/no.priv.bang.oldalbum/docker@1.9.18
+- pkg:maven/no.priv.bang.oldalbum/docker@1.9.19
 - pkg:maven/no.priv.bang.oldalbum/docker@1.9.2
+- pkg:maven/no.priv.bang.oldalbum/docker@1.9.20
 - pkg:maven/no.priv.bang.oldalbum/docker@1.9.3
 - pkg:maven/no.priv.bang.oldalbum/docker@1.9.4
 - pkg:maven/no.priv.bang.oldalbum/docker@1.9.5

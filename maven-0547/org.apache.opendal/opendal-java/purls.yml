@@ -22,3 +22,9 @@
 - pkg:maven/org.apache.opendal/opendal-java@0.41.0
 - pkg:maven/org.apache.opendal/opendal-java@0.41.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.opendal/opendal-java@0.41.0?classifier=sources
+- pkg:maven/org.apache.opendal/opendal-java@0.42.0
+- pkg:maven/org.apache.opendal/opendal-java@0.42.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.opendal/opendal-java@0.42.0?classifier=sources
+- pkg:maven/org.apache.opendal/opendal-java@0.43.0
+- pkg:maven/org.apache.opendal/opendal-java@0.43.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.opendal/opendal-java@0.43.0?classifier=sources

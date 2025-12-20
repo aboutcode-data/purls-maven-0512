@@ -7,3 +7,4 @@
 - pkg:maven/org.apache.aries/parent@2.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries/parent@2.0.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries/parent@2.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries/parent@2.1.1?classifier=source-release&type=zip

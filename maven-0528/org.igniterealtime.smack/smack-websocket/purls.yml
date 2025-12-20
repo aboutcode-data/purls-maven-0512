@@ -1,1 +1,2 @@
 - pkg:maven/org.igniterealtime.smack/smack-websocket@4.5.0-alpha1?classifier=sources
+- pkg:maven/org.igniterealtime.smack/smack-websocket@4.5.0-alpha2?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/za.co.absa.pramen/pramen-runner_2.13@1.6.3?classifier=sources
 - pkg:maven/za.co.absa.pramen/pramen-runner_2.13@1.6.4
 - pkg:maven/za.co.absa.pramen/pramen-runner_2.13@1.6.4?classifier=sources
+- pkg:maven/za.co.absa.pramen/pramen-runner_2.13@1.6.5
+- pkg:maven/za.co.absa.pramen/pramen-runner_2.13@1.6.5?classifier=sources

@@ -30,3 +30,7 @@
 - pkg:maven/org.apache.olingo/odata-server-core-ext@4.8.0?classifier=sources
 - pkg:maven/org.apache.olingo/odata-server-core-ext@4.9.0
 - pkg:maven/org.apache.olingo/odata-server-core-ext@4.9.0?classifier=sources
+- pkg:maven/org.apache.olingo/odata-server-core-ext@5.0.0-ALPHA-01
+- pkg:maven/org.apache.olingo/odata-server-core-ext@5.0.0-ALPHA-01?classifier=sources
+- pkg:maven/org.apache.olingo/odata-server-core-ext@5.0.0-ALPHA-02
+- pkg:maven/org.apache.olingo/odata-server-core-ext@5.0.0-ALPHA-02?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.ardikars.euid/euid@0.1.0-B2?classifier=sources
 - pkg:maven/com.ardikars.euid/euid@0.1.0-B3
 - pkg:maven/com.ardikars.euid/euid@0.1.0-B3?classifier=sources
+- pkg:maven/com.ardikars.euid/euid@0.1.0-B4
+- pkg:maven/com.ardikars.euid/euid@0.1.0-B4?classifier=sources

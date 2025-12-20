@@ -1,0 +1,2 @@
+- pkg:maven/org.cxbox/cxbox-meta-api@4.0.0-M1
+- pkg:maven/org.cxbox/cxbox-meta-api@4.0.0-M1?classifier=sources

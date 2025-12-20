@@ -1,5 +1,7 @@
+- pkg:maven/net.consentmanager.sdk/android@1.6.92?classifier=sources
 - pkg:maven/net.consentmanager.sdk/android@1.7.0?classifier=sources
 - pkg:maven/net.consentmanager.sdk/android@1.7.1?classifier=sources
+- pkg:maven/net.consentmanager.sdk/android@1.7.21?classifier=sources
 - pkg:maven/net.consentmanager.sdk/android@1.7.2?classifier=sources
 - pkg:maven/net.consentmanager.sdk/android@1.7.31?classifier=sources
 - pkg:maven/net.consentmanager.sdk/android@1.7.32?classifier=sources
@@ -8,3 +10,6 @@
 - pkg:maven/net.consentmanager.sdk/android@1.7.34-unity?classifier=sources
 - pkg:maven/net.consentmanager.sdk/android@1.7.34?classifier=sources
 - pkg:maven/net.consentmanager.sdk/android@1.7.3?classifier=sources
+- pkg:maven/net.consentmanager.sdk/android@1.7.4?classifier=sources
+- pkg:maven/net.consentmanager.sdk/android@1.7.5?classifier=sources
+- pkg:maven/net.consentmanager.sdk/android@2.0.0?classifier=sources

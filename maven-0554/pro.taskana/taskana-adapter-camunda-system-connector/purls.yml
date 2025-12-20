@@ -58,3 +58,5 @@
 - pkg:maven/pro.taskana/taskana-adapter-camunda-system-connector@1.9.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-adapter-camunda-system-connector@2.0.0
 - pkg:maven/pro.taskana/taskana-adapter-camunda-system-connector@2.0.0?classifier=sources
+- pkg:maven/pro.taskana/taskana-adapter-camunda-system-connector@3.0.0
+- pkg:maven/pro.taskana/taskana-adapter-camunda-system-connector@3.0.0?classifier=sources

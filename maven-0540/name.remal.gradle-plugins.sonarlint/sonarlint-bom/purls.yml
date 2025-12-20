@@ -3,5 +3,9 @@
 - pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint-bom@3.3.12?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint-bom@3.3.13?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint-bom@3.3.14?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint-bom@3.3.15?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint-bom@3.3.16?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint-bom@3.3.17?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint-bom@3.3.8?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint-bom@3.3.9?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint-bom@3.4.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.deltastream/flink-connector-snowflake@1.0.7-1.17
+- pkg:maven/io.deltastream/flink-connector-snowflake@1.0.7-1.17?classifier=sources
+- pkg:maven/io.deltastream/flink-connector-snowflake@1.0.7rc1-1.17
+- pkg:maven/io.deltastream/flink-connector-snowflake@1.0.7rc1-1.17?classifier=sources
+- pkg:maven/io.deltastream/flink-connector-snowflake@1.0.8-1.17
+- pkg:maven/io.deltastream/flink-connector-snowflake@1.0.8-1.17?classifier=sources

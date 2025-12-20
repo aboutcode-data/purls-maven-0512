@@ -1,2 +1,4 @@
 - pkg:maven/com.coarpro.libraries/coarpro-logger@1.0.0
 - pkg:maven/com.coarpro.libraries/coarpro-logger@1.0.0?classifier=sources
+- pkg:maven/com.coarpro.libraries/coarpro-logger@2.0.0
+- pkg:maven/com.coarpro.libraries/coarpro-logger@2.0.0?classifier=sources

@@ -17,3 +17,6 @@
 - pkg:maven/com.agorapulse/micronaut-grails-jpa-generator@3.2.0-micronaut-1.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-grails-jpa-generator@3.2.0-micronaut-2.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-grails-jpa-generator@3.2.0-micronaut-3.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-grails-jpa-generator@3.3.0-micronaut-1.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-grails-jpa-generator@3.3.0-micronaut-2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-grails-jpa-generator@3.3.0-micronaut-3.0?classifier=sources

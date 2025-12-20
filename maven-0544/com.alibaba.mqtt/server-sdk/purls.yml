@@ -6,3 +6,5 @@
 - pkg:maven/com.alibaba.mqtt/server-sdk@1.0.4.Final?classifier=sources
 - pkg:maven/com.alibaba.mqtt/server-sdk@1.0.5.Final
 - pkg:maven/com.alibaba.mqtt/server-sdk@1.0.5.Final?classifier=sources
+- pkg:maven/com.alibaba.mqtt/server-sdk@1.0.6.Final
+- pkg:maven/com.alibaba.mqtt/server-sdk@1.0.6.Final?classifier=sources

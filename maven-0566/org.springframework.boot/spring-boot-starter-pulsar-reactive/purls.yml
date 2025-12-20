@@ -1,0 +1,1 @@
+- pkg:maven/org.springframework.boot/spring-boot-starter-pulsar-reactive@3.2.0?classifier=sources

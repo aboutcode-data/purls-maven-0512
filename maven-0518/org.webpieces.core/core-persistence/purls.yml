@@ -1,3 +1,8 @@
+- pkg:maven/org.webpieces.core/core-persistence@2.1.100?classifier=sources
+- pkg:maven/org.webpieces.core/core-persistence@2.1.101?classifier=sources
+- pkg:maven/org.webpieces.core/core-persistence@2.1.102?classifier=sources
+- pkg:maven/org.webpieces.core/core-persistence@2.1.103?classifier=sources
+- pkg:maven/org.webpieces.core/core-persistence@2.1.104?classifier=sources
 - pkg:maven/org.webpieces.core/core-persistence@2.1.64?classifier=sources
 - pkg:maven/org.webpieces.core/core-persistence@2.1.65?classifier=sources
 - pkg:maven/org.webpieces.core/core-persistence@2.1.66?classifier=sources

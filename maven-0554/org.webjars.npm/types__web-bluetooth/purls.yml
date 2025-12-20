@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/types__web-bluetooth@0.0.16?classifier=sources
 - pkg:maven/org.webjars.npm/types__web-bluetooth@0.0.17
 - pkg:maven/org.webjars.npm/types__web-bluetooth@0.0.17?classifier=sources
+- pkg:maven/org.webjars.npm/types__web-bluetooth@0.0.20
+- pkg:maven/org.webjars.npm/types__web-bluetooth@0.0.20?classifier=sources

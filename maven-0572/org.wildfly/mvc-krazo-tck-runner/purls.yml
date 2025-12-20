@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly/mvc-krazo-tck-runner@1.0.0.Beta1
+- pkg:maven/org.wildfly/mvc-krazo-tck-runner@1.0.0.Beta1?classifier=sources

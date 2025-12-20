@@ -1,0 +1,4 @@
+- pkg:maven/com.gu.play-secret-rotation/play-v29_2.13@0.39
+- pkg:maven/com.gu.play-secret-rotation/play-v29_2.13@0.39?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/play-v29_2.13@0.40
+- pkg:maven/com.gu.play-secret-rotation/play-v29_2.13@0.40?classifier=sources

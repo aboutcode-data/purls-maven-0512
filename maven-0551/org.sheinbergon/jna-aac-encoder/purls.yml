@@ -12,3 +12,5 @@
 - pkg:maven/org.sheinbergon/jna-aac-encoder@0.1.6?classifier=sources
 - pkg:maven/org.sheinbergon/jna-aac-encoder@0.1.7?classifier=sources
 - pkg:maven/org.sheinbergon/jna-aac-encoder@0.1.9?classifier=sources
+- pkg:maven/org.sheinbergon/jna-aac-encoder@2.0.0?classifier=sources
+- pkg:maven/org.sheinbergon/jna-aac-encoder@2.1.0?classifier=sources

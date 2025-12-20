@@ -1,0 +1,4 @@
+- pkg:maven/io.github.hcelebi/jira-v2-java-client@1
+- pkg:maven/io.github.hcelebi/jira-v2-java-client@1.0.1
+- pkg:maven/io.github.hcelebi/jira-v2-java-client@1.0.1?classifier=sources
+- pkg:maven/io.github.hcelebi/jira-v2-java-client@1?classifier=sources

@@ -11,6 +11,7 @@
 - pkg:maven/com.infomaximum/rdao@1.14.12?classifier=sources
 - pkg:maven/com.infomaximum/rdao@1.14.13?classifier=sources
 - pkg:maven/com.infomaximum/rdao@1.14.13p1?classifier=sources
+- pkg:maven/com.infomaximum/rdao@1.14.14?classifier=sources
 - pkg:maven/com.infomaximum/rdao@1.14.1?classifier=sources
 - pkg:maven/com.infomaximum/rdao@1.14.2?classifier=sources
 - pkg:maven/com.infomaximum/rdao@1.14.2f1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.getkyo/kyo-llm_3@0.6.7
+- pkg:maven/io.getkyo/kyo-llm_3@0.6.7?classifier=sources
+- pkg:maven/io.getkyo/kyo-llm_3@0.6.8
+- pkg:maven/io.getkyo/kyo-llm_3@0.6.8?classifier=sources

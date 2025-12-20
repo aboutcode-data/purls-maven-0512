@@ -9,3 +9,5 @@
 - pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.api@2.1.0?classifier=sources
 - pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.api@2.2.0?classifier=sources
 - pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.api@2.3.0?classifier=sources
+- pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.api@2.4.0?classifier=sources
+- pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.api@2.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.hcp.cf.logging/cf-java-logging-support-opentelemetry-agent-extension@3.8.0
+- pkg:maven/com.sap.hcp.cf.logging/cf-java-logging-support-opentelemetry-agent-extension@3.8.0?classifier=sources

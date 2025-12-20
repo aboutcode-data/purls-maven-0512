@@ -1,0 +1,4 @@
+- pkg:maven/io.github.org-kepe/beancp@2.0.1c
+- pkg:maven/io.github.org-kepe/beancp@2.0.1c?classifier=sources
+- pkg:maven/io.github.org-kepe/beancp@2.0.3
+- pkg:maven/io.github.org-kepe/beancp@2.0.3?classifier=sources

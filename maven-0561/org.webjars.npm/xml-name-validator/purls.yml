@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/xml-name-validator@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/xml-name-validator@4.0.0
 - pkg:maven/org.webjars.npm/xml-name-validator@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/xml-name-validator@5.0.0
+- pkg:maven/org.webjars.npm/xml-name-validator@5.0.0?classifier=sources

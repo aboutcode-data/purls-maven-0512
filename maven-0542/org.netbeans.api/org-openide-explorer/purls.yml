@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.api/org-openide-explorer@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-explorer@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-explorer@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-explorer@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-explorer@RELEASE90?classifier=sources

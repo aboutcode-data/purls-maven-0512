@@ -1,0 +1,2 @@
+- pkg:maven/ai.djl.pytorch/pytorch-native-cu121-precxx11@2.1.1
+- pkg:maven/ai.djl.pytorch/pytorch-native-cu121-precxx11@2.1.1?classifier=sources

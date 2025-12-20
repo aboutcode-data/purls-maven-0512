@@ -1,0 +1,6 @@
+- pkg:maven/com.libutil/base64s@1.0.0
+- pkg:maven/com.libutil/base64s@1.0.0?classifier=sources
+- pkg:maven/com.libutil/base64s@1.1.0
+- pkg:maven/com.libutil/base64s@1.1.0?classifier=sources
+- pkg:maven/com.libutil/base64s@1.1.1
+- pkg:maven/com.libutil/base64s@1.1.1?classifier=sources

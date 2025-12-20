@@ -236,6 +236,10 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@4.7.2?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@4.8.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@4.8.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@4.9.0
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@4.9.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@4.9.2
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@4.9.2?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@5.0.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@5.0.0?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@5.0.1
@@ -258,3 +262,7 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@5.4.0?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@5.5.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@5.5.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@5.6.0
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@5.6.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@5.6.1
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-manual-client@5.6.1?classifier=sources

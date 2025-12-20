@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-editor-hints@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-editor-hints@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-editor-hints@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-editor-hints@RELEASE200?classifier=sources

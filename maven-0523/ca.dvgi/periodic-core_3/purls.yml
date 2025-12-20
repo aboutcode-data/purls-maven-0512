@@ -6,3 +6,5 @@
 - pkg:maven/ca.dvgi/periodic-core_3@0.5.0?classifier=sources
 - pkg:maven/ca.dvgi/periodic-core_3@0.6.0
 - pkg:maven/ca.dvgi/periodic-core_3@0.6.0?classifier=sources
+- pkg:maven/ca.dvgi/periodic-core_3@0.7.0
+- pkg:maven/ca.dvgi/periodic-core_3@0.7.0?classifier=sources

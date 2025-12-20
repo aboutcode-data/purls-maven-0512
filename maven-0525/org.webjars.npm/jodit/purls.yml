@@ -8,6 +8,8 @@
 - pkg:maven/org.webjars.npm/jodit@3.23.3?classifier=sources
 - pkg:maven/org.webjars.npm/jodit@3.24.2
 - pkg:maven/org.webjars.npm/jodit@3.24.2?classifier=sources
+- pkg:maven/org.webjars.npm/jodit@3.24.9
+- pkg:maven/org.webjars.npm/jodit@3.24.9?classifier=sources
 - pkg:maven/org.webjars.npm/jodit@3.5.4
 - pkg:maven/org.webjars.npm/jodit@3.5.4?classifier=sources
 - pkg:maven/org.webjars.npm/jodit@3.6.5

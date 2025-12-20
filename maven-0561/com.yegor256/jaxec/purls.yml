@@ -16,3 +16,7 @@
 - pkg:maven/com.yegor256/jaxec@0.1.0?classifier=sources
 - pkg:maven/com.yegor256/jaxec@0.2.0
 - pkg:maven/com.yegor256/jaxec@0.2.0?classifier=sources
+- pkg:maven/com.yegor256/jaxec@0.3.0
+- pkg:maven/com.yegor256/jaxec@0.3.0?classifier=sources
+- pkg:maven/com.yegor256/jaxec@0.3.1
+- pkg:maven/com.yegor256/jaxec@0.3.1?classifier=sources

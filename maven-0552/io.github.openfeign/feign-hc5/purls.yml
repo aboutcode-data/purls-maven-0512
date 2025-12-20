@@ -64,3 +64,5 @@
 - pkg:maven/io.github.openfeign/feign-hc5@12.5?classifier=sources
 - pkg:maven/io.github.openfeign/feign-hc5@13.0
 - pkg:maven/io.github.openfeign/feign-hc5@13.0?classifier=sources
+- pkg:maven/io.github.openfeign/feign-hc5@13.1
+- pkg:maven/io.github.openfeign/feign-hc5@13.1?classifier=sources

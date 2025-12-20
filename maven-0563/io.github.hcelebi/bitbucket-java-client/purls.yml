@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hcelebi/bitbucket-java-client@1
+- pkg:maven/io.github.hcelebi/bitbucket-java-client@1?classifier=sources

@@ -735,6 +735,7 @@
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@4.0.120?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@4.0.121?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@4.0.122?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.impl@4.0.123?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@4.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@4.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@4.0.13
@@ -1139,9 +1140,11 @@
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@5.0.136?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@5.0.137?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@5.0.138?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.impl@5.0.139?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@5.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@5.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@5.0.14
+- pkg:maven/com.liferay/com.liferay.headless.delivery.impl@5.0.140?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@5.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@5.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.delivery.impl@5.0.15

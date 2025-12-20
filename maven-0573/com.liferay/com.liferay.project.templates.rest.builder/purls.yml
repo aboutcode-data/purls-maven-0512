@@ -291,5 +291,6 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.rest.builder@1.0.97?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.rest.builder@1.0.97?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.rest.builder@1.0.98?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.rest.builder@1.0.99?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.rest.builder@1.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.rest.builder@1.0.9?classifier=sources-commercial

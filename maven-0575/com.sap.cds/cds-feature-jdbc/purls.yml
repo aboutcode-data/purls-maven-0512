@@ -142,3 +142,5 @@
 - pkg:maven/com.sap.cds/cds-feature-jdbc@2.3.0?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-jdbc@2.3.1
 - pkg:maven/com.sap.cds/cds-feature-jdbc@2.3.1?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-jdbc@2.4.0
+- pkg:maven/com.sap.cds/cds-feature-jdbc@2.4.0?classifier=sources

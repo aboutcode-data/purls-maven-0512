@@ -1007,6 +1007,7 @@
 - pkg:maven/com.liferay/com.liferay.staging.lang@5.0.94?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@5.0.95?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@5.0.96?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.lang@5.0.97?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@5.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.lang@6.0.0

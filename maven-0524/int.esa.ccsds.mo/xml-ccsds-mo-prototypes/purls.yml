@@ -1,2 +1,4 @@
+- pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-prototypes@10.0
+- pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-prototypes@10.0?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-prototypes@9.0
 - pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-prototypes@9.0?classifier=sources

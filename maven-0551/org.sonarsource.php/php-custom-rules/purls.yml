@@ -1,2 +1,3 @@
 - pkg:maven/org.sonarsource.php/php-custom-rules@3.32.0.10180?classifier=sources
 - pkg:maven/org.sonarsource.php/php-custom-rules@3.33.0.11274?classifier=sources
+- pkg:maven/org.sonarsource.php/php-custom-rules@3.34.0.11311?classifier=sources

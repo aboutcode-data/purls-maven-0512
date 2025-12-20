@@ -18,3 +18,5 @@
 - pkg:maven/com.fhs-opensource/easy-trans-untrans-driver@2.2.8?classifier=sources
 - pkg:maven/com.fhs-opensource/easy-trans-untrans-driver@2.2.9
 - pkg:maven/com.fhs-opensource/easy-trans-untrans-driver@2.2.9?classifier=sources
+- pkg:maven/com.fhs-opensource/easy-trans-untrans-driver@3.0.0
+- pkg:maven/com.fhs-opensource/easy-trans-untrans-driver@3.0.0?classifier=sources

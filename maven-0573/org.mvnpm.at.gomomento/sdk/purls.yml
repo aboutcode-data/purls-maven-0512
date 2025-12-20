@@ -1,1 +1,11 @@
 - pkg:maven/org.mvnpm.at.gomomento/sdk@1.45.6?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk@1.47.1?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk@1.47.2?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk@1.47.3?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk@1.48.1?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk@1.50.4?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk@1.51.1?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk@1.52.1?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk@1.53.0?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk@1.53.1?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk@1.53.2?classifier=sources

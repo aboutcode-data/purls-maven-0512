@@ -1,3 +1,8 @@
+- pkg:maven/org.webpieces.lib/lib-elasticsearch@2.1.100?classifier=sources
+- pkg:maven/org.webpieces.lib/lib-elasticsearch@2.1.101?classifier=sources
+- pkg:maven/org.webpieces.lib/lib-elasticsearch@2.1.102?classifier=sources
+- pkg:maven/org.webpieces.lib/lib-elasticsearch@2.1.103?classifier=sources
+- pkg:maven/org.webpieces.lib/lib-elasticsearch@2.1.104?classifier=sources
 - pkg:maven/org.webpieces.lib/lib-elasticsearch@2.1.14?classifier=sources
 - pkg:maven/org.webpieces.lib/lib-elasticsearch@2.1.15?classifier=sources
 - pkg:maven/org.webpieces.lib/lib-elasticsearch@2.1.17?classifier=sources
