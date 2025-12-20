@@ -24,3 +24,5 @@
 - pkg:maven/de.flapdoodle.java8/de.flapdoodle.java8@1.4.2?classifier=sources
 - pkg:maven/de.flapdoodle.java8/de.flapdoodle.java8@1.5.0
 - pkg:maven/de.flapdoodle.java8/de.flapdoodle.java8@1.5.0?classifier=sources
+- pkg:maven/de.flapdoodle.java8/de.flapdoodle.java8@1.5.1
+- pkg:maven/de.flapdoodle.java8/de.flapdoodle.java8@1.5.1?classifier=sources

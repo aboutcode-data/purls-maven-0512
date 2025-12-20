@@ -104,3 +104,4 @@
 - pkg:maven/com.hexagonkt/serialization_jackson_csv@3.5.2?classifier=sources
 - pkg:maven/com.hexagonkt/serialization_jackson_csv@3.5.3?classifier=sources
 - pkg:maven/com.hexagonkt/serialization_jackson_csv@3.6.0?classifier=sources
+- pkg:maven/com.hexagonkt/serialization_jackson_csv@3.6.1?classifier=sources

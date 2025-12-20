@@ -135,4 +135,6 @@
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-parser@11.7.4?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-parser@11.7.5.ee?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-parser@11.7.5?classifier=sources
+- pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-parser@11.8.0.ee?classifier=sources
+- pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-parser@11.8.0?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-parser@9.9.9-20201011200802?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.nearpay/nearpay-plugin-install@0.0?classifier=sources
+- pkg:maven/io.nearpay/nearpay-plugin-install@0.1?classifier=sources

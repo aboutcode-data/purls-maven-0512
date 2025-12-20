@@ -281,3 +281,4 @@
 - pkg:maven/com.bbossgroups/bboss-data@6.1.7?classifier=sources
 - pkg:maven/com.bbossgroups/bboss-data@6.1.8?classifier=sources
 - pkg:maven/com.bbossgroups/bboss-data@6.1.9?classifier=sources
+- pkg:maven/com.bbossgroups/bboss-data@6.2.2?classifier=sources

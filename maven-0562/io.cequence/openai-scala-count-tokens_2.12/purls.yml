@@ -1,2 +1,4 @@
 - pkg:maven/io.cequence/openai-scala-count-tokens_2.12@1.0.0
 - pkg:maven/io.cequence/openai-scala-count-tokens_2.12@1.0.0?classifier=sources
+- pkg:maven/io.cequence/openai-scala-count-tokens_2.12@1.1.0.RC.1
+- pkg:maven/io.cequence/openai-scala-count-tokens_2.12@1.1.0.RC.1?classifier=sources

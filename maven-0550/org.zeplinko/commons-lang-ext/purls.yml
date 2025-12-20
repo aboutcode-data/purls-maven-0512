@@ -2,3 +2,5 @@
 - pkg:maven/org.zeplinko/commons-lang-ext@0.0.2?classifier=sources
 - pkg:maven/org.zeplinko/commons-lang-ext@0.0.3?classifier=sources
 - pkg:maven/org.zeplinko/commons-lang-ext@1.0.0?classifier=sources
+- pkg:maven/org.zeplinko/commons-lang-ext@1.1.0-BETA1?classifier=sources
+- pkg:maven/org.zeplinko/commons-lang-ext@1.1.0?classifier=sources

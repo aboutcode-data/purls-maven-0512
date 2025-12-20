@@ -16,3 +16,5 @@
 - pkg:maven/com.mdsol/mauth-signer-http4s_2.13@16.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-signer-http4s_2.13@16.0.1
 - pkg:maven/com.mdsol/mauth-signer-http4s_2.13@16.0.1?classifier=sources
+- pkg:maven/com.mdsol/mauth-signer-http4s_2.13@16.1.0
+- pkg:maven/com.mdsol/mauth-signer-http4s_2.13@16.1.0?classifier=sources

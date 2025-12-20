@@ -5,5 +5,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.iframe.sanitizer@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.iframe.sanitizer@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.iframe.sanitizer@4.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.iframe.sanitizer@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.iframe.sanitizer@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.iframe.sanitizer@5.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.iframe.sanitizer@5.0.2?classifier=sources

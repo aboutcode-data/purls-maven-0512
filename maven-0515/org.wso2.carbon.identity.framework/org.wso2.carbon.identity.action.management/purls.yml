@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.action.management@7.3.34
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.action.management@7.3.34?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.action.management@7.3.35
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.action.management@7.3.35?classifier=sources

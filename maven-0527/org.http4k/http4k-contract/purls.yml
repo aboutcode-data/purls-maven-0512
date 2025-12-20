@@ -1069,6 +1069,8 @@
 - pkg:maven/org.http4k/http4k-contract@5.24.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-contract@5.24.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-contract@5.25.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-contract@5.26.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-contract@5.26.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-contract@5.3.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-contract@5.4.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-contract@5.4.1.0?classifier=sources

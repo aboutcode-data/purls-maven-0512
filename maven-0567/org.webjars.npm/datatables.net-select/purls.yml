@@ -20,3 +20,5 @@
 - pkg:maven/org.webjars.npm/datatables.net-select@1.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/datatables.net-select@1.6.2
 - pkg:maven/org.webjars.npm/datatables.net-select@1.6.2?classifier=sources
+- pkg:maven/org.webjars.npm/datatables.net-select@1.7.1
+- pkg:maven/org.webjars.npm/datatables.net-select@2.0.3

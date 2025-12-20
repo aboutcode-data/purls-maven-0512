@@ -7,3 +7,6 @@
 - pkg:maven/com.geneea/nlpclient-kotlin@0.3.0?classifier=sources
 - pkg:maven/com.geneea/nlpclient-kotlin@0.3.1?classifier=sources
 - pkg:maven/com.geneea/nlpclient-kotlin@0.4.0?classifier=sources
+- pkg:maven/com.geneea/nlpclient-kotlin@0.4.1?classifier=sources
+- pkg:maven/com.geneea/nlpclient-kotlin@0.5.0?classifier=sources
+- pkg:maven/com.geneea/nlpclient-kotlin@0.6.0?classifier=sources

@@ -188,6 +188,10 @@
 - pkg:maven/com.cedarsoftware/json-io@4.23.0?classifier=sources
 - pkg:maven/com.cedarsoftware/json-io@4.24.0
 - pkg:maven/com.cedarsoftware/json-io@4.24.0?classifier=sources
+- pkg:maven/com.cedarsoftware/json-io@4.25.0
+- pkg:maven/com.cedarsoftware/json-io@4.25.0?classifier=sources
+- pkg:maven/com.cedarsoftware/json-io@4.26.0
+- pkg:maven/com.cedarsoftware/json-io@4.26.0?classifier=sources
 - pkg:maven/com.cedarsoftware/json-io@4.3.0
 - pkg:maven/com.cedarsoftware/json-io@4.3.0?classifier=sources
 - pkg:maven/com.cedarsoftware/json-io@4.3.1

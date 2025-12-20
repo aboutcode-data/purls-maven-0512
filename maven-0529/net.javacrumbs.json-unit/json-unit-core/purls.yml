@@ -226,6 +226,8 @@
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@2.4.0?classifier=sources
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@2.40.0
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@2.40.0?classifier=sources
+- pkg:maven/net.javacrumbs.json-unit/json-unit-core@2.40.1
+- pkg:maven/net.javacrumbs.json-unit/json-unit-core@2.40.1?classifier=sources
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@2.5.0
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@2.5.0?classifier=sources
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@2.5.1
@@ -264,3 +266,5 @@
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@3.3.0?classifier=sources
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@3.4.0
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@3.4.0?classifier=sources
+- pkg:maven/net.javacrumbs.json-unit/json-unit-core@3.4.1
+- pkg:maven/net.javacrumbs.json-unit/json-unit-core@3.4.1?classifier=sources

@@ -72,3 +72,5 @@
 - pkg:maven/org.smallmind/claxon-emitter-jmx@5.6.0?classifier=sources
 - pkg:maven/org.smallmind/claxon-emitter-jmx@5.7.0
 - pkg:maven/org.smallmind/claxon-emitter-jmx@5.7.0?classifier=sources
+- pkg:maven/org.smallmind/claxon-emitter-jmx@5.8.0
+- pkg:maven/org.smallmind/claxon-emitter-jmx@5.8.0?classifier=sources

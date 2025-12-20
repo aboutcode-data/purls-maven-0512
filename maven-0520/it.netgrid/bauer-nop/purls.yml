@@ -8,3 +8,5 @@
 - pkg:maven/it.netgrid/bauer-nop@0.0.14?classifier=sources
 - pkg:maven/it.netgrid/bauer-nop@0.0.15
 - pkg:maven/it.netgrid/bauer-nop@0.0.15?classifier=sources
+- pkg:maven/it.netgrid/bauer-nop@1.0.0
+- pkg:maven/it.netgrid/bauer-nop@1.0.0?classifier=sources

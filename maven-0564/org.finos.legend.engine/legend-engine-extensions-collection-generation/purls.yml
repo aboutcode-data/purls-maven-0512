@@ -226,6 +226,11 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-generation@4.49.0
 - pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-generation@4.49.1
 - pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-generation@4.5.0
+- pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-generation@4.50.0
+- pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-generation@4.50.1
+- pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-generation@4.51.1
+- pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-generation@4.52.0
+- pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-generation@4.52.1
 - pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-generation@4.6.0
 - pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-generation@4.6.1
 - pkg:maven/org.finos.legend.engine/legend-engine-extensions-collection-generation@4.6.2

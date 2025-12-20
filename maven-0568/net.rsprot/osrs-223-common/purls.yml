@@ -1,1 +1,2 @@
 - pkg:maven/net.rsprot/osrs-223-common@1.0.0-ALPHA-20240629?classifier=sources
+- pkg:maven/net.rsprot/osrs-223-common@1.0.0-ALPHA-20240803?classifier=sources

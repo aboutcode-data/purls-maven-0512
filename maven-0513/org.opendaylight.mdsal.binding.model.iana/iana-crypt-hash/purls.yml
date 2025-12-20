@@ -34,3 +34,6 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-crypt-hash@13.0.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-crypt-hash@13.0.4
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-crypt-hash@13.0.4?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-crypt-hash@14.0.0?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-crypt-hash@14.0.1
+- pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-crypt-hash@14.0.1?classifier=sources

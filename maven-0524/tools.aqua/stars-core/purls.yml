@@ -3,3 +3,4 @@
 - pkg:maven/tools.aqua/stars-core@0.2.2?classifier=sources
 - pkg:maven/tools.aqua/stars-core@0.2?classifier=sources
 - pkg:maven/tools.aqua/stars-core@0.3?classifier=sources
+- pkg:maven/tools.aqua/stars-core@0.4?classifier=sources

@@ -15,3 +15,4 @@
 - pkg:maven/top.redscorpion/redscorpion-crypto@0.2.6?classifier=sources
 - pkg:maven/top.redscorpion/redscorpion-crypto@0.2.7?classifier=sources
 - pkg:maven/top.redscorpion/redscorpion-crypto@0.2.8?classifier=sources
+- pkg:maven/top.redscorpion/redscorpion-crypto@0.2.9?classifier=sources

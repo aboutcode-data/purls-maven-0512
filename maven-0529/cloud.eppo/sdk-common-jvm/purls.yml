@@ -1,1 +1,2 @@
 - pkg:maven/cloud.eppo/sdk-common-jvm@1.0.0?classifier=sources
+- pkg:maven/cloud.eppo/sdk-common-jvm@2.0.0?classifier=sources

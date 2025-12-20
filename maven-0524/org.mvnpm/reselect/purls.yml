@@ -1,2 +1,3 @@
 - pkg:maven/org.mvnpm/reselect@4.1.8?classifier=sources
 - pkg:maven/org.mvnpm/reselect@5.1.0?classifier=sources
+- pkg:maven/org.mvnpm/reselect@5.1.1?classifier=sources

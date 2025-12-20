@@ -1,0 +1,2 @@
+- pkg:maven/net.apecloud/ape-js-obfuscator-maven-plugin@0.1.0-bate?classifier=sources
+- pkg:maven/net.apecloud/ape-js-obfuscator-maven-plugin@0.1.0-beta?classifier=sources

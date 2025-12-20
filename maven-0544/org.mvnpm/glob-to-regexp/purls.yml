@@ -1,0 +1,1 @@
+- pkg:maven/org.mvnpm/glob-to-regexp@0.4.1?classifier=sources

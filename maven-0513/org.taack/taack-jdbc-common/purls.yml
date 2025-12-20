@@ -14,3 +14,4 @@
 - pkg:maven/org.taack/taack-jdbc-common@0.4.1?classifier=sources
 - pkg:maven/org.taack/taack-jdbc-common@0.5.0?classifier=sources
 - pkg:maven/org.taack/taack-jdbc-common@0.5.1?classifier=sources
+- pkg:maven/org.taack/taack-jdbc-common@0.5.2?classifier=sources

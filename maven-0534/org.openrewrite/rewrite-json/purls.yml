@@ -135,6 +135,9 @@
 - pkg:maven/org.openrewrite/rewrite-json@8.28.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-json@8.29.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-json@8.3.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-json@8.30.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-json@8.31.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-json@8.32.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-json@8.4.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-json@8.4.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-json@8.4.2?classifier=sources

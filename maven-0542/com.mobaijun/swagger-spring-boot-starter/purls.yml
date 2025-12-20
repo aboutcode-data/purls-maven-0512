@@ -24,3 +24,5 @@
 - pkg:maven/com.mobaijun/swagger-spring-boot-starter@2.4.13?classifier=sources
 - pkg:maven/com.mobaijun/swagger-spring-boot-starter@2.7.0
 - pkg:maven/com.mobaijun/swagger-spring-boot-starter@2.7.0?classifier=sources
+- pkg:maven/com.mobaijun/swagger-spring-boot-starter@3.0.1
+- pkg:maven/com.mobaijun/swagger-spring-boot-starter@3.0.1?classifier=sources

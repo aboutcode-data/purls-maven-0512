@@ -27,3 +27,9 @@
 - pkg:maven/com.solace.connector.core.archetype/pubsubplus-connector-archetype@2.5.0?classifier=sources
 - pkg:maven/com.solace.connector.core.archetype/pubsubplus-connector-archetype@2.5.1?classifier=sources
 - pkg:maven/com.solace.connector.core.archetype/pubsubplus-connector-archetype@2.5.2?classifier=sources
+- pkg:maven/com.solace.connector.core.archetype/pubsubplus-connector-archetype@2.5.3?classifier=sources
+- pkg:maven/com.solace.connector.core.archetype/pubsubplus-connector-archetype@2.5.4?classifier=sources
+- pkg:maven/com.solace.connector.core.archetype/pubsubplus-connector-archetype@2.5.6?classifier=sources
+- pkg:maven/com.solace.connector.core.archetype/pubsubplus-connector-archetype@2.6.0?classifier=sources
+- pkg:maven/com.solace.connector.core.archetype/pubsubplus-connector-archetype@2.6.1?classifier=sources
+- pkg:maven/com.solace.connector.core.archetype/pubsubplus-connector-archetype@2.6.7?classifier=sources

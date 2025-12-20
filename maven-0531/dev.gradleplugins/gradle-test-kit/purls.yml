@@ -103,3 +103,4 @@
 - pkg:maven/dev.gradleplugins/gradle-test-kit@8.6?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-test-kit@8.7?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-test-kit@8.8?classifier=sources
+- pkg:maven/dev.gradleplugins/gradle-test-kit@8.9?classifier=sources

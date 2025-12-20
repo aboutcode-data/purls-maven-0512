@@ -1,0 +1,3 @@
+- pkg:maven/io.quarkus.qe/examples-quarkus-cli@1.5.0.Beta10
+- pkg:maven/io.quarkus.qe/examples-quarkus-cli@1.5.0.Beta11
+- pkg:maven/io.quarkus.qe/examples-quarkus-cli@1.5.0.Beta12

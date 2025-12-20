@@ -244,12 +244,16 @@
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.20.4-NeoForge-4.4.3?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.21-Common-5.0.0-beta0?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.21-Common-5.0.0-beta1?classifier=sources
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.21-Common-5.0.0?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.21-Fabric-5.0.0-beta0?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.21-Fabric-5.0.0-beta1?classifier=sources
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.21-Fabric-5.0.0?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.21-Forge-5.0.0-beta0?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.21-Forge-5.0.0-beta1?classifier=sources
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.21-Forge-5.0.0?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.21-NeoForge-5.0.0-beta0?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.21-NeoForge-5.0.0-beta1?classifier=sources
+- pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@1.21-NeoForge-5.0.0?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@Common-1.18.2-2.0?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@Fabric-1.18.2-2.0?classifier=sources
 - pkg:maven/com.yungnickyoung.minecraft.yungsapi/YungsApi@Forge-1.18.2-2.0?classifier=sources

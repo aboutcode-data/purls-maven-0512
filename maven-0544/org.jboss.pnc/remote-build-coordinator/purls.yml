@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.pnc/remote-build-coordinator@3.0.0
+- pkg:maven/org.jboss.pnc/remote-build-coordinator@3.0.0?classifier=sources

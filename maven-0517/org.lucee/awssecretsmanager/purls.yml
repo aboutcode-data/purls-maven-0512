@@ -4,3 +4,4 @@
 - pkg:maven/org.lucee/awssecretsmanager@1.11.877.0002L
 - pkg:maven/org.lucee/awssecretsmanager@1.12.454
 - pkg:maven/org.lucee/awssecretsmanager@1.12.455
+- pkg:maven/org.lucee/awssecretsmanager@1.12.758

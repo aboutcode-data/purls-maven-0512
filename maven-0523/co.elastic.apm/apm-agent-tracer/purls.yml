@@ -32,3 +32,5 @@
 - pkg:maven/co.elastic.apm/apm-agent-tracer@1.49.0?classifier=sources
 - pkg:maven/co.elastic.apm/apm-agent-tracer@1.50.0
 - pkg:maven/co.elastic.apm/apm-agent-tracer@1.50.0?classifier=sources
+- pkg:maven/co.elastic.apm/apm-agent-tracer@1.51.0
+- pkg:maven/co.elastic.apm/apm-agent-tracer@1.51.0?classifier=sources

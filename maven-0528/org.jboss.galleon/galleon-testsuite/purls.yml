@@ -55,6 +55,7 @@
 - pkg:maven/org.jboss.galleon/galleon-testsuite@5.1.0.Final
 - pkg:maven/org.jboss.galleon/galleon-testsuite@5.1.1.Final
 - pkg:maven/org.jboss.galleon/galleon-testsuite@5.1.2.Final
+- pkg:maven/org.jboss.galleon/galleon-testsuite@5.1.3.Final
 - pkg:maven/org.jboss.galleon/galleon-testsuite@5.2.0.Final
 - pkg:maven/org.jboss.galleon/galleon-testsuite@5.2.1.Final
 - pkg:maven/org.jboss.galleon/galleon-testsuite@5.2.2.Final
@@ -66,3 +67,4 @@
 - pkg:maven/org.jboss.galleon/galleon-testsuite@6.0.0.Beta6
 - pkg:maven/org.jboss.galleon/galleon-testsuite@6.0.0.Final
 - pkg:maven/org.jboss.galleon/galleon-testsuite@6.0.1.Final
+- pkg:maven/org.jboss.galleon/galleon-testsuite@6.0.2.Final

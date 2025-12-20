@@ -1,0 +1,4 @@
+- pkg:maven/io.circe/circe-yaml-scalayaml_3@0.15.3
+- pkg:maven/io.circe/circe-yaml-scalayaml_3@0.15.3?classifier=sources
+- pkg:maven/io.circe/circe-yaml-scalayaml_3@0.16.0
+- pkg:maven/io.circe/circe-yaml-scalayaml_3@0.16.0?classifier=sources

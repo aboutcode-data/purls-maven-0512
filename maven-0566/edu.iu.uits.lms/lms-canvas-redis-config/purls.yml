@@ -67,6 +67,8 @@
 - pkg:maven/edu.iu.uits.lms/lms-canvas-redis-config@5.2.34?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-redis-config@5.2.35
 - pkg:maven/edu.iu.uits.lms/lms-canvas-redis-config@5.2.35?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-redis-config@5.2.39
+- pkg:maven/edu.iu.uits.lms/lms-canvas-redis-config@5.2.39?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-redis-config@5.2.3?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-redis-config@5.2.4
 - pkg:maven/edu.iu.uits.lms/lms-canvas-redis-config@5.2.4?classifier=sources

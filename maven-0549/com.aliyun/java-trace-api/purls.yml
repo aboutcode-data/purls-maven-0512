@@ -1,0 +1,6 @@
+- pkg:maven/com.aliyun/java-trace-api@0.2.11-beta
+- pkg:maven/com.aliyun/java-trace-api@0.2.11-beta?classifier=sources
+- pkg:maven/com.aliyun/java-trace-api@0.2.12-beta
+- pkg:maven/com.aliyun/java-trace-api@0.2.12-beta?classifier=sources
+- pkg:maven/com.aliyun/java-trace-api@0.2.9-beta
+- pkg:maven/com.aliyun/java-trace-api@0.2.9-beta?classifier=sources

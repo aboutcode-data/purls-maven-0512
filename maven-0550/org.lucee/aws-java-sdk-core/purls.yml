@@ -6,3 +6,4 @@
 - pkg:maven/org.lucee/aws-java-sdk-core@1.12.347
 - pkg:maven/org.lucee/aws-java-sdk-core@1.12.454
 - pkg:maven/org.lucee/aws-java-sdk-core@1.12.455
+- pkg:maven/org.lucee/aws-java-sdk-core@1.12.758

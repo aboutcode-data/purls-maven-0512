@@ -114,6 +114,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-binary-authorization-v1beta1@0.5.8?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-binary-authorization-v1beta1@0.5.9
 - pkg:maven/com.google.api.grpc/proto-google-cloud-binary-authorization-v1beta1@0.5.9?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-binary-authorization-v1beta1@0.50.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-binary-authorization-v1beta1@0.50.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-binary-authorization-v1beta1@0.51.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-binary-authorization-v1beta1@0.51.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-binary-authorization-v1beta1@0.6.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-binary-authorization-v1beta1@0.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-binary-authorization-v1beta1@0.6.1

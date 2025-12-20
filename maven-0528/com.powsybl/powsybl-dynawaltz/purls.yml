@@ -48,3 +48,5 @@
 - pkg:maven/com.powsybl/powsybl-dynawaltz@2.5.0-alpha-2
 - pkg:maven/com.powsybl/powsybl-dynawaltz@2.5.0-alpha-2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-dynawaltz@2.5.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-dynawaltz@2.5.1
+- pkg:maven/com.powsybl/powsybl-dynawaltz@2.5.1?classifier=sources

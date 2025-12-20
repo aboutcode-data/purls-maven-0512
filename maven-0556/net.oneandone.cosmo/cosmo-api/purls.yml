@@ -218,3 +218,5 @@
 - pkg:maven/net.oneandone.cosmo/cosmo-api@6.0.1?classifier=sources
 - pkg:maven/net.oneandone.cosmo/cosmo-api@6.0.2
 - pkg:maven/net.oneandone.cosmo/cosmo-api@6.0.2?classifier=sources
+- pkg:maven/net.oneandone.cosmo/cosmo-api@7.0.2
+- pkg:maven/net.oneandone.cosmo/cosmo-api@7.0.2?classifier=sources

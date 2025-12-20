@@ -2,6 +2,8 @@
 - pkg:maven/io.github.pulquero.halyard/halyard-webapps@3.12?type=zip
 - pkg:maven/io.github.pulquero.halyard/halyard-webapps@3.13?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-webapps@3.13?type=zip
+- pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.10?classifier=sources
+- pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.10?type=zip
 - pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.1?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.1?type=zip
 - pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.2?classifier=sources
@@ -28,3 +30,5 @@
 - pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.9.3?type=zip
 - pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.9?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-webapps@4.9?type=zip
+- pkg:maven/io.github.pulquero.halyard/halyard-webapps@5.0?classifier=sources
+- pkg:maven/io.github.pulquero.halyard/halyard-webapps@5.0?type=zip

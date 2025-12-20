@@ -1,0 +1,2 @@
+- pkg:maven/org.clulab/processors_2.13@10.0.0
+- pkg:maven/org.clulab/processors_2.13@10.0.0?classifier=sources

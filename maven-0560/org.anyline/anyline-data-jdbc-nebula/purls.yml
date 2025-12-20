@@ -152,6 +152,14 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-20240707?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-20240708
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-20240708?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-20240709
+- pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-20240709?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-20240710
+- pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-20240710?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-20240711
+- pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-20240711?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-20240712
+- pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-20240712?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk17-20240501
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk17-20240501?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk17-20240505
@@ -218,6 +226,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk17-20240707?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk17-20240708
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk17-20240708?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk17-20240712
+- pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk17-20240712?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk21-20240501
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk21-20240501?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk21-20240505
@@ -294,3 +304,7 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk21-20240707?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk21-20240708
 - pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk21-20240708?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk21-20240710
+- pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk21-20240710?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk21-20240712
+- pkg:maven/org.anyline/anyline-data-jdbc-nebula@8.7.2-jdk21-20240712?classifier=sources

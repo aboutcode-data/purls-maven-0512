@@ -1,2 +1,3 @@
 - pkg:maven/at.hugob.plugin.library/config@1.0.0?classifier=sources
 - pkg:maven/at.hugob.plugin.library/config@1.1.0?classifier=sources
+- pkg:maven/at.hugob.plugin.library/config@1.1.1?classifier=sources

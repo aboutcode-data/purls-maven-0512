@@ -8,3 +8,5 @@
 - pkg:maven/io.github.sswroom/util@0.3.20240513?classifier=sources
 - pkg:maven/io.github.sswroom/util@0.3.20240531?classifier=sources
 - pkg:maven/io.github.sswroom/util@0.3.20240620?classifier=sources
+- pkg:maven/io.github.sswroom/util@0.3.20240711?classifier=sources
+- pkg:maven/io.github.sswroom/util@0.4.20240805?classifier=sources

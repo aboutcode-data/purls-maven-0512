@@ -2,3 +2,5 @@
 - pkg:maven/org.jitsi/jicoco@1.1-139-gc42fce4?classifier=sources
 - pkg:maven/org.jitsi/jicoco@1.1-140-g8f45a9f
 - pkg:maven/org.jitsi/jicoco@1.1-140-g8f45a9f?classifier=sources
+- pkg:maven/org.jitsi/jicoco@1.1-141-g30ec741
+- pkg:maven/org.jitsi/jicoco@1.1-141-g30ec741?classifier=sources

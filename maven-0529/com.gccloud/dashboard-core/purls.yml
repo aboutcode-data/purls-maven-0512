@@ -44,3 +44,5 @@
 - pkg:maven/com.gccloud/dashboard-core@1.0.1.2023110201.Alpha?classifier=sources
 - pkg:maven/com.gccloud/dashboard-core@1.0.1.2023122801.Alpha
 - pkg:maven/com.gccloud/dashboard-core@1.0.1.2023122801.Alpha?classifier=sources
+- pkg:maven/com.gccloud/dashboard-core@1.0.1.2024062701
+- pkg:maven/com.gccloud/dashboard-core@1.0.1.2024062701?classifier=sources

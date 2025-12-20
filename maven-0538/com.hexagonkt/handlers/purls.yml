@@ -58,3 +58,4 @@
 - pkg:maven/com.hexagonkt/handlers@3.5.2?classifier=sources
 - pkg:maven/com.hexagonkt/handlers@3.5.3?classifier=sources
 - pkg:maven/com.hexagonkt/handlers@3.6.0?classifier=sources
+- pkg:maven/com.hexagonkt/handlers@3.6.1?classifier=sources

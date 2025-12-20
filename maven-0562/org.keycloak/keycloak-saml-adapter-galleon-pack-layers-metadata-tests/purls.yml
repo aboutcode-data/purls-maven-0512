@@ -14,3 +14,4 @@
 - pkg:maven/org.keycloak/keycloak-saml-adapter-galleon-pack-layers-metadata-tests@24.0.5
 - pkg:maven/org.keycloak/keycloak-saml-adapter-galleon-pack-layers-metadata-tests@25.0.0
 - pkg:maven/org.keycloak/keycloak-saml-adapter-galleon-pack-layers-metadata-tests@25.0.1
+- pkg:maven/org.keycloak/keycloak-saml-adapter-galleon-pack-layers-metadata-tests@25.0.2

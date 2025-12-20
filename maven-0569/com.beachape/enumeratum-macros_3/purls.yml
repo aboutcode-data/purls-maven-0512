@@ -4,3 +4,5 @@
 - pkg:maven/com.beachape/enumeratum-macros_3@1.6.3?classifier=sources
 - pkg:maven/com.beachape/enumeratum-macros_3@1.6.4
 - pkg:maven/com.beachape/enumeratum-macros_3@1.6.4?classifier=sources
+- pkg:maven/com.beachape/enumeratum-macros_3@1.6.5
+- pkg:maven/com.beachape/enumeratum-macros_3@1.6.5?classifier=sources

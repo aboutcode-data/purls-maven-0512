@@ -3,5 +3,6 @@
 - pkg:maven/io.github.husnjak/igdb-api-jvm@1.0.7?classifier=sources
 - pkg:maven/io.github.husnjak/igdb-api-jvm@1.0.8?classifier=sources
 - pkg:maven/io.github.husnjak/igdb-api-jvm@1.1.0?classifier=sources
+- pkg:maven/io.github.husnjak/igdb-api-jvm@1.2.0?classifier=sources
 - pkg:maven/io.github.husnjak/igdb-api-jvm@4-test?classifier=sources
 - pkg:maven/io.github.husnjak/igdb-api-jvm@main-3903222596-1.0.9?classifier=sources

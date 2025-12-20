@@ -1,1 +1,2 @@
 - pkg:maven/io.github.yuanrui-mdt-info/lib_calendar_mc@1.0.0?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/lib_calendar_mc@1.0.3?classifier=sources

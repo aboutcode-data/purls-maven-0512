@@ -1,0 +1,2 @@
+- pkg:maven/fr.pacifista.api.web.vote.client/pacifista-web-vote-client@1.5.3.11
+- pkg:maven/fr.pacifista.api.web.vote.client/pacifista-web-vote-client@1.5.3.11?classifier=sources
