@@ -19,3 +19,4 @@
 - pkg:maven/io.github.tim06/basevpnprotocols@1.0.8?classifier=sources
 - pkg:maven/io.github.tim06/basevpnprotocols@1.0.9?classifier=sources
 - pkg:maven/io.github.tim06/basevpnprotocols@1.1.0?classifier=sources
+- pkg:maven/io.github.tim06/basevpnprotocols@1.1.1?classifier=sources

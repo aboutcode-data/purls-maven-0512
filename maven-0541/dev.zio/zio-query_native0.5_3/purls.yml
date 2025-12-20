@@ -1,0 +1,2 @@
+- pkg:maven/dev.zio/zio-query_native0.5_3@0.7.5
+- pkg:maven/dev.zio/zio-query_native0.5_3@0.7.5?classifier=sources

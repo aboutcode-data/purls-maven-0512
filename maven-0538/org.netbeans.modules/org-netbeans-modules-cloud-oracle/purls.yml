@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cloud-oracle@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cloud-oracle@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cloud-oracle@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-cloud-oracle@RELEASE230?classifier=sources

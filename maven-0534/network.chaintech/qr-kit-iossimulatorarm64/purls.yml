@@ -7,3 +7,5 @@
 - pkg:maven/network.chaintech/qr-kit-iossimulatorarm64@1.0.6?classifier=sources
 - pkg:maven/network.chaintech/qr-kit-iossimulatorarm64@1.0.7?classifier=sources
 - pkg:maven/network.chaintech/qr-kit-iossimulatorarm64@1.0.8?classifier=sources
+- pkg:maven/network.chaintech/qr-kit-iossimulatorarm64@1.0.9?classifier=sources
+- pkg:maven/network.chaintech/qr-kit-iossimulatorarm64@2.0.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-core@3.0.1?classifier=sources

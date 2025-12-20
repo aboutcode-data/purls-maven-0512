@@ -4,3 +4,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee10-platform@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee10-platform@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee10-platform@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee10-platform@RELEASE230?classifier=sources

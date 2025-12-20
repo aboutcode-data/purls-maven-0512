@@ -1,0 +1,2 @@
+- pkg:maven/org.commonjava.indy.service/indy-generic-proxy-service@2.0.2
+- pkg:maven/org.commonjava.indy.service/indy-generic-proxy-service@2.0.2?classifier=sources

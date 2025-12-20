@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-nbjunit@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-nbjunit@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-nbjunit@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-nbjunit@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-nbjunit@RELEASE90?classifier=sources

@@ -95,6 +95,8 @@
 - pkg:maven/org.elasticsearch/elasticsearch-nio@7.17.22?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-nio@7.17.23
 - pkg:maven/org.elasticsearch/elasticsearch-nio@7.17.23?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-nio@7.17.24
+- pkg:maven/org.elasticsearch/elasticsearch-nio@7.17.24?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-nio@7.17.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-nio@7.17.3
 - pkg:maven/org.elasticsearch/elasticsearch-nio@7.17.3?classifier=sources

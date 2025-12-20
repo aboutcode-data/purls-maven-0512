@@ -16,3 +16,4 @@
 - pkg:maven/io.trino/trino-opensearch@451?classifier=sources
 - pkg:maven/io.trino/trino-opensearch@452?classifier=sources
 - pkg:maven/io.trino/trino-opensearch@453?classifier=sources
+- pkg:maven/io.trino/trino-opensearch@454?classifier=sources

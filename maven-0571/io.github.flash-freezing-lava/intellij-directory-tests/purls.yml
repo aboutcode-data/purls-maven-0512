@@ -2,3 +2,4 @@
 - pkg:maven/io.github.flash-freezing-lava/intellij-directory-tests@0.2.2?classifier=sources
 - pkg:maven/io.github.flash-freezing-lava/intellij-directory-tests@0.3.0?classifier=sources
 - pkg:maven/io.github.flash-freezing-lava/intellij-directory-tests@0.4.0?classifier=sources
+- pkg:maven/io.github.flash-freezing-lava/intellij-directory-tests@0.5.0?classifier=sources

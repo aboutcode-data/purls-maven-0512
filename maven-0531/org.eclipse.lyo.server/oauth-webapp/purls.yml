@@ -30,3 +30,5 @@
 - pkg:maven/org.eclipse.lyo.server/oauth-webapp@5.1.1.Final?type=war
 - pkg:maven/org.eclipse.lyo.server/oauth-webapp@6.0.0.Alpha1?classifier=sources
 - pkg:maven/org.eclipse.lyo.server/oauth-webapp@6.0.0.Alpha1?type=war
+- pkg:maven/org.eclipse.lyo.server/oauth-webapp@6.0.0.CR?classifier=sources
+- pkg:maven/org.eclipse.lyo.server/oauth-webapp@6.0.0.CR?type=war

@@ -67,6 +67,8 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.0
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.0?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.1
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.10
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.10?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.1?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.2
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.2?classifier=sources
@@ -78,3 +80,9 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.5?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.6
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.6?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.7
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.7?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.8
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.8?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.9
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@6.9?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/org.mojoz/querease_2.12@6.2.2?classifier=sources
 - pkg:maven/org.mojoz/querease_2.12@6.3.0
 - pkg:maven/org.mojoz/querease_2.12@6.3.0?classifier=sources
+- pkg:maven/org.mojoz/querease_2.12@6.3.1
+- pkg:maven/org.mojoz/querease_2.12@6.3.1?classifier=sources

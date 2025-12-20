@@ -12,3 +12,5 @@
 - pkg:maven/top.remliyx.dbeasy/dbeasy-utils@1.0.5-RELEASE?classifier=sources
 - pkg:maven/top.remliyx.dbeasy/dbeasy-utils@1.0.6-RELEASE
 - pkg:maven/top.remliyx.dbeasy/dbeasy-utils@1.0.6-RELEASE?classifier=sources
+- pkg:maven/top.remliyx.dbeasy/dbeasy-utils@1.0.8-RELEASE
+- pkg:maven/top.remliyx.dbeasy/dbeasy-utils@1.0.8-RELEASE?classifier=sources

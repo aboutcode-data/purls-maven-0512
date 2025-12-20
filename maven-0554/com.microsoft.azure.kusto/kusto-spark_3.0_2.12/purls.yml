@@ -89,3 +89,4 @@
 - pkg:maven/com.microsoft.azure.kusto/kusto-spark_3.0_2.12@5.0.7?classifier=sources
 - pkg:maven/com.microsoft.azure.kusto/kusto-spark_3.0_2.12@5.0.8?classifier=sources
 - pkg:maven/com.microsoft.azure.kusto/kusto-spark_3.0_2.12@5.1.0?classifier=sources
+- pkg:maven/com.microsoft.azure.kusto/kusto-spark_3.0_2.12@5.2.2?classifier=sources

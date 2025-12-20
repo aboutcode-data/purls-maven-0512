@@ -37,3 +37,4 @@
 - pkg:maven/com.growingio.android/tracker@4.1.0?classifier=sources
 - pkg:maven/com.growingio.android/tracker@4.2.0?classifier=sources
 - pkg:maven/com.growingio.android/tracker@4.3.0?classifier=sources
+- pkg:maven/com.growingio.android/tracker@4.3.1?classifier=sources

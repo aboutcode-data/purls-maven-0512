@@ -26,6 +26,7 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-boot-resources@1.33.3-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-boot-resources@1.33.4-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-boot-resources@1.33.5-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-boot-resources@1.33.6-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-boot-resources@2.0.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-boot-resources@2.1.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-boot-resources@2.2.0-alpha?classifier=sources
@@ -33,3 +34,4 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-boot-resources@2.4.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-boot-resources@2.5.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-boot-resources@2.6.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-boot-resources@2.7.0-alpha?classifier=sources

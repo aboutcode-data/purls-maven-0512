@@ -1,4 +1,6 @@
 - pkg:maven/com.singlestore/singlestore-debezium-connector@0.1.5
 - pkg:maven/com.singlestore/singlestore-debezium-connector@0.1.5?classifier=sources
+- pkg:maven/com.singlestore/singlestore-debezium-connector@0.1.7
 - pkg:maven/com.singlestore/singlestore-debezium-connector@0.1.7-beta
 - pkg:maven/com.singlestore/singlestore-debezium-connector@0.1.7-beta?classifier=sources
+- pkg:maven/com.singlestore/singlestore-debezium-connector@0.1.7?classifier=sources

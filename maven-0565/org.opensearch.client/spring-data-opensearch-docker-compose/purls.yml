@@ -1,0 +1,1 @@
+- pkg:maven/org.opensearch.client/spring-data-opensearch-docker-compose@1.5.2?classifier=sources

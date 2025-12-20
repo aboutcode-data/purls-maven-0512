@@ -1,0 +1,4 @@
+- pkg:maven/org.httpobjects.websockets.test/httpobjects-websockets-test@0.55.0?classifier=sources
+- pkg:maven/org.httpobjects.websockets.test/httpobjects-websockets-test@1.0.0.pre1?classifier=sources
+- pkg:maven/org.httpobjects.websockets.test/httpobjects-websockets-test@1.0.0.pre3?classifier=sources
+- pkg:maven/org.httpobjects.websockets.test/httpobjects-websockets-test@1.0.0.pre4?classifier=sources

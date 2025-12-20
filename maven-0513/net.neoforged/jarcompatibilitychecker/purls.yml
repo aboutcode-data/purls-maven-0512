@@ -1,1 +1,2 @@
+- pkg:maven/net.neoforged/jarcompatibilitychecker@0.1.10?classifier=sources
 - pkg:maven/net.neoforged/jarcompatibilitychecker@0.1.9?classifier=sources

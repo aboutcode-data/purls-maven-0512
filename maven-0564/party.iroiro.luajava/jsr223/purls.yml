@@ -4,3 +4,4 @@
 - pkg:maven/party.iroiro.luajava/jsr223@3.5.0?classifier=sources
 - pkg:maven/party.iroiro.luajava/jsr223@4.0.0?classifier=sources
 - pkg:maven/party.iroiro.luajava/jsr223@4.0.1?classifier=sources
+- pkg:maven/party.iroiro.luajava/jsr223@4.0.2?classifier=sources

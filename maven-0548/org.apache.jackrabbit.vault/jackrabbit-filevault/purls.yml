@@ -34,3 +34,4 @@
 - pkg:maven/org.apache.jackrabbit.vault/jackrabbit-filevault@3.6.8?classifier=src&type=zip
 - pkg:maven/org.apache.jackrabbit.vault/jackrabbit-filevault@3.7.0?classifier=src&type=zip
 - pkg:maven/org.apache.jackrabbit.vault/jackrabbit-filevault@3.7.2?classifier=src&type=zip
+- pkg:maven/org.apache.jackrabbit.vault/jackrabbit-filevault@3.8.0?classifier=source-release&type=zip

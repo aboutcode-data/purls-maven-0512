@@ -4,3 +4,7 @@
 - pkg:maven/dev.ikm.jpms/roaringbitmap@0.9.31-r4?classifier=sources
 - pkg:maven/dev.ikm.jpms/roaringbitmap@0.9.31-r5
 - pkg:maven/dev.ikm.jpms/roaringbitmap@0.9.31-r5?classifier=sources
+- pkg:maven/dev.ikm.jpms/roaringbitmap@0.9.31-r6
+- pkg:maven/dev.ikm.jpms/roaringbitmap@0.9.31-r6?classifier=sources
+- pkg:maven/dev.ikm.jpms/roaringbitmap@0.9.31-r7
+- pkg:maven/dev.ikm.jpms/roaringbitmap@0.9.31-r7?classifier=sources

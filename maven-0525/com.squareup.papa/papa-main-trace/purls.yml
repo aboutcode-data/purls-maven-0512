@@ -1,0 +1,4 @@
+- pkg:maven/com.squareup.papa/papa-main-trace@0.19?classifier=sources
+- pkg:maven/com.squareup.papa/papa-main-trace@0.20?classifier=sources
+- pkg:maven/com.squareup.papa/papa-main-trace@0.21?classifier=sources
+- pkg:maven/com.squareup.papa/papa-main-trace@0.22?classifier=sources

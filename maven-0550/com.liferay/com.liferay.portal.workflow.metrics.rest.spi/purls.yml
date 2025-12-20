@@ -105,3 +105,5 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.spi@4.0.2
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.spi@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.spi@4.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.spi@4.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.spi@4.0.5?classifier=sources

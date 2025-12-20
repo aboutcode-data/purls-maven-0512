@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.external/isorelax@RELEASE200
 - pkg:maven/org.netbeans.external/isorelax@RELEASE210
 - pkg:maven/org.netbeans.external/isorelax@RELEASE220
+- pkg:maven/org.netbeans.external/isorelax@RELEASE230
 - pkg:maven/org.netbeans.external/isorelax@RELEASE90

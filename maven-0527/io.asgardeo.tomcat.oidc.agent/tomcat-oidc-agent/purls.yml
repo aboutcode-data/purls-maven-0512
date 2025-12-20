@@ -16,6 +16,7 @@
 - pkg:maven/io.asgardeo.tomcat.oidc.agent/tomcat-oidc-agent@0.1.26?classifier=source-release&type=zip
 - pkg:maven/io.asgardeo.tomcat.oidc.agent/tomcat-oidc-agent@0.1.27?classifier=source-release&type=zip
 - pkg:maven/io.asgardeo.tomcat.oidc.agent/tomcat-oidc-agent@0.1.28?classifier=source-release&type=zip
+- pkg:maven/io.asgardeo.tomcat.oidc.agent/tomcat-oidc-agent@0.1.29?classifier=source-release&type=zip
 - pkg:maven/io.asgardeo.tomcat.oidc.agent/tomcat-oidc-agent@0.1.5?classifier=source-release&type=zip
 - pkg:maven/io.asgardeo.tomcat.oidc.agent/tomcat-oidc-agent@0.1.6?classifier=source-release&type=zip
 - pkg:maven/io.asgardeo.tomcat.oidc.agent/tomcat-oidc-agent@0.1.7?classifier=source-release&type=zip

@@ -34,6 +34,8 @@
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-converter@0.22.0?classifier=sources
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-converter@0.23.0
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-converter@0.23.0?classifier=sources
+- pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-converter@0.24.0
+- pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-converter@0.24.0?classifier=sources
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-converter@0.3.0
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-converter@0.3.0?classifier=sources
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-converter@0.4.0

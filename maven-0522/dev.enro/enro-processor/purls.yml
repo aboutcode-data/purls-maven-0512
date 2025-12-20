@@ -82,3 +82,4 @@
 - pkg:maven/dev.enro/enro-processor@2.5.0?classifier=sources
 - pkg:maven/dev.enro/enro-processor@2.6.0?classifier=sources
 - pkg:maven/dev.enro/enro-processor@2.7.0?classifier=sources
+- pkg:maven/dev.enro/enro-processor@2.8.0-alpha01?classifier=sources

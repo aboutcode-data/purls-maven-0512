@@ -4,3 +4,5 @@
 - pkg:maven/com.mdsol/mauth-jvm-clients_2.13@16.0.1?classifier=sources
 - pkg:maven/com.mdsol/mauth-jvm-clients_2.13@16.1.0
 - pkg:maven/com.mdsol/mauth-jvm-clients_2.13@16.1.0?classifier=sources
+- pkg:maven/com.mdsol/mauth-jvm-clients_2.13@17.0.0
+- pkg:maven/com.mdsol/mauth-jvm-clients_2.13@17.0.0?classifier=sources

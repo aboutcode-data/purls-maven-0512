@@ -1,0 +1,6 @@
+- pkg:maven/it.netgrid/bauer-stream@1.1.0
+- pkg:maven/it.netgrid/bauer-stream@1.1.0?classifier=sources
+- pkg:maven/it.netgrid/bauer-stream@1.1.1
+- pkg:maven/it.netgrid/bauer-stream@1.1.1?classifier=sources
+- pkg:maven/it.netgrid/bauer-stream@1.1.2
+- pkg:maven/it.netgrid/bauer-stream@1.1.2?classifier=sources

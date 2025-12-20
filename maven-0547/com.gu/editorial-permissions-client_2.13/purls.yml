@@ -8,5 +8,7 @@
 - pkg:maven/com.gu/editorial-permissions-client_2.13@2.16.0?classifier=sources
 - pkg:maven/com.gu/editorial-permissions-client_2.13@2.9
 - pkg:maven/com.gu/editorial-permissions-client_2.13@2.9?classifier=sources
+- pkg:maven/com.gu/editorial-permissions-client_2.13@3.0.0
 - pkg:maven/com.gu/editorial-permissions-client_2.13@3.0.0-PREVIEW.pfpublish-skip-shared.2024-08-06T1436.c838bca0
 - pkg:maven/com.gu/editorial-permissions-client_2.13@3.0.0-PREVIEW.pfpublish-skip-shared.2024-08-06T1436.c838bca0?classifier=sources
+- pkg:maven/com.gu/editorial-permissions-client_2.13@3.0.0?classifier=sources

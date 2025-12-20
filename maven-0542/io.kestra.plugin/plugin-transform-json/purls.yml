@@ -1,0 +1,1 @@
+- pkg:maven/io.kestra.plugin/plugin-transform-json@0.18.0?classifier=sources

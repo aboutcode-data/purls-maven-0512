@@ -573,3 +573,8 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popper@2.11.8-pre.785?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popper@2.11.8-pre.786?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popper@2.11.8-pre.787?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popper@2.11.8-pre.788?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popper@2.11.8-pre.789?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popper@2.11.8-pre.790?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popper@2.11.8-pre.791?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popper@2.11.8-pre.792?classifier=sources

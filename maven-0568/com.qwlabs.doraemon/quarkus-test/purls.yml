@@ -1,3 +1,4 @@
+- pkg:maven/com.qwlabs.doraemon/quarkus-test@0.0.1?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/quarkus-test@0.2.130?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/quarkus-test@0.2.131?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/quarkus-test@0.2.132?classifier=sources
@@ -175,3 +176,5 @@
 - pkg:maven/com.qwlabs.doraemon/quarkus-test@0.2.351?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/quarkus-test@0.2.352?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/quarkus-test@0.2.354?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/quarkus-test@0.3.0.3.1?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/quarkus-test@0.3.0?classifier=sources

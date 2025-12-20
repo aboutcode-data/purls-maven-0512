@@ -252,3 +252,4 @@
 - pkg:maven/com.qwlabs.doraemon/quarkus-cache@0.2.97?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/quarkus-cache@0.2.98?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/quarkus-cache@0.2.99?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/quarkus-cache@0.3.0?classifier=sources

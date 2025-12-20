@@ -11,3 +11,4 @@
 - pkg:maven/org.fisco-bcos.java-sdk/fisco-bcos-java-sdk-v3@3.5.0?classifier=sources
 - pkg:maven/org.fisco-bcos.java-sdk/fisco-bcos-java-sdk-v3@3.6.0?classifier=sources
 - pkg:maven/org.fisco-bcos.java-sdk/fisco-bcos-java-sdk-v3@3.7.0?classifier=sources
+- pkg:maven/org.fisco-bcos.java-sdk/fisco-bcos-java-sdk-v3@3.8.0?classifier=sources

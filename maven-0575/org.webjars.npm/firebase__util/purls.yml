@@ -18,3 +18,4 @@
 - pkg:maven/org.webjars.npm/firebase__util@1.9.3?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__util@1.9.5-canary.666dddae0
 - pkg:maven/org.webjars.npm/firebase__util@1.9.5-canary.666dddae0?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__util@1.9.7

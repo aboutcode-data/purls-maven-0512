@@ -227,3 +227,4 @@
 - pkg:maven/org.apache.solr/solr-solrj@9.5.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-solrj@9.6.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-solrj@9.6.1?classifier=sources
+- pkg:maven/org.apache.solr/solr-solrj@9.7.0?classifier=sources

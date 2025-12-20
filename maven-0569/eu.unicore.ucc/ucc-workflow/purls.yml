@@ -1,0 +1,2 @@
+- pkg:maven/eu.unicore.ucc/ucc-workflow@2.7.0
+- pkg:maven/eu.unicore.ucc/ucc-workflow@2.7.0?classifier=sources

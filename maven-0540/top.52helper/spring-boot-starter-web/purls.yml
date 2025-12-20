@@ -1,1 +1,2 @@
 - pkg:maven/top.52helper/spring-boot-starter-web@1.0.0?classifier=sources
+- pkg:maven/top.52helper/spring-boot-starter-web@1.0.1?classifier=sources

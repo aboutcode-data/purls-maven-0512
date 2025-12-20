@@ -42,3 +42,5 @@
 - pkg:maven/chat.dim/TCP@0.3.7?classifier=sources
 - pkg:maven/chat.dim/TCP@0.3.8
 - pkg:maven/chat.dim/TCP@0.3.8?classifier=sources
+- pkg:maven/chat.dim/TCP@1.0.0
+- pkg:maven/chat.dim/TCP@1.0.0?classifier=sources

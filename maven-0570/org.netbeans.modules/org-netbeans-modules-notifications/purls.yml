@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-notifications@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-notifications@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-notifications@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-notifications@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-notifications@RELEASE90?classifier=sources

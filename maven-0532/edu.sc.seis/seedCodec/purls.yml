@@ -2,3 +2,4 @@
 - pkg:maven/edu.sc.seis/seedCodec@1.0.11?classifier=sources
 - pkg:maven/edu.sc.seis/seedCodec@1.1.0?classifier=sources
 - pkg:maven/edu.sc.seis/seedCodec@1.1.1?classifier=sources
+- pkg:maven/edu.sc.seis/seedCodec@1.2.0?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/ch.dfp/dddrive@1.0.34?classifier=sources
 - pkg:maven/ch.dfp/dddrive@1.0.35?classifier=sources
 - pkg:maven/ch.dfp/dddrive@1.0.36?classifier=sources
+- pkg:maven/ch.dfp/dddrive@1.0.38?classifier=sources

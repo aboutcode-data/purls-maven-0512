@@ -34,3 +34,5 @@
 - pkg:maven/io.joern/flatgraph-help_3@0.0.85?classifier=sources
 - pkg:maven/io.joern/flatgraph-help_3@0.0.86
 - pkg:maven/io.joern/flatgraph-help_3@0.0.86?classifier=sources
+- pkg:maven/io.joern/flatgraph-help_3@0.0.87
+- pkg:maven/io.joern/flatgraph-help_3@0.0.87?classifier=sources

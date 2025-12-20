@@ -37,3 +37,4 @@
 - pkg:maven/software.amazon.smithy/smithy-rules-engine@1.48.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-rules-engine@1.49.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-rules-engine@1.50.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-rules-engine@1.51.0?classifier=sources

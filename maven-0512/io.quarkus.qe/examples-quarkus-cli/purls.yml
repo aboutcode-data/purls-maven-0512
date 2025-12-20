@@ -1,3 +1,8 @@
+- pkg:maven/io.quarkus.qe/examples-quarkus-cli@1.4.9
+- pkg:maven/io.quarkus.qe/examples-quarkus-cli@1.5.0
 - pkg:maven/io.quarkus.qe/examples-quarkus-cli@1.5.0.Beta10
 - pkg:maven/io.quarkus.qe/examples-quarkus-cli@1.5.0.Beta11
 - pkg:maven/io.quarkus.qe/examples-quarkus-cli@1.5.0.Beta12
+- pkg:maven/io.quarkus.qe/examples-quarkus-cli@1.5.0.Beta13
+- pkg:maven/io.quarkus.qe/examples-quarkus-cli@1.5.0.Beta14
+- pkg:maven/io.quarkus.qe/examples-quarkus-cli@1.6.0.Beta1

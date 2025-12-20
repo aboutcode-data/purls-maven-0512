@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.config.metadata/helidon-config-metadata-codegen@4.1.0
+- pkg:maven/io.helidon.config.metadata/helidon-config-metadata-codegen@4.1.0?classifier=sources

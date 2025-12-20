@@ -10,3 +10,7 @@
 - pkg:maven/io.joern/ghidra@11.0_PUBLIC_20231222-2
 - pkg:maven/io.joern/ghidra@11.0_PUBLIC_20231222-2?classifier=sources
 - pkg:maven/io.joern/ghidra@11.0_PUBLIC_20231222?classifier=sources
+- pkg:maven/io.joern/ghidra@11.1.2_PUBLIC_20240709%2B1
+- pkg:maven/io.joern/ghidra@11.1.2_PUBLIC_20240709%2B1?classifier=sources
+- pkg:maven/io.joern/ghidra@11.1.2_PUBLIC_20240709-1
+- pkg:maven/io.joern/ghidra@11.1.2_PUBLIC_20240709-1?classifier=sources

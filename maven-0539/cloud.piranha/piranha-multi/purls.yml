@@ -1,0 +1,2 @@
+- pkg:maven/cloud.piranha/piranha-multi@24.8.0?classifier=sources
+- pkg:maven/cloud.piranha/piranha-multi@24.8.0?type=zip
