@@ -4,8 +4,12 @@
 - pkg:maven/io.horizen/sidechains-sdk@0.10.1?classifier=sources
 - pkg:maven/io.horizen/sidechains-sdk@0.11.0
 - pkg:maven/io.horizen/sidechains-sdk@0.11.0?classifier=sources
+- pkg:maven/io.horizen/sidechains-sdk@0.12.0
 - pkg:maven/io.horizen/sidechains-sdk@0.12.0-RC1
 - pkg:maven/io.horizen/sidechains-sdk@0.12.0-RC1?classifier=sources
+- pkg:maven/io.horizen/sidechains-sdk@0.12.0-RC2
+- pkg:maven/io.horizen/sidechains-sdk@0.12.0-RC2?classifier=sources
+- pkg:maven/io.horizen/sidechains-sdk@0.12.0?classifier=sources
 - pkg:maven/io.horizen/sidechains-sdk@0.2.2
 - pkg:maven/io.horizen/sidechains-sdk@0.2.2?classifier=sources
 - pkg:maven/io.horizen/sidechains-sdk@0.2.3

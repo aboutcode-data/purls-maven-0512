@@ -17,3 +17,4 @@
 - pkg:maven/org.moditect/moditect-maven-plugin@1.1.0?classifier=sources
 - pkg:maven/org.moditect/moditect-maven-plugin@1.2.0.Final?classifier=sources
 - pkg:maven/org.moditect/moditect-maven-plugin@1.2.1.Final?classifier=sources
+- pkg:maven/org.moditect/moditect-maven-plugin@1.2.2.Final?classifier=sources

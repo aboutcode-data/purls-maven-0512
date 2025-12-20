@@ -24,3 +24,5 @@
 - pkg:maven/io.github.mmstarry/spring-boot-multi-source@1.0.9-RELEASE?classifier=sources
 - pkg:maven/io.github.mmstarry/spring-boot-multi-source@1.1.1-RELEASE
 - pkg:maven/io.github.mmstarry/spring-boot-multi-source@1.1.1-RELEASE?classifier=sources
+- pkg:maven/io.github.mmstarry/spring-boot-multi-source@1.1.2-RELEASE
+- pkg:maven/io.github.mmstarry/spring-boot-multi-source@1.1.2-RELEASE?classifier=sources

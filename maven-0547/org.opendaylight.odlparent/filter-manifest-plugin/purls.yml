@@ -54,6 +54,7 @@
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@13.1.1?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@13.1.2?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@13.1.3?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@14.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@3.1.6
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@3.1.6?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/filter-manifest-plugin@3.1.7

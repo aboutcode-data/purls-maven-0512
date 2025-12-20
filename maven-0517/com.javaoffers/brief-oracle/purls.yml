@@ -1,0 +1,2 @@
+- pkg:maven/com.javaoffers/brief-oracle@3.6.5
+- pkg:maven/com.javaoffers/brief-oracle@3.6.5?classifier=sources

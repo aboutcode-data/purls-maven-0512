@@ -24,3 +24,5 @@
 - pkg:maven/com.aliyun/antirisk20221128@1.0.9?classifier=sources
 - pkg:maven/com.aliyun/antirisk20221128@1.1.0
 - pkg:maven/com.aliyun/antirisk20221128@1.1.0?classifier=sources
+- pkg:maven/com.aliyun/antirisk20221128@1.1.1
+- pkg:maven/com.aliyun/antirisk20221128@1.1.1?classifier=sources

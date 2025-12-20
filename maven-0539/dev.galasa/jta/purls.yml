@@ -1,1 +1,3 @@
 - pkg:maven/dev.galasa/jta@1.1
+- pkg:maven/dev.galasa/jta@1.2
+- pkg:maven/dev.galasa/jta@2.0.1

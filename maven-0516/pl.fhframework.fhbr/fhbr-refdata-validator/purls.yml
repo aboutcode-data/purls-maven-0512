@@ -4,3 +4,5 @@
 - pkg:maven/pl.fhframework.fhbr/fhbr-refdata-validator@4.10.4?classifier=sources
 - pkg:maven/pl.fhframework.fhbr/fhbr-refdata-validator@4.10.5
 - pkg:maven/pl.fhframework.fhbr/fhbr-refdata-validator@4.10.5?classifier=sources
+- pkg:maven/pl.fhframework.fhbr/fhbr-refdata-validator@4.10.7
+- pkg:maven/pl.fhframework.fhbr/fhbr-refdata-validator@4.10.7?classifier=sources

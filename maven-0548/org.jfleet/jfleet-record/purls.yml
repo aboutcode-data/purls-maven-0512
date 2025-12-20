@@ -1,2 +1,3 @@
 - pkg:maven/org.jfleet/jfleet-record@0.6.6?classifier=sources
 - pkg:maven/org.jfleet/jfleet-record@0.6.7?classifier=sources
+- pkg:maven/org.jfleet/jfleet-record@0.6.8?classifier=sources

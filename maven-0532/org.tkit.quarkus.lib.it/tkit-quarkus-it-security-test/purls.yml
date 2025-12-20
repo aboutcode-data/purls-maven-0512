@@ -1,0 +1,2 @@
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-security-test@2.27.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-security-test@2.27.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/br.com.dillmann.dynamicquery/dynamic-query-spring-boot-autoconfiguration@1.0.0?classifier=sources
+- pkg:maven/br.com.dillmann.dynamicquery/dynamic-query-spring-boot-autoconfiguration@1.1.0?classifier=sources

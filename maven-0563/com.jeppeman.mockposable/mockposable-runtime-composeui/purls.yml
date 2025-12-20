@@ -5,3 +5,4 @@
 - pkg:maven/com.jeppeman.mockposable/mockposable-runtime-composeui@0.6?classifier=sources
 - pkg:maven/com.jeppeman.mockposable/mockposable-runtime-composeui@0.7?classifier=sources
 - pkg:maven/com.jeppeman.mockposable/mockposable-runtime-composeui@0.8?classifier=sources
+- pkg:maven/com.jeppeman.mockposable/mockposable-runtime-composeui@0.9?classifier=sources

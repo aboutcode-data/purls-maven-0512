@@ -74,6 +74,8 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-http@4.20.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-http@4.21.0
 - pkg:maven/org.seleniumhq.selenium/selenium-http@4.21.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-http@4.22.0
+- pkg:maven/org.seleniumhq.selenium/selenium-http@4.22.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-http@4.3.0
 - pkg:maven/org.seleniumhq.selenium/selenium-http@4.3.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-http@4.4.0

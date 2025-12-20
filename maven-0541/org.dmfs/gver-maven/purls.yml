@@ -1,0 +1,2 @@
+- pkg:maven/org.dmfs/gver-maven@0.37.0?classifier=sources
+- pkg:maven/org.dmfs/gver-maven@0.38.0?classifier=sources

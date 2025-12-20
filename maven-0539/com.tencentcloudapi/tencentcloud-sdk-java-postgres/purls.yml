@@ -10,6 +10,10 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-postgres@1.1.6?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-postgres@3.1.1037
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-postgres@3.1.1037?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-postgres@3.1.1038
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-postgres@3.1.1038?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-postgres@3.1.1054
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-postgres@3.1.1054?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-postgres@3.1.179
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-postgres@3.1.179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-postgres@3.1.180

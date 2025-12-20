@@ -176,3 +176,4 @@
 - pkg:maven/net.sourceforge.svg2ico/svg2ico@2.3?classifier=sources
 - pkg:maven/net.sourceforge.svg2ico/svg2ico@2.4?classifier=sources
 - pkg:maven/net.sourceforge.svg2ico/svg2ico@2.5?classifier=sources
+- pkg:maven/net.sourceforge.svg2ico/svg2ico@2.6?classifier=sources

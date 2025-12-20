@@ -24,3 +24,5 @@
 - pkg:maven/io.gitee.jinceon/simple-ppt-engine@1.5.3?classifier=sources
 - pkg:maven/io.gitee.jinceon/simple-ppt-engine@1.6.0
 - pkg:maven/io.gitee.jinceon/simple-ppt-engine@1.6.0?classifier=sources
+- pkg:maven/io.gitee.jinceon/simple-ppt-engine@1.7.0
+- pkg:maven/io.gitee.jinceon/simple-ppt-engine@1.7.0?classifier=sources

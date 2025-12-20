@@ -24,3 +24,7 @@
 - pkg:maven/io.github.novakov-alexey/http4s-spnego_2.13@0.3.0-1-81ae684?classifier=sources
 - pkg:maven/io.github.novakov-alexey/http4s-spnego_2.13@0.3.0-68-fbb27c3
 - pkg:maven/io.github.novakov-alexey/http4s-spnego_2.13@0.3.0-68-fbb27c3?classifier=sources
+- pkg:maven/io.github.novakov-alexey/http4s-spnego_2.13@0.3.1
+- pkg:maven/io.github.novakov-alexey/http4s-spnego_2.13@0.3.1?classifier=sources
+- pkg:maven/io.github.novakov-alexey/http4s-spnego_2.13@push
+- pkg:maven/io.github.novakov-alexey/http4s-spnego_2.13@push?classifier=sources

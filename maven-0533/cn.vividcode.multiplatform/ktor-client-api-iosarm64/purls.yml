@@ -5,3 +5,4 @@
 - pkg:maven/cn.vividcode.multiplatform/ktor-client-api-iosarm64@2.3.11-1.0.3?classifier=sources
 - pkg:maven/cn.vividcode.multiplatform/ktor-client-api-iosarm64@2.3.11-1.0.4?classifier=sources
 - pkg:maven/cn.vividcode.multiplatform/ktor-client-api-iosarm64@2.3.11-1.1.0?classifier=sources
+- pkg:maven/cn.vividcode.multiplatform/ktor-client-api-iosarm64@2.3.11-1.1.1?classifier=sources

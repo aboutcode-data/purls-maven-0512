@@ -7,3 +7,4 @@
 - pkg:maven/io.pixeloutlaw.worldguard/adapter-7.0.x@3.4.3?classifier=sources
 - pkg:maven/io.pixeloutlaw.worldguard/adapter-7.0.x@3.4.4?classifier=sources
 - pkg:maven/io.pixeloutlaw.worldguard/adapter-7.0.x@4.0.0?classifier=sources
+- pkg:maven/io.pixeloutlaw.worldguard/adapter-7.0.x@5.0.0?classifier=sources

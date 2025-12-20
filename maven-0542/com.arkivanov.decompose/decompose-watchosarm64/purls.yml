@@ -111,3 +111,4 @@
 - pkg:maven/com.arkivanov.decompose/decompose-watchosarm64@3.0.0-alpha09?classifier=sources
 - pkg:maven/com.arkivanov.decompose/decompose-watchosarm64@3.0.0-beta01?classifier=sources
 - pkg:maven/com.arkivanov.decompose/decompose-watchosarm64@3.0.0?classifier=sources
+- pkg:maven/com.arkivanov.decompose/decompose-watchosarm64@3.1.0?classifier=sources

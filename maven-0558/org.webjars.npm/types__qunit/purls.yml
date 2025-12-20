@@ -1,3 +1,4 @@
+- pkg:maven/org.webjars.npm/types__qunit@2.19.10
 - pkg:maven/org.webjars.npm/types__qunit@2.19.5
 - pkg:maven/org.webjars.npm/types__qunit@2.19.5?classifier=sources
 - pkg:maven/org.webjars.npm/types__qunit@2.19.8

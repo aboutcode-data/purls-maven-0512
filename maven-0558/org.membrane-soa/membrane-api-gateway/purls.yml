@@ -12,3 +12,7 @@
 - pkg:maven/org.membrane-soa/membrane-api-gateway@5.5.1?type=zip
 - pkg:maven/org.membrane-soa/membrane-api-gateway@5.5.2?classifier=sources
 - pkg:maven/org.membrane-soa/membrane-api-gateway@5.5.2?type=zip
+- pkg:maven/org.membrane-soa/membrane-api-gateway@5.5.3?classifier=sources
+- pkg:maven/org.membrane-soa/membrane-api-gateway@5.5.3?type=zip
+- pkg:maven/org.membrane-soa/membrane-api-gateway@5.5.4?classifier=sources
+- pkg:maven/org.membrane-soa/membrane-api-gateway@5.5.4?type=zip

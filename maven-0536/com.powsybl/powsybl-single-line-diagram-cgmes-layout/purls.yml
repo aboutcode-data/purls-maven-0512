@@ -86,3 +86,5 @@
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-cgmes-layout@4.3.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-cgmes-layout@4.4.0
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-cgmes-layout@4.4.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-cgmes-layout@4.5.0
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-cgmes-layout@4.5.0?classifier=sources

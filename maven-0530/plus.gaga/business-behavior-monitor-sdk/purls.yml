@@ -1,0 +1,4 @@
+- pkg:maven/plus.gaga/business-behavior-monitor-sdk@1.0
+- pkg:maven/plus.gaga/business-behavior-monitor-sdk@1.0?classifier=sources
+- pkg:maven/plus.gaga/business-behavior-monitor-sdk@1.1
+- pkg:maven/plus.gaga/business-behavior-monitor-sdk@1.1?classifier=sources

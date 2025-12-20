@@ -1,0 +1,2 @@
+- pkg:maven/com.yookue.springstarter/dynamic-datasource-spring-boot-starter@2.7.18
+- pkg:maven/com.yookue.springstarter/dynamic-datasource-spring-boot-starter@2.7.18?classifier=sources

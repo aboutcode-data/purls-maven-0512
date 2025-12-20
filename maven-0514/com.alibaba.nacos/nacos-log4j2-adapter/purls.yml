@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.nacos/nacos-log4j2-adapter@2.4.0-BETA
+- pkg:maven/com.alibaba.nacos/nacos-log4j2-adapter@2.4.0-BETA?classifier=sources

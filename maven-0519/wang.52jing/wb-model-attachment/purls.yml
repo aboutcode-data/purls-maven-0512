@@ -1,0 +1,2 @@
+- pkg:maven/wang.52jing/wb-model-attachment@0.4.0?classifier=sources
+- pkg:maven/wang.52jing/wb-model-attachment@0.5.0?classifier=sources

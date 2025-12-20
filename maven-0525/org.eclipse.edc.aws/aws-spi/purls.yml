@@ -1,0 +1,1 @@
+- pkg:maven/org.eclipse.edc.aws/aws-spi@0.7.1?classifier=sources

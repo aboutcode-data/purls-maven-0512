@@ -1,0 +1,2 @@
+- pkg:maven/de.fabmax.kool/kool-editor-model@0.15.0?classifier=sources
+- pkg:maven/de.fabmax.kool/kool-editor-model@0.15.1?classifier=sources

@@ -138,3 +138,5 @@
 - pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.production@1.9.0?classifier=sources
 - pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.production@2.0.0
 - pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.production@2.0.0?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.production@2.0.1
+- pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.production@2.0.1?classifier=sources

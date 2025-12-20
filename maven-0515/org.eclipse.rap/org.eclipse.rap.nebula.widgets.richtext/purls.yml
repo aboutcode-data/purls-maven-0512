@@ -36,5 +36,7 @@
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.richtext@3.27.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.richtext@3.28.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.richtext@3.28.0?classifier=sources
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.richtext@3.29.0
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.richtext@3.29.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.richtext@3.9.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.richtext@3.9.0?classifier=sources

@@ -13,3 +13,4 @@
 - pkg:maven/com.yandex.android/authsdk@2.5.1?classifier=sources
 - pkg:maven/com.yandex.android/authsdk@3.0.0?classifier=sources
 - pkg:maven/com.yandex.android/authsdk@3.1.0?classifier=sources
+- pkg:maven/com.yandex.android/authsdk@3.1.1?classifier=sources

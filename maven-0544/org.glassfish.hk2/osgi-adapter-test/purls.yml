@@ -338,3 +338,7 @@
 - pkg:maven/org.glassfish.hk2/osgi-adapter-test@2.6.0?classifier=sources
 - pkg:maven/org.glassfish.hk2/osgi-adapter-test@2.6.1
 - pkg:maven/org.glassfish.hk2/osgi-adapter-test@2.6.1?classifier=sources
+- pkg:maven/org.glassfish.hk2/osgi-adapter-test@3.1.1
+- pkg:maven/org.glassfish.hk2/osgi-adapter-test@3.1.1?classifier=sources
+- pkg:maven/org.glassfish.hk2/osgi-adapter-test@4.0.0-M3
+- pkg:maven/org.glassfish.hk2/osgi-adapter-test@4.0.0-M3?classifier=sources

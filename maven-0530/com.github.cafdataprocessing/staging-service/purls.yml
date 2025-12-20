@@ -30,3 +30,5 @@
 - pkg:maven/com.github.cafdataprocessing/staging-service@3.0.1-1086?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/staging-service@3.0.2-3
 - pkg:maven/com.github.cafdataprocessing/staging-service@3.0.2-3?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/staging-service@3.1.0-1124
+- pkg:maven/com.github.cafdataprocessing/staging-service@3.1.0-1124?classifier=sources

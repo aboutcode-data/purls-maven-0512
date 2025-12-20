@@ -61,3 +61,4 @@
 - pkg:maven/no.priv.bang.oldalbum/docker@1.9.8
 - pkg:maven/no.priv.bang.oldalbum/docker@1.9.9
 - pkg:maven/no.priv.bang.oldalbum/docker@2.0.0
+- pkg:maven/no.priv.bang.oldalbum/docker@2.0.1

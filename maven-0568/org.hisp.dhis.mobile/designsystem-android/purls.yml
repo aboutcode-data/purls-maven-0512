@@ -1,1 +1,2 @@
+- pkg:maven/org.hisp.dhis.mobile/designsystem-android@0.2.1?classifier=sources
 - pkg:maven/org.hisp.dhis.mobile/designsystem-android@0.2?classifier=sources

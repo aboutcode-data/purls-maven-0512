@@ -25,3 +25,4 @@
 - pkg:maven/app.softwork/bootstrap-compose@0.0.52-dev670?classifier=sources
 - pkg:maven/app.softwork/bootstrap-compose@0.1.15?classifier=sources
 - pkg:maven/app.softwork/bootstrap-compose@0.2.0?classifier=sources
+- pkg:maven/app.softwork/bootstrap-compose@0.2.1?classifier=sources

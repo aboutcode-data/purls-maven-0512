@@ -1,0 +1,2 @@
+- pkg:maven/com.alcosi.nft/nft-api-gateway@15.0-RELEASE
+- pkg:maven/com.alcosi.nft/nft-api-gateway@15.0-RELEASE?classifier=sources

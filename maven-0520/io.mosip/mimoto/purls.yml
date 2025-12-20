@@ -4,6 +4,8 @@
 - pkg:maven/io.mosip/mimoto@0.11.0?classifier=sources
 - pkg:maven/io.mosip/mimoto@0.12.0
 - pkg:maven/io.mosip/mimoto@0.12.0?classifier=sources
+- pkg:maven/io.mosip/mimoto@0.13.0
+- pkg:maven/io.mosip/mimoto@0.13.0?classifier=sources
 - pkg:maven/io.mosip/mimoto@0.9
 - pkg:maven/io.mosip/mimoto@0.9.1
 - pkg:maven/io.mosip/mimoto@0.9.1?classifier=sources

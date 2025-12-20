@@ -1,0 +1,2 @@
+- pkg:maven/dev.langchain4j/langchian4j-elasticsearch-spring-boot-starter@0.32.0
+- pkg:maven/dev.langchain4j/langchian4j-elasticsearch-spring-boot-starter@0.32.0?classifier=sources

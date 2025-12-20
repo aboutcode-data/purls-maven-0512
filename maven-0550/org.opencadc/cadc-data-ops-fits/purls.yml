@@ -10,3 +10,4 @@
 - pkg:maven/org.opencadc/cadc-data-ops-fits@0.2.8?classifier=sources
 - pkg:maven/org.opencadc/cadc-data-ops-fits@0.2.9?classifier=sources
 - pkg:maven/org.opencadc/cadc-data-ops-fits@0.3.0?classifier=sources
+- pkg:maven/org.opencadc/cadc-data-ops-fits@0.4.0?classifier=sources

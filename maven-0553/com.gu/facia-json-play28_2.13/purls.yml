@@ -82,3 +82,5 @@
 - pkg:maven/com.gu/facia-json-play28_2.13@6.0.0?classifier=sources
 - pkg:maven/com.gu/facia-json-play28_2.13@7.0.0
 - pkg:maven/com.gu/facia-json-play28_2.13@7.0.0?classifier=sources
+- pkg:maven/com.gu/facia-json-play28_2.13@8.0.0
+- pkg:maven/com.gu/facia-json-play28_2.13@8.0.0?classifier=sources

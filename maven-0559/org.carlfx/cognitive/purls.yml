@@ -1,1 +1,2 @@
 - pkg:maven/org.carlfx/cognitive@1.0.0?classifier=sources
+- pkg:maven/org.carlfx/cognitive@1.1.0?classifier=sources

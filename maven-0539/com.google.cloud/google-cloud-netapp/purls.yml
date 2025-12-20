@@ -32,6 +32,8 @@
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.23.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.24.0
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.24.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-netapp@0.25.0
+- pkg:maven/com.google.cloud/google-cloud-netapp@0.25.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.3.0
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.6.0

@@ -1,0 +1,4 @@
+- pkg:maven/com.yookue.forkextension.p6spy/p6spy@3.9.1
+- pkg:maven/com.yookue.forkextension.p6spy/p6spy@3.9.1?classifier=sources
+- pkg:maven/com.yookue.forkextension.p6spy/p6spy@3.9.2
+- pkg:maven/com.yookue.forkextension.p6spy/p6spy@3.9.2?classifier=sources

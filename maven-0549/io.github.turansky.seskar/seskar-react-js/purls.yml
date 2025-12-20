@@ -70,3 +70,6 @@
 - pkg:maven/io.github.turansky.seskar/seskar-react-js@2.75.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-react-js@2.77.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-react-js@2.80.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-react-js@3.0.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-react-js@3.0.1?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-react-js@3.2.0?classifier=sources

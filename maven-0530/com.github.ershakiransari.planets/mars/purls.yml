@@ -194,3 +194,13 @@
 - pkg:maven/com.github.ershakiransari.planets/mars@2024.06.08?classifier=sources
 - pkg:maven/com.github.ershakiransari.planets/mars@2024.06.09
 - pkg:maven/com.github.ershakiransari.planets/mars@2024.06.09?classifier=sources
+- pkg:maven/com.github.ershakiransari.planets/mars@2024.06.10
+- pkg:maven/com.github.ershakiransari.planets/mars@2024.06.10?classifier=sources
+- pkg:maven/com.github.ershakiransari.planets/mars@2024.06.11
+- pkg:maven/com.github.ershakiransari.planets/mars@2024.06.11?classifier=sources
+- pkg:maven/com.github.ershakiransari.planets/mars@2024.06.12
+- pkg:maven/com.github.ershakiransari.planets/mars@2024.06.12?classifier=sources
+- pkg:maven/com.github.ershakiransari.planets/mars@2024.06.13
+- pkg:maven/com.github.ershakiransari.planets/mars@2024.06.13?classifier=sources
+- pkg:maven/com.github.ershakiransari.planets/mars@2024.06.14
+- pkg:maven/com.github.ershakiransari.planets/mars@2024.06.14?classifier=sources

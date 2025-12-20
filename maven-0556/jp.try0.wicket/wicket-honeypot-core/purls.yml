@@ -1,0 +1,6 @@
+- pkg:maven/jp.try0.wicket/wicket-honeypot-core@1.0.0
+- pkg:maven/jp.try0.wicket/wicket-honeypot-core@1.0.0?classifier=sources
+- pkg:maven/jp.try0.wicket/wicket-honeypot-core@2.0.0
+- pkg:maven/jp.try0.wicket/wicket-honeypot-core@2.0.0?classifier=sources
+- pkg:maven/jp.try0.wicket/wicket-honeypot-core@3.0.0
+- pkg:maven/jp.try0.wicket/wicket-honeypot-core@3.0.0?classifier=sources

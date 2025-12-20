@@ -12,3 +12,4 @@
 - pkg:maven/net.corda/corda-opentelemetry@4.11.3
 - pkg:maven/net.corda/corda-opentelemetry@4.11.3?classifier=sources
 - pkg:maven/net.corda/corda-opentelemetry@4.11?classifier=sources
+- pkg:maven/net.corda/corda-opentelemetry@4.12?classifier=sources

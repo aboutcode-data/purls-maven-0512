@@ -24,3 +24,5 @@
 - pkg:maven/tech.ytsaurus/spark-yt-file-system_2.12@1.78.0?classifier=sources
 - pkg:maven/tech.ytsaurus/spark-yt-file-system_2.12@2.0.0
 - pkg:maven/tech.ytsaurus/spark-yt-file-system_2.12@2.0.0?classifier=sources
+- pkg:maven/tech.ytsaurus/spark-yt-file-system_2.12@2.1.0
+- pkg:maven/tech.ytsaurus/spark-yt-file-system_2.12@2.1.0?classifier=sources

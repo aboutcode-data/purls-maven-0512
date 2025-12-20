@@ -36,3 +36,5 @@
 - pkg:maven/com.safecharge/safecharge-sdk-java@1.7.6?classifier=sources
 - pkg:maven/com.safecharge/safecharge-sdk-java@1.7.7
 - pkg:maven/com.safecharge/safecharge-sdk-java@1.7.7?classifier=sources
+- pkg:maven/com.safecharge/safecharge-sdk-java@1.7.8
+- pkg:maven/com.safecharge/safecharge-sdk-java@1.7.8?classifier=sources

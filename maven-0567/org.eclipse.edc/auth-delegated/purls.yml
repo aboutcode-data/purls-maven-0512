@@ -1,0 +1,1 @@
+- pkg:maven/org.eclipse.edc/auth-delegated@0.7.1?classifier=sources
