@@ -2,3 +2,7 @@
 - pkg:maven/systems.aesel/common-sm@0.3?classifier=sources
 - pkg:maven/systems.aesel/common-sm@0.4
 - pkg:maven/systems.aesel/common-sm@0.4?classifier=sources
+- pkg:maven/systems.aesel/common-sm@0.5.0
+- pkg:maven/systems.aesel/common-sm@0.5.0?classifier=sources
+- pkg:maven/systems.aesel/common-sm@0.5.1
+- pkg:maven/systems.aesel/common-sm@0.5.1?classifier=sources

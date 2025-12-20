@@ -186,6 +186,11 @@
 - pkg:maven/com.github.bibsysdev/s3@1.31.4?classifier=sources
 - pkg:maven/com.github.bibsysdev/s3@1.31.5?classifier=sources
 - pkg:maven/com.github.bibsysdev/s3@1.31.7?classifier=sources
+- pkg:maven/com.github.bibsysdev/s3@1.31.8?classifier=sources
+- pkg:maven/com.github.bibsysdev/s3@1.31.9?classifier=sources
+- pkg:maven/com.github.bibsysdev/s3@1.32.0?classifier=sources
+- pkg:maven/com.github.bibsysdev/s3@1.33.0?classifier=sources
+- pkg:maven/com.github.bibsysdev/s3@1.34.0?classifier=sources
 - pkg:maven/com.github.bibsysdev/s3@1.4.0?classifier=sources
 - pkg:maven/com.github.bibsysdev/s3@1.4.1?classifier=sources
 - pkg:maven/com.github.bibsysdev/s3@1.5.0?classifier=sources

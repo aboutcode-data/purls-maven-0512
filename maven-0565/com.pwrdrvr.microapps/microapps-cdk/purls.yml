@@ -78,3 +78,5 @@
 - pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.4.0-alpha.8?classifier=sources
 - pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.4.0-alpha.9
 - pkg:maven/com.pwrdrvr.microapps/microapps-cdk@0.4.0-alpha.9?classifier=sources
+- pkg:maven/com.pwrdrvr.microapps/microapps-cdk@1.0.0
+- pkg:maven/com.pwrdrvr.microapps/microapps-cdk@1.0.0?classifier=sources

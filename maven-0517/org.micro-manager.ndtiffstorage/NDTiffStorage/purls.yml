@@ -16,6 +16,12 @@
 - pkg:maven/org.micro-manager.ndtiffstorage/NDTiffStorage@2.13.2?classifier=sources
 - pkg:maven/org.micro-manager.ndtiffstorage/NDTiffStorage@2.14.0
 - pkg:maven/org.micro-manager.ndtiffstorage/NDTiffStorage@2.14.0?classifier=sources
+- pkg:maven/org.micro-manager.ndtiffstorage/NDTiffStorage@2.15.0
+- pkg:maven/org.micro-manager.ndtiffstorage/NDTiffStorage@2.15.0?classifier=sources
+- pkg:maven/org.micro-manager.ndtiffstorage/NDTiffStorage@2.15.1
+- pkg:maven/org.micro-manager.ndtiffstorage/NDTiffStorage@2.15.1?classifier=sources
+- pkg:maven/org.micro-manager.ndtiffstorage/NDTiffStorage@2.15.2
+- pkg:maven/org.micro-manager.ndtiffstorage/NDTiffStorage@2.15.2?classifier=sources
 - pkg:maven/org.micro-manager.ndtiffstorage/NDTiffStorage@2.4.10
 - pkg:maven/org.micro-manager.ndtiffstorage/NDTiffStorage@2.4.10?classifier=sources
 - pkg:maven/org.micro-manager.ndtiffstorage/NDTiffStorage@2.4.11

@@ -1,3 +1,5 @@
+- pkg:maven/com.tomczyn/state-in-merge@0.0.1?classifier=sources
+- pkg:maven/com.tomczyn/state-in-merge@0.0.2?classifier=sources
 - pkg:maven/com.tomczyn/state-in-merge@1.0.1?classifier=sources
 - pkg:maven/com.tomczyn/state-in-merge@1.0.2?classifier=sources
 - pkg:maven/com.tomczyn/state-in-merge@1.0.3?classifier=sources

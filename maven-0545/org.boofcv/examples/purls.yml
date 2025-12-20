@@ -24,3 +24,5 @@
 - pkg:maven/org.boofcv/examples@0.43?classifier=sources
 - pkg:maven/org.boofcv/examples@0.44?classifier=sources
 - pkg:maven/org.boofcv/examples@1.0.0?classifier=sources
+- pkg:maven/org.boofcv/examples@1.1.0?classifier=sources
+- pkg:maven/org.boofcv/examples@1.1.1?classifier=sources

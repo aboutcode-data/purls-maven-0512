@@ -1,0 +1,6 @@
+- pkg:maven/com.kohlschutter.retrolambda/retrolambda-maven-plugin@2.5.8
+- pkg:maven/com.kohlschutter.retrolambda/retrolambda-maven-plugin@2.5.8.1
+- pkg:maven/com.kohlschutter.retrolambda/retrolambda-maven-plugin@2.5.8.1?classifier=sources
+- pkg:maven/com.kohlschutter.retrolambda/retrolambda-maven-plugin@2.5.8.2
+- pkg:maven/com.kohlschutter.retrolambda/retrolambda-maven-plugin@2.5.8.2?classifier=sources
+- pkg:maven/com.kohlschutter.retrolambda/retrolambda-maven-plugin@2.5.8?classifier=sources

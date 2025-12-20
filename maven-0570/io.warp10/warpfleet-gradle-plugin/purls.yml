@@ -1,1 +1,2 @@
 - pkg:maven/io.warp10/warpfleet-gradle-plugin@0.0.3?classifier=sources
+- pkg:maven/io.warp10/warpfleet-gradle-plugin@0.0.4?classifier=sources

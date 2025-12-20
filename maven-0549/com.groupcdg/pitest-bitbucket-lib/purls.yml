@@ -22,3 +22,4 @@
 - pkg:maven/com.groupcdg/pitest-bitbucket-lib@1.0.9
 - pkg:maven/com.groupcdg/pitest-bitbucket-lib@1.1.0
 - pkg:maven/com.groupcdg/pitest-bitbucket-lib@1.1.1
+- pkg:maven/com.groupcdg/pitest-bitbucket-lib@1.1.2

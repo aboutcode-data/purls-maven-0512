@@ -16,6 +16,7 @@
 - pkg:maven/com.liferay/com.liferay.sharepoint.connector@2.0.14
 - pkg:maven/com.liferay/com.liferay.sharepoint.connector@2.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharepoint.connector@2.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharepoint.connector@2.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharepoint.connector@3.0.10
 - pkg:maven/com.liferay/com.liferay.sharepoint.connector@3.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharepoint.connector@3.0.10?classifier=sources-commercial

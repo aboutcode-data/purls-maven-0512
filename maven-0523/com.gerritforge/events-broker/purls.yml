@@ -54,6 +54,8 @@
 - pkg:maven/com.gerritforge/events-broker@3.4.0.4
 - pkg:maven/com.gerritforge/events-broker@3.4.0.4?classifier=sources
 - pkg:maven/com.gerritforge/events-broker@3.4.0?classifier=sources
+- pkg:maven/com.gerritforge/events-broker@3.4.8
+- pkg:maven/com.gerritforge/events-broker@3.4.8?classifier=sources
 - pkg:maven/com.gerritforge/events-broker@3.5.0-alpha-202104150134
 - pkg:maven/com.gerritforge/events-broker@3.5.0-alpha-202104150134?classifier=sources
 - pkg:maven/com.gerritforge/events-broker@3.5.0-alpha-202104260849

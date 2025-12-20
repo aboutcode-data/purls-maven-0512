@@ -191,6 +191,10 @@
 - pkg:maven/com.teamscale/teamscale-config@8.9.11?classifier=sources
 - pkg:maven/com.teamscale/teamscale-config@8.9.12?classifier=sources
 - pkg:maven/com.teamscale/teamscale-config@8.9.13?classifier=sources
+- pkg:maven/com.teamscale/teamscale-config@8.9.14?classifier=sources
+- pkg:maven/com.teamscale/teamscale-config@8.9.15?classifier=sources
+- pkg:maven/com.teamscale/teamscale-config@8.9.16?classifier=sources
+- pkg:maven/com.teamscale/teamscale-config@8.9.17?classifier=sources
 - pkg:maven/com.teamscale/teamscale-config@8.9.1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-config@8.9.2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-config@8.9.3?classifier=sources

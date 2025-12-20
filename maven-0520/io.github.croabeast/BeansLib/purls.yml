@@ -94,3 +94,17 @@
 - pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-74?classifier=sources
 - pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-75
 - pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-75?classifier=sources
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-82
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-82?classifier=sources
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-83
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-83?classifier=sources
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-88
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-88?classifier=sources
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-89
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-89?classifier=sources
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-92
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-92?classifier=sources
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-93
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-93?classifier=sources
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-94
+- pkg:maven/io.github.croabeast/BeansLib@1.4-SNAPSHOT-94?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.kotlinx/yview@1.1.1?classifier=sources
+- pkg:maven/com.kotlinx/yview@1.1.2?classifier=sources

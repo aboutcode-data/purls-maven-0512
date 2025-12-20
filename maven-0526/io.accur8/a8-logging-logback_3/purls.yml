@@ -1,0 +1,2 @@
+- pkg:maven/io.accur8/a8-logging-logback_3@1.0.0-20230922_1806_master
+- pkg:maven/io.accur8/a8-logging-logback_3@1.0.0-20230922_1806_master?classifier=sources

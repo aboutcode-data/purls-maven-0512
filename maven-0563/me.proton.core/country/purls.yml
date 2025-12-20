@@ -29,6 +29,9 @@
 - pkg:maven/me.proton.core/country@14.1.0?classifier=sources
 - pkg:maven/me.proton.core/country@15.0.0?classifier=sources
 - pkg:maven/me.proton.core/country@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/country@16.0.0?classifier=sources
+- pkg:maven/me.proton.core/country@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/country@17.0.0?classifier=sources
 - pkg:maven/me.proton.core/country@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/country@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/country@3.0.0?classifier=sources

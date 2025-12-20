@@ -1,0 +1,2 @@
+- pkg:maven/io.github.block-chen/blocksdk-java@3.0.0
+- pkg:maven/io.github.block-chen/blocksdk-java@3.0.0?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/com.powsybl/powsybl-dynawaltz@1.8.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-dynawaltz@1.9.0
 - pkg:maven/com.powsybl/powsybl-dynawaltz@1.9.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-dynawaltz@2.0.0
+- pkg:maven/com.powsybl/powsybl-dynawaltz@2.0.0?classifier=sources

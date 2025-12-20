@@ -42,3 +42,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench.texteditor@3.16.700?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench.texteditor@3.17.0
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench.texteditor@3.17.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench.texteditor@3.17.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench.texteditor@3.17.100?classifier=sources

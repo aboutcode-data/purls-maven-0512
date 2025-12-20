@@ -52,3 +52,4 @@
 - pkg:maven/org.opendaylight.infrautils/diagstatus-it@4.0.5
 - pkg:maven/org.opendaylight.infrautils/diagstatus-it@4.0.6
 - pkg:maven/org.opendaylight.infrautils/diagstatus-it@5.0.5
+- pkg:maven/org.opendaylight.infrautils/diagstatus-it@6.0.3

@@ -1,0 +1,2 @@
+- pkg:maven/com.spotify/confidence-openfeature-provider@0.0.2
+- pkg:maven/com.spotify/confidence-openfeature-provider@0.0.2?classifier=sources

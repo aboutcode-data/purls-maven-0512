@@ -188,3 +188,5 @@
 - pkg:maven/org.fugerit.java/fj-doc-mod-jxl@1.0.0-sa.2
 - pkg:maven/org.fugerit.java/fj-doc-mod-jxl@1.0.0-sa.2?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-mod-jxl@1.0.0?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-mod-jxl@1.1.0-sa.1
+- pkg:maven/org.fugerit.java/fj-doc-mod-jxl@1.1.0-sa.1?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/io.github.ololx.cranberry/cranberry-muffin@0.13.0
+- pkg:maven/io.github.ololx.cranberry/cranberry-muffin@0.14.1
+- pkg:maven/io.github.ololx.cranberry/cranberry-muffin@0.14.2
 - pkg:maven/io.github.ololx.cranberry/cranberry-muffin@0.4.0
 - pkg:maven/io.github.ololx.cranberry/cranberry-muffin@0.5.2
 - pkg:maven/io.github.ololx.cranberry/cranberry-muffin@0.5.3

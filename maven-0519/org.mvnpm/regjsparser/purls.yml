@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/regjsparser@0.10.0?classifier=sources
+- pkg:maven/org.mvnpm/regjsparser@0.9.1?classifier=sources

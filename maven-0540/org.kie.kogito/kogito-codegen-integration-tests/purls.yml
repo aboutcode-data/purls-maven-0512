@@ -43,9 +43,12 @@
 - pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@1.41.0.Final
 - pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@1.42.0.Final
 - pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@1.43.0.Final
+- pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@1.44.0.Final
+- pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@1.44.1.Final
 - pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@1.5.0.Final
 - pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@1.6.0.Final
 - pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@1.7.0.Final
 - pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@1.8.0.Final
 - pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@1.9.0.Final
 - pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@1.9.1.Final
+- pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@2.44.0.Alpha

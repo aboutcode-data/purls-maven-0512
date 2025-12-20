@@ -1,0 +1,6 @@
+- pkg:maven/io.github.aresxue/ares-turbo-loader@1.0.0
+- pkg:maven/io.github.aresxue/ares-turbo-loader@1.0.0?classifier=sources
+- pkg:maven/io.github.aresxue/ares-turbo-loader@2.0.0
+- pkg:maven/io.github.aresxue/ares-turbo-loader@2.0.0?classifier=sources
+- pkg:maven/io.github.aresxue/ares-turbo-loader@2.1.0
+- pkg:maven/io.github.aresxue/ares-turbo-loader@2.1.0?classifier=sources

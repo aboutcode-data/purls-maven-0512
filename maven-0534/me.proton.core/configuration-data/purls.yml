@@ -1,0 +1,2 @@
+- pkg:maven/me.proton.core/configuration-data@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/configuration-data@17.0.0?classifier=sources

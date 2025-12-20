@@ -1,0 +1,2 @@
+- pkg:maven/de.besting-it/asynccomplete@2.0.5
+- pkg:maven/de.besting-it/asynccomplete@2.0.5?classifier=sources

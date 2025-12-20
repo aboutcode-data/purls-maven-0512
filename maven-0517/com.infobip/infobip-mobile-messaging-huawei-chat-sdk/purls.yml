@@ -48,6 +48,7 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-chat-sdk@3.0.0-rc9?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-chat-sdk@3.0.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-chat-sdk@3.0.1?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-chat-sdk@3.0.2?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-chat-sdk@4.0.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-chat-sdk@4.0.1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-chat-sdk@4.0.2?classifier=sources
@@ -55,3 +56,6 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-chat-sdk@4.1.1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-chat-sdk@4.2.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-chat-sdk@4.2.1?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-chat-sdk@4.2.2?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-chat-sdk@4.2.3?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-chat-sdk@4.2.4?classifier=sources

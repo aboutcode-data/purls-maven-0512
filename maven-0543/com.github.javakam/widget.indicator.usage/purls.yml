@@ -1,3 +1,4 @@
 - pkg:maven/com.github.javakam/widget.indicator.usage@1.0.0?classifier=sources
+- pkg:maven/com.github.javakam/widget.indicator.usage@13.0.0?classifier=sources
 - pkg:maven/com.github.javakam/widget.indicator.usage@2.0.0?classifier=sources
 - pkg:maven/com.github.javakam/widget.indicator.usage@3.0.0?classifier=sources

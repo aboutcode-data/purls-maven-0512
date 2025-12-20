@@ -18,3 +18,4 @@
 - pkg:maven/de.gdata/vaas@5.1.0?classifier=sources
 - pkg:maven/de.gdata/vaas@5.2.0?classifier=sources
 - pkg:maven/de.gdata/vaas@6.0.0?classifier=sources
+- pkg:maven/de.gdata/vaas@6.1.0?classifier=sources

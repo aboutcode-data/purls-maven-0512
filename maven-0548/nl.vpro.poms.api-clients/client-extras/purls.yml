@@ -74,3 +74,5 @@
 - pkg:maven/nl.vpro.poms.api-clients/client-extras@7.4.0?classifier=sources
 - pkg:maven/nl.vpro.poms.api-clients/client-extras@7.6.0
 - pkg:maven/nl.vpro.poms.api-clients/client-extras@7.6.0?classifier=sources
+- pkg:maven/nl.vpro.poms.api-clients/client-extras@7.7.0
+- pkg:maven/nl.vpro.poms.api-clients/client-extras@7.7.0?classifier=sources

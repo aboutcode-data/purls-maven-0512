@@ -6,6 +6,8 @@
 - pkg:maven/com.google.apis/google-api-services-gmailpostmastertools@v1-rev20210112-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gmailpostmastertools@v1-rev20210112-2.0.0
 - pkg:maven/com.google.apis/google-api-services-gmailpostmastertools@v1-rev20210112-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gmailpostmastertools@v1-rev20230907-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gmailpostmastertools@v1-rev20230907-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gmailpostmastertools@v1beta1-rev20200629-1.30.10
 - pkg:maven/com.google.apis/google-api-services-gmailpostmastertools@v1beta1-rev20200629-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gmailpostmastertools@v1beta1-rev20200629-1.30.9
@@ -30,3 +32,5 @@
 - pkg:maven/com.google.apis/google-api-services-gmailpostmastertools@v1beta1-rev20201123-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gmailpostmastertools@v1beta1-rev20230702-2.0.0
 - pkg:maven/com.google.apis/google-api-services-gmailpostmastertools@v1beta1-rev20230702-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gmailpostmastertools@v1beta1-rev20230907-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gmailpostmastertools@v1beta1-rev20230907-2.0.0?classifier=sources

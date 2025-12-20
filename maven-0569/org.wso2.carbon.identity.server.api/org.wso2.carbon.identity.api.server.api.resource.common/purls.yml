@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.api.resource.common@1.2.83
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.api.resource.common@1.2.83?classifier=sources

@@ -1,1 +1,4 @@
 - pkg:maven/com.daml.extensions/daml-maven-plugin@0.1.5
+- pkg:maven/com.daml.extensions/daml-maven-plugin@0.1.6
+- pkg:maven/com.daml.extensions/daml-maven-plugin@0.2.0
+- pkg:maven/com.daml.extensions/daml-maven-plugin@0.2.1

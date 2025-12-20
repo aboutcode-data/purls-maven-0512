@@ -1,1 +1,4 @@
 - pkg:maven/me.proton.core/account-recovery-presentation@11.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-presentation@16.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-presentation@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-presentation@17.0.0?classifier=sources

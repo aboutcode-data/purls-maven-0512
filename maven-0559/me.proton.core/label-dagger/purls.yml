@@ -18,6 +18,9 @@
 - pkg:maven/me.proton.core/label-dagger@14.1.0?classifier=sources
 - pkg:maven/me.proton.core/label-dagger@15.0.0?classifier=sources
 - pkg:maven/me.proton.core/label-dagger@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/label-dagger@16.0.0?classifier=sources
+- pkg:maven/me.proton.core/label-dagger@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/label-dagger@17.0.0?classifier=sources
 - pkg:maven/me.proton.core/label-dagger@5.2.0?classifier=sources
 - pkg:maven/me.proton.core/label-dagger@5.2.1?classifier=sources
 - pkg:maven/me.proton.core/label-dagger@5.2.2?classifier=sources

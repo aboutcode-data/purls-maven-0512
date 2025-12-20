@@ -20,3 +20,5 @@
 - pkg:maven/org.daisy.pipeline.modules/tts-adapter-acapela@3.0.7?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/tts-adapter-acapela@3.1.0
 - pkg:maven/org.daisy.pipeline.modules/tts-adapter-acapela@3.1.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/tts-adapter-acapela@3.1.1
+- pkg:maven/org.daisy.pipeline.modules/tts-adapter-acapela@3.1.1?classifier=sources

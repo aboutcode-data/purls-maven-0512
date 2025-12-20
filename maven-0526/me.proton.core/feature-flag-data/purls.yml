@@ -18,6 +18,9 @@
 - pkg:maven/me.proton.core/feature-flag-data@14.1.0?classifier=sources
 - pkg:maven/me.proton.core/feature-flag-data@15.0.0?classifier=sources
 - pkg:maven/me.proton.core/feature-flag-data@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/feature-flag-data@16.0.0?classifier=sources
+- pkg:maven/me.proton.core/feature-flag-data@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/feature-flag-data@17.0.0?classifier=sources
 - pkg:maven/me.proton.core/feature-flag-data@7.1.0?classifier=sources
 - pkg:maven/me.proton.core/feature-flag-data@7.1.10?classifier=sources
 - pkg:maven/me.proton.core/feature-flag-data@7.1.11?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/me.proton.core/configuration-dagger-staticdefaults@16.0.0?classifier=sources
+- pkg:maven/me.proton.core/configuration-dagger-staticdefaults@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/configuration-dagger-staticdefaults@17.0.0?classifier=sources

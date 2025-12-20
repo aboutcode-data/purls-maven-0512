@@ -6,3 +6,5 @@
 - pkg:maven/com.github.t1/logging-interceptor@3.2.9?classifier=sources
 - pkg:maven/com.github.t1/logging-interceptor@4.0.0
 - pkg:maven/com.github.t1/logging-interceptor@4.0.0?classifier=sources
+- pkg:maven/com.github.t1/logging-interceptor@4.0.1
+- pkg:maven/com.github.t1/logging-interceptor@4.0.1?classifier=sources

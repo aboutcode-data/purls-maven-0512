@@ -30,3 +30,7 @@
 - pkg:maven/org.semver4j/semver4j@5.0.0?classifier=sources
 - pkg:maven/org.semver4j/semver4j@5.1.0
 - pkg:maven/org.semver4j/semver4j@5.1.0?classifier=sources
+- pkg:maven/org.semver4j/semver4j@5.2.0
+- pkg:maven/org.semver4j/semver4j@5.2.0?classifier=sources
+- pkg:maven/org.semver4j/semver4j@5.2.1
+- pkg:maven/org.semver4j/semver4j@5.2.1?classifier=sources

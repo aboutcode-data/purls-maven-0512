@@ -1,0 +1,2 @@
+- pkg:maven/io.iohk.atala/nimbus-jose-jwt@10.0.0
+- pkg:maven/io.iohk.atala/nimbus-jose-jwt@10.0.0?classifier=sources

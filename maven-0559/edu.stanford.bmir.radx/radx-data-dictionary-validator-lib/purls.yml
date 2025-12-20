@@ -1,0 +1,2 @@
+- pkg:maven/edu.stanford.bmir.radx/radx-data-dictionary-validator-lib@1.0.0
+- pkg:maven/edu.stanford.bmir.radx/radx-data-dictionary-validator-lib@1.0.0?classifier=sources

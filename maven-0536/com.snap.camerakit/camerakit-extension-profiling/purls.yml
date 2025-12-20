@@ -1,2 +1,3 @@
 - pkg:maven/com.snap.camerakit/camerakit-extension-profiling@1.24.0?classifier=sources
 - pkg:maven/com.snap.camerakit/camerakit-extension-profiling@1.25.0?classifier=sources
+- pkg:maven/com.snap.camerakit/camerakit-extension-profiling@1.26.0?classifier=sources

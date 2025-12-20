@@ -44,3 +44,5 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@3.8?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@3.9
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@3.9?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@4.0
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@4.0?classifier=sources

@@ -68,3 +68,5 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-validation@3.8?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-validation@3.9
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-validation@3.9?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-validation@4.0
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-validation@4.0?classifier=sources

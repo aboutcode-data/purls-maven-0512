@@ -1,0 +1,2 @@
+- pkg:maven/org.http4s/http4s-play-json_3@0.23.12
+- pkg:maven/org.http4s/http4s-play-json_3@0.23.12?classifier=sources

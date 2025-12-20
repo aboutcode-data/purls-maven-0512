@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/lru-cache@10.0.1?classifier=sources
+- pkg:maven/org.mvnpm/lru-cache@5.1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/top.cutexingluo.tools/xingtool-spring-boot@1.0.0
+- pkg:maven/top.cutexingluo.tools/xingtool-spring-boot@1.0.0?classifier=sources
+- pkg:maven/top.cutexingluo.tools/xingtool-spring-boot@1.0.1
+- pkg:maven/top.cutexingluo.tools/xingtool-spring-boot@1.0.1?classifier=sources

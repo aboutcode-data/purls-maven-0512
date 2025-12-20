@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-vaadin-router@1.7.5
+- pkg:maven/org.webjars.npm/github-com-vaadin-router@1.7.5?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.ardikars.euid/euid@0.1.0-B0
+- pkg:maven/com.ardikars.euid/euid@0.1.0-B0?classifier=sources
+- pkg:maven/com.ardikars.euid/euid@0.1.0-B1
+- pkg:maven/com.ardikars.euid/euid@0.1.0-B1?classifier=sources
+- pkg:maven/com.ardikars.euid/euid@0.1.0-B2
+- pkg:maven/com.ardikars.euid/euid@0.1.0-B2?classifier=sources
+- pkg:maven/com.ardikars.euid/euid@0.1.0-B3
+- pkg:maven/com.ardikars.euid/euid@0.1.0-B3?classifier=sources

@@ -1,2 +1,10 @@
 - pkg:maven/com.google.apis/google-api-services-blockchainnodeengine@v1-rev20230621-2.0.0
 - pkg:maven/com.google.apis/google-api-services-blockchainnodeengine@v1-rev20230621-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-blockchainnodeengine@v1-rev20230906-2.0.0
+- pkg:maven/com.google.apis/google-api-services-blockchainnodeengine@v1-rev20230906-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-blockchainnodeengine@v1-rev20230912-2.0.0
+- pkg:maven/com.google.apis/google-api-services-blockchainnodeengine@v1-rev20230912-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-blockchainnodeengine@v1-rev20230914-2.0.0
+- pkg:maven/com.google.apis/google-api-services-blockchainnodeengine@v1-rev20230914-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-blockchainnodeengine@v1-rev20230920-2.0.0
+- pkg:maven/com.google.apis/google-api-services-blockchainnodeengine@v1-rev20230920-2.0.0?classifier=sources

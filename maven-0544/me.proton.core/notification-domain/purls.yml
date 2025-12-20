@@ -6,3 +6,6 @@
 - pkg:maven/me.proton.core/notification-domain@14.1.0?classifier=sources
 - pkg:maven/me.proton.core/notification-domain@15.0.0?classifier=sources
 - pkg:maven/me.proton.core/notification-domain@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/notification-domain@16.0.0?classifier=sources
+- pkg:maven/me.proton.core/notification-domain@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/notification-domain@17.0.0?classifier=sources

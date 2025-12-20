@@ -38,6 +38,8 @@
 - pkg:maven/org.jitsi/jitsi-utils@1.0-125-ge42d5f2?classifier=sources
 - pkg:maven/org.jitsi/jitsi-utils@1.0-126-g02b0c86
 - pkg:maven/org.jitsi/jitsi-utils@1.0-126-g02b0c86?classifier=sources
+- pkg:maven/org.jitsi/jitsi-utils@1.0-127-g6c65524
+- pkg:maven/org.jitsi/jitsi-utils@1.0-127-g6c65524?classifier=sources
 - pkg:maven/org.jitsi/jitsi-utils@1.0-67-g4032ab6
 - pkg:maven/org.jitsi/jitsi-utils@1.0-67-g4032ab6?classifier=sources
 - pkg:maven/org.jitsi/jitsi-utils@1.0-68-g41ff78f

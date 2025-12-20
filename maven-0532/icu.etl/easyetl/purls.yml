@@ -1,0 +1,10 @@
+- pkg:maven/icu.etl/easyetl@1.0.0
+- pkg:maven/icu.etl/easyetl@1.0.0?classifier=sources
+- pkg:maven/icu.etl/easyetl@1.0.2
+- pkg:maven/icu.etl/easyetl@1.0.2?classifier=sources
+- pkg:maven/icu.etl/easyetl@1.0.7
+- pkg:maven/icu.etl/easyetl@1.0.7?classifier=sources
+- pkg:maven/icu.etl/easyetl@1.0.8
+- pkg:maven/icu.etl/easyetl@1.0.8?classifier=sources
+- pkg:maven/icu.etl/easyetl@1.0.9
+- pkg:maven/icu.etl/easyetl@1.0.9?classifier=sources

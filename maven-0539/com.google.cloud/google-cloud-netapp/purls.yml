@@ -2,3 +2,7 @@
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.1.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.2.0
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.2.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-netapp@0.3.0
+- pkg:maven/com.google.cloud/google-cloud-netapp@0.3.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-netapp@0.6.0
+- pkg:maven/com.google.cloud/google-cloud-netapp@0.6.0?classifier=sources

@@ -112,3 +112,13 @@
 - pkg:maven/io.gravitee.node.services/gravitee-node-services-initializer@4.0.0?classifier=sources
 - pkg:maven/io.gravitee.node.services/gravitee-node-services-initializer@4.1.0
 - pkg:maven/io.gravitee.node.services/gravitee-node-services-initializer@4.1.0?classifier=sources
+- pkg:maven/io.gravitee.node.services/gravitee-node-services-initializer@4.2.0
+- pkg:maven/io.gravitee.node.services/gravitee-node-services-initializer@4.2.0?classifier=sources
+- pkg:maven/io.gravitee.node.services/gravitee-node-services-initializer@4.3.0
+- pkg:maven/io.gravitee.node.services/gravitee-node-services-initializer@4.3.0?classifier=sources
+- pkg:maven/io.gravitee.node.services/gravitee-node-services-initializer@4.3.1
+- pkg:maven/io.gravitee.node.services/gravitee-node-services-initializer@4.3.1?classifier=sources
+- pkg:maven/io.gravitee.node.services/gravitee-node-services-initializer@4.4.0-alpha.1
+- pkg:maven/io.gravitee.node.services/gravitee-node-services-initializer@4.4.0-alpha.1?classifier=sources
+- pkg:maven/io.gravitee.node.services/gravitee-node-services-initializer@4.4.0-alpha.2
+- pkg:maven/io.gravitee.node.services/gravitee-node-services-initializer@4.4.0-alpha.2?classifier=sources
