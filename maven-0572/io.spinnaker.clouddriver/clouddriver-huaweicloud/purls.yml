@@ -191,6 +191,8 @@
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-huaweicloud@main-120?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-huaweicloud@main-121?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-huaweicloud@main-122?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-huaweicloud@main-123?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-huaweicloud@main-124?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-huaweicloud@main-12?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-huaweicloud@main-13?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-huaweicloud@main-14?classifier=sources

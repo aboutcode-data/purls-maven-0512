@@ -59,3 +59,5 @@
 - pkg:maven/com.mikepenz/community-material-typeface@6.4.95.0-kotlin?classifier=sources
 - pkg:maven/com.mikepenz/community-material-typeface@7.0.96.0-kotlin?classifier=sources
 - pkg:maven/com.mikepenz/community-material-typeface@7.0.96.1-kotlin?classifier=sources
+- pkg:maven/com.mikepenz/community-material-typeface@7.0.96.2-kotlin?classifier=sources
+- pkg:maven/com.mikepenz/community-material-typeface@unspecified?classifier=sources

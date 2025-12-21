@@ -27,4 +27,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-parsing-indexing@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-parsing-indexing@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-parsing-indexing@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-parsing-indexing@RELEASE280?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-parsing-indexing@RELEASE90?classifier=sources

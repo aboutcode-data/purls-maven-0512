@@ -24,3 +24,4 @@
 - pkg:maven/app.pivo.android.basicsdk/basicsdk@1.4.2?classifier=sources
 - pkg:maven/app.pivo.android.basicsdk/basicsdk@1.4.3?classifier=sources
 - pkg:maven/app.pivo.android.basicsdk/basicsdk@1.4.4?classifier=sources
+- pkg:maven/app.pivo.android.basicsdk/basicsdk@1.4.5?classifier=sources

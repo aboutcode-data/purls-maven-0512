@@ -57,6 +57,8 @@
 - pkg:maven/org.codehaus.mojo/versions-maven-plugin@2.1?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/versions-maven-plugin@2.1?classifier=sources
 - pkg:maven/org.codehaus.mojo/versions-maven-plugin@2.2
+- pkg:maven/org.codehaus.mojo/versions-maven-plugin@2.20.0?classifier=sources
+- pkg:maven/org.codehaus.mojo/versions-maven-plugin@2.20.1?classifier=sources
 - pkg:maven/org.codehaus.mojo/versions-maven-plugin@2.2?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/versions-maven-plugin@2.2?classifier=sources
 - pkg:maven/org.codehaus.mojo/versions-maven-plugin@2.3

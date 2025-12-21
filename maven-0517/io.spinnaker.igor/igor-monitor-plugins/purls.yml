@@ -161,6 +161,8 @@
 - pkg:maven/io.spinnaker.igor/igor-monitor-plugins@main-120?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-plugins@main-121?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-plugins@main-122?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-plugins@main-123?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-plugins@main-124?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-plugins@main-12?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-plugins@main-13?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-plugins@main-14?classifier=sources

@@ -2,5 +2,6 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-textract-deployment@3.11.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-textract-deployment@3.12.0.CR1?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-textract-deployment@3.12.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-textract-deployment@3.12.1?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-textract-deployment@3.9.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-textract-deployment@3.9.1?classifier=sources

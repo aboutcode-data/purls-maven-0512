@@ -32,3 +32,4 @@
 - pkg:maven/fun.fengwk.convention4j/convention4j-spring-boot-starter-datasource-multi@1.1.88?classifier=sources
 - pkg:maven/fun.fengwk.convention4j/convention4j-spring-boot-starter-datasource-multi@1.1.89?classifier=sources
 - pkg:maven/fun.fengwk.convention4j/convention4j-spring-boot-starter-datasource-multi@1.1.90?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-boot-starter-datasource-multi@1.1.91?classifier=sources

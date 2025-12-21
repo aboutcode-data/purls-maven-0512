@@ -6,3 +6,4 @@
 - pkg:maven/us.fatehi/pointlocation6709@4.2.1?classifier=sources
 - pkg:maven/us.fatehi/pointlocation6709@4.2.2
 - pkg:maven/us.fatehi/pointlocation6709@4.2.2?classifier=sources
+- pkg:maven/us.fatehi/pointlocation6709@5.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/parse5-html-rewriting-stream@8.0.0
+- pkg:maven/org.mvnpm/parse5-html-rewriting-stream@8.0.0?classifier=sources

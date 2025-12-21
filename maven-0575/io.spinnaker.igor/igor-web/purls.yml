@@ -161,6 +161,8 @@
 - pkg:maven/io.spinnaker.igor/igor-web@main-120?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-web@main-121?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-web@main-122?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-web@main-123?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-web@main-124?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-web@main-12?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-web@main-13?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-web@main-14?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/co.blocke/scalajack_3@8.0.0?classifier=sources
 - pkg:maven/co.blocke/scalajack_3@8.1.0
 - pkg:maven/co.blocke/scalajack_3@8.1.0?classifier=sources
+- pkg:maven/co.blocke/scalajack_3@8.1.1
+- pkg:maven/co.blocke/scalajack_3@8.1.1?classifier=sources

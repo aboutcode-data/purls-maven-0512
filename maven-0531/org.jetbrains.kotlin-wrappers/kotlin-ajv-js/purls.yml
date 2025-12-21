@@ -22,10 +22,17 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.10.9-8.17.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.11.0-8.17.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.11.1-8.17.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.11.10-8.17.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.11.11-8.17.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.11.12-8.17.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.11.2-8.17.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.11.3-8.17.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.11.4-8.17.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.11.5-8.17.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.11.6-8.17.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.11.7-8.17.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.11.8-8.17.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.11.9-8.17.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.2.0-8.17.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.2.1-8.17.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-ajv-js@2025.2.10-8.17.1?classifier=sources

@@ -26,3 +26,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-editor-hints@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-editor-hints@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-editor-hints@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-editor-hints@RELEASE280?classifier=sources

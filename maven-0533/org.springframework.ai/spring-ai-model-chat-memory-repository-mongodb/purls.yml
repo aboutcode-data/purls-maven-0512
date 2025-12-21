@@ -1,1 +1,2 @@
 - pkg:maven/org.springframework.ai/spring-ai-model-chat-memory-repository-mongodb@1.1.0-RC1?classifier=sources
+- pkg:maven/org.springframework.ai/spring-ai-model-chat-memory-repository-mongodb@1.1.0?classifier=sources

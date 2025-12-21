@@ -28,6 +28,8 @@
 - pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@2d24096?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@2da9d83?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@2edde9d?classifier=sources
+- pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@2f5ab4a?classifier=sources
+- pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@30e63c0?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@3134c37?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@3283823?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@32f727c?classifier=sources
@@ -59,6 +61,7 @@
 - pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@73930d8?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@7bf875f?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@85d54a3?classifier=sources
+- pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@87ccb15?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@88778e1?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@896d511?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-iosarm64@8c708de?classifier=sources

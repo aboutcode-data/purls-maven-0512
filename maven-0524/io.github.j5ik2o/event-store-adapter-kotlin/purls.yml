@@ -70,3 +70,5 @@
 - pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin@1.0.498?classifier=sources
 - pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin@1.0.499?classifier=sources
 - pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin@1.0.500?classifier=sources
+- pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin@1.0.501?classifier=sources
+- pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin@1.0.502?classifier=sources

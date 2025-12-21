@@ -1,0 +1,2 @@
+- pkg:maven/site.addzero/gradle-tool-config-java@0.0.674?classifier=sources
+- pkg:maven/site.addzero/gradle-tool-config-java@2025.11.29?classifier=sources

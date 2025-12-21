@@ -164,6 +164,8 @@
 - pkg:maven/io.spinnaker.kayenta/kayenta-atlas@main-120?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-atlas@main-121?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-atlas@main-122?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-atlas@main-123?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-atlas@main-124?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-atlas@main-12?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-atlas@main-13?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-atlas@main-14?classifier=sources

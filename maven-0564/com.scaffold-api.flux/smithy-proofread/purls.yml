@@ -1,1 +1,2 @@
 - pkg:maven/com.scaffold-api.flux/smithy-proofread@0.1.0?classifier=sources
+- pkg:maven/com.scaffold-api.flux/smithy-proofread@0.1.1?classifier=sources

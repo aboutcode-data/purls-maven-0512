@@ -67,3 +67,5 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-precisePrimitives@5.64.1?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-precisePrimitives@5.64.2?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-precisePrimitives@5.65.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-precisePrimitives@5.66.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-precisePrimitives@5.67.0?classifier=sources

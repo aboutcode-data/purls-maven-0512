@@ -50,3 +50,4 @@
 - pkg:maven/org.bouncycastle/bcpkix-jdk14@1.80?classifier=sources
 - pkg:maven/org.bouncycastle/bcpkix-jdk14@1.81?classifier=sources
 - pkg:maven/org.bouncycastle/bcpkix-jdk14@1.82?classifier=sources
+- pkg:maven/org.bouncycastle/bcpkix-jdk14@1.83?classifier=sources

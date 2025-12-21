@@ -1,0 +1,3 @@
+- pkg:maven/io.quarkus/quarkus-proxy-registry-deployment@3.30.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-proxy-registry-deployment@3.30.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-proxy-registry-deployment@3.30.1?classifier=sources

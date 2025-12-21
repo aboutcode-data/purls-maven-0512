@@ -1,0 +1,2 @@
+- pkg:maven/com.mocharealm.gaze/capsule-macosarm64@2.1.1-patch1?classifier=sources
+- pkg:maven/com.mocharealm.gaze/capsule-macosarm64@2.1.1-patch2?classifier=sources

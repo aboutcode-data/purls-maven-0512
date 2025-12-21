@@ -4,3 +4,4 @@
 - pkg:maven/org.gitlab4j/gitlab4j-models@6.0.0-rc.9?classifier=sources
 - pkg:maven/org.gitlab4j/gitlab4j-models@6.0.0?classifier=sources
 - pkg:maven/org.gitlab4j/gitlab4j-models@6.1.0?classifier=sources
+- pkg:maven/org.gitlab4j/gitlab4j-models@6.2.0?classifier=sources

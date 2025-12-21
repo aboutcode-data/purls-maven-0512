@@ -1,1 +1,2 @@
 - pkg:maven/io.github.x7sdk/x7sdk-java@1.0.0?classifier=sources
+- pkg:maven/io.github.x7sdk/x7sdk-java@1.0.1?classifier=sources

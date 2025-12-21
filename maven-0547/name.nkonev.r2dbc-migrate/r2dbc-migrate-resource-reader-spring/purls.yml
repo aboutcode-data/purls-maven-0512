@@ -76,3 +76,4 @@
 - pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-spring@3.1.2?classifier=sources
 - pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-spring@3.2.0?classifier=sources
 - pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-spring@3.3.0?classifier=sources
+- pkg:maven/name.nkonev.r2dbc-migrate/r2dbc-migrate-resource-reader-spring@4.0.1?classifier=sources

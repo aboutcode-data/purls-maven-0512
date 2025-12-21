@@ -137,6 +137,7 @@
 - pkg:maven/org.linkki-framework.tooling/linkki-apt@2.6.4?classifier=sources
 - pkg:maven/org.linkki-framework.tooling/linkki-apt@2.6.5?classifier=sources
 - pkg:maven/org.linkki-framework.tooling/linkki-apt@2.6.6?classifier=sources
+- pkg:maven/org.linkki-framework.tooling/linkki-apt@2.6.7?classifier=sources
 - pkg:maven/org.linkki-framework.tooling/linkki-apt@2.7.0
 - pkg:maven/org.linkki-framework.tooling/linkki-apt@2.7.0?classifier=sources
 - pkg:maven/org.linkki-framework.tooling/linkki-apt@2.7.1
@@ -151,3 +152,4 @@
 - pkg:maven/org.linkki-framework.tooling/linkki-apt@2.8.0?classifier=sources
 - pkg:maven/org.linkki-framework.tooling/linkki-apt@2.8.1?classifier=sources
 - pkg:maven/org.linkki-framework.tooling/linkki-apt@2.8.2?classifier=sources
+- pkg:maven/org.linkki-framework.tooling/linkki-apt@2.8.3?classifier=sources

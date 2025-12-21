@@ -28,3 +28,5 @@
 - pkg:maven/ba.sake/hepek-zio_3@0.32.0?classifier=sources
 - pkg:maven/ba.sake/hepek-zio_3@0.33.0
 - pkg:maven/ba.sake/hepek-zio_3@0.33.0?classifier=sources
+- pkg:maven/ba.sake/hepek-zio_3@0.34.0
+- pkg:maven/ba.sake/hepek-zio_3@0.34.0?classifier=sources

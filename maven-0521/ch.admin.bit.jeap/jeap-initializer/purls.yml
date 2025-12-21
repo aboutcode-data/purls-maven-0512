@@ -20,6 +20,7 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-initializer@2.25.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-initializer@2.26.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-initializer@2.27.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-initializer@2.28.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-initializer@2.6.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-initializer@2.6.1?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-initializer@2.7.0?classifier=sources

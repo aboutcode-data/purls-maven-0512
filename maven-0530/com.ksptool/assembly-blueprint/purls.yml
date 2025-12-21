@@ -1,0 +1,3 @@
+- pkg:maven/com.ksptool/assembly-blueprint@2.2P?classifier=sources
+- pkg:maven/com.ksptool/assembly-blueprint@2.2Q?classifier=sources
+- pkg:maven/com.ksptool/assembly-blueprint@2.2S-RC1?classifier=sources

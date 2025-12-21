@@ -9,3 +9,4 @@
 - pkg:maven/org.talend.sdk.component.sample.feature/entrywitherror@1.84.3?classifier=sources
 - pkg:maven/org.talend.sdk.component.sample.feature/entrywitherror@1.84.4?classifier=sources
 - pkg:maven/org.talend.sdk.component.sample.feature/entrywitherror@1.85.0?classifier=sources
+- pkg:maven/org.talend.sdk.component.sample.feature/entrywitherror@1.87.0?classifier=sources

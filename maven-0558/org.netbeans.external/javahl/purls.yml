@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.external/javahl@RELEASE250
 - pkg:maven/org.netbeans.external/javahl@RELEASE260
 - pkg:maven/org.netbeans.external/javahl@RELEASE270
+- pkg:maven/org.netbeans.external/javahl@RELEASE280

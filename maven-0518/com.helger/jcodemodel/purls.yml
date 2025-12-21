@@ -59,3 +59,4 @@
 - pkg:maven/com.helger/jcodemodel@3.4.1
 - pkg:maven/com.helger/jcodemodel@3.4.1?classifier=sources
 - pkg:maven/com.helger/jcodemodel@4.0.0?classifier=sources
+- pkg:maven/com.helger/jcodemodel@4.1.0?classifier=sources

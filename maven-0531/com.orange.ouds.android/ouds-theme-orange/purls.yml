@@ -1,3 +1,4 @@
 - pkg:maven/com.orange.ouds.android/ouds-theme-orange@0.1.0?classifier=sources
 - pkg:maven/com.orange.ouds.android/ouds-theme-orange@0.2.0?classifier=sources
 - pkg:maven/com.orange.ouds.android/ouds-theme-orange@0.3.0?classifier=sources
+- pkg:maven/com.orange.ouds.android/ouds-theme-orange@0.4.0?classifier=sources

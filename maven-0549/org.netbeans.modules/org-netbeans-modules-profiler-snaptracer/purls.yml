@@ -27,4 +27,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-snaptracer@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-snaptracer@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-snaptracer@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-snaptracer@RELEASE280?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-snaptracer@RELEASE90?classifier=sources

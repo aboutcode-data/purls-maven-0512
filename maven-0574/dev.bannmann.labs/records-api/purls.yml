@@ -51,3 +51,4 @@
 - pkg:maven/dev.bannmann.labs/records-api@0.44?classifier=sources
 - pkg:maven/dev.bannmann.labs/records-api@0.45?classifier=sources
 - pkg:maven/dev.bannmann.labs/records-api@0.46?classifier=sources
+- pkg:maven/dev.bannmann.labs/records-api@0.47?classifier=sources

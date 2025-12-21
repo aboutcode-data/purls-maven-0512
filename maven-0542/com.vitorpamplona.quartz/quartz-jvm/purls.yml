@@ -1,2 +1,4 @@
 - pkg:maven/com.vitorpamplona.quartz/quartz-jvm@1.03.0?classifier=sources
+- pkg:maven/com.vitorpamplona.quartz/quartz-jvm@1.04.1?classifier=sources
+- pkg:maven/com.vitorpamplona.quartz/quartz-jvm@1.04.2?classifier=sources
 - pkg:maven/com.vitorpamplona.quartz/quartz-jvm@unspecified?classifier=sources

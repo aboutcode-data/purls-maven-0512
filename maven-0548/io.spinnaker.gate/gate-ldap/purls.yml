@@ -160,6 +160,8 @@
 - pkg:maven/io.spinnaker.gate/gate-ldap@main-120?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-ldap@main-121?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-ldap@main-122?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-ldap@main-123?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-ldap@main-124?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-ldap@main-12?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-ldap@main-13?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-ldap@main-14?classifier=sources

@@ -68,3 +68,4 @@
 - pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.40.6?classifier=sources
 - pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.40.8
 - pkg:maven/sh.ory.oathkeeper/oathkeeper-client@0.40.8?classifier=sources
+- pkg:maven/sh.ory.oathkeeper/oathkeeper-client@25.4.0?classifier=sources

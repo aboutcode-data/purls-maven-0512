@@ -2,3 +2,5 @@
 - pkg:maven/com.moengage/mparticle-android-integration-moengage@1.1.0?classifier=sources
 - pkg:maven/com.moengage/mparticle-android-integration-moengage@2.0.0?classifier=sources
 - pkg:maven/com.moengage/mparticle-android-integration-moengage@2.0.1?classifier=sources
+- pkg:maven/com.moengage/mparticle-android-integration-moengage@2.1.0?classifier=sources
+- pkg:maven/com.moengage/mparticle-android-integration-moengage@2.1.1?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/site.addzero/gradle-apt-buddy@2025.11.27?classifier=sources
+- pkg:maven/site.addzero/gradle-apt-buddy@2025.11.28?classifier=sources
+- pkg:maven/site.addzero/gradle-apt-buddy@2025.11.29?classifier=sources

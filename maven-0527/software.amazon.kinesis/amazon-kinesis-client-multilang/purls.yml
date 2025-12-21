@@ -134,3 +134,4 @@
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-client-multilang@3.1.2?classifier=sources
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-client-multilang@3.1.3?classifier=sources
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-client-multilang@3.2.0?classifier=sources
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-client-multilang@3.2.1?classifier=sources

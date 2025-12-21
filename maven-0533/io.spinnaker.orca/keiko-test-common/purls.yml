@@ -196,6 +196,8 @@
 - pkg:maven/io.spinnaker.orca/keiko-test-common@main-120?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-test-common@main-121?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-test-common@main-122?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-test-common@main-123?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-test-common@main-124?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-test-common@main-12?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-test-common@main-13?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-test-common@main-14?classifier=sources

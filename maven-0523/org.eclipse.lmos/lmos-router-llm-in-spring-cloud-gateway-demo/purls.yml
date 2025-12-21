@@ -11,6 +11,8 @@
 - pkg:maven/org.eclipse.lmos/lmos-router-llm-in-spring-cloud-gateway-demo@0.15.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/lmos-router-llm-in-spring-cloud-gateway-demo@0.16.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/lmos-router-llm-in-spring-cloud-gateway-demo@0.17.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/lmos-router-llm-in-spring-cloud-gateway-demo@0.18.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/lmos-router-llm-in-spring-cloud-gateway-demo@0.19.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/lmos-router-llm-in-spring-cloud-gateway-demo@0.2.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/lmos-router-llm-in-spring-cloud-gateway-demo@0.3.0-M1?classifier=sources
 - pkg:maven/org.eclipse.lmos/lmos-router-llm-in-spring-cloud-gateway-demo@0.3.0?classifier=sources
