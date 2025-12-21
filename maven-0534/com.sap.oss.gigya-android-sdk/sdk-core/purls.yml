@@ -1,1 +1,2 @@
 - pkg:maven/com.sap.oss.gigya-android-sdk/sdk-core@7.2.0?classifier=sources
+- pkg:maven/com.sap.oss.gigya-android-sdk/sdk-core@7.2.1?classifier=sources

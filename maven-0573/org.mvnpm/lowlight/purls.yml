@@ -1,3 +1,9 @@
 - pkg:maven/org.mvnpm/lowlight@1.20.0?classifier=sources
+- pkg:maven/org.mvnpm/lowlight@3.0.0
+- pkg:maven/org.mvnpm/lowlight@3.0.0?classifier=sources
+- pkg:maven/org.mvnpm/lowlight@3.1.0
+- pkg:maven/org.mvnpm/lowlight@3.1.0?classifier=sources
+- pkg:maven/org.mvnpm/lowlight@3.2.0
+- pkg:maven/org.mvnpm/lowlight@3.2.0?classifier=sources
 - pkg:maven/org.mvnpm/lowlight@3.3.0
 - pkg:maven/org.mvnpm/lowlight@3.3.0?classifier=sources

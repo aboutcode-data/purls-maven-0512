@@ -112,6 +112,8 @@
 - pkg:maven/org.mvnpm/o11y_schema@258.9.0?classifier=sources
 - pkg:maven/org.mvnpm/o11y_schema@260.1.0
 - pkg:maven/org.mvnpm/o11y_schema@260.1.0?classifier=sources
+- pkg:maven/org.mvnpm/o11y_schema@260.10.0
+- pkg:maven/org.mvnpm/o11y_schema@260.10.0?classifier=sources
 - pkg:maven/org.mvnpm/o11y_schema@260.2.0
 - pkg:maven/org.mvnpm/o11y_schema@260.2.0?classifier=sources
 - pkg:maven/org.mvnpm/o11y_schema@260.3.0

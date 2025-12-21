@@ -1,0 +1,1 @@
+- pkg:maven/build.buf.bsr.kafka/bsr-kafka-serde@0.1.0?classifier=sources

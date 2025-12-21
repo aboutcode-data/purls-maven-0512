@@ -44,6 +44,8 @@
 - pkg:maven/net.corda/corda-confidential-identities@4.12.5
 - pkg:maven/net.corda/corda-confidential-identities@4.12.6
 - pkg:maven/net.corda/corda-confidential-identities@4.12.6?classifier=sources
+- pkg:maven/net.corda/corda-confidential-identities@4.12.7
+- pkg:maven/net.corda/corda-confidential-identities@4.12.7?classifier=sources
 - pkg:maven/net.corda/corda-confidential-identities@4.3
 - pkg:maven/net.corda/corda-confidential-identities@4.3?classifier=sources
 - pkg:maven/net.corda/corda-confidential-identities@4.4

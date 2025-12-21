@@ -35,3 +35,5 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-security-test@3.4.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-security-test@3.5.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-security-test@3.6.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-security-test@4.0.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-security-test@4.1.0?classifier=sources

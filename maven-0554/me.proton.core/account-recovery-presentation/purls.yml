@@ -98,3 +98,4 @@
 - pkg:maven/me.proton.core/account-recovery-presentation@34.2.1?classifier=sources
 - pkg:maven/me.proton.core/account-recovery-presentation@34.3.0?classifier=sources
 - pkg:maven/me.proton.core/account-recovery-presentation@34.4.0?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-presentation@35.0.0?classifier=sources

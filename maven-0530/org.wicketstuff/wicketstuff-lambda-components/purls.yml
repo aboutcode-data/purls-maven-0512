@@ -17,6 +17,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-lambda-components@10.5.0
 - pkg:maven/org.wicketstuff/wicketstuff-lambda-components@10.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-lambda-components@10.6.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-lambda-components@10.7.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-lambda-components@8.0.0
 - pkg:maven/org.wicketstuff/wicketstuff-lambda-components@8.0.0-M5
 - pkg:maven/org.wicketstuff/wicketstuff-lambda-components@8.0.0-M5?classifier=sources

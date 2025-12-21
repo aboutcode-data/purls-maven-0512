@@ -507,6 +507,10 @@
 - pkg:maven/com.palantir.dialogue/dialogue-target@5.6.0-rc1?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-target@6.0.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-target@6.1.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-target@6.10.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-target@6.11.0-rc1?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-target@6.11.0-rc2?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-target@6.11.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-target@6.2.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-target@6.3.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-target@6.4.0?classifier=sources

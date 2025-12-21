@@ -1,2 +1,4 @@
+- pkg:maven/org.mvnpm/d3-transition@1.3.2
+- pkg:maven/org.mvnpm/d3-transition@1.3.2?classifier=sources
 - pkg:maven/org.mvnpm/d3-transition@3.0.0?classifier=sources
 - pkg:maven/org.mvnpm/d3-transition@3.0.1?classifier=sources

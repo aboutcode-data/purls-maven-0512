@@ -15,3 +15,5 @@
 - pkg:maven/io.newm/kogmios@2.4.0?classifier=sources
 - pkg:maven/io.newm/kogmios@2.5.0?classifier=sources
 - pkg:maven/io.newm/kogmios@2.5.1?classifier=sources
+- pkg:maven/io.newm/kogmios@2.6.0?classifier=sources
+- pkg:maven/io.newm/kogmios@2.6.1?classifier=sources

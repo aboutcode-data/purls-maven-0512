@@ -24,3 +24,7 @@
 - pkg:maven/dev.profunktor/fs2-rabbit-testkit_3@5.4.3?classifier=sources
 - pkg:maven/dev.profunktor/fs2-rabbit-testkit_3@5.4.4
 - pkg:maven/dev.profunktor/fs2-rabbit-testkit_3@5.4.4?classifier=sources
+- pkg:maven/dev.profunktor/fs2-rabbit-testkit_3@5.4.5
+- pkg:maven/dev.profunktor/fs2-rabbit-testkit_3@5.4.5?classifier=sources
+- pkg:maven/dev.profunktor/fs2-rabbit-testkit_3@5.5.0
+- pkg:maven/dev.profunktor/fs2-rabbit-testkit_3@5.5.0?classifier=sources

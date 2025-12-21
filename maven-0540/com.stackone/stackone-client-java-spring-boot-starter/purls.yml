@@ -1,0 +1,3 @@
+- pkg:maven/com.stackone/stackone-client-java-spring-boot-starter@0.14.0?classifier=sources
+- pkg:maven/com.stackone/stackone-client-java-spring-boot-starter@0.14.1?classifier=sources
+- pkg:maven/com.stackone/stackone-client-java-spring-boot-starter@0.14.2?classifier=sources

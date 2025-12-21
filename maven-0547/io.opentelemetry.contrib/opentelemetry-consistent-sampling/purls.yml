@@ -38,3 +38,4 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-consistent-sampling@1.47.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-consistent-sampling@1.48.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-consistent-sampling@1.49.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-consistent-sampling@1.50.0-alpha?classifier=sources

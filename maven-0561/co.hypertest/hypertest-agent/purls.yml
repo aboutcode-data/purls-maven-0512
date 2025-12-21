@@ -80,6 +80,7 @@
 - pkg:maven/co.hypertest/hypertest-agent@0.1.14-30?classifier=sources
 - pkg:maven/co.hypertest/hypertest-agent@0.1.14-31?classifier=sources
 - pkg:maven/co.hypertest/hypertest-agent@0.1.14-32?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.14-33?classifier=sources
 - pkg:maven/co.hypertest/hypertest-agent@0.1.14-3?classifier=sources
 - pkg:maven/co.hypertest/hypertest-agent@0.1.14-4?classifier=sources
 - pkg:maven/co.hypertest/hypertest-agent@0.1.14-5?classifier=sources

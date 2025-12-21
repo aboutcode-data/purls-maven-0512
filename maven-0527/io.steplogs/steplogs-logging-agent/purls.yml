@@ -3,3 +3,4 @@
 - pkg:maven/io.steplogs/steplogs-logging-agent@1.0.30?classifier=sources
 - pkg:maven/io.steplogs/steplogs-logging-agent@1.0.51?classifier=sources
 - pkg:maven/io.steplogs/steplogs-logging-agent@1.0.53?classifier=sources
+- pkg:maven/io.steplogs/steplogs-logging-agent@1.0.89?classifier=sources

@@ -119,3 +119,7 @@
 - pkg:maven/org.danilopianini/java-quadtree@1.0.3-dev1x%2B2165b7e?classifier=sources
 - pkg:maven/org.danilopianini/java-quadtree@1.0.3-dev20%2Bb54d127?classifier=sources
 - pkg:maven/org.danilopianini/java-quadtree@1.0.3-dev22%2B745bc43?classifier=sources
+- pkg:maven/org.danilopianini/java-quadtree@1.0.3-dev24%2Bac1fe3f?classifier=sources
+- pkg:maven/org.danilopianini/java-quadtree@1.0.3-dev25%2Bcbd1a7e?classifier=sources
+- pkg:maven/org.danilopianini/java-quadtree@1.0.3-dev26%2B1e59f39?classifier=sources
+- pkg:maven/org.danilopianini/java-quadtree@1.0.3-dev27%2B15823af?classifier=sources

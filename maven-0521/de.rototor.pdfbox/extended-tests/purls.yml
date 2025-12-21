@@ -30,3 +30,5 @@
 - pkg:maven/de.rototor.pdfbox/extended-tests@0.44?classifier=sources
 - pkg:maven/de.rototor.pdfbox/extended-tests@0.45
 - pkg:maven/de.rototor.pdfbox/extended-tests@0.45?classifier=sources
+- pkg:maven/de.rototor.pdfbox/extended-tests@0.46?classifier=sources
+- pkg:maven/de.rototor.pdfbox/extended-tests@0.47?classifier=sources

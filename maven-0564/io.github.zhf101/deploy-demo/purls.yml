@@ -77,3 +77,4 @@
 - pkg:maven/io.github.zhf101/deploy-demo@0.8.0.7?classifier=sources
 - pkg:maven/io.github.zhf101/deploy-demo@0.8.0.8?classifier=sources
 - pkg:maven/io.github.zhf101/deploy-demo@0.8.0.9?classifier=sources
+- pkg:maven/io.github.zhf101/deploy-demo@0.9.0.1?classifier=sources

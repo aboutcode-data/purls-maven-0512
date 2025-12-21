@@ -118,7 +118,10 @@
 - pkg:maven/org.ossreviewtoolkit/reporter@68.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/reporter@68.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/reporter@69.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/reporter@69.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/reporter@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/reporter@7.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/reporter@70.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/reporter@70.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/reporter@8.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/reporter@9.0.0?classifier=sources

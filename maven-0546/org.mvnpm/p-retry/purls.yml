@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/p-retry@6.2.1?classifier=sources
 - pkg:maven/org.mvnpm/p-retry@7.0.0
 - pkg:maven/org.mvnpm/p-retry@7.0.0?classifier=sources
+- pkg:maven/org.mvnpm/p-retry@7.1.0
+- pkg:maven/org.mvnpm/p-retry@7.1.0?classifier=sources

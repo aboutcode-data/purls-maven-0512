@@ -3,3 +3,4 @@
 - pkg:maven/org.framefork/typed-ids-index-java-classes-processor@0.7.0?classifier=sources
 - pkg:maven/org.framefork/typed-ids-index-java-classes-processor@0.8.0?classifier=sources
 - pkg:maven/org.framefork/typed-ids-index-java-classes-processor@0.9.0?classifier=sources
+- pkg:maven/org.framefork/typed-ids-index-java-classes-processor@0.9.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sonatype.central.testing.amazon/smithy-aws-kotlin-codegen@0.35.11?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/smithy-aws-kotlin-codegen@0.35.12?classifier=sources

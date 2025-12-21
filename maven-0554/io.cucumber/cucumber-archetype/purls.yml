@@ -87,11 +87,13 @@
 - pkg:maven/io.cucumber/cucumber-archetype@7.28.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-archetype@7.28.1?classifier=sources
 - pkg:maven/io.cucumber/cucumber-archetype@7.28.2?classifier=sources
+- pkg:maven/io.cucumber/cucumber-archetype@7.29.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-archetype@7.3.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-archetype@7.3.1?classifier=sources
 - pkg:maven/io.cucumber/cucumber-archetype@7.3.2?classifier=sources
 - pkg:maven/io.cucumber/cucumber-archetype@7.3.3?classifier=sources
 - pkg:maven/io.cucumber/cucumber-archetype@7.3.4?classifier=sources
+- pkg:maven/io.cucumber/cucumber-archetype@7.30.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-archetype@7.4.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-archetype@7.4.1?classifier=sources
 - pkg:maven/io.cucumber/cucumber-archetype@7.5.0?classifier=sources

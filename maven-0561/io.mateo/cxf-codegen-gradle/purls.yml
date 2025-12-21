@@ -7,3 +7,4 @@
 - pkg:maven/io.mateo/cxf-codegen-gradle@2.3.0?classifier=sources
 - pkg:maven/io.mateo/cxf-codegen-gradle@2.4.0?classifier=sources
 - pkg:maven/io.mateo/cxf-codegen-gradle@2.4.1?classifier=sources
+- pkg:maven/io.mateo/cxf-codegen-gradle@2.5.0?classifier=sources

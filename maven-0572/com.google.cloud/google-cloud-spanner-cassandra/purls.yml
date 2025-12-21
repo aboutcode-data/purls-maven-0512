@@ -6,3 +6,5 @@
 - pkg:maven/com.google.cloud/google-cloud-spanner-cassandra@0.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner-cassandra@0.7.0
 - pkg:maven/com.google.cloud/google-cloud-spanner-cassandra@0.7.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-cassandra@1.0.0
+- pkg:maven/com.google.cloud/google-cloud-spanner-cassandra@1.0.0?classifier=sources

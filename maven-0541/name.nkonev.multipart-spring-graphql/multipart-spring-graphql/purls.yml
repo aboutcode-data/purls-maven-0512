@@ -34,3 +34,5 @@
 - pkg:maven/name.nkonev.multipart-spring-graphql/multipart-spring-graphql@1.5.2?classifier=sources
 - pkg:maven/name.nkonev.multipart-spring-graphql/multipart-spring-graphql@1.5.3?classifier=sources
 - pkg:maven/name.nkonev.multipart-spring-graphql/multipart-spring-graphql@1.6.0?classifier=sources
+- pkg:maven/name.nkonev.multipart-spring-graphql/multipart-spring-graphql@2.0.0-RC2?classifier=sources
+- pkg:maven/name.nkonev.multipart-spring-graphql/multipart-spring-graphql@2.0.0-RC3?classifier=sources

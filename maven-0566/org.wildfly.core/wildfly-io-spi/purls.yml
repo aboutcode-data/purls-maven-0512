@@ -83,3 +83,5 @@
 - pkg:maven/org.wildfly.core/wildfly-io-spi@30.0.0.Beta1?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-io-spi@30.0.0.Beta2?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-io-spi@30.0.0.Beta3?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-io-spi@30.0.0.Beta4?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-io-spi@30.0.0.Final?classifier=sources

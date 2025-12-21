@@ -173,6 +173,7 @@
 - pkg:maven/org.entur.ror.helpers/organisation@5.42.0?classifier=sources
 - pkg:maven/org.entur.ror.helpers/organisation@5.44.0?classifier=sources
 - pkg:maven/org.entur.ror.helpers/organisation@5.46.0?classifier=sources
+- pkg:maven/org.entur.ror.helpers/organisation@5.47.0?classifier=sources
 - pkg:maven/org.entur.ror.helpers/organisation@5.4?classifier=sources
 - pkg:maven/org.entur.ror.helpers/organisation@5.5
 - pkg:maven/org.entur.ror.helpers/organisation@5.5?classifier=sources

@@ -26,3 +26,4 @@
 - pkg:maven/ru.cwcode.commands/PaperCommands@1.5.2?classifier=sources
 - pkg:maven/ru.cwcode.commands/PaperCommands@1.5.3?classifier=sources
 - pkg:maven/ru.cwcode.commands/PaperCommands@1.5.4?classifier=sources
+- pkg:maven/ru.cwcode.commands/PaperCommands@1.5.5?classifier=sources

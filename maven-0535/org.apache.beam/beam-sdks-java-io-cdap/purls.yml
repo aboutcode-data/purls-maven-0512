@@ -28,3 +28,4 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-cdap@2.65.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-cdap@2.66.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-cdap@2.67.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-cdap@2.68.0?classifier=sources

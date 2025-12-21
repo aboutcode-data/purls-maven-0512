@@ -13,3 +13,4 @@
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-api@1.7?classifier=sources
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-api@1.8
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-api@1.8?classifier=sources
+- pkg:maven/io.github.magistvan/match-predicting-ann-server-api@2.0?classifier=sources

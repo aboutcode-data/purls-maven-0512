@@ -4,3 +4,4 @@
 - pkg:maven/com.newrelic.labs/otel-mule4-observability-agent@1.4.14?classifier=sources
 - pkg:maven/com.newrelic.labs/otel-mule4-observability-agent@1.4.15?classifier=sources
 - pkg:maven/com.newrelic.labs/otel-mule4-observability-agent@1.5.0?classifier=sources
+- pkg:maven/com.newrelic.labs/otel-mule4-observability-agent@1.5.2?classifier=sources

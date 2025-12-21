@@ -1,0 +1,2 @@
+- pkg:maven/com.evolution/sbt-dependency-rules-plugin_sbt2_3@0.1.0
+- pkg:maven/com.evolution/sbt-dependency-rules-plugin_sbt2_3@0.1.0?classifier=sources

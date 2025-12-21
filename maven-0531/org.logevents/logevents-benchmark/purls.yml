@@ -80,3 +80,4 @@
 - pkg:maven/org.logevents/logevents-benchmark@0.5.7?classifier=sources
 - pkg:maven/org.logevents/logevents-benchmark@0.5.8
 - pkg:maven/org.logevents/logevents-benchmark@0.5.8?classifier=sources
+- pkg:maven/org.logevents/logevents-benchmark@0.5.9?classifier=sources

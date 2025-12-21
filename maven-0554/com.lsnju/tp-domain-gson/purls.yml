@@ -5,3 +5,6 @@
 - pkg:maven/com.lsnju/tp-domain-gson@2.7.26?classifier=sources
 - pkg:maven/com.lsnju/tp-domain-gson@2.7.27?classifier=sources
 - pkg:maven/com.lsnju/tp-domain-gson@2.7.28?classifier=sources
+- pkg:maven/com.lsnju/tp-domain-gson@2.7.29?classifier=sources
+- pkg:maven/com.lsnju/tp-domain-gson@2.7.30?classifier=sources
+- pkg:maven/com.lsnju/tp-domain-gson@2.7.31?classifier=sources

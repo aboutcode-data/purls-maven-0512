@@ -10,6 +10,13 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@2025.1.7-5.16.13?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@2025.1.8-5.16.13?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@2025.1.9-5.16.14?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@2025.10.0-5.18.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@2025.10.1-5.18.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@2025.10.2-5.18.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@2025.10.3-5.18.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@2025.10.4-5.18.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@2025.10.5-5.18.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@2025.10.6-5.18.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@2025.2.0-5.16.14?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@2025.2.1-5.16.14?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js@2025.2.10-5.16.14?classifier=sources

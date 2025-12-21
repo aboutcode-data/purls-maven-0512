@@ -10,3 +10,4 @@
 - pkg:maven/fr.insee.trevas/coverage@1.8.0
 - pkg:maven/fr.insee.trevas/coverage@1.9.0
 - pkg:maven/fr.insee.trevas/coverage@1.9.0?classifier=sources
+- pkg:maven/fr.insee.trevas/coverage@2.0.0?classifier=sources

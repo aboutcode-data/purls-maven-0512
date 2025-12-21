@@ -118,3 +118,4 @@
 - pkg:maven/com.helger/phoss-smp-backend-xml@7.2.7?classifier=sources
 - pkg:maven/com.helger/phoss-smp-backend-xml@7.2.8?classifier=sources
 - pkg:maven/com.helger/phoss-smp-backend-xml@8.0.0?classifier=sources
+- pkg:maven/com.helger/phoss-smp-backend-xml@8.0.1?classifier=sources

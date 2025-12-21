@@ -38,3 +38,4 @@
 - pkg:maven/com.displee/rs-cache-library@7.1.8?classifier=sources
 - pkg:maven/com.displee/rs-cache-library@7.2.0?classifier=sources
 - pkg:maven/com.displee/rs-cache-library@7.3.0?classifier=sources
+- pkg:maven/com.displee/rs-cache-library@7.3.1?classifier=sources
