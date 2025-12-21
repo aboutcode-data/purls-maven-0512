@@ -1,0 +1,3 @@
+- pkg:maven/com.logicsoftsac.molina/response-handler@1.0.0?classifier=sources
+- pkg:maven/com.logicsoftsac.molina/response-handler@1.2.0?classifier=sources
+- pkg:maven/com.logicsoftsac.molina/response-handler@1.4.0?classifier=sources

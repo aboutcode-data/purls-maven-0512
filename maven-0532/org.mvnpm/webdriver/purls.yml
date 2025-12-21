@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/webdriver@9.19.2
+- pkg:maven/org.mvnpm/webdriver@9.19.2?classifier=sources

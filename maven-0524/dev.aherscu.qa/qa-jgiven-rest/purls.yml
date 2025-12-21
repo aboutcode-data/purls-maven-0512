@@ -26,3 +26,4 @@
 - pkg:maven/dev.aherscu.qa/qa-jgiven-rest@1.0.4?classifier=sources
 - pkg:maven/dev.aherscu.qa/qa-jgiven-rest@1.0.7?classifier=sources
 - pkg:maven/dev.aherscu.qa/qa-jgiven-rest@1.0.8?classifier=sources
+- pkg:maven/dev.aherscu.qa/qa-jgiven-rest@1.0.9?classifier=sources

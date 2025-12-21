@@ -27,3 +27,4 @@
 - pkg:maven/io.toolisticon.kotlin.avro/avro-kotlin-serialization@1.12.5.0?classifier=sources
 - pkg:maven/io.toolisticon.kotlin.avro/avro-kotlin-serialization@1.12.5.1?classifier=sources
 - pkg:maven/io.toolisticon.kotlin.avro/avro-kotlin-serialization@1.12.5.2?classifier=sources
+- pkg:maven/io.toolisticon.kotlin.avro/avro-kotlin-serialization@1.12.5.3?classifier=sources

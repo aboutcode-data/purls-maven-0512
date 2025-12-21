@@ -554,6 +554,7 @@
 - pkg:maven/org.babyfish.jimmer/jimmer-apt@0.9.103?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-apt@0.9.104?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-apt@0.9.105?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-apt@0.9.106?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-apt@0.9.10?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-apt@0.9.11?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-apt@0.9.12?classifier=sources

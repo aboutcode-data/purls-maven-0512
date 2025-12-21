@@ -1,1 +1,3 @@
 - pkg:maven/dev.puzzleshq/mod-format-framework@1.0.0?classifier=sources
+- pkg:maven/dev.puzzleshq/mod-format-framework@1.1.0?classifier=sources
+- pkg:maven/dev.puzzleshq/mod-format-framework@1.1.1?classifier=sources

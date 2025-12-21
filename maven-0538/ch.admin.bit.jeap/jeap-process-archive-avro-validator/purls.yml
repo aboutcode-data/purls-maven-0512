@@ -7,6 +7,8 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-avro-validator@8.16.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-avro-validator@8.17.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-avro-validator@8.18.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-archive-avro-validator@8.19.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-archive-avro-validator@8.20.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-avro-validator@8.4.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-avro-validator@8.5.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-avro-validator@8.6.0?classifier=sources

@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jellytools-platform@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jellytools-platform@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jellytools-platform@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-jellytools-platform@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jellytools-platform@RELEASE90?classifier=sources

@@ -34,3 +34,4 @@
 - pkg:maven/com.danielflower/intercepting-forward-proxy@7.0.6?classifier=sources
 - pkg:maven/com.danielflower/intercepting-forward-proxy@8.0.0
 - pkg:maven/com.danielflower/intercepting-forward-proxy@8.0.0?classifier=sources
+- pkg:maven/com.danielflower/intercepting-forward-proxy@8.0.1?classifier=sources

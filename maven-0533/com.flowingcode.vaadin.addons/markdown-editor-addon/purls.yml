@@ -2,3 +2,5 @@
 - pkg:maven/com.flowingcode.vaadin.addons/markdown-editor-addon@1.0.0?classifier=sources
 - pkg:maven/com.flowingcode.vaadin.addons/markdown-editor-addon@1.1.0
 - pkg:maven/com.flowingcode.vaadin.addons/markdown-editor-addon@1.1.0?classifier=sources
+- pkg:maven/com.flowingcode.vaadin.addons/markdown-editor-addon@2.0.0?classifier=sources
+- pkg:maven/com.flowingcode.vaadin.addons/markdown-editor-addon@2.0.1?classifier=sources

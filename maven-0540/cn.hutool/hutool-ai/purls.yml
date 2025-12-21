@@ -1,2 +1,3 @@
 - pkg:maven/cn.hutool/hutool-ai@5.8.38?classifier=sources
 - pkg:maven/cn.hutool/hutool-ai@5.8.39?classifier=sources
+- pkg:maven/cn.hutool/hutool-ai@5.8.40?classifier=sources

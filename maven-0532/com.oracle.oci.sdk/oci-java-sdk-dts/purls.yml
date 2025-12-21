@@ -608,6 +608,8 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dts@3.70.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dts@3.70.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dts@3.70.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dts@3.71.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dts@3.71.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dts@3.8.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dts@3.8.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dts@3.9.0

@@ -4,6 +4,8 @@
 - pkg:maven/ch.admin.bit.jeap/truststore-maven-plugin@1.15.2?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/truststore-maven-plugin@1.16.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/truststore-maven-plugin@1.17.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/truststore-maven-plugin@1.18.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/truststore-maven-plugin@1.19.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/truststore-maven-plugin@1.5.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/truststore-maven-plugin@1.6.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/truststore-maven-plugin@1.7.0?classifier=sources

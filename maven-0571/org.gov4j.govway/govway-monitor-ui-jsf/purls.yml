@@ -1,2 +1,3 @@
 - pkg:maven/org.gov4j.govway/govway-monitor-ui-jsf@20250610?classifier=sources
 - pkg:maven/org.gov4j.govway/govway-monitor-ui-jsf@20250619?classifier=sources
+- pkg:maven/org.gov4j.govway/govway-monitor-ui-jsf@20250825?classifier=sources

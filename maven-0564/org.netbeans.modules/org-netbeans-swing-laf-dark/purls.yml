@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-dark@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-dark@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-dark@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-swing-laf-dark@RELEASE270?classifier=sources

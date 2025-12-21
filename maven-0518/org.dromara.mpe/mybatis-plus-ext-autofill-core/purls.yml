@@ -5,3 +5,6 @@
 - pkg:maven/org.dromara.mpe/mybatis-plus-ext-autofill-core@3.5.12-EXT872?classifier=sources
 - pkg:maven/org.dromara.mpe/mybatis-plus-ext-autofill-core@3.5.12-EXT873?classifier=sources
 - pkg:maven/org.dromara.mpe/mybatis-plus-ext-autofill-core@3.5.12-EXT874?classifier=sources
+- pkg:maven/org.dromara.mpe/mybatis-plus-ext-autofill-core@3.5.12-EXT875?classifier=sources
+- pkg:maven/org.dromara.mpe/mybatis-plus-ext-autofill-core@3.5.12-EXT876?classifier=sources
+- pkg:maven/org.dromara.mpe/mybatis-plus-ext-autofill-core@3.5.12-EXT877?classifier=sources

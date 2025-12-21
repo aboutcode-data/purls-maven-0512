@@ -1,3 +1,4 @@
 - pkg:maven/dev.enro/enro-annotations-android@2.9.0-kmp01?classifier=sources
 - pkg:maven/dev.enro/enro-annotations-android@2.9.0-kmp02?classifier=sources
 - pkg:maven/dev.enro/enro-annotations-android@2.9.0-kmp03?classifier=sources
+- pkg:maven/dev.enro/enro-annotations-android@3.0.0-alpha01?classifier=sources

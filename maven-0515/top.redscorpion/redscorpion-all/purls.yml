@@ -29,3 +29,5 @@
 - pkg:maven/top.redscorpion/redscorpion-all@0.3.3?classifier=sources
 - pkg:maven/top.redscorpion/redscorpion-all@0.3.4
 - pkg:maven/top.redscorpion/redscorpion-all@0.3.4?classifier=sources
+- pkg:maven/top.redscorpion/redscorpion-all@0.3.5
+- pkg:maven/top.redscorpion/redscorpion-all@0.3.5?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/com.helger.xsd/ph-xsds-xades141@2.6.0?classifier=sources
 - pkg:maven/com.helger.xsd/ph-xsds-xades141@3.0.0
 - pkg:maven/com.helger.xsd/ph-xsds-xades141@3.0.0?classifier=sources
+- pkg:maven/com.helger.xsd/ph-xsds-xades141@4.0.0?classifier=sources

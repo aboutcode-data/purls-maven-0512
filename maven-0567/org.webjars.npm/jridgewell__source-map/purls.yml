@@ -1,4 +1,5 @@
 - pkg:maven/org.webjars.npm/jridgewell__source-map@0.3.10
+- pkg:maven/org.webjars.npm/jridgewell__source-map@0.3.11
 - pkg:maven/org.webjars.npm/jridgewell__source-map@0.3.2
 - pkg:maven/org.webjars.npm/jridgewell__source-map@0.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/jridgewell__source-map@0.3.3

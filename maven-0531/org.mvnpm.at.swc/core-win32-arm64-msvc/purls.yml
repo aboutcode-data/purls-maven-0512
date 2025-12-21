@@ -1,2 +1,6 @@
 - pkg:maven/org.mvnpm.at.swc/core-win32-arm64-msvc@1.13.3
 - pkg:maven/org.mvnpm.at.swc/core-win32-arm64-msvc@1.13.3?classifier=sources
+- pkg:maven/org.mvnpm.at.swc/core-win32-arm64-msvc@1.13.4
+- pkg:maven/org.mvnpm.at.swc/core-win32-arm64-msvc@1.13.4?classifier=sources
+- pkg:maven/org.mvnpm.at.swc/core-win32-arm64-msvc@1.13.5
+- pkg:maven/org.mvnpm.at.swc/core-win32-arm64-msvc@1.13.5?classifier=sources

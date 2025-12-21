@@ -82,3 +82,5 @@
 - pkg:maven/com.github.ichoran/kse3-flow_3@0.3.8?classifier=sources
 - pkg:maven/com.github.ichoran/kse3-flow_3@0.3.9
 - pkg:maven/com.github.ichoran/kse3-flow_3@0.3.9?classifier=sources
+- pkg:maven/com.github.ichoran/kse3-flow_3@0.4.0
+- pkg:maven/com.github.ichoran/kse3-flow_3@0.4.0?classifier=sources

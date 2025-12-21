@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dkmarkell/textresource-test@0.3.1?classifier=sources
+- pkg:maven/io.github.dkmarkell/textresource-test@1.0.0?classifier=sources

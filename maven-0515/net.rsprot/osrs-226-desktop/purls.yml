@@ -55,3 +55,4 @@
 - pkg:maven/net.rsprot/osrs-226-desktop@1.0.0-ALPHA-20250724?classifier=sources
 - pkg:maven/net.rsprot/osrs-226-desktop@1.0.0-ALPHA-20250805?classifier=sources
 - pkg:maven/net.rsprot/osrs-226-desktop@1.0.0-ALPHA-20250808?classifier=sources
+- pkg:maven/net.rsprot/osrs-226-desktop@1.0.0-ALPHA-20250811?classifier=sources

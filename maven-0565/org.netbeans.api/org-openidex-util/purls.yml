@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.api/org-openidex-util@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-openidex-util@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-openidex-util@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.api/org-openidex-util@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.api/org-openidex-util@RELEASE90?classifier=sources

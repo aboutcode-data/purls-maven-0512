@@ -200,3 +200,6 @@
 - pkg:maven/fi.evolver/evolver-ai-vaadin-cs@9.2.0?classifier=sources
 - pkg:maven/fi.evolver/evolver-ai-vaadin-cs@9.2.1
 - pkg:maven/fi.evolver/evolver-ai-vaadin-cs@9.2.1?classifier=sources
+- pkg:maven/fi.evolver/evolver-ai-vaadin-cs@9.3.0?classifier=sources
+- pkg:maven/fi.evolver/evolver-ai-vaadin-cs@9.3.1?classifier=sources
+- pkg:maven/fi.evolver/evolver-ai-vaadin-cs@9.3.2?classifier=sources

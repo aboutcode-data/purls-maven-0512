@@ -100,6 +100,8 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@65.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@66.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@66.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@66.0.2?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@66.0.3?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor@8.0.0?classifier=sources

@@ -33,4 +33,13 @@
 - pkg:maven/io.github.turchenkoalex/kotlet-jetty@0.46.0?classifier=sources
 - pkg:maven/io.github.turchenkoalex/kotlet-jetty@0.47.0?classifier=sources
 - pkg:maven/io.github.turchenkoalex/kotlet-jetty@0.48.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-jetty@0.50.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-jetty@0.51.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-jetty@0.52.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-jetty@0.53.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-jetty@0.54.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-jetty@0.55.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-jetty@0.56.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-jetty@0.57.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-jetty@0.58.0?classifier=sources
 - pkg:maven/io.github.turchenkoalex/kotlet-jetty@0.9.0?classifier=sources

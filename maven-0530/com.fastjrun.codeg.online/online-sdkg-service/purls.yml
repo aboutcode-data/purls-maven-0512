@@ -1,3 +1,4 @@
 - pkg:maven/com.fastjrun.codeg.online/online-sdkg-service@1.0.1-test?classifier=sources
 - pkg:maven/com.fastjrun.codeg.online/online-sdkg-service@5.0.3?classifier=sources
+- pkg:maven/com.fastjrun.codeg.online/online-sdkg-service@5.0.4?classifier=sources
 - pkg:maven/com.fastjrun.codeg.online/online-sdkg-service@5.0?classifier=sources

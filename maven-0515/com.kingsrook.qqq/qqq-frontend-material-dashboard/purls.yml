@@ -1,0 +1,6 @@
+- pkg:maven/com.kingsrook.qqq/qqq-frontend-material-dashboard@0.25.0-RC.1?classifier=sources
+- pkg:maven/com.kingsrook.qqq/qqq-frontend-material-dashboard@0.25.0-RC.2?classifier=sources
+- pkg:maven/com.kingsrook.qqq/qqq-frontend-material-dashboard@0.25.0?classifier=sources
+- pkg:maven/com.kingsrook.qqq/qqq-frontend-material-dashboard@0.26.0-RC.1?classifier=sources
+- pkg:maven/com.kingsrook.qqq/qqq-frontend-material-dashboard@0.26.0-RC.2?classifier=sources
+- pkg:maven/com.kingsrook.qqq/qqq-frontend-material-dashboard@0.26.0-RC.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.appliedrec/face-recognition-dlib@1.0.0?classifier=sources
+- pkg:maven/com.appliedrec/face-recognition-dlib@1.1.0?classifier=sources
+- pkg:maven/com.appliedrec/face-recognition-dlib@1.1.1?classifier=sources
+- pkg:maven/com.appliedrec/face-recognition-dlib@unspecified?classifier=sources

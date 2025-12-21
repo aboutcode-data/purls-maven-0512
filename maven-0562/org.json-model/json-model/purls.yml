@@ -1,0 +1,4 @@
+- pkg:maven/org.json-model/json-model@2.0b4
+- pkg:maven/org.json-model/json-model@2.0b4?classifier=sources
+- pkg:maven/org.json-model/json-model@2.0b5
+- pkg:maven/org.json-model/json-model@2.0b5?classifier=sources

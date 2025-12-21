@@ -89,6 +89,8 @@
 - pkg:maven/com.cloudsnorkel/cdk.github.runners@0.14.10?classifier=sources
 - pkg:maven/com.cloudsnorkel/cdk.github.runners@0.14.11
 - pkg:maven/com.cloudsnorkel/cdk.github.runners@0.14.11?classifier=sources
+- pkg:maven/com.cloudsnorkel/cdk.github.runners@0.14.12
+- pkg:maven/com.cloudsnorkel/cdk.github.runners@0.14.12?classifier=sources
 - pkg:maven/com.cloudsnorkel/cdk.github.runners@0.14.1?classifier=sources
 - pkg:maven/com.cloudsnorkel/cdk.github.runners@0.14.2
 - pkg:maven/com.cloudsnorkel/cdk.github.runners@0.14.2?classifier=sources

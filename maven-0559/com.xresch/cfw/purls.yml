@@ -16,6 +16,8 @@
 - pkg:maven/com.xresch/cfw@11.1.11
 - pkg:maven/com.xresch/cfw@11.1.11?classifier=sources
 - pkg:maven/com.xresch/cfw@11.1.1?classifier=sources
+- pkg:maven/com.xresch/cfw@11.11.11
+- pkg:maven/com.xresch/cfw@11.11.11?classifier=sources
 - pkg:maven/com.xresch/cfw@2.0.0
 - pkg:maven/com.xresch/cfw@2.0.0?classifier=sources
 - pkg:maven/com.xresch/cfw@2.0.1

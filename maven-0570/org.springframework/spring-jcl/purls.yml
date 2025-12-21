@@ -221,6 +221,7 @@
 - pkg:maven/org.springframework/spring-jcl@6.1.8?classifier=sources
 - pkg:maven/org.springframework/spring-jcl@6.1.9?classifier=sources
 - pkg:maven/org.springframework/spring-jcl@6.2.0?classifier=sources
+- pkg:maven/org.springframework/spring-jcl@6.2.10?classifier=sources
 - pkg:maven/org.springframework/spring-jcl@6.2.1?classifier=sources
 - pkg:maven/org.springframework/spring-jcl@6.2.2?classifier=sources
 - pkg:maven/org.springframework/spring-jcl@6.2.3?classifier=sources

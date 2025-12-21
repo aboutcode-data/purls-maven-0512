@@ -1,0 +1,5 @@
+- pkg:maven/com.lancedb/lance-namespace-unity@0.0.12?classifier=sources
+- pkg:maven/com.lancedb/lance-namespace-unity@0.0.13?classifier=sources
+- pkg:maven/com.lancedb/lance-namespace-unity@0.0.14?classifier=sources
+- pkg:maven/com.lancedb/lance-namespace-unity@0.0.8?classifier=sources
+- pkg:maven/com.lancedb/lance-namespace-unity@0.0.9?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.mvnpm.at.vaadin/vaadin-list-mixin@23.3.8?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vaadin-list-mixin@23.6.0
 - pkg:maven/org.mvnpm.at.vaadin/vaadin-list-mixin@23.6.0?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/vaadin-list-mixin@23.6.1
+- pkg:maven/org.mvnpm.at.vaadin/vaadin-list-mixin@23.6.1?classifier=sources

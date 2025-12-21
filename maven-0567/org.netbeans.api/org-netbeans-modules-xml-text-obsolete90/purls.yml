@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-text-obsolete90@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-text-obsolete90@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-text-obsolete90@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-text-obsolete90@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-text-obsolete90@RELEASE90?classifier=sources

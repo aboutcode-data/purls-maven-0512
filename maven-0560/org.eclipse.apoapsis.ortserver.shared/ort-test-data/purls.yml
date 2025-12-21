@@ -11,6 +11,9 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.shared/ort-test-data@0.21.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.shared/ort-test-data@0.22.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.shared/ort-test-data@0.23.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.shared/ort-test-data@0.24.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.shared/ort-test-data@0.25.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.shared/ort-test-data@0.26.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.shared/ort-test-data@0.6.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.shared/ort-test-data@0.7.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.shared/ort-test-data@0.8.0?classifier=sources

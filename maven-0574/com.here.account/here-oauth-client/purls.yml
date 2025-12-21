@@ -38,6 +38,8 @@
 - pkg:maven/com.here.account/here-oauth-client@0.4.29?classifier=sources
 - pkg:maven/com.here.account/here-oauth-client@0.4.30
 - pkg:maven/com.here.account/here-oauth-client@0.4.30?classifier=sources
+- pkg:maven/com.here.account/here-oauth-client@0.4.31
+- pkg:maven/com.here.account/here-oauth-client@0.4.31?classifier=sources
 - pkg:maven/com.here.account/here-oauth-client@0.4.7
 - pkg:maven/com.here.account/here-oauth-client@0.4.7?classifier=sources
 - pkg:maven/com.here.account/here-oauth-client@0.4.8

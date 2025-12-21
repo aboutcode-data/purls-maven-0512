@@ -1,0 +1,1 @@
+- pkg:maven/com.configcat/configcat-kotlin-client-wasm-js@5.1.0?classifier=sources

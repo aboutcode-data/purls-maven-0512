@@ -119,3 +119,7 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@7.4?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@8.0?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@8.1?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@8.2?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@8.3?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@8.4?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-authenticators@8.5?classifier=sources

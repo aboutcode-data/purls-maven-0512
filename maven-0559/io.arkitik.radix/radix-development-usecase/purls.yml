@@ -18,6 +18,7 @@
 - pkg:maven/io.arkitik.radix/radix-development-usecase@v1.5.0?classifier=sources
 - pkg:maven/io.arkitik.radix/radix-development-usecase@v1.6.0
 - pkg:maven/io.arkitik.radix/radix-development-usecase@v1.6.0?classifier=sources
+- pkg:maven/io.arkitik.radix/radix-development-usecase@v1.6.1?classifier=sources
 - pkg:maven/io.arkitik.radix/radix-development-usecase@v2.0.0
 - pkg:maven/io.arkitik.radix/radix-development-usecase@v2.0.0?classifier=sources
 - pkg:maven/io.arkitik.radix/radix-development-usecase@v2.1.0

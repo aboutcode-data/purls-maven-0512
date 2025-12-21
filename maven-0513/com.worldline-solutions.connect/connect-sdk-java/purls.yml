@@ -9,3 +9,5 @@
 - pkg:maven/com.worldline-solutions.connect/connect-sdk-java@7.4.0
 - pkg:maven/com.worldline-solutions.connect/connect-sdk-java@7.4.0?classifier=sources
 - pkg:maven/com.worldline-solutions.connect/connect-sdk-java@7.5.0?classifier=sources
+- pkg:maven/com.worldline-solutions.connect/connect-sdk-java@7.6.0?classifier=sources
+- pkg:maven/com.worldline-solutions.connect/connect-sdk-java@7.6.1?classifier=sources

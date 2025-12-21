@@ -13,3 +13,4 @@
 - pkg:maven/io.github.ahmerafzal1/ahmer-pdfviewer@1.7.3?classifier=sources
 - pkg:maven/io.github.ahmerafzal1/ahmer-pdfviewer@1.7.4?classifier=sources
 - pkg:maven/io.github.ahmerafzal1/ahmer-pdfviewer@2.0.0?classifier=sources
+- pkg:maven/io.github.ahmerafzal1/ahmer-pdfviewer@2.0.1?classifier=sources

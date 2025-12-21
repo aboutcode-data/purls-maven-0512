@@ -7,6 +7,7 @@
 - pkg:maven/io.kroxylicious/kroxylicious-filter-test-support@0.13.0
 - pkg:maven/io.kroxylicious/kroxylicious-filter-test-support@0.13.0?classifier=sources
 - pkg:maven/io.kroxylicious/kroxylicious-filter-test-support@0.14.0?classifier=sources
+- pkg:maven/io.kroxylicious/kroxylicious-filter-test-support@0.15.0?classifier=sources
 - pkg:maven/io.kroxylicious/kroxylicious-filter-test-support@0.4.0
 - pkg:maven/io.kroxylicious/kroxylicious-filter-test-support@0.4.0?classifier=sources
 - pkg:maven/io.kroxylicious/kroxylicious-filter-test-support@0.4.1

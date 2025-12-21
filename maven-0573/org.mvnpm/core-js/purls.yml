@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm/core-js@0.6.1
+- pkg:maven/org.mvnpm/core-js@0.6.1?classifier=sources
 - pkg:maven/org.mvnpm/core-js@1.2.7?classifier=sources
 - pkg:maven/org.mvnpm/core-js@2.4.0?classifier=sources
 - pkg:maven/org.mvnpm/core-js@2.4.1?classifier=sources
@@ -45,3 +47,5 @@
 - pkg:maven/org.mvnpm/core-js@3.44.0?classifier=sources
 - pkg:maven/org.mvnpm/core-js@3.45.0
 - pkg:maven/org.mvnpm/core-js@3.45.0?classifier=sources
+- pkg:maven/org.mvnpm/core-js@3.45.1
+- pkg:maven/org.mvnpm/core-js@3.45.1?classifier=sources

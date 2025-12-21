@@ -22,3 +22,4 @@
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.lcp.downloads@15.0.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.lcp.downloads@16.0.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.lcp.downloads@16.1.0?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.lcp.downloads@17.0.0?classifier=sources

@@ -1,6 +1,9 @@
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@04022025-Beta1?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@04082025-Beta-1?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@05082025-Beta-1?classifier=sources
+- pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@06082025-Beta-1?classifier=sources
+- pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@06082025-Beta-2?classifier=sources
+- pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@06082025-Beta-3?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@06122024-Beta-1?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@07112024-Beta-1?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@07112024-Beta-2?classifier=sources
@@ -14,6 +17,9 @@
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@10072025-Beta-1?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@11062024-Beta1?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@11062025-Beta-1?classifier=sources
+- pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@11082025-Beta-1?classifier=sources
+- pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@11082025-Beta-2?classifier=sources
+- pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@12082025-Beta-1?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@15052024-Beta-1?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@2.0.0?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@20112024-Beta-1?classifier=sources
@@ -26,6 +32,7 @@
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@26062025-Beta-1?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@26062025-Beta-2?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@26062025-Beta-3?classifier=sources
+- pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@26082025-Beta-1?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@27042024-Beta1?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@27072023-1?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@27072023-2?classifier=sources
@@ -88,3 +95,4 @@
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@4.5.1?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@4.6.0?classifier=sources
 - pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@4.6.1?classifier=sources
+- pkg:maven/com.webgeoservices.woosmapgeofencing/woosmap-mobile-sdk@4.6.2?classifier=sources

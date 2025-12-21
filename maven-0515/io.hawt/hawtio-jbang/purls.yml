@@ -42,3 +42,4 @@
 - pkg:maven/io.hawt/hawtio-jbang@4.4.0?classifier=sources
 - pkg:maven/io.hawt/hawtio-jbang@4.4.1
 - pkg:maven/io.hawt/hawtio-jbang@4.4.1?classifier=sources
+- pkg:maven/io.hawt/hawtio-jbang@4.5.0?classifier=sources

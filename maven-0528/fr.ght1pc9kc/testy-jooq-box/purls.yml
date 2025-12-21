@@ -14,3 +14,4 @@
 - pkg:maven/fr.ght1pc9kc/testy-jooq-box@1.7.2?classifier=sources
 - pkg:maven/fr.ght1pc9kc/testy-jooq-box@2.0.0?classifier=sources
 - pkg:maven/fr.ght1pc9kc/testy-jooq-box@2.0.1?classifier=sources
+- pkg:maven/fr.ght1pc9kc/testy-jooq-box@2.0.2?classifier=sources

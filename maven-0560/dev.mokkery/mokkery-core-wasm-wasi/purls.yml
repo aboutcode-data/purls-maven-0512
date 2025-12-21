@@ -23,3 +23,4 @@
 - pkg:maven/dev.mokkery/mokkery-core-wasm-wasi@2.7.2?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-core-wasm-wasi@2.8.0?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-core-wasm-wasi@2.9.0?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-core-wasm-wasi@3.0.0-Beta1?classifier=sources

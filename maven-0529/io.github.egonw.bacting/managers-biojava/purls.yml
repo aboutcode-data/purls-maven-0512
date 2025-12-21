@@ -99,3 +99,4 @@
 - pkg:maven/io.github.egonw.bacting/managers-biojava@1.0.5
 - pkg:maven/io.github.egonw.bacting/managers-biojava@1.0.5?classifier=sources
 - pkg:maven/io.github.egonw.bacting/managers-biojava@1.0.6?classifier=sources
+- pkg:maven/io.github.egonw.bacting/managers-biojava@1.0.7?classifier=sources

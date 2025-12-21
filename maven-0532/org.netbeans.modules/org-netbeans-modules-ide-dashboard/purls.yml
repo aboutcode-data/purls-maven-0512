@@ -3,3 +3,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-dashboard@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-dashboard@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-dashboard@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-dashboard@RELEASE270?classifier=sources

@@ -5,3 +5,5 @@
 - pkg:maven/io.github.smyrgeorge/log4k-coroutines@0.40.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/log4k-coroutines@0.45.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/log4k-coroutines@0.50.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/log4k-coroutines@1.0.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/log4k-coroutines@1.1.0?classifier=sources

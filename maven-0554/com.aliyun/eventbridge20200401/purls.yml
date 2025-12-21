@@ -54,3 +54,4 @@
 - pkg:maven/com.aliyun/eventbridge20200401@5.2.2?classifier=sources
 - pkg:maven/com.aliyun/eventbridge20200401@6.0.0?classifier=sources
 - pkg:maven/com.aliyun/eventbridge20200401@6.1.0?classifier=sources
+- pkg:maven/com.aliyun/eventbridge20200401@6.1.1?classifier=sources

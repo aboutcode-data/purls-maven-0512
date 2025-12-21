@@ -9,3 +9,4 @@
 - pkg:maven/com.hynnet/hynnet-webplugin@1.1.1
 - pkg:maven/com.hynnet/hynnet-webplugin@1.1.1?classifier=sources
 - pkg:maven/com.hynnet/hynnet-webplugin@1.1.2?classifier=sources
+- pkg:maven/com.hynnet/hynnet-webplugin@1.3.6?classifier=sources

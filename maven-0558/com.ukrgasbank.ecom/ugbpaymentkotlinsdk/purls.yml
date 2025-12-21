@@ -1,0 +1,2 @@
+- pkg:maven/com.ukrgasbank.ecom/ugbpaymentkotlinsdk@1.4.0?classifier=sources
+- pkg:maven/com.ukrgasbank.ecom/ugbpaymentkotlinsdk@1.4.0?type=aar

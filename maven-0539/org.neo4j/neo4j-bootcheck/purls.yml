@@ -20,6 +20,8 @@
 - pkg:maven/org.neo4j/neo4j-bootcheck@2025.07.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bootcheck@2025.07.1
 - pkg:maven/org.neo4j/neo4j-bootcheck@2025.07.1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-bootcheck@2025.08.0
+- pkg:maven/org.neo4j/neo4j-bootcheck@2025.08.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bootcheck@4.4.19
 - pkg:maven/org.neo4j/neo4j-bootcheck@4.4.19?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bootcheck@4.4.20
@@ -72,6 +74,8 @@
 - pkg:maven/org.neo4j/neo4j-bootcheck@4.4.43?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bootcheck@4.4.44
 - pkg:maven/org.neo4j/neo4j-bootcheck@4.4.44?classifier=sources
+- pkg:maven/org.neo4j/neo4j-bootcheck@4.4.45
+- pkg:maven/org.neo4j/neo4j-bootcheck@4.4.45?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bootcheck@5.1.0
 - pkg:maven/org.neo4j/neo4j-bootcheck@5.1.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bootcheck@5.10.0
@@ -121,6 +125,8 @@
 - pkg:maven/org.neo4j/neo4j-bootcheck@5.26.1
 - pkg:maven/org.neo4j/neo4j-bootcheck@5.26.10
 - pkg:maven/org.neo4j/neo4j-bootcheck@5.26.10?classifier=sources
+- pkg:maven/org.neo4j/neo4j-bootcheck@5.26.11
+- pkg:maven/org.neo4j/neo4j-bootcheck@5.26.11?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bootcheck@5.26.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bootcheck@5.26.2
 - pkg:maven/org.neo4j/neo4j-bootcheck@5.26.2?classifier=sources

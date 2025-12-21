@@ -62,3 +62,9 @@
 - pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin@1.0.490?classifier=sources
 - pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin@1.0.491?classifier=sources
 - pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin@1.0.492?classifier=sources
+- pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin@1.0.493?classifier=sources
+- pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin@1.0.494?classifier=sources
+- pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin@1.0.495?classifier=sources
+- pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin@1.0.496?classifier=sources
+- pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin@1.0.497?classifier=sources
+- pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin@1.0.498?classifier=sources

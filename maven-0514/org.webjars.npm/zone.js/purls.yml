@@ -2,6 +2,8 @@
 - pkg:maven/org.webjars.npm/zone.js@0.10.2?classifier=sources
 - pkg:maven/org.webjars.npm/zone.js@0.11.4
 - pkg:maven/org.webjars.npm/zone.js@0.11.4?classifier=sources
+- pkg:maven/org.webjars.npm/zone.js@0.11.8
+- pkg:maven/org.webjars.npm/zone.js@0.15.1
 - pkg:maven/org.webjars.npm/zone.js@0.5.10
 - pkg:maven/org.webjars.npm/zone.js@0.5.10?classifier=sources
 - pkg:maven/org.webjars.npm/zone.js@0.5.11

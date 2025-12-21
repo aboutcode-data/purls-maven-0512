@@ -1,0 +1,1 @@
+- pkg:maven/io.cdap.delta/bigquery-delta-plugins@0.10.1?classifier=sources

@@ -21,3 +21,4 @@
 - pkg:maven/dev.hathora/cloud-sdk@2.9.14?classifier=sources
 - pkg:maven/dev.hathora/cloud-sdk@2.9.15?classifier=sources
 - pkg:maven/dev.hathora/cloud-sdk@3.1.10?classifier=sources
+- pkg:maven/dev.hathora/cloud-sdk@3.2.0?classifier=sources

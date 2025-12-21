@@ -374,3 +374,4 @@
 - pkg:maven/berlin.yuna/config-metadata-generator@2025.07.2000514?classifier=sources
 - pkg:maven/berlin.yuna/config-metadata-generator@2025.07.2030517?classifier=sources
 - pkg:maven/berlin.yuna/config-metadata-generator@2025.08.2170521?classifier=sources
+- pkg:maven/berlin.yuna/config-metadata-generator@2025.08.2280510?classifier=sources

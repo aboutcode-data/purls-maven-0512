@@ -12,3 +12,4 @@
 - pkg:maven/org.qubership/qip-runtime-catalog@0.2.2?classifier=sources
 - pkg:maven/org.qubership/qip-runtime-catalog@0.2.3?classifier=sources
 - pkg:maven/org.qubership/qip-runtime-catalog@0.2.4?classifier=sources
+- pkg:maven/org.qubership/qip-runtime-catalog@0.2.5?classifier=sources

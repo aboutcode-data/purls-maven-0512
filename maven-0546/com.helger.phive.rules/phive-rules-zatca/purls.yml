@@ -4,9 +4,11 @@
 - pkg:maven/com.helger.phive.rules/phive-rules-zatca@3.2.12?classifier=sources
 - pkg:maven/com.helger.phive.rules/phive-rules-zatca@3.2.13?classifier=sources
 - pkg:maven/com.helger.phive.rules/phive-rules-zatca@3.2.14?classifier=sources
+- pkg:maven/com.helger.phive.rules/phive-rules-zatca@3.2.15?classifier=sources
 - pkg:maven/com.helger.phive.rules/phive-rules-zatca@3.2.7
 - pkg:maven/com.helger.phive.rules/phive-rules-zatca@3.2.7?classifier=sources
 - pkg:maven/com.helger.phive.rules/phive-rules-zatca@3.2.8
 - pkg:maven/com.helger.phive.rules/phive-rules-zatca@3.2.8?classifier=sources
 - pkg:maven/com.helger.phive.rules/phive-rules-zatca@3.2.9
 - pkg:maven/com.helger.phive.rules/phive-rules-zatca@3.2.9?classifier=sources
+- pkg:maven/com.helger.phive.rules/phive-rules-zatca@4.0.0?classifier=sources
