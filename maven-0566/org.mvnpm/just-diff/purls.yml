@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/just-diff@6.0.2
+- pkg:maven/org.mvnpm/just-diff@6.0.2?classifier=sources

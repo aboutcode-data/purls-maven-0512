@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm/proc-log@5.0.0?classifier=sources
+- pkg:maven/org.mvnpm/proc-log@6.0.0
+- pkg:maven/org.mvnpm/proc-log@6.0.0?classifier=sources

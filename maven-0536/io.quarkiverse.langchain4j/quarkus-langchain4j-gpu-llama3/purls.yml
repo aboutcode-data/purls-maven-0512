@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-gpu-llama3@1.4.0.CR1?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-gpu-llama3@1.4.0.CR2?classifier=sources

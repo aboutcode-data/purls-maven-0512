@@ -1,1 +1,2 @@
 - pkg:maven/com.navigine/navigine-locationview-compose@1.7.2?classifier=sources
+- pkg:maven/com.navigine/navigine-locationview-compose@1.7.3?classifier=sources

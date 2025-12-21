@@ -20,6 +20,7 @@
 - pkg:maven/io.github.gao746700783/hx-client-sdk@0.0.21?classifier=sources
 - pkg:maven/io.github.gao746700783/hx-client-sdk@0.0.21_fix?classifier=sources
 - pkg:maven/io.github.gao746700783/hx-client-sdk@0.0.22?classifier=sources
+- pkg:maven/io.github.gao746700783/hx-client-sdk@0.0.27?classifier=sources
 - pkg:maven/io.github.gao746700783/hx-client-sdk@0.0.2?classifier=sources
 - pkg:maven/io.github.gao746700783/hx-client-sdk@0.0.3?classifier=sources
 - pkg:maven/io.github.gao746700783/hx-client-sdk@0.0.5?classifier=sources

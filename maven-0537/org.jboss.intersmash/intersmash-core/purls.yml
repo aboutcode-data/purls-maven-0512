@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.intersmash/intersmash-core@0.0.4.Beta3
+- pkg:maven/org.jboss.intersmash/intersmash-core@0.0.4.Beta3?classifier=sources

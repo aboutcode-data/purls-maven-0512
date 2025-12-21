@@ -54,3 +54,5 @@
 - pkg:maven/org.apache.druid.extensions.contrib/aliyun-oss-extensions@33.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions.contrib/aliyun-oss-extensions@34.0.0
 - pkg:maven/org.apache.druid.extensions.contrib/aliyun-oss-extensions@34.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions.contrib/aliyun-oss-extensions@35.0.0
+- pkg:maven/org.apache.druid.extensions.contrib/aliyun-oss-extensions@35.0.0?classifier=sources

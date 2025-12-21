@@ -4,3 +4,4 @@
 - pkg:maven/com.liferay.faces.support/com.liferay.faces.support.thick.cdi@5.0.0?classifier=sources
 - pkg:maven/com.liferay.faces.support/com.liferay.faces.support.thick.cdi@6.0.0
 - pkg:maven/com.liferay.faces.support/com.liferay.faces.support.thick.cdi@6.0.0?classifier=sources
+- pkg:maven/com.liferay.faces.support/com.liferay.faces.support.thick.cdi@6.0.1?classifier=sources

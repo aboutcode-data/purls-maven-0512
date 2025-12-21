@@ -58,6 +58,10 @@
 - pkg:maven/io.hyper-space/hyperspace@2.0.295?classifier=sources
 - pkg:maven/io.hyper-space/hyperspace@2.0.29?classifier=sources
 - pkg:maven/io.hyper-space/hyperspace@2.0.300?classifier=sources
+- pkg:maven/io.hyper-space/hyperspace@2.0.304?classifier=sources
+- pkg:maven/io.hyper-space/hyperspace@2.0.309?classifier=sources
+- pkg:maven/io.hyper-space/hyperspace@2.0.311?classifier=sources
+- pkg:maven/io.hyper-space/hyperspace@2.0.314?classifier=sources
 - pkg:maven/io.hyper-space/hyperspace@2.0.46?classifier=sources
 - pkg:maven/io.hyper-space/hyperspace@2.0.51?classifier=sources
 - pkg:maven/io.hyper-space/hyperspace@2.0.58?classifier=sources

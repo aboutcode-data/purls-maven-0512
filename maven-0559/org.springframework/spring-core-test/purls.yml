@@ -68,3 +68,4 @@
 - pkg:maven/org.springframework/spring-core-test@7.0.0-M9?classifier=sources
 - pkg:maven/org.springframework/spring-core-test@7.0.0-RC1?classifier=sources
 - pkg:maven/org.springframework/spring-core-test@7.0.0-RC2?classifier=sources
+- pkg:maven/org.springframework/spring-core-test@7.0.0-RC3?classifier=sources

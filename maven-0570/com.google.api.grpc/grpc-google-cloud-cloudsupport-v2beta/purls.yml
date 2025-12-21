@@ -24,3 +24,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-cloudsupport-v2beta@0.60.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-cloudsupport-v2beta@0.61.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-cloudsupport-v2beta@0.61.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-cloudsupport-v2beta@0.62.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-cloudsupport-v2beta@0.62.0?classifier=sources

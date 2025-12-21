@@ -67,3 +67,4 @@
 - pkg:maven/org.webjars.npm/readable-stream@4.2.0
 - pkg:maven/org.webjars.npm/readable-stream@4.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/readable-stream@4.5.2
+- pkg:maven/org.webjars.npm/readable-stream@4.7.0

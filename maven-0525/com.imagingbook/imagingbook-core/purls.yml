@@ -8,3 +8,4 @@
 - pkg:maven/com.imagingbook/imagingbook-core@7.0.0?classifier=sources
 - pkg:maven/com.imagingbook/imagingbook-core@7.1.0
 - pkg:maven/com.imagingbook/imagingbook-core@7.1.0?classifier=sources
+- pkg:maven/com.imagingbook/imagingbook-core@7.2.0?classifier=sources

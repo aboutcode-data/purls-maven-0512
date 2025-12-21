@@ -7,3 +7,4 @@
 - pkg:maven/io.trino/trino-functions-python@474?classifier=sources
 - pkg:maven/io.trino/trino-functions-python@475?classifier=sources
 - pkg:maven/io.trino/trino-functions-python@476?classifier=sources
+- pkg:maven/io.trino/trino-functions-python@478?classifier=sources

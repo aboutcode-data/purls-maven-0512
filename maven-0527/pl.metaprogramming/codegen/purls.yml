@@ -110,3 +110,6 @@
 - pkg:maven/pl.metaprogramming/codegen@2.4.2?classifier=sources
 - pkg:maven/pl.metaprogramming/codegen@2.5.0?classifier=sources
 - pkg:maven/pl.metaprogramming/codegen@2.6.0?classifier=sources
+- pkg:maven/pl.metaprogramming/codegen@2.6.1?classifier=sources
+- pkg:maven/pl.metaprogramming/codegen@2.6.2?classifier=sources
+- pkg:maven/pl.metaprogramming/codegen@2.6.3?classifier=sources

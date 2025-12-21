@@ -2,3 +2,4 @@
 - pkg:maven/org.jboss.spec.jakarta.el/jboss-el-api_5.0_spec-parent@4.0.0.CR1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.spec.jakarta.el/jboss-el-api_5.0_spec-parent@4.0.0.CR2?classifier=source-release&type=zip
 - pkg:maven/org.jboss.spec.jakarta.el/jboss-el-api_5.0_spec-parent@4.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.spec.jakarta.el/jboss-el-api_5.0_spec-parent@4.0.2.Final?classifier=source-release&type=zip

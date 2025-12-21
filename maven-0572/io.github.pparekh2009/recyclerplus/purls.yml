@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pparekh2009/recyclerplus@1.0.0?classifier=sources
+- pkg:maven/io.github.pparekh2009/recyclerplus@1.0.0?type=aar

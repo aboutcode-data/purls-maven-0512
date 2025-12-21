@@ -1,2 +1,3 @@
 - pkg:maven/it.obenland.lib/event-test@0.1.0?classifier=sources
 - pkg:maven/it.obenland.lib/event-test@0.1.1?classifier=sources
+- pkg:maven/it.obenland.lib/event-test@0.2.0?classifier=sources

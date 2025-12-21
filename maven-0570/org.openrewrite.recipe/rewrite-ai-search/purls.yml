@@ -57,6 +57,8 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-ai-search@0.30.2?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-ai-search@0.30.3?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-ai-search@0.31.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-ai-search@0.31.1?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-ai-search@0.32.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-ai-search@0.4.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-ai-search@0.5.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-ai-search@0.6.0?classifier=sources

@@ -148,6 +148,8 @@
 - pkg:maven/com.google.cloud/google-cloud-gke-multi-cloud@0.75.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gke-multi-cloud@0.76.0
 - pkg:maven/com.google.cloud/google-cloud-gke-multi-cloud@0.76.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-gke-multi-cloud@0.77.0
+- pkg:maven/com.google.cloud/google-cloud-gke-multi-cloud@0.77.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gke-multi-cloud@0.8.0
 - pkg:maven/com.google.cloud/google-cloud-gke-multi-cloud@0.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gke-multi-cloud@0.9.0

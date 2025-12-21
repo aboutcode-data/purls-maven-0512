@@ -1,2 +1,3 @@
 - pkg:maven/com.aliyun/rai20240701@1.0.0
 - pkg:maven/com.aliyun/rai20240701@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/rai20240701@2.0.0?classifier=sources

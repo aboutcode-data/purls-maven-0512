@@ -1,2 +1,6 @@
 - pkg:maven/org.mvnpm.at.redocly/config@0.22.2
 - pkg:maven/org.mvnpm.at.redocly/config@0.22.2?classifier=sources
+- pkg:maven/org.mvnpm.at.redocly/config@0.31.0
+- pkg:maven/org.mvnpm.at.redocly/config@0.31.0?classifier=sources
+- pkg:maven/org.mvnpm.at.redocly/config@0.36.2
+- pkg:maven/org.mvnpm.at.redocly/config@0.36.2?classifier=sources

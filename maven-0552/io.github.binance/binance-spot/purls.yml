@@ -8,3 +8,5 @@
 - pkg:maven/io.github.binance/binance-spot@5.0.0?classifier=sources
 - pkg:maven/io.github.binance/binance-spot@5.0.1?classifier=sources
 - pkg:maven/io.github.binance/binance-spot@6.0.0?classifier=sources
+- pkg:maven/io.github.binance/binance-spot@7.0.0?classifier=sources
+- pkg:maven/io.github.binance/binance-spot@7.0.1?classifier=sources

@@ -22,3 +22,4 @@
 - pkg:maven/io.github.smiley4/schema-kenerator-validation-swagger@2.2.0?classifier=sources
 - pkg:maven/io.github.smiley4/schema-kenerator-validation-swagger@2.3.0?classifier=sources
 - pkg:maven/io.github.smiley4/schema-kenerator-validation-swagger@2.4.0?classifier=sources
+- pkg:maven/io.github.smiley4/schema-kenerator-validation-swagger@2.5.0?classifier=sources

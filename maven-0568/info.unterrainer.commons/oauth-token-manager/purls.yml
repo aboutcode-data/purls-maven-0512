@@ -1,4 +1,5 @@
 - pkg:maven/info.unterrainer.commons/oauth-token-manager@1.0.10?classifier=sources
+- pkg:maven/info.unterrainer.commons/oauth-token-manager@1.0.11?classifier=sources
 - pkg:maven/info.unterrainer.commons/oauth-token-manager@1.0.4?classifier=sources
 - pkg:maven/info.unterrainer.commons/oauth-token-manager@1.0.5?classifier=sources
 - pkg:maven/info.unterrainer.commons/oauth-token-manager@1.0.6?classifier=sources

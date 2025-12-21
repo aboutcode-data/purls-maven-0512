@@ -5,3 +5,4 @@
 - pkg:maven/de.sharpmind.ktor/ktor-env-config@2.1.1?classifier=sources
 - pkg:maven/de.sharpmind.ktor/ktor-env-config@2.2.1?classifier=sources
 - pkg:maven/de.sharpmind.ktor/ktor-env-config@2.2.2?classifier=sources
+- pkg:maven/de.sharpmind.ktor/ktor-env-config@3.0.0?classifier=sources

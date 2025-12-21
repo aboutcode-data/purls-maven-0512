@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/postcss-nesting@12.1.5
+- pkg:maven/org.mvnpm/postcss-nesting@12.1.5?classifier=sources

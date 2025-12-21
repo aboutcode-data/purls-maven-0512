@@ -97,3 +97,5 @@
 - pkg:maven/me.proton.core/configuration-data@34.3.0?classifier=sources
 - pkg:maven/me.proton.core/configuration-data@34.4.0?classifier=sources
 - pkg:maven/me.proton.core/configuration-data@35.0.0?classifier=sources
+- pkg:maven/me.proton.core/configuration-data@35.1.0?classifier=sources
+- pkg:maven/me.proton.core/configuration-data@35.2.0?classifier=sources

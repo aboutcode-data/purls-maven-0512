@@ -1,3 +1,7 @@
 - pkg:maven/org.mvnpm.at.npmcli/run-script@10.0.0
 - pkg:maven/org.mvnpm.at.npmcli/run-script@10.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.npmcli/run-script@10.0.1
+- pkg:maven/org.mvnpm.at.npmcli/run-script@10.0.1?classifier=sources
+- pkg:maven/org.mvnpm.at.npmcli/run-script@10.0.2
+- pkg:maven/org.mvnpm.at.npmcli/run-script@10.0.2?classifier=sources
 - pkg:maven/org.mvnpm.at.npmcli/run-script@9.1.0?classifier=sources

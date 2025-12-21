@@ -24,3 +24,4 @@
 - pkg:maven/io.github.typesafegithub/action-binding-generator@3.3.0?classifier=sources
 - pkg:maven/io.github.typesafegithub/action-binding-generator@3.4.0?classifier=sources
 - pkg:maven/io.github.typesafegithub/action-binding-generator@3.5.0?classifier=sources
+- pkg:maven/io.github.typesafegithub/action-binding-generator@3.6.0?classifier=sources

@@ -180,5 +180,7 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-os-config-v1beta@2.79.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-os-config-v1beta@2.8.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-os-config-v1beta@2.8.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-os-config-v1beta@2.80.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-os-config-v1beta@2.80.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-os-config-v1beta@2.9.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-os-config-v1beta@2.9.0?classifier=sources

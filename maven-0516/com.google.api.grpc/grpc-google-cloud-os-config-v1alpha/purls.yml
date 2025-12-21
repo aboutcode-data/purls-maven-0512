@@ -180,5 +180,7 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-os-config-v1alpha@2.79.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-os-config-v1alpha@2.8.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-os-config-v1alpha@2.8.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-os-config-v1alpha@2.80.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-os-config-v1alpha@2.80.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-os-config-v1alpha@2.9.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-os-config-v1alpha@2.9.0?classifier=sources

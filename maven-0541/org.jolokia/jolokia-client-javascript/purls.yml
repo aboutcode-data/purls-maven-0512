@@ -53,3 +53,5 @@
 - pkg:maven/org.jolokia/jolokia-client-javascript@2.2.8?classifier=sources
 - pkg:maven/org.jolokia/jolokia-client-javascript@2.2.9?classifier=sources
 - pkg:maven/org.jolokia/jolokia-client-javascript@2.3.0?classifier=sources
+- pkg:maven/org.jolokia/jolokia-client-javascript@2.4.0?classifier=sources
+- pkg:maven/org.jolokia/jolokia-client-javascript@2.4.1?classifier=sources

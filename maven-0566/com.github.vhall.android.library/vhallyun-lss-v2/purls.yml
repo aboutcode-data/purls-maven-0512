@@ -92,3 +92,4 @@
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss-v2@1.6.8?type=aar
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss-v2@1.6.9?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss-v2@1.6.9?type=aar
+- pkg:maven/com.github.vhall.android.library/vhallyun-lss-v2@1.7.0?classifier=sources

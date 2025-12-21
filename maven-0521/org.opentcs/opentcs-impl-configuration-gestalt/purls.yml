@@ -13,3 +13,6 @@
 - pkg:maven/org.opentcs/opentcs-impl-configuration-gestalt@6.4.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-impl-configuration-gestalt@6.5.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-impl-configuration-gestalt@6.6.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-impl-configuration-gestalt@6.7.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-impl-configuration-gestalt@7.0.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-impl-configuration-gestalt@7.0.1?classifier=sources

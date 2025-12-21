@@ -166,5 +166,7 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datastream-v1alpha1@0.80.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datastream-v1alpha1@0.81.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datastream-v1alpha1@0.81.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-datastream-v1alpha1@0.82.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-datastream-v1alpha1@0.82.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datastream-v1alpha1@0.9.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datastream-v1alpha1@0.9.0?classifier=sources

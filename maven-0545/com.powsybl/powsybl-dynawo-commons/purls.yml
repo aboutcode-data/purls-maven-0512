@@ -61,3 +61,4 @@
 - pkg:maven/com.powsybl/powsybl-dynawo-commons@2.8.2
 - pkg:maven/com.powsybl/powsybl-dynawo-commons@2.8.2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-dynawo-commons@2.9.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-dynawo-commons@3.0.0?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/io.acryl/acryl-spark-lineage_2.13@0.2.18?classifier=sources
 - pkg:maven/io.acryl/acryl-spark-lineage_2.13@0.2.19-rc1?classifier=sources
 - pkg:maven/io.acryl/acryl-spark-lineage_2.13@0.2.19-rc2?classifier=sources
+- pkg:maven/io.acryl/acryl-spark-lineage_2.13@0.2.19-rc3?classifier=sources

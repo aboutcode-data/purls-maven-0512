@@ -35,3 +35,5 @@
 - pkg:maven/org.opendaylight.transportpce.models/openroadm-device-2.2.1@22.0.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce.models/openroadm-device-2.2.1@22.1.0
 - pkg:maven/org.opendaylight.transportpce.models/openroadm-device-2.2.1@22.1.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce.models/openroadm-device-2.2.1@23.0.0
+- pkg:maven/org.opendaylight.transportpce.models/openroadm-device-2.2.1@23.0.0?classifier=sources

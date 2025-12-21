@@ -34,3 +34,4 @@
 - pkg:maven/io.micronaut.xml/micronaut-jackson-xml@4.5.0?classifier=sources
 - pkg:maven/io.micronaut.xml/micronaut-jackson-xml@4.6.0?classifier=sources
 - pkg:maven/io.micronaut.xml/micronaut-jackson-xml@4.7.0?classifier=sources
+- pkg:maven/io.micronaut.xml/micronaut-jackson-xml@4.8.0?classifier=sources

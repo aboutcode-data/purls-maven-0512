@@ -29,3 +29,4 @@
 - pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-ton@0.70?classifier=sources
 - pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-ton@0.71?classifier=sources
 - pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-ton@0.72?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-ton@0.73?classifier=sources

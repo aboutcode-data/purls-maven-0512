@@ -384,6 +384,8 @@
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.1.8?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.1.9
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.1.9?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.10.0-alpha.1?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.10.0-alpha.2?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.2.0
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.2.0-alpha.1
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.2.0-alpha.1?classifier=sources
@@ -647,6 +649,9 @@
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.6.21?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.6.22?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.6.23?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.6.24?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.6.25?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.6.26?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.6.2?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.6.3
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.6.3?classifier=sources
@@ -682,8 +687,11 @@
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.7.15?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.7.16?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.7.17?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.7.18?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.7.19?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.7.1?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.7.2
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.7.20?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.7.2?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.7.3
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.7.3?classifier=sources
@@ -699,6 +707,10 @@
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.8.0-alpha.1
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.8.0-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.8.0?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.8.10?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.8.11?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.8.12?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.8.13?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.8.3?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.8.4-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.8.4?classifier=sources
@@ -708,3 +720,7 @@
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.8.8?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.8.9?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.9.0-alpha.1?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.9.0?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.9.1?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.9.2?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-api@4.9.3?classifier=sources

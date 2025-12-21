@@ -47,3 +47,5 @@
 - pkg:maven/com.fizzed/jne@4.5.1?classifier=sources
 - pkg:maven/com.fizzed/jne@4.5.2?classifier=sources
 - pkg:maven/com.fizzed/jne@4.5.3?classifier=sources
+- pkg:maven/com.fizzed/jne@4.5.4?classifier=sources
+- pkg:maven/com.fizzed/jne@4.6.0?classifier=sources

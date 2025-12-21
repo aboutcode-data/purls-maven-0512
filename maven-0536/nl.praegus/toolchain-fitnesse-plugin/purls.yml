@@ -88,3 +88,4 @@
 - pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.8?classifier=sources
 - pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.9
 - pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.0.9?classifier=sources
+- pkg:maven/nl.praegus/toolchain-fitnesse-plugin@2.1.0-BETA-1?classifier=sources

@@ -7,3 +7,15 @@
 - pkg:maven/org.mvnpm.at.jsonjoy.com/util@1.8.1?classifier=sources
 - pkg:maven/org.mvnpm.at.jsonjoy.com/util@1.9.0
 - pkg:maven/org.mvnpm.at.jsonjoy.com/util@1.9.0?classifier=sources
+- pkg:maven/org.mvnpm.at.jsonjoy.com/util@17.59.0
+- pkg:maven/org.mvnpm.at.jsonjoy.com/util@17.59.0?classifier=sources
+- pkg:maven/org.mvnpm.at.jsonjoy.com/util@17.60.0
+- pkg:maven/org.mvnpm.at.jsonjoy.com/util@17.60.0?classifier=sources
+- pkg:maven/org.mvnpm.at.jsonjoy.com/util@17.61.0
+- pkg:maven/org.mvnpm.at.jsonjoy.com/util@17.61.0?classifier=sources
+- pkg:maven/org.mvnpm.at.jsonjoy.com/util@17.61.1
+- pkg:maven/org.mvnpm.at.jsonjoy.com/util@17.61.1?classifier=sources
+- pkg:maven/org.mvnpm.at.jsonjoy.com/util@17.62.0
+- pkg:maven/org.mvnpm.at.jsonjoy.com/util@17.62.0?classifier=sources
+- pkg:maven/org.mvnpm.at.jsonjoy.com/util@17.63.0
+- pkg:maven/org.mvnpm.at.jsonjoy.com/util@17.63.0?classifier=sources

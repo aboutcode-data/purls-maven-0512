@@ -46,6 +46,7 @@
 - pkg:maven/io.github.devacfr.maven.skins/reflow-velocity-tools@2.3.3?classifier=sources
 - pkg:maven/io.github.devacfr.maven.skins/reflow-velocity-tools@2.3.4
 - pkg:maven/io.github.devacfr.maven.skins/reflow-velocity-tools@2.3.4?classifier=sources
+- pkg:maven/io.github.devacfr.maven.skins/reflow-velocity-tools@2.3.5?classifier=sources
 - pkg:maven/io.github.devacfr.maven.skins/reflow-velocity-tools@2.4.0-beta1
 - pkg:maven/io.github.devacfr.maven.skins/reflow-velocity-tools@2.4.0-beta1?classifier=sources
 - pkg:maven/io.github.devacfr.maven.skins/reflow-velocity-tools@2.4.0-beta2

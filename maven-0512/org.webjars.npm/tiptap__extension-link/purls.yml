@@ -5,3 +5,4 @@
 - pkg:maven/org.webjars.npm/tiptap__extension-link@2.1.0-rc.1
 - pkg:maven/org.webjars.npm/tiptap__extension-link@2.1.0-rc.1?classifier=sources
 - pkg:maven/org.webjars.npm/tiptap__extension-link@2.11.5
+- pkg:maven/org.webjars.npm/tiptap__extension-link@3.10.2

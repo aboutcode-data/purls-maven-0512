@@ -1,0 +1,2 @@
+- pkg:maven/com.biit-solutions.liferay/liferay-configuration-reader@1.1.77?classifier=sources
+- pkg:maven/com.biit-solutions.liferay/liferay-configuration-reader@1.1.78?classifier=sources

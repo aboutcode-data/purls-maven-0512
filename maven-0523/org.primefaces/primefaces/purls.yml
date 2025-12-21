@@ -100,6 +100,7 @@
 - pkg:maven/org.primefaces/primefaces@15.0.6?classifier=sources
 - pkg:maven/org.primefaces/primefaces@15.0.7?classifier=sources
 - pkg:maven/org.primefaces/primefaces@15.0.8?classifier=sources
+- pkg:maven/org.primefaces/primefaces@15.0.9?classifier=sources
 - pkg:maven/org.primefaces/primefaces@4.0
 - pkg:maven/org.primefaces/primefaces@4.0?classifier=sources
 - pkg:maven/org.primefaces/primefaces@5.0

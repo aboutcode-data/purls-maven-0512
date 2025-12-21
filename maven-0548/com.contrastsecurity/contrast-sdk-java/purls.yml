@@ -56,3 +56,4 @@
 - pkg:maven/com.contrastsecurity/contrast-sdk-java@3.4.2?classifier=sources
 - pkg:maven/com.contrastsecurity/contrast-sdk-java@3.4.3
 - pkg:maven/com.contrastsecurity/contrast-sdk-java@3.4.3?classifier=sources
+- pkg:maven/com.contrastsecurity/contrast-sdk-java@3.4.4?classifier=sources

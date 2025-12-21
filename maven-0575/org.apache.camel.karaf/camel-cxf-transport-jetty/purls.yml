@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.karaf/camel-cxf-transport-jetty@4.10.7
+- pkg:maven/org.apache.camel.karaf/camel-cxf-transport-jetty@4.10.7?classifier=sources

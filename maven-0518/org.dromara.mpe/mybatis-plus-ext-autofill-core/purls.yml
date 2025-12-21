@@ -11,3 +11,5 @@
 - pkg:maven/org.dromara.mpe/mybatis-plus-ext-autofill-core@3.5.12-EXT880?classifier=sources
 - pkg:maven/org.dromara.mpe/mybatis-plus-ext-autofill-core@3.5.14-EXT880?classifier=sources
 - pkg:maven/org.dromara.mpe/mybatis-plus-ext-autofill-core@3.5.14-EXT881?classifier=sources
+- pkg:maven/org.dromara.mpe/mybatis-plus-ext-autofill-core@3.5.14-EXT882?classifier=sources
+- pkg:maven/org.dromara.mpe/mybatis-plus-ext-autofill-core@3.5.14-EXT883?classifier=sources

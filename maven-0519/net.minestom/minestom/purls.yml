@@ -20,3 +20,5 @@
 - pkg:maven/net.minestom/minestom@2025.10.04-1.21.8?classifier=sources
 - pkg:maven/net.minestom/minestom@2025.10.05-1.21.8?classifier=sources
 - pkg:maven/net.minestom/minestom@2025.10.11-1.21.10?classifier=sources
+- pkg:maven/net.minestom/minestom@2025.10.18-1.21.10?classifier=sources
+- pkg:maven/net.minestom/minestom@2025.10.31-1.21.10?classifier=sources

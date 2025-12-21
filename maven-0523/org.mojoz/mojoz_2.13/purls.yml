@@ -50,3 +50,5 @@
 - pkg:maven/org.mojoz/mojoz_2.13@5.3.3?classifier=sources
 - pkg:maven/org.mojoz/mojoz_2.13@5.4.0
 - pkg:maven/org.mojoz/mojoz_2.13@5.4.0?classifier=sources
+- pkg:maven/org.mojoz/mojoz_2.13@6.0.0
+- pkg:maven/org.mojoz/mojoz_2.13@6.0.0?classifier=sources

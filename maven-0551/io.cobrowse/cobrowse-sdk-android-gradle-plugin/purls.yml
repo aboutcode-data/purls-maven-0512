@@ -9,6 +9,8 @@
 - pkg:maven/io.cobrowse/cobrowse-sdk-android-gradle-plugin@3.0.2?classifier=sources
 - pkg:maven/io.cobrowse/cobrowse-sdk-android-gradle-plugin@3.0.3?classifier=sources
 - pkg:maven/io.cobrowse/cobrowse-sdk-android-gradle-plugin@3.1.0?classifier=sources
+- pkg:maven/io.cobrowse/cobrowse-sdk-android-gradle-plugin@3.10.0?classifier=sources
+- pkg:maven/io.cobrowse/cobrowse-sdk-android-gradle-plugin@3.11.0?classifier=sources
 - pkg:maven/io.cobrowse/cobrowse-sdk-android-gradle-plugin@3.2.0?classifier=sources
 - pkg:maven/io.cobrowse/cobrowse-sdk-android-gradle-plugin@3.2.1?classifier=sources
 - pkg:maven/io.cobrowse/cobrowse-sdk-android-gradle-plugin@3.3.0?classifier=sources

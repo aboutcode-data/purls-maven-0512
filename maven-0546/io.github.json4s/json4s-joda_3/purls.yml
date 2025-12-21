@@ -1,0 +1,4 @@
+- pkg:maven/io.github.json4s/json4s-joda_3@4.1.0
+- pkg:maven/io.github.json4s/json4s-joda_3@4.1.0?classifier=sources
+- pkg:maven/io.github.json4s/json4s-joda_3@4.2.0-M1
+- pkg:maven/io.github.json4s/json4s-joda_3@4.2.0-M1?classifier=sources
