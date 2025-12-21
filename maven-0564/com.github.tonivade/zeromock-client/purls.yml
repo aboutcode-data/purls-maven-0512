@@ -7,3 +7,6 @@
 - pkg:maven/com.github.tonivade/zeromock-client@0.17.0?classifier=sources
 - pkg:maven/com.github.tonivade/zeromock-client@0.18.0?classifier=sources
 - pkg:maven/com.github.tonivade/zeromock-client@1.0?classifier=sources
+- pkg:maven/com.github.tonivade/zeromock-client@1.1.1?classifier=sources
+- pkg:maven/com.github.tonivade/zeromock-client@1.1?classifier=sources
+- pkg:maven/com.github.tonivade/zeromock-client@1.2?classifier=sources

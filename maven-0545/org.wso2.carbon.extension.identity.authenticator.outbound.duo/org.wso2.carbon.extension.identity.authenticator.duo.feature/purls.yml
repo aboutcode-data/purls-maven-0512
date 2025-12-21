@@ -21,3 +21,4 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.feature@1.1.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.feature@2.0.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.feature@2.0.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.feature@4.0.9?classifier=source-release&type=zip

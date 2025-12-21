@@ -4,3 +4,4 @@
 - pkg:maven/io.github.clywm520/my-websocket-starter@5.0.0?classifier=sources
 - pkg:maven/io.github.clywm520/my-websocket-starter@6.0.0?classifier=sources
 - pkg:maven/io.github.clywm520/my-websocket-starter@6.6.6?classifier=sources
+- pkg:maven/io.github.clywm520/my-websocket-starter@8.0.0?classifier=sources

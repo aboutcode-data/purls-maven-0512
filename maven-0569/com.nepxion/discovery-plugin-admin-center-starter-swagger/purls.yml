@@ -10,12 +10,16 @@
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@3.39.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@3.40.0
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@3.40.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@3.41.0
+- pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@3.41.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.12.10
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.12.10?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.12.11
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.12.11?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.12.12
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.12.12?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.12.13
+- pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.12.13?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.12.8
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.12.8?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.12.9
@@ -30,3 +34,5 @@
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.21.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.22.0
 - pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.22.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.23.0
+- pkg:maven/com.nepxion/discovery-plugin-admin-center-starter-swagger@6.23.0?classifier=sources

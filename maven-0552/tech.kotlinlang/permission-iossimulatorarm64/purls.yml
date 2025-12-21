@@ -1,1 +1,11 @@
 - pkg:maven/tech.kotlinlang/permission-iossimulatorarm64@0.0.3?classifier=sources
+- pkg:maven/tech.kotlinlang/permission-iossimulatorarm64@0.0.4?classifier=sources
+- pkg:maven/tech.kotlinlang/permission-iossimulatorarm64@0.0.6?classifier=sources
+- pkg:maven/tech.kotlinlang/permission-iossimulatorarm64@0.0.7?classifier=sources
+- pkg:maven/tech.kotlinlang/permission-iossimulatorarm64@0.1.0?classifier=sources
+- pkg:maven/tech.kotlinlang/permission-iossimulatorarm64@0.1.1?classifier=sources
+- pkg:maven/tech.kotlinlang/permission-iossimulatorarm64@0.2.0?classifier=sources
+- pkg:maven/tech.kotlinlang/permission-iossimulatorarm64@0.3.0?classifier=sources
+- pkg:maven/tech.kotlinlang/permission-iossimulatorarm64@0.4.0?classifier=sources
+- pkg:maven/tech.kotlinlang/permission-iossimulatorarm64@0.5.0?classifier=sources
+- pkg:maven/tech.kotlinlang/permission-iossimulatorarm64@0.6.0?classifier=sources

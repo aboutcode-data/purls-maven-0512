@@ -73,3 +73,4 @@
 - pkg:maven/com.mx.path-core/http@4.4.2?classifier=sources
 - pkg:maven/com.mx.path-core/http@4.4.3?classifier=sources
 - pkg:maven/com.mx.path-core/http@4.5.0?classifier=sources
+- pkg:maven/com.mx.path-core/http@4.5.1?classifier=sources

@@ -208,3 +208,5 @@
 - pkg:maven/com.sap.cds/cds-feature-k8s@3.8.1?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-k8s@3.9.0
 - pkg:maven/com.sap.cds/cds-feature-k8s@3.9.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-k8s@3.9.1
+- pkg:maven/com.sap.cds/cds-feature-k8s@3.9.1?classifier=sources

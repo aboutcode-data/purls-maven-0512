@@ -161,6 +161,10 @@
 - pkg:maven/com.qcloud.cos/hadoop-cos@2.8.5-8.3.19?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@2.8.5-8.3.1?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@2.8.5-8.3.2
+- pkg:maven/com.qcloud.cos/hadoop-cos@2.8.5-8.3.20
+- pkg:maven/com.qcloud.cos/hadoop-cos@2.8.5-8.3.20?classifier=sources
+- pkg:maven/com.qcloud.cos/hadoop-cos@2.8.5-8.3.22
+- pkg:maven/com.qcloud.cos/hadoop-cos@2.8.5-8.3.22?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@2.8.5-8.3.2?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@2.8.5-8.3.3
 - pkg:maven/com.qcloud.cos/hadoop-cos@2.8.5-8.3.3?classifier=sources
@@ -275,6 +279,10 @@
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.1.0-8.3.19?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.1.0-8.3.1?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.1.0-8.3.2
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.1.0-8.3.20
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.1.0-8.3.20?classifier=sources
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.1.0-8.3.22
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.1.0-8.3.22?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.1.0-8.3.2?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.1.0-8.3.3
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.1.0-8.3.3?classifier=sources
@@ -325,6 +333,10 @@
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.2.2-8.3.19?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.2.2-8.3.1?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.2.2-8.3.2
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.2.2-8.3.20
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.2.2-8.3.20?classifier=sources
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.2.2-8.3.22
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.2.2-8.3.22?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.2.2-8.3.2?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.2.2-8.3.3
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.2.2-8.3.3?classifier=sources
@@ -419,6 +431,14 @@
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.3.0-8.3.19?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.3.0-8.3.1?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.3.0-8.3.2
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.3.0-8.3.20
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.3.0-8.3.20?classifier=sources
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.3.0-8.3.21
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.3.0-8.3.21?classifier=sources
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.3.0-8.3.22
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.3.0-8.3.22?classifier=sources
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.3.0-8.3.23
+- pkg:maven/com.qcloud.cos/hadoop-cos@3.3.0-8.3.23?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.3.0-8.3.2?classifier=sources
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.3.0-8.3.3
 - pkg:maven/com.qcloud.cos/hadoop-cos@3.3.0-8.3.3?classifier=sources

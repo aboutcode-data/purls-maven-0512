@@ -276,3 +276,5 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-json-util@2.6.1.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-json-util@2.6.2.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-json-util@2.6.2.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-json-util@2.6.3.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-json-util@2.6.3.Final?classifier=sources

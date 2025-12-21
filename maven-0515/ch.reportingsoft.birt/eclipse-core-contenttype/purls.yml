@@ -1,0 +1,2 @@
+- pkg:maven/ch.reportingsoft.birt/eclipse-core-contenttype@3.9.600
+- pkg:maven/ch.reportingsoft.birt/eclipse-core-contenttype@3.9.600?classifier=sources

@@ -65,6 +65,10 @@
 - pkg:maven/org.mockbukkit.mockbukkit/mockbukkit-v1.21@4.43.1?classifier=sources
 - pkg:maven/org.mockbukkit.mockbukkit/mockbukkit-v1.21@4.44.0?classifier=sources
 - pkg:maven/org.mockbukkit.mockbukkit/mockbukkit-v1.21@4.45.0?classifier=sources
+- pkg:maven/org.mockbukkit.mockbukkit/mockbukkit-v1.21@4.45.1?classifier=sources
+- pkg:maven/org.mockbukkit.mockbukkit/mockbukkit-v1.21@4.46.0?classifier=sources
+- pkg:maven/org.mockbukkit.mockbukkit/mockbukkit-v1.21@4.46.2?classifier=sources
+- pkg:maven/org.mockbukkit.mockbukkit/mockbukkit-v1.21@4.46.3?classifier=sources
 - pkg:maven/org.mockbukkit.mockbukkit/mockbukkit-v1.21@4.5.0?classifier=sources
 - pkg:maven/org.mockbukkit.mockbukkit/mockbukkit-v1.21@4.6.0?classifier=sources
 - pkg:maven/org.mockbukkit.mockbukkit/mockbukkit-v1.21@4.7.0?classifier=sources

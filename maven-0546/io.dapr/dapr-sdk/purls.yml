@@ -110,6 +110,10 @@
 - pkg:maven/io.dapr/dapr-sdk@1.14.0-rc-9
 - pkg:maven/io.dapr/dapr-sdk@1.14.0-rc-9?classifier=sources
 - pkg:maven/io.dapr/dapr-sdk@1.14.0?classifier=sources
+- pkg:maven/io.dapr/dapr-sdk@1.14.1
+- pkg:maven/io.dapr/dapr-sdk@1.14.1-rc-1
+- pkg:maven/io.dapr/dapr-sdk@1.14.1-rc-1?classifier=sources
+- pkg:maven/io.dapr/dapr-sdk@1.14.1?classifier=sources
 - pkg:maven/io.dapr/dapr-sdk@1.2.0
 - pkg:maven/io.dapr/dapr-sdk@1.2.0-rc-1
 - pkg:maven/io.dapr/dapr-sdk@1.2.0-rc-1?classifier=sources

@@ -214,3 +214,5 @@
 - pkg:maven/com.facebook.presto/presto-expressions@0.290?classifier=sources
 - pkg:maven/com.facebook.presto/presto-expressions@0.291
 - pkg:maven/com.facebook.presto/presto-expressions@0.291?classifier=sources
+- pkg:maven/com.facebook.presto/presto-expressions@0.292
+- pkg:maven/com.facebook.presto/presto-expressions@0.292?classifier=sources

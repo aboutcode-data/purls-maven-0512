@@ -75,3 +75,7 @@
 - pkg:maven/com.markelliot.barista/barista-annotations@0.9.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-annotations@0.90.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-annotations@0.91.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-annotations@0.92.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-annotations@0.93.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-annotations@0.94.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-annotations@0.95.0?classifier=sources

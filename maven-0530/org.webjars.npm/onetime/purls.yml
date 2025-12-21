@@ -12,3 +12,4 @@
 - pkg:maven/org.webjars.npm/onetime@5.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/onetime@6.0.0
 - pkg:maven/org.webjars.npm/onetime@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/onetime@7.0.0

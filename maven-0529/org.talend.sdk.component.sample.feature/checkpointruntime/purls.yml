@@ -1,0 +1,2 @@
+- pkg:maven/org.talend.sdk.component.sample.feature/checkpointruntime@1.80.0
+- pkg:maven/org.talend.sdk.component.sample.feature/checkpointruntime@1.80.0?classifier=sources

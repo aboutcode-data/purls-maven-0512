@@ -86,3 +86,5 @@
 - pkg:maven/se.sundsvall.dept44/dept44-common-validators@6.0.7?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-common-validators@6.0.8
 - pkg:maven/se.sundsvall.dept44/dept44-common-validators@6.0.8?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-common-validators@6.0.9
+- pkg:maven/se.sundsvall.dept44/dept44-common-validators@6.0.9?classifier=sources

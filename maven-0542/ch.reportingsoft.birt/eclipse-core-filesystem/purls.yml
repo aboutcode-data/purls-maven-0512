@@ -1,0 +1,2 @@
+- pkg:maven/ch.reportingsoft.birt/eclipse-core-filesystem@1.11.100
+- pkg:maven/ch.reportingsoft.birt/eclipse-core-filesystem@1.11.100?classifier=sources

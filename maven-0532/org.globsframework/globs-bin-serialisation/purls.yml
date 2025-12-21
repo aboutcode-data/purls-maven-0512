@@ -1,0 +1,2 @@
+- pkg:maven/org.globsframework/globs-bin-serialisation@3.1.1?classifier=sources
+- pkg:maven/org.globsframework/globs-bin-serialisation@4.1.1?classifier=sources

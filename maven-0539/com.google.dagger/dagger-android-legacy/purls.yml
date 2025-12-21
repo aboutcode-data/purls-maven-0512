@@ -53,4 +53,5 @@
 - pkg:maven/com.google.dagger/dagger-android-legacy@2.54?type=aar
 - pkg:maven/com.google.dagger/dagger-android-legacy@2.55?type=aar
 - pkg:maven/com.google.dagger/dagger-android-legacy@2.56.1?type=aar
+- pkg:maven/com.google.dagger/dagger-android-legacy@2.56.2?type=aar
 - pkg:maven/com.google.dagger/dagger-android-legacy@2.56?type=aar

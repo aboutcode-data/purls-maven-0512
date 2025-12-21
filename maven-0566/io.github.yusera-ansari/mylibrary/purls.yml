@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yusera-ansari/mylibrary@1.0.0?classifier=sources
+- pkg:maven/io.github.yusera-ansari/mylibrary@2.0.0?classifier=sources

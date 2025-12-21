@@ -1,1 +1,2 @@
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven3-jetty12x-embedded-test@1.10.18
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven3-jetty12x-embedded-test@1.10.19

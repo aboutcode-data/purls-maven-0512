@@ -14,6 +14,11 @@
 - pkg:maven/io.hyper-space/hyperspace@2.0.119?classifier=sources
 - pkg:maven/io.hyper-space/hyperspace@2.0.127?classifier=sources
 - pkg:maven/io.hyper-space/hyperspace@2.0.131?classifier=sources
+- pkg:maven/io.hyper-space/hyperspace@2.0.146?classifier=sources
+- pkg:maven/io.hyper-space/hyperspace@2.0.147?classifier=sources
+- pkg:maven/io.hyper-space/hyperspace@2.0.148?classifier=sources
+- pkg:maven/io.hyper-space/hyperspace@2.0.150?classifier=sources
+- pkg:maven/io.hyper-space/hyperspace@2.0.161?classifier=sources
 - pkg:maven/io.hyper-space/hyperspace@2.0.20?classifier=sources
 - pkg:maven/io.hyper-space/hyperspace@2.0.29?classifier=sources
 - pkg:maven/io.hyper-space/hyperspace@2.0.46?classifier=sources

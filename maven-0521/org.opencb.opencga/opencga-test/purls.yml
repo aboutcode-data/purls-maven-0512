@@ -22,6 +22,8 @@
 - pkg:maven/org.opencb.opencga/opencga-test@2.12.7?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-test@2.12.8
 - pkg:maven/org.opencb.opencga/opencga-test@2.12.8?classifier=sources
+- pkg:maven/org.opencb.opencga/opencga-test@2.12.9
+- pkg:maven/org.opencb.opencga/opencga-test@2.12.9?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-test@2.3.0
 - pkg:maven/org.opencb.opencga/opencga-test@2.3.0?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-test@2.3.1
@@ -120,3 +122,5 @@
 - pkg:maven/org.opencb.opencga/opencga-test@3.3.0?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-test@3.4.0
 - pkg:maven/org.opencb.opencga/opencga-test@3.4.0?classifier=sources
+- pkg:maven/org.opencb.opencga/opencga-test@4.0.0
+- pkg:maven/org.opencb.opencga/opencga-test@4.0.0?classifier=sources

@@ -28,3 +28,4 @@
 - pkg:maven/com.uber.nullaway/nullaway-annotations@0.12.4?classifier=sources
 - pkg:maven/com.uber.nullaway/nullaway-annotations@0.12.5?classifier=sources
 - pkg:maven/com.uber.nullaway/nullaway-annotations@0.12.6?classifier=sources
+- pkg:maven/com.uber.nullaway/nullaway-annotations@0.12.7?classifier=sources

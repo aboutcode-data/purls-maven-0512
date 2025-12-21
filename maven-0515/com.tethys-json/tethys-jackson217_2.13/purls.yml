@@ -1,0 +1,2 @@
+- pkg:maven/com.tethys-json/tethys-jackson217_2.13@0.29.5
+- pkg:maven/com.tethys-json/tethys-jackson217_2.13@0.29.5?classifier=sources

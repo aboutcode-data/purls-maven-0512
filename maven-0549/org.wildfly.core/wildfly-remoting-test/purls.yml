@@ -262,6 +262,8 @@
 - pkg:maven/org.wildfly.core/wildfly-remoting-test@28.0.0.Beta4
 - pkg:maven/org.wildfly.core/wildfly-remoting-test@28.0.0.Beta5
 - pkg:maven/org.wildfly.core/wildfly-remoting-test@28.0.0.Beta6
+- pkg:maven/org.wildfly.core/wildfly-remoting-test@28.0.0.Final
+- pkg:maven/org.wildfly.core/wildfly-remoting-test@29.0.0.Beta1
 - pkg:maven/org.wildfly.core/wildfly-remoting-test@3.0.0.Alpha1
 - pkg:maven/org.wildfly.core/wildfly-remoting-test@3.0.0.Alpha10
 - pkg:maven/org.wildfly.core/wildfly-remoting-test@3.0.0.Alpha11

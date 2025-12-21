@@ -104,3 +104,5 @@
 - pkg:maven/com.decathlon.tzatziki/tzatziki-testng@1.8.0
 - pkg:maven/com.decathlon.tzatziki/tzatziki-testng@1.8.1
 - pkg:maven/com.decathlon.tzatziki/tzatziki-testng@1.8.2
+- pkg:maven/com.decathlon.tzatziki/tzatziki-testng@1.8.3
+- pkg:maven/com.decathlon.tzatziki/tzatziki-testng@1.8.4

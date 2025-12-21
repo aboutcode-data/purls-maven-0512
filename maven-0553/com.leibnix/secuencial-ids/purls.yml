@@ -1,0 +1,7 @@
+- pkg:maven/com.leibnix/secuencial-ids@1.0.0?classifier=sources
+- pkg:maven/com.leibnix/secuencial-ids@2.0.0?classifier=sources
+- pkg:maven/com.leibnix/secuencial-ids@3.0.0?classifier=sources
+- pkg:maven/com.leibnix/secuencial-ids@3.0.1?classifier=sources
+- pkg:maven/com.leibnix/secuencial-ids@3.0.2?classifier=sources
+- pkg:maven/com.leibnix/secuencial-ids@3.1.2?classifier=sources
+- pkg:maven/com.leibnix/secuencial-ids@3.1.3?classifier=sources

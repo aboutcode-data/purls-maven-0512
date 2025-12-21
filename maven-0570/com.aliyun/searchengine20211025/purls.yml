@@ -40,3 +40,5 @@
 - pkg:maven/com.aliyun/searchengine20211025@5.0.0?classifier=sources
 - pkg:maven/com.aliyun/searchengine20211025@5.1.0
 - pkg:maven/com.aliyun/searchengine20211025@5.1.0?classifier=sources
+- pkg:maven/com.aliyun/searchengine20211025@5.2.0
+- pkg:maven/com.aliyun/searchengine20211025@5.2.0?classifier=sources

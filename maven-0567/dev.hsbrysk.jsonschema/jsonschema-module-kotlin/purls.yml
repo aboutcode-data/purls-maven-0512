@@ -1,0 +1,2 @@
+- pkg:maven/dev.hsbrysk.jsonschema/jsonschema-module-kotlin@0.0.2?classifier=sources
+- pkg:maven/dev.hsbrysk.jsonschema/jsonschema-module-kotlin@1.0.0?classifier=sources

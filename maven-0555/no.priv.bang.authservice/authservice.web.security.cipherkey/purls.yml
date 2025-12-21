@@ -1,0 +1,6 @@
+- pkg:maven/no.priv.bang.authservice/authservice.web.security.cipherkey@2.2.0
+- pkg:maven/no.priv.bang.authservice/authservice.web.security.cipherkey@2.2.0?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.web.security.cipherkey@2.3.0
+- pkg:maven/no.priv.bang.authservice/authservice.web.security.cipherkey@2.3.0?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.web.security.cipherkey@2.3.1
+- pkg:maven/no.priv.bang.authservice/authservice.web.security.cipherkey@2.3.1?classifier=sources

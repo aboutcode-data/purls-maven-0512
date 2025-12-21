@@ -3930,6 +3930,8 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.publisher.v1@9.31.92?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.publisher.v1@9.31.93?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.publisher.v1@9.31.93?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.publisher.v1@9.31.94?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.publisher.v1@9.31.94?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.publisher.v1@9.4.0?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.publisher.v1@9.4.0?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.publisher.v1@9.4.1?classifier=sources

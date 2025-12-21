@@ -44,3 +44,5 @@
 - pkg:maven/network.oxalis.vefa/peppol-sbdh@3.7.2?classifier=sources
 - pkg:maven/network.oxalis.vefa/peppol-sbdh@3.8.0
 - pkg:maven/network.oxalis.vefa/peppol-sbdh@3.8.0?classifier=sources
+- pkg:maven/network.oxalis.vefa/peppol-sbdh@4.0.0-RC1
+- pkg:maven/network.oxalis.vefa/peppol-sbdh@4.0.0-RC1?classifier=sources

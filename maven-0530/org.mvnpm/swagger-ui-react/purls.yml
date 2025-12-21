@@ -4,3 +4,4 @@
 - pkg:maven/org.mvnpm/swagger-ui-react@5.17.14?classifier=sources
 - pkg:maven/org.mvnpm/swagger-ui-react@5.17.7?classifier=sources
 - pkg:maven/org.mvnpm/swagger-ui-react@5.18.2?classifier=sources
+- pkg:maven/org.mvnpm/swagger-ui-react@5.20.7?classifier=sources

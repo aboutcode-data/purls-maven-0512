@@ -146,6 +146,8 @@
 - pkg:maven/com.microsoft.playwright/playwright@1.50.0?classifier=sources
 - pkg:maven/com.microsoft.playwright/playwright@1.51.0
 - pkg:maven/com.microsoft.playwright/playwright@1.51.0?classifier=sources
+- pkg:maven/com.microsoft.playwright/playwright@1.52.0
+- pkg:maven/com.microsoft.playwright/playwright@1.52.0?classifier=sources
 - pkg:maven/com.microsoft.playwright/playwright@1.9.0-alpha-0
 - pkg:maven/com.microsoft.playwright/playwright@1.9.0-alpha-0?classifier=sources
 - pkg:maven/com.microsoft.playwright/playwright@1.9.1-alpha-0

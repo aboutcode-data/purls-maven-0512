@@ -265,6 +265,8 @@
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-common@1.18.9?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-common@1.19.0
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-common@1.19.0?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-common@1.19.1
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-common@1.19.1?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-common@1.1?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-common@1.2
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-common@1.2?classifier=sources

@@ -25,3 +25,4 @@
 - pkg:maven/io.joern/ghidra@11.4_JOERN-DEV-2?classifier=sources
 - pkg:maven/io.joern/ghidra@11.4_c3d8b6a0b3-202502271115?classifier=sources
 - pkg:maven/io.joern/ghidra@11.4_e4db88418c-202503041155?classifier=sources
+- pkg:maven/io.joern/ghidra@11.4_f331b5bbea-202504251242?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.umtone/uw-cache@1.1.65?classifier=sources
 - pkg:maven/com.umtone/uw-cache@1.1.66?classifier=sources
+- pkg:maven/com.umtone/uw-cache@1.1.80?classifier=sources
+- pkg:maven/com.umtone/uw-cache@1.1.81?classifier=sources

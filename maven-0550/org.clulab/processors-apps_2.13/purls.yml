@@ -1,2 +1,4 @@
 - pkg:maven/org.clulab/processors-apps_2.13@10.0.0
 - pkg:maven/org.clulab/processors-apps_2.13@10.0.0?classifier=sources
+- pkg:maven/org.clulab/processors-apps_2.13@10.0.1
+- pkg:maven/org.clulab/processors-apps_2.13@10.0.1?classifier=sources

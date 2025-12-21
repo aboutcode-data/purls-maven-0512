@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/react-native@1000.0.0
+- pkg:maven/org.mvnpm/react-native@1000.0.0?classifier=sources

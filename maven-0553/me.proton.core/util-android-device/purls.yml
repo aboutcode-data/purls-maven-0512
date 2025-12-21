@@ -84,3 +84,5 @@
 - pkg:maven/me.proton.core/util-android-device@30.4.3?classifier=sources
 - pkg:maven/me.proton.core/util-android-device@30.4.4?classifier=sources
 - pkg:maven/me.proton.core/util-android-device@31.0.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-device@32.0.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-device@32.0.1?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/leven@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/leven@3.1.0
 - pkg:maven/org.webjars.npm/leven@3.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/leven@4.0.0

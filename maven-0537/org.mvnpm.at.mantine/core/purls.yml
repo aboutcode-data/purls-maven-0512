@@ -1,1 +1,4 @@
 - pkg:maven/org.mvnpm.at.mantine/core@7.17.3?classifier=sources
+- pkg:maven/org.mvnpm.at.mantine/core@7.17.4?classifier=sources
+- pkg:maven/org.mvnpm.at.mantine/core@7.17.5
+- pkg:maven/org.mvnpm.at.mantine/core@7.17.5?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/io.deltastream/flink-connector-snowflake@1.1.0-1.19-j11
 - pkg:maven/io.deltastream/flink-connector-snowflake@1.1.0-1.19-j11?classifier=sources
 - pkg:maven/io.deltastream/flink-connector-snowflake@1.1.0-1.19?classifier=sources
+- pkg:maven/io.deltastream/flink-connector-snowflake@2.0.0-2.0
+- pkg:maven/io.deltastream/flink-connector-snowflake@2.0.0-2.0?classifier=sources

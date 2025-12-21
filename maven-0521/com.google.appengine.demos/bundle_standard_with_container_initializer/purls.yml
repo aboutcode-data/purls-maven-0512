@@ -24,3 +24,7 @@
 - pkg:maven/com.google.appengine.demos/bundle_standard_with_container_initializer@2.0.32?type=war
 - pkg:maven/com.google.appengine.demos/bundle_standard_with_container_initializer@2.0.33?classifier=sources
 - pkg:maven/com.google.appengine.demos/bundle_standard_with_container_initializer@2.0.33?type=war
+- pkg:maven/com.google.appengine.demos/bundle_standard_with_container_initializer@2.0.34?classifier=sources
+- pkg:maven/com.google.appengine.demos/bundle_standard_with_container_initializer@2.0.34?type=war
+- pkg:maven/com.google.appengine.demos/bundle_standard_with_container_initializer@2.0.35?classifier=sources
+- pkg:maven/com.google.appengine.demos/bundle_standard_with_container_initializer@2.0.35?type=war

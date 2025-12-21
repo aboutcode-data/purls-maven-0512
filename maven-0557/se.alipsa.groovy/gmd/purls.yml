@@ -7,3 +7,4 @@
 - pkg:maven/se.alipsa.groovy/gmd@1.0.7?classifier=sources
 - pkg:maven/se.alipsa.groovy/gmd@2.0.0?classifier=sources
 - pkg:maven/se.alipsa.groovy/gmd@2.1.0?classifier=sources
+- pkg:maven/se.alipsa.groovy/gmd@2.2.0?classifier=sources

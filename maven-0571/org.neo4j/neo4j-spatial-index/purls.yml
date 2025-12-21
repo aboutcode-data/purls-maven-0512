@@ -4,6 +4,8 @@
 - pkg:maven/org.neo4j/neo4j-spatial-index@2025.02.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-spatial-index@2025.03.0
 - pkg:maven/org.neo4j/neo4j-spatial-index@2025.03.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-spatial-index@2025.04.0
+- pkg:maven/org.neo4j/neo4j-spatial-index@2025.04.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-spatial-index@3.4.0
 - pkg:maven/org.neo4j/neo4j-spatial-index@3.4.0-alpha07
 - pkg:maven/org.neo4j/neo4j-spatial-index@3.4.0-alpha07?classifier=sources

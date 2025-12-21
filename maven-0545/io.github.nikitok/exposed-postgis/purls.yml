@@ -2,3 +2,4 @@
 - pkg:maven/io.github.nikitok/exposed-postgis@0.2?classifier=sources
 - pkg:maven/io.github.nikitok/exposed-postgis@0.3?classifier=sources
 - pkg:maven/io.github.nikitok/exposed-postgis@0.4?classifier=sources
+- pkg:maven/io.github.nikitok/exposed-postgis@0.8?classifier=sources

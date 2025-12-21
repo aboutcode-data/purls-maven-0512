@@ -1,0 +1,2 @@
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-springai-agentexecutor@1.5.8
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-springai-agentexecutor@1.5.8?classifier=sources

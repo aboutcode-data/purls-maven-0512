@@ -62,6 +62,16 @@
 - pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.14.0?classifier=sources
 - pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.14.1
 - pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.14.1?classifier=sources
+- pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.14.2
+- pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.14.2?classifier=sources
+- pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.14.3
+- pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.14.3?classifier=sources
+- pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.14.4
+- pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.14.4?classifier=sources
+- pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.15.0
+- pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.15.0?classifier=sources
+- pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.15.1
+- pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.15.1?classifier=sources
 - pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.3.0
 - pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.3.0?classifier=sources
 - pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models@2.4.0

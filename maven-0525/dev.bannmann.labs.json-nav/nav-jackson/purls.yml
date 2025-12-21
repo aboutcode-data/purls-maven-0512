@@ -1,0 +1,10 @@
+- pkg:maven/dev.bannmann.labs.json-nav/nav-jackson@0.0.26
+- pkg:maven/dev.bannmann.labs.json-nav/nav-jackson@0.0.26?classifier=sources
+- pkg:maven/dev.bannmann.labs.json-nav/nav-jackson@0.27
+- pkg:maven/dev.bannmann.labs.json-nav/nav-jackson@0.27?classifier=sources
+- pkg:maven/dev.bannmann.labs.json-nav/nav-jackson@0.28
+- pkg:maven/dev.bannmann.labs.json-nav/nav-jackson@0.28?classifier=sources
+- pkg:maven/dev.bannmann.labs.json-nav/nav-jackson@0.29
+- pkg:maven/dev.bannmann.labs.json-nav/nav-jackson@0.29?classifier=sources
+- pkg:maven/dev.bannmann.labs.json-nav/nav-jackson@0.30
+- pkg:maven/dev.bannmann.labs.json-nav/nav-jackson@0.30?classifier=sources

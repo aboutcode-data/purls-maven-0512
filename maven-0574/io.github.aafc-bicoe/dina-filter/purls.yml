@@ -42,3 +42,5 @@
 - pkg:maven/io.github.aafc-bicoe/dina-filter@0.138?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-filter@0.139
 - pkg:maven/io.github.aafc-bicoe/dina-filter@0.139?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-filter@0.140
+- pkg:maven/io.github.aafc-bicoe/dina-filter@0.140?classifier=sources

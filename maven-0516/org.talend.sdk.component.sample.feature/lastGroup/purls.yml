@@ -4,3 +4,5 @@
 - pkg:maven/org.talend.sdk.component.sample.feature/lastGroup@1.78.1?classifier=sources
 - pkg:maven/org.talend.sdk.component.sample.feature/lastGroup@1.79.0
 - pkg:maven/org.talend.sdk.component.sample.feature/lastGroup@1.79.0?classifier=sources
+- pkg:maven/org.talend.sdk.component.sample.feature/lastGroup@1.80.0
+- pkg:maven/org.talend.sdk.component.sample.feature/lastGroup@1.80.0?classifier=sources

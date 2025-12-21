@@ -800,6 +800,8 @@
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.3.25?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.3.26?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.3.26?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.3.27?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.3.27?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.3.2?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.3.2?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.3.3?classifier=sources
@@ -848,6 +850,10 @@
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.4.21?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.4.22?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.4.22?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.4.23?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.4.23?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.4.24?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.4.24?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.4.2?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.4.2?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.4.3?classifier=sources
@@ -880,6 +886,10 @@
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.5.11?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.5.12?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.5.12?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.5.13?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.5.13?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.5.14?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.5.14?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.5.1?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.5.1?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.5.2?classifier=sources
@@ -916,6 +926,12 @@
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.6.4?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.6.5?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.6.5?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.6.6?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.6.6?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.6.7?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.6.7?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.6.8?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.6.8?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.7.0-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.7.0-alpha.1?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.7.0-alpha.2?classifier=sources
@@ -926,3 +942,7 @@
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.7.0-alpha.4?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.7.0?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.7.0?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.7.1?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.7.1?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.7.2?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-javakeystore@4.7.2?type=zip

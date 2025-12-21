@@ -7,5 +7,7 @@
 - pkg:maven/com.ibm.able/accessibility-checker@3.1.79?classifier=sources
 - pkg:maven/com.ibm.able/accessibility-checker@3.1.80?classifier=sources
 - pkg:maven/com.ibm.able/accessibility-checker@3.1.82?classifier=sources
+- pkg:maven/com.ibm.able/accessibility-checker@3.1.83?classifier=sources
 - pkg:maven/com.ibm.able/accessibility-checker@4.0.0?classifier=sources
 - pkg:maven/com.ibm.able/accessibility-checker@4.0.3?classifier=sources
+- pkg:maven/com.ibm.able/accessibility-checker@4.0.4?classifier=sources
