@@ -14,3 +14,4 @@
 - pkg:maven/fr.xelians/datahub-studio@4.0.2?classifier=sources
 - pkg:maven/fr.xelians/datahub-studio@4.0.3
 - pkg:maven/fr.xelians/datahub-studio@4.0.3?classifier=sources
+- pkg:maven/fr.xelians/datahub-studio@4.1.0?classifier=sources

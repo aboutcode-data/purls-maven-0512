@@ -14,5 +14,7 @@
 - pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-prototypes@12.0?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-prototypes@12.1
 - pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-prototypes@12.1?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-prototypes@12.2
+- pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-prototypes@12.2?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-prototypes@9.0
 - pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-prototypes@9.0?classifier=sources

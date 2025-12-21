@@ -25,3 +25,4 @@
 - pkg:maven/com.scientiamobile.wurflmicroservice/wurfl-microservice@2.1.7
 - pkg:maven/com.scientiamobile.wurflmicroservice/wurfl-microservice@2.1.7?classifier=sources
 - pkg:maven/com.scientiamobile.wurflmicroservice/wurfl-microservice@2.1.8?classifier=sources
+- pkg:maven/com.scientiamobile.wurflmicroservice/wurfl-microservice@2.1.9?classifier=sources

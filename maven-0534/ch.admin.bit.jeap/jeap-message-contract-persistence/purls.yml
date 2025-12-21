@@ -8,3 +8,5 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-message-contract-persistence@3.33.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-contract-persistence@3.34.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-contract-persistence@3.35.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-contract-persistence@3.36.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-contract-persistence@3.37.0?classifier=sources

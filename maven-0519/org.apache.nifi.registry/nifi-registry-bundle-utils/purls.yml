@@ -73,3 +73,5 @@
 - pkg:maven/org.apache.nifi.registry/nifi-registry-bundle-utils@2.3.0?classifier=sources
 - pkg:maven/org.apache.nifi.registry/nifi-registry-bundle-utils@2.4.0
 - pkg:maven/org.apache.nifi.registry/nifi-registry-bundle-utils@2.4.0?classifier=sources
+- pkg:maven/org.apache.nifi.registry/nifi-registry-bundle-utils@2.5.0
+- pkg:maven/org.apache.nifi.registry/nifi-registry-bundle-utils@2.5.0?classifier=sources

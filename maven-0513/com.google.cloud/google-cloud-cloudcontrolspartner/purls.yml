@@ -44,6 +44,10 @@
 - pkg:maven/com.google.cloud/google-cloud-cloudcontrolspartner@0.30.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-cloudcontrolspartner@0.31.0
 - pkg:maven/com.google.cloud/google-cloud-cloudcontrolspartner@0.31.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-cloudcontrolspartner@0.32.0
+- pkg:maven/com.google.cloud/google-cloud-cloudcontrolspartner@0.32.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-cloudcontrolspartner@0.34.0
+- pkg:maven/com.google.cloud/google-cloud-cloudcontrolspartner@0.34.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-cloudcontrolspartner@0.4.0
 - pkg:maven/com.google.cloud/google-cloud-cloudcontrolspartner@0.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-cloudcontrolspartner@0.5.0

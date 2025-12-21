@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/node-sass@4.14.1?classifier=sources
 - pkg:maven/org.mvnpm/node-sass@6.0.1?classifier=sources
+- pkg:maven/org.mvnpm/node-sass@7.0.3
+- pkg:maven/org.mvnpm/node-sass@7.0.3?classifier=sources
 - pkg:maven/org.mvnpm/node-sass@9.0.0?classifier=sources

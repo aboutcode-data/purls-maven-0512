@@ -14,3 +14,4 @@
 - pkg:maven/work.gaigeshen/tripartite-qyweixin-openapi@1.21.3?classifier=sources
 - pkg:maven/work.gaigeshen/tripartite-qyweixin-openapi@1.22.0
 - pkg:maven/work.gaigeshen/tripartite-qyweixin-openapi@1.22.0?classifier=sources
+- pkg:maven/work.gaigeshen/tripartite-qyweixin-openapi@1.23.0?classifier=sources

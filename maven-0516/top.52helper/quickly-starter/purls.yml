@@ -1,0 +1,2 @@
+- pkg:maven/top.52helper/quickly-starter@0.0.1?classifier=sources
+- pkg:maven/top.52helper/quickly-starter@0.0.2?classifier=sources

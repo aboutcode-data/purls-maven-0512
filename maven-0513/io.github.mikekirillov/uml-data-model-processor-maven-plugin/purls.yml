@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mikekirillov/uml-data-model-processor-maven-plugin@0.0.1?classifier=sources
+- pkg:maven/io.github.mikekirillov/uml-data-model-processor-maven-plugin@0.0.2?classifier=sources

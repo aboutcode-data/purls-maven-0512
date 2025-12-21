@@ -61,6 +61,7 @@
 - pkg:maven/at.datenwort.commons/jmodel2ts-app@0.39?classifier=sources
 - pkg:maven/at.datenwort.commons/jmodel2ts-app@0.3?classifier=sources
 - pkg:maven/at.datenwort.commons/jmodel2ts-app@0.4
+- pkg:maven/at.datenwort.commons/jmodel2ts-app@0.40?classifier=sources
 - pkg:maven/at.datenwort.commons/jmodel2ts-app@0.4?classifier=sources
 - pkg:maven/at.datenwort.commons/jmodel2ts-app@0.5
 - pkg:maven/at.datenwort.commons/jmodel2ts-app@0.5?classifier=sources

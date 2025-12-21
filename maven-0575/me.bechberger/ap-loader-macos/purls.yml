@@ -17,3 +17,4 @@
 - pkg:maven/me.bechberger/ap-loader-macos@3.0-9
 - pkg:maven/me.bechberger/ap-loader-macos@3.0-9?classifier=sources
 - pkg:maven/me.bechberger/ap-loader-macos@4.0-10?classifier=sources
+- pkg:maven/me.bechberger/ap-loader-macos@4.1-10?classifier=sources

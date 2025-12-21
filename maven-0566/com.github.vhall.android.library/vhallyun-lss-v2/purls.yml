@@ -79,6 +79,7 @@
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss-v2@1.6.23?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss-v2@1.6.2?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss-v2@1.6.2?type=aar
+- pkg:maven/com.github.vhall.android.library/vhallyun-lss-v2@1.6.30?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss-v2@1.6.3?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss-v2@1.6.3?type=aar
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss-v2@1.6.4?classifier=sources

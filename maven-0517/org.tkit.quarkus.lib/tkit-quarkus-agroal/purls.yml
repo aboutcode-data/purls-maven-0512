@@ -11,3 +11,5 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-agroal@3.2.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-agroal@3.3.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-agroal@3.4.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-agroal@3.5.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-agroal@3.6.0?classifier=sources

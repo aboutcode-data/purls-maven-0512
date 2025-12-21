@@ -265,6 +265,7 @@
 - pkg:maven/com.ibeetl/sql-fetch@3.34-RELEASE
 - pkg:maven/com.ibeetl/sql-fetch@3.34-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-fetch@3.35-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-fetch@3.35.1-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-fetch@3.4.0-RELEASE
 - pkg:maven/com.ibeetl/sql-fetch@3.4.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-fetch@3.4.1-RELEASE

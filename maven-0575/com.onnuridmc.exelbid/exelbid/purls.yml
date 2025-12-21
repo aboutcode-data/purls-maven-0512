@@ -128,3 +128,4 @@
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.9.9?classifier=sources
 - pkg:maven/com.onnuridmc.exelbid/exelbid@2.0.0?classifier=sources
 - pkg:maven/com.onnuridmc.exelbid/exelbid@2.0.1?classifier=sources
+- pkg:maven/com.onnuridmc.exelbid/exelbid@2.0.2?classifier=sources

@@ -10,6 +10,10 @@
 - pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-kernel@4.1.0?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-kernel@4.1.1?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-kernel@4.10.0?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-kernel@4.11.0-rc1?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-kernel@4.11.0-rc2?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-kernel@4.11.0-rc3?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-kernel@4.11.0?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-kernel@4.2.0?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-kernel@4.3.0?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-kernel@4.4.0?classifier=sources

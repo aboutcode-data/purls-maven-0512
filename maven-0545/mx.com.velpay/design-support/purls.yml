@@ -3,3 +3,4 @@
 - pkg:maven/mx.com.velpay/design-support@7.9.8?classifier=sources
 - pkg:maven/mx.com.velpay/design-support@7.9.9?classifier=sources
 - pkg:maven/mx.com.velpay/design-support@8.0.0?classifier=sources
+- pkg:maven/mx.com.velpay/design-support@8.0.1?classifier=sources

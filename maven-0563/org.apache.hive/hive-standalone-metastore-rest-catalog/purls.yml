@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hive/hive-standalone-metastore-rest-catalog@4.1.0
+- pkg:maven/org.apache.hive/hive-standalone-metastore-rest-catalog@4.1.0?classifier=sources

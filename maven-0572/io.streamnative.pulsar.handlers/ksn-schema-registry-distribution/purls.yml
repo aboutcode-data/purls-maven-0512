@@ -13,3 +13,5 @@
 - pkg:maven/io.streamnative.pulsar.handlers/ksn-schema-registry-distribution@4.0.5.2
 - pkg:maven/io.streamnative.pulsar.handlers/ksn-schema-registry-distribution@4.0.5.2?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/ksn-schema-registry-distribution@4.0.5.3?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/ksn-schema-registry-distribution@4.0.5.4?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/ksn-schema-registry-distribution@4.0.5.5?classifier=sources

@@ -34,3 +34,4 @@
 - pkg:maven/io.nullablej/nullablej@4.0.9?classifier=sources
 - pkg:maven/io.nullablej/nullablej@4.1.0
 - pkg:maven/io.nullablej/nullablej@4.1.0?classifier=sources
+- pkg:maven/io.nullablej/nullablej@4.1.1?classifier=sources

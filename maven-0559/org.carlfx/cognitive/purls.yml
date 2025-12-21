@@ -6,3 +6,4 @@
 - pkg:maven/org.carlfx/cognitive@1.5.0?classifier=sources
 - pkg:maven/org.carlfx/cognitive@1.5.1?classifier=sources
 - pkg:maven/org.carlfx/cognitive@1.6.0?classifier=sources
+- pkg:maven/org.carlfx/cognitive@1.6.1?classifier=sources

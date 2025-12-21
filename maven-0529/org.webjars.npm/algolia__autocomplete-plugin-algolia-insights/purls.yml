@@ -1,2 +1,3 @@
+- pkg:maven/org.webjars.npm/algolia__autocomplete-plugin-algolia-insights@1.17.7
 - pkg:maven/org.webjars.npm/algolia__autocomplete-plugin-algolia-insights@1.9.2
 - pkg:maven/org.webjars.npm/algolia__autocomplete-plugin-algolia-insights@1.9.2?classifier=sources

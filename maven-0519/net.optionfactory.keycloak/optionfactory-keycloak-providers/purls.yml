@@ -90,3 +90,4 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@7.3?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@7.4?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@8.0?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@8.1?classifier=sources

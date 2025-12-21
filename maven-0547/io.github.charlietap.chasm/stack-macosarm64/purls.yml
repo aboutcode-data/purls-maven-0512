@@ -21,3 +21,4 @@
 - pkg:maven/io.github.charlietap.chasm/stack-macosarm64@0.9.70?classifier=sources
 - pkg:maven/io.github.charlietap.chasm/stack-macosarm64@0.9.71?classifier=sources
 - pkg:maven/io.github.charlietap.chasm/stack-macosarm64@0.9.80?classifier=sources
+- pkg:maven/io.github.charlietap.chasm/stack-macosarm64@0.9.81?classifier=sources

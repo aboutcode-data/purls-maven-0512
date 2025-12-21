@@ -1,1 +1,2 @@
 - pkg:maven/org.qubership.atp.auth/atp-auth-spring-boot-starter@1.2.60?classifier=sources
+- pkg:maven/org.qubership.atp.auth/atp-auth-spring-boot-starter@1.2.68?classifier=sources

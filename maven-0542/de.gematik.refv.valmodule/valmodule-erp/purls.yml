@@ -35,6 +35,7 @@
 - pkg:maven/de.gematik.refv.valmodule/valmodule-erp@2.10.0
 - pkg:maven/de.gematik.refv.valmodule/valmodule-erp@2.10.0?classifier=sources
 - pkg:maven/de.gematik.refv.valmodule/valmodule-erp@2.11.0?classifier=sources
+- pkg:maven/de.gematik.refv.valmodule/valmodule-erp@2.12.0?classifier=sources
 - pkg:maven/de.gematik.refv.valmodule/valmodule-erp@2.2.0
 - pkg:maven/de.gematik.refv.valmodule/valmodule-erp@2.2.0?classifier=sources
 - pkg:maven/de.gematik.refv.valmodule/valmodule-erp@2.3.0

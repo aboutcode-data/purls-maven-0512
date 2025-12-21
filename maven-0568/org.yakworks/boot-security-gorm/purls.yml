@@ -53,3 +53,4 @@
 - pkg:maven/org.yakworks/boot-security-gorm@7.3.85?classifier=sources
 - pkg:maven/org.yakworks/boot-security-gorm@7.3.86?classifier=sources
 - pkg:maven/org.yakworks/boot-security-gorm@7.3.87?classifier=sources
+- pkg:maven/org.yakworks/boot-security-gorm@7.3.89?classifier=sources

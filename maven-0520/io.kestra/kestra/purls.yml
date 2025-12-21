@@ -1,3 +1,14 @@
+- pkg:maven/io.kestra/kestra@0.21.19?classifier=sources
 - pkg:maven/io.kestra/kestra@0.22.17?classifier=sources
 - pkg:maven/io.kestra/kestra@0.22.18?classifier=sources
+- pkg:maven/io.kestra/kestra@0.22.19?classifier=sources
+- pkg:maven/io.kestra/kestra@0.22.20?classifier=sources
+- pkg:maven/io.kestra/kestra@0.22.21?classifier=sources
+- pkg:maven/io.kestra/kestra@0.22.22?classifier=sources
+- pkg:maven/io.kestra/kestra@0.23.10?classifier=sources
 - pkg:maven/io.kestra/kestra@0.23.5?classifier=sources
+- pkg:maven/io.kestra/kestra@0.23.6?classifier=sources
+- pkg:maven/io.kestra/kestra@0.23.7?classifier=sources
+- pkg:maven/io.kestra/kestra@0.23.8?classifier=sources
+- pkg:maven/io.kestra/kestra@0.23.9?classifier=sources
+- pkg:maven/io.kestra/kestra@0.24.0?classifier=sources

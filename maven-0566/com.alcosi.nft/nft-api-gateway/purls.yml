@@ -10,6 +10,10 @@
 - pkg:maven/com.alcosi.nft/nft-api-gateway@15.12-RELEASE?classifier=sources
 - pkg:maven/com.alcosi.nft/nft-api-gateway@15.13-RELEASE
 - pkg:maven/com.alcosi.nft/nft-api-gateway@15.13-RELEASE?classifier=sources
+- pkg:maven/com.alcosi.nft/nft-api-gateway@15.14-RELEASE
+- pkg:maven/com.alcosi.nft/nft-api-gateway@15.14-RELEASE?classifier=sources
+- pkg:maven/com.alcosi.nft/nft-api-gateway@15.15-RELEASE
+- pkg:maven/com.alcosi.nft/nft-api-gateway@15.15-RELEASE?classifier=sources
 - pkg:maven/com.alcosi.nft/nft-api-gateway@15.2-RELEASE
 - pkg:maven/com.alcosi.nft/nft-api-gateway@15.2-RELEASE?classifier=sources
 - pkg:maven/com.alcosi.nft/nft-api-gateway@15.3-RELEASE

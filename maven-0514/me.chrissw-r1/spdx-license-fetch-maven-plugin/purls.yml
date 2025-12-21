@@ -1,0 +1,2 @@
+- pkg:maven/me.chrissw-r1/spdx-license-fetch-maven-plugin@1.0.0
+- pkg:maven/me.chrissw-r1/spdx-license-fetch-maven-plugin@1.0.0?classifier=sources

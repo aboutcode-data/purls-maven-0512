@@ -4,3 +4,6 @@
 - pkg:maven/io.github.boswelja.jmdict/jmdict-android@2025.06.11-dev?classifier=sources
 - pkg:maven/io.github.boswelja.jmdict/jmdict-android@2025.06.14-dev?classifier=sources
 - pkg:maven/io.github.boswelja.jmdict/jmdict-android@2025.06.21-dev?classifier=sources
+- pkg:maven/io.github.boswelja.jmdict/jmdict-android@2025.07.27-dev?classifier=sources
+- pkg:maven/io.github.boswelja.jmdict/jmdict-android@2025.08.02-dev?classifier=sources
+- pkg:maven/io.github.boswelja.jmdict/jmdict-android@2025.08.09-dev?classifier=sources

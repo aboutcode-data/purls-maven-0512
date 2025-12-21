@@ -1,2 +1,3 @@
 - pkg:maven/com.azuriom/azauth@0.1.0?classifier=sources
 - pkg:maven/com.azuriom/azauth@1.0.0?classifier=sources
+- pkg:maven/com.azuriom/azauth@1.1.0?classifier=sources

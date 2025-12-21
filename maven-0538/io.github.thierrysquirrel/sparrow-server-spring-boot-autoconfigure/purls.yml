@@ -1,0 +1,2 @@
+- pkg:maven/io.github.thierrysquirrel/sparrow-server-spring-boot-autoconfigure@2.4.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.thierrysquirrel/sparrow-server-spring-boot-autoconfigure@2.4.0.1-RELEASE?classifier=sources

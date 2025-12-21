@@ -26,3 +26,4 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-eventgrid@1.2.0-beta.6?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-eventgrid@1.2.0-beta.7?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-eventgrid@1.2.0?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-eventgrid@1.3.0-beta.1?classifier=sources

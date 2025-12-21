@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm/jake@10.9.2?classifier=sources
+- pkg:maven/org.mvnpm/jake@10.9.4
+- pkg:maven/org.mvnpm/jake@10.9.4?classifier=sources

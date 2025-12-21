@@ -4,3 +4,5 @@
 - pkg:maven/org.mvnpm/hosted-git-info@8.0.2?classifier=sources
 - pkg:maven/org.mvnpm/hosted-git-info@8.1.0
 - pkg:maven/org.mvnpm/hosted-git-info@8.1.0?classifier=sources
+- pkg:maven/org.mvnpm/hosted-git-info@9.0.0
+- pkg:maven/org.mvnpm/hosted-git-info@9.0.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/studio.o7/octopus-sdk@0.0.2
+- pkg:maven/studio.o7/octopus-sdk@0.0.2?classifier=sources
+- pkg:maven/studio.o7/octopus-sdk@0.1.1
+- pkg:maven/studio.o7/octopus-sdk@0.1.1?classifier=sources
+- pkg:maven/studio.o7/octopus-sdk@0.1.2
+- pkg:maven/studio.o7/octopus-sdk@0.1.2?classifier=sources
+- pkg:maven/studio.o7/octopus-sdk@0.1.8
+- pkg:maven/studio.o7/octopus-sdk@0.1.8?classifier=sources

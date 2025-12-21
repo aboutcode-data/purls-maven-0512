@@ -1,1 +1,3 @@
 - pkg:maven/io.jexxa.esp/esp-adapters-test@0.1.0?classifier=sources
+- pkg:maven/io.jexxa.esp/esp-adapters-test@0.2.0?classifier=sources
+- pkg:maven/io.jexxa.esp/esp-adapters-test@0.3.0?classifier=sources

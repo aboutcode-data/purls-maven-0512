@@ -1,2 +1,3 @@
 - pkg:maven/org.wildfly.deployment/wildfly-deployment-transformer-parent@1.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.deployment/wildfly-deployment-transformer-parent@1.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.deployment/wildfly-deployment-transformer-parent@2.0.1.Alpha2?classifier=source-release&type=zip

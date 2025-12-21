@@ -12,3 +12,4 @@
 - pkg:maven/fish.focus.uvms.movement-rules/movement-rules-module@2.4.21?type=war
 - pkg:maven/fish.focus.uvms.movement-rules/movement-rules-module@2.4.22?classifier=sources
 - pkg:maven/fish.focus.uvms.movement-rules/movement-rules-module@2.4.22?type=war
+- pkg:maven/fish.focus.uvms.movement-rules/movement-rules-module@2.5.0?classifier=sources

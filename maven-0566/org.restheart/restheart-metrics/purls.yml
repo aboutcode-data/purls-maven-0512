@@ -106,3 +106,6 @@
 - pkg:maven/org.restheart/restheart-metrics@8.4.2?classifier=sources
 - pkg:maven/org.restheart/restheart-metrics@8.4.3?classifier=sources
 - pkg:maven/org.restheart/restheart-metrics@8.5.0?classifier=sources
+- pkg:maven/org.restheart/restheart-metrics@8.6.0?classifier=sources
+- pkg:maven/org.restheart/restheart-metrics@8.6.1?classifier=sources
+- pkg:maven/org.restheart/restheart-metrics@8.7.0?classifier=sources

@@ -130,3 +130,5 @@
 - pkg:maven/org.apache.karaf.services/org.apache.karaf.services.eventadmin@4.4.6?classifier=sources
 - pkg:maven/org.apache.karaf.services/org.apache.karaf.services.eventadmin@4.4.7
 - pkg:maven/org.apache.karaf.services/org.apache.karaf.services.eventadmin@4.4.7?classifier=sources
+- pkg:maven/org.apache.karaf.services/org.apache.karaf.services.eventadmin@4.4.8
+- pkg:maven/org.apache.karaf.services/org.apache.karaf.services.eventadmin@4.4.8?classifier=sources

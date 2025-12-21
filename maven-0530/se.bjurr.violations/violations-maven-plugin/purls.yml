@@ -90,3 +90,5 @@
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@2.0.0
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@2.1.0
 - pkg:maven/se.bjurr.violations/violations-maven-plugin@2.2.0
+- pkg:maven/se.bjurr.violations/violations-maven-plugin@2.2.7?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-maven-plugin@2.2.8?classifier=sources

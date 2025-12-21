@@ -1,1 +1,2 @@
 - pkg:maven/au.com.auspayplus.digitalid/rp-java-sdk@9.2.0?classifier=sources
+- pkg:maven/au.com.auspayplus.digitalid/rp-java-sdk@9.3.0?classifier=sources

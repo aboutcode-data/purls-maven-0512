@@ -115,6 +115,9 @@
 - pkg:maven/io.jooby/jooby-whoops@3.1.4
 - pkg:maven/io.jooby/jooby-whoops@3.1.4?classifier=sources
 - pkg:maven/io.jooby/jooby-whoops@3.10.0?classifier=sources
+- pkg:maven/io.jooby/jooby-whoops@3.11.0?classifier=sources
+- pkg:maven/io.jooby/jooby-whoops@3.11.1?classifier=sources
+- pkg:maven/io.jooby/jooby-whoops@3.11.2?classifier=sources
 - pkg:maven/io.jooby/jooby-whoops@3.2.0
 - pkg:maven/io.jooby/jooby-whoops@3.2.0?classifier=sources
 - pkg:maven/io.jooby/jooby-whoops@3.2.1
@@ -173,3 +176,9 @@
 - pkg:maven/io.jooby/jooby-whoops@3.9.0?classifier=sources
 - pkg:maven/io.jooby/jooby-whoops@3.9.1
 - pkg:maven/io.jooby/jooby-whoops@3.9.1?classifier=sources
+- pkg:maven/io.jooby/jooby-whoops@4.0.0?classifier=sources
+- pkg:maven/io.jooby/jooby-whoops@4.0.1?classifier=sources
+- pkg:maven/io.jooby/jooby-whoops@4.0.2?classifier=sources
+- pkg:maven/io.jooby/jooby-whoops@4.0.3?classifier=sources
+- pkg:maven/io.jooby/jooby-whoops@4.0.4?classifier=sources
+- pkg:maven/io.jooby/jooby-whoops@4.0.5?classifier=sources

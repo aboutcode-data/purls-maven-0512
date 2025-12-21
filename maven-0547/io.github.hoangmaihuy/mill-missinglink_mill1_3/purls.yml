@@ -1,4 +1,8 @@
 - pkg:maven/io.github.hoangmaihuy/mill-missinglink_mill1_3@0.2.0-19-271185
 - pkg:maven/io.github.hoangmaihuy/mill-missinglink_mill1_3@0.2.0-19-271185?classifier=sources
+- pkg:maven/io.github.hoangmaihuy/mill-missinglink_mill1_3@0.3.0
+- pkg:maven/io.github.hoangmaihuy/mill-missinglink_mill1_3@0.3.0-1-b00a54
+- pkg:maven/io.github.hoangmaihuy/mill-missinglink_mill1_3@0.3.0-1-b00a54?classifier=sources
 - pkg:maven/io.github.hoangmaihuy/mill-missinglink_mill1_3@0.3.0-RC1
 - pkg:maven/io.github.hoangmaihuy/mill-missinglink_mill1_3@0.3.0-RC1?classifier=sources
+- pkg:maven/io.github.hoangmaihuy/mill-missinglink_mill1_3@0.3.0?classifier=sources

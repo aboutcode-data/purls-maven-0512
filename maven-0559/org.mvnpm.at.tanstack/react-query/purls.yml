@@ -81,3 +81,11 @@
 - pkg:maven/org.mvnpm.at.tanstack/react-query@5.81.5?classifier=sources
 - pkg:maven/org.mvnpm.at.tanstack/react-query@5.82.0
 - pkg:maven/org.mvnpm.at.tanstack/react-query@5.82.0?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.83.0
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.83.0?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.83.1
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.83.1?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.84.0
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.84.0?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.84.1
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.84.1?classifier=sources

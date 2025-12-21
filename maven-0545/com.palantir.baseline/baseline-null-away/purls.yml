@@ -135,7 +135,17 @@
 - pkg:maven/com.palantir.baseline/baseline-null-away@6.4.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-null-away@6.40.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-null-away@6.41.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@6.42.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@6.43.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@6.44.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@6.45.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@6.46.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@6.47.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@6.48.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@6.49.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-null-away@6.5.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@6.50.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-null-away@6.51.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-null-away@6.6.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-null-away@6.7.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-null-away@6.8.0?classifier=sources

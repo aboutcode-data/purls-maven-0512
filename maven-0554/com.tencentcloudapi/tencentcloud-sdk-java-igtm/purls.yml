@@ -1,1 +1,5 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-igtm@3.1.1299?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-igtm@3.1.1303?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-igtm@3.1.1304?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-igtm@3.1.1305?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-igtm@3.1.1308?classifier=sources

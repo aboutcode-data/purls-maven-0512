@@ -163,8 +163,14 @@
 - pkg:maven/org.entur.ror.helpers/organisation@5.2?classifier=sources
 - pkg:maven/org.entur.ror.helpers/organisation@5.3
 - pkg:maven/org.entur.ror.helpers/organisation@5.30.0?classifier=sources
+- pkg:maven/org.entur.ror.helpers/organisation@5.32.0?classifier=sources
+- pkg:maven/org.entur.ror.helpers/organisation@5.34.0?classifier=sources
+- pkg:maven/org.entur.ror.helpers/organisation@5.36.0?classifier=sources
+- pkg:maven/org.entur.ror.helpers/organisation@5.38.0?classifier=sources
 - pkg:maven/org.entur.ror.helpers/organisation@5.3?classifier=sources
 - pkg:maven/org.entur.ror.helpers/organisation@5.4
+- pkg:maven/org.entur.ror.helpers/organisation@5.40.0?classifier=sources
+- pkg:maven/org.entur.ror.helpers/organisation@5.42.0?classifier=sources
 - pkg:maven/org.entur.ror.helpers/organisation@5.4?classifier=sources
 - pkg:maven/org.entur.ror.helpers/organisation@5.5
 - pkg:maven/org.entur.ror.helpers/organisation@5.5?classifier=sources
