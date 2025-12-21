@@ -2,3 +2,4 @@
 - pkg:maven/no.priv.bang.osgiservice/osgiservice-bom@1.7.3
 - pkg:maven/no.priv.bang.osgiservice/osgiservice-bom@1.8.0
 - pkg:maven/no.priv.bang.osgiservice/osgiservice-bom@2.0.0
+- pkg:maven/no.priv.bang.osgiservice/osgiservice-bom@2.0.1

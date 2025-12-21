@@ -1,3 +1,5 @@
+- pkg:maven/org.neo4j/neo4j-cloud@2025.01.0
+- pkg:maven/org.neo4j/neo4j-cloud@2025.01.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cloud@5.17.0
 - pkg:maven/org.neo4j/neo4j-cloud@5.17.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cloud@5.18.0
@@ -28,3 +30,5 @@
 - pkg:maven/org.neo4j/neo4j-cloud@5.26.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cloud@5.26.1
 - pkg:maven/org.neo4j/neo4j-cloud@5.26.1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cloud@5.26.2
+- pkg:maven/org.neo4j/neo4j-cloud@5.26.2?classifier=sources

@@ -64,6 +64,8 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-obs@3.1.131?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-obs@3.1.132
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-obs@3.1.132?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-obs@3.1.133
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-obs@3.1.133?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-obs@3.1.43
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-obs@3.1.43?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-obs@3.1.44

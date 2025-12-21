@@ -42,6 +42,7 @@
 - pkg:maven/io.netty/netty-dev-tools@4.1.115.Final
 - pkg:maven/io.netty/netty-dev-tools@4.1.116.Final
 - pkg:maven/io.netty/netty-dev-tools@4.1.117.Final
+- pkg:maven/io.netty/netty-dev-tools@4.1.118.Final
 - pkg:maven/io.netty/netty-dev-tools@4.1.12.Final
 - pkg:maven/io.netty/netty-dev-tools@4.1.12.Final?classifier=sources
 - pkg:maven/io.netty/netty-dev-tools@4.1.13.Final
@@ -185,3 +186,5 @@
 - pkg:maven/io.netty/netty-dev-tools@4.2.0.Alpha5
 - pkg:maven/io.netty/netty-dev-tools@4.2.0.Beta1
 - pkg:maven/io.netty/netty-dev-tools@4.2.0.RC1
+- pkg:maven/io.netty/netty-dev-tools@4.2.0.RC2
+- pkg:maven/io.netty/netty-dev-tools@4.2.0.RC3

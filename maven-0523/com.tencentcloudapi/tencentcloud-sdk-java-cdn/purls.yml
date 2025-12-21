@@ -28,6 +28,8 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.1149?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.1181
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.1181?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.1196
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.1196?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.179
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn@3.1.180

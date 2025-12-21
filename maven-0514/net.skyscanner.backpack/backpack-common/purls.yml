@@ -78,6 +78,10 @@
 - pkg:maven/net.skyscanner.backpack/backpack-common@66.11.0?classifier=sources
 - pkg:maven/net.skyscanner.backpack/backpack-common@66.12.1?classifier=sources
 - pkg:maven/net.skyscanner.backpack/backpack-common@66.13.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-common@66.14.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-common@66.14.1?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-common@66.15.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-common@66.15.1?classifier=sources
 - pkg:maven/net.skyscanner.backpack/backpack-common@66.2.0?classifier=sources
 - pkg:maven/net.skyscanner.backpack/backpack-common@66.3.0?classifier=sources
 - pkg:maven/net.skyscanner.backpack/backpack-common@66.4.0?classifier=sources
@@ -88,3 +92,6 @@
 - pkg:maven/net.skyscanner.backpack/backpack-common@66.7.0?classifier=sources
 - pkg:maven/net.skyscanner.backpack/backpack-common@66.8.0?classifier=sources
 - pkg:maven/net.skyscanner.backpack/backpack-common@66.9.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-common@67.0.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-common@67.0.1?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-common@67.0.2?classifier=sources

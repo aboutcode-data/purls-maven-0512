@@ -5,3 +5,6 @@
 - pkg:maven/io.lionweb.lionweb-kotlin/lionweb-kotlin-2024.1-repo-client-testing@0.2.5?classifier=sources
 - pkg:maven/io.lionweb.lionweb-kotlin/lionweb-kotlin-2024.1-repo-client-testing@0.2.6?classifier=sources
 - pkg:maven/io.lionweb.lionweb-kotlin/lionweb-kotlin-2024.1-repo-client-testing@0.3.0?classifier=sources
+- pkg:maven/io.lionweb.lionweb-kotlin/lionweb-kotlin-2024.1-repo-client-testing@0.3.1?classifier=sources
+- pkg:maven/io.lionweb.lionweb-kotlin/lionweb-kotlin-2024.1-repo-client-testing@0.3.2?classifier=sources
+- pkg:maven/io.lionweb.lionweb-kotlin/lionweb-kotlin-2024.1-repo-client-testing@0.3.3?classifier=sources

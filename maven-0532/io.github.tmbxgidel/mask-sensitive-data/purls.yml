@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tmbxgidel/mask-sensitive-data@1.0.0-alpha?classifier=sources
+- pkg:maven/io.github.tmbxgidel/mask-sensitive-data@1.0.0-beta?classifier=sources

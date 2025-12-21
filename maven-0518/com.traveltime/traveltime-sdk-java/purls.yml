@@ -47,4 +47,5 @@
 - pkg:maven/com.traveltime/traveltime-sdk-java@1.7.2
 - pkg:maven/com.traveltime/traveltime-sdk-java@1.8.0
 - pkg:maven/com.traveltime/traveltime-sdk-java@2.0.0
+- pkg:maven/com.traveltime/traveltime-sdk-java@2.0.1
 - pkg:maven/com.traveltime/traveltime-sdk-java@v1.1.17-Snapshot

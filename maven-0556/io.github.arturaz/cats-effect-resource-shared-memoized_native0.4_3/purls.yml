@@ -1,0 +1,2 @@
+- pkg:maven/io.github.arturaz/cats-effect-resource-shared-memoized_native0.4_3@0.1.1
+- pkg:maven/io.github.arturaz/cats-effect-resource-shared-memoized_native0.4_3@0.1.1?classifier=sources

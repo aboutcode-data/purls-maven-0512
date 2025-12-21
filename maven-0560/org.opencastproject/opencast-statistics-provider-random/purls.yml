@@ -166,6 +166,8 @@
 - pkg:maven/org.opencastproject/opencast-statistics-provider-random@16.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-statistics-provider-random@16.8
 - pkg:maven/org.opencastproject/opencast-statistics-provider-random@16.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-statistics-provider-random@16.9
+- pkg:maven/org.opencastproject/opencast-statistics-provider-random@16.9?classifier=sources
 - pkg:maven/org.opencastproject/opencast-statistics-provider-random@8.0
 - pkg:maven/org.opencastproject/opencast-statistics-provider-random@8.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-statistics-provider-random@8.1

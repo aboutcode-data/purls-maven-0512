@@ -14,3 +14,5 @@
 - pkg:maven/org.bidib.com.ftdi/FTD2xxJ@0.3.7?classifier=sources
 - pkg:maven/org.bidib.com.ftdi/FTD2xxJ@0.3.8
 - pkg:maven/org.bidib.com.ftdi/FTD2xxJ@0.3.8?classifier=sources
+- pkg:maven/org.bidib.com.ftdi/FTD2xxJ@0.3.9
+- pkg:maven/org.bidib.com.ftdi/FTD2xxJ@0.3.9?classifier=sources

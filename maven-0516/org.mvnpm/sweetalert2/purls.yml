@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm/sweetalert2@11.15.0?classifier=sources
 - pkg:maven/org.mvnpm/sweetalert2@11.15.10?classifier=sources
 - pkg:maven/org.mvnpm/sweetalert2@11.15.3?classifier=sources
+- pkg:maven/org.mvnpm/sweetalert2@11.16.0?classifier=sources
+- pkg:maven/org.mvnpm/sweetalert2@11.16.1?classifier=sources

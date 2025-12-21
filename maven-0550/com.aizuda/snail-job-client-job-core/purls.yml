@@ -32,3 +32,4 @@
 - pkg:maven/com.aizuda/snail-job-client-job-core@1.3.0-beta1.1?classifier=sources
 - pkg:maven/com.aizuda/snail-job-client-job-core@1.3.0-beta1?classifier=sources
 - pkg:maven/com.aizuda/snail-job-client-job-core@1.3.0-beta2?classifier=sources
+- pkg:maven/com.aizuda/snail-job-client-job-core@1.3.0?classifier=sources

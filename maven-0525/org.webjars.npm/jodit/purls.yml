@@ -19,3 +19,4 @@
 - pkg:maven/org.webjars.npm/jodit@4.0.18
 - pkg:maven/org.webjars.npm/jodit@4.0.18?classifier=sources
 - pkg:maven/org.webjars.npm/jodit@4.2.27
+- pkg:maven/org.webjars.npm/jodit@4.2.5

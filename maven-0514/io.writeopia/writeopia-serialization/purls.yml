@@ -2,3 +2,5 @@
 - pkg:maven/io.writeopia/writeopia-serialization@0.4.1?classifier=sources
 - pkg:maven/io.writeopia/writeopia-serialization@0.5.0?classifier=sources
 - pkg:maven/io.writeopia/writeopia-serialization@0.6.0?classifier=sources
+- pkg:maven/io.writeopia/writeopia-serialization@0.7.0?classifier=sources
+- pkg:maven/io.writeopia/writeopia-serialization@0.8.0?classifier=sources

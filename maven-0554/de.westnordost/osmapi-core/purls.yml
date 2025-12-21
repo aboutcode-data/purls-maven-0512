@@ -12,3 +12,5 @@
 - pkg:maven/de.westnordost/osmapi-core@2.0?classifier=sources
 - pkg:maven/de.westnordost/osmapi-core@3.0
 - pkg:maven/de.westnordost/osmapi-core@3.0?classifier=sources
+- pkg:maven/de.westnordost/osmapi-core@3.1
+- pkg:maven/de.westnordost/osmapi-core@3.1?classifier=sources

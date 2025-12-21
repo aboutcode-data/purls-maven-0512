@@ -250,3 +250,13 @@
 - pkg:maven/com.daml/daml-lf-archive-proto@3.3.0-snapshot.20250116.13522.0.v577ae96d?classifier=sources
 - pkg:maven/com.daml/daml-lf-archive-proto@3.3.0-snapshot.20250117.13525.0.v9e9dcacc
 - pkg:maven/com.daml/daml-lf-archive-proto@3.3.0-snapshot.20250117.13525.0.v9e9dcacc?classifier=sources
+- pkg:maven/com.daml/daml-lf-archive-proto@3.3.0-snapshot.20250120.13527.0.v2040bc28
+- pkg:maven/com.daml/daml-lf-archive-proto@3.3.0-snapshot.20250120.13527.0.v2040bc28?classifier=sources
+- pkg:maven/com.daml/daml-lf-archive-proto@3.3.0-snapshot.20250121.13534.0.v390a77a1
+- pkg:maven/com.daml/daml-lf-archive-proto@3.3.0-snapshot.20250121.13534.0.v390a77a1?classifier=sources
+- pkg:maven/com.daml/daml-lf-archive-proto@3.3.0-snapshot.20250122.13536.0.vb8824671
+- pkg:maven/com.daml/daml-lf-archive-proto@3.3.0-snapshot.20250122.13536.0.vb8824671?classifier=sources
+- pkg:maven/com.daml/daml-lf-archive-proto@3.3.0-snapshot.20250122.13543.0.v2d9d24e7
+- pkg:maven/com.daml/daml-lf-archive-proto@3.3.0-snapshot.20250122.13543.0.v2d9d24e7?classifier=sources
+- pkg:maven/com.daml/daml-lf-archive-proto@3.3.0-snapshot.20250123.13549.0.vf8fb0961
+- pkg:maven/com.daml/daml-lf-archive-proto@3.3.0-snapshot.20250123.13549.0.vf8fb0961?classifier=sources

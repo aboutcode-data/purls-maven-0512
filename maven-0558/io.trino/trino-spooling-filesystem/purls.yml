@@ -10,3 +10,6 @@
 - pkg:maven/io.trino/trino-spooling-filesystem@466?classifier=sources
 - pkg:maven/io.trino/trino-spooling-filesystem@467?classifier=sources
 - pkg:maven/io.trino/trino-spooling-filesystem@468?classifier=sources
+- pkg:maven/io.trino/trino-spooling-filesystem@469?classifier=sources
+- pkg:maven/io.trino/trino-spooling-filesystem@470?classifier=sources
+- pkg:maven/io.trino/trino-spooling-filesystem@471?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/edu.nps.moves/open-dis@5.7?classifier=sources
 - pkg:maven/edu.nps.moves/open-dis@5.8
 - pkg:maven/edu.nps.moves/open-dis@5.8?classifier=sources
+- pkg:maven/edu.nps.moves/open-dis@5.9
+- pkg:maven/edu.nps.moves/open-dis@5.9?classifier=sources

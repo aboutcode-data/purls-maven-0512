@@ -330,6 +330,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-20250108
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-20250109
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-20250110
+- pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-20250125
+- pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-20250212
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk11-20240819
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk11-20240826
@@ -344,6 +346,7 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk11-20250101
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk11-20250102
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk11-20250108
+- pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk11-20250212
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk17-20240501
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk17-20240505
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk17-20240506
@@ -414,6 +417,7 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk17-20250102
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk17-20250108
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk17-20250109
+- pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk17-20250212
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk21-20240501
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk21-20240505
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk21-20240506
@@ -492,3 +496,4 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk21-20250102
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk21-20250108
 - pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk21-20250109
+- pkg:maven/org.anyline/anyline-data-jdbc-sybase@8.7.2-jdk21-20250212

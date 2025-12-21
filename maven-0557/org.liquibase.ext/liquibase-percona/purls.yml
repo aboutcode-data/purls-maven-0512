@@ -54,6 +54,8 @@
 - pkg:maven/org.liquibase.ext/liquibase-percona@4.3.5?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-percona@4.30.0
 - pkg:maven/org.liquibase.ext/liquibase-percona@4.30.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-percona@4.31.0
+- pkg:maven/org.liquibase.ext/liquibase-percona@4.31.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-percona@4.4.0
 - pkg:maven/org.liquibase.ext/liquibase-percona@4.4.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-percona@4.4.1

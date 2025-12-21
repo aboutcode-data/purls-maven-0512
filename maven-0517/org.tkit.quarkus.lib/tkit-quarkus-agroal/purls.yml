@@ -1,0 +1,6 @@
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-agroal@2.38.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-agroal@2.38.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-agroal@2.39.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-agroal@2.39.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-agroal@2.40.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-agroal@2.40.0?classifier=sources

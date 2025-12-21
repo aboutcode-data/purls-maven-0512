@@ -41,6 +41,7 @@
 - pkg:maven/net.danlew/android.joda@2.12.5?classifier=sources
 - pkg:maven/net.danlew/android.joda@2.12.6?classifier=sources
 - pkg:maven/net.danlew/android.joda@2.12.7?classifier=sources
+- pkg:maven/net.danlew/android.joda@2.13.0.1?classifier=sources
 - pkg:maven/net.danlew/android.joda@2.13.0?classifier=sources
 - pkg:maven/net.danlew/android.joda@2.3.1?classifier=sources
 - pkg:maven/net.danlew/android.joda@2.3.1?type=aar

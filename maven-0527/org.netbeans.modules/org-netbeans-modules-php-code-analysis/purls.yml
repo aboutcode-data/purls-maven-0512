@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-code-analysis@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-code-analysis@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-code-analysis@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-code-analysis@RELEASE250?classifier=sources

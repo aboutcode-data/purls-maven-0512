@@ -1,0 +1,2 @@
+- pkg:maven/com.siraj-ses/siraj-iterator-plugin@1.0.0?classifier=sources
+- pkg:maven/com.siraj-ses/siraj-iterator-plugin@1.0.1?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.gravitino/gravitino-authorization-ranger@0.8.0-incubating?classifier=sources

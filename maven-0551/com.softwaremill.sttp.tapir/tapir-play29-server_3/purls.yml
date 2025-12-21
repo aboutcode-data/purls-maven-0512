@@ -4,6 +4,12 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-play29-server_3@1.11.11?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-play29-server_3@1.11.12
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-play29-server_3@1.11.12?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-play29-server_3@1.11.13
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-play29-server_3@1.11.13?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-play29-server_3@1.11.14
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-play29-server_3@1.11.14?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-play29-server_3@1.11.15
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-play29-server_3@1.11.15?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-play29-server_3@1.11.2
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-play29-server_3@1.11.2?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-play29-server_3@1.11.3

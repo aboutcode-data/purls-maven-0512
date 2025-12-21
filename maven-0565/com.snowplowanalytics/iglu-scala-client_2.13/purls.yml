@@ -152,3 +152,5 @@
 - pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@4.0.1-M1
 - pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@4.0.1-M1?classifier=sources
 - pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@4.0.1?classifier=sources
+- pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@4.0.2
+- pkg:maven/com.snowplowanalytics/iglu-scala-client_2.13@4.0.2?classifier=sources

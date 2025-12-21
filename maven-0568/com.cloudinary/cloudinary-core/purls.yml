@@ -111,3 +111,5 @@
 - pkg:maven/com.cloudinary/cloudinary-core@1.9.1?classifier=sources
 - pkg:maven/com.cloudinary/cloudinary-core@2.0.0
 - pkg:maven/com.cloudinary/cloudinary-core@2.0.0?classifier=sources
+- pkg:maven/com.cloudinary/cloudinary-core@2.1.0
+- pkg:maven/com.cloudinary/cloudinary-core@2.1.0?classifier=sources

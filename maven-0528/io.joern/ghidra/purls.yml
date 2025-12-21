@@ -16,3 +16,4 @@
 - pkg:maven/io.joern/ghidra@11.1.2_PUBLIC_20240709-1?classifier=sources
 - pkg:maven/io.joern/ghidra@11.2.1_PUBLIC_20241105-6?classifier=sources
 - pkg:maven/io.joern/ghidra@11.2.1_PUBLIC_20241105-7?classifier=sources
+- pkg:maven/io.joern/ghidra@11.3_PUBLIC_20250205-3?classifier=sources

@@ -129,3 +129,5 @@
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@3.0.1?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@3.0.2?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@3.0.3?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@3.1.0?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib@3.2.0?classifier=sources

@@ -70,3 +70,5 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-protobuf_sjs1_3@0.18.27?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-protobuf_sjs1_3@0.18.28
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-protobuf_sjs1_3@0.18.28?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-protobuf_sjs1_3@0.18.29
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-protobuf_sjs1_3@0.18.29?classifier=sources

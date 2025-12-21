@@ -1,1 +1,2 @@
 - pkg:maven/io.github.theborakompanioni/bitcoin-fee-estimate-strike@0.14.0?classifier=sources
+- pkg:maven/io.github.theborakompanioni/bitcoin-fee-estimate-strike@0.15.0?classifier=sources

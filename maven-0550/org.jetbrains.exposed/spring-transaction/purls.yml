@@ -45,3 +45,4 @@
 - pkg:maven/org.jetbrains.exposed/spring-transaction@0.56.0?classifier=sources
 - pkg:maven/org.jetbrains.exposed/spring-transaction@0.57.0?classifier=sources
 - pkg:maven/org.jetbrains.exposed/spring-transaction@0.58.0?classifier=sources
+- pkg:maven/org.jetbrains.exposed/spring-transaction@0.59.0?classifier=sources

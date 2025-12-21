@@ -10,6 +10,10 @@
 - pkg:maven/dev.mobile/maestro-ios-driver@1.38.0?classifier=sources
 - pkg:maven/dev.mobile/maestro-ios-driver@1.38.1?classifier=sources
 - pkg:maven/dev.mobile/maestro-ios-driver@1.39.0?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios-driver@1.39.10?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios-driver@1.39.11?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios-driver@1.39.12?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios-driver@1.39.13?classifier=sources
 - pkg:maven/dev.mobile/maestro-ios-driver@1.39.1?classifier=sources
 - pkg:maven/dev.mobile/maestro-ios-driver@1.39.2?classifier=sources
 - pkg:maven/dev.mobile/maestro-ios-driver@1.39.3?classifier=sources

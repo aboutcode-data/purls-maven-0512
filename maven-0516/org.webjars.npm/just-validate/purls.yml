@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/just-validate@3.5.2?classifier=sources
 - pkg:maven/org.webjars.npm/just-validate@3.8.1
 - pkg:maven/org.webjars.npm/just-validate@3.8.1?classifier=sources
+- pkg:maven/org.webjars.npm/just-validate@4.3.0

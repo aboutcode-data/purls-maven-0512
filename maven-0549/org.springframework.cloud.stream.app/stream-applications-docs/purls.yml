@@ -9,3 +9,5 @@
 - pkg:maven/org.springframework.cloud.stream.app/stream-applications-docs@2022.0.0
 - pkg:maven/org.springframework.cloud.stream.app/stream-applications-docs@2022.0.1
 - pkg:maven/org.springframework.cloud.stream.app/stream-applications-docs@2024.0.0
+- pkg:maven/org.springframework.cloud.stream.app/stream-applications-docs@2024.0.1
+- pkg:maven/org.springframework.cloud.stream.app/stream-applications-docs@2025.0.0

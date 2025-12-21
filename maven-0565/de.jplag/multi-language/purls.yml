@@ -1,0 +1,2 @@
+- pkg:maven/de.jplag/multi-language@6.0.0
+- pkg:maven/de.jplag/multi-language@6.0.0?classifier=sources

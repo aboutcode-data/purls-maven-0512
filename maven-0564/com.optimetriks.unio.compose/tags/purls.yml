@@ -10,6 +10,7 @@
 - pkg:maven/com.optimetriks.unio.compose/tags@40?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/tags@46?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/tags@4?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/tags@68?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/tags@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/tags@7?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/tags@8?classifier=sources

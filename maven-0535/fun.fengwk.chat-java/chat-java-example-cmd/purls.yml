@@ -1,0 +1,2 @@
+- pkg:maven/fun.fengwk.chat-java/chat-java-example-cmd@0.0.1
+- pkg:maven/fun.fengwk.chat-java/chat-java-example-cmd@0.0.1?classifier=sources

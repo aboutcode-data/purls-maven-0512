@@ -1,0 +1,4 @@
+- pkg:maven/com.lihaoyi/mill-dist-native-mac-x86_64@0.12.5-171-6891d9
+- pkg:maven/com.lihaoyi/mill-dist-native-mac-x86_64@0.12.5-171-6891d9?classifier=sources
+- pkg:maven/com.lihaoyi/mill-dist-native-mac-x86_64@0.12.5-172-273e05
+- pkg:maven/com.lihaoyi/mill-dist-native-mac-x86_64@0.12.5-172-273e05?classifier=sources

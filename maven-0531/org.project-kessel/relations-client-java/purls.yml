@@ -1,5 +1,6 @@
 - pkg:maven/org.project-kessel/relations-client-java@0.10?classifier=sources
 - pkg:maven/org.project-kessel/relations-client-java@0.11111?classifier=sources
+- pkg:maven/org.project-kessel/relations-client-java@0.12?classifier=sources
 - pkg:maven/org.project-kessel/relations-client-java@0.1?classifier=sources
 - pkg:maven/org.project-kessel/relations-client-java@0.2?classifier=sources
 - pkg:maven/org.project-kessel/relations-client-java@0.3?classifier=sources

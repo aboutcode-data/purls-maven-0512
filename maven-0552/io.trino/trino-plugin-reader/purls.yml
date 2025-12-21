@@ -180,3 +180,9 @@
 - pkg:maven/io.trino/trino-plugin-reader@467?classifier=sources
 - pkg:maven/io.trino/trino-plugin-reader@468
 - pkg:maven/io.trino/trino-plugin-reader@468?classifier=sources
+- pkg:maven/io.trino/trino-plugin-reader@469
+- pkg:maven/io.trino/trino-plugin-reader@469?classifier=sources
+- pkg:maven/io.trino/trino-plugin-reader@470
+- pkg:maven/io.trino/trino-plugin-reader@470?classifier=sources
+- pkg:maven/io.trino/trino-plugin-reader@471
+- pkg:maven/io.trino/trino-plugin-reader@471?classifier=sources

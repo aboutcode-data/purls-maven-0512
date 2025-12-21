@@ -1,0 +1,2 @@
+- pkg:maven/com.powsybl/open-rao-inter-temporal-constraint@6.3.0
+- pkg:maven/com.powsybl/open-rao-inter-temporal-constraint@6.3.0?classifier=sources

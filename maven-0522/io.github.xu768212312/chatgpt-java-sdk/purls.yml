@@ -1,0 +1,3 @@
+- pkg:maven/io.github.xu768212312/chatgpt-java-sdk@1.1.7?classifier=sources
+- pkg:maven/io.github.xu768212312/chatgpt-java-sdk@2.0.0?classifier=sources
+- pkg:maven/io.github.xu768212312/chatgpt-java-sdk@2.0.1?classifier=sources

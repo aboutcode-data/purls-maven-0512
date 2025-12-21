@@ -50,3 +50,4 @@
 - pkg:maven/net.karneim/pojobuilder@4.2.3?classifier=sources
 - pkg:maven/net.karneim/pojobuilder@4.3.0
 - pkg:maven/net.karneim/pojobuilder@4.3.0?classifier=sources
+- pkg:maven/net.karneim/pojobuilder@4.3.1?classifier=sources
