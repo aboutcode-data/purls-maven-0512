@@ -2,3 +2,4 @@
 - pkg:maven/com.nbsaas.boot/tenant-admin@1.0.2-boot3?classifier=sources
 - pkg:maven/com.nbsaas.boot/tenant-admin@1.0.3-boot3?classifier=sources
 - pkg:maven/com.nbsaas.boot/tenant-admin@1.0.4-boot3?classifier=sources
+- pkg:maven/com.nbsaas.boot/tenant-admin@1.2.1-boot4?classifier=sources

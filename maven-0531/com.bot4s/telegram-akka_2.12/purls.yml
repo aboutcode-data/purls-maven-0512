@@ -58,3 +58,5 @@
 - pkg:maven/com.bot4s/telegram-akka_2.12@5.8.4?classifier=sources
 - pkg:maven/com.bot4s/telegram-akka_2.12@6.0.0
 - pkg:maven/com.bot4s/telegram-akka_2.12@6.0.0?classifier=sources
+- pkg:maven/com.bot4s/telegram-akka_2.12@6.0.1
+- pkg:maven/com.bot4s/telegram-akka_2.12@6.0.1?classifier=sources

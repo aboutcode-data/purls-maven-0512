@@ -1,0 +1,2 @@
+- pkg:maven/ai.looktech.ltrpc/bt-app-schema-jvm@0.0.1?classifier=sources
+- pkg:maven/ai.looktech.ltrpc/bt-app-schema-jvm@1.0.0?classifier=sources

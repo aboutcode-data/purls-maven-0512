@@ -66,3 +66,5 @@
 - pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha66?classifier=sources
 - pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha67?classifier=sources
 - pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha68?classifier=sources
+- pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha69?classifier=sources
+- pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha70?classifier=sources

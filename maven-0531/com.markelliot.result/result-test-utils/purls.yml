@@ -3,3 +3,4 @@
 - pkg:maven/com.markelliot.result/result-test-utils@0.127.0?classifier=sources
 - pkg:maven/com.markelliot.result/result-test-utils@0.130.0?classifier=sources
 - pkg:maven/com.markelliot.result/result-test-utils@0.131.0?classifier=sources
+- pkg:maven/com.markelliot.result/result-test-utils@0.132.0?classifier=sources

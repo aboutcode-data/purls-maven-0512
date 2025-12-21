@@ -81,6 +81,7 @@
 - pkg:maven/com.linecorp.armeria/armeria-oauth2@1.33.2?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-oauth2@1.33.3?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-oauth2@1.33.4?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-oauth2@1.34.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-oauth2@1.6.0
 - pkg:maven/com.linecorp.armeria/armeria-oauth2@1.6.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-oauth2@1.7.0

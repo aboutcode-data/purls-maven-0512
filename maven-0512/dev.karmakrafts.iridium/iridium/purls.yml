@@ -24,3 +24,4 @@
 - pkg:maven/dev.karmakrafts.iridium/iridium@1.8.0?classifier=sources
 - pkg:maven/dev.karmakrafts.iridium/iridium@1.8.1?classifier=sources
 - pkg:maven/dev.karmakrafts.iridium/iridium@1.9.0?classifier=sources
+- pkg:maven/dev.karmakrafts.iridium/iridium@1.9.1?classifier=sources

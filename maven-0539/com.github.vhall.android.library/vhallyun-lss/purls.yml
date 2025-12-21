@@ -40,6 +40,8 @@
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss@2.12.6?type=aar
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss@2.12.9?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss@2.14.0?classifier=sources
+- pkg:maven/com.github.vhall.android.library/vhallyun-lss@2.15.0?classifier=sources
+- pkg:maven/com.github.vhall.android.library/vhallyun-lss@2.15.1?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss@2.4.0?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss@2.4.0?type=aar
 - pkg:maven/com.github.vhall.android.library/vhallyun-lss@2.4.1-beautify.1?classifier=sources

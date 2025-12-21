@@ -21,3 +21,9 @@
 - pkg:maven/com.fizzed/blaze-public-project@3.8.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-public-project@4.0.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-public-project@4.1.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-public-project@4.2.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-public-project@4.3.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-public-project@4.4.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-public-project@4.5.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-public-project@4.6.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-public-project@4.7.0?classifier=sources

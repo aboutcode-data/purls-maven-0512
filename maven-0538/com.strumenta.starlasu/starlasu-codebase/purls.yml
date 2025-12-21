@@ -1,3 +1,5 @@
 - pkg:maven/com.strumenta.starlasu/starlasu-codebase@1.7.0-Alpha10?classifier=sources
 - pkg:maven/com.strumenta.starlasu/starlasu-codebase@1.7.0-Alpha8?classifier=sources
 - pkg:maven/com.strumenta.starlasu/starlasu-codebase@1.7.0-Alpha9?classifier=sources
+- pkg:maven/com.strumenta.starlasu/starlasu-codebase@1.7.0?classifier=sources
+- pkg:maven/com.strumenta.starlasu/starlasu-codebase@1.7.1?classifier=sources

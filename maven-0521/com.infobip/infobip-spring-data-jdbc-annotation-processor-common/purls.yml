@@ -1,3 +1,6 @@
+- pkg:maven/com.infobip/infobip-spring-data-jdbc-annotation-processor-common@10.0.1?classifier=sources
+- pkg:maven/com.infobip/infobip-spring-data-jdbc-annotation-processor-common@10.0.2?classifier=sources
+- pkg:maven/com.infobip/infobip-spring-data-jdbc-annotation-processor-common@10.0.3?classifier=sources
 - pkg:maven/com.infobip/infobip-spring-data-jdbc-annotation-processor-common@5.3.0
 - pkg:maven/com.infobip/infobip-spring-data-jdbc-annotation-processor-common@5.3.0?classifier=sources
 - pkg:maven/com.infobip/infobip-spring-data-jdbc-annotation-processor-common@5.4.0

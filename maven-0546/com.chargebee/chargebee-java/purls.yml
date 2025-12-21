@@ -483,6 +483,7 @@
 - pkg:maven/com.chargebee/chargebee-java@3.36.1?classifier=sources
 - pkg:maven/com.chargebee/chargebee-java@3.37.0?classifier=sources
 - pkg:maven/com.chargebee/chargebee-java@3.38.0?classifier=sources
+- pkg:maven/com.chargebee/chargebee-java@3.39.0?classifier=sources
 - pkg:maven/com.chargebee/chargebee-java@3.4.0
 - pkg:maven/com.chargebee/chargebee-java@3.4.0?classifier=sources
 - pkg:maven/com.chargebee/chargebee-java@3.5.0

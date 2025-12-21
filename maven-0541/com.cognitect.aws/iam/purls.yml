@@ -82,3 +82,4 @@
 - pkg:maven/com.cognitect.aws/iam@871.2.32.2?classifier=sources
 - pkg:maven/com.cognitect.aws/iam@871.2.36.3?classifier=sources
 - pkg:maven/com.cognitect.aws/iam@871.2.38.3?classifier=sources
+- pkg:maven/com.cognitect.aws/iam@871.2.39.3?classifier=sources

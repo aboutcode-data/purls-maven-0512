@@ -1,0 +1,1 @@
+- pkg:maven/com.newrelic.agent.android/android-agent-static@7.6.13?classifier=sources

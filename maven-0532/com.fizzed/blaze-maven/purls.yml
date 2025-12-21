@@ -1,5 +1,12 @@
+- pkg:maven/com.fizzed/blaze-maven@2.10.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-maven@2.11.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-maven@2.4.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-maven@2.4.1?classifier=sources
 - pkg:maven/com.fizzed/blaze-maven@2.4.2?classifier=sources
 - pkg:maven/com.fizzed/blaze-maven@2.5.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-maven@2.6.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-maven@2.6.1?classifier=sources
+- pkg:maven/com.fizzed/blaze-maven@2.7.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-maven@2.7.1?classifier=sources
+- pkg:maven/com.fizzed/blaze-maven@2.8.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-maven@2.9.0?classifier=sources

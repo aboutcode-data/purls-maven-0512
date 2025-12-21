@@ -57,3 +57,6 @@
 - pkg:maven/cool.scx/scx-http-x@3.8.9?classifier=sources
 - pkg:maven/cool.scx/scx-http-x@3.9.0?classifier=sources
 - pkg:maven/cool.scx/scx-http-x@3.9.1?classifier=sources
+- pkg:maven/cool.scx/scx-http-x@3.9.2?classifier=sources
+- pkg:maven/cool.scx/scx-http-x@3.9.3?classifier=sources
+- pkg:maven/cool.scx/scx-http-x@3.9.4?classifier=sources

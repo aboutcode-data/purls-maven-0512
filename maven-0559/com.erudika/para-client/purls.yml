@@ -251,3 +251,7 @@
 - pkg:maven/com.erudika/para-client@1.50.7?classifier=sources
 - pkg:maven/com.erudika/para-client@1.50.8?classifier=sources
 - pkg:maven/com.erudika/para-client@1.51.0?classifier=sources
+- pkg:maven/com.erudika/para-client@1.51.1?classifier=sources
+- pkg:maven/com.erudika/para-client@1.51.2?classifier=sources
+- pkg:maven/com.erudika/para-client@1.51.3?classifier=sources
+- pkg:maven/com.erudika/para-client@1.51.4?classifier=sources

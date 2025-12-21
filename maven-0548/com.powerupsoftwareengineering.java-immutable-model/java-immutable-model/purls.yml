@@ -4,4 +4,5 @@
 - pkg:maven/com.powerupsoftwareengineering.java-immutable-model/java-immutable-model@1.6.17?classifier=sources
 - pkg:maven/com.powerupsoftwareengineering.java-immutable-model/java-immutable-model@1.7.102?classifier=sources
 - pkg:maven/com.powerupsoftwareengineering.java-immutable-model/java-immutable-model@1.7.61?classifier=sources
+- pkg:maven/com.powerupsoftwareengineering.java-immutable-model/java-immutable-model@1.9.13?classifier=sources
 - pkg:maven/com.powerupsoftwareengineering.java-immutable-model/java-immutable-model@1.9.2?classifier=sources

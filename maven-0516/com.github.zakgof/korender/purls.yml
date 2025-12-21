@@ -4,3 +4,4 @@
 - pkg:maven/com.github.zakgof/korender@0.4.0?classifier=sources
 - pkg:maven/com.github.zakgof/korender@0.5.0?classifier=sources
 - pkg:maven/com.github.zakgof/korender@0.5.1?classifier=sources
+- pkg:maven/com.github.zakgof/korender@0.6.0?classifier=sources
