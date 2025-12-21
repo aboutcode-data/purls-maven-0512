@@ -1,0 +1,1 @@
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-lambda-events-common-2.2@2.20.0-alpha?classifier=sources

@@ -1,4 +1,8 @@
 - pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.1
+- pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.10
+- pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.10-PREVIEW.pvupdateawsdep.2025-09-16T0924.f4373287
+- pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.10-PREVIEW.pvupdateawsdep.2025-09-16T0924.f4373287?classifier=sources
+- pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.10?classifier=sources
 - pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.1?classifier=sources
 - pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.4
 - pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.4?classifier=sources

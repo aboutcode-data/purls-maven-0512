@@ -338,6 +338,8 @@
 - pkg:maven/com.accyourate/utilities@1.3.41?classifier=sources
 - pkg:maven/com.accyourate/utilities@1.3.42?classifier=sources
 - pkg:maven/com.accyourate/utilities@1.3.43?classifier=sources
+- pkg:maven/com.accyourate/utilities@1.3.44?classifier=sources
+- pkg:maven/com.accyourate/utilities@1.3.45?classifier=sources
 - pkg:maven/com.accyourate/utilities@1.3.6
 - pkg:maven/com.accyourate/utilities@1.3.6?classifier=sources
 - pkg:maven/com.accyourate/utilities@1.3.8

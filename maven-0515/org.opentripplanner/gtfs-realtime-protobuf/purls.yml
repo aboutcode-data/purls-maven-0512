@@ -1,2 +1,4 @@
 - pkg:maven/org.opentripplanner/gtfs-realtime-protobuf@2.7.0
 - pkg:maven/org.opentripplanner/gtfs-realtime-protobuf@2.7.0?classifier=sources
+- pkg:maven/org.opentripplanner/gtfs-realtime-protobuf@2.8.0?classifier=sources
+- pkg:maven/org.opentripplanner/gtfs-realtime-protobuf@2.8.1?classifier=sources

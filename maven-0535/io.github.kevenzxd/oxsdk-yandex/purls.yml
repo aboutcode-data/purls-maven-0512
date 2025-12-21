@@ -1,1 +1,2 @@
+- pkg:maven/io.github.kevenzxd/oxsdk-yandex@7.15.1.0?classifier=sources
 - pkg:maven/io.github.kevenzxd/oxsdk-yandex@7.5.0.0?classifier=sources

@@ -18,6 +18,7 @@
 - pkg:maven/fr.acinq.bitcoin/bitcoin-kmp-jvm@0.24.0?classifier=sources
 - pkg:maven/fr.acinq.bitcoin/bitcoin-kmp-jvm@0.25.0?classifier=sources
 - pkg:maven/fr.acinq.bitcoin/bitcoin-kmp-jvm@0.25.1?classifier=sources
+- pkg:maven/fr.acinq.bitcoin/bitcoin-kmp-jvm@0.26.0?classifier=sources
 - pkg:maven/fr.acinq.bitcoin/bitcoin-kmp-jvm@0.7.0?classifier=sources
 - pkg:maven/fr.acinq.bitcoin/bitcoin-kmp-jvm@0.7.1?classifier=sources
 - pkg:maven/fr.acinq.bitcoin/bitcoin-kmp-jvm@0.8.0?classifier=sources

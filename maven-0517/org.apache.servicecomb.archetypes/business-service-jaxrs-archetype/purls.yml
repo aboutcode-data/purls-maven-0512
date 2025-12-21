@@ -74,6 +74,7 @@
 - pkg:maven/org.apache.servicecomb.archetypes/business-service-jaxrs-archetype@2.8.24?classifier=sources
 - pkg:maven/org.apache.servicecomb.archetypes/business-service-jaxrs-archetype@2.8.25?classifier=sources
 - pkg:maven/org.apache.servicecomb.archetypes/business-service-jaxrs-archetype@2.8.26?classifier=sources
+- pkg:maven/org.apache.servicecomb.archetypes/business-service-jaxrs-archetype@2.8.27?classifier=sources
 - pkg:maven/org.apache.servicecomb.archetypes/business-service-jaxrs-archetype@2.8.2?classifier=sources
 - pkg:maven/org.apache.servicecomb.archetypes/business-service-jaxrs-archetype@2.8.3?classifier=sources
 - pkg:maven/org.apache.servicecomb.archetypes/business-service-jaxrs-archetype@2.8.4?classifier=sources

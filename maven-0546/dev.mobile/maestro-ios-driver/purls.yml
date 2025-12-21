@@ -24,3 +24,5 @@
 - pkg:maven/dev.mobile/maestro-ios-driver@1.39.8?classifier=sources
 - pkg:maven/dev.mobile/maestro-ios-driver@1.40.0?classifier=sources
 - pkg:maven/dev.mobile/maestro-ios-driver@2.0.0?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios-driver@2.0.2?classifier=sources
+- pkg:maven/dev.mobile/maestro-ios-driver@2.0.3?classifier=sources

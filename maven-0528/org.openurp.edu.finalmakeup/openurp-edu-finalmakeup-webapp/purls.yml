@@ -5,3 +5,5 @@
 - pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-webapp@0.0.26?classifier=sources
 - pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-webapp@0.0.27?classifier=sources
 - pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-webapp@0.0.28?classifier=sources
+- pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-webapp@0.0.29?classifier=sources
+- pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-webapp@0.0.30?classifier=sources

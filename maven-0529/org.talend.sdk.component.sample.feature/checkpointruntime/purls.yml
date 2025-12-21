@@ -8,3 +8,5 @@
 - pkg:maven/org.talend.sdk.component.sample.feature/checkpointruntime@1.82.0?classifier=sources
 - pkg:maven/org.talend.sdk.component.sample.feature/checkpointruntime@1.83.0?classifier=sources
 - pkg:maven/org.talend.sdk.component.sample.feature/checkpointruntime@1.84.0?classifier=sources
+- pkg:maven/org.talend.sdk.component.sample.feature/checkpointruntime@1.84.1?classifier=sources
+- pkg:maven/org.talend.sdk.component.sample.feature/checkpointruntime@1.85.0?classifier=sources

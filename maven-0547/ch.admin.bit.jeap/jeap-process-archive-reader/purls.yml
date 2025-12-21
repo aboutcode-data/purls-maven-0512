@@ -13,3 +13,7 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-reader@1.25.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-reader@1.26.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-reader@1.27.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-archive-reader@1.28.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-archive-reader@1.29.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-archive-reader@1.30.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-archive-reader@1.31.0?classifier=sources

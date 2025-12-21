@@ -109,3 +109,4 @@
 - pkg:maven/com.tencent.polaris/connector-nacos@2.0.2.1?classifier=sources
 - pkg:maven/com.tencent.polaris/connector-nacos@2.0.2.2?classifier=sources
 - pkg:maven/com.tencent.polaris/connector-nacos@2.1.0.0-RC1?classifier=sources
+- pkg:maven/com.tencent.polaris/connector-nacos@2.1.0.0-RC2?classifier=sources

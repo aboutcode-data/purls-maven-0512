@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.pulsar/pulsar-io-kinesis-kpl-shaded@3.0.14
+- pkg:maven/org.apache.pulsar/pulsar-io-kinesis-kpl-shaded@3.0.14?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-kinesis-kpl-shaded@4.1.0
+- pkg:maven/org.apache.pulsar/pulsar-io-kinesis-kpl-shaded@4.1.0?classifier=sources

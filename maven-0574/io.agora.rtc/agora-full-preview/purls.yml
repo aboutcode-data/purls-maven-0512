@@ -1,13 +1,17 @@
 - pkg:maven/io.agora.rtc/agora-full-preview@4.0.0.preview.3.2?type=aar
 - pkg:maven/io.agora.rtc/agora-full-preview@4.0.0.preview.6?type=aar
 - pkg:maven/io.agora.rtc/agora-full-preview@4.0.0?type=aar
+- pkg:maven/io.agora.rtc/agora-full-preview@4.2.6.166-dev.1?type=aar
 - pkg:maven/io.agora.rtc/agora-full-preview@4.2.6.202-build.1?type=aar
 - pkg:maven/io.agora.rtc/agora-full-preview@4.2.6.204-build.1?type=aar
 - pkg:maven/io.agora.rtc/agora-full-preview@4.2.6.205-build.1?type=aar
 - pkg:maven/io.agora.rtc/agora-full-preview@4.3.2.150-build.1?type=aar
+- pkg:maven/io.agora.rtc/agora-full-preview@4.3.2.155-build.1?type=aar
 - pkg:maven/io.agora.rtc/agora-full-preview@4.3.2.17-build.1?type=aar
 - pkg:maven/io.agora.rtc/agora-full-preview@4.3.2.246-dev.1?type=aar
 - pkg:maven/io.agora.rtc/agora-full-preview@4.3.2.246-dev.2?type=aar
 - pkg:maven/io.agora.rtc/agora-full-preview@4.5.1.160-build.1?type=aar
+- pkg:maven/io.agora.rtc/agora-full-preview@4.5.1.230-build.4?type=aar
 - pkg:maven/io.agora.rtc/agora-full-preview@4.5.2-gxz.1?type=aar
 - pkg:maven/io.agora.rtc/agora-full-preview@4.5.2.29574-dev.1?type=aar
+- pkg:maven/io.agora.rtc/agora-full-preview@4.5.2.3-build.1?type=aar

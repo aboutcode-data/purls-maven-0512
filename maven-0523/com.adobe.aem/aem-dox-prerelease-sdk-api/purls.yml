@@ -6,5 +6,11 @@
 - pkg:maven/com.adobe.aem/aem-dox-prerelease-sdk-api@2025.10.0.1?classifier=sources
 - pkg:maven/com.adobe.aem/aem-dox-prerelease-sdk-api@2025.10.0.2
 - pkg:maven/com.adobe.aem/aem-dox-prerelease-sdk-api@2025.10.0.2?classifier=sources
+- pkg:maven/com.adobe.aem/aem-dox-prerelease-sdk-api@2025.10.0.3
+- pkg:maven/com.adobe.aem/aem-dox-prerelease-sdk-api@2025.10.0.3?classifier=sources
+- pkg:maven/com.adobe.aem/aem-dox-prerelease-sdk-api@2025.10.0.4
+- pkg:maven/com.adobe.aem/aem-dox-prerelease-sdk-api@2025.10.0.4?classifier=sources
+- pkg:maven/com.adobe.aem/aem-dox-prerelease-sdk-api@2025.10.0.5
+- pkg:maven/com.adobe.aem/aem-dox-prerelease-sdk-api@2025.10.0.5?classifier=sources
 - pkg:maven/com.adobe.aem/aem-dox-prerelease-sdk-api@2025.8.0.1
 - pkg:maven/com.adobe.aem/aem-dox-prerelease-sdk-api@2025.8.0.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/cn.coufran/coufran-spring-boot-starter-log@1.1.0?classifier=sources
 - pkg:maven/cn.coufran/coufran-spring-boot-starter-log@2.0.0
 - pkg:maven/cn.coufran/coufran-spring-boot-starter-log@2.0.0?classifier=sources
+- pkg:maven/cn.coufran/coufran-spring-boot-starter-log@3.0.0?classifier=sources
+- pkg:maven/cn.coufran/coufran-spring-boot-starter-log@3.0.1?classifier=sources

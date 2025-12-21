@@ -50,3 +50,4 @@
 - pkg:maven/com.github.bumptech.glide/compiler@4.9.0?classifier=sources
 - pkg:maven/com.github.bumptech.glide/compiler@5.0.0-rc01?classifier=sources
 - pkg:maven/com.github.bumptech.glide/compiler@5.0.4?classifier=sources
+- pkg:maven/com.github.bumptech.glide/compiler@5.0.5?classifier=sources

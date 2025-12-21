@@ -1,2 +1,4 @@
 - pkg:maven/io.github.xuse/querydsl-sql-extension-datatype@5.0.0-r120?classifier=sources
 - pkg:maven/io.github.xuse/querydsl-sql-extension-datatype@5.0.0-r130?classifier=sources
+- pkg:maven/io.github.xuse/querydsl-sql-extension-datatype@5.0.0-r140?classifier=sources
+- pkg:maven/io.github.xuse/querydsl-sql-extension-datatype@5.0.0-r141?classifier=sources

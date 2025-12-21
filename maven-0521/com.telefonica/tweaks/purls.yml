@@ -32,3 +32,4 @@
 - pkg:maven/com.telefonica/tweaks@5.0.0?classifier=sources
 - pkg:maven/com.telefonica/tweaks@5.0.1?classifier=sources
 - pkg:maven/com.telefonica/tweaks@5.0.2?classifier=sources
+- pkg:maven/com.telefonica/tweaks@5.1.0?classifier=sources

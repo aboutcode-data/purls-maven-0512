@@ -22,3 +22,4 @@
 - pkg:maven/org.cs124.questioner/lib@2025.8.0?classifier=sources
 - pkg:maven/org.cs124.questioner/lib@2025.8.1?classifier=sources
 - pkg:maven/org.cs124.questioner/lib@2025.8.3?classifier=sources
+- pkg:maven/org.cs124.questioner/lib@2025.9.0?classifier=sources

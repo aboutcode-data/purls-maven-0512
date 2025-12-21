@@ -11,3 +11,4 @@
 - pkg:maven/com.umtone/uw-log-es@3.0.90?classifier=sources
 - pkg:maven/com.umtone/uw-log-es@3.0.91?classifier=sources
 - pkg:maven/com.umtone/uw-log-es@3.0.92?classifier=sources
+- pkg:maven/com.umtone/uw-log-es@3.0.93?classifier=sources

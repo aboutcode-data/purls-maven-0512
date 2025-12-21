@@ -1,3 +1,4 @@
+- pkg:maven/com.github.yingzhuo/spring-turbo-core@3.4.10?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-core@3.4.1?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-core@3.4.2-1?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-core@3.4.2.10000?classifier=sources
@@ -98,4 +99,7 @@
 - pkg:maven/com.github.yingzhuo/spring-turbo-core@3.5.4-3?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-core@3.5.4?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-core@3.5.5-1?classifier=sources
+- pkg:maven/com.github.yingzhuo/spring-turbo-core@3.5.5-2?classifier=sources
+- pkg:maven/com.github.yingzhuo/spring-turbo-core@3.5.5-3?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-core@3.5.5?classifier=sources
+- pkg:maven/com.github.yingzhuo/spring-turbo-core@3.5.6?classifier=sources

@@ -1334,3 +1334,7 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-cloudwatchevidently@1.12.788?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-cloudwatchevidently@1.12.789
 - pkg:maven/com.amazonaws/aws-java-sdk-cloudwatchevidently@1.12.789?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudwatchevidently@1.12.790
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudwatchevidently@1.12.790?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudwatchevidently@1.12.791
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudwatchevidently@1.12.791?classifier=sources

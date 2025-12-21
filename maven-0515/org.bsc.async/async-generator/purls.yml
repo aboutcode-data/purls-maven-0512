@@ -19,3 +19,4 @@
 - pkg:maven/org.bsc.async/async-generator@3.2.1
 - pkg:maven/org.bsc.async/async-generator@3.2.1?classifier=sources
 - pkg:maven/org.bsc.async/async-generator@3.2.2?classifier=sources
+- pkg:maven/org.bsc.async/async-generator@3.2.3?classifier=sources

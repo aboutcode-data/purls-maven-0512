@@ -1,3 +1,7 @@
 - pkg:maven/org.mvnpm/cli-spinners@0.1.2?classifier=sources
 - pkg:maven/org.mvnpm/cli-spinners@2.9.2?classifier=sources
 - pkg:maven/org.mvnpm/cli-spinners@3.2.0?classifier=sources
+- pkg:maven/org.mvnpm/cli-spinners@3.2.1
+- pkg:maven/org.mvnpm/cli-spinners@3.2.1?classifier=sources
+- pkg:maven/org.mvnpm/cli-spinners@3.3.0
+- pkg:maven/org.mvnpm/cli-spinners@3.3.0?classifier=sources

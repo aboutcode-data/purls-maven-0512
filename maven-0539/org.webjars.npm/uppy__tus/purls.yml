@@ -24,3 +24,4 @@
 - pkg:maven/org.webjars.npm/uppy__tus@3.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__tus@4.1.4
 - pkg:maven/org.webjars.npm/uppy__tus@4.2.2
+- pkg:maven/org.webjars.npm/uppy__tus@5.0.0

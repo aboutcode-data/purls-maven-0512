@@ -120,3 +120,4 @@
 - pkg:maven/com.helger.phive.rules/phive-rules-ubl@3.2.9
 - pkg:maven/com.helger.phive.rules/phive-rules-ubl@3.2.9?classifier=sources
 - pkg:maven/com.helger.phive.rules/phive-rules-ubl@4.0.0?classifier=sources
+- pkg:maven/com.helger.phive.rules/phive-rules-ubl@4.0.1?classifier=sources

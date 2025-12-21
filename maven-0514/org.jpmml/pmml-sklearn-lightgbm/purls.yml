@@ -144,6 +144,9 @@
 - pkg:maven/org.jpmml/pmml-sklearn-lightgbm@1.9.13
 - pkg:maven/org.jpmml/pmml-sklearn-lightgbm@1.9.13?classifier=sources
 - pkg:maven/org.jpmml/pmml-sklearn-lightgbm@1.9.14?classifier=sources
+- pkg:maven/org.jpmml/pmml-sklearn-lightgbm@1.9.15?classifier=sources
+- pkg:maven/org.jpmml/pmml-sklearn-lightgbm@1.9.16?classifier=sources
+- pkg:maven/org.jpmml/pmml-sklearn-lightgbm@1.9.17?classifier=sources
 - pkg:maven/org.jpmml/pmml-sklearn-lightgbm@1.9.1?classifier=sources
 - pkg:maven/org.jpmml/pmml-sklearn-lightgbm@1.9.2
 - pkg:maven/org.jpmml/pmml-sklearn-lightgbm@1.9.2?classifier=sources

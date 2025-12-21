@@ -1,0 +1,2 @@
+- pkg:maven/com.test-steps.thekla4j/thekla4j-browser-appium@v2.0.0?classifier=sources
+- pkg:maven/com.test-steps.thekla4j/thekla4j-browser-appium@v2.0.1?classifier=sources

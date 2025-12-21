@@ -609,6 +609,7 @@
 - pkg:maven/com.github.binarywang/weixin-java-common@4.7.7-20250831.214433?classifier=sources
 - pkg:maven/com.github.binarywang/weixin-java-common@4.7.7-20250904.091338?classifier=sources
 - pkg:maven/com.github.binarywang/weixin-java-common@4.7.7-20250904.091948?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-common@4.7.7-20250915.094526?classifier=sources
 - pkg:maven/com.github.binarywang/weixin-java-common@4.7.7.B?classifier=sources
 - pkg:maven/com.github.binarywang/weixin-java-common@tmp-build-20250512.032409
 - pkg:maven/com.github.binarywang/weixin-java-common@tmp-build-20250512.032409?classifier=sources

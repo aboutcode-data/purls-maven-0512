@@ -5,3 +5,5 @@
 - pkg:maven/io.mvnpm/esbuild-java-bundle-original@1.5.2
 - pkg:maven/io.mvnpm/esbuild-java-bundle-original@1.5.2?classifier=sources
 - pkg:maven/io.mvnpm/esbuild-java-bundle-original@1.5.3?classifier=sources
+- pkg:maven/io.mvnpm/esbuild-java-bundle-original@1.5.4?classifier=sources
+- pkg:maven/io.mvnpm/esbuild-java-bundle-original@1.5.5?classifier=sources

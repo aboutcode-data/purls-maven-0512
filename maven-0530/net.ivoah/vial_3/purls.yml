@@ -10,3 +10,5 @@
 - pkg:maven/net.ivoah/vial_3@0.5.0?classifier=sources
 - pkg:maven/net.ivoah/vial_3@0.5.1
 - pkg:maven/net.ivoah/vial_3@0.5.1?classifier=sources
+- pkg:maven/net.ivoah/vial_3@0.6.1
+- pkg:maven/net.ivoah/vial_3@0.6.1?classifier=sources

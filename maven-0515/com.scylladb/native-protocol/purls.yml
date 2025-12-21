@@ -1,0 +1,1 @@
+- pkg:maven/com.scylladb/native-protocol@1.5.2.0?classifier=sources

@@ -28,3 +28,4 @@
 - pkg:maven/org.webjars.npm/uppy__transloadit@3.3.2
 - pkg:maven/org.webjars.npm/uppy__transloadit@3.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__transloadit@4.2.2
+- pkg:maven/org.webjars.npm/uppy__transloadit@5.0.0

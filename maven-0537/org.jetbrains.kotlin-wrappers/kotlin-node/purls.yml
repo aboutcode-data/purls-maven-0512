@@ -701,6 +701,17 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@2025.8.7-22.13.10?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@2025.8.8-22.13.10?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@2025.8.9-22.13.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@2025.9.0-24.3.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@2025.9.10-24.3.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@2025.9.11-24.3.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@2025.9.2-24.3.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@2025.9.3-24.3.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@2025.9.4-24.3.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@2025.9.5-24.3.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@2025.9.6-24.3.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@2025.9.7-24.3.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@2025.9.8-24.3.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@2025.9.9-24.3.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@22.10.2-pre.857?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@22.10.2-pre.858?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node@22.10.2-pre.859?classifier=sources

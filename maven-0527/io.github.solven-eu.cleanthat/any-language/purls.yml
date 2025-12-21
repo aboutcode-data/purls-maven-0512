@@ -50,6 +50,7 @@
 - pkg:maven/io.github.solven-eu.cleanthat/any-language@2.22
 - pkg:maven/io.github.solven-eu.cleanthat/any-language@2.22?classifier=sources
 - pkg:maven/io.github.solven-eu.cleanthat/any-language@2.23?classifier=sources
+- pkg:maven/io.github.solven-eu.cleanthat/any-language@2.24?classifier=sources
 - pkg:maven/io.github.solven-eu.cleanthat/any-language@2.2?classifier=sources
 - pkg:maven/io.github.solven-eu.cleanthat/any-language@2.3
 - pkg:maven/io.github.solven-eu.cleanthat/any-language@2.3?classifier=sources

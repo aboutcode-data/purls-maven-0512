@@ -40,6 +40,8 @@
 - pkg:maven/org.docx4j/docx4j-JAXB-MOXy@11.5.3?classifier=sources
 - pkg:maven/org.docx4j/docx4j-JAXB-MOXy@11.5.4
 - pkg:maven/org.docx4j/docx4j-JAXB-MOXy@11.5.4?classifier=sources
+- pkg:maven/org.docx4j/docx4j-JAXB-MOXy@11.5.5
+- pkg:maven/org.docx4j/docx4j-JAXB-MOXy@11.5.5?classifier=sources
 - pkg:maven/org.docx4j/docx4j-JAXB-MOXy@8.0.0
 - pkg:maven/org.docx4j/docx4j-JAXB-MOXy@8.0.0?classifier=sources
 - pkg:maven/org.docx4j/docx4j-JAXB-MOXy@8.1.0
@@ -89,6 +91,8 @@
 - pkg:maven/org.docx4j/docx4j-JAXB-MOXy@8.3.13?classifier=sources
 - pkg:maven/org.docx4j/docx4j-JAXB-MOXy@8.3.14
 - pkg:maven/org.docx4j/docx4j-JAXB-MOXy@8.3.14?classifier=sources
+- pkg:maven/org.docx4j/docx4j-JAXB-MOXy@8.3.15
+- pkg:maven/org.docx4j/docx4j-JAXB-MOXy@8.3.15?classifier=sources
 - pkg:maven/org.docx4j/docx4j-JAXB-MOXy@8.3.1?classifier=sources
 - pkg:maven/org.docx4j/docx4j-JAXB-MOXy@8.3.2
 - pkg:maven/org.docx4j/docx4j-JAXB-MOXy@8.3.2?classifier=sources

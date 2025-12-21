@@ -1,0 +1,2 @@
+- pkg:maven/com.eygraber/release-tag-version-plugin@0.7.8?classifier=sources
+- pkg:maven/com.eygraber/release-tag-version-plugin@0.7.9?classifier=sources

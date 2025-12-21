@@ -8,3 +8,4 @@
 - pkg:maven/cn.jiguang.sdk/jcore-custom-google@4.7.9.a?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-custom-google@4.7.9.b?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-custom-google@4.7.9?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore-custom-google@4.8.2?classifier=sources

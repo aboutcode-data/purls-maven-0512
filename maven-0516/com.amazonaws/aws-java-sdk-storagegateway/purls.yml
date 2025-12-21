@@ -3762,6 +3762,10 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-storagegateway@1.12.789?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-storagegateway@1.12.78?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-storagegateway@1.12.79
+- pkg:maven/com.amazonaws/aws-java-sdk-storagegateway@1.12.790
+- pkg:maven/com.amazonaws/aws-java-sdk-storagegateway@1.12.790?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-storagegateway@1.12.791
+- pkg:maven/com.amazonaws/aws-java-sdk-storagegateway@1.12.791?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-storagegateway@1.12.79?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-storagegateway@1.12.7?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-storagegateway@1.12.8

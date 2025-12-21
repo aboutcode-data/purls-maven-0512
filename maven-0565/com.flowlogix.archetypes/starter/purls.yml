@@ -55,3 +55,6 @@
 - pkg:maven/com.flowlogix.archetypes/starter@75?classifier=sources
 - pkg:maven/com.flowlogix.archetypes/starter@76?classifier=sources
 - pkg:maven/com.flowlogix.archetypes/starter@77?classifier=sources
+- pkg:maven/com.flowlogix.archetypes/starter@78?classifier=sources
+- pkg:maven/com.flowlogix.archetypes/starter@79?classifier=sources
+- pkg:maven/com.flowlogix.archetypes/starter@80?classifier=sources

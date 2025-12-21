@@ -1,4 +1,6 @@
 - pkg:maven/io.sentry/sentry-native-ndk@0.10.0?classifier=sources
+- pkg:maven/io.sentry/sentry-native-ndk@0.10.1?classifier=sources
+- pkg:maven/io.sentry/sentry-native-ndk@0.11.0?classifier=sources
 - pkg:maven/io.sentry/sentry-native-ndk@0.7.10?classifier=sources
 - pkg:maven/io.sentry/sentry-native-ndk@0.7.11?classifier=sources
 - pkg:maven/io.sentry/sentry-native-ndk@0.7.12?classifier=sources

@@ -19,3 +19,8 @@
 - pkg:maven/net.xdob.ratly/ratly-fasts@2.7.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-fasts@2.8.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-fasts@2.9.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-fasts@3.0.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-fasts@3.1.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-fasts@3.2.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-fasts@3.3.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-fasts@3.4.0?classifier=sources

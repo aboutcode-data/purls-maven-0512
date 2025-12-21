@@ -4,5 +4,9 @@
 - pkg:maven/org.virtuslab/besom-hcloud_3@1.17.0-core.0.2?classifier=sources
 - pkg:maven/org.virtuslab/besom-hcloud_3@1.18.1-core.0.3
 - pkg:maven/org.virtuslab/besom-hcloud_3@1.18.1-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-hcloud_3@1.18.1-core.0.5
+- pkg:maven/org.virtuslab/besom-hcloud_3@1.18.1-core.0.5?classifier=sources
 - pkg:maven/org.virtuslab/besom-hcloud_3@1.22.0-core.0.4
 - pkg:maven/org.virtuslab/besom-hcloud_3@1.22.0-core.0.4?classifier=sources
+- pkg:maven/org.virtuslab/besom-hcloud_3@1.24.0-core.0.5
+- pkg:maven/org.virtuslab/besom-hcloud_3@1.24.0-core.0.5?classifier=sources
