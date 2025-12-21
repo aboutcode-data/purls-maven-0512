@@ -1,4 +1,5 @@
 - pkg:maven/io.github.salute-developers/sdds-icons@0.1.0?classifier=sources
+- pkg:maven/io.github.salute-developers/sdds-icons@0.10.0?classifier=sources
 - pkg:maven/io.github.salute-developers/sdds-icons@0.2.0?classifier=sources
 - pkg:maven/io.github.salute-developers/sdds-icons@0.6.0?classifier=sources
 - pkg:maven/io.github.salute-developers/sdds-icons@0.7.0?classifier=sources

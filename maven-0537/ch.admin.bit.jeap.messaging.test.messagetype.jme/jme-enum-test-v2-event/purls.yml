@@ -1,0 +1,5 @@
+- pkg:maven/ch.admin.bit.jeap.messaging.test.messagetype.jme/jme-enum-test-v2-event@1.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap.messaging.test.messagetype.jme/jme-enum-test-v2-event@1.0.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap.messaging.test.messagetype.jme/jme-enum-test-v2-event@1.0.2?classifier=sources
+- pkg:maven/ch.admin.bit.jeap.messaging.test.messagetype.jme/jme-enum-test-v2-event@1.0.3?classifier=sources
+- pkg:maven/ch.admin.bit.jeap.messaging.test.messagetype.jme/jme-enum-test-v2-event@5.0.0?classifier=sources

@@ -76,3 +76,7 @@
 - pkg:maven/com.dua3.meja/meja-fx@6.2.0?classifier=sources
 - pkg:maven/com.dua3.meja/meja-fx@6.2.1?classifier=sources
 - pkg:maven/com.dua3.meja/meja-fx@6.3.0?classifier=sources
+- pkg:maven/com.dua3.meja/meja-fx@7-RC?classifier=sources
+- pkg:maven/com.dua3.meja/meja-fx@7.0.1?classifier=sources
+- pkg:maven/com.dua3.meja/meja-fx@7.0.2?classifier=sources
+- pkg:maven/com.dua3.meja/meja-fx@7?classifier=sources

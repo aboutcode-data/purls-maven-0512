@@ -4,9 +4,17 @@
 - pkg:maven/com.google.apis/google-api-services-netapp@v1-rev20241209-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-netapp@v1-rev20250116-2.0.0
 - pkg:maven/com.google.apis/google-api-services-netapp@v1-rev20250116-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-netapp@v1-rev20250123-2.0.0
+- pkg:maven/com.google.apis/google-api-services-netapp@v1-rev20250123-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-netapp@v1-rev20250129-2.0.0
+- pkg:maven/com.google.apis/google-api-services-netapp@v1-rev20250129-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-netapp@v1beta1-rev20241021-2.0.0
 - pkg:maven/com.google.apis/google-api-services-netapp@v1beta1-rev20241021-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-netapp@v1beta1-rev20241209-2.0.0
 - pkg:maven/com.google.apis/google-api-services-netapp@v1beta1-rev20241209-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-netapp@v1beta1-rev20250116-2.0.0
 - pkg:maven/com.google.apis/google-api-services-netapp@v1beta1-rev20250116-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-netapp@v1beta1-rev20250123-2.0.0
+- pkg:maven/com.google.apis/google-api-services-netapp@v1beta1-rev20250123-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-netapp@v1beta1-rev20250129-2.0.0
+- pkg:maven/com.google.apis/google-api-services-netapp@v1beta1-rev20250129-2.0.0?classifier=sources

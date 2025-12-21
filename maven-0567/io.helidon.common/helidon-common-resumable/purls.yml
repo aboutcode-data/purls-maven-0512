@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.common/helidon-common-resumable@4.2.0
+- pkg:maven/io.helidon.common/helidon-common-resumable@4.2.0?classifier=sources

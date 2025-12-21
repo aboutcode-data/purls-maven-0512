@@ -84,6 +84,14 @@
 - pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20240806-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20240930-2.0.0
 - pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20240930-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20250203-2.0.0
+- pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20250203-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20250213-2.0.0
+- pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20250213-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20250219-2.0.0
+- pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20250219-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20250306-2.0.0
+- pkg:maven/com.google.apis/google-api-services-realtimebidding@v1-rev20250306-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-realtimebidding@v1alpha-rev20210124-1.31.0
 - pkg:maven/com.google.apis/google-api-services-realtimebidding@v1alpha-rev20210124-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-realtimebidding@v1alpha-rev20210406-1.31.0

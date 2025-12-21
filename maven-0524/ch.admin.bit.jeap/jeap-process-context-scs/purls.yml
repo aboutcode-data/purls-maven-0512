@@ -1,0 +1,7 @@
+- pkg:maven/ch.admin.bit.jeap/jeap-process-context-scs@12.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-context-scs@12.1.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-context-scs@12.1.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-context-scs@12.2.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-context-scs@13.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-context-scs@13.1.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-context-scs@13.2.0?classifier=sources

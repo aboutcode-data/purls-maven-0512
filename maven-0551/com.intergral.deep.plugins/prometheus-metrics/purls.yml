@@ -12,3 +12,5 @@
 - pkg:maven/com.intergral.deep.plugins/prometheus-metrics@1.2.3.rc2
 - pkg:maven/com.intergral.deep.plugins/prometheus-metrics@1.2.3.rc2?classifier=sources
 - pkg:maven/com.intergral.deep.plugins/prometheus-metrics@1.2.3?classifier=sources
+- pkg:maven/com.intergral.deep.plugins/prometheus-metrics@1.2.4
+- pkg:maven/com.intergral.deep.plugins/prometheus-metrics@1.2.4?classifier=sources

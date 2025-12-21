@@ -1,1 +1,2 @@
 - pkg:maven/space.kscience/dataforge-meta-wasm-js@0.10.0?classifier=sources
+- pkg:maven/space.kscience/dataforge-meta-wasm-js@0.10.1?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.apzda.cloud/demo-bar-service@1.2.21?classifier=sources
 - pkg:maven/com.apzda.cloud/demo-bar-service@1.2.22
 - pkg:maven/com.apzda.cloud/demo-bar-service@1.2.22?classifier=sources
+- pkg:maven/com.apzda.cloud/demo-bar-service@3.4.0
+- pkg:maven/com.apzda.cloud/demo-bar-service@3.4.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/ch.admin.bit.jeap/jeap-message-contract-persistence@3.26.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-contract-persistence@3.27.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-contract-persistence@3.28.0?classifier=sources

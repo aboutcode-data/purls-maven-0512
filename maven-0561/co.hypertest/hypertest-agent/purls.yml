@@ -1,0 +1,12 @@
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.47?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.48?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.49?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.50-test?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.50?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.52?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.53-test?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.53?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.54?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.55?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.56?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.57?classifier=sources

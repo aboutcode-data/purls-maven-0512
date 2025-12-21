@@ -28,6 +28,8 @@
 - pkg:maven/com.oracle.database.xml/xmlparserv2_sans_jaxp_services@19.24.0.0?classifier=sources
 - pkg:maven/com.oracle.database.xml/xmlparserv2_sans_jaxp_services@19.25.0.0
 - pkg:maven/com.oracle.database.xml/xmlparserv2_sans_jaxp_services@19.25.0.0?classifier=sources
+- pkg:maven/com.oracle.database.xml/xmlparserv2_sans_jaxp_services@19.26.0.0
+- pkg:maven/com.oracle.database.xml/xmlparserv2_sans_jaxp_services@19.26.0.0?classifier=sources
 - pkg:maven/com.oracle.database.xml/xmlparserv2_sans_jaxp_services@21.10.0.0
 - pkg:maven/com.oracle.database.xml/xmlparserv2_sans_jaxp_services@21.10.0.0?classifier=sources
 - pkg:maven/com.oracle.database.xml/xmlparserv2_sans_jaxp_services@21.11.0.0

@@ -6,3 +6,4 @@
 - pkg:maven/ai.platon/platon@3.7.1?classifier=source-release&type=zip
 - pkg:maven/ai.platon/platon@3.7.3?classifier=source-release&type=zip
 - pkg:maven/ai.platon/platon@4.0.1?classifier=source-release&type=zip
+- pkg:maven/ai.platon/platon@4.0.2?classifier=source-release&type=zip

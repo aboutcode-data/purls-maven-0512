@@ -1,0 +1,2 @@
+- pkg:maven/io.github.junxworks/junx-stream@1.0.14
+- pkg:maven/io.github.junxworks/junx-stream@1.0.14?classifier=sources

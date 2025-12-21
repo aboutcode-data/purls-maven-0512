@@ -34,3 +34,5 @@
 - pkg:maven/com.github.skarpushin/summerb-properties@6.5.0?classifier=sources
 - pkg:maven/com.github.skarpushin/summerb-properties@6.5.1
 - pkg:maven/com.github.skarpushin/summerb-properties@6.5.1?classifier=sources
+- pkg:maven/com.github.skarpushin/summerb-properties@7.0.0
+- pkg:maven/com.github.skarpushin/summerb-properties@7.0.0?classifier=sources

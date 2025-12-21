@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/idtoken-verifier@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/idtoken-verifier@2.2.3
 - pkg:maven/org.webjars.npm/idtoken-verifier@2.2.3?classifier=sources
+- pkg:maven/org.webjars.npm/idtoken-verifier@2.2.4

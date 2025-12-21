@@ -1,4 +1,5 @@
 - pkg:maven/com.java-doer/doer@0.0.10?classifier=sources
+- pkg:maven/com.java-doer/doer@0.0.11?classifier=sources
 - pkg:maven/com.java-doer/doer@0.0.2?classifier=sources
 - pkg:maven/com.java-doer/doer@0.0.3?classifier=sources
 - pkg:maven/com.java-doer/doer@0.0.5?classifier=sources

@@ -14,6 +14,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.contexts@1.12.600?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.contexts@1.13.0
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.contexts@1.13.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.core.contexts@1.13.100
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.core.contexts@1.13.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.contexts@1.5.0
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.contexts@1.5.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.contexts@1.5.1

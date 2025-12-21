@@ -25,6 +25,7 @@
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@13.1.5
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@14.0.4
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@14.0.5
+- pkg:maven/org.opendaylight.odlparent/karaf.branding@14.0.8
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@2.0.0
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@2.0.1
 - pkg:maven/org.opendaylight.odlparent/karaf.branding@2.0.2

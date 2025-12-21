@@ -1,6 +1,7 @@
 - pkg:maven/be.machigan/craftplugin@1.0.0-a.10?classifier=sources
 - pkg:maven/be.machigan/craftplugin@1.0.0-a.11?classifier=sources
 - pkg:maven/be.machigan/craftplugin@1.0.0-a.12?classifier=sources
+- pkg:maven/be.machigan/craftplugin@1.0.0-a.13?classifier=sources
 - pkg:maven/be.machigan/craftplugin@1.0.0-a.1?classifier=sources
 - pkg:maven/be.machigan/craftplugin@1.0.0-a.2?classifier=sources
 - pkg:maven/be.machigan/craftplugin@1.0.0-a.3?classifier=sources

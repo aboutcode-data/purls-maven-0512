@@ -8,3 +8,9 @@
 - pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.6?classifier=sources
 - pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.7
 - pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.7?classifier=sources
+- pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.8-PREVIEW.pvtestrelease.2025-02-27T1524.af51335a
+- pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.8-PREVIEW.pvtestrelease.2025-02-27T1524.af51335a?classifier=sources
+- pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.8-PREVIEW.pvtestrelease.2025-02-27T1539.af51335a
+- pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.8-PREVIEW.pvtestrelease.2025-02-27T1539.af51335a?classifier=sources
+- pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.9
+- pkg:maven/com.gu/dynamo-db-switches_2.13@0.6.9?classifier=sources

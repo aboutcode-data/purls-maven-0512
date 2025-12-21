@@ -20,3 +20,5 @@
 - pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha20?classifier=sources
 - pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha21?classifier=sources
 - pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha22?classifier=sources
+- pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha23?classifier=sources
+- pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha24?classifier=sources

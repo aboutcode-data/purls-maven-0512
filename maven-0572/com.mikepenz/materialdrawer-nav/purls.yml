@@ -1,4 +1,5 @@
 - pkg:maven/com.mikepenz/materialdrawer-nav@10.0.0-a01?classifier=sources
+- pkg:maven/com.mikepenz/materialdrawer-nav@10.0.0-b01?classifier=sources
 - pkg:maven/com.mikepenz/materialdrawer-nav@7.0.0-rc05?classifier=sources
 - pkg:maven/com.mikepenz/materialdrawer-nav@7.0.0-rc05?type=aar
 - pkg:maven/com.mikepenz/materialdrawer-nav@7.0.0-rc06?classifier=sources

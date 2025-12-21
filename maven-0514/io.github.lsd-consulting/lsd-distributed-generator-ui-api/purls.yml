@@ -91,6 +91,15 @@
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.1.71?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.1.72?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.1.73?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.1.74?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.1.75?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.1.76?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.1.77?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.1.78?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.1.79?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.1.7?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.1.80?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.1.8?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.1.9?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.2.0?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-generator-ui-api@7.2.1?classifier=sources

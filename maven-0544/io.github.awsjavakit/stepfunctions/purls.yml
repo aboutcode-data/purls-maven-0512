@@ -31,3 +31,5 @@
 - pkg:maven/io.github.awsjavakit/stepfunctions@0.20.1?classifier=sources
 - pkg:maven/io.github.awsjavakit/stepfunctions@0.20.2?classifier=sources
 - pkg:maven/io.github.awsjavakit/stepfunctions@0.21.0?classifier=sources
+- pkg:maven/io.github.awsjavakit/stepfunctions@0.22.0?classifier=sources
+- pkg:maven/io.github.awsjavakit/stepfunctions@0.22.1?classifier=sources

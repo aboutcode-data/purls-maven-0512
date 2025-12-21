@@ -1,0 +1,2 @@
+- pkg:maven/de.cuioss.test/cui-test-keycloak-integration@1.0.0
+- pkg:maven/de.cuioss.test/cui-test-keycloak-integration@1.0.0?classifier=sources

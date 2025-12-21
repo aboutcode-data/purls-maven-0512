@@ -144,6 +144,7 @@
 - pkg:maven/io.sentry/sentry-compose-desktop@7.21.0-beta.1?classifier=sources
 - pkg:maven/io.sentry/sentry-compose-desktop@7.21.0?classifier=sources
 - pkg:maven/io.sentry/sentry-compose-desktop@7.22.0?classifier=sources
+- pkg:maven/io.sentry/sentry-compose-desktop@7.22.1?classifier=sources
 - pkg:maven/io.sentry/sentry-compose-desktop@7.3.0
 - pkg:maven/io.sentry/sentry-compose-desktop@7.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-compose-desktop@7.4.0
@@ -177,3 +178,4 @@
 - pkg:maven/io.sentry/sentry-compose-desktop@8.0.0?classifier=sources
 - pkg:maven/io.sentry/sentry-compose-desktop@8.1.0?classifier=sources
 - pkg:maven/io.sentry/sentry-compose-desktop@8.2.0?classifier=sources
+- pkg:maven/io.sentry/sentry-compose-desktop@8.3.0?classifier=sources

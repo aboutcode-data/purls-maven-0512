@@ -1,3 +1,4 @@
 - pkg:maven/org.grails.plugins/spring-security-rest-gorm@5.0.0?classifier=sources
 - pkg:maven/org.grails.plugins/spring-security-rest-gorm@5.0.1?classifier=sources
 - pkg:maven/org.grails.plugins/spring-security-rest-gorm@6.0.0-M1?classifier=sources
+- pkg:maven/org.grails.plugins/spring-security-rest-gorm@7.0.0-M3?classifier=sources

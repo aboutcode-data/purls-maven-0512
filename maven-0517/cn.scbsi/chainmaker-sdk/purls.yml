@@ -1,0 +1,2 @@
+- pkg:maven/cn.scbsi/chainmaker-sdk@2.3.6
+- pkg:maven/cn.scbsi/chainmaker-sdk@2.3.6?classifier=sources

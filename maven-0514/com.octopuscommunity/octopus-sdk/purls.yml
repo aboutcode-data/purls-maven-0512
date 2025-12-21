@@ -1,0 +1,5 @@
+- pkg:maven/com.octopuscommunity/octopus-sdk@0.8.29?classifier=sources
+- pkg:maven/com.octopuscommunity/octopus-sdk@0.8.31?classifier=sources
+- pkg:maven/com.octopuscommunity/octopus-sdk@0.8.33?classifier=sources
+- pkg:maven/com.octopuscommunity/octopus-sdk@1.0.0-beta01?classifier=sources
+- pkg:maven/com.octopuscommunity/octopus-sdk@1.0.0?classifier=sources

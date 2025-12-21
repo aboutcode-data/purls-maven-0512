@@ -1,0 +1,2 @@
+- pkg:maven/com.distrimind.upnp.android/DM-UPnP-Android@1.4.8-STABLE?classifier=sources
+- pkg:maven/com.distrimind.upnp.android/DM-UPnP-Android@1.4.9-STABLE?classifier=sources

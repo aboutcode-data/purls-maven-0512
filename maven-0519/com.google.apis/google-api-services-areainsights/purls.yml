@@ -1,2 +1,10 @@
 - pkg:maven/com.google.apis/google-api-services-areainsights@v1-rev20241211-2.0.0
 - pkg:maven/com.google.apis/google-api-services-areainsights@v1-rev20241211-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-areainsights@v1-rev20250219-2.0.0
+- pkg:maven/com.google.apis/google-api-services-areainsights@v1-rev20250219-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-areainsights@v1-rev20250223-2.0.0
+- pkg:maven/com.google.apis/google-api-services-areainsights@v1-rev20250223-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-areainsights@v1-rev20250225-2.0.0
+- pkg:maven/com.google.apis/google-api-services-areainsights@v1-rev20250225-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-areainsights@v1-rev20250226-2.0.0
+- pkg:maven/com.google.apis/google-api-services-areainsights@v1-rev20250226-2.0.0?classifier=sources

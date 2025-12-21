@@ -1,0 +1,1 @@
+- pkg:maven/tools.jackson.dataformat/jackson-dataformat-avro@3.0.0-rc1?classifier=sources

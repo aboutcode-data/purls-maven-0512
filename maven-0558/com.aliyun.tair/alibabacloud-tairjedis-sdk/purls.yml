@@ -48,3 +48,5 @@
 - pkg:maven/com.aliyun.tair/alibabacloud-tairjedis-sdk@3.0.9?classifier=sources
 - pkg:maven/com.aliyun.tair/alibabacloud-tairjedis-sdk@5.2.0
 - pkg:maven/com.aliyun.tair/alibabacloud-tairjedis-sdk@5.2.0?classifier=sources
+- pkg:maven/com.aliyun.tair/alibabacloud-tairjedis-sdk@5.3.0
+- pkg:maven/com.aliyun.tair/alibabacloud-tairjedis-sdk@5.3.0?classifier=sources

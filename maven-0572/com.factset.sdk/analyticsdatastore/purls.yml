@@ -15,3 +15,4 @@
 - pkg:maven/com.factset.sdk/analyticsdatastore@0.22.4?classifier=sources
 - pkg:maven/com.factset.sdk/analyticsdatastore@0.23.0?classifier=sources
 - pkg:maven/com.factset.sdk/analyticsdatastore@0.23.1?classifier=sources
+- pkg:maven/com.factset.sdk/analyticsdatastore@0.23.2?classifier=sources

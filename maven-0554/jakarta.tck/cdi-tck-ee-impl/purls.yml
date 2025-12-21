@@ -1,2 +1,4 @@
+- pkg:maven/jakarta.tck/cdi-tck-ee-impl@11.0.0-M14
+- pkg:maven/jakarta.tck/cdi-tck-ee-impl@11.0.0-M14?classifier=sources
 - pkg:maven/jakarta.tck/cdi-tck-ee-impl@11.0.0.M1
 - pkg:maven/jakarta.tck/cdi-tck-ee-impl@11.0.0.M1?classifier=sources

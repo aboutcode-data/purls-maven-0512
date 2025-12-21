@@ -1,1 +1,6 @@
 - pkg:maven/co.youverify/liveness-sdk-android@0.0.1
+- pkg:maven/co.youverify/liveness-sdk-android@0.0.2?classifier=sources
+- pkg:maven/co.youverify/liveness-sdk-android@0.0.4?classifier=sources
+- pkg:maven/co.youverify/liveness-sdk-android@0.0.5?classifier=sources
+- pkg:maven/co.youverify/liveness-sdk-android@0.0.7?classifier=sources
+- pkg:maven/co.youverify/liveness-sdk-android@0.0.8?classifier=sources

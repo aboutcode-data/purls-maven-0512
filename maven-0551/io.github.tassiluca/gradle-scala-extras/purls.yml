@@ -18,3 +18,7 @@
 - pkg:maven/io.github.tassiluca/gradle-scala-extras@3.1.5?classifier=sources
 - pkg:maven/io.github.tassiluca/gradle-scala-extras@3.2.0?classifier=sources
 - pkg:maven/io.github.tassiluca/gradle-scala-extras@3.3.0?classifier=sources
+- pkg:maven/io.github.tassiluca/gradle-scala-extras@3.3.1?classifier=sources
+- pkg:maven/io.github.tassiluca/gradle-scala-extras@3.4.0?classifier=sources
+- pkg:maven/io.github.tassiluca/gradle-scala-extras@3.5.0?classifier=sources
+- pkg:maven/io.github.tassiluca/gradle-scala-extras@3.6.0?classifier=sources

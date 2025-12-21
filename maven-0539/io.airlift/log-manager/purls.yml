@@ -420,3 +420,10 @@
 - pkg:maven/io.airlift/log-manager@307?classifier=sources
 - pkg:maven/io.airlift/log-manager@308?classifier=sources
 - pkg:maven/io.airlift/log-manager@309?classifier=sources
+- pkg:maven/io.airlift/log-manager@310?classifier=sources
+- pkg:maven/io.airlift/log-manager@311?classifier=sources
+- pkg:maven/io.airlift/log-manager@312?classifier=sources
+- pkg:maven/io.airlift/log-manager@313?classifier=sources
+- pkg:maven/io.airlift/log-manager@314?classifier=sources
+- pkg:maven/io.airlift/log-manager@315?classifier=sources
+- pkg:maven/io.airlift/log-manager@316?classifier=sources

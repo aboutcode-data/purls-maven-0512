@@ -1,0 +1,2 @@
+- pkg:maven/io.avaje/avaje-nima-htmx@1.2-RC4
+- pkg:maven/io.avaje/avaje-nima-htmx@1.2-RC4?classifier=sources

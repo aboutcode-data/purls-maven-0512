@@ -2,5 +2,6 @@
 - pkg:maven/org.webjars.npm/remark@10.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/remark@12.0.1
 - pkg:maven/org.webjars.npm/remark@12.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/remark@15.0.1
 - pkg:maven/org.webjars.npm/remark@9.0.0
 - pkg:maven/org.webjars.npm/remark@9.0.0?classifier=sources
