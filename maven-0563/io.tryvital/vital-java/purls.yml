@@ -222,6 +222,8 @@
 - pkg:maven/io.tryvital/vital-java@1.2.313?classifier=sources
 - pkg:maven/io.tryvital/vital-java@1.2.314?classifier=sources
 - pkg:maven/io.tryvital/vital-java@1.2.315?classifier=sources
+- pkg:maven/io.tryvital/vital-java@1.2.316?classifier=sources
+- pkg:maven/io.tryvital/vital-java@1.2.317?classifier=sources
 - pkg:maven/io.tryvital/vital-java@1.2.3?classifier=sources
 - pkg:maven/io.tryvital/vital-java@1.2.4?classifier=sources
 - pkg:maven/io.tryvital/vital-java@1.2.5?classifier=sources

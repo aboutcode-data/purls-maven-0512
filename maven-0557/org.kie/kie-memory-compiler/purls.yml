@@ -1,5 +1,7 @@
 - pkg:maven/org.kie/kie-memory-compiler@10.0.0
 - pkg:maven/org.kie/kie-memory-compiler@10.0.0?classifier=sources
+- pkg:maven/org.kie/kie-memory-compiler@10.1.0
+- pkg:maven/org.kie/kie-memory-compiler@10.1.0?classifier=sources
 - pkg:maven/org.kie/kie-memory-compiler@7.36.0.20200331
 - pkg:maven/org.kie/kie-memory-compiler@7.36.0.20200331?classifier=sources
 - pkg:maven/org.kie/kie-memory-compiler@7.36.0.Final

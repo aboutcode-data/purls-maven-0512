@@ -1,3 +1,4 @@
 - pkg:maven/no.nordicsemi.android.wifi/provisioning-ble@1.1.0?classifier=sources
 - pkg:maven/no.nordicsemi.android.wifi/provisioning-ble@1.1.1?classifier=sources
 - pkg:maven/no.nordicsemi.android.wifi/provisioning-ble@1.2.0?classifier=sources
+- pkg:maven/no.nordicsemi.android.wifi/provisioning-ble@1.3.0?classifier=sources

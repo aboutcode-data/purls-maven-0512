@@ -54,4 +54,6 @@
 - pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@1.9.1.Final
 - pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@10.0.0
 - pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@10.0.0?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@10.1.0
+- pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@10.1.0?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-codegen-integration-tests@2.44.0.Alpha

@@ -82,3 +82,4 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.react.renderer.api@5.0.5
 - pkg:maven/com.liferay/com.liferay.portal.template.react.renderer.api@5.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.react.renderer.api@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.react.renderer.api@6.0.1?classifier=sources

@@ -39,6 +39,7 @@
 - pkg:maven/org.opendaylight.yangtools/yang-maven-plugin-it@11.0.5
 - pkg:maven/org.opendaylight.yangtools/yang-maven-plugin-it@11.0.7
 - pkg:maven/org.opendaylight.yangtools/yang-maven-plugin-it@11.0.8
+- pkg:maven/org.opendaylight.yangtools/yang-maven-plugin-it@13.0.10
 - pkg:maven/org.opendaylight.yangtools/yang-maven-plugin-it@13.0.2
 - pkg:maven/org.opendaylight.yangtools/yang-maven-plugin-it@13.0.6
 - pkg:maven/org.opendaylight.yangtools/yang-maven-plugin-it@13.0.9

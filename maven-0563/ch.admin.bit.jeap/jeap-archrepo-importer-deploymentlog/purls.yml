@@ -9,3 +9,11 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-deploymentlog@1.16.1?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-deploymentlog@1.17.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-deploymentlog@1.18.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-deploymentlog@1.19.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-deploymentlog@1.20.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-deploymentlog@1.21.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-deploymentlog@1.22.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-deploymentlog@1.22.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-deploymentlog@1.23.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-deploymentlog@1.24.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-deploymentlog@1.25.0?classifier=sources

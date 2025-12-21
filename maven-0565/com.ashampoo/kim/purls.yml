@@ -46,6 +46,8 @@
 - pkg:maven/com.ashampoo/kim@0.22?classifier=sources
 - pkg:maven/com.ashampoo/kim@0.23?classifier=sources
 - pkg:maven/com.ashampoo/kim@0.24?classifier=sources
+- pkg:maven/com.ashampoo/kim@0.25.2?classifier=sources
+- pkg:maven/com.ashampoo/kim@0.25.4?classifier=sources
 - pkg:maven/com.ashampoo/kim@0.25?classifier=sources
 - pkg:maven/com.ashampoo/kim@0.3.0?classifier=sources
 - pkg:maven/com.ashampoo/kim@0.4.0?classifier=sources

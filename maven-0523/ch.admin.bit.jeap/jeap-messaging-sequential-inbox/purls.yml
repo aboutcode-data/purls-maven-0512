@@ -29,3 +29,14 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox@8.42.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox@8.43.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox@8.44.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox@8.45.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox@8.46.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox@8.47.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox@8.48.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox@8.48.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox@8.49.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox@8.49.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox@8.50.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox@8.50.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox@8.50.2?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox@8.50.3?classifier=sources

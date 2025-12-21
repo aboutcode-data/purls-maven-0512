@@ -1,0 +1,2 @@
+- pkg:maven/org.metricshub/metricshub-jmx-extension@1.0.04?classifier=sources
+- pkg:maven/org.metricshub/metricshub-jmx-extension@1.0.05?classifier=sources

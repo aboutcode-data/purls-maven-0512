@@ -83,6 +83,7 @@
 - pkg:maven/io.repaint.maven/tiles-maven-plugin@2.4
 - pkg:maven/io.repaint.maven/tiles-maven-plugin@2.40
 - pkg:maven/io.repaint.maven/tiles-maven-plugin@2.40?classifier=sources
+- pkg:maven/io.repaint.maven/tiles-maven-plugin@2.41?classifier=sources
 - pkg:maven/io.repaint.maven/tiles-maven-plugin@2.4?classifier=sources
 - pkg:maven/io.repaint.maven/tiles-maven-plugin@2.5
 - pkg:maven/io.repaint.maven/tiles-maven-plugin@2.5?classifier=sources

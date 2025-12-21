@@ -1,0 +1,3 @@
+- pkg:maven/io.kestra/kestra@0.22.17?classifier=sources
+- pkg:maven/io.kestra/kestra@0.22.18?classifier=sources
+- pkg:maven/io.kestra/kestra@0.23.5?classifier=sources

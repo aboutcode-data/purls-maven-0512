@@ -146,6 +146,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1beta1@0.166.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1beta1@0.167.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1beta1@0.167.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1beta1@0.169.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1beta1@0.169.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1beta1@0.170.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1beta1@0.170.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1beta1@0.36.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1beta1@0.36.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1beta1@0.37.0

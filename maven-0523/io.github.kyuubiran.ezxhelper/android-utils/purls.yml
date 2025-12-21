@@ -1,1 +1,4 @@
+- pkg:maven/io.github.kyuubiran.ezxhelper/android-utils@3.0.0-RC1?classifier=sources
 - pkg:maven/io.github.kyuubiran.ezxhelper/android-utils@3.0.0-preview4?classifier=sources
+- pkg:maven/io.github.kyuubiran.ezxhelper/android-utils@3.0.0?classifier=sources
+- pkg:maven/io.github.kyuubiran.ezxhelper/android-utils@3.0.1?classifier=sources

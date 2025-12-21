@@ -4,6 +4,12 @@
 - pkg:maven/net.sc8s/akka-components-testkit_2.13@0.101.0?classifier=sources
 - pkg:maven/net.sc8s/akka-components-testkit_2.13@0.102.0
 - pkg:maven/net.sc8s/akka-components-testkit_2.13@0.102.0?classifier=sources
+- pkg:maven/net.sc8s/akka-components-testkit_2.13@0.103.0
+- pkg:maven/net.sc8s/akka-components-testkit_2.13@0.103.0?classifier=sources
+- pkg:maven/net.sc8s/akka-components-testkit_2.13@0.104.0
+- pkg:maven/net.sc8s/akka-components-testkit_2.13@0.104.0?classifier=sources
+- pkg:maven/net.sc8s/akka-components-testkit_2.13@0.105.0
+- pkg:maven/net.sc8s/akka-components-testkit_2.13@0.105.0?classifier=sources
 - pkg:maven/net.sc8s/akka-components-testkit_2.13@0.40.0
 - pkg:maven/net.sc8s/akka-components-testkit_2.13@0.40.0?classifier=sources
 - pkg:maven/net.sc8s/akka-components-testkit_2.13@0.41.0

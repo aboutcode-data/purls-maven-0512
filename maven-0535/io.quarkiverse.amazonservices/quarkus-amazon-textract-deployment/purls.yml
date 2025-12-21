@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-textract-deployment@3.9.0?classifier=sources

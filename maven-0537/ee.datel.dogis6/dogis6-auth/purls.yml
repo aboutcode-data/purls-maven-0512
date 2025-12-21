@@ -25,3 +25,4 @@
 - pkg:maven/ee.datel.dogis6/dogis6-auth@3.4.3
 - pkg:maven/ee.datel.dogis6/dogis6-auth@3.4.3?classifier=sources
 - pkg:maven/ee.datel.dogis6/dogis6-auth@3.5.0?classifier=sources
+- pkg:maven/ee.datel.dogis6/dogis6-auth@3.6.0?classifier=sources

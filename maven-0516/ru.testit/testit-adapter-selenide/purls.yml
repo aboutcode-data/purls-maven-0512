@@ -41,3 +41,5 @@
 - pkg:maven/ru.testit/testit-adapter-selenide@2.6.2-TMS-5.3?classifier=sources
 - pkg:maven/ru.testit/testit-adapter-selenide@2.7.0-TMS-CLOUD?classifier=sources
 - pkg:maven/ru.testit/testit-adapter-selenide@2.7.1-TMS-CLOUD?classifier=sources
+- pkg:maven/ru.testit/testit-adapter-selenide@2.7.1.1-TMS-CLOUD?classifier=sources
+- pkg:maven/ru.testit/testit-adapter-selenide@2.7.2-TMS-CLOUD?classifier=sources

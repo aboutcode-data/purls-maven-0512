@@ -8,3 +8,4 @@
 - pkg:maven/tools.dynamia/dynamia-zk-addons@1.0.3?classifier=sources
 - pkg:maven/tools.dynamia/dynamia-zk-addons@1.0.4
 - pkg:maven/tools.dynamia/dynamia-zk-addons@1.0.4?classifier=sources
+- pkg:maven/tools.dynamia/dynamia-zk-addons@1.1.0?classifier=sources

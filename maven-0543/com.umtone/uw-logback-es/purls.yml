@@ -8,3 +8,5 @@
 - pkg:maven/com.umtone/uw-logback-es@3.0.86?classifier=sources
 - pkg:maven/com.umtone/uw-logback-es@3.0.87?classifier=sources
 - pkg:maven/com.umtone/uw-logback-es@3.0.88?classifier=sources
+- pkg:maven/com.umtone/uw-logback-es@3.0.89?classifier=sources
+- pkg:maven/com.umtone/uw-logback-es@3.0.90?classifier=sources

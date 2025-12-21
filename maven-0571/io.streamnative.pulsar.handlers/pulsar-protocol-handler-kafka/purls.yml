@@ -710,6 +710,7 @@
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka@3.3.5.7?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka@3.3.5.8
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka@3.3.5.8?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka@3.3.5.9?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka@4.0.0.0
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka@4.0.0.0?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka@4.0.0.1
@@ -752,3 +753,6 @@
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka@4.0.4.3?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka@4.0.5.1
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka@4.0.5.1?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka@4.0.5.2
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka@4.0.5.2?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka@4.0.5.3?classifier=sources

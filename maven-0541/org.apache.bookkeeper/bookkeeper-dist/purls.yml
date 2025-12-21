@@ -26,8 +26,10 @@
 - pkg:maven/org.apache.bookkeeper/bookkeeper-dist@4.16.4?classifier=src&type=tar.gz
 - pkg:maven/org.apache.bookkeeper/bookkeeper-dist@4.16.5?classifier=src&type=tar.gz
 - pkg:maven/org.apache.bookkeeper/bookkeeper-dist@4.16.6?classifier=src&type=tar.gz
+- pkg:maven/org.apache.bookkeeper/bookkeeper-dist@4.16.7?classifier=src&type=tar.gz
 - pkg:maven/org.apache.bookkeeper/bookkeeper-dist@4.17.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.bookkeeper/bookkeeper-dist@4.17.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.bookkeeper/bookkeeper-dist@4.17.2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.bookkeeper/bookkeeper-dist@4.9.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.bookkeeper/bookkeeper-dist@4.9.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.bookkeeper/bookkeeper-dist@4.9.2?classifier=src&type=tar.gz

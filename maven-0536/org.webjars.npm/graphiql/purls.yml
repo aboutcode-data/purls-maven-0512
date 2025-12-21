@@ -86,3 +86,4 @@
 - pkg:maven/org.webjars.npm/graphiql@4.0.4
 - pkg:maven/org.webjars.npm/graphiql@4.0.5
 - pkg:maven/org.webjars.npm/graphiql@4.1.0
+- pkg:maven/org.webjars.npm/graphiql@5.0.3

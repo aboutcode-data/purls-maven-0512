@@ -1,7 +1,17 @@
 - pkg:maven/io.smallrye.common/smallrye-common-resource@2.10.0?classifier=sources
 - pkg:maven/io.smallrye.common/smallrye-common-resource@2.11.0?classifier=sources
 - pkg:maven/io.smallrye.common/smallrye-common-resource@2.12.0?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-resource@2.12.2?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-resource@2.13.0?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-resource@2.13.1?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-resource@2.13.2?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-resource@2.13.3?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-resource@2.13.4?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-resource@2.13.5?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-resource@2.13.6?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-resource@2.13.7?classifier=sources
 - pkg:maven/io.smallrye.common/smallrye-common-resource@2.13.beta1?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-resource@2.13.beta2?classifier=sources
 - pkg:maven/io.smallrye.common/smallrye-common-resource@2.5.0
 - pkg:maven/io.smallrye.common/smallrye-common-resource@2.5.0?classifier=sources
 - pkg:maven/io.smallrye.common/smallrye-common-resource@2.6.0

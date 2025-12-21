@@ -1,0 +1,14 @@
+- pkg:maven/software.amazon.awssdk/keyspacesstreams@2.31.72
+- pkg:maven/software.amazon.awssdk/keyspacesstreams@2.31.72?classifier=sources
+- pkg:maven/software.amazon.awssdk/keyspacesstreams@2.31.73
+- pkg:maven/software.amazon.awssdk/keyspacesstreams@2.31.73?classifier=sources
+- pkg:maven/software.amazon.awssdk/keyspacesstreams@2.31.74
+- pkg:maven/software.amazon.awssdk/keyspacesstreams@2.31.74?classifier=sources
+- pkg:maven/software.amazon.awssdk/keyspacesstreams@2.31.75
+- pkg:maven/software.amazon.awssdk/keyspacesstreams@2.31.75?classifier=sources
+- pkg:maven/software.amazon.awssdk/keyspacesstreams@2.31.76
+- pkg:maven/software.amazon.awssdk/keyspacesstreams@2.31.76?classifier=sources
+- pkg:maven/software.amazon.awssdk/keyspacesstreams@2.31.77
+- pkg:maven/software.amazon.awssdk/keyspacesstreams@2.31.77?classifier=sources
+- pkg:maven/software.amazon.awssdk/keyspacesstreams@2.31.78
+- pkg:maven/software.amazon.awssdk/keyspacesstreams@2.31.78?classifier=sources

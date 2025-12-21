@@ -1,3 +1,4 @@
+- pkg:maven/com.mybatis-easy/mybatis-easy-apt@0.0.91?classifier=sources
 - pkg:maven/com.mybatis-easy/mybatis-easy-apt@0.2.0
 - pkg:maven/com.mybatis-easy/mybatis-easy-apt@0.2.0?classifier=sources
 - pkg:maven/com.mybatis-easy/mybatis-easy-apt@0.2.1
@@ -138,4 +139,5 @@
 - pkg:maven/com.mybatis-easy/mybatis-easy-apt@0.9.6?classifier=sources
 - pkg:maven/com.mybatis-easy/mybatis-easy-apt@0.9.7?classifier=sources
 - pkg:maven/com.mybatis-easy/mybatis-easy-apt@0.9.8?classifier=sources
+- pkg:maven/com.mybatis-easy/mybatis-easy-apt@0.9.91?classifier=sources
 - pkg:maven/com.mybatis-easy/mybatis-easy-apt@0.9.9?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/io.github.tukcps/sysmlapi@3.9.2?classifier=sources
 - pkg:maven/io.github.tukcps/sysmlapi@3.9.3?classifier=sources
 - pkg:maven/io.github.tukcps/sysmlapi@3.9.4?classifier=sources
+- pkg:maven/io.github.tukcps/sysmlapi@3.9.5?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/io.github.charlietap.chasm/memory-iosx64@0.9.66?classifier=sources
 - pkg:maven/io.github.charlietap.chasm/memory-iosx64@0.9.6?classifier=sources
 - pkg:maven/io.github.charlietap.chasm/memory-iosx64@0.9.70?classifier=sources
+- pkg:maven/io.github.charlietap.chasm/memory-iosx64@0.9.71?classifier=sources
+- pkg:maven/io.github.charlietap.chasm/memory-iosx64@0.9.80?classifier=sources

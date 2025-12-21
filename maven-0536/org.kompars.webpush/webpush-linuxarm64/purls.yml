@@ -3,3 +3,5 @@
 - pkg:maven/org.kompars.webpush/webpush-linuxarm64@0.3.0?classifier=sources
 - pkg:maven/org.kompars.webpush/webpush-linuxarm64@0.5.0?classifier=sources
 - pkg:maven/org.kompars.webpush/webpush-linuxarm64@0.6.0?classifier=sources
+- pkg:maven/org.kompars.webpush/webpush-linuxarm64@0.7.0?classifier=sources
+- pkg:maven/org.kompars.webpush/webpush-linuxarm64@0.8.0?classifier=sources

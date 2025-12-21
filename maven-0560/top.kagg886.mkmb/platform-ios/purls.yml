@@ -1,1 +1,2 @@
 - pkg:maven/top.kagg886.mkmb/platform-ios@1.0.0?classifier=sources
+- pkg:maven/top.kagg886.mkmb/platform-ios@1.1.0?classifier=sources

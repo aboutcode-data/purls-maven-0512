@@ -1,1 +1,2 @@
 - pkg:maven/com.aiuta/fashionsdk-analytics-events-jvm@4.2.0?classifier=sources
+- pkg:maven/com.aiuta/fashionsdk-analytics-events-jvm@4.2.1?classifier=sources

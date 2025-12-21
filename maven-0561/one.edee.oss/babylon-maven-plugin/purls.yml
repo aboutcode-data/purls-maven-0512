@@ -50,3 +50,7 @@
 - pkg:maven/one.edee.oss/babylon-maven-plugin@2025.1.0?classifier=sources
 - pkg:maven/one.edee.oss/babylon-maven-plugin@2025.2.0
 - pkg:maven/one.edee.oss/babylon-maven-plugin@2025.2.0?classifier=sources
+- pkg:maven/one.edee.oss/babylon-maven-plugin@2025.3.0
+- pkg:maven/one.edee.oss/babylon-maven-plugin@2025.3.0?classifier=sources
+- pkg:maven/one.edee.oss/babylon-maven-plugin@2025.4.0
+- pkg:maven/one.edee.oss/babylon-maven-plugin@2025.4.0?classifier=sources

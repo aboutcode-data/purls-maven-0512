@@ -1,0 +1,6 @@
+- pkg:maven/net.minestom/minestom@2025.07.03-1.21.5?classifier=sources
+- pkg:maven/net.minestom/minestom@2025.07.04-1.21.5?classifier=sources
+- pkg:maven/net.minestom/minestom@2025.07.08-1.21.5?classifier=sources
+- pkg:maven/net.minestom/minestom@2025.07.10-1.21.7?classifier=sources
+- pkg:maven/net.minestom/minestom@2025.07.10b-1.21.7?classifier=sources
+- pkg:maven/net.minestom/minestom@2025.07.11-1.21.7?classifier=sources

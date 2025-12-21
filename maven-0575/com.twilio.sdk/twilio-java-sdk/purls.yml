@@ -1,3 +1,4 @@
+- pkg:maven/com.twilio.sdk/twilio-java-sdk@10.0.0-rc.7?classifier=sources
 - pkg:maven/com.twilio.sdk/twilio-java-sdk@3.3.10
 - pkg:maven/com.twilio.sdk/twilio-java-sdk@3.3.10?classifier=sources
 - pkg:maven/com.twilio.sdk/twilio-java-sdk@3.3.12

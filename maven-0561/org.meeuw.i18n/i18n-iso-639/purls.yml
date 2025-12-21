@@ -18,3 +18,4 @@
 - pkg:maven/org.meeuw.i18n/i18n-iso-639@3.7?classifier=sources
 - pkg:maven/org.meeuw.i18n/i18n-iso-639@3.8
 - pkg:maven/org.meeuw.i18n/i18n-iso-639@3.8?classifier=sources
+- pkg:maven/org.meeuw.i18n/i18n-iso-639@3.9?classifier=sources

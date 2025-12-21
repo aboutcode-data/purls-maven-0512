@@ -1,0 +1,4 @@
+- pkg:maven/com.vertica.spark/vertica-spark@3.3.6
+- pkg:maven/com.vertica.spark/vertica-spark@3.3.6-slim
+- pkg:maven/com.vertica.spark/vertica-spark@3.3.6-slim?classifier=sources
+- pkg:maven/com.vertica.spark/vertica-spark@3.3.6?classifier=sources

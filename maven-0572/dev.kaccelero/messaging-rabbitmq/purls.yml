@@ -1,2 +1,5 @@
 - pkg:maven/dev.kaccelero/messaging-rabbitmq@0.5.0?classifier=sources
 - pkg:maven/dev.kaccelero/messaging-rabbitmq@0.5.1?classifier=sources
+- pkg:maven/dev.kaccelero/messaging-rabbitmq@0.5.2?classifier=sources
+- pkg:maven/dev.kaccelero/messaging-rabbitmq@0.6.0?classifier=sources
+- pkg:maven/dev.kaccelero/messaging-rabbitmq@0.6.1?classifier=sources

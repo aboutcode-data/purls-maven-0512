@@ -103,7 +103,11 @@
 - pkg:maven/com.wavemaker.app.build/wavemaker-app-build-maven-plugin@11.11.2?classifier=sources
 - pkg:maven/com.wavemaker.app.build/wavemaker-app-build-maven-plugin@11.11.3.ee?classifier=sources
 - pkg:maven/com.wavemaker.app.build/wavemaker-app-build-maven-plugin@11.11.3?classifier=sources
+- pkg:maven/com.wavemaker.app.build/wavemaker-app-build-maven-plugin@11.11.4.ee?classifier=sources
 - pkg:maven/com.wavemaker.app.build/wavemaker-app-build-maven-plugin@11.11.4?classifier=sources
+- pkg:maven/com.wavemaker.app.build/wavemaker-app-build-maven-plugin@11.11.5.ee?classifier=sources
+- pkg:maven/com.wavemaker.app.build/wavemaker-app-build-maven-plugin@11.11.5?classifier=sources
+- pkg:maven/com.wavemaker.app.build/wavemaker-app-build-maven-plugin@11.11.6?classifier=sources
 - pkg:maven/com.wavemaker.app.build/wavemaker-app-build-maven-plugin@11.2.0.ee?classifier=sources
 - pkg:maven/com.wavemaker.app.build/wavemaker-app-build-maven-plugin@11.2.0?classifier=sources
 - pkg:maven/com.wavemaker.app.build/wavemaker-app-build-maven-plugin@11.2.1?classifier=sources

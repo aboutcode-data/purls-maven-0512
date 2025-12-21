@@ -121,6 +121,8 @@
 - pkg:maven/me.proton.core/account-data@32.1.0?classifier=sources
 - pkg:maven/me.proton.core/account-data@32.2.0?classifier=sources
 - pkg:maven/me.proton.core/account-data@33.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-data@33.0.2?classifier=sources
+- pkg:maven/me.proton.core/account-data@34.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-data@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-data@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/account-data@5.0.0?classifier=sources

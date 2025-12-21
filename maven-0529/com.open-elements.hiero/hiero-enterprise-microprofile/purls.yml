@@ -3,3 +3,4 @@
 - pkg:maven/com.open-elements.hiero/hiero-enterprise-microprofile@0.16.0?classifier=sources
 - pkg:maven/com.open-elements.hiero/hiero-enterprise-microprofile@0.17.0?classifier=sources
 - pkg:maven/com.open-elements.hiero/hiero-enterprise-microprofile@0.18.0?classifier=sources
+- pkg:maven/com.open-elements.hiero/hiero-enterprise-microprofile@0.19.0?classifier=sources

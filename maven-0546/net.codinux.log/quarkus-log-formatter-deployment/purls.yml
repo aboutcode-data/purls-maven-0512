@@ -14,3 +14,5 @@
 - pkg:maven/net.codinux.log/quarkus-log-formatter-deployment@1.7.2?classifier=sources
 - pkg:maven/net.codinux.log/quarkus-log-formatter-deployment@1.7.3
 - pkg:maven/net.codinux.log/quarkus-log-formatter-deployment@1.7.3?classifier=sources
+- pkg:maven/net.codinux.log/quarkus-log-formatter-deployment@2.0.0
+- pkg:maven/net.codinux.log/quarkus-log-formatter-deployment@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.dalmatian/snail-job-solon-client-starter@1.6.0?classifier=sources
+- pkg:maven/io.gitee.dalmatian/snail-job-solon-client-starter@1.6.1?classifier=sources

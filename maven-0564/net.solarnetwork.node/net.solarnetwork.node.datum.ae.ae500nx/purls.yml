@@ -10,3 +10,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.ae.ae500nx@3.1.1?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.ae.ae500nx@3.2.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.ae.ae500nx@3.2.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.ae.ae500nx@4.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.ae.ae500nx@4.0.0?classifier=sources

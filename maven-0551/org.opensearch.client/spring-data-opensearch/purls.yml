@@ -18,3 +18,5 @@
 - pkg:maven/org.opensearch.client/spring-data-opensearch@1.6.3?classifier=sources
 - pkg:maven/org.opensearch.client/spring-data-opensearch@1.6.4?classifier=sources
 - pkg:maven/org.opensearch.client/spring-data-opensearch@1.7.0?classifier=sources
+- pkg:maven/org.opensearch.client/spring-data-opensearch@1.8.0?classifier=sources
+- pkg:maven/org.opensearch.client/spring-data-opensearch@1.8.1?classifier=sources

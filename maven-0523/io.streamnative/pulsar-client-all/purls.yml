@@ -1588,6 +1588,8 @@
 - pkg:maven/io.streamnative/pulsar-client-all@4.0.4.3?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-all@4.0.5.1
 - pkg:maven/io.streamnative/pulsar-client-all@4.0.5.1?classifier=sources
+- pkg:maven/io.streamnative/pulsar-client-all@4.0.5.2
+- pkg:maven/io.streamnative/pulsar-client-all@4.0.5.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-all@master-rc-daily
 - pkg:maven/io.streamnative/pulsar-client-all@master-rc-daily?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-all@v2.8.0-rc-202106091140

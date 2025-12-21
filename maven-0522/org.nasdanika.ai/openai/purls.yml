@@ -6,3 +6,5 @@
 - pkg:maven/org.nasdanika.ai/openai@2025.5.0?classifier=sources
 - pkg:maven/org.nasdanika.ai/openai@2025.6.0
 - pkg:maven/org.nasdanika.ai/openai@2025.6.0?classifier=sources
+- pkg:maven/org.nasdanika.ai/openai@2025.6.1
+- pkg:maven/org.nasdanika.ai/openai@2025.6.1?classifier=sources

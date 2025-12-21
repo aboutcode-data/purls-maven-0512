@@ -87,6 +87,7 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-vpc@3.2.29?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-vpc@3.2.2?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-vpc@3.2.3
+- pkg:maven/com.aliyun/aliyun-java-sdk-vpc@3.2.30?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-vpc@3.2.3?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-vpc@3.2.4
 - pkg:maven/com.aliyun/aliyun-java-sdk-vpc@3.2.4?classifier=sources

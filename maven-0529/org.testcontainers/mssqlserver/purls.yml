@@ -91,6 +91,8 @@
 - pkg:maven/org.testcontainers/mssqlserver@1.20.6?classifier=sources
 - pkg:maven/org.testcontainers/mssqlserver@1.21.0?classifier=sources
 - pkg:maven/org.testcontainers/mssqlserver@1.21.1?classifier=sources
+- pkg:maven/org.testcontainers/mssqlserver@1.21.2?classifier=sources
+- pkg:maven/org.testcontainers/mssqlserver@1.21.3?classifier=sources
 - pkg:maven/org.testcontainers/mssqlserver@1.4.3
 - pkg:maven/org.testcontainers/mssqlserver@1.4.3?classifier=sources
 - pkg:maven/org.testcontainers/mssqlserver@1.5.1

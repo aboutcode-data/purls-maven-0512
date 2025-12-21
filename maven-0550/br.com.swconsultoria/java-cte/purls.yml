@@ -17,6 +17,7 @@
 - pkg:maven/br.com.swconsultoria/java-cte@4.00.10?classifier=sources
 - pkg:maven/br.com.swconsultoria/java-cte@4.00.11
 - pkg:maven/br.com.swconsultoria/java-cte@4.00.11?classifier=sources
+- pkg:maven/br.com.swconsultoria/java-cte@4.00.12?classifier=sources
 - pkg:maven/br.com.swconsultoria/java-cte@4.00.1?classifier=sources
 - pkg:maven/br.com.swconsultoria/java-cte@4.00.2
 - pkg:maven/br.com.swconsultoria/java-cte@4.00.2?classifier=sources

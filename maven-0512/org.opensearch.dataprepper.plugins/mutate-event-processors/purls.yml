@@ -1,0 +1,1 @@
+- pkg:maven/org.opensearch.dataprepper.plugins/mutate-event-processors@2.12.0?classifier=sources

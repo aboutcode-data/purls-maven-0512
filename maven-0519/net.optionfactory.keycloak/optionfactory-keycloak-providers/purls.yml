@@ -87,3 +87,6 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@7.1
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@7.1?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@7.2?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@7.3?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@7.4?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-providers@8.0?classifier=sources

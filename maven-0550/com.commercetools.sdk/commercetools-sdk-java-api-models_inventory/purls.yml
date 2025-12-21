@@ -1,3 +1,5 @@
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api-models_inventory@18.1.0-RC.1?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api-models_inventory@18.1.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api-models_inventory@18.2.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api-models_inventory@18.3.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api-models_inventory@19.0.0?classifier=sources

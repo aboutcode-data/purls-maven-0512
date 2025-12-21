@@ -1,0 +1,7 @@
+- pkg:maven/com.poly-gamma/pg-ogm-oppo@0.5.16?classifier=sources
+- pkg:maven/com.poly-gamma/pg-ogm-oppo@0.5.17?classifier=sources
+- pkg:maven/com.poly-gamma/pg-ogm-oppo@0.5.18?classifier=sources
+- pkg:maven/com.poly-gamma/pg-ogm-oppo@0.5.19?classifier=sources
+- pkg:maven/com.poly-gamma/pg-ogm-oppo@0.5.20?classifier=sources
+- pkg:maven/com.poly-gamma/pg-ogm-oppo@0.5.21?classifier=sources
+- pkg:maven/com.poly-gamma/pg-ogm-oppo@0.5.22?classifier=sources

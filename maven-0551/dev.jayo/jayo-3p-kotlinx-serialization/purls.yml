@@ -40,3 +40,8 @@
 - pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha40?classifier=sources
 - pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha41?classifier=sources
 - pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha42?classifier=sources
+- pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha43?classifier=sources
+- pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha44?classifier=sources
+- pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha45?classifier=sources
+- pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha46?classifier=sources
+- pkg:maven/dev.jayo/jayo-3p-kotlinx-serialization@0.1.0-alpha47?classifier=sources

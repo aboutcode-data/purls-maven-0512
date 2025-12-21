@@ -1,0 +1,6 @@
+- pkg:maven/de.cook-industries/lib-spring-gui@1.0.0?classifier=sources
+- pkg:maven/de.cook-industries/lib-spring-gui@1.0.3?classifier=sources
+- pkg:maven/de.cook-industries/lib-spring-gui@1.2.0?classifier=sources
+- pkg:maven/de.cook-industries/lib-spring-gui@1.2.1?classifier=sources
+- pkg:maven/de.cook-industries/lib-spring-gui@2.0.0?classifier=sources
+- pkg:maven/de.cook-industries/lib-spring-gui@2.0.3?classifier=sources

@@ -60,6 +60,8 @@
 - pkg:maven/com.github.switcherapi/switcher-client@1.6.2?classifier=sources
 - pkg:maven/com.github.switcherapi/switcher-client@1.6.3
 - pkg:maven/com.github.switcherapi/switcher-client@1.6.3?classifier=sources
+- pkg:maven/com.github.switcherapi/switcher-client@1.7.0?classifier=sources
+- pkg:maven/com.github.switcherapi/switcher-client@1.7.1?classifier=sources
 - pkg:maven/com.github.switcherapi/switcher-client@2.0.0
 - pkg:maven/com.github.switcherapi/switcher-client@2.0.0?classifier=sources
 - pkg:maven/com.github.switcherapi/switcher-client@2.0.1
@@ -85,3 +87,5 @@
 - pkg:maven/com.github.switcherapi/switcher-client@2.2.2
 - pkg:maven/com.github.switcherapi/switcher-client@2.2.2?classifier=sources
 - pkg:maven/com.github.switcherapi/switcher-client@2.2.3?classifier=sources
+- pkg:maven/com.github.switcherapi/switcher-client@2.3.0?classifier=sources
+- pkg:maven/com.github.switcherapi/switcher-client@2.3.1?classifier=sources

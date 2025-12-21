@@ -1,0 +1,1 @@
+- pkg:maven/com.newrelic.logging/logback13@3.4.0?classifier=sources

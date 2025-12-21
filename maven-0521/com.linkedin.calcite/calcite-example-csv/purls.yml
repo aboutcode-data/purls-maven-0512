@@ -36,3 +36,4 @@
 - pkg:maven/com.linkedin.calcite/calcite-example-csv@1.21.0.266?classifier=sources
 - pkg:maven/com.linkedin.calcite/calcite-example-csv@1.21.0.267
 - pkg:maven/com.linkedin.calcite/calcite-example-csv@1.21.0.267?classifier=sources
+- pkg:maven/com.linkedin.calcite/calcite-example-csv@1.21.0.270?classifier=sources

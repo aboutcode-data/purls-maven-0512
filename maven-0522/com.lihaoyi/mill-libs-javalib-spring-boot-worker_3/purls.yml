@@ -1,0 +1,16 @@
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0-13-69124b
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0-13-69124b?classifier=sources
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0-6-f3dee7
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0-6-f3dee7?classifier=sources
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0-RC3-43-eee39e
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0-RC3-43-eee39e?classifier=sources
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0-RC3-45-5a63c3
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0-RC3-45-5a63c3?classifier=sources
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0-RC3-56-3ba698
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0-RC3-56-3ba698?classifier=sources
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0-RC3-58-254214
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0-RC3-58-254214?classifier=sources
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0-RC3-59-61974e
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0-RC3-59-61974e?classifier=sources
+- pkg:maven/com.lihaoyi/mill-libs-javalib-spring-boot-worker_3@1.0.0?classifier=sources

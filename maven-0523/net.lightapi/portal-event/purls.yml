@@ -61,3 +61,4 @@
 - pkg:maven/net.lightapi/portal-event@2.1.9
 - pkg:maven/net.lightapi/portal-event@2.1.9?classifier=sources
 - pkg:maven/net.lightapi/portal-event@2.2.2?classifier=sources
+- pkg:maven/net.lightapi/portal-event@2.3.0?classifier=sources

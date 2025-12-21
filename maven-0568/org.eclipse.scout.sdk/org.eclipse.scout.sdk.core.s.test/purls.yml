@@ -218,6 +218,7 @@
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.s.test@14.0.4?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.s.test@14.0.5
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.s.test@14.0.5?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.s.test@14.0.9?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.s.test@6.0.0.M6
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.s.test@6.0.0.M6?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.s.test@6.0.0.M6_1

@@ -99,6 +99,10 @@
 - pkg:maven/io.kestra/e2e-tests@0.22.12?classifier=sources
 - pkg:maven/io.kestra/e2e-tests@0.22.13?classifier=sources
 - pkg:maven/io.kestra/e2e-tests@0.22.14?classifier=sources
+- pkg:maven/io.kestra/e2e-tests@0.22.15?classifier=sources
+- pkg:maven/io.kestra/e2e-tests@0.22.16?classifier=sources
+- pkg:maven/io.kestra/e2e-tests@0.22.17?classifier=sources
+- pkg:maven/io.kestra/e2e-tests@0.22.18?classifier=sources
 - pkg:maven/io.kestra/e2e-tests@0.22.1?classifier=sources
 - pkg:maven/io.kestra/e2e-tests@0.22.2?classifier=sources
 - pkg:maven/io.kestra/e2e-tests@0.22.3?classifier=sources
@@ -110,3 +114,6 @@
 - pkg:maven/io.kestra/e2e-tests@0.22.9?classifier=sources
 - pkg:maven/io.kestra/e2e-tests@0.23.0?classifier=sources
 - pkg:maven/io.kestra/e2e-tests@0.23.1?classifier=sources
+- pkg:maven/io.kestra/e2e-tests@0.23.2?classifier=sources
+- pkg:maven/io.kestra/e2e-tests@0.23.3?classifier=sources
+- pkg:maven/io.kestra/e2e-tests@0.23.5?classifier=sources

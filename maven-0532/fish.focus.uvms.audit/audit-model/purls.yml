@@ -1,2 +1,3 @@
 - pkg:maven/fish.focus.uvms.audit/audit-model@4.3.11?classifier=sources
 - pkg:maven/fish.focus.uvms.audit/audit-model@4.3.12?classifier=sources
+- pkg:maven/fish.focus.uvms.audit/audit-model@4.4.0?classifier=sources

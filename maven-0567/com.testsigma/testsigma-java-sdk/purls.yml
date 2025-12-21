@@ -37,6 +37,8 @@
 - pkg:maven/com.testsigma/testsigma-java-sdk@1.2.20_cloud_beta?classifier=sources
 - pkg:maven/com.testsigma/testsigma-java-sdk@1.2.21_cloud?classifier=sources
 - pkg:maven/com.testsigma/testsigma-java-sdk@1.2.22_cloud?classifier=sources
+- pkg:maven/com.testsigma/testsigma-java-sdk@1.2.23_cloud?classifier=sources
+- pkg:maven/com.testsigma/testsigma-java-sdk@1.2.24_cloud?classifier=sources
 - pkg:maven/com.testsigma/testsigma-java-sdk@1.2.2_cloud?classifier=sources
 - pkg:maven/com.testsigma/testsigma-java-sdk@1.2.2_onprem_test?classifier=sources
 - pkg:maven/com.testsigma/testsigma-java-sdk@1.2.3_cloud?classifier=sources

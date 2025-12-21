@@ -1,3 +1,4 @@
 - pkg:maven/de.hhu.stups/voparser@0.1.0?classifier=sources
 - pkg:maven/de.hhu.stups/voparser@0.2.0?classifier=sources
 - pkg:maven/de.hhu.stups/voparser@0.2.1?classifier=sources
+- pkg:maven/de.hhu.stups/voparser@0.3.0?classifier=sources

@@ -42,3 +42,4 @@
 - pkg:maven/com.github.frimtec/secure-sms-proxy-api@2.7.0?classifier=sources
 - pkg:maven/com.github.frimtec/secure-sms-proxy-api@3.4.7?classifier=sources
 - pkg:maven/com.github.frimtec/secure-sms-proxy-api@3.4.8?classifier=sources
+- pkg:maven/com.github.frimtec/secure-sms-proxy-api@3.5.0?classifier=sources

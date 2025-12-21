@@ -48,3 +48,4 @@
 - pkg:maven/com.aspectran/aspectran-utils@8.4.3?classifier=sources
 - pkg:maven/com.aspectran/aspectran-utils@8.5.0
 - pkg:maven/com.aspectran/aspectran-utils@8.5.0?classifier=sources
+- pkg:maven/com.aspectran/aspectran-utils@8.5.1?classifier=sources

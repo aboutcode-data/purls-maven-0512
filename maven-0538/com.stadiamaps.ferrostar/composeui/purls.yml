@@ -26,3 +26,7 @@
 - pkg:maven/com.stadiamaps.ferrostar/composeui@0.34.1?classifier=sources
 - pkg:maven/com.stadiamaps.ferrostar/composeui@0.35.0?classifier=sources
 - pkg:maven/com.stadiamaps.ferrostar/composeui@0.35.1?classifier=sources
+- pkg:maven/com.stadiamaps.ferrostar/composeui@0.36.0?classifier=sources
+- pkg:maven/com.stadiamaps.ferrostar/composeui@0.37.0?classifier=sources
+- pkg:maven/com.stadiamaps.ferrostar/composeui@0.38.0?classifier=sources
+- pkg:maven/com.stadiamaps.ferrostar/composeui@0.39.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/io.github.binance/binance-spot@1.1.0?classifier=sources
 - pkg:maven/io.github.binance/binance-spot@1.2.0?classifier=sources
 - pkg:maven/io.github.binance/binance-spot@2.0.0?classifier=sources
+- pkg:maven/io.github.binance/binance-spot@3.0.0?classifier=sources
+- pkg:maven/io.github.binance/binance-spot@3.1.0?classifier=sources

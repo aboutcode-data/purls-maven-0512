@@ -181,3 +181,4 @@
 - pkg:maven/org.faktorips/faktorips-dtfl-common@25.7.0.rc01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-dtfl-common@25.7.0.rc02?classifier=sources
 - pkg:maven/org.faktorips/faktorips-dtfl-common@25.7.0.rc03?classifier=sources
+- pkg:maven/org.faktorips/faktorips-dtfl-common@25.7.0.release?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/com.aliyun/ddoscoo20200101@3.6.0?classifier=sources
 - pkg:maven/com.aliyun/ddoscoo20200101@4.0.0
 - pkg:maven/com.aliyun/ddoscoo20200101@4.0.0?classifier=sources
+- pkg:maven/com.aliyun/ddoscoo20200101@4.0.1
+- pkg:maven/com.aliyun/ddoscoo20200101@4.0.1?classifier=sources

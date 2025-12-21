@@ -1,0 +1,2 @@
+- pkg:maven/org.drools/drools-quarkus-integration-test-multimodule-main@10.1.0
+- pkg:maven/org.drools/drools-quarkus-integration-test-multimodule-main@10.1.0?classifier=sources

@@ -8,3 +8,6 @@
 - pkg:maven/dev.ikm.maven.tinkar/tinkar-starter-data-parent@1.1.1?classifier=sources
 - pkg:maven/dev.ikm.maven.tinkar/tinkar-starter-data-parent@1.1.2?classifier=sources
 - pkg:maven/dev.ikm.maven.tinkar/tinkar-starter-data-parent@1.2.0?classifier=sources
+- pkg:maven/dev.ikm.maven.tinkar/tinkar-starter-data-parent@1.5.0?classifier=sources
+- pkg:maven/dev.ikm.maven.tinkar/tinkar-starter-data-parent@1.6.0?classifier=sources
+- pkg:maven/dev.ikm.maven.tinkar/tinkar-starter-data-parent@1.7.0?classifier=sources

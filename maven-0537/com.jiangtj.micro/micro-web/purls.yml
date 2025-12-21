@@ -18,3 +18,7 @@
 - pkg:maven/com.jiangtj.micro/micro-web@0.0.31?classifier=sources
 - pkg:maven/com.jiangtj.micro/micro-web@0.0.32?classifier=sources
 - pkg:maven/com.jiangtj.micro/micro-web@0.0.33?classifier=sources
+- pkg:maven/com.jiangtj.micro/micro-web@0.0.34?classifier=sources
+- pkg:maven/com.jiangtj.micro/micro-web@0.0.35?classifier=sources
+- pkg:maven/com.jiangtj.micro/micro-web@0.0.36?classifier=sources
+- pkg:maven/com.jiangtj.micro/micro-web@0.1.0-b1?classifier=sources

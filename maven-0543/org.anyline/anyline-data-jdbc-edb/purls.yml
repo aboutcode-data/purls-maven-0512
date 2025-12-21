@@ -398,6 +398,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-20250520?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-20250603
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-20250603?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-20250630
+- pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-20250630?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk11-20240816?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk11-20240819
@@ -442,6 +444,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk11-20250520?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk11-20250603
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk11-20250603?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk11-20250630
+- pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk11-20250630?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk17-20240501
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk17-20240501?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk17-20240505
@@ -598,6 +602,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk17-20250520?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk17-20250603
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk17-20250603?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk17-20250630
+- pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk17-20250630?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk21-20240501
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk21-20240501?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk21-20240505
@@ -768,3 +774,5 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk21-20250520?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk21-20250603
 - pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk21-20250603?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk21-20250630
+- pkg:maven/org.anyline/anyline-data-jdbc-edb@8.7.2-jdk21-20250630?classifier=sources

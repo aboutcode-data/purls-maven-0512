@@ -56,6 +56,8 @@
 - pkg:maven/org.mvnpm.at.tanstack/react-query@5.79.2
 - pkg:maven/org.mvnpm.at.tanstack/react-query@5.79.2?classifier=sources
 - pkg:maven/org.mvnpm.at.tanstack/react-query@5.80.1
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.80.10
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.80.10?classifier=sources
 - pkg:maven/org.mvnpm.at.tanstack/react-query@5.80.1?classifier=sources
 - pkg:maven/org.mvnpm.at.tanstack/react-query@5.80.2
 - pkg:maven/org.mvnpm.at.tanstack/react-query@5.80.2?classifier=sources
@@ -67,3 +69,15 @@
 - pkg:maven/org.mvnpm.at.tanstack/react-query@5.80.6?classifier=sources
 - pkg:maven/org.mvnpm.at.tanstack/react-query@5.80.7
 - pkg:maven/org.mvnpm.at.tanstack/react-query@5.80.7?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.81.0
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.81.0?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.81.1
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.81.1?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.81.2
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.81.2?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.81.4
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.81.4?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.81.5
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.81.5?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.82.0
+- pkg:maven/org.mvnpm.at.tanstack/react-query@5.82.0?classifier=sources
