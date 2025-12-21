@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-html-indexing@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-html-indexing@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-html-indexing@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-html-indexing@RELEASE260?classifier=sources

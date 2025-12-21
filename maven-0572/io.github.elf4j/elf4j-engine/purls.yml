@@ -132,6 +132,8 @@
 - pkg:maven/io.github.elf4j/elf4j-engine@16.1.0?classifier=sources
 - pkg:maven/io.github.elf4j/elf4j-engine@17.0.0
 - pkg:maven/io.github.elf4j/elf4j-engine@17.0.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-engine@17.1.0
+- pkg:maven/io.github.elf4j/elf4j-engine@17.1.0?classifier=sources
 - pkg:maven/io.github.elf4j/elf4j-engine@2.0.0
 - pkg:maven/io.github.elf4j/elf4j-engine@2.0.0?classifier=sources
 - pkg:maven/io.github.elf4j/elf4j-engine@2.0.1

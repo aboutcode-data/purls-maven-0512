@@ -1,0 +1,1 @@
+- pkg:maven/org.pitest/empty-jars-maven-plugin@0.0.1?classifier=sources

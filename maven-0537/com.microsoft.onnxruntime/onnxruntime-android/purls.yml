@@ -19,3 +19,4 @@
 - pkg:maven/com.microsoft.onnxruntime/onnxruntime-android@1.20.0?classifier=sources
 - pkg:maven/com.microsoft.onnxruntime/onnxruntime-android@1.21.0?classifier=sources
 - pkg:maven/com.microsoft.onnxruntime/onnxruntime-android@1.21.1?classifier=sources
+- pkg:maven/com.microsoft.onnxruntime/onnxruntime-android@1.22.0?classifier=sources

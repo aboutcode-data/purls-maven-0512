@@ -162,3 +162,5 @@
 - pkg:maven/com.genexus/gxcryptocommon@4.8.6?classifier=sources
 - pkg:maven/com.genexus/gxcryptocommon@4.8.7
 - pkg:maven/com.genexus/gxcryptocommon@4.8.7?classifier=sources
+- pkg:maven/com.genexus/gxcryptocommon@4.9.0
+- pkg:maven/com.genexus/gxcryptocommon@4.9.0?classifier=sources

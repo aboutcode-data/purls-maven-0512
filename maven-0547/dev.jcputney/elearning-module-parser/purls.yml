@@ -1,4 +1,5 @@
 - pkg:maven/dev.jcputney/elearning-module-parser@0.0.10?classifier=sources
+- pkg:maven/dev.jcputney/elearning-module-parser@0.0.11?classifier=sources
 - pkg:maven/dev.jcputney/elearning-module-parser@0.0.3?classifier=sources
 - pkg:maven/dev.jcputney/elearning-module-parser@0.0.4?classifier=sources
 - pkg:maven/dev.jcputney/elearning-module-parser@0.0.5?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/de.rub.nds.tls.scanner/tls-server-scanner@6.1.0?classifier=sources
 - pkg:maven/de.rub.nds.tls.scanner/tls-server-scanner@6.1.5
 - pkg:maven/de.rub.nds.tls.scanner/tls-server-scanner@6.1.5?classifier=sources
+- pkg:maven/de.rub.nds.tls.scanner/tls-server-scanner@7.1.0?classifier=sources
+- pkg:maven/de.rub.nds.tls.scanner/tls-server-scanner@7.1.1?classifier=sources

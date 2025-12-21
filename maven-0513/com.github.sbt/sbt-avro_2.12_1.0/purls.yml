@@ -22,3 +22,5 @@
 - pkg:maven/com.github.sbt/sbt-avro_2.12_1.0@4.0.0-M6
 - pkg:maven/com.github.sbt/sbt-avro_2.12_1.0@4.0.0-M6?classifier=sources
 - pkg:maven/com.github.sbt/sbt-avro_2.12_1.0@4.0.0?classifier=sources
+- pkg:maven/com.github.sbt/sbt-avro_2.12_1.0@4.0.1
+- pkg:maven/com.github.sbt/sbt-avro_2.12_1.0@4.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.apoapsis.ortserver.shared/api-model-linuxx64@0.7.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.shared/api-model-linuxx64@0.8.0?classifier=sources

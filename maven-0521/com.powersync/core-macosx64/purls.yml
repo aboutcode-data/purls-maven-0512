@@ -4,3 +4,4 @@
 - pkg:maven/com.powersync/core-macosx64@1.0.0-BETA32?classifier=sources
 - pkg:maven/com.powersync/core-macosx64@1.0.0?classifier=sources
 - pkg:maven/com.powersync/core-macosx64@1.0.1?classifier=sources
+- pkg:maven/com.powersync/core-macosx64@1.1.0?classifier=sources

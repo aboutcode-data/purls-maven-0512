@@ -98,3 +98,5 @@
 - pkg:maven/ai.platon.pulsar/pulsar-master@1.9.9?classifier=sources
 - pkg:maven/ai.platon.pulsar/pulsar-master@2.0.2
 - pkg:maven/ai.platon.pulsar/pulsar-master@2.0.2?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-master@3.0.7
+- pkg:maven/ai.platon.pulsar/pulsar-master@3.0.7?classifier=sources

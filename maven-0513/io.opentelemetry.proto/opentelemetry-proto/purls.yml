@@ -17,3 +17,5 @@
 - pkg:maven/io.opentelemetry.proto/opentelemetry-proto@1.3.2-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.proto/opentelemetry-proto@1.4.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.proto/opentelemetry-proto@1.5.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.proto/opentelemetry-proto@1.6.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.proto/opentelemetry-proto@1.7.0-alpha?classifier=sources

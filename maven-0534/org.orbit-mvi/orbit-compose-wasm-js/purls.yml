@@ -1,0 +1,1 @@
+- pkg:maven/org.orbit-mvi/orbit-compose-wasm-js@10.0.0?classifier=sources

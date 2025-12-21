@@ -6,6 +6,10 @@
 - pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.0.1?classifier=sources
 - pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.0.564595d3d136a64558118b24b3c2ec1a55e9013e
 - pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.0.564595d3d136a64558118b24b3c2ec1a55e9013e?classifier=sources
+- pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.0.5734cd9bd748d0121eda3d28d4f428a246501ee0
+- pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.0.5734cd9bd748d0121eda3d28d4f428a246501ee0?classifier=sources
+- pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.0.743b9be9e5aa04c7d828c88b318774729a2d1914
+- pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.0.743b9be9e5aa04c7d828c88b318774729a2d1914?classifier=sources
 - pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.0.78f56707b3a1d639c8e769bba1686587e9a89564
 - pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.0.78f56707b3a1d639c8e769bba1686587e9a89564?classifier=sources
 - pkg:maven/se.vandmo/dependency-lock-maven-plugin@0.0.eb2d3a63059dc8bdfc5118ebc2f978bb01b4dfdf

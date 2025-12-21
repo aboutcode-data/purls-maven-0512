@@ -16,3 +16,5 @@
 - pkg:maven/cloud.piranha/piranha-multi@25.3.0?type=zip
 - pkg:maven/cloud.piranha/piranha-multi@25.4.0?classifier=sources
 - pkg:maven/cloud.piranha/piranha-multi@25.4.0?type=zip
+- pkg:maven/cloud.piranha/piranha-multi@25.5.0?classifier=sources
+- pkg:maven/cloud.piranha/piranha-multi@25.5.0?type=zip

@@ -1,1 +1,7 @@
 - pkg:maven/org.mvnpm/shiki@0.14.7?classifier=sources
+- pkg:maven/org.mvnpm/shiki@3.2.2
+- pkg:maven/org.mvnpm/shiki@3.2.2?classifier=sources
+- pkg:maven/org.mvnpm/shiki@3.3.0
+- pkg:maven/org.mvnpm/shiki@3.3.0?classifier=sources
+- pkg:maven/org.mvnpm/shiki@3.4.2
+- pkg:maven/org.mvnpm/shiki@3.4.2?classifier=sources

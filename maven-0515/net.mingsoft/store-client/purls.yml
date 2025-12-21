@@ -60,6 +60,7 @@
 - pkg:maven/net.mingsoft/store-client@2.2.0
 - pkg:maven/net.mingsoft/store-client@2.2.0?classifier=sources
 - pkg:maven/net.mingsoft/store-client@2.2.1
+- pkg:maven/net.mingsoft/store-client@2.2.10?classifier=sources
 - pkg:maven/net.mingsoft/store-client@2.2.1?classifier=sources
 - pkg:maven/net.mingsoft/store-client@2.2.2
 - pkg:maven/net.mingsoft/store-client@2.2.2?classifier=sources
@@ -77,6 +78,7 @@
 - pkg:maven/net.mingsoft/store-client@2.2.7?classifier=sources
 - pkg:maven/net.mingsoft/store-client@2.2.8
 - pkg:maven/net.mingsoft/store-client@2.2.8?classifier=sources
+- pkg:maven/net.mingsoft/store-client@2.2.9?classifier=sources
 - pkg:maven/net.mingsoft/store-client@3.0
 - pkg:maven/net.mingsoft/store-client@3.0?classifier=sources
 - pkg:maven/net.mingsoft/store-client@5.0

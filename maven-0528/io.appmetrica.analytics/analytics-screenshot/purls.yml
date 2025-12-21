@@ -1,1 +1,2 @@
 - pkg:maven/io.appmetrica.analytics/analytics-screenshot@7.8.0?classifier=sources
+- pkg:maven/io.appmetrica.analytics/analytics-screenshot@7.9.0?classifier=sources

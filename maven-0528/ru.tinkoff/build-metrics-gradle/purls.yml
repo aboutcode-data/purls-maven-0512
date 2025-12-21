@@ -5,3 +5,4 @@
 - pkg:maven/ru.tinkoff/build-metrics-gradle@2.0.0-RC4?classifier=sources
 - pkg:maven/ru.tinkoff/build-metrics-gradle@2.0.0?classifier=sources
 - pkg:maven/ru.tinkoff/build-metrics-gradle@2.1.0?classifier=sources
+- pkg:maven/ru.tinkoff/build-metrics-gradle@2.1.1?classifier=sources

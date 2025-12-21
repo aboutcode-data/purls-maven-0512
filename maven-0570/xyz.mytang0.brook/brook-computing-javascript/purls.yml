@@ -1,1 +1,2 @@
 - pkg:maven/xyz.mytang0.brook/brook-computing-javascript@1.0.0-beta?classifier=sources
+- pkg:maven/xyz.mytang0.brook/brook-computing-javascript@1.0.0?classifier=sources

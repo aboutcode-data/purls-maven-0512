@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/walk-up-path@3.0.1
+- pkg:maven/org.mvnpm/walk-up-path@3.0.1?classifier=sources

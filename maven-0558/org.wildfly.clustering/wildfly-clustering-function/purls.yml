@@ -1,0 +1,3 @@
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-function@7.0.0.Beta2?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-function@7.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-function@7.0.1.Final?classifier=sources

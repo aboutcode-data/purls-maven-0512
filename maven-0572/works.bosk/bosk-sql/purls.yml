@@ -6,3 +6,5 @@
 - pkg:maven/works.bosk/bosk-sql@0.1.124?classifier=sources
 - pkg:maven/works.bosk/bosk-sql@0.1.125?classifier=sources
 - pkg:maven/works.bosk/bosk-sql@0.1.126?classifier=sources
+- pkg:maven/works.bosk/bosk-sql@0.1.127?classifier=sources
+- pkg:maven/works.bosk/bosk-sql@0.1.128?classifier=sources

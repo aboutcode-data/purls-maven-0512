@@ -13,3 +13,4 @@
 - pkg:maven/com.jzbrooks/vgo-core@3.0.0?classifier=sources
 - pkg:maven/com.jzbrooks/vgo-core@3.1.0?classifier=sources
 - pkg:maven/com.jzbrooks/vgo-core@3.2.0?classifier=sources
+- pkg:maven/com.jzbrooks/vgo-core@3.2.1?classifier=sources

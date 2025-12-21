@@ -5,3 +5,4 @@
 - pkg:maven/org.webjars.npm/tanstack__react-virtual@3.10.1
 - pkg:maven/org.webjars.npm/tanstack__react-virtual@3.10.4
 - pkg:maven/org.webjars.npm/tanstack__react-virtual@3.13.6
+- pkg:maven/org.webjars.npm/tanstack__react-virtual@3.13.8

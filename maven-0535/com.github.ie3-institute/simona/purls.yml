@@ -1,1 +1,2 @@
 - pkg:maven/com.github.ie3-institute/simona@3.0.0?classifier=sources
+- pkg:maven/com.github.ie3-institute/simona@4.0.0?classifier=sources

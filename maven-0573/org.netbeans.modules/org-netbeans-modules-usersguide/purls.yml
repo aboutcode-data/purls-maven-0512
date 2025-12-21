@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-usersguide@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-usersguide@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-usersguide@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-usersguide@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-usersguide@RELEASE90?classifier=sources

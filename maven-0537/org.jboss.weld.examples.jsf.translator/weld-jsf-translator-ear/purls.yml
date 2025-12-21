@@ -197,5 +197,6 @@
 - pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-ear@5.1.3.Final?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-ear@5.1.4.Final?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-ear@5.1.5.Final?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-ear@5.1.6.Final?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-ear@6.0.0.Alpha1?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf.translator/weld-jsf-translator-ear@6.0.0.Beta1?classifier=sources

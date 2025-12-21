@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-lib-nbjshell@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-lib-nbjshell@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-lib-nbjshell@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-lib-nbjshell@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-lib-nbjshell@RELEASE90?classifier=sources

@@ -24,3 +24,4 @@
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-sender-jdk@1.47.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-sender-jdk@1.48.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-sender-jdk@1.49.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-sender-jdk@1.50.0?classifier=sources

@@ -4,6 +4,7 @@
 - pkg:maven/com.manydesigns/portofino-model@4.2.11?classifier=sources
 - pkg:maven/com.manydesigns/portofino-model@4.2.12
 - pkg:maven/com.manydesigns/portofino-model@4.2.12?classifier=sources
+- pkg:maven/com.manydesigns/portofino-model@4.2.13?classifier=sources
 - pkg:maven/com.manydesigns/portofino-model@4.2.3
 - pkg:maven/com.manydesigns/portofino-model@4.2.3?classifier=sources
 - pkg:maven/com.manydesigns/portofino-model@4.2.4

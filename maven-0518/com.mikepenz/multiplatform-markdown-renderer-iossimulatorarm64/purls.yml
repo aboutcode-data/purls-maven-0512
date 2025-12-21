@@ -49,6 +49,7 @@
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-iossimulatorarm64@0.34.0-rc01?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-iossimulatorarm64@0.34.0-rc02?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-iossimulatorarm64@0.34.0-rc03?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-iossimulatorarm64@0.34.0?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-iossimulatorarm64@0.7.2?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-iossimulatorarm64@0.8.0?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-iossimulatorarm64@0.9.0?classifier=sources

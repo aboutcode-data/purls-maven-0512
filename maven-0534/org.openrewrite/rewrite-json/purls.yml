@@ -216,6 +216,10 @@
 - pkg:maven/org.openrewrite/rewrite-json@8.50.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-json@8.50.2?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-json@8.51.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-json@8.52.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-json@8.52.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-json@8.53.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-json@8.53.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-json@8.6.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-json@8.6.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-json@8.6.2?classifier=sources

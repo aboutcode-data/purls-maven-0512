@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kiryu1223/support-db-sqlserver@1.0.15
+- pkg:maven/io.github.kiryu1223/support-db-sqlserver@1.0.15?classifier=sources

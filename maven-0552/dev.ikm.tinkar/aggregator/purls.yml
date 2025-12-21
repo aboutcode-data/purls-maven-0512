@@ -1,3 +1,7 @@
+- pkg:maven/dev.ikm.tinkar/aggregator@1.100.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/aggregator@1.101.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/aggregator@1.102.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/aggregator@1.103.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/aggregator@1.26.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/aggregator@1.34.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/aggregator@1.37.0?classifier=sources
@@ -41,3 +45,4 @@
 - pkg:maven/dev.ikm.tinkar/aggregator@1.96.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/aggregator@1.97.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/aggregator@1.98.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/aggregator@1.99.0?classifier=sources

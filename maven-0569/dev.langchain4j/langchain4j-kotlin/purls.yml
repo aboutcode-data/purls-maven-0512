@@ -1,2 +1,5 @@
 - pkg:maven/dev.langchain4j/langchain4j-kotlin@1.0.0-beta4
 - pkg:maven/dev.langchain4j/langchain4j-kotlin@1.0.0-beta4?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-kotlin@1.0.0-beta5
+- pkg:maven/dev.langchain4j/langchain4j-kotlin@1.0.0-beta5?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-kotlin@1.0.1-beta6?classifier=sources

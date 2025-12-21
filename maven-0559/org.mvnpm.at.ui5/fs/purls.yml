@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.ui5/fs@4.0.1
+- pkg:maven/org.mvnpm.at.ui5/fs@4.0.1?classifier=sources

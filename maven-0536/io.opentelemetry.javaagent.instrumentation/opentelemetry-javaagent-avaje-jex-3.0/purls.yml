@@ -1,0 +1,1 @@
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-avaje-jex-3.0@2.16.0-alpha?classifier=sources

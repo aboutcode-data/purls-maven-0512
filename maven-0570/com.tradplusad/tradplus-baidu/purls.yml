@@ -6,6 +6,7 @@
 - pkg:maven/com.tradplusad/tradplus-baidu@43.10.2.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.10.2.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.10.3.11.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-baidu@43.14.1.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.6.6.0.1.1.100?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.6.6.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-baidu@43.6.6.0?type=aar

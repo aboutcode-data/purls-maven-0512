@@ -493,3 +493,10 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-test-utils@2025.4.9-19.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-test-utils@2025.5.0-19.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-test-utils@2025.5.1-19.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-test-utils@2025.5.2-19.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-test-utils@2025.5.3-19.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-test-utils@2025.5.4-19.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-test-utils@2025.5.5-19.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-test-utils@2025.5.6-19.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-test-utils@2025.5.7-19.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-test-utils@2025.5.8-19.1.0?classifier=sources

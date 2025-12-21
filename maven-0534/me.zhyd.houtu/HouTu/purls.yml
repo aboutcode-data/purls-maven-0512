@@ -1,4 +1,5 @@
 - pkg:maven/me.zhyd.houtu/HouTu@1.0.0
 - pkg:maven/me.zhyd.houtu/HouTu@1.0.0?classifier=sources
 - pkg:maven/me.zhyd.houtu/HouTu@1.0.1
+- pkg:maven/me.zhyd.houtu/HouTu@1.0.1-test?classifier=sources
 - pkg:maven/me.zhyd.houtu/HouTu@1.0.1?classifier=sources

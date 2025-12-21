@@ -64,6 +64,10 @@
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.39.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.40.0
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.40.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-netapp@0.41.0
+- pkg:maven/com.google.cloud/google-cloud-netapp@0.41.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-netapp@0.42.0
+- pkg:maven/com.google.cloud/google-cloud-netapp@0.42.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.6.0
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-netapp@0.7.0

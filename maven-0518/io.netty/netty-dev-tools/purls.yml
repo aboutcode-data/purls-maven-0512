@@ -194,3 +194,4 @@
 - pkg:maven/io.netty/netty-dev-tools@4.2.0.RC2
 - pkg:maven/io.netty/netty-dev-tools@4.2.0.RC3
 - pkg:maven/io.netty/netty-dev-tools@4.2.0.RC4
+- pkg:maven/io.netty/netty-dev-tools@4.2.1.Final

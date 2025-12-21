@@ -81,3 +81,4 @@
 - pkg:maven/net.pincette/pincette-netty-http@3.2.6
 - pkg:maven/net.pincette/pincette-netty-http@3.2.6?classifier=sources
 - pkg:maven/net.pincette/pincette-netty-http@3.2.7?classifier=sources
+- pkg:maven/net.pincette/pincette-netty-http@3.2.8?classifier=sources

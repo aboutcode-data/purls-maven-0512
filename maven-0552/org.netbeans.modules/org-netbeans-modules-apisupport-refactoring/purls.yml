@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-refactoring@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-refactoring@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-refactoring@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-refactoring@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-refactoring@RELEASE90?classifier=sources

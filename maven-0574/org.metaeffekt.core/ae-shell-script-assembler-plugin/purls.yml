@@ -90,6 +90,10 @@
 - pkg:maven/org.metaeffekt.core/ae-shell-script-assembler-plugin@0.135.9?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-shell-script-assembler-plugin@0.136.0
 - pkg:maven/org.metaeffekt.core/ae-shell-script-assembler-plugin@0.136.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-shell-script-assembler-plugin@0.137.0
+- pkg:maven/org.metaeffekt.core/ae-shell-script-assembler-plugin@0.137.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-shell-script-assembler-plugin@0.138.0
+- pkg:maven/org.metaeffekt.core/ae-shell-script-assembler-plugin@0.138.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-shell-script-assembler-plugin@0.95.0
 - pkg:maven/org.metaeffekt.core/ae-shell-script-assembler-plugin@0.95.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-shell-script-assembler-plugin@0.96.0

@@ -1,3 +1,4 @@
 - pkg:maven/org.ethelred.util/common@2.0?classifier=sources
 - pkg:maven/org.ethelred.util/common@2.1?classifier=sources
 - pkg:maven/org.ethelred.util/common@2.2?classifier=sources
+- pkg:maven/org.ethelred.util/common@2.3?classifier=sources

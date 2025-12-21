@@ -18,3 +18,4 @@
 - pkg:maven/com.mirakl/mci-sdk-common@8.4.0?classifier=sources
 - pkg:maven/com.mirakl/mci-sdk-common@8.5.0?classifier=sources
 - pkg:maven/com.mirakl/mci-sdk-common@8.6.0?classifier=sources
+- pkg:maven/com.mirakl/mci-sdk-common@8.7.0?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/de.codecamp.vaadin/vaadin-flow-fluent-processor@5.0.0?classifier=sources
 - pkg:maven/de.codecamp.vaadin/vaadin-flow-fluent-processor@5.1.0
 - pkg:maven/de.codecamp.vaadin/vaadin-flow-fluent-processor@5.1.0?classifier=sources
+- pkg:maven/de.codecamp.vaadin/vaadin-flow-fluent-processor@6.0.0
+- pkg:maven/de.codecamp.vaadin/vaadin-flow-fluent-processor@6.0.0?classifier=sources
+- pkg:maven/de.codecamp.vaadin/vaadin-flow-fluent-processor@6.1.0
+- pkg:maven/de.codecamp.vaadin/vaadin-flow-fluent-processor@6.1.0?classifier=sources

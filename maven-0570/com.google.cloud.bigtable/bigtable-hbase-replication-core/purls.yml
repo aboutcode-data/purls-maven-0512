@@ -40,6 +40,8 @@
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-replication-core@1.13.7?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-replication-core@1.13.8
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-replication-core@1.13.8?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-replication-core@1.13.9
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-replication-core@1.13.9?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-replication-core@1.14.0
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-replication-core@1.14.0?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-replication-core@1.14.1

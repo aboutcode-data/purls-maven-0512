@@ -4,3 +4,5 @@
 - pkg:maven/com.tjclp/fast-mcp-scala_3@0.1.0-RC2
 - pkg:maven/com.tjclp/fast-mcp-scala_3@0.1.0-RC2?classifier=sources
 - pkg:maven/com.tjclp/fast-mcp-scala_3@0.1.0?classifier=sources
+- pkg:maven/com.tjclp/fast-mcp-scala_3@0.1.1
+- pkg:maven/com.tjclp/fast-mcp-scala_3@0.1.1?classifier=sources

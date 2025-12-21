@@ -1,0 +1,4 @@
+- pkg:maven/net.codinux.log/quarkus-log-formatter-deployment@1.0.0
+- pkg:maven/net.codinux.log/quarkus-log-formatter-deployment@1.0.0?classifier=sources
+- pkg:maven/net.codinux.log/quarkus-log-formatter-deployment@1.1.0
+- pkg:maven/net.codinux.log/quarkus-log-formatter-deployment@1.1.0?classifier=sources

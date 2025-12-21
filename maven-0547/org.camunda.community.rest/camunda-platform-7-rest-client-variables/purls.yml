@@ -1,0 +1,2 @@
+- pkg:maven/org.camunda.community.rest/camunda-platform-7-rest-client-variables@7.23.2
+- pkg:maven/org.camunda.community.rest/camunda-platform-7-rest-client-variables@7.23.2?classifier=sources

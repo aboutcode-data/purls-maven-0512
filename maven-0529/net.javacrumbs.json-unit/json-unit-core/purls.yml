@@ -274,3 +274,4 @@
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@4.0.0?classifier=sources
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@4.1.0
 - pkg:maven/net.javacrumbs.json-unit/json-unit-core@4.1.0?classifier=sources
+- pkg:maven/net.javacrumbs.json-unit/json-unit-core@4.1.1?classifier=sources
