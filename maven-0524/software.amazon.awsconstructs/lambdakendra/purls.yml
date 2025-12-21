@@ -80,3 +80,13 @@
 - pkg:maven/software.amazon.awsconstructs/lambdakendra@2.78.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdakendra@2.78.1
 - pkg:maven/software.amazon.awsconstructs/lambdakendra@2.78.1?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdakendra@2.79.0
+- pkg:maven/software.amazon.awsconstructs/lambdakendra@2.79.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdakendra@2.79.1
+- pkg:maven/software.amazon.awsconstructs/lambdakendra@2.79.1?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdakendra@2.80.0
+- pkg:maven/software.amazon.awsconstructs/lambdakendra@2.80.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdakendra@2.81.0
+- pkg:maven/software.amazon.awsconstructs/lambdakendra@2.81.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdakendra@2.82.0
+- pkg:maven/software.amazon.awsconstructs/lambdakendra@2.82.0?classifier=sources

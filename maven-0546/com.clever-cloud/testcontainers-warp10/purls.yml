@@ -11,3 +11,5 @@
 - pkg:maven/com.clever-cloud/testcontainers-warp10@1.0.7
 - pkg:maven/com.clever-cloud/testcontainers-warp10@1.0.7?classifier=sources
 - pkg:maven/com.clever-cloud/testcontainers-warp10@1.0.8?classifier=sources
+- pkg:maven/com.clever-cloud/testcontainers-warp10@2.0.0
+- pkg:maven/com.clever-cloud/testcontainers-warp10@2.0.0?classifier=sources

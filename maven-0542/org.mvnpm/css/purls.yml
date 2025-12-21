@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm/css@1.0.8?classifier=sources
+- pkg:maven/org.mvnpm/css@2.0.0?classifier=sources
+- pkg:maven/org.mvnpm/css@2.2.4?classifier=sources
+- pkg:maven/org.mvnpm/css@3.0.0?classifier=sources

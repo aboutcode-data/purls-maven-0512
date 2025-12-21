@@ -1,0 +1,4 @@
+- pkg:maven/org.kodexis.decisionexpert/kodexis-api@1.0.0?classifier=sources
+- pkg:maven/org.kodexis.decisionexpert/kodexis-api@2.0.1?classifier=sources
+- pkg:maven/org.kodexis.decisionexpert/kodexis-api@2.1.0?classifier=sources
+- pkg:maven/org.kodexis.decisionexpert/kodexis-api@2.1.1?classifier=sources

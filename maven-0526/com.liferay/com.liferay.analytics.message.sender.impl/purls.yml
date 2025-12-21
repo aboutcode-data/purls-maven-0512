@@ -96,6 +96,7 @@
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@2.0.2
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@2.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@2.0.3
@@ -165,6 +166,7 @@
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@3.0.22
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@3.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@3.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@3.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@3.0.3
@@ -251,6 +253,7 @@
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@4.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@4.0.28
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@4.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@4.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.analytics.message.sender.impl@4.0.3

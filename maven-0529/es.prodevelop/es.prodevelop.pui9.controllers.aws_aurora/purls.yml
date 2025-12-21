@@ -6,3 +6,7 @@
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.controllers.aws_aurora@2.0.2?classifier=sources
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.controllers.aws_aurora@2.0.4
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.controllers.aws_aurora@2.0.4?classifier=sources
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.controllers.aws_aurora@2.0.5
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.controllers.aws_aurora@2.0.5?classifier=sources
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.controllers.aws_aurora@2.0.6
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.controllers.aws_aurora@2.0.6?classifier=sources

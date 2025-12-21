@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/codemo@0.2.2?classifier=sources
+- pkg:maven/org.mvnpm/codemo@1.0.1?classifier=sources

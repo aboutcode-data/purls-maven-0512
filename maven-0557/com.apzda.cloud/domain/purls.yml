@@ -30,3 +30,5 @@
 - pkg:maven/com.apzda.cloud/domain@1.2.9?classifier=sources
 - pkg:maven/com.apzda.cloud/domain@3.4.0
 - pkg:maven/com.apzda.cloud/domain@3.4.0?classifier=sources
+- pkg:maven/com.apzda.cloud/domain@3.4.1
+- pkg:maven/com.apzda.cloud/domain@3.4.1?classifier=sources

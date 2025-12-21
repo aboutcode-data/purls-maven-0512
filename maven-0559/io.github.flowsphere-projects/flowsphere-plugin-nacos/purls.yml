@@ -2,3 +2,4 @@
 - pkg:maven/io.github.flowsphere-projects/flowsphere-plugin-nacos@1.0.0.RELEASE?classifier=sources
 - pkg:maven/io.github.flowsphere-projects/flowsphere-plugin-nacos@1.2.0.RELEASE?classifier=sources
 - pkg:maven/io.github.flowsphere-projects/flowsphere-plugin-nacos@1.3.0.RELEASE?classifier=sources
+- pkg:maven/io.github.flowsphere-projects/flowsphere-plugin-nacos@1.5.0.RELEASE?classifier=sources

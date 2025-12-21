@@ -3,3 +3,5 @@
 - pkg:maven/com.sap.donotuse/mvn-sample@0.0.9
 - pkg:maven/com.sap.donotuse/mvn-sample@0.0.9?classifier=sources
 - pkg:maven/com.sap.donotuse/mvn-sample@10.0.0?classifier=sources
+- pkg:maven/com.sap.donotuse/mvn-sample@11.0.0
+- pkg:maven/com.sap.donotuse/mvn-sample@11.0.0?classifier=sources

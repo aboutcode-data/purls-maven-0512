@@ -1,0 +1,2 @@
+- pkg:maven/space.piwo/petname-scala_3@0.2
+- pkg:maven/space.piwo/petname-scala_3@0.2?classifier=sources

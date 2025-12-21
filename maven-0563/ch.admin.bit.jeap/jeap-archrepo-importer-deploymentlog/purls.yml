@@ -1,2 +1,3 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-deploymentlog@1.10.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-deploymentlog@1.11.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-deploymentlog@1.12.0?classifier=sources

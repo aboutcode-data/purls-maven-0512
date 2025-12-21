@@ -193,6 +193,10 @@
 - pkg:maven/io.github.fslev/jtest-utils@5.20?classifier=sources
 - pkg:maven/io.github.fslev/jtest-utils@5.21
 - pkg:maven/io.github.fslev/jtest-utils@5.21?classifier=sources
+- pkg:maven/io.github.fslev/jtest-utils@5.22
+- pkg:maven/io.github.fslev/jtest-utils@5.22?classifier=sources
+- pkg:maven/io.github.fslev/jtest-utils@5.23
+- pkg:maven/io.github.fslev/jtest-utils@5.23?classifier=sources
 - pkg:maven/io.github.fslev/jtest-utils@5.2?classifier=sources
 - pkg:maven/io.github.fslev/jtest-utils@5.3
 - pkg:maven/io.github.fslev/jtest-utils@5.3?classifier=sources
@@ -208,3 +212,5 @@
 - pkg:maven/io.github.fslev/jtest-utils@5.8?classifier=sources
 - pkg:maven/io.github.fslev/jtest-utils@5.9
 - pkg:maven/io.github.fslev/jtest-utils@5.9?classifier=sources
+- pkg:maven/io.github.fslev/jtest-utils@6.0
+- pkg:maven/io.github.fslev/jtest-utils@6.0?classifier=sources

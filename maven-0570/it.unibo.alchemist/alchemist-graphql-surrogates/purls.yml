@@ -127,3 +127,7 @@
 - pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@41.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@42.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@42.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@42.0.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@42.0.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@42.0.4?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-surrogates@42.0.5?classifier=sources

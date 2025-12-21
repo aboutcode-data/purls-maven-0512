@@ -176,6 +176,8 @@
 - pkg:maven/org.jdbi/jdbi3-kotlin@3.47.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-kotlin@3.48.0
 - pkg:maven/org.jdbi/jdbi3-kotlin@3.48.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-kotlin@3.49.0
+- pkg:maven/org.jdbi/jdbi3-kotlin@3.49.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-kotlin@3.5.0
 - pkg:maven/org.jdbi/jdbi3-kotlin@3.5.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-kotlin@3.5.1

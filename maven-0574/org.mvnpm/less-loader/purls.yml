@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/less-loader@12.2.0?classifier=sources
+- pkg:maven/org.mvnpm/less-loader@2.2.3?classifier=sources

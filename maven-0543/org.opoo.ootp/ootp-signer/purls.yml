@@ -42,3 +42,7 @@
 - pkg:maven/org.opoo.ootp/ootp-signer@2.0.0-tools?classifier=sources
 - pkg:maven/org.opoo.ootp/ootp-signer@2.0.1-tools
 - pkg:maven/org.opoo.ootp/ootp-signer@2.0.1-tools?classifier=sources
+- pkg:maven/org.opoo.ootp/ootp-signer@2.0.2-tools
+- pkg:maven/org.opoo.ootp/ootp-signer@2.0.2-tools?classifier=sources
+- pkg:maven/org.opoo.ootp/ootp-signer@2.0.3-tools
+- pkg:maven/org.opoo.ootp/ootp-signer@2.0.3-tools?classifier=sources

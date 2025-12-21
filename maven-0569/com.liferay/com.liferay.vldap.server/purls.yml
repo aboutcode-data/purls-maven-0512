@@ -57,6 +57,7 @@
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.23
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.vldap.server@3.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.9
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.vldap.server@3.0.9?classifier=sources-commercial

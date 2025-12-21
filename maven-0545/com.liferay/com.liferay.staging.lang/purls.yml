@@ -477,6 +477,7 @@
 - pkg:maven/com.liferay/com.liferay.staging.lang@3.0.91?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@3.0.92?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@3.0.93?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.lang@3.0.94?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@3.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.lang@4.0.0
@@ -729,6 +730,7 @@
 - pkg:maven/com.liferay/com.liferay.staging.lang@4.0.85?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@4.0.86?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@4.0.87?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.lang@4.0.88?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@4.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.lang@4.0.9
@@ -742,6 +744,7 @@
 - pkg:maven/com.liferay/com.liferay.staging.lang@5.0.100?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@5.0.101?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@5.0.102?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.lang@5.0.103?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@5.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.lang@5.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.lang@5.0.11

@@ -16,3 +16,4 @@
 - pkg:maven/io.github.sfali23/protoc-gen-grpc-rest-gateway-plugin@0.8.6
 - pkg:maven/io.github.sfali23/protoc-gen-grpc-rest-gateway-plugin@0.8.7
 - pkg:maven/io.github.sfali23/protoc-gen-grpc-rest-gateway-plugin@0.8.8
+- pkg:maven/io.github.sfali23/protoc-gen-grpc-rest-gateway-plugin@0.8.9

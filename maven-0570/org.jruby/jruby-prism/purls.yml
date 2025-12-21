@@ -2,3 +2,5 @@
 - pkg:maven/org.jruby/jruby-prism@0.24.0?classifier=sources
 - pkg:maven/org.jruby/jruby-prism@0.29.0
 - pkg:maven/org.jruby/jruby-prism@0.29.0?classifier=sources
+- pkg:maven/org.jruby/jruby-prism@1.4.0
+- pkg:maven/org.jruby/jruby-prism@1.4.0?classifier=sources

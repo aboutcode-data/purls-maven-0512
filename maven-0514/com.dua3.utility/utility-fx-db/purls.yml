@@ -35,4 +35,7 @@
 - pkg:maven/com.dua3.utility/utility-fx-db@16.1.5?classifier=sources
 - pkg:maven/com.dua3.utility/utility-fx-db@16.1.6?classifier=sources
 - pkg:maven/com.dua3.utility/utility-fx-db@16.1?classifier=sources
+- pkg:maven/com.dua3.utility/utility-fx-db@16.2.0?classifier=sources
 - pkg:maven/com.dua3.utility/utility-fx-db@16?classifier=sources
+- pkg:maven/com.dua3.utility/utility-fx-db@17.0.0?classifier=sources
+- pkg:maven/com.dua3.utility/utility-fx-db@17?classifier=sources

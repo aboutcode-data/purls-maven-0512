@@ -99,3 +99,5 @@
 - pkg:maven/app.cash.backfila/client-base@2025.03.05.141311-538d161?classifier=sources
 - pkg:maven/app.cash.backfila/client-base@2025.03.07.183853-e86930d?classifier=sources
 - pkg:maven/app.cash.backfila/client-base@2025.03.12.201220-5d49c04?classifier=sources
+- pkg:maven/app.cash.backfila/client-base@2025.03.17.171255-307f839?classifier=sources
+- pkg:maven/app.cash.backfila/client-base@2025.04.04.113522-414f675?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-ton@0.47
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-ton@0.47?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-ton@0.48
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-ton@0.48?classifier=sources

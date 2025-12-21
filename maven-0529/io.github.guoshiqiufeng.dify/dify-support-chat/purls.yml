@@ -1,2 +1,7 @@
 - pkg:maven/io.github.guoshiqiufeng.dify/dify-support-chat@0.1.0?classifier=sources
 - pkg:maven/io.github.guoshiqiufeng.dify/dify-support-chat@0.2.0?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng.dify/dify-support-chat@0.3.0?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng.dify/dify-support-chat@0.4.0?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng.dify/dify-support-chat@0.5.0?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng.dify/dify-support-chat@0.6.0?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng.dify/dify-support-chat@0.6.1?classifier=sources

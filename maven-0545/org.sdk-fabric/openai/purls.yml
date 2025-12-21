@@ -1,0 +1,2 @@
+- pkg:maven/org.sdk-fabric/openai@0.1.0?classifier=sources
+- pkg:maven/org.sdk-fabric/openai@0.1.1?classifier=sources

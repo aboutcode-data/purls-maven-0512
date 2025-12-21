@@ -14,3 +14,5 @@
 - pkg:maven/tech.picnic.error-prone-support/error-prone-utils@0.19.1?classifier=sources
 - pkg:maven/tech.picnic.error-prone-support/error-prone-utils@0.20.0
 - pkg:maven/tech.picnic.error-prone-support/error-prone-utils@0.20.0?classifier=sources
+- pkg:maven/tech.picnic.error-prone-support/error-prone-utils@0.21.0
+- pkg:maven/tech.picnic.error-prone-support/error-prone-utils@0.21.0?classifier=sources

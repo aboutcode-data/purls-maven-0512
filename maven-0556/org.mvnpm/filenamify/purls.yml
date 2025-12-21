@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/filenamify@5.1.1?classifier=sources
+- pkg:maven/org.mvnpm/filenamify@6.0.0?classifier=sources

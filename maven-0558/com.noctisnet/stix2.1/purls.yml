@@ -1,0 +1,2 @@
+- pkg:maven/com.noctisnet/stix2.1@v0.0.1?classifier=sources
+- pkg:maven/com.noctisnet/stix2.1@v0.1.0?classifier=sources

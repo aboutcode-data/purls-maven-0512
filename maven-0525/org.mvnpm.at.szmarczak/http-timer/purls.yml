@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.szmarczak/http-timer@1.1.2?classifier=sources
+- pkg:maven/org.mvnpm.at.szmarczak/http-timer@5.0.1?classifier=sources

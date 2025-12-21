@@ -6,3 +6,5 @@
 - pkg:maven/ch.exense.step/step-functions-plugins-defs-all-os@3.26.5
 - pkg:maven/ch.exense.step/step-functions-plugins-defs-all-os@3.26.5-CustomizedJv2
 - pkg:maven/ch.exense.step/step-functions-plugins-defs-all-os@3.26.5-customized-j
+- pkg:maven/ch.exense.step/step-functions-plugins-defs-all-os@3.27.0
+- pkg:maven/ch.exense.step/step-functions-plugins-defs-all-os@3.27.1

@@ -1,0 +1,3 @@
+- pkg:maven/org.mvnpm/window-size@0.1.0?classifier=sources
+- pkg:maven/org.mvnpm/window-size@0.1.4?classifier=sources
+- pkg:maven/org.mvnpm/window-size@1.1.1?classifier=sources

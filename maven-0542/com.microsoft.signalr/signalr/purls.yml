@@ -7,6 +7,7 @@
 - pkg:maven/com.microsoft.signalr/signalr@1.0.5
 - pkg:maven/com.microsoft.signalr/signalr@1.0.5?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@10.0.0-preview.1.25120.3?classifier=sources
+- pkg:maven/com.microsoft.signalr/signalr@10.0.0-preview.2.25164.1?classifier=sources
 - pkg:maven/com.microsoft.signalr/signalr@3.0.0
 - pkg:maven/com.microsoft.signalr/signalr@3.0.0-preview-18579-0056
 - pkg:maven/com.microsoft.signalr/signalr@3.0.0-preview-18579-0056?classifier=sources

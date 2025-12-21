@@ -1,2 +1,8 @@
+- pkg:maven/org.mvnpm/cliui@2.1.0?classifier=sources
+- pkg:maven/org.mvnpm/cliui@3.2.0?classifier=sources
+- pkg:maven/org.mvnpm/cliui@5.0.0?classifier=sources
 - pkg:maven/org.mvnpm/cliui@6.0.0?classifier=sources
+- pkg:maven/org.mvnpm/cliui@7.0.4?classifier=sources
 - pkg:maven/org.mvnpm/cliui@8.0.1?classifier=sources
+- pkg:maven/org.mvnpm/cliui@9.0.0?classifier=sources
+- pkg:maven/org.mvnpm/cliui@9.0.1?classifier=sources

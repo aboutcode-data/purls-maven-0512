@@ -1,2 +1,6 @@
 - pkg:maven/io.github.ollls/iouring-quartz-h2_3@0.9-RC
+- pkg:maven/io.github.ollls/iouring-quartz-h2_3@0.9-RC2
+- pkg:maven/io.github.ollls/iouring-quartz-h2_3@0.9-RC2?classifier=sources
+- pkg:maven/io.github.ollls/iouring-quartz-h2_3@0.9-RC3
+- pkg:maven/io.github.ollls/iouring-quartz-h2_3@0.9-RC3?classifier=sources
 - pkg:maven/io.github.ollls/iouring-quartz-h2_3@0.9-RC?classifier=sources

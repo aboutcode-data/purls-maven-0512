@@ -1,1 +1,4 @@
 - pkg:maven/io.sourcesync.sdk/sourcesync-sdk-ui-android@0.0.1?classifier=sources
+- pkg:maven/io.sourcesync.sdk/sourcesync-sdk-ui-android@0.0.3?classifier=sources
+- pkg:maven/io.sourcesync.sdk/sourcesync-sdk-ui-android@0.0.6?classifier=sources
+- pkg:maven/io.sourcesync.sdk/sourcesync-sdk-ui-android@0.0.8?classifier=sources

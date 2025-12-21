@@ -1,1 +1,5 @@
 - pkg:maven/br.com.maisquerifa/inter-sdk-java@2.0.0?classifier=sources
+- pkg:maven/br.com.maisquerifa/inter-sdk-java@2.0.1?classifier=sources
+- pkg:maven/br.com.maisquerifa/inter-sdk-java@2.0.2?classifier=sources
+- pkg:maven/br.com.maisquerifa/inter-sdk-java@2.0.3
+- pkg:maven/br.com.maisquerifa/inter-sdk-java@2.0.3?classifier=sources

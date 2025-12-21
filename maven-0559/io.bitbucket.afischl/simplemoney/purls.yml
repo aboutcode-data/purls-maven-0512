@@ -1,1 +1,2 @@
 - pkg:maven/io.bitbucket.afischl/simplemoney@0.9?classifier=sources
+- pkg:maven/io.bitbucket.afischl/simplemoney@1.0?classifier=sources

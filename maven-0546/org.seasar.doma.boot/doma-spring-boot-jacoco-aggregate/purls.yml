@@ -1,1 +1,2 @@
 - pkg:maven/org.seasar.doma.boot/doma-spring-boot-jacoco-aggregate@2.2.0
+- pkg:maven/org.seasar.doma.boot/doma-spring-boot-jacoco-aggregate@2.3.0

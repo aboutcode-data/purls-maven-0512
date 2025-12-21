@@ -21,3 +21,4 @@
 - pkg:maven/org.danilopianini/java-quadtree@0.2.1?classifier=sources
 - pkg:maven/org.danilopianini/java-quadtree@0.3.0?classifier=sources
 - pkg:maven/org.danilopianini/java-quadtree@1.0.0?classifier=sources
+- pkg:maven/org.danilopianini/java-quadtree@1.0.1?classifier=sources

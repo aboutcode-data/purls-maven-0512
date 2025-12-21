@@ -386,6 +386,8 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@2.8.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@2.81.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@2.81.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@2.82.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@2.82.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@2.9.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@2.9.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@3.0.0
@@ -590,6 +592,12 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@3.6.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@3.60.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@3.60.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@3.61.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@3.61.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@3.62.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@3.62.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@3.62.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@3.62.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@3.7.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@3.7.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dns@3.8.0

@@ -3,3 +3,5 @@
 - pkg:maven/cn.jiguang.sdk/jcore-custom-google@4.3.3?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-custom-google@4.4.1?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-custom-google@4.6.9?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore-custom-google@4.7.7?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore-custom-google@4.7.8?classifier=sources

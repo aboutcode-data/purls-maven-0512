@@ -25,3 +25,4 @@
 - pkg:maven/io.asgardeo.tomcat.saml.agent/tomcat-saml-agent@0.1.44?classifier=source-release&type=zip
 - pkg:maven/io.asgardeo.tomcat.saml.agent/tomcat-saml-agent@0.1.45?classifier=source-release&type=zip
 - pkg:maven/io.asgardeo.tomcat.saml.agent/tomcat-saml-agent@0.1.46?classifier=source-release&type=zip
+- pkg:maven/io.asgardeo.tomcat.saml.agent/tomcat-saml-agent@0.1.48?classifier=source-release&type=zip

@@ -24,3 +24,5 @@
 - pkg:maven/org.jmdns/jmdns@3.5.9?classifier=sources
 - pkg:maven/org.jmdns/jmdns@3.6.0
 - pkg:maven/org.jmdns/jmdns@3.6.0?classifier=sources
+- pkg:maven/org.jmdns/jmdns@3.6.1
+- pkg:maven/org.jmdns/jmdns@3.6.1?classifier=sources

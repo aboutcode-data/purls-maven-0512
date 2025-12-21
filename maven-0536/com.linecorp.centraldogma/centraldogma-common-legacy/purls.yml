@@ -179,3 +179,4 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.73.0?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.73.1?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.74.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-common-legacy@0.75.0?classifier=sources

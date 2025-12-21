@@ -216,3 +216,6 @@
 - pkg:maven/io.nextflow/nf-commons@24.11.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nf-commons@24.12.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nf-commons@25.01.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-commons@25.02.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-commons@25.02.1-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-commons@25.02.2-edge?classifier=sources

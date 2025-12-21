@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/style-loader@0.13.2?classifier=sources
+- pkg:maven/org.mvnpm/style-loader@4.0.0?classifier=sources

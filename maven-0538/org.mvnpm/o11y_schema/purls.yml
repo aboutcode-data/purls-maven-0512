@@ -1,0 +1,6 @@
+- pkg:maven/org.mvnpm/o11y_schema@254.44.0?classifier=sources
+- pkg:maven/org.mvnpm/o11y_schema@254.87.0?classifier=sources
+- pkg:maven/org.mvnpm/o11y_schema@254.88.0?classifier=sources
+- pkg:maven/org.mvnpm/o11y_schema@256.127.0?classifier=sources
+- pkg:maven/org.mvnpm/o11y_schema@256.128.0?classifier=sources
+- pkg:maven/org.mvnpm/o11y_schema@258.2.0?classifier=sources

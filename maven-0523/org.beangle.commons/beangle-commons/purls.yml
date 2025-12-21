@@ -22,3 +22,5 @@
 - pkg:maven/org.beangle.commons/beangle-commons@5.6.25?classifier=sources
 - pkg:maven/org.beangle.commons/beangle-commons@5.6.26
 - pkg:maven/org.beangle.commons/beangle-commons@5.6.26?classifier=sources
+- pkg:maven/org.beangle.commons/beangle-commons@5.6.27
+- pkg:maven/org.beangle.commons/beangle-commons@5.6.27?classifier=sources

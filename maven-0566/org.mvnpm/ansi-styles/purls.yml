@@ -1,6 +1,8 @@
+- pkg:maven/org.mvnpm/ansi-styles@1.1.0?classifier=sources
 - pkg:maven/org.mvnpm/ansi-styles@3.2.1?classifier=sources
 - pkg:maven/org.mvnpm/ansi-styles@4.1.0?classifier=sources
 - pkg:maven/org.mvnpm/ansi-styles@4.2.0?classifier=sources
 - pkg:maven/org.mvnpm/ansi-styles@4.2.1?classifier=sources
 - pkg:maven/org.mvnpm/ansi-styles@4.3.0?classifier=sources
+- pkg:maven/org.mvnpm/ansi-styles@5.2.0?classifier=sources
 - pkg:maven/org.mvnpm/ansi-styles@6.2.1?classifier=sources

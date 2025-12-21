@@ -70,3 +70,7 @@
 - pkg:maven/com.okworx.ilcd.validation.profiles/EPD-1.2-OEKOBAUDAT@3.4.0?classifier=sources
 - pkg:maven/com.okworx.ilcd.validation.profiles/EPD-1.2-OEKOBAUDAT@3.5.0
 - pkg:maven/com.okworx.ilcd.validation.profiles/EPD-1.2-OEKOBAUDAT@3.5.0?classifier=sources
+- pkg:maven/com.okworx.ilcd.validation.profiles/EPD-1.2-OEKOBAUDAT@3.6.0
+- pkg:maven/com.okworx.ilcd.validation.profiles/EPD-1.2-OEKOBAUDAT@3.6.0?classifier=sources
+- pkg:maven/com.okworx.ilcd.validation.profiles/EPD-1.2-OEKOBAUDAT@3.6.1
+- pkg:maven/com.okworx.ilcd.validation.profiles/EPD-1.2-OEKOBAUDAT@3.6.1?classifier=sources

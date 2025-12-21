@@ -150,6 +150,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-channel-v1@3.62.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-channel-v1@3.63.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-channel-v1@3.63.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-channel-v1@3.64.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-channel-v1@3.64.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-channel-v1@3.7.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-channel-v1@3.7.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-channel-v1@3.7.2

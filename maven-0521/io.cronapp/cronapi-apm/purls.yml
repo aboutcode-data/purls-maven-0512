@@ -345,4 +345,12 @@
 - pkg:maven/io.cronapp/cronapi-apm@3.2.1-SP.1?classifier=sources
 - pkg:maven/io.cronapp/cronapi-apm@3.2.1-SP.2
 - pkg:maven/io.cronapp/cronapi-apm@3.2.1-SP.2?classifier=sources
+- pkg:maven/io.cronapp/cronapi-apm@3.2.1-SP.3
+- pkg:maven/io.cronapp/cronapi-apm@3.2.1-SP.3?classifier=sources
+- pkg:maven/io.cronapp/cronapi-apm@3.2.1-SP.4
+- pkg:maven/io.cronapp/cronapi-apm@3.2.1-SP.4?classifier=sources
 - pkg:maven/io.cronapp/cronapi-apm@3.2.1?classifier=sources
+- pkg:maven/io.cronapp/cronapi-apm@4.0.0
+- pkg:maven/io.cronapp/cronapi-apm@4.0.0?classifier=sources
+- pkg:maven/io.cronapp/cronapi-apm@4.0.1
+- pkg:maven/io.cronapp/cronapi-apm@4.0.1?classifier=sources

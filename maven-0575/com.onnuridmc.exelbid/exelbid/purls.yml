@@ -121,4 +121,5 @@
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.9.8.2?classifier=sources
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.9.8?classifier=sources
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.9.9.1?classifier=sources
+- pkg:maven/com.onnuridmc.exelbid/exelbid@1.9.9.2?classifier=sources
 - pkg:maven/com.onnuridmc.exelbid/exelbid@1.9.9?classifier=sources

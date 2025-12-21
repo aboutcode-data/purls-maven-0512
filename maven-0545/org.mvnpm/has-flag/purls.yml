@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm/has-flag@1.0.0?classifier=sources
+- pkg:maven/org.mvnpm/has-flag@2.0.0?classifier=sources
 - pkg:maven/org.mvnpm/has-flag@3.0.0?classifier=sources
 - pkg:maven/org.mvnpm/has-flag@4.0.0?classifier=sources
 - pkg:maven/org.mvnpm/has-flag@5.0.1?classifier=sources

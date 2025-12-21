@@ -104,6 +104,8 @@
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-code-styles@1.24.6?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-code-styles@1.24.7
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-code-styles@1.24.7?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-code-styles@1.24.8
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-code-styles@1.24.8?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-code-styles@1.4.16
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-code-styles@1.4.16?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-code-styles@1.5.1

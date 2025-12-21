@@ -216,6 +216,8 @@
 - pkg:maven/com.pulumi/pagerduty@4.20.0?classifier=sources
 - pkg:maven/com.pulumi/pagerduty@4.20.1?classifier=sources
 - pkg:maven/com.pulumi/pagerduty@4.21.0?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@4.22.0?classifier=sources
+- pkg:maven/com.pulumi/pagerduty@4.22.1?classifier=sources
 - pkg:maven/com.pulumi/pagerduty@4.3.0-alpha.1701464693%2B7fa9ceb7?classifier=sources
 - pkg:maven/com.pulumi/pagerduty@4.3.0-alpha.1701710418%2Bdac3c931?classifier=sources
 - pkg:maven/com.pulumi/pagerduty@4.3.0-alpha.1701793483%2B78bd0706?classifier=sources

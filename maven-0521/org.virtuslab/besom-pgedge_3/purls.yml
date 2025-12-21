@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-pgedge_3@0.0.40-core.0.4
+- pkg:maven/org.virtuslab/besom-pgedge_3@0.0.40-core.0.4?classifier=sources

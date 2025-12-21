@@ -10,3 +10,5 @@
 - pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.55?classifier=sources
 - pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.56?classifier=sources
 - pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.57?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.58?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.59?classifier=sources

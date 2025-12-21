@@ -96,3 +96,5 @@
 - pkg:maven/com.applitools/eyes-universal-core-binaries@5.71.0?classifier=sources
 - pkg:maven/com.applitools/eyes-universal-core-binaries@5.73.0
 - pkg:maven/com.applitools/eyes-universal-core-binaries@5.73.0?classifier=sources
+- pkg:maven/com.applitools/eyes-universal-core-binaries@5.73.1
+- pkg:maven/com.applitools/eyes-universal-core-binaries@5.73.1?classifier=sources

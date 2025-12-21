@@ -96,3 +96,5 @@
 - pkg:maven/com.eurodyn.qlack.util/qlack-util-av-api@3.9.2?classifier=sources
 - pkg:maven/com.eurodyn.qlack.util/qlack-util-av-api@3.9.3
 - pkg:maven/com.eurodyn.qlack.util/qlack-util-av-api@3.9.3?classifier=sources
+- pkg:maven/com.eurodyn.qlack.util/qlack-util-av-api@3.9.4
+- pkg:maven/com.eurodyn.qlack.util/qlack-util-av-api@3.9.4?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/com.bakdata.gradle/mockito@1.8.0?classifier=sources
 - pkg:maven/com.bakdata.gradle/mockito@1.8.1?classifier=sources
 - pkg:maven/com.bakdata.gradle/mockito@1.9.0?classifier=sources
+- pkg:maven/com.bakdata.gradle/mockito@1.9.1?classifier=sources

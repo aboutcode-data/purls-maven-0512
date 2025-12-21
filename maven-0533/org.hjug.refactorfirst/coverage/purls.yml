@@ -8,3 +8,5 @@
 - pkg:maven/org.hjug.refactorfirst/coverage@0.6.0
 - pkg:maven/org.hjug.refactorfirst/coverage@0.6.1
 - pkg:maven/org.hjug.refactorfirst/coverage@0.6.2
+- pkg:maven/org.hjug.refactorfirst/coverage@0.7.0
+- pkg:maven/org.hjug.refactorfirst/coverage@0.7.1

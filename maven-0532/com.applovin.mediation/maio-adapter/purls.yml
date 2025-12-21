@@ -15,3 +15,4 @@
 - pkg:maven/com.applovin.mediation/maio-adapter@2.0.2.0?classifier=sources
 - pkg:maven/com.applovin.mediation/maio-adapter@2.0.3.0?classifier=sources
 - pkg:maven/com.applovin.mediation/maio-adapter@2.0.3.1?classifier=sources
+- pkg:maven/com.applovin.mediation/maio-adapter@2.0.4.0?classifier=sources

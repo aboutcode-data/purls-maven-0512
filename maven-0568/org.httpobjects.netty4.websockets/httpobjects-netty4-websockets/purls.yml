@@ -5,3 +5,4 @@
 - pkg:maven/org.httpobjects.netty4.websockets/httpobjects-netty4-websockets@1.0.0.pre5?classifier=sources
 - pkg:maven/org.httpobjects.netty4.websockets/httpobjects-netty4-websockets@1.0.0.pre6?classifier=sources
 - pkg:maven/org.httpobjects.netty4.websockets/httpobjects-netty4-websockets@1.0.0.pre7?classifier=sources
+- pkg:maven/org.httpobjects.netty4.websockets/httpobjects-netty4-websockets@1.0.0.pre8?classifier=sources
