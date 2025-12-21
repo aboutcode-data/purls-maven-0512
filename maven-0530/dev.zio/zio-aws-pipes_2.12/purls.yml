@@ -310,6 +310,12 @@
 - pkg:maven/dev.zio/zio-aws-pipes_2.12@7.31.45.1?classifier=sources
 - pkg:maven/dev.zio/zio-aws-pipes_2.12@7.31.50.1
 - pkg:maven/dev.zio/zio-aws-pipes_2.12@7.31.50.1?classifier=sources
+- pkg:maven/dev.zio/zio-aws-pipes_2.12@7.31.51.1
+- pkg:maven/dev.zio/zio-aws-pipes_2.12@7.31.51.1?classifier=sources
+- pkg:maven/dev.zio/zio-aws-pipes_2.12@7.31.52.1
+- pkg:maven/dev.zio/zio-aws-pipes_2.12@7.31.52.1?classifier=sources
+- pkg:maven/dev.zio/zio-aws-pipes_2.12@7.31.52.2
+- pkg:maven/dev.zio/zio-aws-pipes_2.12@7.31.52.2?classifier=sources
 - pkg:maven/dev.zio/zio-aws-pipes_2.12@7.31.6.1
 - pkg:maven/dev.zio/zio-aws-pipes_2.12@7.31.6.1?classifier=sources
 - pkg:maven/dev.zio/zio-aws-pipes_2.12@7.31.6.2

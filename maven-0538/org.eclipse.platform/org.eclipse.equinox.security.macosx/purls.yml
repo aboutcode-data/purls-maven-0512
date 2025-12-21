@@ -20,3 +20,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.security.macosx@1.102.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.security.macosx@1.102.400
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.security.macosx@1.102.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.security.macosx@1.102.500
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.security.macosx@1.102.500?classifier=sources

@@ -70,6 +70,7 @@
 - pkg:maven/com.vaadin/vaadin-combo-box-testbench@14.12.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-testbench@14.12.8
 - pkg:maven/com.vaadin/vaadin-combo-box-testbench@14.12.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-combo-box-testbench@14.13.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-testbench@14.5.0
 - pkg:maven/com.vaadin/vaadin-combo-box-testbench@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-testbench@14.5.1
@@ -551,6 +552,7 @@
 - pkg:maven/com.vaadin/vaadin-combo-box-testbench@23.5.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-testbench@23.5.9
 - pkg:maven/com.vaadin/vaadin-combo-box-testbench@23.5.9?classifier=sources
+- pkg:maven/com.vaadin/vaadin-combo-box-testbench@23.6.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-testbench@24.0.0
 - pkg:maven/com.vaadin/vaadin-combo-box-testbench@24.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-testbench@24.0.1

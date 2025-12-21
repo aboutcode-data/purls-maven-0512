@@ -36,3 +36,5 @@
 - pkg:maven/com.github.jobservice/job-service-client@5.1.0-310?classifier=sources
 - pkg:maven/com.github.jobservice/job-service-client@5.1.1-365
 - pkg:maven/com.github.jobservice/job-service-client@5.1.1-365?classifier=sources
+- pkg:maven/com.github.jobservice/job-service-client@5.2.0-507
+- pkg:maven/com.github.jobservice/job-service-client@5.2.0-507?classifier=sources

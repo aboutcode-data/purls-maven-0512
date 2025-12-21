@@ -68,6 +68,11 @@
 - pkg:maven/com.gu/fapiclient_core_3@18.1.0?classifier=sources
 - pkg:maven/com.gu/fapiclient_core_3@18.1.1
 - pkg:maven/com.gu/fapiclient_core_3@18.1.1?classifier=sources
+- pkg:maven/com.gu/fapiclient_core_3@19.0.0
+- pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.abmedia-atom-model.2025-06-02T1753.f4c84cbe
+- pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.abmedia-atom-model.2025-06-02T1753.f4c84cbe?classifier=sources
+- pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.abmedia-atom-model.2025-06-03T1024.27743026
+- pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.abmedia-atom-model.2025-06-03T1024.27743026?classifier=sources
 - pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-04-14T1417.bc08f21d
 - pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-04-14T1417.bc08f21d?classifier=sources
 - pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-04-24T1539.ea7f07a0
@@ -82,3 +87,12 @@
 - pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-05-19T1446.753b9c8c?classifier=sources
 - pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-05-20T0845.d382d883
 - pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-05-20T0845.d382d883?classifier=sources
+- pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-05-21T1547.ff60e956
+- pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-05-21T1547.ff60e956?classifier=sources
+- pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-05-22T1203.a24e2b9c
+- pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-05-22T1203.a24e2b9c?classifier=sources
+- pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-05-28T0836.e2495db5
+- pkg:maven/com.gu/fapiclient_core_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-05-28T0836.e2495db5?classifier=sources
+- pkg:maven/com.gu/fapiclient_core_3@19.0.0?classifier=sources
+- pkg:maven/com.gu/fapiclient_core_3@20.0.0
+- pkg:maven/com.gu/fapiclient_core_3@20.0.0?classifier=sources

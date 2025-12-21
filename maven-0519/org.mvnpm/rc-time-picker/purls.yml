@@ -1,0 +1,8 @@
+- pkg:maven/org.mvnpm/rc-time-picker@1.1.6
+- pkg:maven/org.mvnpm/rc-time-picker@1.1.6?classifier=sources
+- pkg:maven/org.mvnpm/rc-time-picker@3.4.0
+- pkg:maven/org.mvnpm/rc-time-picker@3.4.0?classifier=sources
+- pkg:maven/org.mvnpm/rc-time-picker@3.6.6
+- pkg:maven/org.mvnpm/rc-time-picker@3.6.6?classifier=sources
+- pkg:maven/org.mvnpm/rc-time-picker@3.7.3
+- pkg:maven/org.mvnpm/rc-time-picker@3.7.3?classifier=sources

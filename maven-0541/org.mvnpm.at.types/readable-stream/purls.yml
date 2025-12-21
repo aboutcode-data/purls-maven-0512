@@ -1,3 +1,7 @@
 - pkg:maven/org.mvnpm.at.types/readable-stream@4.0.18?classifier=sources
 - pkg:maven/org.mvnpm.at.types/readable-stream@4.0.19
 - pkg:maven/org.mvnpm.at.types/readable-stream@4.0.19?classifier=sources
+- pkg:maven/org.mvnpm.at.types/readable-stream@4.0.20
+- pkg:maven/org.mvnpm.at.types/readable-stream@4.0.20?classifier=sources
+- pkg:maven/org.mvnpm.at.types/readable-stream@4.0.21
+- pkg:maven/org.mvnpm.at.types/readable-stream@4.0.21?classifier=sources

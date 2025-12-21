@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/react-highlight-words@0.20.0
+- pkg:maven/org.mvnpm/react-highlight-words@0.20.0?classifier=sources

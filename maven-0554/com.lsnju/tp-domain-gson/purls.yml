@@ -1,1 +1,2 @@
 - pkg:maven/com.lsnju/tp-domain-gson@2.7.22?classifier=sources
+- pkg:maven/com.lsnju/tp-domain-gson@2.7.23?classifier=sources

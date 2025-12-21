@@ -26,3 +26,7 @@
 - pkg:maven/org.klojang/klojang-invoke@21.3.0?classifier=sources
 - pkg:maven/org.klojang/klojang-invoke@24.0.0
 - pkg:maven/org.klojang/klojang-invoke@24.0.0?classifier=sources
+- pkg:maven/org.klojang/klojang-invoke@24.1.0
+- pkg:maven/org.klojang/klojang-invoke@24.1.0?classifier=sources
+- pkg:maven/org.klojang/klojang-invoke@24.2.0
+- pkg:maven/org.klojang/klojang-invoke@24.2.0?classifier=sources

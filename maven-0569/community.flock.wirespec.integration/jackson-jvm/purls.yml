@@ -38,6 +38,7 @@
 - pkg:maven/community.flock.wirespec.integration/jackson-jvm@0.14.28?classifier=sources
 - pkg:maven/community.flock.wirespec.integration/jackson-jvm@0.14.30?classifier=sources
 - pkg:maven/community.flock.wirespec.integration/jackson-jvm@0.14.3?classifier=sources
+- pkg:maven/community.flock.wirespec.integration/jackson-jvm@0.15.2?classifier=sources
 - pkg:maven/community.flock.wirespec.integration/jackson-jvm@0.8.45?classifier=sources
 - pkg:maven/community.flock.wirespec.integration/jackson-jvm@0.8.46?classifier=sources
 - pkg:maven/community.flock.wirespec.integration/jackson-jvm@0.8.51?classifier=sources

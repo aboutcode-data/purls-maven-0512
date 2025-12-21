@@ -315,6 +315,7 @@
 - pkg:maven/com.vaadin/vaadin-virtual-list-flow@23.5.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-flow@23.5.9
 - pkg:maven/com.vaadin/vaadin-virtual-list-flow@23.5.9?classifier=sources
+- pkg:maven/com.vaadin/vaadin-virtual-list-flow@23.6.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-flow@24.0.0
 - pkg:maven/com.vaadin/vaadin-virtual-list-flow@24.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-flow@24.0.1

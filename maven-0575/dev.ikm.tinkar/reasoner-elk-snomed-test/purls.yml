@@ -1,0 +1,8 @@
+- pkg:maven/dev.ikm.tinkar/reasoner-elk-snomed-test@1.104.0
+- pkg:maven/dev.ikm.tinkar/reasoner-elk-snomed-test@1.104.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/reasoner-elk-snomed-test@1.105.0
+- pkg:maven/dev.ikm.tinkar/reasoner-elk-snomed-test@1.105.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/reasoner-elk-snomed-test@1.106.0
+- pkg:maven/dev.ikm.tinkar/reasoner-elk-snomed-test@1.106.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/reasoner-elk-snomed-test@1.107.0
+- pkg:maven/dev.ikm.tinkar/reasoner-elk-snomed-test@1.107.0?classifier=sources

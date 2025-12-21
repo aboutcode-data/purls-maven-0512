@@ -1,3 +1,4 @@
 - pkg:maven/ru.t-technologies.invest.piapi.kotlin/kotlin-sdk-grpc-contract@1.27.0?classifier=sources
 - pkg:maven/ru.t-technologies.invest.piapi.kotlin/kotlin-sdk-grpc-contract@1.30.0?classifier=sources
 - pkg:maven/ru.t-technologies.invest.piapi.kotlin/kotlin-sdk-grpc-contract@1.33.0?classifier=sources
+- pkg:maven/ru.t-technologies.invest.piapi.kotlin/kotlin-sdk-grpc-contract@1.35.0?classifier=sources

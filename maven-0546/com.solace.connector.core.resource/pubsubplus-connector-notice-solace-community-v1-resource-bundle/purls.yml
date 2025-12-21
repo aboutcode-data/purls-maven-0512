@@ -86,6 +86,10 @@
 - pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-notice-solace-community-v1-resource-bundle@2.15.2?classifier=sources
 - pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-notice-solace-community-v1-resource-bundle@2.15.3
 - pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-notice-solace-community-v1-resource-bundle@2.15.3?classifier=sources
+- pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-notice-solace-community-v1-resource-bundle@2.15.4
+- pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-notice-solace-community-v1-resource-bundle@2.15.4?classifier=sources
+- pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-notice-solace-community-v1-resource-bundle@2.15.5
+- pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-notice-solace-community-v1-resource-bundle@2.15.5?classifier=sources
 - pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-notice-solace-community-v1-resource-bundle@2.2.0
 - pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-notice-solace-community-v1-resource-bundle@2.2.0?classifier=sources
 - pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-notice-solace-community-v1-resource-bundle@2.2.1

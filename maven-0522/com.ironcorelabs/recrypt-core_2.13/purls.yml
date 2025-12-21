@@ -2,3 +2,5 @@
 - pkg:maven/com.ironcorelabs/recrypt-core_2.13@5.0.0?classifier=sources
 - pkg:maven/com.ironcorelabs/recrypt-core_2.13@6.0.0
 - pkg:maven/com.ironcorelabs/recrypt-core_2.13@6.0.0?classifier=sources
+- pkg:maven/com.ironcorelabs/recrypt-core_2.13@6.0.1
+- pkg:maven/com.ironcorelabs/recrypt-core_2.13@6.0.1?classifier=sources

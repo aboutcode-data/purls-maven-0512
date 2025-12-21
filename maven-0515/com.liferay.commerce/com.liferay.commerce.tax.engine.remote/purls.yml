@@ -65,6 +65,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.remote@1.0.31?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.remote@1.0.32?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.remote@1.0.33?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.remote@1.0.34?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.remote@1.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.remote@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.remote@1.0.4

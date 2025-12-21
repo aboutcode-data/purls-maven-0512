@@ -678,6 +678,14 @@
 - pkg:maven/io.github.cdklabs/cdk-ecs-codedeploy@0.0.410?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-ecs-codedeploy@0.0.411
 - pkg:maven/io.github.cdklabs/cdk-ecs-codedeploy@0.0.411?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-ecs-codedeploy@0.0.412
+- pkg:maven/io.github.cdklabs/cdk-ecs-codedeploy@0.0.412?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-ecs-codedeploy@0.0.413
+- pkg:maven/io.github.cdklabs/cdk-ecs-codedeploy@0.0.413?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-ecs-codedeploy@0.0.414
+- pkg:maven/io.github.cdklabs/cdk-ecs-codedeploy@0.0.414?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-ecs-codedeploy@0.0.415
+- pkg:maven/io.github.cdklabs/cdk-ecs-codedeploy@0.0.415?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-ecs-codedeploy@0.0.41?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-ecs-codedeploy@0.0.42
 - pkg:maven/io.github.cdklabs/cdk-ecs-codedeploy@0.0.42?classifier=sources

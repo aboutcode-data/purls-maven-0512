@@ -78,3 +78,4 @@
 - pkg:maven/org.openrewrite/rewrite-polyglot@2.1.6?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-polyglot@2.2.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-polyglot@2.2.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-polyglot@2.3.0?classifier=sources

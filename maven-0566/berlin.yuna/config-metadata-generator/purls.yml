@@ -190,6 +190,10 @@
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.180?classifier=sources
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.181
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.181?classifier=sources
+- pkg:maven/berlin.yuna/config-metadata-generator@0.6.182
+- pkg:maven/berlin.yuna/config-metadata-generator@0.6.182?classifier=sources
+- pkg:maven/berlin.yuna/config-metadata-generator@0.6.183
+- pkg:maven/berlin.yuna/config-metadata-generator@0.6.183?classifier=sources
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.18?classifier=sources
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.19
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.19?classifier=sources
@@ -362,3 +366,6 @@
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.99
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.99?classifier=sources
 - pkg:maven/berlin.yuna/config-metadata-generator@0.6.9?classifier=sources
+- pkg:maven/berlin.yuna/config-metadata-generator@2025.06.1520948?classifier=sources
+- pkg:maven/berlin.yuna/config-metadata-generator@2025.06.1590511?classifier=sources
+- pkg:maven/berlin.yuna/config-metadata-generator@2025.06.1650511?classifier=sources

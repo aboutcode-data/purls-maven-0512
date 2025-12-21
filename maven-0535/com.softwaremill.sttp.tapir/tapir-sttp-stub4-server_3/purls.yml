@@ -14,3 +14,5 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_3@1.11.30?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_3@1.11.32
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_3@1.11.32?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_3@1.11.33
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_3@1.11.33?classifier=sources

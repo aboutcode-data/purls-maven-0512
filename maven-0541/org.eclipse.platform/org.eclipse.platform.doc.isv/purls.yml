@@ -24,6 +24,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.platform.doc.isv@4.33.0
 - pkg:maven/org.eclipse.platform/org.eclipse.platform.doc.isv@4.34.0
 - pkg:maven/org.eclipse.platform/org.eclipse.platform.doc.isv@4.35.0
+- pkg:maven/org.eclipse.platform/org.eclipse.platform.doc.isv@4.36.0
 - pkg:maven/org.eclipse.platform/org.eclipse.platform.doc.isv@4.6.2
 - pkg:maven/org.eclipse.platform/org.eclipse.platform.doc.isv@4.7.0
 - pkg:maven/org.eclipse.platform/org.eclipse.platform.doc.isv@4.7.1

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kdroidfilter/storekit-fdroid-core-mingwx64@0.5.0?classifier=sources
+- pkg:maven/io.github.kdroidfilter/storekit-fdroid-core-mingwx64@0.6.0?classifier=sources

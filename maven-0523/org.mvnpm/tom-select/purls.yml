@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/tom-select@2.3.1?classifier=sources
 - pkg:maven/org.mvnpm/tom-select@2.4.1?classifier=sources
+- pkg:maven/org.mvnpm/tom-select@2.4.3
+- pkg:maven/org.mvnpm/tom-select@2.4.3?classifier=sources

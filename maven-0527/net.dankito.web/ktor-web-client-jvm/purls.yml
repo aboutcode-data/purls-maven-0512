@@ -1,2 +1,3 @@
 - pkg:maven/net.dankito.web/ktor-web-client-jvm@1.0.0?classifier=sources
 - pkg:maven/net.dankito.web/ktor-web-client-jvm@1.1.0?classifier=sources
+- pkg:maven/net.dankito.web/ktor-web-client-jvm@1.5.0?classifier=sources

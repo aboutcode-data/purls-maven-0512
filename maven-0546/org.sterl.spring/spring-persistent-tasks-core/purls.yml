@@ -52,3 +52,7 @@
 - pkg:maven/org.sterl.spring/spring-persistent-tasks-core@1.6.6?classifier=sources
 - pkg:maven/org.sterl.spring/spring-persistent-tasks-core@1.6.7
 - pkg:maven/org.sterl.spring/spring-persistent-tasks-core@1.6.7?classifier=sources
+- pkg:maven/org.sterl.spring/spring-persistent-tasks-core@1.7.0
+- pkg:maven/org.sterl.spring/spring-persistent-tasks-core@1.7.0?classifier=sources
+- pkg:maven/org.sterl.spring/spring-persistent-tasks-core@2.0.0
+- pkg:maven/org.sterl.spring/spring-persistent-tasks-core@2.0.0?classifier=sources

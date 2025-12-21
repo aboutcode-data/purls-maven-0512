@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.supabase/supabase-js@2.50.0
+- pkg:maven/org.mvnpm.at.supabase/supabase-js@2.50.0?classifier=sources

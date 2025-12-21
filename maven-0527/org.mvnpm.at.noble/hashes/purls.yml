@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.noble/hashes@1.8.0
+- pkg:maven/org.mvnpm.at.noble/hashes@1.8.0?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui@3.207.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui@3.207.100
 - pkg:maven/org.eclipse.platform/org.eclipse.ui@3.207.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui@3.207.200
+- pkg:maven/org.eclipse.platform/org.eclipse.ui@3.207.200?classifier=sources

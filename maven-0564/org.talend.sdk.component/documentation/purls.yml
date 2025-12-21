@@ -338,5 +338,7 @@
 - pkg:maven/org.talend.sdk.component/documentation@1.80.1?classifier=sources
 - pkg:maven/org.talend.sdk.component/documentation@1.81.0
 - pkg:maven/org.talend.sdk.component/documentation@1.81.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/documentation@1.82.0
+- pkg:maven/org.talend.sdk.component/documentation@1.82.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/documentation@10.57.0
 - pkg:maven/org.talend.sdk.component/documentation@10.57.0?classifier=sources

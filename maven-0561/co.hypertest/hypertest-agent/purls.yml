@@ -33,3 +33,7 @@
 - pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.78?classifier=sources
 - pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.79?classifier=sources
 - pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.80?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.81?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.82?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.83?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent@0.1.13-alpha.84?classifier=sources

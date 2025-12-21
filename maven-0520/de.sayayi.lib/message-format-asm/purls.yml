@@ -1,1 +1,2 @@
 - pkg:maven/de.sayayi.lib/message-format-asm@0.12.0?classifier=sources
+- pkg:maven/de.sayayi.lib/message-format-asm@0.20.0?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/dev.galasa/dev.galasa.framework.api.resources@0.39.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.api.resources@0.40.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.api.resources@0.41.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.framework.api.resources@0.42.0?classifier=sources

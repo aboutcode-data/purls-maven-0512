@@ -60,6 +60,7 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@3.20.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@3.20.1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@3.22.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@3.23.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@3.5.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-devmode@3.6.0

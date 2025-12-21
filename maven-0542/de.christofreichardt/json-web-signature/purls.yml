@@ -1,2 +1,3 @@
 - pkg:maven/de.christofreichardt/json-web-signature@1.0.0-beta
 - pkg:maven/de.christofreichardt/json-web-signature@1.0.0-beta?classifier=sources
+- pkg:maven/de.christofreichardt/json-web-signature@1.0.0-rc1?classifier=sources

@@ -306,3 +306,5 @@
 - pkg:maven/com.gu/content-api-models-json_2.12@27.1.0-PREVIEW.ansunday-quick-crossword.2025-03-24T1133.b7edcbfa
 - pkg:maven/com.gu/content-api-models-json_2.12@27.1.0-PREVIEW.ansunday-quick-crossword.2025-03-24T1133.b7edcbfa?classifier=sources
 - pkg:maven/com.gu/content-api-models-json_2.12@27.1.0?classifier=sources
+- pkg:maven/com.gu/content-api-models-json_2.12@28.0.0
+- pkg:maven/com.gu/content-api-models-json_2.12@28.0.0?classifier=sources

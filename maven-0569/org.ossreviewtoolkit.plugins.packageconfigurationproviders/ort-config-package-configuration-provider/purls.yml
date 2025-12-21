@@ -93,6 +93,8 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/ort-config-package-configuration-provider@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/ort-config-package-configuration-provider@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/ort-config-package-configuration-provider@6.1.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/ort-config-package-configuration-provider@60.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/ort-config-package-configuration-provider@61.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/ort-config-package-configuration-provider@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/ort-config-package-configuration-provider@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/ort-config-package-configuration-provider@8.0.0?classifier=sources

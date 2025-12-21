@@ -1,2 +1,4 @@
 - pkg:maven/io.github.jason-gogolook/safeconnection_core@1.0.0?classifier=sources
 - pkg:maven/io.github.jason-gogolook/safeconnection_core@1.0.0?type=aar
+- pkg:maven/io.github.jason-gogolook/safeconnection_core@1.1.0?classifier=sources
+- pkg:maven/io.github.jason-gogolook/safeconnection_core@1.1.0?type=aar

@@ -62,6 +62,14 @@
 - pkg:maven/uk.gov.nationalarchives/preservica-client-root_3@0.0.130?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/preservica-client-root_3@0.0.131
 - pkg:maven/uk.gov.nationalarchives/preservica-client-root_3@0.0.131?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/preservica-client-root_3@0.0.132
+- pkg:maven/uk.gov.nationalarchives/preservica-client-root_3@0.0.132?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/preservica-client-root_3@0.0.133
+- pkg:maven/uk.gov.nationalarchives/preservica-client-root_3@0.0.133?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/preservica-client-root_3@0.0.134
+- pkg:maven/uk.gov.nationalarchives/preservica-client-root_3@0.0.134?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/preservica-client-root_3@0.0.135
+- pkg:maven/uk.gov.nationalarchives/preservica-client-root_3@0.0.135?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/preservica-client-root_3@0.0.2
 - pkg:maven/uk.gov.nationalarchives/preservica-client-root_3@0.0.2?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/preservica-client-root_3@0.0.63

@@ -24,3 +24,5 @@
 - pkg:maven/net.optionfactory.spring/authentication-resource-server@21.8?classifier=sources
 - pkg:maven/net.optionfactory.spring/authentication-resource-server@21.9
 - pkg:maven/net.optionfactory.spring/authentication-resource-server@21.9?classifier=sources
+- pkg:maven/net.optionfactory.spring/authentication-resource-server@22.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/authentication-resource-server@22.1?classifier=sources

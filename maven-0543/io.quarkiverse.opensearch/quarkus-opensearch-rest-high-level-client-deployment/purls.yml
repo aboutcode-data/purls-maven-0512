@@ -127,3 +127,4 @@
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-rest-high-level-client-deployment@1.9.6?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-rest-high-level-client-deployment@1.9.7
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-rest-high-level-client-deployment@1.9.7?classifier=sources
+- pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-rest-high-level-client-deployment@2.0.0.CR1?classifier=sources

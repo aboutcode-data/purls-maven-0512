@@ -1,2 +1,4 @@
 - pkg:maven/com.databricks/sjsonnet-server_3@0.5.1
 - pkg:maven/com.databricks/sjsonnet-server_3@0.5.1?classifier=sources
+- pkg:maven/com.databricks/sjsonnet-server_3@0.5.2
+- pkg:maven/com.databricks/sjsonnet-server_3@0.5.2?classifier=sources

@@ -39,6 +39,7 @@
 - pkg:maven/ai.freeplay/client@0.2.58?classifier=sources
 - pkg:maven/ai.freeplay/client@0.2.59?classifier=sources
 - pkg:maven/ai.freeplay/client@0.2.61?classifier=sources
+- pkg:maven/ai.freeplay/client@0.2.62?classifier=sources
 - pkg:maven/ai.freeplay/client@0.2.6?classifier=sources
 - pkg:maven/ai.freeplay/client@0.2.8?classifier=sources
 - pkg:maven/ai.freeplay/client@0.2.9?classifier=sources

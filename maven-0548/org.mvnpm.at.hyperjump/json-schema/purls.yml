@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.hyperjump/json-schema@1.14.1
+- pkg:maven/org.mvnpm.at.hyperjump/json-schema@1.14.1?classifier=sources

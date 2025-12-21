@@ -336,3 +336,5 @@
 - pkg:maven/io.split.client/android-client@5.2.0-rc1?classifier=sources
 - pkg:maven/io.split.client/android-client@5.2.0?classifier=sources
 - pkg:maven/io.split.client/android-client@5.3.0-rc1?classifier=sources
+- pkg:maven/io.split.client/android-client@5.3.0-rc2?classifier=sources
+- pkg:maven/io.split.client/android-client@5.3.0?classifier=sources

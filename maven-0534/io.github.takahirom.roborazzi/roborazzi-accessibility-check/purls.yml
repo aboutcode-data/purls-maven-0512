@@ -16,3 +16,5 @@
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-accessibility-check@1.44.0-alpha02?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-accessibility-check@1.44.0-alpha03?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-accessibility-check@1.44.0-alpha04?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-accessibility-check@1.44.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-accessibility-check@1.45.1?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.azureservices/quarkus-azure-servicebus-deployment@1.1.5?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.wildfly/mvc-krazo-tck-runner@1.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly/mvc-krazo-tck-runner@1.0.1.Final
 - pkg:maven/org.wildfly/mvc-krazo-tck-runner@1.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly/mvc-krazo-tck-runner@2.0.0.Final
+- pkg:maven/org.wildfly/mvc-krazo-tck-runner@2.0.0.Final?classifier=sources

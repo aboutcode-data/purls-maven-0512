@@ -10,3 +10,5 @@
 - pkg:maven/com.armanbilge/scala-native-config-brew_3@0.2.0-RC1?classifier=sources
 - pkg:maven/com.armanbilge/scala-native-config-brew_3@0.3.0
 - pkg:maven/com.armanbilge/scala-native-config-brew_3@0.3.0?classifier=sources
+- pkg:maven/com.armanbilge/scala-native-config-brew_3@0.4.0
+- pkg:maven/com.armanbilge/scala-native-config-brew_3@0.4.0?classifier=sources

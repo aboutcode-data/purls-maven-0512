@@ -42,3 +42,4 @@
 - pkg:maven/ru.astrainteractive.gradleplugin/convention@1.6.12?classifier=sources
 - pkg:maven/ru.astrainteractive.gradleplugin/convention@1.6.13?classifier=sources
 - pkg:maven/ru.astrainteractive.gradleplugin/convention@1.7.0?classifier=sources
+- pkg:maven/ru.astrainteractive.gradleplugin/convention@1.8.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/ca.dvgi/periodic-pekko-stream_3@0.6.0?classifier=sources
 - pkg:maven/ca.dvgi/periodic-pekko-stream_3@0.7.0
 - pkg:maven/ca.dvgi/periodic-pekko-stream_3@0.7.0?classifier=sources
+- pkg:maven/ca.dvgi/periodic-pekko-stream_3@0.8.0
+- pkg:maven/ca.dvgi/periodic-pekko-stream_3@0.8.0?classifier=sources

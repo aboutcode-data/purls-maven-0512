@@ -384,6 +384,8 @@
 - pkg:maven/org.infinispan/infinispan-jcache-remote@15.2.1.Final
 - pkg:maven/org.infinispan/infinispan-jcache-remote@15.2.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-jcache-remote@15.2.2.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-jcache-remote@15.2.3.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-jcache-remote@15.2.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-jcache-remote@16.0.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-jcache-remote@7.2.0.Beta1
 - pkg:maven/org.infinispan/infinispan-jcache-remote@7.2.0.Beta1?classifier=sources

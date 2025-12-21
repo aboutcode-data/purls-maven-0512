@@ -1,0 +1,4 @@
+- pkg:maven/pl.wtx.woocommerce/woocommerce-api-client@0.9.5
+- pkg:maven/pl.wtx.woocommerce/woocommerce-api-client@0.9.5?classifier=sources
+- pkg:maven/pl.wtx.woocommerce/woocommerce-api-client@0.9.6
+- pkg:maven/pl.wtx.woocommerce/woocommerce-api-client@0.9.6?classifier=sources

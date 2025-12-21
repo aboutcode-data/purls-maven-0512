@@ -125,6 +125,8 @@
 - pkg:maven/org.webjars.npm/babel__runtime@7.26.9
 - pkg:maven/org.webjars.npm/babel__runtime@7.27.0
 - pkg:maven/org.webjars.npm/babel__runtime@7.27.1
+- pkg:maven/org.webjars.npm/babel__runtime@7.27.4
+- pkg:maven/org.webjars.npm/babel__runtime@7.27.6
 - pkg:maven/org.webjars.npm/babel__runtime@7.3.1
 - pkg:maven/org.webjars.npm/babel__runtime@7.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/babel__runtime@7.3.4

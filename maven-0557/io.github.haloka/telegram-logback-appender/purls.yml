@@ -1,0 +1,1 @@
+- pkg:maven/io.github.haloka/telegram-logback-appender@1.0?classifier=sources

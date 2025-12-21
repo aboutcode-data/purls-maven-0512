@@ -13,3 +13,5 @@
 - pkg:maven/io.dapr.spring/dapr-spring-boot-starter-test@0.15.0-rc-3
 - pkg:maven/io.dapr.spring/dapr-spring-boot-starter-test@0.15.0-rc-4
 - pkg:maven/io.dapr.spring/dapr-spring-boot-starter-test@0.15.0-rc-5
+- pkg:maven/io.dapr.spring/dapr-spring-boot-starter-test@0.15.0-rc-6
+- pkg:maven/io.dapr.spring/dapr-spring-boot-starter-test@0.15.0-rc-7

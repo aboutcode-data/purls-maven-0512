@@ -14,3 +14,4 @@
 - pkg:maven/dev.bannmann.labs.json-nav/nav-jackson@0.32?classifier=sources
 - pkg:maven/dev.bannmann.labs.json-nav/nav-jackson@0.33
 - pkg:maven/dev.bannmann.labs.json-nav/nav-jackson@0.33?classifier=sources
+- pkg:maven/dev.bannmann.labs.json-nav/nav-jackson@0.34?classifier=sources

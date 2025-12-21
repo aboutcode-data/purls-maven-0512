@@ -1,0 +1,3 @@
+- pkg:maven/org.http4k.pro/http4k-ai-mcp-client@6.12.0.0?classifier=sources
+- pkg:maven/org.http4k.pro/http4k-ai-mcp-client@6.13.0.0?classifier=sources
+- pkg:maven/org.http4k.pro/http4k-ai-mcp-client@6.14.0.0?classifier=sources

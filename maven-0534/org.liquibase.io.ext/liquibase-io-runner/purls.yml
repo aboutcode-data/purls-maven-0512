@@ -4,3 +4,5 @@
 - pkg:maven/org.liquibase.io.ext/liquibase-io-runner@0.1.29?classifier=sources
 - pkg:maven/org.liquibase.io.ext/liquibase-io-runner@0.1.30
 - pkg:maven/org.liquibase.io.ext/liquibase-io-runner@0.1.30?classifier=sources
+- pkg:maven/org.liquibase.io.ext/liquibase-io-runner@0.2.0
+- pkg:maven/org.liquibase.io.ext/liquibase-io-runner@0.2.0?classifier=sources

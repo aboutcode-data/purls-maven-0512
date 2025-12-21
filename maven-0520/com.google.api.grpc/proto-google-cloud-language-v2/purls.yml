@@ -72,3 +72,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-language-v2@2.63.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-language-v2@2.64.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-language-v2@2.64.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-language-v2@2.65.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-language-v2@2.65.0?classifier=sources

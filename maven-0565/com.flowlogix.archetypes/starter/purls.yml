@@ -34,3 +34,11 @@
 - pkg:maven/com.flowlogix.archetypes/starter@54?classifier=sources
 - pkg:maven/com.flowlogix.archetypes/starter@55?classifier=sources
 - pkg:maven/com.flowlogix.archetypes/starter@56?classifier=sources
+- pkg:maven/com.flowlogix.archetypes/starter@57?classifier=sources
+- pkg:maven/com.flowlogix.archetypes/starter@58?classifier=sources
+- pkg:maven/com.flowlogix.archetypes/starter@59?classifier=sources
+- pkg:maven/com.flowlogix.archetypes/starter@60?classifier=sources
+- pkg:maven/com.flowlogix.archetypes/starter@61?classifier=sources
+- pkg:maven/com.flowlogix.archetypes/starter@62?classifier=sources
+- pkg:maven/com.flowlogix.archetypes/starter@63?classifier=sources
+- pkg:maven/com.flowlogix.archetypes/starter@64?classifier=sources

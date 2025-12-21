@@ -27,6 +27,8 @@
 - pkg:maven/com.freeletics.gradle/minify-crashlytics@0.23.0?classifier=sources
 - pkg:maven/com.freeletics.gradle/minify-crashlytics@0.23.1?classifier=sources
 - pkg:maven/com.freeletics.gradle/minify-crashlytics@0.24.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/minify-crashlytics@0.25.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/minify-crashlytics@0.26.0?classifier=sources
 - pkg:maven/com.freeletics.gradle/minify-crashlytics@0.3.0?classifier=sources
 - pkg:maven/com.freeletics.gradle/minify-crashlytics@0.3.1?classifier=sources
 - pkg:maven/com.freeletics.gradle/minify-crashlytics@0.3.2?classifier=sources

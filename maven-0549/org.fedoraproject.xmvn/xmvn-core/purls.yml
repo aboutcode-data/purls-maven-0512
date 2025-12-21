@@ -10,3 +10,4 @@
 - pkg:maven/org.fedoraproject.xmvn/xmvn-core@4.2.0?classifier=sources
 - pkg:maven/org.fedoraproject.xmvn/xmvn-core@4.3.0
 - pkg:maven/org.fedoraproject.xmvn/xmvn-core@4.3.0?classifier=sources
+- pkg:maven/org.fedoraproject.xmvn/xmvn-core@5.0.0?classifier=sources

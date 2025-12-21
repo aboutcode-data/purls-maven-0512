@@ -1,3 +1,4 @@
+- pkg:maven/org.webjars.npm/open@10.1.2
 - pkg:maven/org.webjars.npm/open@6.0.0
 - pkg:maven/org.webjars.npm/open@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/open@7.0.4

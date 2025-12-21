@@ -32,3 +32,4 @@
 - pkg:maven/io.micronaut.rxjava3/micronaut-rxjava3@3.5.0?classifier=sources
 - pkg:maven/io.micronaut.rxjava3/micronaut-rxjava3@3.6.0?classifier=sources
 - pkg:maven/io.micronaut.rxjava3/micronaut-rxjava3@3.7.0?classifier=sources
+- pkg:maven/io.micronaut.rxjava3/micronaut-rxjava3@3.8.0?classifier=sources

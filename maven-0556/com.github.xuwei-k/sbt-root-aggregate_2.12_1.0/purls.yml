@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xuwei-k/sbt-root-aggregate_2.12_1.0@0.1.0
+- pkg:maven/com.github.xuwei-k/sbt-root-aggregate_2.12_1.0@0.1.0?classifier=sources
